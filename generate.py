@@ -13,7 +13,13 @@ from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
 # ---------- Réglages ----------
-MODELS = ["gemini-flash-latest", "gemini-2.5-flash"]
+# Modèles essayés dans l'ordre (les 2 premiers sont retentés à la fin si besoin)
+MODELS = [
+    "gemini-3.8-flash",
+    "gemini-flash-latest",
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+]
 TIMEOUT = 150
 PARIS = ZoneInfo("Europe/Paris")
 DATA_DIR = "data"
@@ -131,8 +137,8 @@ def gemini(prompt):
         "Content-Type": "application/json",
         "x-goog-api-key": os.environ["GEMINI_API_KEY"],
     }
-    # 4 essais : 2 sur le modèle principal, puis 2 sur le modèle de secours
-    plan = [MODELS[0], MODELS[0], MODELS[1], MODELS[1]]
+    # Un essai par modèle, puis un second tour sur les 2 premiers
+    plan = MODELS + MODELS[:2]
     last_error = None
     for attempt, model in enumerate(plan):
         is_last = attempt == len(plan) - 1
@@ -146,27 +152,29 @@ def gemini(prompt):
             parts = data["candidates"][0]["content"]["parts"]
             text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
             text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip())
-            return json.loads(text)
+            result = json.loads(text)
+            print("Gemini OK avec " + model)
+            return result
         except urllib.error.HTTPError as e:
-            detail = e.read().decode("utf-8", "ignore")[:500]
+            detail = e.read().decode("utf-8", "ignore")[:300]
             print("[!] Erreur Gemini " + str(e.code) + " (" + model + ") : " + detail)
             last_error = e
-            if e.code in (404, 429, 500, 503, 504) and not is_last:
-                time.sleep(5 if e.code == 404 else 20)
+            if e.code in (400, 404, 429, 500, 503, 504) and not is_last:
+                time.sleep(3 if e.code in (400, 404) else 15)
                 continue
             raise
         except (json.JSONDecodeError, KeyError, IndexError) as e:
             print("[!] Réponse Gemini illisible (" + model + ") : " + str(e))
             last_error = e
             if not is_last:
-                time.sleep(5)
+                time.sleep(3)
                 continue
             raise
         except (TimeoutError, OSError) as e:
             print("[!] Gemini ne répond pas (" + model + ") : " + str(e))
             last_error = e
             if not is_last:
-                time.sleep(10)
+                time.sleep(5)
                 continue
             raise
     raise last_error
