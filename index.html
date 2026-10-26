@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Brief">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#0f172a">
+<title>Mon Brief</title>
+<link rel="manifest" href="manifest.json">
+<style>
+:root{--bg:#0f172a;--card:#1e293b;--txt:#f1f5f9;--mut:#94a3b8;--acc:#38bdf8;--ok:#22c55e;--ko:#ef4444}
+@media (prefers-color-scheme:light){:root{--bg:#f1f5f9;--card:#ffffff;--txt:#0f172a;--mut:#64748b;--acc:#0284c7}}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.5 -apple-system,system-ui,sans-serif;padding:env(safe-area-inset-top) 0 calc(76px + env(safe-area-inset-bottom))}
+header{padding:14px 16px 4px;display:flex;justify-content:space-between;align-items:center;max-width:720px;margin:0 auto}
+h1{font-size:22px;margin:0}
+.sub{color:var(--mut);font-size:13px}
+main{padding:8px 14px 20px;max-width:720px;margin:0 auto}
+h3{margin:22px 4px 8px;font-size:14px;text-transform:uppercase;letter-spacing:.05em;color:var(--mut);display:flex;justify-content:space-between;align-items:center}
+.card{background:var(--card);border-radius:14px;padding:12px 14px;margin:0 0 10px}
+.card summary{cursor:pointer;list-style:none}
+.card summary::-webkit-details-marker{display:none}
+.src{display:block;color:var(--mut);font-size:12px}
+.t{display:block;font-weight:600}
+.tag{display:inline-block;background:var(--acc);color:#04283a;border-radius:20px;padding:1px 10px;font-size:12px;font-weight:600;margin-bottom:6px}
+.row{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:8px}
+a{color:var(--acc)}
+button{font:inherit}
+.listen{background:transparent;border:1px solid var(--acc);color:var(--acc);border-radius:20px;padding:5px 12px;font-size:14px;text-transform:none;letter-spacing:0}
+.listen.on{background:var(--acc);color:#04283a}
+.btn.full{display:block;width:100%;background:var(--acc);color:#04283a;font-weight:600;padding:12px;margin-top:12px;border:0;border-radius:12px;font-size:16px}
+.choice{display:block;width:100%;text-align:left;background:var(--card);color:var(--txt);border:2px solid transparent;border-radius:12px;padding:12px 14px;margin:8px 0}
+.choice.good{border-color:var(--ok)}
+.choice.bad{border-color:var(--ko)}
+.q{font-size:19px;margin:6px 0 10px}
+.fb{margin-top:10px;font-size:15px}
+.big{font-size:40px;font-weight:700}
+.empty{color:var(--mut);text-align:center;padding:40px 10px}
+nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:var(--card);padding-bottom:env(safe-area-inset-bottom);border-top:1px solid rgba(148,163,184,.25)}
+nav button{flex:1;background:none;border:0;color:var(--mut);padding:10px 0 8px;font-size:12px}
+nav button span{display:block;font-size:20px}
+nav button.on{color:var(--acc)}
+.refresh{background:none;border:0;color:var(--acc);font-size:24px}
+</style>
+</head>
+<body>
+<header>
+  <div><h1>Mon Brief</h1><div class="sub" id="sub"></div></div>
+  <button class="refresh" id="refresh" aria-label="Actualiser">↻</button>
+</header>
+<main id="view"></main>
+<nav id="nav"></nav>
+
+<script>
+// ---------- Réglages ----------
+const RATE = 1.0;           // vitesse de la voix (0.8 = lent, 1.2 = rapide)
+const VOICE_NAME = "";      // nom d'une voix précise (vide = automatique)
+const QUIZ_REVISION = 10;   // questions par session de révision
+
+const TABS = [["actus","📰","Actus"],["culture","🧠","Culture G"],["quiz","❓","Quiz"],["revision","🔁","Révision"]];
+let tab = "actus", DATA = null, BANK = [];
+const view = document.getElementById("view");
+
+// ---------- Icône générée (pour l'écran d'accueil) ----------
+(function(){
+  try{
+    const c = document.createElement("canvas"); c.width = c.height = 180;
+    const g = c.getContext("2d");
+    g.fillStyle = "#0f172a"; g.fillRect(0,0,180,180);
+    g.fillStyle = "#38bdf8"; g.font = "bold 92px -apple-system,Helvetica,Arial";
+    g.textAlign = "center"; g.textBaseline = "middle"; g.fillText("MB",90,98);
+    const l = document.createElement("link");
+    l.rel = "apple-touch-icon"; l.href = c.toDataURL("image/png");
+    document.head.appendChild(l);
+  }catch(e){}
+})();
+
+// ---------- Outils ----------
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+};
+
+function el(tag, props, ...kids){
+  const e = document.createElement(tag);
+  for(const k in (props || {})){
+    if(k === "class") e.className = props[k];
+    else if(k === "onclick") e.onclick = props[k];
+    else e.setAttribute(k, props[k]);
+  }
+  kids.flat().forEach(c => { if(c !== null && c !== undefined && c !== false) e.append(c); });
+  return e;
+}
+
+function fmt(iso){
+  try{ return new Date(iso).toLocaleString("fr-FR",{weekday:"short",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}); }
+  catch(e){ return ""; }
+}
+
+function empty(msg){ view.append(el("div",{class:"empty"}, msg)); }
+
+// ---------- Lecture vocale ----------
+function pickVoice(){
+  const vs = speechSynthesis.getVoices().filter(v => v.lang && v.lang.toLowerCase().startsWith("fr"));
+  if(VOICE_NAME){ const m = vs.find(v => v.name === VOICE_NAME); if(m) return m; }
+  return vs.find(v => /enhanced|premium|améliorée/i.test(v.name)) || vs[0] || null;
+}
+
+function stopSpeech(){
+  if("speechSynthesis" in window) speechSynthesis.cancel();
+  document.querySelectorAll(".listen.on").forEach(b => b.classList.remove("on"));
+}
+
+function speak(texts, btn){
+  if(!("speechSynthesis" in window)){ alert("La lecture vocale n’est pas disponible ici."); return; }
+  const wasOn = btn.classList.contains("on");
+  stopSpeech();
+  if(wasOn) return;
+  btn.classList.add("on");
+  const clean = texts.filter(Boolean).map(t => String(t).trim()).map(t => /[.!?…]$/.test(t) ? t : t + ".");
+  const parts = clean.flatMap(t => t.match(/[^.!?…]+[.!?…]*\s*/g) || []);
+  const voice = pickVoice();
+  setTimeout(() => {
+    parts.forEach((p, i) => {
+      const u = new SpeechSynthesisUtterance(p.trim());
+      u.lang = "fr-FR"; u.rate = RATE;
+      if(voice) u.voice = voice;
+      if(i === parts.length - 1){
+        u.onend = () => btn.classList.remove("on");
+        u.onerror = () => btn.classList.remove("on");
+      }
+      speechSynthesis.speak(u);
+    });
+  }, 80);
+}
+
+// ---------- Actus ----------
+function articleCard(a){
+  const listen = el("button",{class:"listen"}, "🔊 Écouter");
+  listen.onclick = () => speak([a.titre, a.resume], listen);
+  return el("details",{class:"card"},
+    el("summary",{},
+      el("span",{class:"src"}, a.source + " · " + fmt(a.date)),
+      el("span",{class:"t"}, a.titre)),
+    el("p",{}, a.resume),
+    el("div",{class:"row"}, listen,
+      a.lien ? el("a",{href:a.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗") : null));
+}
+
+function addSection(title, list){
+  list = list || [];
+  if(!list.length) return;
+  const lb = el("button",{class:"listen"}, "🔊 Tout écouter");
+  lb.onclick = () => speak(list.flatMap(a => [a.titre, a.resume]), lb);
+  view.append(el("h3",{}, title, lb), ...list.map(articleCard));
+}
+
+function viewActus(){
+  if(!DATA){ empty("Pas encore de données. Lance le workflow dans GitHub (onglet Actions)."); return; }
+  const n = (DATA.depuis_hier||[]).length + (DATA.aujourdhui||[]).length;
+  if(!n) empty("Aucune actu pour le moment.");
+  addSection("Depuis hier", DATA.depuis_hier);
+  addSection("Aujourd’hui", DATA.aujourdhui);
+  const deja = DATA.deja_presente || [];
+  if(deja.length){
+    const d = el("details",{}, el("summary",{class:"sub"}, "Déjà présentées hier (" + deja.length + ")"));
+    deja.forEach(a => d.append(articleCard(a)));
+    view.append(el("div",{style:"margin-top:18px"}, d));
+  }
+}
+
+// ---------- Culture G ----------
+function viewCulture(){
+  const l = (DATA && DATA.culture) || [];
+  if(!l.length){ empty("Les fiches de culture générale arrivent avec le brief du matin."); return; }
+  l.forEach(c => {
+    const lb = el("button",{class:"listen"}, "🔊 Écouter");
+    lb.onclick = () => speak([c.titre, c.texte, c.a_retenir ? "À retenir : " + c.a_retenir : ""], lb);
+    view.append(el("div",{class:"card"},
+      el("span",{class:"tag"}, c.theme),
+      el("div",{class:"t"}, c.titre),
+      el("p",{}, c.texte),
+      c.a_retenir ? el("p",{}, el("strong",{}, "À retenir : "), c.a_retenir) : null,
+      el("div",{class:"row"}, lb)));
+  });
+}
+
+// ---------- Quiz ----------
+function record(id, ok){
+  const st = store.get("stats", {});
+  const s = st[id] || {ok:0, ko:0};
+  if(ok) s.ok++; else s.ko++;
+  s.last = new Date().toISOString().slice(0,10);
+  st[id] = s;
+  store.set("stats", st);
+}
+
+function runQuiz(root, questions, label, again){
+  let i = 0, score = 0;
+  function step(){
+    root.replaceChildren();
+    if(i >= questions.length){
+      root.append(el("div",{class:"card"},
+        el("div",{class:"big"}, score + " / " + questions.length),
+        el("p",{}, label + " terminé."),
+        again ? el("button",{class:"btn full", onclick:() => again()}, "Nouvelle session") : null));
+      return;
+    }
+    const q = questions[i];
+    let done = false;
+    const fb = el("div",{class:"fb"});
+    const next = el("button",{class:"btn full", onclick:() => { i++; step(); window.scrollTo(0,0); }},
+      i + 1 < questions.length ? "Question suivante" : "Voir le score");
+    next.style.display = "none";
+    const btns = q.choix.map((c, idx) => {
+      const b = el("button",{class:"choice"}, c);
+      b.onclick = () => {
+        if(done) return;
+        done = true;
+        const ok = idx === q.reponse;
+        if(ok) score++;
+        b.classList.add(ok ? "good" : "bad");
+        if(!ok) btns[q.reponse].classList.add("good");
+        record(q.id, ok);
+        fb.append(el("strong",{}, ok ? "Bonne réponse ! " : "Raté. "), q.explication || "");
+        if(q.lien) fb.append(el("div",{class:"row"}, el("a",{href:q.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗")));
+        next.style.display = "block";
+      };
+      return b;
+    });
+    root.append(
+      el("div",{class:"sub"}, label + " · " + (i+1) + "/" + questions.length + " · " + (q.type === "actu" ? "Actu" : "Culture")),
+      el("h2",{class:"q"}, q.question),
+      ...btns, fb, next);
+  }
+  step();
+}
+
+function viewQuiz(){
+  const qs = (DATA && DATA.quiz_jour) || [];
+  if(!qs.length){ empty("Le quiz du jour arrive avec le brief du soir (vers 20 h 45)."); return; }
+  const root = el("div"); view.append(root);
+  runQuiz(root, qs, "Quiz du jour");
+}
+
+// ---------- Révision ----------
+function pickRevision(){
+  const st = store.get("stats", {});
+  return BANK.map(q => {
+    const s = st[q.id];
+    let w = 2;
+    if(s) w = s.ko > s.ok ? 4 : (s.ko > 0 && s.ok - s.ko < 2 ? 3 : 1);
+    return {q, w: w + Math.random() * 1.5};
+  }).sort((a,b) => b.w - a.w).slice(0, QUIZ_REVISION).map(x => x.q).sort(() => Math.random() - 0.5);
+}
+
+function viewRevision(){
+  if(BANK.length < 3){ empty("La banque de questions se remplit chaque soir. Reviens après quelques quiz."); return; }
+  const st = store.get("stats", {});
+  const weak = BANK.filter(q => st[q.id] && st[q.id].ko > st[q.id].ok).length;
+  view.append(el("div",{class:"sub",style:"margin:6px 4px"}, BANK.length + " questions en banque · " + weak + " à retravailler"));
+  const root = el("div"); view.append(root);
+  const start = () => runQuiz(root, pickRevision(), "Révision", start);
+  start();
+}
+
+// ---------- Affichage ----------
+function render(){
+  stopSpeech();
+  document.getElementById("nav").replaceChildren(...TABS.map(([id, ic, lb]) =>
+    el("button",{class: id === tab ? "on" : "", onclick:() => { tab = id; render(); window.scrollTo(0,0); }}, el("span",{}, ic), lb)));
+  document.getElementById("sub").textContent = DATA ? "Mis à jour : " + fmt(DATA.updated) : "";
+  view.replaceChildren();
+  if(tab === "actus") viewActus();
+  else if(tab === "culture") viewCulture();
+  else if(tab === "quiz") viewQuiz();
+  else viewRevision();
+}
+
+async function load(){
+  try{
+    const r = await fetch("data/latest.json?t=" + Date.now(), {cache:"no-store"});
+    DATA = r.ok ? await r.json() : null;
+  }catch(e){ DATA = null; }
+  try{
+    const r = await fetch("data/quiz_bank.json?t=" + Date.now(), {cache:"no-store"});
+    if(r.ok){ const b = await r.json(); BANK = b.questions || []; }
+  }catch(e){}
+  render();
+}
+
+document.getElementById("refresh").onclick = load;
+load();
+</script>
+</body>
+</html>
