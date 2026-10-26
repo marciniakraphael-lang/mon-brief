@@ -13,7 +13,8 @@ from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
 # ---------- Réglages ----------
-MODEL = "gemini-flash-latest"
+MODELS = ["gemini-flash-latest", "gemini-2.5-flash"]
+TIMEOUT = 150
 PARIS = ZoneInfo("Europe/Paris")
 DATA_DIR = "data"
 LATEST = os.path.join(DATA_DIR, "latest.json")
@@ -122,7 +123,6 @@ def collect_items():
 
 # ---------- Gemini ----------
 def gemini(prompt):
-    url = "https://generativelanguage.googleapis.com/v1beta/models/" + MODEL + ":generateContent"
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.7},
@@ -131,13 +131,17 @@ def gemini(prompt):
         "Content-Type": "application/json",
         "x-goog-api-key": os.environ["GEMINI_API_KEY"],
     }
+    # 4 essais : 2 sur le modèle principal, puis 2 sur le modèle de secours
+    plan = [MODELS[0], MODELS[0], MODELS[1], MODELS[1]]
     last_error = None
-    for attempt in range(3):
+    for attempt, model in enumerate(plan):
+        is_last = attempt == len(plan) - 1
+        url = "https://generativelanguage.googleapis.com/v1beta/models/" + model + ":generateContent"
         try:
             req = urllib.request.Request(
                 url, data=json.dumps(body).encode("utf-8"), headers=headers, method="POST"
             )
-            with urllib.request.urlopen(req, timeout=120) as r:
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
                 data = json.loads(r.read().decode("utf-8"))
             parts = data["candidates"][0]["content"]["parts"]
             text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
@@ -145,17 +149,24 @@ def gemini(prompt):
             return json.loads(text)
         except urllib.error.HTTPError as e:
             detail = e.read().decode("utf-8", "ignore")[:500]
-            print("[!] Erreur Gemini " + str(e.code) + " : " + detail)
+            print("[!] Erreur Gemini " + str(e.code) + " (" + model + ") : " + detail)
             last_error = e
-            if e.code in (429, 500, 503) and attempt < 2:
-                time.sleep(25 * (attempt + 1))
+            if e.code in (404, 429, 500, 503, 504) and not is_last:
+                time.sleep(5 if e.code == 404 else 20)
                 continue
             raise
         except (json.JSONDecodeError, KeyError, IndexError) as e:
-            print("[!] Réponse Gemini illisible : " + str(e))
+            print("[!] Réponse Gemini illisible (" + model + ") : " + str(e))
             last_error = e
-            if attempt < 2:
+            if not is_last:
                 time.sleep(5)
+                continue
+            raise
+        except (TimeoutError, OSError) as e:
+            print("[!] Gemini ne répond pas (" + model + ") : " + str(e))
+            last_error = e
+            if not is_last:
+                time.sleep(10)
                 continue
             raise
     raise last_error
