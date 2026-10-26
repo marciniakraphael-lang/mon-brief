@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
-  "mode": "morning",
-  "updated": "2026-10-26T21:46:12.134889+01:00",
+  "mode": "evening",
+  "updated": "2026-10-26T21:50:18.594061+01:00",
   "deja_presente": [],
   "depuis_hier": [],
   "aujourdhui": [
@@ -10,56 +10,70 @@
       "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
       "date": "2026-10-26T21:42:19+01:00",
-      "resume": "Au Brésil, Lula a remporté l'élection présidentielle avec 51,8 % des voix face à Flávio Bolsonaro, alors qu'il était donné perdant. Tout comme son père, le candidat d'extrême droite a refusé de reconnaître sa défaite électorale."
+      "resume": "Au Brésil, Lula a remporté l’élection présidentielle avec 51,8 % des voix face à Flávio Bolsonaro, qui refuse de reconnaître sa défaite. Une situation similaire à celle observée avec son père, le leader d'extrême droite."
+    },
+    {
+      "titre": "Attentat raciste à Trappes : des images de vidéosurveillance montrent le parcours du meurtrier dans une station-service",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-raciste-a-trappes-revelations-sur-le-parcours-du-meurtrier-presume_8254756.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T21:42:15+01:00",
+      "resume": "Des images de vidéosurveillance provenant d'une station-service ont été diffusées, montrant le parcours de l'auteur présumé de l'attentat raciste commis dans les Yvelines. Ces documents témoignent de la détermination du suspect."
     },
     {
       "titre": "Attentat raciste dans les Yvelines : la garde à vue du principal suspect, qui \"conteste le caractère raciste de ses crimes\", a repris",
       "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T21:27:00+01:00",
-      "resume": "Un attentat survenu à Trappes et La Verrière a entraîné la mort d'une personne et en a blessé cinq autres. La garde à vue du principal suspect a repris, ce dernier contestant le caractère raciste de ses crimes."
+      "resume": "La garde à vue du principal suspect de l'attentat raciste survenu à Trappes et La Verrière a repris. Il conteste le caractère raciste de ses crimes, commis lors de cette attaque qui a fait un mort et cinq blessés."
+    },
+    {
+      "titre": "Parcoursup : ce qui pourrait changer dès cette année, selon les propositions du gouvernement",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-ce-qui-pourrait-changer-des-cette-annee-selon-les-propositions-du-gouvernement_8254804.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T21:16:00+01:00",
+      "resume": "Le gouvernement envisage des changements pour la plateforme d'orientation Parcoursup dès cette année. L'objectif de ces propositions est de rendre le système plus juste et moins opaque, face à la colère des lycéens."
     },
     {
       "titre": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
       "lien": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html",
       "source": "Le Monde",
       "date": "2026-10-26T21:08:51+01:00",
-      "resume": "L'entreprise d'intelligence artificielle Anthropic a déposé son dossier d'introduction en Bourse. Son prospectus révèle une forte croissance de son chiffre d'affaires, une rentabilité opérationnelle ainsi que des projets d'investissements importants."
+      "resume": "L'entreprise d'intelligence artificielle Anthropic a déposé son dossier d'introduction en Bourse. Ce document révèle une forte croissance de son chiffre d'affaires, une rentabilité opérationnelle ainsi que des projets d'investissements importants."
     },
     {
-      "titre": "L'ONU alerte sur le risque de \"nettoyage ethnique\" lié à l'opération israélienne à Hébron",
-      "lien": "https://www.france24.com/fr/moyen-orient/20261026-onu-alerte-risque-nettoyage-ethnique-li%C3%A9-op%C3%A9ration-isra%C3%A9lienne-h%C3%A9bron-cisjordanie-occupee-palestine",
-      "source": "France 24",
-      "date": "2026-10-26T21:02:53+01:00",
-      "resume": "Le haut-commissaire de l'ONU aux droits de l'Homme a exprimé de graves inquiétudes concernant un risque de « nettoyage ethnique » à Hébron, en Cisjordanie occupée. Cette situation fait suite à une opération israélienne lancée après la mort de deux soldats, qui a entraîné l'expulsion de plus de 3 000 personnes."
+      "titre": "\"Une première réponse\" à \"une de nos revendications importantes\", juge le syndicat d'enseignants SE-Unsa après l'annonce du plafonnement des classes de seconde à 28 élèves",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-premiere-reponse-a-une-de-nos-revendications-importantes-juge-le-syndicat-d-enseignants-se-unsa-apres-l-annonce-du-plafonnement-des-classes-de-seconde-a-28-eleves_8254780.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T21:07:25+01:00",
+      "resume": "Le syndicat d'enseignants SE-Unsa salue le plafonnement des classes de seconde à 28 élèves comme une première réponse à ses revendications. Il nuance toutefois sa position en soulignant l'absence de financement acté dans le projet de loi de finances."
     },
     {
       "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
       "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T20:56:24+01:00",
-      "resume": "Le gouvernement a rencontré les organisations lycéennes et étudiantes pour tenter de mettre fin à cinq semaines de crise et de blocages d'établissements. Malgré ces échanges, l'intersyndicale jeunesse appelle à poursuivre la mobilisation."
+      "resume": "Le gouvernement a rencontré les organisations lycéennes et étudiantes pour tenter de mettre fin à cinq semaines de crise et de blocages. Tandis qu'Edouard Geffray assure que la vie des élèves va changer, l'intersyndicale jeunesse appelle à poursuivre la mobilisation."
     },
     {
       "titre": "Le patron d’Audi critiqué après l’annonce de la construction d’une usine aux Etats-Unis lors d’un meeting de Trump",
       "lien": "https://www.lemonde.fr/economie/article/2026/10/26/le-patron-d-audi-critique-apres-l-annonce-de-la-construction-d-une-usine-aux-etats-unis-lors-d-un-meeting-de-trump_6800840_3234.html",
       "source": "Le Monde",
       "date": "2026-10-26T20:50:21+01:00",
-      "resume": "Le PDG d'Audi, Gernot Döllner, a participé à un meeting de Donald Trump pour annoncer la construction d'une future usine en Géorgie. Cette apparition publique a suscité de vives critiques au sein du groupe Volkswagen et dans la presse allemande."
+      "resume": "Le PDG d'Audi, Gernot Döllner, a été critiqué après avoir rejoint Donald Trump sur scène lors d'un meeting pour annoncer la construction d'une usine en Géorgie. Ce choix a suscité des réactions négatives dans la presse allemande et au sein du groupe Volkswagen."
     },
     {
       "titre": "Europe 1 mise en demeure par l’Arcom après des propos « de nature à inciter à la haine » tenus à l’antenne par sa présentatrice Christine Kelly",
       "lien": "https://www.lemonde.fr/economie/article/2026/10/26/europe-1-mise-en-demeure-par-l-arcom-apres-des-propos-de-nature-a-inciter-a-la-haine-tenus-a-l-antenne-par-sa-presentatrice-christine-kelly_6800838_3234.html",
       "source": "Le Monde",
       "date": "2026-10-26T20:48:03+01:00",
-      "resume": "L'Arcom a mis en demeure Europe 1 après des propos concernant les migrants tenus en janvier par la présentatrice Christine Kelly, jugés de nature à inciter à la haine. Cette mise en demeure constitue une étape préalable à d'éventuelles sanctions financières."
+      "resume": "L'Arcom a mis en demeure Europe 1 après des propos sur les migrants tenus à l'antenne par la présentatrice Christine Kelly, jugés de nature à inciter à la haine sans réaction en plateau. Cette mise en demeure constitue une étape préalable à d'éventuelles sanctions financières."
     },
     {
       "titre": "Venezuela : Corina Machado se dit prête à rencontrer Delcy Rodriguez, qui dénonce son « show »",
       "lien": "https://www.lemonde.fr/international/article/2026/10/26/venezuela-corina-machado-se-dit-prete-a-rencontrer-delcy-rodriguez-qui-denonce-son-show_6800836_3210.html",
       "source": "Le Monde",
       "date": "2026-10-26T20:31:09+01:00",
-      "resume": "Maria Corina Machado s'est dite prête à rencontrer la présidente par intérim du Venezuela, Delcy Rodriguez, afin de relancer le dialogue politique. Cette dernière a toutefois qualifié cette démarche de « show »."
+      "resume": "Au Venezuela, Maria Corina Machado s'est dite prête à rencontrer la présidente par intérim Delcy Rodriguez, qui a de son côté qualifié la situation de show. Cette dynamique pourrait permettre de relancer le dialogue politique dans le pays."
     }
   ],
   "culture": [
@@ -82,5 +96,96 @@
       "a_retenir": "Puisque la lumière voyage à une vitesse finie, observer le ciel nocturne revient à contempler l'histoire ancienne de l'Univers."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "f1d236f910",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Quel pourcentage des voix a permis à Lula de remporter l'élection présidentielle au Brésil ?",
+      "choix": [
+        "55,2 %",
+        "48,5 %",
+        "60,1 %",
+        "51,8 %"
+      ],
+      "reponse": 3,
+      "explication": "Lula a remporté l'élection présidentielle au Brésil avec 51,8 % des voix.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "d3a27e780d",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Quelle entreprise d'intelligence artificielle a déposé son dossier d'introduction en Bourse ?",
+      "choix": [
+        "DeepMind",
+        "Mistral AI",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "reponse": 3,
+      "explication": "L'entreprise d'intelligence artificielle Anthropic a officialisé son introduction en Bourse.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html"
+    },
+    {
+      "id": "3acd850d60",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Quel est le nouveau seuil de plafonnement des classes de seconde salué par le syndicat SE-Unsa ?",
+      "choix": [
+        "25 élèves",
+        "28 élèves",
+        "32 élèves",
+        "30 élèves"
+      ],
+      "reponse": 1,
+      "explication": "Le syndicat a réagi à l'annonce du plafonnement des classes de seconde à 28 élèves.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-premiere-reponse-a-une-de-nos-revendications-importantes-juge-le-syndicat-d-enseignants-se-unsa-apres-l-annonce-du-plafonnement-des-classes-de-seconde-a-28-eleves_8254780.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "32ac7ac6de",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Quelle autorité a mis en demeure la chaîne Europe 1 suite aux propos de sa présentatrice Christine Kelly ?",
+      "choix": [
+        "L'Arcom",
+        "Le Conseil d'État",
+        "Le CSA",
+        "L'HADOPI"
+      ],
+      "reponse": 0,
+      "explication": "C'est l'Arcom qui a prononcé la mise en demeure à l'encontre d'Europe 1.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/26/europe-1-mise-en-demeure-par-l-arcom-apres-des-propos-de-nature-a-inciter-a-la-haine-tenus-a-l-antenne-par-sa-presentatrice-christine-kelly_6800838_3234.html"
+    },
+    {
+      "id": "fdfd297002",
+      "date": "2026-10-26",
+      "type": "culture",
+      "question": "Dans la mythologie grecque, qu'est-ce qui reste prisonnier au fond de la boîte de Pandore après qu'elle l'a refermée ?",
+      "choix": [
+        "L'Espérance",
+        "La maladie",
+        "La souffrance",
+        "La curiosité"
+      ],
+      "reponse": 0,
+      "explication": "Prise de panique, Pandore referme le récipient n'y laissant prisonnière que l'Espérance.",
+      "lien": ""
+    },
+    {
+      "id": "278f5034eb",
+      "date": "2026-10-26",
+      "type": "culture",
+      "question": "Quel organe du corps humain possède un extraordinaire pouvoir de régénération lui permettant de reconstituer son volume d'origine ?",
+      "choix": [
+        "Les reins",
+        "Le foie",
+        "Les poumons",
+        "Le cœur"
+      ],
+      "reponse": 1,
+      "explication": "Le texte indique que le foie possède une capacité de régénération unique lui permettant de reconstituer son volume d'origine en quelques mois.",
+      "lien": ""
+    }
+  ]
 }

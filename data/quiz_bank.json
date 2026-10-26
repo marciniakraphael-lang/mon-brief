@@ -1,3 +1,94 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "id": "f1d236f910",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Quel pourcentage des voix a permis à Lula de remporter l'élection présidentielle au Brésil ?",
+      "choix": [
+        "55,2 %",
+        "48,5 %",
+        "60,1 %",
+        "51,8 %"
+      ],
+      "reponse": 3,
+      "explication": "Lula a remporté l'élection présidentielle au Brésil avec 51,8 % des voix.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "d3a27e780d",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Quelle entreprise d'intelligence artificielle a déposé son dossier d'introduction en Bourse ?",
+      "choix": [
+        "DeepMind",
+        "Mistral AI",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "reponse": 3,
+      "explication": "L'entreprise d'intelligence artificielle Anthropic a officialisé son introduction en Bourse.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html"
+    },
+    {
+      "id": "3acd850d60",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Quel est le nouveau seuil de plafonnement des classes de seconde salué par le syndicat SE-Unsa ?",
+      "choix": [
+        "25 élèves",
+        "28 élèves",
+        "32 élèves",
+        "30 élèves"
+      ],
+      "reponse": 1,
+      "explication": "Le syndicat a réagi à l'annonce du plafonnement des classes de seconde à 28 élèves.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-premiere-reponse-a-une-de-nos-revendications-importantes-juge-le-syndicat-d-enseignants-se-unsa-apres-l-annonce-du-plafonnement-des-classes-de-seconde-a-28-eleves_8254780.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "32ac7ac6de",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Quelle autorité a mis en demeure la chaîne Europe 1 suite aux propos de sa présentatrice Christine Kelly ?",
+      "choix": [
+        "L'Arcom",
+        "Le Conseil d'État",
+        "Le CSA",
+        "L'HADOPI"
+      ],
+      "reponse": 0,
+      "explication": "C'est l'Arcom qui a prononcé la mise en demeure à l'encontre d'Europe 1.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/26/europe-1-mise-en-demeure-par-l-arcom-apres-des-propos-de-nature-a-inciter-a-la-haine-tenus-a-l-antenne-par-sa-presentatrice-christine-kelly_6800838_3234.html"
+    },
+    {
+      "id": "fdfd297002",
+      "date": "2026-10-26",
+      "type": "culture",
+      "question": "Dans la mythologie grecque, qu'est-ce qui reste prisonnier au fond de la boîte de Pandore après qu'elle l'a refermée ?",
+      "choix": [
+        "L'Espérance",
+        "La maladie",
+        "La souffrance",
+        "La curiosité"
+      ],
+      "reponse": 0,
+      "explication": "Prise de panique, Pandore referme le récipient n'y laissant prisonnière que l'Espérance.",
+      "lien": ""
+    },
+    {
+      "id": "278f5034eb",
+      "date": "2026-10-26",
+      "type": "culture",
+      "question": "Quel organe du corps humain possède un extraordinaire pouvoir de régénération lui permettant de reconstituer son volume d'origine ?",
+      "choix": [
+        "Les reins",
+        "Le foie",
+        "Les poumons",
+        "Le cœur"
+      ],
+      "reponse": 1,
+      "explication": "Le texte indique que le foie possède une capacité de régénération unique lui permettant de reconstituer son volume d'origine en quelques mois.",
+      "lien": ""
+    }
+  ]
 }
