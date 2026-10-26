@@ -28,11 +28,16 @@ h2{font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:var(--mu);
 .card p{margin:0;color:#c4c4cf;font-size:15px}
 .ctx{margin-top:12px;padding:10px 12px;border-left:2px solid var(--ac);background:rgba(142,162,255,.07);border-radius:0 10px 10px 0;font-size:14px;color:#c4c4cf}
 .ctx b{display:block;color:var(--ac);font-size:11px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px}
+.ctx.bad{border-left-color:var(--ko);background:rgba(255,122,138,.07)}
+.ctx.bad b{color:var(--ko)}
 .acts{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
 .acts button,.acts a,.pill{display:inline-flex;align-items:center;gap:6px;padding:7px 12px;border-radius:999px;background:#1c1c25;color:var(--tx);font-size:13px;text-decoration:none}
 .say.on{background:var(--ac);color:#0a0a0d}
 .chip{display:inline-block;font-size:11px;color:var(--ac);background:rgba(142,162,255,.1);padding:3px 10px;border-radius:999px}
+.chip.tuto{color:var(--ok);background:rgba(90,209,154,.12)}
 .keep{margin-top:12px;font-size:14px;color:var(--ok)}
+.steps{margin:12px 0 0;padding-left:22px;color:#c4c4cf;font-size:15px}
+.steps li{margin-bottom:8px;padding-left:2px}
 nav{position:fixed;bottom:0;left:0;right:0;display:flex;justify-content:space-around;padding:8px 10px calc(env(safe-area-inset-bottom) + 6px);background:rgba(10,10,13,.9);backdrop-filter:blur(16px);border-top:1px solid var(--line)}
 nav button{display:flex;flex-direction:column;align-items:center;gap:2px;font-size:11px;color:var(--mu);padding:6px 16px}
 nav button.on{color:var(--ac)}
@@ -119,7 +124,14 @@ let h=(D.aujourdhui||[]).length?`<div class="acts" style="margin:12px 4px 0"><bu
 h+=sec('Depuis hier',D.depuis_hier)+sec("Aujourd'hui",D.aujourdhui);
 if((D.deja_presente||[]).length)h+=`<details><summary>Déjà présenté (${D.deja_presente.length})</summary>${D.deja_presente.map(card).join('')}</details>`;
 return h||'<div class="empty">Aucune actu pour le moment.</div>'}
-const vCult=()=>D&&(D.culture||[]).length?D.culture.map(c=>`<article class="card"><span class="chip">${esc(c.theme)}</span><h3 style="margin-top:10px">${esc(c.titre)}</h3><p>${esc(c.texte)}</p>${c.a_retenir?`<div class="keep">À retenir : ${esc(c.a_retenir)}</div>`:''}<div class="acts"><button class="say" data-t="${esc(c.titre+'. '+c.texte+(c.a_retenir?' À retenir : '+c.a_retenir:''))}">${ic('spk')}Écouter</button></div></article>`).join(''):'<div class="empty">Les fiches de culture arrivent avec le brief du matin.</div>';
+function fiche(c){const tu=c.type==='tuto',et=c.etapes||[],er=c.erreurs||[];
+const t=[c.titre,c.texte,...et.map((e,i)=>'Étape '+(i+1)+' : '+e),er.length?'Erreurs à éviter : '+er.join('. '):'',c.a_retenir?'À retenir : '+c.a_retenir:''].filter(Boolean).join('. ');
+return `<article class="card"><span class="chip ${tu?'tuto':''}">${esc(c.theme)}</span><h3 style="margin-top:10px">${esc(c.titre)}</h3><p>${esc(c.texte)}</p>
+${et.length?`<ol class="steps">${et.map(e=>`<li>${esc(e)}</li>`).join('')}</ol>`:''}
+${er.length?`<div class="ctx bad"><b>À éviter</b>${er.map(e=>esc(e)).join('<br>')}</div>`:''}
+${c.a_retenir?`<div class="keep">À retenir : ${esc(c.a_retenir)}</div>`:''}
+<div class="acts"><button class="say" data-t="${esc(t)}">${ic('spk')}Écouter</button></div></article>`}
+const vCult=()=>D&&(D.culture||[]).length?D.culture.map(fiche).join(''):'<div class="empty">Les fiches de culture arrivent avec le brief du matin.</div>';
 
 // ---------- quiz ----------
 const jour=()=>((D&&D.quiz_jour)||[]).filter(q=>q.type==='actu');
@@ -182,5 +194,6 @@ const j=async f=>{try{const r=await fetch('data/'+f+'?t='+Date.now(),{cache:'no-
 D=await j('latest.json');const b=await j('quiz_bank.json');B=(b&&b.questions)||[];
 const dt=D&&D.date?new Date(D.date+'T12:00:00').toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long'}):'';
 $('#d').innerHTML='Brief<small>'+esc(dt)+(D&&D.updated?' · maj '+hm(D.updated):'')+'</small>';render()}
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)load()});
 render();load();
 </script></body></html>
