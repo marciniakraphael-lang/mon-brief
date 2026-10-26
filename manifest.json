@@ -1,0 +1,10 @@
+{
+  "name": "Mon Brief",
+  "short_name": "Brief",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "fr"
+}
