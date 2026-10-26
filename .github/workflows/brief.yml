@@ -1,0 +1,49 @@
+name: Brief quotidien
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "morning ou evening"
+        required: true
+        default: "morning"
+        type: choice
+        options:
+          - morning
+          - evening
+
+permissions:
+  contents: write
+
+concurrency:
+  group: brief
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Générer le brief
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MODE: ${{ github.event.inputs.mode || (github.event.schedule == '30 3 * * *' && 'morning') || 'evening' }}
+        run: python generate.py
+
+      - name: Sauvegarder les données
+        run: |
+          git config user.name "brief-bot"
+          git config user.email "brief-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Brief $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
