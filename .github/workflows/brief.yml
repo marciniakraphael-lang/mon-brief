@@ -3,16 +3,18 @@ name: Brief quotidien
 on:
   schedule:
     - cron: "30 3 * * *"
+    - cron: "0 6,9,12,15 * * *"
     - cron: "0 18 * * *"
   workflow_dispatch:
     inputs:
       mode:
-        description: "morning ou evening"
+        description: "morning, update ou evening"
         required: true
-        default: "morning"
+        default: "update"
         type: choice
         options:
           - morning
+          - update
           - evening
 
 permissions:
@@ -37,7 +39,8 @@ jobs:
       - name: Générer le brief
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          MODE: ${{ github.event.inputs.mode || (github.event.schedule == '30 3 * * *' && 'morning') || 'evening' }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          MODE: ${{ github.event.inputs.mode || (github.event.schedule == '30 3 * * *' && 'morning') || (github.event.schedule == '0 18 * * *' && 'evening') || 'update' }}
         run: python generate.py
 
       - name: Sauvegarder les données
