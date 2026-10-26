@@ -89,6 +89,111 @@
       "reponse": 1,
       "explication": "Le texte indique que le foie possède une capacité de régénération unique lui permettant de reconstituer son volume d'origine en quelques mois.",
       "lien": ""
+    },
+    {
+      "id": "061f668712",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Qui le candidat de gauche Lula a-t-il affronté et battu lors de l'élection présidentielle brésilienne ?",
+      "choix": [
+        "Michel Temer",
+        "Jair Bolsonaro",
+        "Flavio Bolsonaro",
+        "Fernando Henrique Cardoso"
+      ],
+      "reponse": 2,
+      "explication": "Lula a remporté l'élection présidentielle face à son rival d'extrême droite Flavio Bolsonaro, obtenant ainsi un quatrième mandat.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261026-lula-victoire-sans-pouvoir"
+    },
+    {
+      "id": "2e11d28dc9",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Dans quelle ville et salle de spectacle est organisée la 70e édition de la cérémonie du Ballon d'Or 2026 ?",
+      "choix": [
+        "À Londres, au London Palladium Theatre",
+        "À Paris, au Théâtre du Châtelet",
+        "À Madrid, au Teatro Real",
+        "À Zurich, au Kongresshaus"
+      ],
+      "reponse": 0,
+      "explication": "La 70e édition de la cérémonie du Ballon d'Or 2026 est accueillie dans la capitale britannique, au London Palladium Theatre.",
+      "lien": "https://www.france24.com/fr/sports/20261026-ballon-d-or-2026-d%C3%A9couvrez-palmar%C3%A8s-70e-%C3%A9dition-c%C3%A9r%C3%A9monie-football-mbappe-yamal-kane-putellas"
+    },
+    {
+      "id": "84077006a1",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Quel a été le score de la victoire du Paris Saint-Germain face à l'Olympique lyonnais lors de la 8e journée de Ligue 1 ?",
+      "choix": [
+        "3 à 1",
+        "2 à 1",
+        "1 à 0",
+        "2 à 0"
+      ],
+      "reponse": 3,
+      "explication": "Le Paris Saint-Germain l'a emporté 2 à 0 face à l'OL, s'emparant ainsi de la tête du championnat.",
+      "lien": "https://www.franceinfo.fr/sports/foot/psg/le-psg-s-offre-l-ol-dans-le-choc-decale-de-la-8e-journee-et-prend-les-commandes-de-la-ligue-1_8254879.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "33deb3bcb7",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "En Serbie, à combien d'années de pouvoir d'Aleksandar Vučić la victoire électorale des étudiants a-t-elle mis fin ?",
+      "choix": [
+        "8 ans",
+        "10 ans",
+        "6 ans",
+        "12 ans"
+      ],
+      "reponse": 3,
+      "explication": "La victoire électorale du mouvement étudiant a mis fin à douze années consécutives de pouvoir d'Aleksandar Vučić.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "7478810480",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "À quel niveau s'établit la dette publique brésilienne rapportée au PIB lors de l'élection de Lula ?",
+      "choix": [
+        "74,8% du PIB",
+        "82,5% du PIB",
+        "90,1% du PIB",
+        "65,2% du PIB"
+      ],
+      "reponse": 1,
+      "explication": "Selon le résumé de l'article, la dette publique du Brésil a atteint 82,5% du PIB.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261026-br%C3%A9sil-apr%C3%A8s-la-victoire-de-lula-la-bourse-de-sao-paulo-d%C3%A9visse"
+    },
+    {
+      "id": "b52c4ec5cb",
+      "date": "2026-10-26",
+      "type": "culture",
+      "question": "Lors de quelle édition des Jeux olympiques la distance actuelle du marathon (42,195 km) a-t-elle été fixée ?",
+      "choix": [
+        "Stockholm 1912",
+        "Athènes 1896",
+        "Londres 1908",
+        "Paris 1900"
+      ],
+      "reponse": 2,
+      "explication": "La distance de 42,195 km a été fixée aux Jeux de Londres en 1908 afin que le tracé relie le château de Windsor à la loge royale du stade.",
+      "lien": ""
+    },
+    {
+      "id": "dbeaadd753",
+      "date": "2026-10-26",
+      "type": "culture",
+      "question": "Quel insecte, coincé dans l'ordinateur Harvard Mark II en 1947, a popularisé l'usage du mot « bug » en informatique ?",
+      "choix": [
+        "Un cafard",
+        "Un papillon de nuit",
+        "Une coccinelle",
+        "Une mouche"
+      ],
+      "reponse": 1,
+      "explication": "L'équipe de Grace Hopper a retrouvé un véritable papillon de nuit (moth) bloqué dans un relais, immortalisant le terme de bug informatique.",
+      "lien": ""
     }
   ]
 }

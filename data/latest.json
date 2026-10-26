@@ -1,73 +1,89 @@
 {
   "date": "2026-10-26",
-  "mode": "morning",
-  "updated": "2026-10-26T22:57:54.793649+01:00",
+  "mode": "evening",
+  "updated": "2026-10-26T23:03:20.331581+01:00",
   "deja_presente": [],
   "depuis_hier": [],
   "aujourdhui": [
+    {
+      "titre": "Brésil : après la victoire de Lula, la bourse de Sao Paulo dévisse",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261026-br%C3%A9sil-apr%C3%A8s-la-victoire-de-lula-la-bourse-de-sao-paulo-d%C3%A9visse",
+      "source": "France 24",
+      "date": "2026-10-26T22:56:56+01:00",
+      "resume": "À l'annonce de la réélection de Lula au Brésil, la bourse de Sao Paulo a chuté de plus de 17 points à l'ouverture. Le réal brésilien a également baissé, perdant jusqu'à 10% de sa valeur face au dollar pour atteindre un plus bas depuis décembre 2025. Le programme économique du président prévoit des investissements accrus dans l'industrie et pour les ménages modestes. Cette situation intervient alors que la dette publique atteint 82,5% du PIB.",
+      "contexte": "Les marchés financiers réagissent souvent négativement aux politiques publiques expansionnistes lorsqu'ils jugent que l'État est déjà trop endetté. L'objectif de telles mesures est généralement de soutenir le pouvoir d'achat et la production nationale, mais cela fait craindre aux investisseurs une aggravation des déficits publics et de l'inflation. Dans ce contexte, la baisse de la monnaie et des actions traduit l'incertitude des marchés face à la gestion budgétaire à venir."
+    },
+    {
+      "titre": "Lula : victoire sans pouvoir ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261026-lula-victoire-sans-pouvoir",
+      "source": "France 24",
+      "date": "2026-10-26T22:35:53+01:00",
+      "resume": "Lula a remporté l'élection présidentielle brésilienne face à son rival d'extrême droite Flavio Bolsonaro, actant son retour au pouvoir pour un quatrième mandat non consécutif. Cette victoire intervient contre toute attente pour le travailliste. Cependant, il devra gouverner avec un Parlement majoritairement conservateur.",
+      "contexte": "Ce type de configuration politique, souvent qualifiée de cohabitation ou de gouvernement minoritaire, rend l'adoption des réformes particulièrement difficile. Le président élu doit impérativement négocier avec des oppositions parlementaires pour faire passer son programme. Cela illustre les divisions profondes d'un pays où le pouvoir exécutif et le pouvoir législatif peuvent être aux mains de forces politiques opposées."
+    },
     {
       "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
       "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T22:31:17+01:00",
-      "resume": "Lundi, le gouvernement a reçu les organisations lycéennes et étudiantes afin de tenter de mettre fin à une crise sociale marquée par cinq semaines de blocages d'établissements. Edouard Geffray a affirmé que les élèves allaient voir leur vie changer à l'issue de ces échanges. Malgré cette réunion, l'intersyndicale jeunesse a appelé à poursuivre la mobilisation.",
-      "contexte": "Ces mouvements de contestation chez les jeunes traduisent généralement un désaccord profond avec les réformes éducatives en cours ou les conditions de vie étudiante. Le dialogue avec l'exécutif vise à apaiser les tensions pour éviter la prolongation des blocages, qui perturbent le fonctionnement des établissements scolaires et universitaires."
+      "resume": "Le gouvernement a reçu les organisations lycéennes et étudiantes lundi afin de tenter de mettre fin à cinq semaines de crise. Cette période a été marquée par des blocages d'établissements scolaires à travers le pays. L'intersyndicale jeunesse a toutefois appelé à poursuivre la mobilisation malgré cette entrevue.",
+      "contexte": "Les mouvements de blocage dans les lycées et universités surviennent généralement pour contester des réformes éducatives ou budgétaires jugées défavorables par la jeunesse. L'objectif des syndicats est de maintenir la pression sur l'exécutif pour obtenir des retraits de textes ou des garanties. La persistance de la mobilisation malgré les discussions montre la difficulté pour le gouvernement de désamorcer un conflit social bien installé."
     },
     {
       "titre": "Une commission de l'ONU accuse Israël de commettre des crimes contre l'humanité contre les Palestiniens en Cisjordanie occupée",
       "lien": "https://www.franceinfo.fr/monde/israel/une-commission-de-l-onu-accuse-israel-de-commettre-des-crimes-contre-l-humanite-contre-les-palestiniens-en-cisjordanie_8254216.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T22:27:28+01:00",
-      "resume": "Une commission de l'ONU a publié un rapport accusant Israël de commettre des crimes contre l'humanité à l'encontre des Palestiniens en Cisjordanie occupée. Les faits mentionnés dans ce document comprennent l'extermination, la torture et des violences sexuelles. De son côté, Israël a rejeté ces conclusions, qualifiant le rapport de tentative visant à détruire l'État juif.",
-      "contexte": "Les accusations formulées par des organes de l'ONU s'inscrivent dans le cadre du suivi international du conflit israélo-palestinien et du respect du droit international humanitaire. Ce type de rapport exerce une pression diplomatique importante sur les gouvernements concernés, bien que les décisions de ces commissions n'aient pas de pouvoir contraignant direct."
+      "resume": "Une commission de l'ONU a publié un rapport accusant Israël de commettre des crimes contre l'humanité, incluant l'extermination, la torture et les violences sexuelles, contre les Palestiniens en Cisjordanie occupée. Israël a immédiatement rejeté ces conclusions. Les autorités israéliennes ont qualifié ce rapport de tentative de détruire l'État juif.",
+      "contexte": "Les rapports des instances onusiennes visent à documenter les violations du droit international dans les zones de conflit. Les accusations de crimes contre l'humanité ont une portée juridique et symbolique majeure sur la scène internationale, même si leur application pratique dépend des juridictions internationales. De leur côté, les États visés contestent régulièrement la neutralité de ces enquêtes, qu'ils estiment souvent biaisées politiquement."
+    },
+    {
+      "titre": "Ballon d'Or 2026 : découvrez le palmarès de la 70e édition de la cérémonie",
+      "lien": "https://www.france24.com/fr/sports/20261026-ballon-d-or-2026-d%C3%A9couvrez-palmar%C3%A8s-70e-%C3%A9dition-c%C3%A9r%C3%A9monie-football-mbappe-yamal-kane-putellas",
+      "source": "France 24",
+      "date": "2026-10-26T22:23:52+01:00",
+      "resume": "La cérémonie du Ballon d'Or 2026 se tient au London Palladium Theatre, dans la capitale britannique, pour sa 70e édition. Le suspense reste entier pour l'attribution du trophée parmi les favoris annoncés que sont Harry Kane, Kylian Mbappé et Lamine Yamal. Les lauréats de cette édition sont dévoilés au fur et à mesure de la soirée.",
+      "contexte": "Le Ballon d'Or est la distinction individuelle la plus prestigieuse du football mondial, décernée chaque année pour récompenser les performances de l'année sportive. L'événement attire l'attention des médias internationaux et consacre les joueurs ayant brillé tant en club qu'en sélection. La présence de joueurs de profil et d'âges différents reflète le renouvellement permanent de l'élite du football."
     },
     {
       "titre": "Le PSG s'offre l'OL dans le choc décalé de la 8e journée et prend les commandes de la Ligue 1",
       "lien": "https://www.franceinfo.fr/sports/foot/psg/le-psg-s-offre-l-ol-dans-le-choc-decale-de-la-8e-journee-et-prend-les-commandes-de-la-ligue-1_8254879.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T22:22:23+01:00",
-      "resume": "Lundi soir, le Paris Saint-Germain a battu l'Olympique Lyonnais sur le score de 2 à 0 lors d'un match décalé comptant pour la 8e journée de Ligue 1. Dominateur et patient, le club parisien a fait la différence en fin de rencontre face à son adversaire. Grâce à cette victoire, le PSG s'empare de la première place du classement du championnat de France.",
-      "contexte": "Ce type de confrontation directe entre clubs de premier plan pèse lourdement dans la course au titre en Ligue 1. Pour le PSG, l'objectif est de s'installer durablement en tête du championnat, tandis que pour l'OL, ce match constitue un test important pour mesurer ses ambitions européennes."
+      "resume": "Le Paris Saint-Germain s'est imposé 2 à 0 face à l'Olympique lyonnais lors du match décalé de la 8e journée de Ligue 1, disputé lundi soir. Dominateur et patient, le club de la capitale a fini par faire craquer son adversaire. Cette victoire permet au PSG de prendre les commandes du championnat.",
+      "contexte": "En football, les confrontations entre clubs de premier plan comme Paris et Lyon constituent des tournants importants dans la course au titre. Prendre la tête du classement à cette période de la saison offre un avantage psychologique et sportif. Cela confirme également les ambitions des Parisiens dans leur quête de domination du championnat national."
+    },
+    {
+      "titre": "Comment Benjamin Netanyahu s'est-il maintenu au pouvoir si longtemps en Israël ?",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261026-comment-benjamin-netanyahu-s-est-il-maintenu-au-pouvoir-si-longtemps-en-isra%C3%ABl",
+      "source": "France 24",
+      "date": "2026-10-26T22:21:32+01:00",
+      "resume": "Malgré de multiples crises, des défaites électorales, des lâchages d'alliés et des poursuites judiciaires, le Premier ministre israélien Benjamin Netanyahu est parvenu à se maintenir au pouvoir à plusieurs reprises depuis 1999. Les électeurs israéliens sont de nouveau appelés aux urnes le 27 octobre pour élire leurs députés. Sa longévité politique repose notamment sur une communication maîtrisée et un usage constant de l'argument sécuritaire.",
+      "contexte": "La longévité d'un dirigeant au pouvoir s'explique souvent par sa capacité à polariser le débat public et à cristalliser les peurs sécuritaires de sa base électorale. Dans un pays confronté à des tensions géopolitiques permanentes comme Israël, la question de la sécurité nationale prime souvent sur les affaires judiciaires ou les contestations politiques internes. Cela permet à des personnalités fortes de conserver le soutien d'une majorité d'électeurs malgré les controverses."
     },
     {
       "titre": "Donald Trump dénonce des élections \"truquées\" au Brésil après la défaite de Flavio Bolsonaro",
       "lien": "https://www.franceinfo.fr/monde/bresil/donald-trump-denonce-des-elections-truquees-au-bresil-apres-la-defaite-de-flavio-bolsonaro_8254870.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T22:21:30+01:00",
-      "resume": "Le président des États-Unis a publiquement qualifié les élections brésiliennes de \"truquées\" après la défaite de Flavio Bolsonaro. Pour appuyer ses déclarations, il a fait référence à sa propre défaite lors de l'élection présidentielle américaine de 2020 face à Joe Biden.",
-      "contexte": "Ce type de prise de position s'inscrit dans une rhétorique politique contestataire visant à jeter le doute sur la régularité des scrutins démocratiques en cas de défaite des candidats soutenus. Cela reflète les clivages politiques internationaux et les alliances entre courants populistes à travers le monde."
+      "resume": "Le président des États-Unis a publiquement qualifié l'élection présidentielle brésilienne de \"truquée\" à la suite de la défaite de Flavio Bolsonaro. Il a comparé cette situation à sa propre défaite lors de l'élection présidentielle américaine de 2020 face à Joe Biden.",
+      "contexte": "Ce type de déclaration s'inscrit dans une rhétorique populiste fréquente visant à délégitimer les processus électoraux et les institutions démocratiques en cas de défaite d'un candidat allié. Les motifs d'une telle prise de parole sont généralement d'entretenir la contestation politique et de galvaniser les partisans. Cela illustre également les connexions idéologiques entre certains dirigeants nationalistes à l'échelle internationale."
     },
     {
       "titre": "Mobilisations sociales : à Marseille, Emmanuel Macron fait le mea culpa de l’Etat",
       "lien": "https://www.lemonde.fr/politique/article/2026/10/26/mobilisations-sociales-a-marseille-emmanuel-macron-fait-le-mea-culpa-de-l-etat_6800843_823448.html",
       "source": "Le Monde",
       "date": "2026-10-26T21:57:57+01:00",
-      "resume": "En déplacement à Marseille, le président de la République Emmanuel Macron a fait le mea culpa de l'État face aux mobilisations sociales. Il a reconnu un manque d'anticipation des forces de l'ordre et du gouvernement avant la date du 17 octobre tout en saluant la légitimité du mouvement, sans toutefois annoncer de mesures précises.",
-      "contexte": "Ce genre de reconnaissance publique de la part de l'exécutif intervient généralement pour tenter de désamorcer une crise sociale et de renouer le dialogue avec les contestataires. L'enjeu est de limiter les débordements tout en répondant aux critiques sur la gestion du maintien de l'ordre."
+      "resume": "En déplacement à Marseille, le président de la République Emmanuel Macron a fait le mea culpa de l'État concernant la gestion d'un mouvement social. Il a reconnu un manque d'anticipation des forces de l'ordre et du gouvernement avant la date du 17 octobre. Il a également salué la \"légitimité\" du mouvement, sans toutefois annoncer de mesures concrètes.",
+      "contexte": "Reconnaître publiquement des dysfonctionnements étatiques lors de crises sociales est une stratégie politique délicate qui vise à apaiser la colère de la rue et à renouer le dialogue. L'absence de mesures immédiates s'explique souvent par la volonté de ne pas céder sous la pression tout en désamorçant les tensions. C'est une démarche classique pour tenter de regagner la confiance des citoyens mécontents."
     },
     {
       "titre": "Serbie : les étudiants prennent le pouvoir",
       "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
       "date": "2026-10-26T21:53:30+01:00",
-      "resume": "Dimanche 25 octobre, le mouvement des étudiants en Serbie a remporté les élections face au dirigeant populiste Aleksandar Vučić, au pouvoir depuis 12 ans. Cette victoire fait suite à deux années de mobilisation menées par la rue pour obtenir le changement politique.",
-      "contexte": "L'implication prolongée de la jeunesse et des mouvements citoyens dans les pays d'Europe de l'est traduit souvent une volonté de renouvellement démocratique face à une gouvernance jugée autoritaire. La prise de pouvoir par la rue marque un tournant institutionnel majeur dans l'histoire politique récente du pays."
-    },
-    {
-      "titre": "Lula déjoue les pronostics en étant réélu président du Brésil",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-26T21:42:19+01:00",
-      "resume": "Lula a remporté l'élection présidentielle au Brésil en obtenant 51,8 % des voix face à Flavio Bolsonaro, alors qu'il était donné perdant par les pronostics. Le candidat d'extrême droite a adopté une attitude similaire à celle de son père en refusant de reconnaître sa défaite électorale.",
-      "contexte": "Le retour au pouvoir de Lula illustre l'alternance politique observée dans plusieurs grandes démocraties sud-américaines, marquées par des polarisations fortes entre la gauche et la droite populiste. Le refus de reconnaître les résultats électoraux fragilise traditionnellement les transitions démocratiques et les institutions du pays."
-    },
-    {
-      "titre": "Attentat raciste à Trappes : des images de vidéosurveillance montrent le parcours du meurtrier dans une station-service",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-raciste-a-trappes-revelations-sur-le-parcours-du-meurtrier-presume_8254756.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-26T21:42:15+01:00",
-      "resume": "Des images de vidéosurveillance provenant d'une station-service ont été diffusées dans le cadre de l'enquête sur l'attentat raciste commis à Trappes, dans les Yvelines. Ces documents visuels retracent le parcours de l'auteur présumé et témoignent de sa détermination au moment des faits.",
-      "contexte": "L'exploitation des caméras de surveillance est une étape classique des investigations judiciaires pour reconstituer précisément le déroulement des drames et identifier les complices éventuels. Ce type d'affaire suscrit une vive émotion nationale en raison de la nature raciste des actes reprochés."
+      "resume": "Le mouvement des étudiants en Serbie a remporté les élections le dimanche 25 octobre face au dirigeant populiste Aleksandar Vučić. Cette victoire met fin à douze années de pouvoir pour ce dernier, au terme de deux ans de mobilisation menée par la rue.",
+      "contexte": "Les révoltes ou mobilisations de la jeunesse et des étudiants constituent souvent le fer de lance des transitions politiques dans les régimes d'apparence démocratique mais verrouillés. L'objectif affiché de ces mouvements est généralement la lutte contre la corruption et l'ouverture démocratique. Cette victoire électorale illustre la capacité d'une contestation prolongée à renverser un pouvoir en place depuis longtemps."
     }
   ],
   "culture": [
@@ -90,5 +106,111 @@
       "a_retenir": "Le terme de bug informatique est devenu célèbre après la découverte d'un papillon de nuit coincé dans les relais d'un ordinateur en 1947."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "061f668712",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Qui le candidat de gauche Lula a-t-il affronté et battu lors de l'élection présidentielle brésilienne ?",
+      "choix": [
+        "Michel Temer",
+        "Jair Bolsonaro",
+        "Flavio Bolsonaro",
+        "Fernando Henrique Cardoso"
+      ],
+      "reponse": 2,
+      "explication": "Lula a remporté l'élection présidentielle face à son rival d'extrême droite Flavio Bolsonaro, obtenant ainsi un quatrième mandat.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261026-lula-victoire-sans-pouvoir"
+    },
+    {
+      "id": "2e11d28dc9",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Dans quelle ville et salle de spectacle est organisée la 70e édition de la cérémonie du Ballon d'Or 2026 ?",
+      "choix": [
+        "À Londres, au London Palladium Theatre",
+        "À Paris, au Théâtre du Châtelet",
+        "À Madrid, au Teatro Real",
+        "À Zurich, au Kongresshaus"
+      ],
+      "reponse": 0,
+      "explication": "La 70e édition de la cérémonie du Ballon d'Or 2026 est accueillie dans la capitale britannique, au London Palladium Theatre.",
+      "lien": "https://www.france24.com/fr/sports/20261026-ballon-d-or-2026-d%C3%A9couvrez-palmar%C3%A8s-70e-%C3%A9dition-c%C3%A9r%C3%A9monie-football-mbappe-yamal-kane-putellas"
+    },
+    {
+      "id": "84077006a1",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "Quel a été le score de la victoire du Paris Saint-Germain face à l'Olympique lyonnais lors de la 8e journée de Ligue 1 ?",
+      "choix": [
+        "3 à 1",
+        "2 à 1",
+        "1 à 0",
+        "2 à 0"
+      ],
+      "reponse": 3,
+      "explication": "Le Paris Saint-Germain l'a emporté 2 à 0 face à l'OL, s'emparant ainsi de la tête du championnat.",
+      "lien": "https://www.franceinfo.fr/sports/foot/psg/le-psg-s-offre-l-ol-dans-le-choc-decale-de-la-8e-journee-et-prend-les-commandes-de-la-ligue-1_8254879.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "33deb3bcb7",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "En Serbie, à combien d'années de pouvoir d'Aleksandar Vučić la victoire électorale des étudiants a-t-elle mis fin ?",
+      "choix": [
+        "8 ans",
+        "10 ans",
+        "6 ans",
+        "12 ans"
+      ],
+      "reponse": 3,
+      "explication": "La victoire électorale du mouvement étudiant a mis fin à douze années consécutives de pouvoir d'Aleksandar Vučić.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "7478810480",
+      "date": "2026-10-26",
+      "type": "actu",
+      "question": "À quel niveau s'établit la dette publique brésilienne rapportée au PIB lors de l'élection de Lula ?",
+      "choix": [
+        "74,8% du PIB",
+        "82,5% du PIB",
+        "90,1% du PIB",
+        "65,2% du PIB"
+      ],
+      "reponse": 1,
+      "explication": "Selon le résumé de l'article, la dette publique du Brésil a atteint 82,5% du PIB.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261026-br%C3%A9sil-apr%C3%A8s-la-victoire-de-lula-la-bourse-de-sao-paulo-d%C3%A9visse"
+    },
+    {
+      "id": "b52c4ec5cb",
+      "date": "2026-10-26",
+      "type": "culture",
+      "question": "Lors de quelle édition des Jeux olympiques la distance actuelle du marathon (42,195 km) a-t-elle été fixée ?",
+      "choix": [
+        "Stockholm 1912",
+        "Athènes 1896",
+        "Londres 1908",
+        "Paris 1900"
+      ],
+      "reponse": 2,
+      "explication": "La distance de 42,195 km a été fixée aux Jeux de Londres en 1908 afin que le tracé relie le château de Windsor à la loge royale du stade.",
+      "lien": ""
+    },
+    {
+      "id": "dbeaadd753",
+      "date": "2026-10-26",
+      "type": "culture",
+      "question": "Quel insecte, coincé dans l'ordinateur Harvard Mark II en 1947, a popularisé l'usage du mot « bug » en informatique ?",
+      "choix": [
+        "Un cafard",
+        "Un papillon de nuit",
+        "Une coccinelle",
+        "Une mouche"
+      ],
+      "reponse": 1,
+      "explication": "L'équipe de Grace Hopper a retrouvé un véritable papillon de nuit (moth) bloqué dans un relais, immortalisant le terme de bug informatique.",
+      "lien": ""
+    }
+  ]
 }
