@@ -18,6 +18,10 @@ body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.5 -apple-system,
 header{padding:14px 16px 4px;display:flex;justify-content:space-between;align-items:center;max-width:720px;margin:0 auto}
 h1{font-size:22px;margin:0}
 .sub{color:var(--mut);font-size:13px}
+.wrap{max-width:720px;margin:0 auto;padding:0 14px}
+.statsbar{display:flex;gap:14px;align-items:center;background:var(--card);border-radius:14px;padding:10px 14px;margin-top:6px}
+.pie{width:54px;height:54px;border-radius:50%;flex:none}
+.pct{font-weight:700;font-size:17px}
 main{padding:8px 14px 20px;max-width:720px;margin:0 auto}
 h3{margin:22px 4px 8px;font-size:14px;text-transform:uppercase;letter-spacing:.05em;color:var(--mut);display:flex;justify-content:space-between;align-items:center}
 .card{background:var(--card);border-radius:14px;padding:12px 14px;margin:0 0 10px}
@@ -26,21 +30,28 @@ h3{margin:22px 4px 8px;font-size:14px;text-transform:uppercase;letter-spacing:.0
 .src{display:block;color:var(--mut);font-size:12px}
 .t{display:block;font-weight:600}
 .tag{display:inline-block;background:var(--acc);color:#04283a;border-radius:20px;padding:1px 10px;font-size:12px;font-weight:600;margin-bottom:6px}
+.ctx{background:rgba(56,189,248,.12);border-left:3px solid var(--acc);padding:8px 10px;border-radius:8px;font-size:15px;margin:8px 0}
 .row{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:8px}
 a{color:var(--acc)}
 button{font:inherit}
 .listen{background:transparent;border:1px solid var(--acc);color:var(--acc);border-radius:20px;padding:5px 12px;font-size:14px;text-transform:none;letter-spacing:0}
 .listen.on{background:var(--acc);color:#04283a}
 .btn.full{display:block;width:100%;background:var(--acc);color:#04283a;font-weight:600;padding:12px;margin-top:12px;border:0;border-radius:12px;font-size:16px}
+.btn.alt{background:transparent;color:var(--ko);border:1px solid var(--ko)}
 .choice{display:block;width:100%;text-align:left;background:var(--card);color:var(--txt);border:2px solid transparent;border-radius:12px;padding:12px 14px;margin:8px 0}
 .choice.good{border-color:var(--ok)}
 .choice.bad{border-color:var(--ko)}
 .q{font-size:19px;margin:6px 0 10px}
 .fb{margin-top:10px;font-size:15px}
 .big{font-size:40px;font-weight:700}
+.rec{border-left:4px solid var(--mut)}
+.rec.ok{border-left-color:var(--ok)}
+.rec.ko{border-left-color:var(--ko)}
 .empty{color:var(--mut);text-align:center;padding:40px 10px}
+.sel{width:100%;padding:10px;border-radius:10px;background:var(--bg);color:var(--txt);border:1px solid var(--mut);font-size:16px;margin:6px 0}
+input[type=range]{width:100%}
 nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:var(--card);padding-bottom:env(safe-area-inset-bottom);border-top:1px solid rgba(148,163,184,.25)}
-nav button{flex:1;background:none;border:0;color:var(--mut);padding:10px 0 8px;font-size:12px}
+nav button{flex:1;background:none;border:0;color:var(--mut);padding:10px 0 8px;font-size:11px}
 nav button span{display:block;font-size:20px}
 nav button.on{color:var(--acc)}
 .refresh{background:none;border:0;color:var(--acc);font-size:24px}
@@ -51,16 +62,21 @@ nav button.on{color:var(--acc)}
   <div><h1>Mon Brief</h1><div class="sub" id="sub"></div></div>
   <button class="refresh" id="refresh" aria-label="Actualiser">↻</button>
 </header>
+<div class="wrap"><div id="stats" class="statsbar"></div></div>
 <main id="view"></main>
 <nav id="nav"></nav>
 
 <script>
 // ---------- Réglages ----------
-const RATE = 1.0;           // vitesse de la voix (0.8 = lent, 1.2 = rapide)
-const VOICE_NAME = "";      // nom d'une voix précise (vide = automatique)
 const QUIZ_REVISION = 10;   // questions par session de révision
 
-const TABS = [["actus","📰","Actus"],["culture","🧠","Culture G"],["quiz","❓","Quiz"],["revision","🔁","Révision"]];
+const TABS = [
+  ["actus","📰","Actus"],
+  ["culture","🧠","Culture G"],
+  ["quiz","❓","Quiz"],
+  ["revision","🔁","Révision"],
+  ["reglages","⚙️","Réglages"]
+];
 let tab = "actus", DATA = null, BANK = [];
 const view = document.getElementById("view");
 
@@ -103,10 +119,32 @@ function fmt(iso){
 function empty(msg){ view.append(el("div",{class:"empty"}, msg)); }
 
 // ---------- Lecture vocale ----------
+function frVoices(){
+  if(!("speechSynthesis" in window)) return [];
+  return speechSynthesis.getVoices().filter(v => v.lang && v.lang.toLowerCase().replace("_","-").startsWith("fr"));
+}
+
+function voiceScore(v){
+  const n = v.name.toLowerCase();
+  let s = 0;
+  if(/premium|haute qualité/.test(n)) s += 30;
+  if(/siri/.test(n)) s += 25;
+  if(/enhanced|améliorée|amélioré/.test(n)) s += 20;
+  if(v.lang.toLowerCase().replace("_","-") === "fr-fr") s += 5;
+  if(v.localService) s += 1;
+  return s;
+}
+
 function pickVoice(){
-  const vs = speechSynthesis.getVoices().filter(v => v.lang && v.lang.toLowerCase().startsWith("fr"));
-  if(VOICE_NAME){ const m = vs.find(v => v.name === VOICE_NAME); if(m) return m; }
-  return vs.find(v => /enhanced|premium|améliorée/i.test(v.name)) || vs[0] || null;
+  const vs = frVoices();
+  const saved = store.get("voice", "");
+  if(saved){ const m = vs.find(v => v.name === saved); if(m) return m; }
+  return vs.slice().sort((a, b) => voiceScore(b) - voiceScore(a))[0] || null;
+}
+
+function getRate(){
+  const r = parseFloat(store.get("rate", 0.95));
+  return isNaN(r) ? 0.95 : r;
 }
 
 function stopSpeech(){
@@ -123,10 +161,11 @@ function speak(texts, btn){
   const clean = texts.filter(Boolean).map(t => String(t).trim()).map(t => /[.!?…]$/.test(t) ? t : t + ".");
   const parts = clean.flatMap(t => t.match(/[^.!?…]+[.!?…]*\s*/g) || []);
   const voice = pickVoice();
+  const rate = getRate();
   setTimeout(() => {
     parts.forEach((p, i) => {
       const u = new SpeechSynthesisUtterance(p.trim());
-      u.lang = "fr-FR"; u.rate = RATE;
+      u.lang = "fr-FR"; u.rate = rate;
       if(voice) u.voice = voice;
       if(i === parts.length - 1){
         u.onend = () => btn.classList.remove("on");
@@ -137,15 +176,60 @@ function speak(texts, btn){
   }, 80);
 }
 
+if("speechSynthesis" in window){
+  speechSynthesis.onvoiceschanged = () => { if(tab === "reglages") render(); };
+}
+
+// ---------- Statistiques globales (camembert) ----------
+function getG(){ return store.get("g", {answered:0, correct:0, quizzes:0}); }
+
+function renderStats(){
+  const g = getG();
+  const pct = g.answered ? Math.round(g.correct / g.answered * 100) : 0;
+  const pie = el("div",{class:"pie"});
+  pie.style.background = g.answered
+    ? "conic-gradient(var(--ok) 0 " + pct + "%, var(--ko) " + pct + "% 100%)"
+    : "var(--mut)";
+  document.getElementById("stats").replaceChildren(
+    pie,
+    el("div",{},
+      el("div",{class:"pct"}, g.answered ? pct + " % de réussite" : "Pas encore de quiz"),
+      el("div",{class:"sub"}, g.quizzes + " quiz terminé" + (g.quizzes > 1 ? "s" : "") + " · " + g.correct + "/" + g.answered + " bonnes réponses")
+    )
+  );
+}
+
+function record(id, ok){
+  const st = store.get("stats", {});
+  const s = st[id] || {ok:0, ko:0};
+  if(ok) s.ok++; else s.ko++;
+  s.last = new Date().toISOString().slice(0,10);
+  st[id] = s;
+  store.set("stats", st);
+  const g = getG();
+  g.answered++;
+  if(ok) g.correct++;
+  store.set("g", g);
+  renderStats();
+}
+
+function countQuiz(){
+  const g = getG();
+  g.quizzes++;
+  store.set("g", g);
+  renderStats();
+}
+
 // ---------- Actus ----------
 function articleCard(a){
   const listen = el("button",{class:"listen"}, "🔊 Écouter");
-  listen.onclick = () => speak([a.titre, a.resume], listen);
+  listen.onclick = () => speak([a.titre, a.resume, a.contexte ? "Pourquoi : " + a.contexte : ""], listen);
   return el("details",{class:"card"},
     el("summary",{},
       el("span",{class:"src"}, a.source + " · " + fmt(a.date)),
       el("span",{class:"t"}, a.titre)),
     el("p",{}, a.resume),
+    a.contexte ? el("div",{class:"ctx"}, el("strong",{}, "Pourquoi / contexte : "), a.contexte) : null,
     el("div",{class:"row"}, listen,
       a.lien ? el("a",{href:a.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗") : null));
 }
@@ -154,7 +238,7 @@ function addSection(title, list){
   list = list || [];
   if(!list.length) return;
   const lb = el("button",{class:"listen"}, "🔊 Tout écouter");
-  lb.onclick = () => speak(list.flatMap(a => [a.titre, a.resume]), lb);
+  lb.onclick = () => speak(list.flatMap(a => [a.titre, a.resume, a.contexte ? "Pourquoi : " + a.contexte : ""]), lb);
   view.append(el("h3",{}, title, lb), ...list.map(articleCard));
 }
 
@@ -188,62 +272,93 @@ function viewCulture(){
   });
 }
 
-// ---------- Quiz ----------
-function record(id, ok){
-  const st = store.get("stats", {});
-  const s = st[id] || {ok:0, ko:0};
-  if(ok) s.ok++; else s.ko++;
-  s.last = new Date().toISOString().slice(0,10);
-  st[id] = s;
-  store.set("stats", st);
+// ---------- Moteur de quiz (avec sauvegarde de la progression) ----------
+function newSession(qs, sid){
+  return {sid: sid, qs: qs, i: 0, answers: [], done: false, counted: false};
 }
 
-function runQuiz(root, questions, label, again){
-  let i = 0, score = 0;
+function runQuiz(root, sess, label, save, restartLabel, onRestart){
+  const qs = sess.qs;
+
+  function showResult(){
+    const total = qs.length;
+    const score = qs.filter((q, k) => sess.answers[k] === q.reponse).length;
+    const pct = total ? Math.round(score / total * 100) : 0;
+    const msg = pct >= 80 ? "Excellent 🎉" : pct >= 50 ? "Pas mal 👍" : "Continue, ça vient 💪";
+    root.append(el("div",{class:"card"},
+      el("div",{class:"sub"}, label + " terminé ✅"),
+      el("div",{class:"big"}, score + " / " + total),
+      el("p",{}, pct + " % de bonnes réponses · " + msg)));
+    qs.forEach((q, k) => {
+      const ok = sess.answers[k] === q.reponse;
+      root.append(el("div",{class:"card rec " + (ok ? "ok" : "ko")},
+        el("div",{class:"t"}, (ok ? "✓ " : "✗ ") + q.question),
+        ok ? null : el("div",{class:"sub"}, "Bonne réponse : " + q.choix[q.reponse]),
+        q.explication ? el("div",{class:"sub"}, q.explication) : null));
+    });
+    root.append(el("button",{class:"btn full", onclick:() => onRestart()}, restartLabel));
+  }
+
   function step(){
     root.replaceChildren();
-    if(i >= questions.length){
-      root.append(el("div",{class:"card"},
-        el("div",{class:"big"}, score + " / " + questions.length),
-        el("p",{}, label + " terminé."),
-        again ? el("button",{class:"btn full", onclick:() => again()}, "Nouvelle session") : null));
-      return;
-    }
-    const q = questions[i];
-    let done = false;
+    if(sess.done){ showResult(); return; }
+    const q = qs[sess.i];
+    const chosen = sess.answers[sess.i];
+    const answered = chosen !== null && chosen !== undefined;
     const fb = el("div",{class:"fb"});
-    const next = el("button",{class:"btn full", onclick:() => { i++; step(); window.scrollTo(0,0); }},
-      i + 1 < questions.length ? "Question suivante" : "Voir le score");
-    next.style.display = "none";
     const btns = q.choix.map((c, idx) => {
       const b = el("button",{class:"choice"}, c);
-      b.onclick = () => {
-        if(done) return;
-        done = true;
-        const ok = idx === q.reponse;
-        if(ok) score++;
-        b.classList.add(ok ? "good" : "bad");
-        if(!ok) btns[q.reponse].classList.add("good");
-        record(q.id, ok);
-        fb.append(el("strong",{}, ok ? "Bonne réponse ! " : "Raté. "), q.explication || "");
-        if(q.lien) fb.append(el("div",{class:"row"}, el("a",{href:q.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗")));
-        next.style.display = "block";
-      };
+      if(answered){
+        if(idx === q.reponse) b.classList.add("good");
+        else if(idx === chosen) b.classList.add("bad");
+      } else {
+        b.onclick = () => {
+          sess.answers[sess.i] = idx;
+          record(q.id, idx === q.reponse);
+          save(sess);
+          step();
+        };
+      }
       return b;
     });
+    let next = null;
+    if(answered){
+      const ok = chosen === q.reponse;
+      fb.append(el("strong",{}, ok ? "Bonne réponse ! " : "Raté. "), q.explication || "");
+      if(q.lien) fb.append(el("div",{class:"row"}, el("a",{href:q.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗")));
+      const last = sess.i + 1 >= qs.length;
+      next = el("button",{class:"btn full", onclick:() => {
+        if(last){
+          sess.done = true;
+          if(!sess.counted){ sess.counted = true; countQuiz(); }
+        } else {
+          sess.i++;
+        }
+        save(sess);
+        step();
+        window.scrollTo(0, 0);
+      }}, last ? "Voir mon résultat" : "Question suivante");
+    }
     root.append(
-      el("div",{class:"sub"}, label + " · " + (i+1) + "/" + questions.length + " · " + (q.type === "actu" ? "Actu" : "Culture")),
+      el("div",{class:"sub"}, label + " · " + (sess.i + 1) + "/" + qs.length + " · " + (q.type === "actu" ? "Actu" : "Culture")),
       el("h2",{class:"q"}, q.question),
       ...btns, fb, next);
   }
   step();
 }
 
+// ---------- Quiz du jour ----------
 function viewQuiz(){
   const qs = (DATA && DATA.quiz_jour) || [];
   if(!qs.length){ empty("Le quiz du jour arrive avec le brief du soir (vers 20 h 45)."); return; }
+  const sid = qs.map(q => q.id).join("-");
+  let sess = store.get("qs_jour", null);
+  if(!sess || sess.sid !== sid){ sess = newSession(qs, sid); store.set("qs_jour", sess); }
   const root = el("div"); view.append(root);
-  runQuiz(root, qs, "Quiz du jour");
+  runQuiz(root, sess, "Quiz du jour", s => store.set("qs_jour", s), "Refaire ce quiz", () => {
+    store.set("qs_jour", newSession(qs, sid));
+    render();
+  });
 }
 
 // ---------- Révision ----------
@@ -254,17 +369,65 @@ function pickRevision(){
     let w = 2;
     if(s) w = s.ko > s.ok ? 4 : (s.ko > 0 && s.ok - s.ko < 2 ? 3 : 1);
     return {q, w: w + Math.random() * 1.5};
-  }).sort((a,b) => b.w - a.w).slice(0, QUIZ_REVISION).map(x => x.q).sort(() => Math.random() - 0.5);
+  }).sort((a, b) => b.w - a.w).slice(0, QUIZ_REVISION).map(x => x.q).sort(() => Math.random() - 0.5);
 }
 
 function viewRevision(){
-  if(BANK.length < 3){ empty("La banque de questions se remplit chaque soir. Reviens après quelques quiz."); return; }
+  let sess = store.get("qs_rev", null);
+  if(!sess){
+    if(BANK.length < 3){ empty("La banque de questions se remplit chaque soir. Reviens après quelques quiz."); return; }
+    sess = newSession(pickRevision(), "rev-" + Date.now());
+    store.set("qs_rev", sess);
+  }
   const st = store.get("stats", {});
   const weak = BANK.filter(q => st[q.id] && st[q.id].ko > st[q.id].ok).length;
   view.append(el("div",{class:"sub",style:"margin:6px 4px"}, BANK.length + " questions en banque · " + weak + " à retravailler"));
   const root = el("div"); view.append(root);
-  const start = () => runQuiz(root, pickRevision(), "Révision", start);
-  start();
+  runQuiz(root, sess, "Révision", s => store.set("qs_rev", s), "Nouvelle session", () => {
+    store.set("qs_rev", null);
+    render();
+  });
+}
+
+// ---------- Réglages ----------
+function viewReglages(){
+  const vs = frVoices();
+  const sel = el("select",{class:"sel"},
+    el("option",{value:""}, "Automatique (la plus naturelle)"),
+    ...vs.map(v => el("option",{value:v.name}, v.name + " (" + v.lang + ")")));
+  sel.value = store.get("voice", "");
+  sel.onchange = () => store.set("voice", sel.value);
+
+  const rl = el("span",{}, getRate().toFixed(2) + "×");
+  const rate = el("input",{type:"range",min:"0.7",max:"1.2",step:"0.05"});
+  rate.value = getRate();
+  rate.oninput = () => { store.set("rate", parseFloat(rate.value)); rl.textContent = parseFloat(rate.value).toFixed(2) + "×"; };
+
+  const test = el("button",{class:"listen"}, "🔊 Tester la voix");
+  test.onclick = () => speak(["Bonjour, voici un exemple de la voix qui te lira ton brief quotidien."], test);
+
+  view.append(
+    el("div",{class:"card"},
+      el("div",{class:"t"}, "Voix de lecture"),
+      vs.length ? sel : el("p",{class:"sub"}, "Aucune voix française détectée sur cet appareil."),
+      el("div",{class:"sub",style:"margin-top:10px"}, "Vitesse : ", rl),
+      rate,
+      el("div",{class:"row"}, test)),
+    el("div",{class:"card"},
+      el("div",{class:"t"}, "Pour une voix plus naturelle"),
+      el("p",{class:"sub"}, "Sur ton iPhone : Réglages > Accessibilité > Contenu énoncé > Voix > Français, puis télécharge une voix marquée « Premium » ou « Améliorée ». Reviens ici, recharge la page et choisis-la dans la liste.")),
+    el("div",{class:"card"},
+      el("div",{class:"t"}, "Statistiques"),
+      el("p",{class:"sub"}, "Efface le camembert, le compteur de quiz et ta progression en révision."),
+      el("button",{class:"btn full alt", onclick:() => {
+        if(confirm("Effacer toutes tes statistiques de quiz ?")){
+          store.set("g", {answered:0, correct:0, quizzes:0});
+          store.set("stats", {});
+          store.set("qs_jour", null);
+          store.set("qs_rev", null);
+          render();
+        }
+      }}, "Réinitialiser mes statistiques")));
 }
 
 // ---------- Affichage ----------
@@ -273,11 +436,13 @@ function render(){
   document.getElementById("nav").replaceChildren(...TABS.map(([id, ic, lb]) =>
     el("button",{class: id === tab ? "on" : "", onclick:() => { tab = id; render(); window.scrollTo(0,0); }}, el("span",{}, ic), lb)));
   document.getElementById("sub").textContent = DATA ? "Mis à jour : " + fmt(DATA.updated) : "";
+  renderStats();
   view.replaceChildren();
   if(tab === "actus") viewActus();
   else if(tab === "culture") viewCulture();
   else if(tab === "quiz") viewQuiz();
-  else viewRevision();
+  else if(tab === "revision") viewRevision();
+  else viewReglages();
 }
 
 async function load(){
