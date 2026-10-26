@@ -184,15 +184,22 @@ def summarize(items):
     if not items:
         return []
     payload = [
-        {"id": i, "titre": it["titre"], "extrait": it["extrait"][:500], "source": it["source"]}
+        {"id": i, "titre": it["titre"], "extrait": it["extrait"][:800], "source": it["source"]}
         for i, it in enumerate(items)
     ]
     prompt = (
-        "Tu rédiges un brief d'actualité quotidien en français pour quelqu'un qui veut améliorer sa culture générale.\n"
-        "Pour chaque article ci-dessous, écris un résumé factuel et neutre de 2 à 3 phrases, en langage simple, "
-        "avec le contexte utile si l'extrait le permet. N'invente aucun fait : appuie-toi uniquement sur le titre "
-        "et l'extrait fournis. Pas d'opinion.\n"
-        'Réponds uniquement en JSON : {"resumes": [{"id": 0, "resume": "..."}]}\n\n'
+        "Tu rédiges un brief d'actualité quotidien en français pour quelqu'un qui veut comprendre le monde "
+        "et améliorer sa culture générale.\n"
+        "Pour chaque article ci-dessous, écris deux champs :\n"
+        "- 'resume' : 3 à 4 phrases factuelles et neutres qui disent clairement CE QUI S'EST PASSÉ "
+        "(qui, quoi, quand, où, chiffres cités dans l'extrait). Appuie-toi uniquement sur le titre et l'extrait fournis.\n"
+        "- 'contexte' : 2 à 4 phrases qui expliquent POURQUOI c'est arrivé et ce que cela change : les raisons, "
+        "les enjeux, le contexte utile et les conséquences possibles. Tu peux t'appuyer sur tes connaissances générales "
+        "solides pour ce contexte, mais n'invente aucun fait précis (chiffre, date, citation, motif prêté à une personne). "
+        "Quand une raison n'est pas confirmée par l'article, formule-la comme une explication courante "
+        "('l'objectif est généralement de...', 'cela s'explique souvent par...') ou dis que les motifs n'ont pas été précisés.\n"
+        "Langage simple, pas d'opinion.\n"
+        'Réponds uniquement en JSON : {"resumes": [{"id": 0, "resume": "...", "contexte": "..."}]}\n\n'
         "Articles :\n" + json.dumps(payload, ensure_ascii=False)
     )
     res = gemini(prompt)
@@ -200,17 +207,22 @@ def summarize(items):
     if isinstance(res, dict):
         for r in res.get("resumes", []):
             try:
-                resumes[int(r["id"])] = clean_text(r["resume"])
+                resumes[int(r["id"])] = (
+                    clean_text(r.get("resume", "")),
+                    clean_text(r.get("contexte", "")),
+                )
             except Exception:
                 pass
     out = []
     for i, it in enumerate(items):
+        resume, contexte = resumes.get(i, ("", ""))
         out.append({
             "titre": it["titre"],
             "lien": it["lien"],
             "source": it["source"],
             "date": it["date"].isoformat(),
-            "resume": resumes.get(i) or it["extrait"][:300],
+            "resume": resume or it["extrait"][:300],
+            "contexte": contexte,
         })
     return out
 
