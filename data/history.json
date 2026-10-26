@@ -1,63 +1,71 @@
 {
   "days": {
     "2026-10-26": {
-      "morning_run": "2026-10-26T21:46:12.134889+01:00",
+      "morning_run": "2026-10-26T22:57:54.793649+01:00",
       "morning_items": [
+        {
+          "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
+          "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-26T22:31:17+01:00",
+          "resume": "Lundi, le gouvernement a reçu les organisations lycéennes et étudiantes afin de tenter de mettre fin à une crise sociale marquée par cinq semaines de blocages d'établissements. Edouard Geffray a affirmé que les élèves allaient voir leur vie changer à l'issue de ces échanges. Malgré cette réunion, l'intersyndicale jeunesse a appelé à poursuivre la mobilisation.",
+          "contexte": "Ces mouvements de contestation chez les jeunes traduisent généralement un désaccord profond avec les réformes éducatives en cours ou les conditions de vie étudiante. Le dialogue avec l'exécutif vise à apaiser les tensions pour éviter la prolongation des blocages, qui perturbent le fonctionnement des établissements scolaires et universitaires."
+        },
+        {
+          "titre": "Une commission de l'ONU accuse Israël de commettre des crimes contre l'humanité contre les Palestiniens en Cisjordanie occupée",
+          "lien": "https://www.franceinfo.fr/monde/israel/une-commission-de-l-onu-accuse-israel-de-commettre-des-crimes-contre-l-humanite-contre-les-palestiniens-en-cisjordanie_8254216.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-26T22:27:28+01:00",
+          "resume": "Une commission de l'ONU a publié un rapport accusant Israël de commettre des crimes contre l'humanité à l'encontre des Palestiniens en Cisjordanie occupée. Les faits mentionnés dans ce document comprennent l'extermination, la torture et des violences sexuelles. De son côté, Israël a rejeté ces conclusions, qualifiant le rapport de tentative visant à détruire l'État juif.",
+          "contexte": "Les accusations formulées par des organes de l'ONU s'inscrivent dans le cadre du suivi international du conflit israélo-palestinien et du respect du droit international humanitaire. Ce type de rapport exerce une pression diplomatique importante sur les gouvernements concernés, bien que les décisions de ces commissions n'aient pas de pouvoir contraignant direct."
+        },
+        {
+          "titre": "Le PSG s'offre l'OL dans le choc décalé de la 8e journée et prend les commandes de la Ligue 1",
+          "lien": "https://www.franceinfo.fr/sports/foot/psg/le-psg-s-offre-l-ol-dans-le-choc-decale-de-la-8e-journee-et-prend-les-commandes-de-la-ligue-1_8254879.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-26T22:22:23+01:00",
+          "resume": "Lundi soir, le Paris Saint-Germain a battu l'Olympique Lyonnais sur le score de 2 à 0 lors d'un match décalé comptant pour la 8e journée de Ligue 1. Dominateur et patient, le club parisien a fait la différence en fin de rencontre face à son adversaire. Grâce à cette victoire, le PSG s'empare de la première place du classement du championnat de France.",
+          "contexte": "Ce type de confrontation directe entre clubs de premier plan pèse lourdement dans la course au titre en Ligue 1. Pour le PSG, l'objectif est de s'installer durablement en tête du championnat, tandis que pour l'OL, ce match constitue un test important pour mesurer ses ambitions européennes."
+        },
+        {
+          "titre": "Donald Trump dénonce des élections \"truquées\" au Brésil après la défaite de Flavio Bolsonaro",
+          "lien": "https://www.franceinfo.fr/monde/bresil/donald-trump-denonce-des-elections-truquees-au-bresil-apres-la-defaite-de-flavio-bolsonaro_8254870.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-26T22:21:30+01:00",
+          "resume": "Le président des États-Unis a publiquement qualifié les élections brésiliennes de \"truquées\" après la défaite de Flavio Bolsonaro. Pour appuyer ses déclarations, il a fait référence à sa propre défaite lors de l'élection présidentielle américaine de 2020 face à Joe Biden.",
+          "contexte": "Ce type de prise de position s'inscrit dans une rhétorique politique contestataire visant à jeter le doute sur la régularité des scrutins démocratiques en cas de défaite des candidats soutenus. Cela reflète les clivages politiques internationaux et les alliances entre courants populistes à travers le monde."
+        },
+        {
+          "titre": "Mobilisations sociales : à Marseille, Emmanuel Macron fait le mea culpa de l’Etat",
+          "lien": "https://www.lemonde.fr/politique/article/2026/10/26/mobilisations-sociales-a-marseille-emmanuel-macron-fait-le-mea-culpa-de-l-etat_6800843_823448.html",
+          "source": "Le Monde",
+          "date": "2026-10-26T21:57:57+01:00",
+          "resume": "En déplacement à Marseille, le président de la République Emmanuel Macron a fait le mea culpa de l'État face aux mobilisations sociales. Il a reconnu un manque d'anticipation des forces de l'ordre et du gouvernement avant la date du 17 octobre tout en saluant la légitimité du mouvement, sans toutefois annoncer de mesures précises.",
+          "contexte": "Ce genre de reconnaissance publique de la part de l'exécutif intervient généralement pour tenter de désamorcer une crise sociale et de renouer le dialogue avec les contestataires. L'enjeu est de limiter les débordements tout en répondant aux critiques sur la gestion du maintien de l'ordre."
+        },
+        {
+          "titre": "Serbie : les étudiants prennent le pouvoir",
+          "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html#xtor=RSS-3-%5Bgeneral%5D",
+          "source": "franceinfo Monde",
+          "date": "2026-10-26T21:53:30+01:00",
+          "resume": "Dimanche 25 octobre, le mouvement des étudiants en Serbie a remporté les élections face au dirigeant populiste Aleksandar Vučić, au pouvoir depuis 12 ans. Cette victoire fait suite à deux années de mobilisation menées par la rue pour obtenir le changement politique.",
+          "contexte": "L'implication prolongée de la jeunesse et des mouvements citoyens dans les pays d'Europe de l'est traduit souvent une volonté de renouvellement démocratique face à une gouvernance jugée autoritaire. La prise de pouvoir par la rue marque un tournant institutionnel majeur dans l'histoire politique récente du pays."
+        },
         {
           "titre": "Lula déjoue les pronostics en étant réélu président du Brésil",
           "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html#xtor=RSS-3-%5Bgeneral%5D",
           "source": "franceinfo Monde",
           "date": "2026-10-26T21:42:19+01:00",
-          "resume": "Au Brésil, Lula a remporté l'élection présidentielle avec 51,8 % des voix face à Flávio Bolsonaro, alors qu'il était donné perdant. Tout comme son père, le candidat d'extrême droite a refusé de reconnaître sa défaite électorale."
+          "resume": "Lula a remporté l'élection présidentielle au Brésil en obtenant 51,8 % des voix face à Flavio Bolsonaro, alors qu'il était donné perdant par les pronostics. Le candidat d'extrême droite a adopté une attitude similaire à celle de son père en refusant de reconnaître sa défaite électorale.",
+          "contexte": "Le retour au pouvoir de Lula illustre l'alternance politique observée dans plusieurs grandes démocraties sud-américaines, marquées par des polarisations fortes entre la gauche et la droite populiste. Le refus de reconnaître les résultats électoraux fragilise traditionnellement les transitions démocratiques et les institutions du pays."
         },
         {
-          "titre": "Attentat raciste dans les Yvelines : la garde à vue du principal suspect, qui \"conteste le caractère raciste de ses crimes\", a repris",
-          "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html#xtor=RSS-3-[lestitres]",
+          "titre": "Attentat raciste à Trappes : des images de vidéosurveillance montrent le parcours du meurtrier dans une station-service",
+          "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-raciste-a-trappes-revelations-sur-le-parcours-du-meurtrier-presume_8254756.html#xtor=RSS-3-[lestitres]",
           "source": "franceinfo",
-          "date": "2026-10-26T21:27:00+01:00",
-          "resume": "Un attentat survenu à Trappes et La Verrière a entraîné la mort d'une personne et en a blessé cinq autres. La garde à vue du principal suspect a repris, ce dernier contestant le caractère raciste de ses crimes."
-        },
-        {
-          "titre": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
-          "lien": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html",
-          "source": "Le Monde",
-          "date": "2026-10-26T21:08:51+01:00",
-          "resume": "L'entreprise d'intelligence artificielle Anthropic a déposé son dossier d'introduction en Bourse. Son prospectus révèle une forte croissance de son chiffre d'affaires, une rentabilité opérationnelle ainsi que des projets d'investissements importants."
-        },
-        {
-          "titre": "L'ONU alerte sur le risque de \"nettoyage ethnique\" lié à l'opération israélienne à Hébron",
-          "lien": "https://www.france24.com/fr/moyen-orient/20261026-onu-alerte-risque-nettoyage-ethnique-li%C3%A9-op%C3%A9ration-isra%C3%A9lienne-h%C3%A9bron-cisjordanie-occupee-palestine",
-          "source": "France 24",
-          "date": "2026-10-26T21:02:53+01:00",
-          "resume": "Le haut-commissaire de l'ONU aux droits de l'Homme a exprimé de graves inquiétudes concernant un risque de « nettoyage ethnique » à Hébron, en Cisjordanie occupée. Cette situation fait suite à une opération israélienne lancée après la mort de deux soldats, qui a entraîné l'expulsion de plus de 3 000 personnes."
-        },
-        {
-          "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
-          "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
-          "source": "franceinfo",
-          "date": "2026-10-26T20:56:24+01:00",
-          "resume": "Le gouvernement a rencontré les organisations lycéennes et étudiantes pour tenter de mettre fin à cinq semaines de crise et de blocages d'établissements. Malgré ces échanges, l'intersyndicale jeunesse appelle à poursuivre la mobilisation."
-        },
-        {
-          "titre": "Le patron d’Audi critiqué après l’annonce de la construction d’une usine aux Etats-Unis lors d’un meeting de Trump",
-          "lien": "https://www.lemonde.fr/economie/article/2026/10/26/le-patron-d-audi-critique-apres-l-annonce-de-la-construction-d-une-usine-aux-etats-unis-lors-d-un-meeting-de-trump_6800840_3234.html",
-          "source": "Le Monde",
-          "date": "2026-10-26T20:50:21+01:00",
-          "resume": "Le PDG d'Audi, Gernot Döllner, a participé à un meeting de Donald Trump pour annoncer la construction d'une future usine en Géorgie. Cette apparition publique a suscité de vives critiques au sein du groupe Volkswagen et dans la presse allemande."
-        },
-        {
-          "titre": "Europe 1 mise en demeure par l’Arcom après des propos « de nature à inciter à la haine » tenus à l’antenne par sa présentatrice Christine Kelly",
-          "lien": "https://www.lemonde.fr/economie/article/2026/10/26/europe-1-mise-en-demeure-par-l-arcom-apres-des-propos-de-nature-a-inciter-a-la-haine-tenus-a-l-antenne-par-sa-presentatrice-christine-kelly_6800838_3234.html",
-          "source": "Le Monde",
-          "date": "2026-10-26T20:48:03+01:00",
-          "resume": "L'Arcom a mis en demeure Europe 1 après des propos concernant les migrants tenus en janvier par la présentatrice Christine Kelly, jugés de nature à inciter à la haine. Cette mise en demeure constitue une étape préalable à d'éventuelles sanctions financières."
-        },
-        {
-          "titre": "Venezuela : Corina Machado se dit prête à rencontrer Delcy Rodriguez, qui dénonce son « show »",
-          "lien": "https://www.lemonde.fr/international/article/2026/10/26/venezuela-corina-machado-se-dit-prete-a-rencontrer-delcy-rodriguez-qui-denonce-son-show_6800836_3210.html",
-          "source": "Le Monde",
-          "date": "2026-10-26T20:31:09+01:00",
-          "resume": "Maria Corina Machado s'est dite prête à rencontrer la présidente par intérim du Venezuela, Delcy Rodriguez, afin de relancer le dialogue politique. Cette dernière a toutefois qualifié cette démarche de « show »."
+          "date": "2026-10-26T21:42:15+01:00",
+          "resume": "Des images de vidéosurveillance provenant d'une station-service ont été diffusées dans le cadre de l'enquête sur l'attentat raciste commis à Trappes, dans les Yvelines. Ces documents visuels retracent le parcours de l'auteur présumé et témoignent de sa détermination au moment des faits.",
+          "contexte": "L'exploitation des caméras de surveillance est une étape classique des investigations judiciaires pour reconstituer précisément le déroulement des drames et identifier les complices éventuels. Ce type d'affaire suscrit une vive émotion nationale en raison de la nature raciste des actes reprochés."
         }
       ]
     }
@@ -65,6 +73,9 @@
   "culture_seen": [
     "La boîte de Pandore",
     "L'étonnante régénération du foie",
-    "Voir le ciel, c'est regarder le passé"
+    "Voir le ciel, c'est regarder le passé",
+    "L'effet Veblen",
+    "La distance du marathon",
+    "L'origine du bug informatique"
   ]
 }

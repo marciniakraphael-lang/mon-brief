@@ -1,191 +1,94 @@
 {
   "date": "2026-10-26",
-  "mode": "evening",
-  "updated": "2026-10-26T21:50:18.594061+01:00",
+  "mode": "morning",
+  "updated": "2026-10-26T22:57:54.793649+01:00",
   "deja_presente": [],
   "depuis_hier": [],
   "aujourdhui": [
+    {
+      "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T22:31:17+01:00",
+      "resume": "Lundi, le gouvernement a reçu les organisations lycéennes et étudiantes afin de tenter de mettre fin à une crise sociale marquée par cinq semaines de blocages d'établissements. Edouard Geffray a affirmé que les élèves allaient voir leur vie changer à l'issue de ces échanges. Malgré cette réunion, l'intersyndicale jeunesse a appelé à poursuivre la mobilisation.",
+      "contexte": "Ces mouvements de contestation chez les jeunes traduisent généralement un désaccord profond avec les réformes éducatives en cours ou les conditions de vie étudiante. Le dialogue avec l'exécutif vise à apaiser les tensions pour éviter la prolongation des blocages, qui perturbent le fonctionnement des établissements scolaires et universitaires."
+    },
+    {
+      "titre": "Une commission de l'ONU accuse Israël de commettre des crimes contre l'humanité contre les Palestiniens en Cisjordanie occupée",
+      "lien": "https://www.franceinfo.fr/monde/israel/une-commission-de-l-onu-accuse-israel-de-commettre-des-crimes-contre-l-humanite-contre-les-palestiniens-en-cisjordanie_8254216.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T22:27:28+01:00",
+      "resume": "Une commission de l'ONU a publié un rapport accusant Israël de commettre des crimes contre l'humanité à l'encontre des Palestiniens en Cisjordanie occupée. Les faits mentionnés dans ce document comprennent l'extermination, la torture et des violences sexuelles. De son côté, Israël a rejeté ces conclusions, qualifiant le rapport de tentative visant à détruire l'État juif.",
+      "contexte": "Les accusations formulées par des organes de l'ONU s'inscrivent dans le cadre du suivi international du conflit israélo-palestinien et du respect du droit international humanitaire. Ce type de rapport exerce une pression diplomatique importante sur les gouvernements concernés, bien que les décisions de ces commissions n'aient pas de pouvoir contraignant direct."
+    },
+    {
+      "titre": "Le PSG s'offre l'OL dans le choc décalé de la 8e journée et prend les commandes de la Ligue 1",
+      "lien": "https://www.franceinfo.fr/sports/foot/psg/le-psg-s-offre-l-ol-dans-le-choc-decale-de-la-8e-journee-et-prend-les-commandes-de-la-ligue-1_8254879.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T22:22:23+01:00",
+      "resume": "Lundi soir, le Paris Saint-Germain a battu l'Olympique Lyonnais sur le score de 2 à 0 lors d'un match décalé comptant pour la 8e journée de Ligue 1. Dominateur et patient, le club parisien a fait la différence en fin de rencontre face à son adversaire. Grâce à cette victoire, le PSG s'empare de la première place du classement du championnat de France.",
+      "contexte": "Ce type de confrontation directe entre clubs de premier plan pèse lourdement dans la course au titre en Ligue 1. Pour le PSG, l'objectif est de s'installer durablement en tête du championnat, tandis que pour l'OL, ce match constitue un test important pour mesurer ses ambitions européennes."
+    },
+    {
+      "titre": "Donald Trump dénonce des élections \"truquées\" au Brésil après la défaite de Flavio Bolsonaro",
+      "lien": "https://www.franceinfo.fr/monde/bresil/donald-trump-denonce-des-elections-truquees-au-bresil-apres-la-defaite-de-flavio-bolsonaro_8254870.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T22:21:30+01:00",
+      "resume": "Le président des États-Unis a publiquement qualifié les élections brésiliennes de \"truquées\" après la défaite de Flavio Bolsonaro. Pour appuyer ses déclarations, il a fait référence à sa propre défaite lors de l'élection présidentielle américaine de 2020 face à Joe Biden.",
+      "contexte": "Ce type de prise de position s'inscrit dans une rhétorique politique contestataire visant à jeter le doute sur la régularité des scrutins démocratiques en cas de défaite des candidats soutenus. Cela reflète les clivages politiques internationaux et les alliances entre courants populistes à travers le monde."
+    },
+    {
+      "titre": "Mobilisations sociales : à Marseille, Emmanuel Macron fait le mea culpa de l’Etat",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/26/mobilisations-sociales-a-marseille-emmanuel-macron-fait-le-mea-culpa-de-l-etat_6800843_823448.html",
+      "source": "Le Monde",
+      "date": "2026-10-26T21:57:57+01:00",
+      "resume": "En déplacement à Marseille, le président de la République Emmanuel Macron a fait le mea culpa de l'État face aux mobilisations sociales. Il a reconnu un manque d'anticipation des forces de l'ordre et du gouvernement avant la date du 17 octobre tout en saluant la légitimité du mouvement, sans toutefois annoncer de mesures précises.",
+      "contexte": "Ce genre de reconnaissance publique de la part de l'exécutif intervient généralement pour tenter de désamorcer une crise sociale et de renouer le dialogue avec les contestataires. L'enjeu est de limiter les débordements tout en répondant aux critiques sur la gestion du maintien de l'ordre."
+    },
+    {
+      "titre": "Serbie : les étudiants prennent le pouvoir",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-26T21:53:30+01:00",
+      "resume": "Dimanche 25 octobre, le mouvement des étudiants en Serbie a remporté les élections face au dirigeant populiste Aleksandar Vučić, au pouvoir depuis 12 ans. Cette victoire fait suite à deux années de mobilisation menées par la rue pour obtenir le changement politique.",
+      "contexte": "L'implication prolongée de la jeunesse et des mouvements citoyens dans les pays d'Europe de l'est traduit souvent une volonté de renouvellement démocratique face à une gouvernance jugée autoritaire. La prise de pouvoir par la rue marque un tournant institutionnel majeur dans l'histoire politique récente du pays."
+    },
     {
       "titre": "Lula déjoue les pronostics en étant réélu président du Brésil",
       "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
       "date": "2026-10-26T21:42:19+01:00",
-      "resume": "Au Brésil, Lula a remporté l’élection présidentielle avec 51,8 % des voix face à Flávio Bolsonaro, qui refuse de reconnaître sa défaite. Une situation similaire à celle observée avec son père, le leader d'extrême droite."
+      "resume": "Lula a remporté l'élection présidentielle au Brésil en obtenant 51,8 % des voix face à Flavio Bolsonaro, alors qu'il était donné perdant par les pronostics. Le candidat d'extrême droite a adopté une attitude similaire à celle de son père en refusant de reconnaître sa défaite électorale.",
+      "contexte": "Le retour au pouvoir de Lula illustre l'alternance politique observée dans plusieurs grandes démocraties sud-américaines, marquées par des polarisations fortes entre la gauche et la droite populiste. Le refus de reconnaître les résultats électoraux fragilise traditionnellement les transitions démocratiques et les institutions du pays."
     },
     {
       "titre": "Attentat raciste à Trappes : des images de vidéosurveillance montrent le parcours du meurtrier dans une station-service",
       "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-raciste-a-trappes-revelations-sur-le-parcours-du-meurtrier-presume_8254756.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T21:42:15+01:00",
-      "resume": "Des images de vidéosurveillance provenant d'une station-service ont été diffusées, montrant le parcours de l'auteur présumé de l'attentat raciste commis dans les Yvelines. Ces documents témoignent de la détermination du suspect."
-    },
-    {
-      "titre": "Attentat raciste dans les Yvelines : la garde à vue du principal suspect, qui \"conteste le caractère raciste de ses crimes\", a repris",
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-26T21:27:00+01:00",
-      "resume": "La garde à vue du principal suspect de l'attentat raciste survenu à Trappes et La Verrière a repris. Il conteste le caractère raciste de ses crimes, commis lors de cette attaque qui a fait un mort et cinq blessés."
-    },
-    {
-      "titre": "Parcoursup : ce qui pourrait changer dès cette année, selon les propositions du gouvernement",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-ce-qui-pourrait-changer-des-cette-annee-selon-les-propositions-du-gouvernement_8254804.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-26T21:16:00+01:00",
-      "resume": "Le gouvernement envisage des changements pour la plateforme d'orientation Parcoursup dès cette année. L'objectif de ces propositions est de rendre le système plus juste et moins opaque, face à la colère des lycéens."
-    },
-    {
-      "titre": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html",
-      "source": "Le Monde",
-      "date": "2026-10-26T21:08:51+01:00",
-      "resume": "L'entreprise d'intelligence artificielle Anthropic a déposé son dossier d'introduction en Bourse. Ce document révèle une forte croissance de son chiffre d'affaires, une rentabilité opérationnelle ainsi que des projets d'investissements importants."
-    },
-    {
-      "titre": "\"Une première réponse\" à \"une de nos revendications importantes\", juge le syndicat d'enseignants SE-Unsa après l'annonce du plafonnement des classes de seconde à 28 élèves",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-premiere-reponse-a-une-de-nos-revendications-importantes-juge-le-syndicat-d-enseignants-se-unsa-apres-l-annonce-du-plafonnement-des-classes-de-seconde-a-28-eleves_8254780.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-26T21:07:25+01:00",
-      "resume": "Le syndicat d'enseignants SE-Unsa salue le plafonnement des classes de seconde à 28 élèves comme une première réponse à ses revendications. Il nuance toutefois sa position en soulignant l'absence de financement acté dans le projet de loi de finances."
-    },
-    {
-      "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-26T20:56:24+01:00",
-      "resume": "Le gouvernement a rencontré les organisations lycéennes et étudiantes pour tenter de mettre fin à cinq semaines de crise et de blocages. Tandis qu'Edouard Geffray assure que la vie des élèves va changer, l'intersyndicale jeunesse appelle à poursuivre la mobilisation."
-    },
-    {
-      "titre": "Le patron d’Audi critiqué après l’annonce de la construction d’une usine aux Etats-Unis lors d’un meeting de Trump",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/26/le-patron-d-audi-critique-apres-l-annonce-de-la-construction-d-une-usine-aux-etats-unis-lors-d-un-meeting-de-trump_6800840_3234.html",
-      "source": "Le Monde",
-      "date": "2026-10-26T20:50:21+01:00",
-      "resume": "Le PDG d'Audi, Gernot Döllner, a été critiqué après avoir rejoint Donald Trump sur scène lors d'un meeting pour annoncer la construction d'une usine en Géorgie. Ce choix a suscité des réactions négatives dans la presse allemande et au sein du groupe Volkswagen."
-    },
-    {
-      "titre": "Europe 1 mise en demeure par l’Arcom après des propos « de nature à inciter à la haine » tenus à l’antenne par sa présentatrice Christine Kelly",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/26/europe-1-mise-en-demeure-par-l-arcom-apres-des-propos-de-nature-a-inciter-a-la-haine-tenus-a-l-antenne-par-sa-presentatrice-christine-kelly_6800838_3234.html",
-      "source": "Le Monde",
-      "date": "2026-10-26T20:48:03+01:00",
-      "resume": "L'Arcom a mis en demeure Europe 1 après des propos sur les migrants tenus à l'antenne par la présentatrice Christine Kelly, jugés de nature à inciter à la haine sans réaction en plateau. Cette mise en demeure constitue une étape préalable à d'éventuelles sanctions financières."
-    },
-    {
-      "titre": "Venezuela : Corina Machado se dit prête à rencontrer Delcy Rodriguez, qui dénonce son « show »",
-      "lien": "https://www.lemonde.fr/international/article/2026/10/26/venezuela-corina-machado-se-dit-prete-a-rencontrer-delcy-rodriguez-qui-denonce-son-show_6800836_3210.html",
-      "source": "Le Monde",
-      "date": "2026-10-26T20:31:09+01:00",
-      "resume": "Au Venezuela, Maria Corina Machado s'est dite prête à rencontrer la présidente par intérim Delcy Rodriguez, qui a de son côté qualifié la situation de show. Cette dynamique pourrait permettre de relancer le dialogue politique dans le pays."
+      "resume": "Des images de vidéosurveillance provenant d'une station-service ont été diffusées dans le cadre de l'enquête sur l'attentat raciste commis à Trappes, dans les Yvelines. Ces documents visuels retracent le parcours de l'auteur présumé et témoignent de sa détermination au moment des faits.",
+      "contexte": "L'exploitation des caméras de surveillance est une étape classique des investigations judiciaires pour reconstituer précisément le déroulement des drames et identifier les complices éventuels. Ce type d'affaire suscrit une vive émotion nationale en raison de la nature raciste des actes reprochés."
     }
   ],
   "culture": [
     {
-      "theme": "mythologie grecque",
-      "titre": "La boîte de Pandore",
-      "texte": "Selon la mythologie grecque, Pandore est la première femme mortelle, façonnée sur ordre de Zeus. Les divinités lui offrent de nombreux dons, mais Zeus lui confie également une mystérieuse jarre scellée en lui interdisant de l'ouvrir. Dévorée par la curiosité, Pandore finit par soulever le couvercle de l'objet. Tous les maux de l'humanité, comme la maladie et la souffrance, s'en échappent alors pour se propager sur la Terre. Prise de panique, elle referme le récipient, n'y laissant prisonnière qu'une seule chose : l'Espérance.",
-      "a_retenir": "L'ouverture de la boîte de Pandore symbolise l'apparition de tous les malheurs terrestres, contrebalancée par la persistance de l'espoir."
+      "theme": "économie",
+      "titre": "L'effet Veblen",
+      "texte": "En économie classique, la demande pour un bien diminue généralement lorsque son prix augmente. Pourtant, l'économiste Thorstein Veblen a mis en lumière une surprenante exception qui porte aujourd'hui son nom. Dans l'univers du luxe, un prix très élevé rend parfois un produit encore plus désirable aux yeux des acheteurs. Cette réaction s'explique par la recherche d'un prestige social et d'une distinction visible au sein du groupe. Payer cher devient alors une preuve de richesse, transformant le coût prohibitif en un puissant argument de vente.",
+      "a_retenir": "L'effet Veblen désigne le phénomène par lequel la hausse du prix d'un produit de luxe accroît paradoxalement sa demande."
     },
     {
-      "theme": "santé et corps humain",
-      "titre": "L'étonnante régénération du foie",
-      "texte": "Le foie est le plus volumineux des organes internes et assure plusieurs centaines de fonctions vitales. Il participe activement à la détoxification de l'organisme, à la digestion des graisses et à la régulation du métabolisme. Sa particularité la plus remarquable réside dans son extraordinaire pouvoir de régénération. Même amputé d'une grande partie de ses tissus, un foie sain parvient à reconstituer son volume d'origine en quelques mois. Cette capacité biologique unique au corps humain rend notamment possibles les greffes à partir de donneurs vivants.",
-      "a_retenir": "Le foie est le seul organe interne du corps humain capable de se régénérer entièrement après une perte importante de ses tissus."
+      "theme": "sport",
+      "titre": "La distance du marathon",
+      "texte": "Le marathon moderne s'inspire du mythe du soldat grec Philippidès, reliant la ville de Marathon à Athènes pour annoncer une victoire militaire. Cependant, la distance contemporaine de 42,195 kilomètres ne date pas du tout de l'Antiquité grecque. Elle a été définie lors des Jeux olympiques de Londres en 1908 pour des raisons d'organisation locale. Le tracé a été adapté pour démarrer devant le château de Windsor et se terminer précisément devant la loge royale du stade. Ce parcours taillé sur mesure pour la famille royale britannique est ensuite devenu le standard mondial officiel de l'épreuve.",
+      "a_retenir": "La distance officielle de 42,195 km a été fixée lors des Jeux olympiques de Londres en 1908 pour convenir à la famille royale."
     },
     {
-      "theme": "science",
-      "titre": "Voir le ciel, c'est regarder le passé",
-      "texte": "Dans le vide spatial, la lumière file à une allure gigantesque d'environ trois cent mille kilomètres par seconde. Malgré cette vitesse fulgurante, l'immensité du cosmos implique que ses rayons mettent du temps à nous parvenir. La lumière émise par notre Soleil, par exemple, met un peu plus de huit minutes pour atteindre la Terre. Pour les étoiles plus lointaines, ce trajet astronomique nécessite plusieurs dizaines, centaines, voire milliards d'années. Lorsque nous braquons un télescope vers les confins de l'Univers, nous contemplons donc des astres tels qu'ils étaient dans le passé lointain.",
-      "a_retenir": "Puisque la lumière voyage à une vitesse finie, observer le ciel nocturne revient à contempler l'histoire ancienne de l'Univers."
+      "theme": "technologie",
+      "titre": "L'origine du bug informatique",
+      "texte": "Le mot anglais « bug », qui signifie insecte, est universellement utilisé pour qualifier une erreur dans un programme informatique. Bien que ce terme fût déjà employé par les mécaniciens du dix-neuvième siècle, son usage dans l'informatique repose sur une anecdote bien réelle. En 1947, l'équipe de la pionnière Grace Hopper travaillait sur l'ordinateur électromécanique Harvard Mark II lorsqu'une panne inexpliquée s'est produite. En inspectant les circuits, les opérateurs ont extrait un véritable papillon de nuit coincé dans l'un des relais de la machine. L'insecte a été collé dans le carnet de bord officiel, immortalisant le premier cas documenté de « bug » informatique.",
+      "a_retenir": "Le terme de bug informatique est devenu célèbre après la découverte d'un papillon de nuit coincé dans les relais d'un ordinateur en 1947."
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "f1d236f910",
-      "date": "2026-10-26",
-      "type": "actu",
-      "question": "Quel pourcentage des voix a permis à Lula de remporter l'élection présidentielle au Brésil ?",
-      "choix": [
-        "55,2 %",
-        "48,5 %",
-        "60,1 %",
-        "51,8 %"
-      ],
-      "reponse": 3,
-      "explication": "Lula a remporté l'élection présidentielle au Brésil avec 51,8 % des voix.",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "id": "d3a27e780d",
-      "date": "2026-10-26",
-      "type": "actu",
-      "question": "Quelle entreprise d'intelligence artificielle a déposé son dossier d'introduction en Bourse ?",
-      "choix": [
-        "DeepMind",
-        "Mistral AI",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "reponse": 3,
-      "explication": "L'entreprise d'intelligence artificielle Anthropic a officialisé son introduction en Bourse.",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html"
-    },
-    {
-      "id": "3acd850d60",
-      "date": "2026-10-26",
-      "type": "actu",
-      "question": "Quel est le nouveau seuil de plafonnement des classes de seconde salué par le syndicat SE-Unsa ?",
-      "choix": [
-        "25 élèves",
-        "28 élèves",
-        "32 élèves",
-        "30 élèves"
-      ],
-      "reponse": 1,
-      "explication": "Le syndicat a réagi à l'annonce du plafonnement des classes de seconde à 28 élèves.",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-premiere-reponse-a-une-de-nos-revendications-importantes-juge-le-syndicat-d-enseignants-se-unsa-apres-l-annonce-du-plafonnement-des-classes-de-seconde-a-28-eleves_8254780.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "32ac7ac6de",
-      "date": "2026-10-26",
-      "type": "actu",
-      "question": "Quelle autorité a mis en demeure la chaîne Europe 1 suite aux propos de sa présentatrice Christine Kelly ?",
-      "choix": [
-        "L'Arcom",
-        "Le Conseil d'État",
-        "Le CSA",
-        "L'HADOPI"
-      ],
-      "reponse": 0,
-      "explication": "C'est l'Arcom qui a prononcé la mise en demeure à l'encontre d'Europe 1.",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/26/europe-1-mise-en-demeure-par-l-arcom-apres-des-propos-de-nature-a-inciter-a-la-haine-tenus-a-l-antenne-par-sa-presentatrice-christine-kelly_6800838_3234.html"
-    },
-    {
-      "id": "fdfd297002",
-      "date": "2026-10-26",
-      "type": "culture",
-      "question": "Dans la mythologie grecque, qu'est-ce qui reste prisonnier au fond de la boîte de Pandore après qu'elle l'a refermée ?",
-      "choix": [
-        "L'Espérance",
-        "La maladie",
-        "La souffrance",
-        "La curiosité"
-      ],
-      "reponse": 0,
-      "explication": "Prise de panique, Pandore referme le récipient n'y laissant prisonnière que l'Espérance.",
-      "lien": ""
-    },
-    {
-      "id": "278f5034eb",
-      "date": "2026-10-26",
-      "type": "culture",
-      "question": "Quel organe du corps humain possède un extraordinaire pouvoir de régénération lui permettant de reconstituer son volume d'origine ?",
-      "choix": [
-        "Les reins",
-        "Le foie",
-        "Les poumons",
-        "Le cœur"
-      ],
-      "reponse": 1,
-      "explication": "Le texte indique que le foie possède une capacité de régénération unique lui permettant de reconstituer son volume d'origine en quelques mois.",
-      "lien": ""
-    }
-  ]
+  "quiz_jour": []
 }
