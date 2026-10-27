@@ -10,7 +10,7 @@ on:
       mode:
         description: "morning, update ou evening"
         required: true
-        default: "update"
+        default: "morning"
         type: choice
         options:
           - morning
