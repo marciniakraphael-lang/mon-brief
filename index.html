@@ -19,24 +19,20 @@ header{max-width:720px;margin:0 auto;padding:22px 20px 4px;display:flex;justify-
 h1{font-size:30px;font-weight:700;letter-spacing:-.02em;margin:0;line-height:1.1}
 .sub{color:var(--mut);font-size:13px}
 .icon-btn{background:var(--surface);border:1px solid var(--line);color:var(--mut);width:40px;height:40px;border-radius:12px;display:grid;place-items:center;padding:0}
-.wrap{max-width:720px;margin:0 auto;padding:0 16px}
-.stats{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
-.stat{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:12px 14px}
 .lab{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin-bottom:8px}
-.sbody{display:flex;align-items:center;gap:12px}
-.donut{width:56px;height:56px;border-radius:50%;flex:none;display:grid;place-items:center}
-.donut i{width:44px;height:44px;border-radius:50%;background:var(--surface);display:grid;place-items:center;font-style:normal;font-size:12px;font-weight:600}
-.n{font-size:20px;font-weight:700;line-height:1.1}
-.n span{font-size:12px;font-weight:500;color:var(--mut)}
-.s{font-size:12px;color:var(--mut)}
-main{max-width:720px;margin:0 auto;padding:4px 16px 24px}
+.s{font-size:12.5px;color:var(--mut)}
+.donut{border-radius:50%;flex:none;display:grid;place-items:center}
+.donut i{border-radius:50%;background:var(--surface);display:grid;place-items:center;font-style:normal;font-weight:600}
+main{max-width:720px;margin:0 auto;padding:12px 16px 24px}
 h3{margin:26px 4px 10px;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);font-weight:600;display:flex;justify-content:space-between;align-items:center}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px 16px;margin:0 0 10px}
 .card p{margin:10px 0;color:#cfd5e3}
-details.card summary{cursor:pointer;list-style:none;position:relative;padding-right:22px}
+details.card summary{cursor:pointer;list-style:none;position:relative;padding-right:24px}
 details.card summary::-webkit-details-marker{display:none}
-details.card summary::after{content:"";position:absolute;right:3px;top:10px;width:7px;height:7px;border-right:1.6px solid var(--mut);border-bottom:1.6px solid var(--mut);transform:rotate(45deg);transition:transform .2s}
-details.card[open] summary::after{transform:rotate(-135deg)}
+details.card summary::after{content:"";position:absolute;right:3px;top:50%;margin-top:-6px;width:7px;height:7px;border-right:1.6px solid var(--mut);border-bottom:1.6px solid var(--mut);transform:rotate(45deg);transition:transform .2s}
+details.card[open] summary::after{transform:rotate(-135deg);margin-top:-2px}
+.card.news{margin-bottom:8px}
+.card.news .t{font-size:16px}
 .src{display:block;color:var(--mut);font-size:12px;margin-bottom:2px}
 .t{display:block;font-weight:600;font-size:17px;line-height:1.35}
 .tag{display:inline-block;background:var(--surface2);color:var(--acc);border:1px solid var(--line);border-radius:999px;padding:2px 11px;font-size:12px;font-weight:600;margin-bottom:8px}
@@ -49,7 +45,16 @@ button{font:inherit}
 .pill.on{background:var(--acc);border-color:var(--acc);color:#0a0d14}
 .btn{display:block;width:100%;background:var(--acc);color:#0a0d14;font-weight:600;padding:14px;margin-top:14px;border:0;border-radius:14px;font-size:16px}
 .btn.alt{background:transparent;color:var(--ko);border:1px solid var(--ko)}
-.hint{color:var(--mut);font-size:13px;margin:6px 4px 14px}
+.btn.ghost{background:var(--surface2);color:var(--txt);border:1px solid var(--line);margin-top:10px}
+.hint{color:var(--mut);font-size:13px;margin:2px 4px 14px}
+.hub{display:flex;align-items:center;gap:14px;width:100%;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px 16px;margin:0 0 10px;color:var(--txt)}
+.hub .hbody{flex:1;min-width:0}
+.hub .t{font-size:16px}
+.hub::after{content:"";width:8px;height:8px;border-right:1.6px solid var(--mut);border-top:1.6px solid var(--mut);transform:rotate(45deg);flex:none}
+.hub.off{opacity:.55}
+.st{color:var(--acc);font-size:12px;font-weight:600;margin-top:2px}
+.qhead{display:flex;justify-content:space-between;align-items:center;margin:2px 0 16px}
+.qh2{display:flex;align-items:center;gap:10px}
 .prog{height:3px;background:var(--surface2);border-radius:3px;margin:6px 0 16px;overflow:hidden}
 .prog i{display:block;height:100%;background:var(--acc);border-radius:3px;transition:width .3s}
 .q{font-size:20px;line-height:1.35;margin:6px 0 12px;font-weight:600}
@@ -74,22 +79,20 @@ nav button.on{color:var(--acc)}
   <div><h1>Mon Brief</h1><div class="sub" id="sub"></div></div>
   <button class="icon-btn" id="refresh" aria-label="Actualiser"></button>
 </header>
-<div class="wrap"><div class="stats" id="stats"></div></div>
 <main id="view"></main>
 <nav id="nav"></nav>
 
 <script>
 // ---------- Réglages ----------
-const QUIZ_GENERAL = 10;   // questions par quiz général
+const QUIZ_SIZE = 10;   // questions par quiz culture / quiz sur tout
 
 const TABS = [
   ["actus","Actus"],
   ["culture","Culture"],
-  ["quiz","Du jour"],
-  ["general","Général"],
+  ["quiz","Quiz"],
   ["reglages","Réglages"]
 ];
-let tab = "actus", DATA = null, BANK = [], LOADING = true;
+let tab = "actus", quizMode = null, DATA = null, BANK = [], LOADING = true;
 const view = document.getElementById("view");
 
 // ---------- Icônes ----------
@@ -97,7 +100,6 @@ const ICONS = {
   actus:'<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>',
   culture:'<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>',
   quiz:'<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>',
-  general:'<polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/>',
   reglages:'<line x1="4" y1="21" x2="4" y2="14"/><line x1="4" y1="10" x2="4" y2="3"/><line x1="12" y1="21" x2="12" y2="12"/><line x1="12" y1="8" x2="12" y2="3"/><line x1="20" y1="21" x2="20" y2="16"/><line x1="20" y1="12" x2="20" y2="3"/><line x1="1" y1="14" x2="7" y2="14"/><line x1="9" y1="8" x2="15" y2="8"/><line x1="17" y1="16" x2="23" y2="16"/>',
   refresh:'<polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/>',
   sound:'<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/>'
@@ -146,6 +148,8 @@ function fmt(iso){
   try{ return new Date(iso).toLocaleString("fr-FR",{weekday:"short",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}); }
   catch(e){ return ""; }
 }
+
+function plural(n, word){ return n + " " + word + (n > 1 ? "s" : ""); }
 
 function empty(msg){ view.append(el("div",{class:"empty"}, msg)); }
 
@@ -216,7 +220,7 @@ if("speechSynthesis" in window){
 }
 
 // ---------- Statistiques (un camembert par quiz) ----------
-const KEYS = {jour:"gj", all:"ga"};
+const KEYS = {jour:"gj", culture:"gc", all:"ga"};
 
 (function migrate(){
   const old = store.get("g", null);
@@ -225,24 +229,47 @@ const KEYS = {jour:"gj", all:"ga"};
 
 function getG(kind){ return store.get(KEYS[kind], {answered:0, correct:0, quizzes:0}); }
 
-function statCard(label, g){
+function donut(g, size){
   const pct = g.answered ? Math.round(g.correct / g.answered * 100) : null;
-  const ring = el("div",{class:"donut"}, el("i",{}, pct === null ? "–" : pct + "%"));
+  const hole = el("i",{}, pct === null ? "–" : pct + "%");
+  hole.style.width = hole.style.height = (size - 12) + "px";
+  hole.style.fontSize = (size >= 56 ? 12 : 10) + "px";
+  const ring = el("div",{class:"donut"}, hole);
+  ring.style.width = ring.style.height = size + "px";
   ring.style.background = pct === null
     ? "#232a3b"
     : "conic-gradient(var(--ok) 0 " + pct + "%, var(--ko) " + pct + "% 100%)";
-  return el("div",{class:"stat"},
-    el("div",{class:"lab"}, label),
-    el("div",{class:"sbody"}, ring,
-      el("div",{},
-        el("div",{class:"n"}, String(g.quizzes), " ", el("span",{}, g.quizzes > 1 ? "quiz" : "quiz")),
-        el("div",{class:"s"}, g.correct + "/" + g.answered + " justes"))));
+  return ring;
 }
 
-function renderStats(){
-  document.getElementById("stats").replaceChildren(
-    statCard("Quiz du jour", getG("jour")),
-    statCard("Quiz général", getG("all")));
+let curHead = null;
+
+function buildHead(kind){
+  const g = getG(kind);
+  return el("div",{class:"qhead"},
+    el("button",{class:"pill", onclick:backToHub}, "‹ Quiz"),
+    el("div",{class:"qh2"},
+      el("div",{class:"s"}, plural(g.quizzes, "quiz") + " · " + g.correct + "/" + g.answered + " justes"),
+      donut(g, 40)));
+}
+
+function mountHead(kind){
+  const n = buildHead(kind);
+  curHead = {kind: kind, node: n};
+  view.append(n);
+}
+
+function refreshHead(){
+  if(!curHead) return;
+  const n = buildHead(curHead.kind);
+  if(curHead.node.isConnected) curHead.node.replaceWith(n);
+  curHead.node = n;
+}
+
+function backToHub(){
+  quizMode = null;
+  render();
+  window.scrollTo(0, 0);
 }
 
 function record(id, ok, kind){
@@ -256,25 +283,24 @@ function record(id, ok, kind){
   g.answered++;
   if(ok) g.correct++;
   store.set(KEYS[kind], g);
-  renderStats();
+  refreshHead();
 }
 
 function countQuiz(kind){
   const g = getG(kind);
   g.quizzes++;
   store.set(KEYS[kind], g);
-  renderStats();
+  refreshHead();
 }
 
-// ---------- Actus ----------
+// ---------- Actus (titres seuls, on déroule au toucher) ----------
 function articleCard(a){
   const listen = pill("Écouter", "sound");
   listen.onclick = () => speak([a.titre, a.resume, a.contexte ? "Pourquoi : " + a.contexte : ""], listen);
-  return el("details",{class:"card"},
-    el("summary",{},
-      el("span",{class:"src"}, a.source + " · " + fmt(a.date)),
-      el("span",{class:"t"}, a.titre)),
-    el("p",{}, a.resume),
+  return el("details",{class:"card news"},
+    el("summary",{}, el("span",{class:"t"}, a.titre)),
+    el("div",{class:"src",style:"margin-top:10px"}, a.source + " · " + fmt(a.date)),
+    el("p",{style:"margin-top:4px"}, a.resume),
     a.contexte ? el("div",{class:"ctx"}, el("b",{}, "Pourquoi"), a.contexte) : null,
     el("div",{class:"row"}, listen,
       a.lien ? el("a",{href:a.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗") : null));
@@ -302,7 +328,7 @@ function viewActus(){
   }
 }
 
-// ---------- Culture ----------
+// ---------- Culture (fiches) ----------
 function viewCulture(){
   const l = (DATA && DATA.culture) || [];
   if(!l.length){ empty("Les fiches de culture générale arrivent avec le brief du matin."); return; }
@@ -342,7 +368,9 @@ function runQuiz(root, sess, o){
         ok ? null : el("div",{class:"sub",style:"margin-top:4px"}, "Bonne réponse : " + q.choix[q.reponse]),
         q.explication ? el("div",{class:"sub",style:"margin-top:4px"}, q.explication) : null));
     });
-    root.append(el("button",{class:"btn", onclick:() => o.onRestart()}, o.restartLabel));
+    root.append(
+      el("button",{class:"btn", onclick:() => o.onRestart()}, o.restartLabel),
+      el("button",{class:"btn ghost", onclick:backToHub}, "Retour aux quiz"));
   }
 
   function step(){
@@ -396,9 +424,59 @@ function runQuiz(root, sess, o){
   step();
 }
 
-// ---------- Quiz du jour (actus du jour uniquement) ----------
-function viewQuiz(){
-  const qs = ((DATA && DATA.quiz_jour) || []).filter(q => q.type === "actu");
+// ---------- Menu des quiz ----------
+function sessStatus(key, sid){
+  const s = store.get(key, null);
+  if(!s || !s.qs || (sid && s.sid !== sid)) return "";
+  if(s.done){
+    const sc = s.qs.filter((q, k) => s.answers[k] === q.reponse).length;
+    return "Terminé · " + sc + "/" + s.qs.length;
+  }
+  const a = (s.answers || []).filter(x => x !== null && x !== undefined).length;
+  return a > 0 ? "En cours · " + a + "/" + s.qs.length : "";
+}
+
+function hubCard(title, desc, kind, status, enabled, mode){
+  const g = getG(kind);
+  return el("button",{class:"hub" + (enabled ? "" : " off"), onclick:() => { quizMode = mode; render(); window.scrollTo(0, 0); }},
+    donut(g, 60),
+    el("div",{class:"hbody"},
+      el("div",{class:"t"}, title),
+      el("div",{class:"s"}, desc),
+      el("div",{class:"s"}, plural(g.quizzes, "quiz") + " · " + g.correct + "/" + g.answered + " justes"),
+      status ? el("div",{class:"st"}, status) : null));
+}
+
+function dayQuestions(){
+  return ((DATA && DATA.quiz_jour) || []).filter(q => q.type === "actu");
+}
+
+function cultureQuestions(){
+  return BANK.filter(q => q.type === "culture");
+}
+
+function viewHub(){
+  const qj = dayQuestions();
+  const sidj = qj.map(q => q.id).join("-");
+  const nc = cultureQuestions().length;
+  const nt = BANK.length;
+  view.append(
+    el("div",{class:"hint"}, "Choisis ton quiz."),
+    hubCard("Quiz du jour",
+      qj.length ? "Les actus d’aujourd’hui · " + plural(qj.length, "question") : "Disponible avec le brief du soir",
+      "jour", sessStatus("qs_jour", sidj), qj.length > 0, "jour"),
+    hubCard("Quiz culture générale",
+      nc ? "Les fiches de culture · " + plural(nc, "question") : "Se remplit chaque soir",
+      "culture", sessStatus("qs_cult"), nc > 0, "culture"),
+    hubCard("Quiz sur tout ce que j’ai appris",
+      nt ? "Depuis le début · " + plural(nt, "question") : "Se remplit chaque soir",
+      "all", sessStatus("qs_gen"), nt > 0, "tout"));
+}
+
+// ---------- Quiz du jour ----------
+function viewQuizJour(){
+  mountHead("jour");
+  const qs = dayQuestions();
   if(!qs.length){ empty("Le quiz du jour arrive avec le brief du soir (vers 20 h 45)."); return; }
   const sid = qs.map(q => q.id).join("-");
   let sess = store.get("qs_jour", null);
@@ -413,34 +491,58 @@ function viewQuiz(){
   });
 }
 
-// ---------- Quiz général (tout depuis le début) ----------
-function pickGeneral(){
+// ---------- Quiz culture générale / Quiz sur tout ----------
+function pickFrom(pool){
   const st = store.get("stats", {});
-  return BANK.map(q => {
+  return pool.map(q => {
     const s = st[q.id];
     let w = 2;
     if(s) w = s.ko > s.ok ? 4 : (s.ko > 0 && s.ok - s.ko < 2 ? 3 : 1);
     return {q, w: w + Math.random() * 1.5};
-  }).sort((a, b) => b.w - a.w).slice(0, QUIZ_GENERAL).map(x => x.q).sort(() => Math.random() - 0.5);
+  }).sort((a, b) => b.w - a.w).slice(0, QUIZ_SIZE).map(x => x.q).sort(() => Math.random() - 0.5);
 }
 
-function viewGeneral(){
-  let sess = store.get("qs_gen", null);
+const POOLS = {
+  culture: {
+    key: "qs_cult", kind: "culture", label: "Quiz culture générale",
+    pool: cultureQuestions,
+    empty: "Les questions de culture arrivent avec le brief du soir. Reviens après quelques jours.",
+    restart: "Nouveau quiz culture"
+  },
+  tout: {
+    key: "qs_gen", kind: "all", label: "Quiz sur tout depuis le début",
+    pool: () => BANK,
+    empty: "La banque de questions se remplit chaque soir. Reviens après quelques quiz du jour.",
+    restart: "Nouveau quiz"
+  }
+};
+
+function viewPool(cfg){
+  mountHead(cfg.kind);
+  const pool = cfg.pool();
+  let sess = store.get(cfg.key, null);
   if(!sess){
-    if(BANK.length < 3){ empty("La banque de questions se remplit chaque soir. Reviens après quelques quiz du jour."); return; }
-    sess = newSession(pickGeneral(), "gen-" + Date.now());
-    store.set("qs_gen", sess);
+    if(pool.length < 1){ empty(cfg.empty); return; }
+    sess = newSession(pickFrom(pool), cfg.key + "-" + Date.now());
+    store.set(cfg.key, sess);
   }
   const st = store.get("stats", {});
-  const weak = BANK.filter(q => st[q.id] && st[q.id].ko > st[q.id].ok).length;
-  view.append(el("div",{class:"hint"}, "Toutes les questions depuis le début · " + BANK.length + " en banque · " + weak + " à retravailler."));
+  const weak = pool.filter(q => st[q.id] && st[q.id].ko > st[q.id].ok).length;
+  view.append(el("div",{class:"hint"}, plural(pool.length, "question") + " en banque · " + weak + " à retravailler."));
   const root = el("div"); view.append(root);
   runQuiz(root, sess, {
-    label: "Quiz général", kind: "all",
-    save: s => store.set("qs_gen", s),
-    restartLabel: "Nouveau quiz général",
-    onRestart: () => { store.set("qs_gen", null); render(); }
+    label: cfg.label, kind: cfg.kind,
+    save: s => store.set(cfg.key, s),
+    restartLabel: cfg.restart,
+    onRestart: () => { store.set(cfg.key, null); render(); }
   });
+}
+
+function viewQuiz(){
+  if(quizMode === "jour") viewQuizJour();
+  else if(quizMode === "culture") viewPool(POOLS.culture);
+  else if(quizMode === "tout") viewPool(POOLS.tout);
+  else viewHub();
 }
 
 // ---------- Réglages ----------
@@ -472,15 +574,19 @@ function viewReglages(){
       el("p",{class:"sub"}, "Sur ton iPhone : Réglages > Accessibilité > Contenu énoncé > Voix > Français, puis télécharge une voix « Premium » ou « Améliorée ». Reviens ici, recharge la page et choisis-la dans la liste.")),
     el("div",{class:"card"},
       el("div",{class:"lab"}, "Statistiques"),
-      el("p",{class:"sub"}, "Efface les deux camemberts, les compteurs et ta progression."),
+      el("p",{class:"sub"}, "Efface les camemberts, les compteurs et ta progression dans les quiz."),
       el("button",{class:"btn alt", onclick:() => {
         if(confirm("Effacer toutes tes statistiques de quiz ?")){
+          const zero = () => ({answered:0, correct:0, quizzes:0});
           store.set("g", null);
-          store.set("gj", {answered:0, correct:0, quizzes:0});
-          store.set("ga", {answered:0, correct:0, quizzes:0});
+          store.set("gj", zero());
+          store.set("gc", zero());
+          store.set("ga", zero());
           store.set("stats", {});
           store.set("qs_jour", null);
+          store.set("qs_cult", null);
           store.set("qs_gen", null);
+          quizMode = null;
           render();
         }
       }}, "Réinitialiser mes statistiques")));
@@ -489,16 +595,18 @@ function viewReglages(){
 // ---------- Affichage ----------
 function render(){
   stopSpeech();
+  curHead = null;
   document.getElementById("nav").replaceChildren(...TABS.map(([id, lb]) =>
-    el("button",{class: id === tab ? "on" : "", onclick:() => { tab = id; render(); window.scrollTo(0,0); }}, ico(id, 22), lb)));
+    el("button",{class: id === tab ? "on" : "", onclick:() => {
+      if(id === "quiz" && tab === "quiz") quizMode = null;
+      tab = id; render(); window.scrollTo(0, 0);
+    }}, ico(id, 22), lb)));
   document.getElementById("sub").textContent = DATA ? "Mis à jour · " + fmt(DATA.updated) : "";
-  renderStats();
   view.replaceChildren();
   if(LOADING && tab !== "reglages"){ empty("Chargement…"); return; }
   if(tab === "actus") viewActus();
   else if(tab === "culture") viewCulture();
   else if(tab === "quiz") viewQuiz();
-  else if(tab === "general") viewGeneral();
   else viewReglages();
 }
 
