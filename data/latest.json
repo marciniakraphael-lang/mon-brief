@@ -1,216 +1,224 @@
 {
-  "date": "2026-10-26",
-  "mode": "evening",
-  "updated": "2026-10-26T23:03:20.331581+01:00",
-  "deja_presente": [],
-  "depuis_hier": [],
-  "aujourdhui": [
-    {
-      "titre": "Brésil : après la victoire de Lula, la bourse de Sao Paulo dévisse",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261026-br%C3%A9sil-apr%C3%A8s-la-victoire-de-lula-la-bourse-de-sao-paulo-d%C3%A9visse",
-      "source": "France 24",
-      "date": "2026-10-26T22:56:56+01:00",
-      "resume": "À l'annonce de la réélection de Lula au Brésil, la bourse de Sao Paulo a chuté de plus de 17 points à l'ouverture. Le réal brésilien a également baissé, perdant jusqu'à 10% de sa valeur face au dollar pour atteindre un plus bas depuis décembre 2025. Le programme économique du président prévoit des investissements accrus dans l'industrie et pour les ménages modestes. Cette situation intervient alors que la dette publique atteint 82,5% du PIB.",
-      "contexte": "Les marchés financiers réagissent souvent négativement aux politiques publiques expansionnistes lorsqu'ils jugent que l'État est déjà trop endetté. L'objectif de telles mesures est généralement de soutenir le pouvoir d'achat et la production nationale, mais cela fait craindre aux investisseurs une aggravation des déficits publics et de l'inflation. Dans ce contexte, la baisse de la monnaie et des actions traduit l'incertitude des marchés face à la gestion budgétaire à venir."
-    },
-    {
-      "titre": "Lula : victoire sans pouvoir ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261026-lula-victoire-sans-pouvoir",
-      "source": "France 24",
-      "date": "2026-10-26T22:35:53+01:00",
-      "resume": "Lula a remporté l'élection présidentielle brésilienne face à son rival d'extrême droite Flavio Bolsonaro, actant son retour au pouvoir pour un quatrième mandat non consécutif. Cette victoire intervient contre toute attente pour le travailliste. Cependant, il devra gouverner avec un Parlement majoritairement conservateur.",
-      "contexte": "Ce type de configuration politique, souvent qualifiée de cohabitation ou de gouvernement minoritaire, rend l'adoption des réformes particulièrement difficile. Le président élu doit impérativement négocier avec des oppositions parlementaires pour faire passer son programme. Cela illustre les divisions profondes d'un pays où le pouvoir exécutif et le pouvoir législatif peuvent être aux mains de forces politiques opposées."
-    },
+  "date": "2026-10-27",
+  "mode": "morning",
+  "updated": "2026-10-27T09:19:27.586615+01:00",
+  "deja_presente": [
     {
       "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
       "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T22:31:17+01:00",
-      "resume": "Le gouvernement a reçu les organisations lycéennes et étudiantes lundi afin de tenter de mettre fin à cinq semaines de crise. Cette période a été marquée par des blocages d'établissements scolaires à travers le pays. L'intersyndicale jeunesse a toutefois appelé à poursuivre la mobilisation malgré cette entrevue.",
-      "contexte": "Les mouvements de blocage dans les lycées et universités surviennent généralement pour contester des réformes éducatives ou budgétaires jugées défavorables par la jeunesse. L'objectif des syndicats est de maintenir la pression sur l'exécutif pour obtenir des retraits de textes ou des garanties. La persistance de la mobilisation malgré les discussions montre la difficulté pour le gouvernement de désamorcer un conflit social bien installé."
+      "resume": "Lundi, le gouvernement a reçu les organisations lycéennes et étudiantes afin de tenter de mettre fin à une crise sociale marquée par cinq semaines de blocages d'établissements. Edouard Geffray a affirmé que les élèves allaient voir leur vie changer à l'issue de ces échanges. Malgré cette réunion, l'intersyndicale jeunesse a appelé à poursuivre la mobilisation.",
+      "contexte": "Ces mouvements de contestation chez les jeunes traduisent généralement un désaccord profond avec les réformes éducatives en cours ou les conditions de vie étudiante. Le dialogue avec l'exécutif vise à apaiser les tensions pour éviter la prolongation des blocages, qui perturbent le fonctionnement des établissements scolaires et universitaires."
     },
     {
       "titre": "Une commission de l'ONU accuse Israël de commettre des crimes contre l'humanité contre les Palestiniens en Cisjordanie occupée",
       "lien": "https://www.franceinfo.fr/monde/israel/une-commission-de-l-onu-accuse-israel-de-commettre-des-crimes-contre-l-humanite-contre-les-palestiniens-en-cisjordanie_8254216.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T22:27:28+01:00",
-      "resume": "Une commission de l'ONU a publié un rapport accusant Israël de commettre des crimes contre l'humanité, incluant l'extermination, la torture et les violences sexuelles, contre les Palestiniens en Cisjordanie occupée. Israël a immédiatement rejeté ces conclusions. Les autorités israéliennes ont qualifié ce rapport de tentative de détruire l'État juif.",
-      "contexte": "Les rapports des instances onusiennes visent à documenter les violations du droit international dans les zones de conflit. Les accusations de crimes contre l'humanité ont une portée juridique et symbolique majeure sur la scène internationale, même si leur application pratique dépend des juridictions internationales. De leur côté, les États visés contestent régulièrement la neutralité de ces enquêtes, qu'ils estiment souvent biaisées politiquement."
-    },
-    {
-      "titre": "Ballon d'Or 2026 : découvrez le palmarès de la 70e édition de la cérémonie",
-      "lien": "https://www.france24.com/fr/sports/20261026-ballon-d-or-2026-d%C3%A9couvrez-palmar%C3%A8s-70e-%C3%A9dition-c%C3%A9r%C3%A9monie-football-mbappe-yamal-kane-putellas",
-      "source": "France 24",
-      "date": "2026-10-26T22:23:52+01:00",
-      "resume": "La cérémonie du Ballon d'Or 2026 se tient au London Palladium Theatre, dans la capitale britannique, pour sa 70e édition. Le suspense reste entier pour l'attribution du trophée parmi les favoris annoncés que sont Harry Kane, Kylian Mbappé et Lamine Yamal. Les lauréats de cette édition sont dévoilés au fur et à mesure de la soirée.",
-      "contexte": "Le Ballon d'Or est la distinction individuelle la plus prestigieuse du football mondial, décernée chaque année pour récompenser les performances de l'année sportive. L'événement attire l'attention des médias internationaux et consacre les joueurs ayant brillé tant en club qu'en sélection. La présence de joueurs de profil et d'âges différents reflète le renouvellement permanent de l'élite du football."
+      "resume": "Une commission de l'ONU a publié un rapport accusant Israël de commettre des crimes contre l'humanité à l'encontre des Palestiniens en Cisjordanie occupée. Les faits mentionnés dans ce document comprennent l'extermination, la torture et des violences sexuelles. De son côté, Israël a rejeté ces conclusions, qualifiant le rapport de tentative visant à détruire l'État juif.",
+      "contexte": "Les accusations formulées par des organes de l'ONU s'inscrivent dans le cadre du suivi international du conflit israélo-palestinien et du respect du droit international humanitaire. Ce type de rapport exerce une pression diplomatique importante sur les gouvernements concernés, bien que les décisions de ces commissions n'aient pas de pouvoir contraignant direct."
     },
     {
       "titre": "Le PSG s'offre l'OL dans le choc décalé de la 8e journée et prend les commandes de la Ligue 1",
       "lien": "https://www.franceinfo.fr/sports/foot/psg/le-psg-s-offre-l-ol-dans-le-choc-decale-de-la-8e-journee-et-prend-les-commandes-de-la-ligue-1_8254879.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T22:22:23+01:00",
-      "resume": "Le Paris Saint-Germain s'est imposé 2 à 0 face à l'Olympique lyonnais lors du match décalé de la 8e journée de Ligue 1, disputé lundi soir. Dominateur et patient, le club de la capitale a fini par faire craquer son adversaire. Cette victoire permet au PSG de prendre les commandes du championnat.",
-      "contexte": "En football, les confrontations entre clubs de premier plan comme Paris et Lyon constituent des tournants importants dans la course au titre. Prendre la tête du classement à cette période de la saison offre un avantage psychologique et sportif. Cela confirme également les ambitions des Parisiens dans leur quête de domination du championnat national."
-    },
-    {
-      "titre": "Comment Benjamin Netanyahu s'est-il maintenu au pouvoir si longtemps en Israël ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261026-comment-benjamin-netanyahu-s-est-il-maintenu-au-pouvoir-si-longtemps-en-isra%C3%ABl",
-      "source": "France 24",
-      "date": "2026-10-26T22:21:32+01:00",
-      "resume": "Malgré de multiples crises, des défaites électorales, des lâchages d'alliés et des poursuites judiciaires, le Premier ministre israélien Benjamin Netanyahu est parvenu à se maintenir au pouvoir à plusieurs reprises depuis 1999. Les électeurs israéliens sont de nouveau appelés aux urnes le 27 octobre pour élire leurs députés. Sa longévité politique repose notamment sur une communication maîtrisée et un usage constant de l'argument sécuritaire.",
-      "contexte": "La longévité d'un dirigeant au pouvoir s'explique souvent par sa capacité à polariser le débat public et à cristalliser les peurs sécuritaires de sa base électorale. Dans un pays confronté à des tensions géopolitiques permanentes comme Israël, la question de la sécurité nationale prime souvent sur les affaires judiciaires ou les contestations politiques internes. Cela permet à des personnalités fortes de conserver le soutien d'une majorité d'électeurs malgré les controverses."
+      "resume": "Lundi soir, le Paris Saint-Germain a battu l'Olympique Lyonnais sur le score de 2 à 0 lors d'un match décalé comptant pour la 8e journée de Ligue 1. Dominateur et patient, le club parisien a fait la différence en fin de rencontre face à son adversaire. Grâce à cette victoire, le PSG s'empare de la première place du classement du championnat de France.",
+      "contexte": "Ce type de confrontation directe entre clubs de premier plan pèse lourdement dans la course au titre en Ligue 1. Pour le PSG, l'objectif est de s'installer durablement en tête du championnat, tandis que pour l'OL, ce match constitue un test important pour mesurer ses ambitions européennes."
     },
     {
       "titre": "Donald Trump dénonce des élections \"truquées\" au Brésil après la défaite de Flavio Bolsonaro",
       "lien": "https://www.franceinfo.fr/monde/bresil/donald-trump-denonce-des-elections-truquees-au-bresil-apres-la-defaite-de-flavio-bolsonaro_8254870.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-26T22:21:30+01:00",
-      "resume": "Le président des États-Unis a publiquement qualifié l'élection présidentielle brésilienne de \"truquée\" à la suite de la défaite de Flavio Bolsonaro. Il a comparé cette situation à sa propre défaite lors de l'élection présidentielle américaine de 2020 face à Joe Biden.",
-      "contexte": "Ce type de déclaration s'inscrit dans une rhétorique populiste fréquente visant à délégitimer les processus électoraux et les institutions démocratiques en cas de défaite d'un candidat allié. Les motifs d'une telle prise de parole sont généralement d'entretenir la contestation politique et de galvaniser les partisans. Cela illustre également les connexions idéologiques entre certains dirigeants nationalistes à l'échelle internationale."
+      "resume": "Le président des États-Unis a publiquement qualifié les élections brésiliennes de \"truquées\" après la défaite de Flavio Bolsonaro. Pour appuyer ses déclarations, il a fait référence à sa propre défaite lors de l'élection présidentielle américaine de 2020 face à Joe Biden.",
+      "contexte": "Ce type de prise de position s'inscrit dans une rhétorique politique contestataire visant à jeter le doute sur la régularité des scrutins démocratiques en cas de défaite des candidats soutenus. Cela reflète les clivages politiques internationaux et les alliances entre courants populistes à travers le monde."
     },
     {
       "titre": "Mobilisations sociales : à Marseille, Emmanuel Macron fait le mea culpa de l’Etat",
       "lien": "https://www.lemonde.fr/politique/article/2026/10/26/mobilisations-sociales-a-marseille-emmanuel-macron-fait-le-mea-culpa-de-l-etat_6800843_823448.html",
       "source": "Le Monde",
       "date": "2026-10-26T21:57:57+01:00",
-      "resume": "En déplacement à Marseille, le président de la République Emmanuel Macron a fait le mea culpa de l'État concernant la gestion d'un mouvement social. Il a reconnu un manque d'anticipation des forces de l'ordre et du gouvernement avant la date du 17 octobre. Il a également salué la \"légitimité\" du mouvement, sans toutefois annoncer de mesures concrètes.",
-      "contexte": "Reconnaître publiquement des dysfonctionnements étatiques lors de crises sociales est une stratégie politique délicate qui vise à apaiser la colère de la rue et à renouer le dialogue. L'absence de mesures immédiates s'explique souvent par la volonté de ne pas céder sous la pression tout en désamorçant les tensions. C'est une démarche classique pour tenter de regagner la confiance des citoyens mécontents."
+      "resume": "En déplacement à Marseille, le président de la République Emmanuel Macron a fait le mea culpa de l'État face aux mobilisations sociales. Il a reconnu un manque d'anticipation des forces de l'ordre et du gouvernement avant la date du 17 octobre tout en saluant la légitimité du mouvement, sans toutefois annoncer de mesures précises.",
+      "contexte": "Ce genre de reconnaissance publique de la part de l'exécutif intervient généralement pour tenter de désamorcer une crise sociale et de renouer le dialogue avec les contestataires. L'enjeu est de limiter les débordements tout en répondant aux critiques sur la gestion du maintien de l'ordre."
     },
     {
       "titre": "Serbie : les étudiants prennent le pouvoir",
       "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
       "date": "2026-10-26T21:53:30+01:00",
-      "resume": "Le mouvement des étudiants en Serbie a remporté les élections le dimanche 25 octobre face au dirigeant populiste Aleksandar Vučić. Cette victoire met fin à douze années de pouvoir pour ce dernier, au terme de deux ans de mobilisation menée par la rue.",
-      "contexte": "Les révoltes ou mobilisations de la jeunesse et des étudiants constituent souvent le fer de lance des transitions politiques dans les régimes d'apparence démocratique mais verrouillés. L'objectif affiché de ces mouvements est généralement la lutte contre la corruption et l'ouverture démocratique. Cette victoire électorale illustre la capacité d'une contestation prolongée à renverser un pouvoir en place depuis longtemps."
+      "resume": "Dimanche 25 octobre, le mouvement des étudiants en Serbie a remporté les élections face au dirigeant populiste Aleksandar Vučić, au pouvoir depuis 12 ans. Cette victoire fait suite à deux années de mobilisation menées par la rue pour obtenir le changement politique.",
+      "contexte": "L'implication prolongée de la jeunesse et des mouvements citoyens dans les pays d'Europe de l'est traduit souvent une volonté de renouvellement démocratique face à une gouvernance jugée autoritaire. La prise de pouvoir par la rue marque un tournant institutionnel majeur dans l'histoire politique récente du pays."
+    },
+    {
+      "titre": "Lula déjoue les pronostics en étant réélu président du Brésil",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-26T21:42:19+01:00",
+      "resume": "Lula a remporté l'élection présidentielle au Brésil en obtenant 51,8 % des voix face à Flavio Bolsonaro, alors qu'il était donné perdant par les pronostics. Le candidat d'extrême droite a adopté une attitude similaire à celle de son père en refusant de reconnaître sa défaite électorale.",
+      "contexte": "Le retour au pouvoir de Lula illustre l'alternance politique observée dans plusieurs grandes démocraties sud-américaines, marquées par des polarisations fortes entre la gauche et la droite populiste. Le refus de reconnaître les résultats électoraux fragilise traditionnellement les transitions démocratiques et les institutions du pays."
+    },
+    {
+      "titre": "Attentat raciste à Trappes : des images de vidéosurveillance montrent le parcours du meurtrier dans une station-service",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-raciste-a-trappes-revelations-sur-le-parcours-du-meurtrier-presume_8254756.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T21:42:15+01:00",
+      "resume": "Des images de vidéosurveillance provenant d'une station-service ont été diffusées dans le cadre de l'enquête sur l'attentat raciste commis à Trappes, dans les Yvelines. Ces documents visuels retracent le parcours de l'auteur présumé et témoignent de sa détermination au moment des faits.",
+      "contexte": "L'exploitation des caméras de surveillance est une étape classique des investigations judiciaires pour reconstituer précisément le déroulement des drames et identifier les complices éventuels. Ce type d'affaire suscrit une vive émotion nationale en raison de la nature raciste des actes reprochés."
+    }
+  ],
+  "depuis_hier": [
+    {
+      "titre": "L'Anglais Harry Kane remporte le Ballon d'Or 2026, le premier de sa carrière",
+      "lien": "https://www.france24.com/fr/sports/20261026-l-anglais-harry-kane-remporte-le-ballon-d-or-2026",
+      "source": "France 24",
+      "date": "2026-10-26T23:58:32+01:00",
+      "resume": "L'Anglais Harry Kane a remporté le Ballon d'Or 2026 lundi. C'est le premier trophée de sa carrière.",
+      "contexte": "Cette distinction récompense la saison exceptionnelle d'un joueur sous les couleurs de son club et de sa sélection nationale. Elle met en lumière la longévité et la régularité au plus haut niveau d'un attaquant majeur du football européen."
+    },
+    {
+      "titre": "Ballon d'or 2026 : l'attaquant du Bayern Munich Harry Kane devient le premier Anglais récompensé depuis 25 ans",
+      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-sacre-a-londres-harry-kane-devient-le-premier-anglais-recompense-depuis-25-ans_8254834.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T23:54:14+01:00",
+      "resume": "L'attaquant du Bayern Munich Harry Kane a remporté le Ballon d'or 2026 lundi, à l'âge de 33 ans. Il est le premier Anglais récompensé depuis 25 ans et s'est imposé au bout du suspense face à Kylian Mbappé et Lamine Yamal.",
+      "contexte": "Ce sacre individuel vient couronner les performances décisives de l'attaquant allemand dans les compétitions nationales et européennes. Il s'inscrit dans une compétition historiquement serrée face à une nouvelle génération de talents mondiaux."
+    },
+    {
+      "titre": "Ballon d'Or 2026 : l'Espagnol Alexia Putellas, la \"Reine\" prolonge son règne",
+      "lien": "https://www.france24.com/fr/sports/20261026-l-espagnole-alexia-putellas-remporte-son-troisi%C3%A8me-ballon-d-or-f%C3%A9minin",
+      "source": "France 24",
+      "date": "2026-10-26T23:47:16+01:00",
+      "resume": "L'Espagnole Alexia Putellas a remporté le Ballon d'Or féminin lundi pour la troisième fois de sa carrière, après ses sacres en 2021 et 2022. La nouvelle joueuse des London City Lionesses rejoint ainsi au sommet du palmarès sa compatriote Aitana Bonmati, sacrée lors des trois dernières années.",
+      "contexte": "Cette victoire confirme la domination continue du football féminin espagnol sur la scène internationale à travers ses figures de proue. Ce trophée souligne également la reconnaissance de la régularité au plus haut niveau de joueuses emblématiques."
+    },
+    {
+      "titre": "🔴 L’Espagnole Alexia Putellas remporte le Ballon d'Or féminin 2026",
+      "lien": "https://www.france24.com/fr/sports/20261026-en-direct-ballon-d-or-2026-suivez-c%C3%A9r%C3%A9monie-remise-des-prix-mbappe-yamal-kane-bonmati-football",
+      "source": "France 24",
+      "date": "2026-10-26T23:36:50+01:00",
+      "resume": "L'Espagnole Alexia Putellas a remporté le Ballon d'Or féminin 2026 lundi. L'annonce a été officialisée par France 24.",
+      "contexte": "Ce prix consacre chaque année la meilleure footballeuse de la planète selon un panel de journalistes internationaux spécialisés. Il participe à la valorisation croissante du sport féminin et de ses têtes d'affiche."
+    },
+    {
+      "titre": "\"J'ai pris la main de mon mari, et en 4-5 secondes, on s'est retrouvé en bas\" : une passagère raconte le plongeon d'un autocar dans un ravin, qui a fait 83 blessés en Espagne",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/j-ai-pris-la-main-de-mon-mari-et-en-4-5-secondes-on-s-est-retrouve-en-bas-une-passagere-raconte-le-plongeon-d-un-autocar-dans-un-ravin-qui-a-fait-83-blesses-en-espagne_8254912.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-26T23:24:03+01:00",
+      "resume": "Un accident de car survenu dimanche 25 octobre au nord de Barcelone, en Espagne, a fait 83 blessés, dont sept grièvement atteints. Le véhicule a chuté dans un ravin après une collision avec une voiture, alors que de nombreux passagers se trouvaient debout à bord.",
+      "contexte": "Les accidents impliquant des transports en commun surchargés posent régulièrement la question du respect des normes de sécurité routière et du contrôle de la capacité des véhicules. Ce type de drame entraîne généralement des enquêtes approfondies sur les responsabilités du conducteur et de l'entreprise de transport."
+    },
+    {
+      "titre": "Donald Trump promet 1 million de dollars de récompense pour la dénonciation de fraudes électorales lors des élections de mi-mandat aux Etats-Unis",
+      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promet-1-million-de-dollars-de-recompense-pour-la-denonciation-de-fraudes-electorales-lors-des-elections-de-mi-mandat-aux-etats-unis_8254900.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T23:18:01+01:00",
+      "resume": "Le président américain Donald Trump a promis une récompense d'un million de dollars pour la dénonciation de fraudes électorales lors des élections de mi-mandat du 3 novembre. Il agite ainsi le spectre d'une contestation post-électorale si son parti venait à être battu.",
+      "contexte": "Cette stratégie s'inscrit dans un climat de défiance politique croissante envers le système de vote aux États-Unis. L'objectif est généralement de mobiliser son électorat et de jeter le discrédit par anticipation sur les résultats en cas de défaite."
+    },
+    {
+      "titre": "Élections en Israël : Netanyahou ou Eisenkot ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261026-%C3%A9lections-en-isra%C3%ABl-netanyahou-ou-eisenkot",
+      "source": "France 24",
+      "date": "2026-10-26T23:15:47+01:00",
+      "resume": "À la veille des élections législatives en Israël, la campagne oppose le Premier ministre sortant Benyamin Netanyahou à l'ancien chef d'état-major Gadi Eisenkot. Le scrutin met aux prises ces deux personnalités centrales de la vie politique israélienne.",
+      "contexte": "Les élections en Israël se déroulent dans un contexte de forte polarisation politique et sécuritaire, où la gestion des crises passées et futures pèse lourdement dans le choix des électeurs. Le système proportionnel israélien nécessite traditionnellement la formation de coalitions complexes pour gouverner."
+    },
+    {
+      "titre": "\"J'ai dit oui tout de suite\" : comment fonctionne le vaccin testé avec succès contre les récidives du cancer de la peau ?",
+      "lien": "https://www.franceinfo.fr/sante/cancer/j-ai-dit-oui-tout-de-suite-comment-fonctionne-le-vaccin-teste-avec-succes-contre-les-recidives-du-cancer-de-la-peau_8254891.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-26T23:09:49+01:00",
+      "resume": "Un vaccin sur mesure, adapté à chaque patient, montre des résultats très prometteurs contre le mélanome, le cancer de la peau le plus mortel. Quelque 82% des patients ayant reçu ce traitement testé n'ont pas connu de récidives, offrant un nouvel espoir aux malades.",
+      "contexte": "Cette avancée s'inscrit dans le développement de l'immunothérapie personnalisée, qui vise à stimuler le propre système immunitaire du patient pour qu'il cible spécifiquement les cellules cancéreuses. C'est un tournant potentiel dans la prise en charge de certains cancers résistants aux thérapies conventionnelles."
+    }
+  ],
+  "aujourdhui": [
+    {
+      "titre": "DIRECT. Elections législatives en Israël : les bureaux de vote sont ouverts, le Premier ministre Benyamin Nétanyahou joue sa survie politique",
+      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-27T09:15:53+01:00",
+      "resume": "Un peu plus de sept millions d'Israéliens sont appelés à voter mardi pour des élections législatives aux allures de référendum pour ou contre le Premier ministre Benyamin Netanyahou. Ce dernier se trouve en mauvaise posture depuis les attentats du 7 octobre 2023.",
+      "contexte": "Ce scrutin constitue un test crucial pour l'avenir politique du dirigeant israélien, jugé sur sa capacité à assurer la sécurité du pays. Les résultats détermineront l'orientation de la politique nationale et les équilibres géopolitiques au Proche-Orient."
+    },
+    {
+      "titre": "\"Nous savions tous qu'un jour, les mots de la haine tueraient\" : Omar Sy, Jul, Theodora, Gilles Lellouche... des personnalités dénoncent le racisme après l'attentat de Trappes",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/nous-savions-tous-qu-un-jour-les-mots-de-la-haine-tueraient-omar-sy-jul-theodora-gilles-lellouche-des-personnalites-denoncent-le-racisme-apres-l-attentat-de-trappes_8255149.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T09:12:43+01:00",
+      "resume": "Des personnalités comme Omar Sy, Jul, Theodora et Gilles Lellouche ont dénoncé le racisme après l'attentat de Trappes. Les signataires font un lien entre cet attentat et le traitement médiatique d'une manifestation du 17 octobre marquée par des dégradations, et demandent une minute de silence à l'Assemblée nationale pour la victime Pengo Bossio Wangi.",
+      "contexte": "Ce type de prise de position publique illustre les tensions sociales et les débats récurrents en France autour du traitement médiatique des faits divers et des manifestations. Les appels à l'hommage institutionnel visent à marquer la solidarité nationale face aux actes de violence."
+    },
+    {
+      "titre": "Avec le couronnement à domicile d'Harry Kane, la folie du Ballon d'or a enflammé Londres",
+      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/reportage-avec-le-couronnement-a-domicile-d-harry-kane-la-folie-du-ballon-d-or-a-enflamme-londres_8254720.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T09:11:26+01:00",
+      "resume": "La cérémonie du Ballon d'or s'est déroulée à Londres lundi pour sa 70e édition, marquant la première délocalisation de son histoire hors de France. Cet événement a coïncidé avec le couronnement à domicile de l'Anglais Harry Kane.",
+      "contexte": "L'internationalisation et la rotation des lieux d'événements sportifs majeurs s'inscrivent dans une stratégie marketing globale visant à renforcer l'attractivité internationale de la marque. Cela permet également de mobiliser de nouveaux publics à travers le monde."
+    },
+    {
+      "titre": "\"On a effectivement un droit à manifester mais le droit au blocage n'existe pas\" : le ministre de l'Enseignement supérieur enjoint le retour au \"travail\" lundi",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T09:08:51+01:00",
+      "resume": "Le ministre de l'Enseignement supérieur a enjoint un retour au travail lundi, déclarant que le droit au blocage n'existe pas malgré le droit constitutionnel à manifester. Il a également appelé à la poursuite des discussions avec les organisations syndicales et représentatives des étudiants et lycéens.",
+      "contexte": "Ces déclarations interviennent dans un climat de contestation sociale où les blocages d'établissements sont fréquemment utilisés comme moyen de pression par les manifestants. Le gouvernement cherche traditionnellement à concilier le maintien de l'ordre public et de la continuité pédagogique avec le dialogue social."
+    },
+    {
+      "titre": "Élections de mi-mandat aux États-Unis : le gazole, carburant de la colère",
+      "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/elections-de-mi-mandat-aux-etats-unis-le-gazole-carburant-de-la-colere_8255296.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-27T09:03:02+01:00",
+      "resume": "À l'approche des élections de mi-mandat aux États-Unis, le scrutin s'annonce délicat pour Donald Trump. Dans l'État du Maine, les pêcheurs de homards, qui avaient majoritairement voté pour les républicains, expriment désormais leurs doutes en raison du coût du gazole.",
+      "contexte": "Le prix des carburants et l'inflation sont des préoccupations économiques majeures qui influencent directement le vote des électeurs américains lors des scrutins intermédiaires. La fluctuation de ces coûts peut rapidement faire basculer le soutien électoral dans certains secteurs clés."
+    },
+    {
+      "titre": "Mobilisation lycéenne : \"Il faut arrêter de se moquer\" de la jeunesse, \"il n'y a rien dans les annonces du gouvernement\", réagit Clémence Guetté (LFI)",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-il-faut-arreter-de-se-moquer-de-la-jeunesse-il-n-y-a-rien-dans-les-annonces-du-gouvernement-reagit-clemence-guette-lfi_8255329.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T09:00:40+01:00",
+      "resume": "La députée La France insouboumise Clémence Guetté a réagi à la mobilisation lycéenne en affirmant qu'il ne fallait pas se moquer de la jeunesse. Elle a estimé que les annonces du gouvernement ne sont pas à la hauteur des enjeux exprimés par les jeunes.",
+      "contexte": "Les mouvements lycéens expriment régulièrement des revendications liées aux conditions d'études, aux réformes des examens ou au pouvoir d'achat. L'opposition politique s'empare souvent de ces mobilisations pour critiquer la gestion et la réactivité de l'exécutif face aux préoccupations de la jeunesse."
+    },
+    {
+      "titre": "Israël : l'État de droit au cœur de la campagne",
+      "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/israel-l-etat-de-droit-au-c-ur-de-la-campagne_8255284.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T08:47:27+01:00",
+      "resume": "Les Israéliens sont appelés aux urnes mardi 27 octobre dans un pays profondément divisé. Le principal adversaire de Benyamin Netanyahou place l'État de droit au cœur de la campagne et exige des comptes concernant les défaillances sécuritaires.",
+      "contexte": "Les questions relatives aux institutions démocratiques et à la sécurité nationale polarisent fortement le débat public en Israël. Les oppositions tentent de capitaliser sur les failles perçues de l'exécutif pour provoquer une alternance politique."
+    },
+    {
+      "titre": "Aux États-Unis, les spots de campagne générés par IA en vue des élections des midterms se multiplient",
+      "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/aux-etats-unis-les-spots-de-campagne-generes-par-ia-en-vue-des-elections-des-midterms-se-multiplient_8234683.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-27T08:46:23+01:00",
+      "resume": "La campagne des élections de mi-mandat aux États-Unis voit la multiplication de faux spots télévisés générés par intelligence artificielle. Ces outils sont notamment utilisés pour cibler et attaquer certaines personnalités politiques.",
+      "contexte": "L'essor de l'intelligence artificielle générative pose des défis inédits en matière de désinformation et de régulation des campagnes électorales. La prolifération de contenus trompeurs complique le travail de vérification des faits pour les électeurs et menace la crédibilité du débat démocratique."
     }
   ],
   "culture": [
     {
-      "theme": "économie",
-      "titre": "L'effet Veblen",
-      "texte": "En économie classique, la demande pour un bien diminue généralement lorsque son prix augmente. Pourtant, l'économiste Thorstein Veblen a mis en lumière une surprenante exception qui porte aujourd'hui son nom. Dans l'univers du luxe, un prix très élevé rend parfois un produit encore plus désirable aux yeux des acheteurs. Cette réaction s'explique par la recherche d'un prestige social et d'une distinction visible au sein du groupe. Payer cher devient alors une preuve de richesse, transformant le coût prohibitif en un puissant argument de vente.",
-      "a_retenir": "L'effet Veblen désigne le phénomène par lequel la hausse du prix d'un produit de luxe accroît paradoxalement sa demande."
+      "theme": "origine des grands événements ou conflits actuels",
+      "titre": "La Ligne Durand et la frontière afghane",
+      "texte": "Tracée à la fin du XIXe siècle par les Britanniques pour délimiter leurs sphères d'influence avec l'Afghanistan, la ligne Durand a artificiellement coupé en deux le peuple pachtoun. Cette frontière n'a jamais été pleinement reconnue par Kaboul, ce qui alimente les tensions géopolitiques régionales depuis des décennies. Aujourd'hui encore, ce tracé hérité de l'Empire des Indes complique les relations diplomatiques et la sécurité le long de cette zone montagneuse. C'est un exemple classique de la manière dont la colonisation a dessiné des frontières sans tenir compte des réalités ethniques locales. Comprendre ce tracé permet de saisir une partie des instabilités chroniques de cette région du monde.",
+      "a_retenir": "Une frontière coloniale du XIXe siècle continue d'alimenter les tensions géopolitiques actuelles entre voisins."
+    },
+    {
+      "theme": "histoire",
+      "titre": "La rose des vents et la Méditerranée",
+      "texte": "Dès le Moyen Âge, les marins ont ressenti le besoin de cartographier précisément les vents dominants pour naviguer en toute sécurité sur la mer Méditerranée. Ils ont ainsi développé la rose des vents, initialement appelée la rose des nautiles, dessinée sur les cartes marines pour indiquer les directions cardinales et intercardinales. Cet outil visuel a révolutionné l'orientation en mer bien avant la généralisation de la boussole moderne. Les navigateurs génois et vénitiens l'utilisaient quotidiennement pour anticiper les tempêtes et optimiser leurs routes commerciales. Elle reste aujourd'hui le symbole universel de l'exploration et du voyage.",
+      "a_retenir": "La rose des vents est née du besoin des marins médiévaux de dompter les caprices de la Méditerranée."
     },
     {
       "theme": "sport",
-      "titre": "La distance du marathon",
-      "texte": "Le marathon moderne s'inspire du mythe du soldat grec Philippidès, reliant la ville de Marathon à Athènes pour annoncer une victoire militaire. Cependant, la distance contemporaine de 42,195 kilomètres ne date pas du tout de l'Antiquité grecque. Elle a été définie lors des Jeux olympiques de Londres en 1908 pour des raisons d'organisation locale. Le tracé a été adapté pour démarrer devant le château de Windsor et se terminer précisément devant la loge royale du stade. Ce parcours taillé sur mesure pour la famille royale britannique est ensuite devenu le standard mondial officiel de l'épreuve.",
-      "a_retenir": "La distance officielle de 42,195 km a été fixée lors des Jeux olympiques de Londres en 1908 pour convenir à la famille royale."
-    },
-    {
-      "theme": "technologie",
-      "titre": "L'origine du bug informatique",
-      "texte": "Le mot anglais « bug », qui signifie insecte, est universellement utilisé pour qualifier une erreur dans un programme informatique. Bien que ce terme fût déjà employé par les mécaniciens du dix-neuvième siècle, son usage dans l'informatique repose sur une anecdote bien réelle. En 1947, l'équipe de la pionnière Grace Hopper travaillait sur l'ordinateur électromécanique Harvard Mark II lorsqu'une panne inexpliquée s'est produite. En inspectant les circuits, les opérateurs ont extrait un véritable papillon de nuit coincé dans l'un des relais de la machine. L'insecte a été collé dans le carnet de bord officiel, immortalisant le premier cas documenté de « bug » informatique.",
-      "a_retenir": "Le terme de bug informatique est devenu célèbre après la découverte d'un papillon de nuit coincé dans les relais d'un ordinateur en 1947."
+      "titre": "L'origine des anneaux olympiques",
+      "texte": "Imaginés par Pierre de Coubertin au début du XXe siècle, les cinq anneaux entrelacés symbolisent l'union des cinq continents et la rencontre des athlètes du monde entier. Contrairement à une idée reçue très répandue, les couleurs bleu, jaune, noir, vert et rouge n'ont pas été attribuées chacune à un continent précis. L'intention initiale était que chaque drapeau national du monde contienne au moins l'une de ces six couleurs, fond blanc compris. Présenté pour la première fois en public en 1914, cet emblème est devenu l'un des logos les plus connus et protégés de la planète. Il incarne à lui seul l'esprit de rassemblement pacifique propre aux Jeux modernes.",
+      "a_retenir": "Les anneaux olympiques unissent les continents grâce à des couleurs choisies pour refléter tous les drapeaux du monde."
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "061f668712",
-      "date": "2026-10-26",
-      "type": "actu",
-      "question": "Qui le candidat de gauche Lula a-t-il affronté et battu lors de l'élection présidentielle brésilienne ?",
-      "choix": [
-        "Michel Temer",
-        "Jair Bolsonaro",
-        "Flavio Bolsonaro",
-        "Fernando Henrique Cardoso"
-      ],
-      "reponse": 2,
-      "explication": "Lula a remporté l'élection présidentielle face à son rival d'extrême droite Flavio Bolsonaro, obtenant ainsi un quatrième mandat.",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261026-lula-victoire-sans-pouvoir"
-    },
-    {
-      "id": "2e11d28dc9",
-      "date": "2026-10-26",
-      "type": "actu",
-      "question": "Dans quelle ville et salle de spectacle est organisée la 70e édition de la cérémonie du Ballon d'Or 2026 ?",
-      "choix": [
-        "À Londres, au London Palladium Theatre",
-        "À Paris, au Théâtre du Châtelet",
-        "À Madrid, au Teatro Real",
-        "À Zurich, au Kongresshaus"
-      ],
-      "reponse": 0,
-      "explication": "La 70e édition de la cérémonie du Ballon d'Or 2026 est accueillie dans la capitale britannique, au London Palladium Theatre.",
-      "lien": "https://www.france24.com/fr/sports/20261026-ballon-d-or-2026-d%C3%A9couvrez-palmar%C3%A8s-70e-%C3%A9dition-c%C3%A9r%C3%A9monie-football-mbappe-yamal-kane-putellas"
-    },
-    {
-      "id": "84077006a1",
-      "date": "2026-10-26",
-      "type": "actu",
-      "question": "Quel a été le score de la victoire du Paris Saint-Germain face à l'Olympique lyonnais lors de la 8e journée de Ligue 1 ?",
-      "choix": [
-        "3 à 1",
-        "2 à 1",
-        "1 à 0",
-        "2 à 0"
-      ],
-      "reponse": 3,
-      "explication": "Le Paris Saint-Germain l'a emporté 2 à 0 face à l'OL, s'emparant ainsi de la tête du championnat.",
-      "lien": "https://www.franceinfo.fr/sports/foot/psg/le-psg-s-offre-l-ol-dans-le-choc-decale-de-la-8e-journee-et-prend-les-commandes-de-la-ligue-1_8254879.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "33deb3bcb7",
-      "date": "2026-10-26",
-      "type": "actu",
-      "question": "En Serbie, à combien d'années de pouvoir d'Aleksandar Vučić la victoire électorale des étudiants a-t-elle mis fin ?",
-      "choix": [
-        "8 ans",
-        "10 ans",
-        "6 ans",
-        "12 ans"
-      ],
-      "reponse": 3,
-      "explication": "La victoire électorale du mouvement étudiant a mis fin à douze années consécutives de pouvoir d'Aleksandar Vučić.",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "id": "7478810480",
-      "date": "2026-10-26",
-      "type": "actu",
-      "question": "À quel niveau s'établit la dette publique brésilienne rapportée au PIB lors de l'élection de Lula ?",
-      "choix": [
-        "74,8% du PIB",
-        "82,5% du PIB",
-        "90,1% du PIB",
-        "65,2% du PIB"
-      ],
-      "reponse": 1,
-      "explication": "Selon le résumé de l'article, la dette publique du Brésil a atteint 82,5% du PIB.",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261026-br%C3%A9sil-apr%C3%A8s-la-victoire-de-lula-la-bourse-de-sao-paulo-d%C3%A9visse"
-    },
-    {
-      "id": "b52c4ec5cb",
-      "date": "2026-10-26",
-      "type": "culture",
-      "question": "Lors de quelle édition des Jeux olympiques la distance actuelle du marathon (42,195 km) a-t-elle été fixée ?",
-      "choix": [
-        "Stockholm 1912",
-        "Athènes 1896",
-        "Londres 1908",
-        "Paris 1900"
-      ],
-      "reponse": 2,
-      "explication": "La distance de 42,195 km a été fixée aux Jeux de Londres en 1908 afin que le tracé relie le château de Windsor à la loge royale du stade.",
-      "lien": ""
-    },
-    {
-      "id": "dbeaadd753",
-      "date": "2026-10-26",
-      "type": "culture",
-      "question": "Quel insecte, coincé dans l'ordinateur Harvard Mark II en 1947, a popularisé l'usage du mot « bug » en informatique ?",
-      "choix": [
-        "Un cafard",
-        "Un papillon de nuit",
-        "Une coccinelle",
-        "Une mouche"
-      ],
-      "reponse": 1,
-      "explication": "L'équipe de Grace Hopper a retrouvé un véritable papillon de nuit (moth) bloqué dans un relais, immortalisant le terme de bug informatique.",
-      "lien": ""
-    }
-  ]
+  "quiz_jour": []
 }

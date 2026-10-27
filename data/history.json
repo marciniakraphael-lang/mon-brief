@@ -68,6 +68,75 @@
           "contexte": "L'exploitation des caméras de surveillance est une étape classique des investigations judiciaires pour reconstituer précisément le déroulement des drames et identifier les complices éventuels. Ce type d'affaire suscrit une vive émotion nationale en raison de la nature raciste des actes reprochés."
         }
       ]
+    },
+    "2026-10-27": {
+      "morning_run": "2026-10-27T09:19:27.586615+01:00",
+      "morning_items": [
+        {
+          "titre": "DIRECT. Elections législatives en Israël : les bureaux de vote sont ouverts, le Premier ministre Benyamin Nétanyahou joue sa survie politique",
+          "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-%5Bgeneral%5D",
+          "source": "franceinfo Monde",
+          "date": "2026-10-27T09:15:53+01:00",
+          "resume": "Un peu plus de sept millions d'Israéliens sont appelés à voter mardi pour des élections législatives aux allures de référendum pour ou contre le Premier ministre Benyamin Netanyahou. Ce dernier se trouve en mauvaise posture depuis les attentats du 7 octobre 2023.",
+          "contexte": "Ce scrutin constitue un test crucial pour l'avenir politique du dirigeant israélien, jugé sur sa capacité à assurer la sécurité du pays. Les résultats détermineront l'orientation de la politique nationale et les équilibres géopolitiques au Proche-Orient."
+        },
+        {
+          "titre": "\"Nous savions tous qu'un jour, les mots de la haine tueraient\" : Omar Sy, Jul, Theodora, Gilles Lellouche... des personnalités dénoncent le racisme après l'attentat de Trappes",
+          "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/nous-savions-tous-qu-un-jour-les-mots-de-la-haine-tueraient-omar-sy-jul-theodora-gilles-lellouche-des-personnalites-denoncent-le-racisme-apres-l-attentat-de-trappes_8255149.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-27T09:12:43+01:00",
+          "resume": "Des personnalités comme Omar Sy, Jul, Theodora et Gilles Lellouche ont dénoncé le racisme après l'attentat de Trappes. Les signataires font un lien entre cet attentat et le traitement médiatique d'une manifestation du 17 octobre marquée par des dégradations, et demandent une minute de silence à l'Assemblée nationale pour la victime Pengo Bossio Wangi.",
+          "contexte": "Ce type de prise de position publique illustre les tensions sociales et les débats récurrents en France autour du traitement médiatique des faits divers et des manifestations. Les appels à l'hommage institutionnel visent à marquer la solidarité nationale face aux actes de violence."
+        },
+        {
+          "titre": "Avec le couronnement à domicile d'Harry Kane, la folie du Ballon d'or a enflammé Londres",
+          "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/reportage-avec-le-couronnement-a-domicile-d-harry-kane-la-folie-du-ballon-d-or-a-enflamme-londres_8254720.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-27T09:11:26+01:00",
+          "resume": "La cérémonie du Ballon d'or s'est déroulée à Londres lundi pour sa 70e édition, marquant la première délocalisation de son histoire hors de France. Cet événement a coïncidé avec le couronnement à domicile de l'Anglais Harry Kane.",
+          "contexte": "L'internationalisation et la rotation des lieux d'événements sportifs majeurs s'inscrivent dans une stratégie marketing globale visant à renforcer l'attractivité internationale de la marque. Cela permet également de mobiliser de nouveaux publics à travers le monde."
+        },
+        {
+          "titre": "\"On a effectivement un droit à manifester mais le droit au blocage n'existe pas\" : le ministre de l'Enseignement supérieur enjoint le retour au \"travail\" lundi",
+          "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-27T09:08:51+01:00",
+          "resume": "Le ministre de l'Enseignement supérieur a enjoint un retour au travail lundi, déclarant que le droit au blocage n'existe pas malgré le droit constitutionnel à manifester. Il a également appelé à la poursuite des discussions avec les organisations syndicales et représentatives des étudiants et lycéens.",
+          "contexte": "Ces déclarations interviennent dans un climat de contestation sociale où les blocages d'établissements sont fréquemment utilisés comme moyen de pression par les manifestants. Le gouvernement cherche traditionnellement à concilier le maintien de l'ordre public et de la continuité pédagogique avec le dialogue social."
+        },
+        {
+          "titre": "Élections de mi-mandat aux États-Unis : le gazole, carburant de la colère",
+          "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/elections-de-mi-mandat-aux-etats-unis-le-gazole-carburant-de-la-colere_8255296.html#xtor=RSS-3-%5Bgeneral%5D",
+          "source": "franceinfo Monde",
+          "date": "2026-10-27T09:03:02+01:00",
+          "resume": "À l'approche des élections de mi-mandat aux États-Unis, le scrutin s'annonce délicat pour Donald Trump. Dans l'État du Maine, les pêcheurs de homards, qui avaient majoritairement voté pour les républicains, expriment désormais leurs doutes en raison du coût du gazole.",
+          "contexte": "Le prix des carburants et l'inflation sont des préoccupations économiques majeures qui influencent directement le vote des électeurs américains lors des scrutins intermédiaires. La fluctuation de ces coûts peut rapidement faire basculer le soutien électoral dans certains secteurs clés."
+        },
+        {
+          "titre": "Mobilisation lycéenne : \"Il faut arrêter de se moquer\" de la jeunesse, \"il n'y a rien dans les annonces du gouvernement\", réagit Clémence Guetté (LFI)",
+          "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-il-faut-arreter-de-se-moquer-de-la-jeunesse-il-n-y-a-rien-dans-les-annonces-du-gouvernement-reagit-clemence-guette-lfi_8255329.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-27T09:00:40+01:00",
+          "resume": "La députée La France insouboumise Clémence Guetté a réagi à la mobilisation lycéenne en affirmant qu'il ne fallait pas se moquer de la jeunesse. Elle a estimé que les annonces du gouvernement ne sont pas à la hauteur des enjeux exprimés par les jeunes.",
+          "contexte": "Les mouvements lycéens expriment régulièrement des revendications liées aux conditions d'études, aux réformes des examens ou au pouvoir d'achat. L'opposition politique s'empare souvent de ces mobilisations pour critiquer la gestion et la réactivité de l'exécutif face aux préoccupations de la jeunesse."
+        },
+        {
+          "titre": "Israël : l'État de droit au cœur de la campagne",
+          "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/israel-l-etat-de-droit-au-c-ur-de-la-campagne_8255284.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-27T08:47:27+01:00",
+          "resume": "Les Israéliens sont appelés aux urnes mardi 27 octobre dans un pays profondément divisé. Le principal adversaire de Benyamin Netanyahou place l'État de droit au cœur de la campagne et exige des comptes concernant les défaillances sécuritaires.",
+          "contexte": "Les questions relatives aux institutions démocratiques et à la sécurité nationale polarisent fortement le débat public en Israël. Les oppositions tentent de capitaliser sur les failles perçues de l'exécutif pour provoquer une alternance politique."
+        },
+        {
+          "titre": "Aux États-Unis, les spots de campagne générés par IA en vue des élections des midterms se multiplient",
+          "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/aux-etats-unis-les-spots-de-campagne-generes-par-ia-en-vue-des-elections-des-midterms-se-multiplient_8234683.html#xtor=RSS-3-%5Bgeneral%5D",
+          "source": "franceinfo Monde",
+          "date": "2026-10-27T08:46:23+01:00",
+          "resume": "La campagne des élections de mi-mandat aux États-Unis voit la multiplication de faux spots télévisés générés par intelligence artificielle. Ces outils sont notamment utilisés pour cibler et attaquer certaines personnalités politiques.",
+          "contexte": "L'essor de l'intelligence artificielle générative pose des défis inédits en matière de désinformation et de régulation des campagnes électorales. La prolifération de contenus trompeurs complique le travail de vérification des faits pour les électeurs et menace la crédibilité du débat démocratique."
+        }
+      ]
     }
   },
   "culture_seen": [
@@ -76,6 +145,9 @@
     "Voir le ciel, c'est regarder le passé",
     "L'effet Veblen",
     "La distance du marathon",
-    "L'origine du bug informatique"
+    "L'origine du bug informatique",
+    "La Ligne Durand et la frontière afghane",
+    "La rose des vents et la Méditerranée",
+    "L'origine des anneaux olympiques"
   ]
 }
