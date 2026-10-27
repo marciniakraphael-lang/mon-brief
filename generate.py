@@ -57,6 +57,12 @@ TODAY = NOW.strftime("%Y-%m-%d")
 YESTERDAY = (NOW - timedelta(days=1)).strftime("%Y-%m-%d")
 MIDNIGHT = NOW.replace(hour=0, minute=0, second=0, microsecond=0)
 
+STOP = {
+    "dans", "avec", "pour", "dont", "cette", "leurs", "entre", "après", "avant",
+    "sous", "vers", "chez", "plus", "sont", "être", "faire", "fait", "mais",
+    "comme", "tout", "tous", "elle", "elles", "nous", "vous", "this", "that",
+}
+
 
 # ---------- Outils ----------
 def load_json(path, default):
@@ -77,6 +83,18 @@ def clean_text(s):
     s = re.sub(r"<[^>]+>", " ", s or "")
     s = html.unescape(s)
     return re.sub(r"\s+", " ", s).strip()
+
+
+def words(s):
+    return {w for w in re.findall(r"[a-zà-ÿ0-9]+", (s or "").lower()) if len(w) > 3 and w not in STOP}
+
+
+def similar(a, b):
+    wa, wb = words(a), words(b)
+    if not wa or not wb:
+        return False
+    inter = len(wa & wb)
+    return inter >= 3 and inter / min(len(wa), len(wb)) >= 0.6
 
 
 # ---------- Actualités (flux RSS) ----------
@@ -120,6 +138,8 @@ def collect_items():
         for it in got:
             key = re.sub(r"\W+", "", it["titre"].lower())[:60]
             if key in seen:
+                continue
+            if any(similar(it["titre"], o["titre"]) for o in out):
                 continue
             seen.add(key)
             out.append(it)
@@ -180,50 +200,90 @@ def gemini(prompt):
     raise last_error
 
 
-def summarize(items):
+def raw_entry(it):
+    return {
+        "titre": it["titre"],
+        "lien": it["lien"],
+        "source": it["source"],
+        "date": it["date"].isoformat(),
+        "resume": it["extrait"][:300],
+        "contexte": "",
+    }
+
+
+def summarize(items, avoid=None):
     if not items:
         return []
     payload = [
         {"id": i, "titre": it["titre"], "extrait": it["extrait"][:800], "source": it["source"]}
         for i, it in enumerate(items)
     ]
+    avoid_txt = ""
+    if avoid:
+        avoid_txt = (
+            "Sujets déjà présentés hier (ne les reprends pas, sauf s'il y a un fait réellement nouveau) : "
+            + json.dumps(avoid[:40], ensure_ascii=False) + ".\n"
+        )
     prompt = (
         "Tu rédiges un brief d'actualité quotidien en français pour quelqu'un qui veut comprendre le monde "
         "et améliorer sa culture générale.\n"
-        "Pour chaque article ci-dessous, écris deux champs :\n"
+        "ÉTAPE 1 : regroupe en UNE SEULE histoire tous les articles qui parlent du même événement ou du même sujet, "
+        "même s'ils sont formulés différemment ou viennent de médias différents. Tu ne dois JAMAIS produire deux "
+        "histoires sur le même sujet. Les articles qui n'ont aucun doublon forment chacun leur histoire.\n"
+        + avoid_txt +
+        "ÉTAPE 2 : pour chaque histoire, écris :\n"
+        "- 'ids' : la liste des ids des articles regroupés (le premier est le plus important).\n"
         "- 'resume' : 3 à 4 phrases factuelles et neutres qui disent clairement CE QUI S'EST PASSÉ "
-        "(qui, quoi, quand, où, chiffres cités dans l'extrait). Appuie-toi uniquement sur le titre et l'extrait fournis.\n"
+        "(qui, quoi, quand, où, chiffres cités dans les extraits), en combinant les infos de tous les articles du groupe. "
+        "Appuie-toi uniquement sur les titres et extraits fournis.\n"
         "- 'contexte' : 2 à 4 phrases qui expliquent POURQUOI c'est arrivé et ce que cela change : les raisons, "
         "les enjeux, le contexte utile et les conséquences possibles. Tu peux t'appuyer sur tes connaissances générales "
         "solides pour ce contexte, mais n'invente aucun fait précis (chiffre, date, citation, motif prêté à une personne). "
         "Quand une raison n'est pas confirmée par l'article, formule-la comme une explication courante "
         "('l'objectif est généralement de...', 'cela s'explique souvent par...') ou dis que les motifs n'ont pas été précisés.\n"
         "Langage simple, pas d'opinion.\n"
-        'Réponds uniquement en JSON : {"resumes": [{"id": 0, "resume": "...", "contexte": "..."}]}\n\n'
+        'Réponds uniquement en JSON : {"histoires": [{"ids": [0, 3], "resume": "...", "contexte": "..."}]}\n\n'
         "Articles :\n" + json.dumps(payload, ensure_ascii=False)
     )
     res = gemini(prompt)
-    resumes = {}
-    if isinstance(res, dict):
-        for r in res.get("resumes", []):
-            try:
-                resumes[int(r["id"])] = (
-                    clean_text(r.get("resume", "")),
-                    clean_text(r.get("contexte", "")),
-                )
-            except Exception:
-                pass
+
     out = []
-    for i, it in enumerate(items):
-        resume, contexte = resumes.get(i, ("", ""))
-        out.append({
-            "titre": it["titre"],
-            "lien": it["lien"],
-            "source": it["source"],
-            "date": it["date"].isoformat(),
-            "resume": resume or it["extrait"][:300],
-            "contexte": contexte,
-        })
+    used = set()
+    if isinstance(res, dict):
+        for h in res.get("histoires", []):
+            try:
+                ids = []
+                for x in h.get("ids", []):
+                    x = int(x)
+                    if 0 <= x < len(items) and x not in used:
+                        ids.append(x)
+                if not ids:
+                    continue
+                used.update(ids)
+                main_item = items[ids[0]]
+                sources = []
+                for x in ids:
+                    s = items[x]["source"]
+                    if s not in sources:
+                        sources.append(s)
+                newest = max(items[x]["date"] for x in ids)
+                out.append({
+                    "titre": main_item["titre"],
+                    "lien": main_item["lien"],
+                    "source": " · ".join(sources),
+                    "date": newest.isoformat(),
+                    "resume": clean_text(h.get("resume", "")) or main_item["extrait"][:300],
+                    "contexte": clean_text(h.get("contexte", "")),
+                })
+            except Exception:
+                continue
+
+    if not out:
+        print("[!] Regroupement indisponible : articles gardés tels quels.")
+        return [raw_entry(it) for it in items]
+
+    out.sort(key=lambda e: e["date"], reverse=True)
+    print("Regroupement : " + str(len(items)) + " articles -> " + str(len(out)) + " sujets.")
     return out
 
 
@@ -310,12 +370,20 @@ def make_quiz(items, culture):
     return out
 
 
+def is_today(entry):
+    try:
+        return datetime.fromisoformat(entry["date"]) >= MIDNIGHT
+    except Exception:
+        return True
+
+
 # ---------- Programme principal ----------
 def main():
     print("Mode : " + MODE + " | " + NOW.isoformat())
     items = collect_items()
     if not items:
         raise SystemExit("Aucune actualité récupérée : vérifie les flux RSS.")
+    print("Après filtrage des doublons évidents : " + str(len(items)) + " articles.")
 
     history = load_json(HISTORY, {})
     history.setdefault("days", {})
@@ -331,11 +399,11 @@ def main():
         except Exception:
             start = MIDNIGHT - timedelta(hours=18)
         deja = prev.get("morning_items", [])
-        depuis_src = [it for it in items if start <= it["date"] < MIDNIGHT][:8]
-        auj_src = [it for it in items if it["date"] >= MIDNIGHT][:8]
-        summarized = summarize(depuis_src + auj_src)
-        depuis = summarized[:len(depuis_src)]
-        auj = summarized[len(depuis_src):]
+        depuis_src = [it for it in items if start <= it["date"] < MIDNIGHT][:10]
+        auj_src = [it for it in items if it["date"] >= MIDNIGHT][:10]
+        summarized = summarize(depuis_src + auj_src, [d["titre"] for d in deja])
+        auj = [s for s in summarized if is_today(s)]
+        depuis = [s for s in summarized if not is_today(s)]
         culture = make_culture(history["culture_seen"])
         history["culture_seen"] += [c["titre"] for c in culture]
         history["culture_seen"] = history["culture_seen"][-200:]
@@ -343,11 +411,11 @@ def main():
         quiz = []
     else:
         same_day = latest.get("date") == TODAY
-        auj_src = [it for it in items if it["date"] >= MIDNIGHT][:10]
-        auj = summarize(auj_src)
         deja = latest.get("deja_presente", []) if same_day else []
         depuis = latest.get("depuis_hier", []) if same_day else []
         culture = latest.get("culture", []) if same_day else []
+        auj_src = [it for it in items if it["date"] >= MIDNIGHT][:12]
+        auj = summarize(auj_src, [d["titre"] for d in (deja + depuis)])
         quiz = make_quiz(auj, culture)
         known = {q["id"] for q in bank["questions"]}
         for q in quiz:
