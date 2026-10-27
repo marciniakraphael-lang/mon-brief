@@ -914,6 +914,111 @@
       "reponse": 1,
       "explication": "La civilisation minoenne s'est épanouie sur l'île de Crète autour du palais de Cnossos.",
       "lien": ""
+    },
+    {
+      "id": "1a795f4609",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Combien d'annonces suspectes de revente en ligne ont été supprimées après la manifestation du 17 octobre ?",
+      "choix": [
+        "Plus de 1 200",
+        "Plus de 500",
+        "Plus de 1 700",
+        "Plus de 3 000"
+      ],
+      "reponse": 2,
+      "explication": "Le gouvernement a indiqué que plus de 1 700 annonces suspectes ont été supprimées des plateformes de revente en ligne.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/apres-les-pillages-de-commerces-plus-de-1-700-annonces-suspectes-ont-ete-supprimees-des-plateformes-de-revente-en-ligne-selon-le-gouvernement_8256394.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "9a60fb508c",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Auprès des juges de quelle ville l'enseigne parisienne du BHV a-t-elle demandé sa mise en redressement judiciaire ?",
+      "choix": [
+        "Paris",
+        "Marseille",
+        "Lille",
+        "Lyon"
+      ],
+      "reponse": 3,
+      "explication": "La demande de mise en redressement judiciaire a été formulée auprès des juges de Lyon.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/27/pourquoi-le-bhv-demande-sa-mise-en-redressement-judiciaire-aux-juges-de-lyon_6801349_3234.html"
+    },
+    {
+      "id": "eef93c6394",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quelle est la conclusion de l'autopsie concernant le décès de Christophe M. à Paris le 17 octobre ?",
+      "choix": [
+        "Un traumatisme crânien sévère",
+        "Une noyade accidentelle",
+        "Une crise cardiaque naturelle",
+        "Une défaillance cardiorespiratoire aiguë"
+      ],
+      "reponse": 3,
+      "explication": "L'autopsie a conclu à « une défaillance cardiorespiratoire aiguë », tandis que la famille met en cause le gaz lacrymogène.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/27/mort-d-un-manifestant-le-17-octobre-a-paris-l-autopsie-conclut-a-une-defaillance-cardiorespiratoire-aigue-la-famille-denonce-l-usage-de-gaz-lacrymogene_6801348_3224.html"
+    },
+    {
+      "id": "5be145c393",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel dirigeant politique israélien a qualifié les premières estimations des législatives de désaveu complet pour Benyamin Nétanyahou ?",
+      "choix": [
+        "Gadi Eisenkot",
+        "Yair Lapid",
+        "Benny Gantz",
+        "Isaac Herzog"
+      ],
+      "reponse": 0,
+      "explication": "C'est le centriste Gadi Eisenkot, menant le bloc de l'opposition, qui a qualifié ces estimations de désaveu complet.",
+      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "190b7c738b",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel musée d'Amsterdam consacre une exposition au peintre Willem De Kooning ?",
+      "choix": [
+        "Le Stedelijk Museum",
+        "Le musée Van Gogh",
+        "Le musée Rembrandt",
+        "Le Rijksmuseum"
+      ],
+      "reponse": 3,
+      "explication": "Le Rijksmuseum d'Amsterdam présente une exposition consacrée à Willem De Kooning autour de l'esthétique de l'inachevé.",
+      "lien": "https://www.lemonde.fr/culture/article/2026/10/27/avec-son-esthetique-de-l-inacheve-willem-de-kooning-cree-le-trouble-au-rijksmuseum-d-amsterdam_6801343_3246.html"
+    },
+    {
+      "id": "12d6f8299e",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Quel personnage de légende est traditionnellement associé à l'invention du rugby moderne en Angleterre ?",
+      "choix": [
+        "Arthur Wellesley de Wellington",
+        "William Webb Ellis",
+        "Thomas Arnold",
+        "Henry Newbolt"
+      ],
+      "reponse": 1,
+      "explication": "La légende populaire attribue l'invention du rugby à William Webb Ellis, qui aurait attrapé le ballon à pleines mains lors d'un match de football.",
+      "lien": ""
+    },
+    {
+      "id": "00a9a159a7",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Quelle catastrophe naturelle est aujourd'hui considérée par la majorité des scientifiques comme la cause principale de l'affaiblissement de la civilisation minoenne ?",
+      "choix": [
+        "Une éruption volcanique sur l'île de Théra",
+        "Un tsunami d'origine sismique en provenance d'Égypte",
+        "Une sécheresse prolongée",
+        "Un violent tremblement de terre à Cnossos"
+      ],
+      "reponse": 0,
+      "explication": "Une gigantesque éruption volcanique sur l'île voisine de Théra (Santorin) a déclenché des tsunamis et des pluies de cendre ayant ruiné l'économie minoenne.",
+      "lien": ""
     }
   ]
 }
