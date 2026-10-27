@@ -1,632 +1,79 @@
 <!DOCTYPE html>
-<html lang="fr">
-<head>
+<html lang="fr"><head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Brief">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="theme-color" content="#0a0d14">
-<title>Mon Brief</title>
+<meta name="apple-mobile-web-app-title" content="Brief">
+<meta name="theme-color" content="#0a0a0d">
 <link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="IMG_9498.jpeg">
+<link rel="icon" href="IMG_9498.jpeg">
+<title>Brief</title>
 <style>
-:root{--bg:#0a0d14;--surface:#11151f;--surface2:#181d2a;--line:rgba(255,255,255,.07);--txt:#e8ebf2;--mut:#8089a0;--acc:#8ab4ff;--ok:#4ade80;--ko:#f87171}
-html{color-scheme:dark}
+:root{--bg:#0a0a0d;--card:#14141a;--line:#23232c;--tx:#ececf1;--mu:#8b8b99;--ac:#8ea2ff;--ok:#5ad19a;--ko:#ff7a8a}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.55 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif;-webkit-font-smoothing:antialiased;padding:env(safe-area-inset-top) 0 calc(88px + env(safe-area-inset-bottom))}
-header{max-width:720px;margin:0 auto;padding:22px 20px 4px;display:flex;justify-content:space-between;align-items:flex-end}
-h1{font-size:30px;font-weight:700;letter-spacing:-.02em;margin:0;line-height:1.1}
-.sub{color:var(--mut);font-size:13px}
-.icon-btn{background:var(--surface);border:1px solid var(--line);color:var(--mut);width:40px;height:40px;border-radius:12px;display:grid;place-items:center;padding:0}
-.lab{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin-bottom:8px}
-.s{font-size:12.5px;color:var(--mut)}
-.donut{border-radius:50%;flex:none;display:grid;place-items:center}
-.donut i{border-radius:50%;background:var(--surface);display:grid;place-items:center;font-style:normal;font-weight:600}
-main{max-width:720px;margin:0 auto;padding:12px 16px 24px}
-h3{margin:26px 4px 10px;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);font-weight:600;display:flex;justify-content:space-between;align-items:center}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px 16px;margin:0 0 10px}
-.card p{margin:10px 0;color:#cfd5e3}
-details.card summary{cursor:pointer;list-style:none;position:relative;padding-right:24px}
-details.card summary::-webkit-details-marker{display:none}
-details.card summary::after{content:"";position:absolute;right:3px;top:50%;margin-top:-6px;width:7px;height:7px;border-right:1.6px solid var(--mut);border-bottom:1.6px solid var(--mut);transform:rotate(45deg);transition:transform .2s}
-details.card[open] summary::after{transform:rotate(-135deg);margin-top:-2px}
-.card.news{margin-bottom:8px}
-.card.news .t{font-size:16px}
-.src{display:block;color:var(--mut);font-size:12px;margin-bottom:2px}
-.t{display:block;font-weight:600;font-size:17px;line-height:1.35}
-.tag{display:inline-block;background:var(--surface2);color:var(--acc);border:1px solid var(--line);border-radius:999px;padding:2px 11px;font-size:12px;font-weight:600;margin-bottom:8px}
-.ctx{background:var(--surface2);border-left:2px solid var(--acc);padding:10px 12px;border-radius:10px;font-size:15px;color:#cfd5e3;margin:10px 0}
-.ctx b{display:block;color:var(--acc);font-size:11px;letter-spacing:.08em;text-transform:uppercase;margin-bottom:2px}
-.row{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:10px}
-a{color:var(--acc);text-decoration:none}
-button{font:inherit}
-.pill{display:inline-flex;align-items:center;gap:6px;background:var(--surface2);border:1px solid var(--line);color:var(--txt);border-radius:999px;padding:7px 14px;font-size:13px;text-transform:none;letter-spacing:0}
-.pill.on{background:var(--acc);border-color:var(--acc);color:#0a0d14}
-.btn{display:block;width:100%;background:var(--acc);color:#0a0d14;font-weight:600;padding:14px;margin-top:14px;border:0;border-radius:14px;font-size:16px}
-.btn.alt{background:transparent;color:var(--ko);border:1px solid var(--ko)}
-.btn.ghost{background:var(--surface2);color:var(--txt);border:1px solid var(--line);margin-top:10px}
-.hint{color:var(--mut);font-size:13px;margin:2px 4px 14px}
-.hub{display:flex;align-items:center;gap:14px;width:100%;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px 16px;margin:0 0 10px;color:var(--txt)}
-.hub .hbody{flex:1;min-width:0}
-.hub .t{font-size:16px}
-.hub::after{content:"";width:8px;height:8px;border-right:1.6px solid var(--mut);border-top:1.6px solid var(--mut);transform:rotate(45deg);flex:none}
-.hub.off{opacity:.55}
-.st{color:var(--acc);font-size:12px;font-weight:600;margin-top:2px}
-.qhead{display:flex;justify-content:space-between;align-items:center;margin:2px 0 16px}
-.qh2{display:flex;align-items:center;gap:10px}
-.prog{height:3px;background:var(--surface2);border-radius:3px;margin:6px 0 16px;overflow:hidden}
-.prog i{display:block;height:100%;background:var(--acc);border-radius:3px;transition:width .3s}
-.q{font-size:20px;line-height:1.35;margin:6px 0 12px;font-weight:600}
-.choice{display:block;width:100%;text-align:left;background:var(--surface2);color:var(--txt);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin:8px 0;font-size:16px}
-.choice.good{border-color:var(--ok);background:rgba(74,222,128,.09)}
-.choice.bad{border-color:var(--ko);background:rgba(248,113,113,.09)}
-.fb{margin-top:12px;font-size:15px;color:#cfd5e3}
-.big{font-size:44px;font-weight:700;letter-spacing:-.02em;line-height:1.1;margin:6px 0}
-.rec{border-left:3px solid var(--mut)}
-.rec.ok{border-left-color:var(--ok)}
-.rec.ko{border-left-color:var(--ko)}
-.empty{color:var(--mut);text-align:center;padding:56px 12px}
-.sel{width:100%;padding:11px;border-radius:12px;background:var(--surface2);color:var(--txt);border:1px solid var(--line);font-size:16px;margin:8px 0}
-input[type=range]{width:100%;accent-color:var(--acc)}
-nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:rgba(10,13,20,.86);-webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px);padding-bottom:env(safe-area-inset-bottom);border-top:1px solid var(--line)}
-nav button{flex:1;background:none;border:0;color:var(--mut);padding:10px 0 8px;font-size:10.5px;display:flex;flex-direction:column;align-items:center;gap:3px}
-nav button.on{color:var(--acc)}
-</style>
-</head>
-<body>
-<header>
-  <div><h1>Mon Brief</h1><div class="sub" id="sub"></div></div>
-  <button class="icon-btn" id="refresh" aria-label="Actualiser"></button>
-</header>
-<main id="view"></main>
-<nav id="nav"></nav>
-
+html,body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 -apple-system,system-ui,sans-serif}
+header{position:sticky;top:0;z-index:5;display:flex;justify-content:space-between;align-items:center;padding:calc(env(safe-area-inset-top) + 12px) 20px 12px;background:rgba(10,10,13,.85);backdrop-filter:blur(14px)}
+header h1{margin:0;font-size:22px;font-weight:700;letter-spacing:-.5px}
+header small{display:block;color:var(--mu);font-size:12px;font-weight:400;letter-spacing:0}
+main{padding:4px 16px 110px;max-width:640px;margin:auto}
+.i{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex:none}
+button,a.b{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+.ib{padding:8px;border-radius:12px;color:var(--mu)}
+h2{font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:var(--mu);margin:26px 4px 10px;font-weight:600;display:flex;justify-content:space-between;align-items:center}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;margin-bottom:12px}
+.meta{font-size:12px;color:var(--mu)}
+.card h3{margin:6px 0 6px;font-size:17px;line-height:1.3;letter-spacing:-.2px}
+.card p{margin:0;color:#c4c4cf;font-size:15px}
+.ctx{margin-top:12px;padding:10px 12px;border-left:2px solid var(--ac);background:rgba(142,162,255,.07);border-radius:0 10px 10px 0;font-size:14px;color:#c4c4cf}
+.ctx b{display:block;color:var(--ac);font-size:11px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px}
+.ctx.bad{border-left-color:var(--ko);background:rgba(255,122,138,.07)}
+.ctx.bad b{color:var(--ko)}
+.acts{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
+.acts button,.acts a,.pill{display:inline-flex;align-items:center;gap:6px;padding:7px 12px;border-radius:999px;background:#1c1c25;color:var(--tx);font-size:13px;text-decoration:none}
+.say.on{background:var(--ac);color:#0a0a0d}
+.chip{display:inline-block;font-size:11px;color:var(--ac);background:rgba(142,162,255,.1);padding:3px 10px;border-radius:999px}
+.chip.tuto{color:var(--ok);background:rgba(90,209,154,.12)}
+.keep{margin-top:12px;font-size:14px;color:var(--ok)}
+.steps{margin:12px 0 0;padding-left:22px;color:#c4c4cf;font-size:15px}
+.steps li{margin-bottom:8px;padding-left:2px}
+nav{position:fixed;bottom:0;left:0;right:0;display:flex;justify-content:space-around;padding:8px 10px calc(env(safe-area-inset-bottom) + 6px);background:rgba(10,10,13,.9);backdrop-filter:blur(16px);border-top:1px solid var(--line)}
+nav button{display:flex;flex-direction:column;align-items:center;gap:2px;font-size:11px;color:var(--mu);padding:6px 16px}
+nav button.on{color:var(--ac)}
+.empty{color:var(--mu);text-align:center;padding:40px 10px}
+.big{display:flex;align-items:center;gap:14px;width:100%;text-align:left}
+.big .i{width:26px;height:26px;color:var(--ac)}
+.big b{display:block}.big span{color:var(--mu);font-size:13px}
+.stat{display:flex;align-items:center;gap:14px}
+.stat svg{width:56px;height:56px;flex:none}
+.stat b{font-size:17px;display:block}
+.q{font-size:19px;font-weight:600;margin:10px 0 18px;line-height:1.35}
+.ch{display:block;width:100%;text-align:left;padding:14px;margin-bottom:10px;background:var(--card);border:1px solid var(--line);border-radius:14px}
+.ch.ok{border-color:var(--ok);background:rgba(90,209,154,.1)}
+.ch.bad{border-color:var(--ko);background:rgba(255,122,138,.1)}
+.prog{height:3px;background:var(--line);border-radius:3px;margin:6px 0 14px}
+.prog i{display:block;height:100%;background:var(--ac);border-radius:3px}
+.nx{width:100%;padding:14px;border-radius:14px;background:var(--ac);color:#0a0a0d;font-weight:600;margin-top:12px}
+.nx.alt{background:none;border:1px solid var(--ko);color:var(--ko)}
+.rec{border-left:3px solid var(--mu)}.rec.ok{border-left-color:var(--ok)}.rec.ko{border-left-color:var(--ko)}
+select,input[type=range]{width:100%;margin:8px 0;background:#1c1c25;color:var(--tx);border:1px solid var(--line);border-radius:10px;padding:10px;font:inherit}
+details summary{color:var(--mu);font-size:13px;margin:20px 4px 10px;cursor:pointer}
+.sm{color:var(--mu);font-size:13px}
+</style></head><body>
+<header><h1 id="d">Brief<small id="u"></small></h1><button class="ib" id="rf"></button></header>
+<main id="m"></main>
+<nav id="n"></nav>
 <script>
-// ---------- Réglages ----------
-const QUIZ_SIZE = 10;   // questions par quiz culture / quiz sur tout
-
-const TABS = [
-  ["actus","Actus"],
-  ["culture","Culture"],
-  ["quiz","Quiz"],
-  ["reglages","Réglages"]
-];
-let tab = "actus", quizMode = null, DATA = null, BANK = [], LOADING = true;
-const view = document.getElementById("view");
-
-// ---------- Icônes ----------
-const ICONS = {
-  actus:'<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>',
-  culture:'<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>',
-  quiz:'<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>',
-  reglages:'<line x1="4" y1="21" x2="4" y2="14"/><line x1="4" y1="10" x2="4" y2="3"/><line x1="12" y1="21" x2="12" y2="12"/><line x1="12" y1="8" x2="12" y2="3"/><line x1="20" y1="21" x2="20" y2="16"/><line x1="20" y1="12" x2="20" y2="3"/><line x1="1" y1="14" x2="7" y2="14"/><line x1="9" y1="8" x2="15" y2="8"/><line x1="17" y1="16" x2="23" y2="16"/>',
-  refresh:'<polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/>',
-  sound:'<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/>'
-};
-
-function ico(name, size){
-  const s = document.createElement("span");
-  s.style.display = "inline-flex";
-  const z = size || 22;
-  s.innerHTML = '<svg viewBox="0 0 24 24" width="' + z + '" height="' + z + '" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">' + ICONS[name] + '</svg>';
-  return s;
-}
-
-// ---------- Icône générée (pour l'écran d'accueil) ----------
-(function(){
-  try{
-    const c = document.createElement("canvas"); c.width = c.height = 180;
-    const g = c.getContext("2d");
-    g.fillStyle = "#0a0d14"; g.fillRect(0,0,180,180);
-    g.fillStyle = "#8ab4ff"; g.font = "bold 92px -apple-system,Helvetica,Arial";
-    g.textAlign = "center"; g.textBaseline = "middle"; g.fillText("MB",90,98);
-    const l = document.createElement("link");
-    l.rel = "apple-touch-icon"; l.href = c.toDataURL("image/png");
-    document.head.appendChild(l);
-  }catch(e){}
-})();
-
-// ---------- Outils ----------
-const store = {
-  get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
-  set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
-};
-
-function el(tag, props, ...kids){
-  const e = document.createElement(tag);
-  for(const k in (props || {})){
-    if(k === "class") e.className = props[k];
-    else if(k === "onclick") e.onclick = props[k];
-    else e.setAttribute(k, props[k]);
-  }
-  kids.flat().forEach(c => { if(c !== null && c !== undefined && c !== false) e.append(c); });
-  return e;
-}
-
-function fmt(iso){
-  try{ return new Date(iso).toLocaleString("fr-FR",{weekday:"short",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}); }
-  catch(e){ return ""; }
-}
-
-function plural(n, word){ return n + " " + word + (n > 1 ? "s" : ""); }
-
-function empty(msg){ view.append(el("div",{class:"empty"}, msg)); }
-
-function pill(text, icon){
-  return el("button",{class:"pill"}, icon ? ico(icon, 15) : null, text);
-}
-
-// ---------- Lecture vocale ----------
-function frVoices(){
-  if(!("speechSynthesis" in window)) return [];
-  return speechSynthesis.getVoices().filter(v => v.lang && v.lang.toLowerCase().replace("_","-").startsWith("fr"));
-}
-
-function voiceScore(v){
-  const n = v.name.toLowerCase();
-  let s = 0;
-  if(/premium|haute qualité/.test(n)) s += 30;
-  if(/siri/.test(n)) s += 25;
-  if(/enhanced|améliorée|amélioré/.test(n)) s += 20;
-  if(v.lang.toLowerCase().replace("_","-") === "fr-fr") s += 5;
-  if(v.localService) s += 1;
-  return s;
-}
-
-function pickVoice(){
-  const vs = frVoices();
-  const saved = store.get("voice", "");
-  if(saved){ const m = vs.find(v => v.name === saved); if(m) return m; }
-  return vs.slice().sort((a, b) => voiceScore(b) - voiceScore(a))[0] || null;
-}
-
-function getRate(){
-  const r = parseFloat(store.get("rate", 0.95));
-  return isNaN(r) ? 0.95 : r;
-}
-
-function stopSpeech(){
-  if("speechSynthesis" in window) speechSynthesis.cancel();
-  document.querySelectorAll(".pill.on").forEach(b => b.classList.remove("on"));
-}
-
-function speak(texts, btn){
-  if(!("speechSynthesis" in window)){ alert("La lecture vocale n’est pas disponible ici."); return; }
-  const wasOn = btn.classList.contains("on");
-  stopSpeech();
-  if(wasOn) return;
-  btn.classList.add("on");
-  const clean = texts.filter(Boolean).map(t => String(t).trim()).map(t => /[.!?…]$/.test(t) ? t : t + ".");
-  const parts = clean.flatMap(t => t.match(/[^.!?…]+[.!?…]*\s*/g) || []);
-  const voice = pickVoice();
-  const rate = getRate();
-  setTimeout(() => {
-    parts.forEach((p, i) => {
-      const u = new SpeechSynthesisUtterance(p.trim());
-      u.lang = "fr-FR"; u.rate = rate;
-      if(voice) u.voice = voice;
-      if(i === parts.length - 1){
-        u.onend = () => btn.classList.remove("on");
-        u.onerror = () => btn.classList.remove("on");
-      }
-      speechSynthesis.speak(u);
-    });
-  }, 80);
-}
-
-if("speechSynthesis" in window){
-  speechSynthesis.onvoiceschanged = () => { if(tab === "reglages") render(); };
-}
-
-// ---------- Statistiques (un camembert par quiz) ----------
-const KEYS = {jour:"gj", culture:"gc", all:"ga"};
-
-(function migrate(){
-  const old = store.get("g", null);
-  if(old && !store.get("gj", null)) store.set("gj", old);
-})();
-
-function getG(kind){ return store.get(KEYS[kind], {answered:0, correct:0, quizzes:0}); }
-
-function donut(g, size){
-  const pct = g.answered ? Math.round(g.correct / g.answered * 100) : null;
-  const hole = el("i",{}, pct === null ? "–" : pct + "%");
-  hole.style.width = hole.style.height = (size - 12) + "px";
-  hole.style.fontSize = (size >= 56 ? 12 : 10) + "px";
-  const ring = el("div",{class:"donut"}, hole);
-  ring.style.width = ring.style.height = size + "px";
-  ring.style.background = pct === null
-    ? "#232a3b"
-    : "conic-gradient(var(--ok) 0 " + pct + "%, var(--ko) " + pct + "% 100%)";
-  return ring;
-}
-
-let curHead = null;
-
-function buildHead(kind){
-  const g = getG(kind);
-  return el("div",{class:"qhead"},
-    el("button",{class:"pill", onclick:backToHub}, "‹ Quiz"),
-    el("div",{class:"qh2"},
-      el("div",{class:"s"}, plural(g.quizzes, "quiz") + " · " + g.correct + "/" + g.answered + " justes"),
-      donut(g, 40)));
-}
-
-function mountHead(kind){
-  const n = buildHead(kind);
-  curHead = {kind: kind, node: n};
-  view.append(n);
-}
-
-function refreshHead(){
-  if(!curHead) return;
-  const n = buildHead(curHead.kind);
-  if(curHead.node.isConnected) curHead.node.replaceWith(n);
-  curHead.node = n;
-}
-
-function backToHub(){
-  quizMode = null;
-  render();
-  window.scrollTo(0, 0);
-}
-
-function record(id, ok, kind){
-  const st = store.get("stats", {});
-  const s = st[id] || {ok:0, ko:0};
-  if(ok) s.ok++; else s.ko++;
-  s.last = new Date().toISOString().slice(0,10);
-  st[id] = s;
-  store.set("stats", st);
-  const g = getG(kind);
-  g.answered++;
-  if(ok) g.correct++;
-  store.set(KEYS[kind], g);
-  refreshHead();
-}
-
-function countQuiz(kind){
-  const g = getG(kind);
-  g.quizzes++;
-  store.set(KEYS[kind], g);
-  refreshHead();
-}
-
-// ---------- Actus (titres seuls, on déroule au toucher) ----------
-function articleCard(a){
-  const listen = pill("Écouter", "sound");
-  listen.onclick = () => speak([a.titre, a.resume, a.contexte ? "Pourquoi : " + a.contexte : ""], listen);
-  return el("details",{class:"card news"},
-    el("summary",{}, el("span",{class:"t"}, a.titre)),
-    el("div",{class:"src",style:"margin-top:10px"}, a.source + " · " + fmt(a.date)),
-    el("p",{style:"margin-top:4px"}, a.resume),
-    a.contexte ? el("div",{class:"ctx"}, el("b",{}, "Pourquoi"), a.contexte) : null,
-    el("div",{class:"row"}, listen,
-      a.lien ? el("a",{href:a.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗") : null));
-}
-
-function addSection(title, list){
-  list = list || [];
-  if(!list.length) return;
-  const lb = pill("Tout écouter", "sound");
-  lb.onclick = () => speak(list.flatMap(a => [a.titre, a.resume, a.contexte ? "Pourquoi : " + a.contexte : ""]), lb);
-  view.append(el("h3",{}, el("span",{}, title), lb), ...list.map(articleCard));
-}
-
-function viewActus(){
-  if(!DATA){ empty("Pas encore de données. Lance le workflow dans GitHub (onglet Actions)."); return; }
-  const n = (DATA.depuis_hier||[]).length + (DATA.aujourdhui||[]).length;
-  if(!n) empty("Aucune actu pour le moment.");
-  addSection("Depuis hier", DATA.depuis_hier);
-  addSection("Aujourd’hui", DATA.aujourdhui);
-  const deja = DATA.deja_presente || [];
-  if(deja.length){
-    const d = el("details",{}, el("summary",{class:"sub",style:"cursor:pointer;margin:20px 4px 10px"}, "Déjà présentées hier (" + deja.length + ")"));
-    deja.forEach(a => d.append(articleCard(a)));
-    view.append(d);
-  }
-}
-
-// ---------- Culture (fiches) ----------
-function viewCulture(){
-  const l = (DATA && DATA.culture) || [];
-  if(!l.length){ empty("Les fiches de culture générale arrivent avec le brief du matin."); return; }
-  l.forEach(c => {
-    const lb = pill("Écouter", "sound");
-    lb.onclick = () => speak([c.titre, c.texte, c.a_retenir ? "À retenir : " + c.a_retenir : ""], lb);
-    view.append(el("div",{class:"card"},
-      el("span",{class:"tag"}, c.theme),
-      el("div",{class:"t"}, c.titre),
-      el("p",{}, c.texte),
-      c.a_retenir ? el("div",{class:"ctx"}, el("b",{}, "À retenir"), c.a_retenir) : null,
-      el("div",{class:"row"}, lb)));
-  });
-}
-
-// ---------- Moteur de quiz (progression sauvegardée) ----------
-function newSession(qs, sid){
-  return {sid: sid, qs: qs, i: 0, answers: [], done: false, counted: false};
-}
-
-function runQuiz(root, sess, o){
-  const qs = sess.qs;
-
-  function showResult(){
-    const total = qs.length;
-    const score = qs.filter((q, k) => sess.answers[k] === q.reponse).length;
-    const pct = total ? Math.round(score / total * 100) : 0;
-    const msg = pct >= 80 ? "Excellent" : pct >= 50 ? "Pas mal" : "Continue, ça vient";
-    root.append(el("div",{class:"card"},
-      el("div",{class:"lab"}, o.label + " · terminé"),
-      el("div",{class:"big"}, score + " / " + total),
-      el("div",{class:"sub"}, pct + " % de bonnes réponses · " + msg)));
-    qs.forEach((q, k) => {
-      const ok = sess.answers[k] === q.reponse;
-      root.append(el("div",{class:"card rec " + (ok ? "ok" : "ko")},
-        el("div",{class:"t",style:"font-size:15px"}, (ok ? "✓ " : "✗ ") + q.question),
-        ok ? null : el("div",{class:"sub",style:"margin-top:4px"}, "Bonne réponse : " + q.choix[q.reponse]),
-        q.explication ? el("div",{class:"sub",style:"margin-top:4px"}, q.explication) : null));
-    });
-    root.append(
-      el("button",{class:"btn", onclick:() => o.onRestart()}, o.restartLabel),
-      el("button",{class:"btn ghost", onclick:backToHub}, "Retour aux quiz"));
-  }
-
-  function step(){
-    root.replaceChildren();
-    if(sess.done){ showResult(); return; }
-    const q = qs[sess.i];
-    const chosen = sess.answers[sess.i];
-    const answered = chosen !== null && chosen !== undefined;
-    const fb = el("div",{class:"fb"});
-    const btns = q.choix.map((c, idx) => {
-      const b = el("button",{class:"choice"}, c);
-      if(answered){
-        if(idx === q.reponse) b.classList.add("good");
-        else if(idx === chosen) b.classList.add("bad");
-      } else {
-        b.onclick = () => {
-          sess.answers[sess.i] = idx;
-          record(q.id, idx === q.reponse, o.kind);
-          o.save(sess);
-          step();
-        };
-      }
-      return b;
-    });
-    let next = null;
-    if(answered){
-      const ok = chosen === q.reponse;
-      fb.append(el("strong",{style:"color:" + (ok ? "var(--ok)" : "var(--ko)")}, ok ? "Bonne réponse. " : "Raté. "), q.explication || "");
-      if(q.lien) fb.append(el("div",{class:"row"}, el("a",{href:q.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗")));
-      const last = sess.i + 1 >= qs.length;
-      next = el("button",{class:"btn", onclick:() => {
-        if(last){
-          sess.done = true;
-          if(!sess.counted){ sess.counted = true; countQuiz(o.kind); }
-        } else {
-          sess.i++;
-        }
-        o.save(sess);
-        step();
-        window.scrollTo(0, 0);
-      }}, last ? "Voir mon résultat" : "Question suivante");
-    }
-    const bar = el("i");
-    bar.style.width = ((sess.i + (answered ? 1 : 0)) / qs.length * 100) + "%";
-    root.append(
-      el("div",{class:"lab"}, o.label + " · " + (sess.i + 1) + "/" + qs.length),
-      el("div",{class:"prog"}, bar),
-      el("div",{class:"q"}, q.question),
-      ...btns, fb, next);
-  }
-  step();
-}
-
-// ---------- Menu des quiz ----------
-function sessStatus(key, sid){
-  const s = store.get(key, null);
-  if(!s || !s.qs || (sid && s.sid !== sid)) return "";
-  if(s.done){
-    const sc = s.qs.filter((q, k) => s.answers[k] === q.reponse).length;
-    return "Terminé · " + sc + "/" + s.qs.length;
-  }
-  const a = (s.answers || []).filter(x => x !== null && x !== undefined).length;
-  return a > 0 ? "En cours · " + a + "/" + s.qs.length : "";
-}
-
-function hubCard(title, desc, kind, status, enabled, mode){
-  const g = getG(kind);
-  return el("button",{class:"hub" + (enabled ? "" : " off"), onclick:() => { quizMode = mode; render(); window.scrollTo(0, 0); }},
-    donut(g, 60),
-    el("div",{class:"hbody"},
-      el("div",{class:"t"}, title),
-      el("div",{class:"s"}, desc),
-      el("div",{class:"s"}, plural(g.quizzes, "quiz") + " · " + g.correct + "/" + g.answered + " justes"),
-      status ? el("div",{class:"st"}, status) : null));
-}
-
-function dayQuestions(){
-  return ((DATA && DATA.quiz_jour) || []).filter(q => q.type === "actu");
-}
-
-function cultureQuestions(){
-  return BANK.filter(q => q.type === "culture");
-}
-
-function viewHub(){
-  const qj = dayQuestions();
-  const sidj = qj.map(q => q.id).join("-");
-  const nc = cultureQuestions().length;
-  const nt = BANK.length;
-  view.append(
-    el("div",{class:"hint"}, "Choisis ton quiz."),
-    hubCard("Quiz du jour",
-      qj.length ? "Les actus d’aujourd’hui · " + plural(qj.length, "question") : "Disponible avec le brief du soir",
-      "jour", sessStatus("qs_jour", sidj), qj.length > 0, "jour"),
-    hubCard("Quiz culture générale",
-      nc ? "Les fiches de culture · " + plural(nc, "question") : "Se remplit chaque soir",
-      "culture", sessStatus("qs_cult"), nc > 0, "culture"),
-    hubCard("Quiz sur tout ce que j’ai appris",
-      nt ? "Depuis le début · " + plural(nt, "question") : "Se remplit chaque soir",
-      "all", sessStatus("qs_gen"), nt > 0, "tout"));
-}
-
-// ---------- Quiz du jour ----------
-function viewQuizJour(){
-  mountHead("jour");
-  const qs = dayQuestions();
-  if(!qs.length){ empty("Le quiz du jour arrive avec le brief du soir (vers 20 h 45)."); return; }
-  const sid = qs.map(q => q.id).join("-");
-  let sess = store.get("qs_jour", null);
-  if(!sess || sess.sid !== sid){ sess = newSession(qs, sid); store.set("qs_jour", sess); }
-  view.append(el("div",{class:"hint"}, "Questions sur les actus d’aujourd’hui."));
-  const root = el("div"); view.append(root);
-  runQuiz(root, sess, {
-    label: "Quiz du jour", kind: "jour",
-    save: s => store.set("qs_jour", s),
-    restartLabel: "Refaire ce quiz",
-    onRestart: () => { store.set("qs_jour", newSession(qs, sid)); render(); }
-  });
-}
-
-// ---------- Quiz culture générale / Quiz sur tout ----------
-function pickFrom(pool){
-  const st = store.get("stats", {});
-  return pool.map(q => {
-    const s = st[q.id];
-    let w = 2;
-    if(s) w = s.ko > s.ok ? 4 : (s.ko > 0 && s.ok - s.ko < 2 ? 3 : 1);
-    return {q, w: w + Math.random() * 1.5};
-  }).sort((a, b) => b.w - a.w).slice(0, QUIZ_SIZE).map(x => x.q).sort(() => Math.random() - 0.5);
-}
-
-const POOLS = {
-  culture: {
-    key: "qs_cult", kind: "culture", label: "Quiz culture générale",
-    pool: cultureQuestions,
-    empty: "Les questions de culture arrivent avec le brief du soir. Reviens après quelques jours.",
-    restart: "Nouveau quiz culture"
-  },
-  tout: {
-    key: "qs_gen", kind: "all", label: "Quiz sur tout depuis le début",
-    pool: () => BANK,
-    empty: "La banque de questions se remplit chaque soir. Reviens après quelques quiz du jour.",
-    restart: "Nouveau quiz"
-  }
-};
-
-function viewPool(cfg){
-  mountHead(cfg.kind);
-  const pool = cfg.pool();
-  let sess = store.get(cfg.key, null);
-  if(!sess){
-    if(pool.length < 1){ empty(cfg.empty); return; }
-    sess = newSession(pickFrom(pool), cfg.key + "-" + Date.now());
-    store.set(cfg.key, sess);
-  }
-  const st = store.get("stats", {});
-  const weak = pool.filter(q => st[q.id] && st[q.id].ko > st[q.id].ok).length;
-  view.append(el("div",{class:"hint"}, plural(pool.length, "question") + " en banque · " + weak + " à retravailler."));
-  const root = el("div"); view.append(root);
-  runQuiz(root, sess, {
-    label: cfg.label, kind: cfg.kind,
-    save: s => store.set(cfg.key, s),
-    restartLabel: cfg.restart,
-    onRestart: () => { store.set(cfg.key, null); render(); }
-  });
-}
-
-function viewQuiz(){
-  if(quizMode === "jour") viewQuizJour();
-  else if(quizMode === "culture") viewPool(POOLS.culture);
-  else if(quizMode === "tout") viewPool(POOLS.tout);
-  else viewHub();
-}
-
-// ---------- Réglages ----------
-function viewReglages(){
-  const vs = frVoices();
-  const sel = el("select",{class:"sel"},
-    el("option",{value:""}, "Automatique (la plus naturelle)"),
-    ...vs.map(v => el("option",{value:v.name}, v.name + " (" + v.lang + ")")));
-  sel.value = store.get("voice", "");
-  sel.onchange = () => store.set("voice", sel.value);
-
-  const rl = el("span",{}, getRate().toFixed(2) + "×");
-  const rate = el("input",{type:"range",min:"0.7",max:"1.2",step:"0.05"});
-  rate.value = getRate();
-  rate.oninput = () => { store.set("rate", parseFloat(rate.value)); rl.textContent = parseFloat(rate.value).toFixed(2) + "×"; };
-
-  const test = pill("Tester la voix", "sound");
-  test.onclick = () => speak(["Bonjour, voici un exemple de la voix qui te lira ton brief quotidien."], test);
-
-  view.append(
-    el("div",{class:"card"},
-      el("div",{class:"lab"}, "Voix de lecture"),
-      vs.length ? sel : el("p",{class:"sub"}, "Aucune voix française détectée sur cet appareil."),
-      el("div",{class:"sub",style:"margin-top:10px"}, "Vitesse : ", rl),
-      rate,
-      el("div",{class:"row"}, test)),
-    el("div",{class:"card"},
-      el("div",{class:"lab"}, "Voix plus naturelle"),
-      el("p",{class:"sub"}, "Sur ton iPhone : Réglages > Accessibilité > Contenu énoncé > Voix > Français, puis télécharge une voix « Premium » ou « Améliorée ». Reviens ici, recharge la page et choisis-la dans la liste.")),
-    el("div",{class:"card"},
-      el("div",{class:"lab"}, "Statistiques"),
-      el("p",{class:"sub"}, "Efface les camemberts, les compteurs et ta progression dans les quiz."),
-      el("button",{class:"btn alt", onclick:() => {
-        if(confirm("Effacer toutes tes statistiques de quiz ?")){
-          const zero = () => ({answered:0, correct:0, quizzes:0});
-          store.set("g", null);
-          store.set("gj", zero());
-          store.set("gc", zero());
-          store.set("ga", zero());
-          store.set("stats", {});
-          store.set("qs_jour", null);
-          store.set("qs_cult", null);
-          store.set("qs_gen", null);
-          quizMode = null;
-          render();
-        }
-      }}, "Réinitialiser mes statistiques")));
-}
-
-// ---------- Affichage ----------
-function render(){
-  stopSpeech();
-  curHead = null;
-  document.getElementById("nav").replaceChildren(...TABS.map(([id, lb]) =>
-    el("button",{class: id === tab ? "on" : "", onclick:() => {
-      if(id === "quiz" && tab === "quiz") quizMode = null;
-      tab = id; render(); window.scrollTo(0, 0);
-    }}, ico(id, 22), lb)));
-  document.getElementById("sub").textContent = DATA ? "Mis à jour · " + fmt(DATA.updated) : "";
-  view.replaceChildren();
-  if(LOADING && tab !== "reglages"){ empty("Chargement…"); return; }
-  if(tab === "actus") viewActus();
-  else if(tab === "culture") viewCulture();
-  else if(tab === "quiz") viewQuiz();
-  else viewReglages();
-}
-
-async function load(){
-  try{
-    const r = await fetch("data/latest.json?t=" + Date.now(), {cache:"no-store"});
-    DATA = r.ok ? await r.json() : null;
-  }catch(e){ DATA = null; }
-  try{
-    const r = await fetch("data/quiz_bank.json?t=" + Date.now(), {cache:"no-store"});
-    if(r.ok){ const b = await r.json(); BANK = b.questions || []; }
-  }catch(e){}
-  LOADING = false;
-  render();
-}
-
-document.getElementById("refresh").append(ico("refresh", 18));
-document.getElementById("refresh").onclick = load;
-render();
-load();
-</script>
-</body>
-</html>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const I={news:'<path d="M4 5h13v14H6a2 2 0 0 1-2-2z"/><path d="M17 9h3v8a2 2 0 0 1-2 2"/><path d="M8 9h5M8 13h5"/>',
+bulb:'<path d="M9 18h6M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.7.7 1 1.5 1 2.5h6c0-1 .3-1.8 1-2.5A6 6 0 0 0 12 3z"/>',
+quiz:'<circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.7.4-1 .9-1 1.7"/><path d="M12 17h.01"/>',
+spk:'<path d="M4 10v4h4l5 4V6L8 10z"/><path d="M16.5 9a4 4 0 0 1 0 6"/>',
+lnk:'<path d="M14 4h6v6M20 4l-9 9"/><path d="M18 14v5H5V6h5"/>',
+set:'<path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><circle cx="8" cy="17" r="2"/>',
+rnd:'<path d="M3 7h4l10 10h4M3 17h4l3-3M14 10l3-3h4M18 4l3 3-3 3M18 14l3 3-3 3"/>',
+day:'<rect x="4" y="5" width="16" height="15" rx="3"/><path d="M4 10h16M9 3v4M15 3v4"/>',
+rev:'
