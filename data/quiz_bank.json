@@ -404,6 +404,111 @@
       "reponse": 3,
       "explication": "Une éruption volcanique sur l'île voisine de Théra (Santorin) a déclenché des tsunamis et des pluies de cendre destructeurs pour l'économie minoenne.",
       "lien": ""
+    },
+    {
+      "id": "f486360289",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel pays a annoncé son retrait de l'Eurovision 2027 en raison de la participation d'Israël ?",
+      "choix": [
+        "L'Islande",
+        "Les Pays-Bas",
+        "La Slovénie",
+        "L'Espagne"
+      ],
+      "reponse": 1,
+      "explication": "Les Pays-Bas ont annoncé leur retrait du concours de l'Eurovision 2027 à cause de cette question sensible.",
+      "lien": "https://www.franceinfo.fr/culture/tv/les-pays-bas-se-retirent-de-l-eurovision-2027-en-raison-de-la-question-sensible-d-israel_8255473.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "77470402a1",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel est le domaine de prédilection de Tetsuya Chiba, auteur de la série \"Ashita no Joe\" décédé à 87 ans ?",
+      "choix": [
+        "Le manga",
+        "Le cinéma d'animation",
+        "Le roman policier",
+        "L'architecture"
+      ],
+      "reponse": 0,
+      "explication": "Tetsuya Chiba était une figure majeure du manga japonais et l'auteur de la célèbre série de boxe \"Ashita no Joe\".",
+      "lien": "https://www.franceinfo.fr/culture/bd/mangas/le-japonais-tetsuya-chiba-figure-majeure-du-manga-et-auteur-de-la-serie-de-boxe-ashita-no-joe-est-mort-a-87-ans_8255443.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "ec80da835f",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel footballeur a reçu le Ballon d'Or 2026 à Londres ?",
+      "choix": [
+        "Kylian Mbappé",
+        "Harry Kane",
+        "Lamine Yamal",
+        "Erling Haaland"
+      ],
+      "reponse": 1,
+      "explication": "L'international anglais Harry Kane a reçu le Ballon d'Or 2026 en devançant Kylian Mbappé et Lamine Yamal.",
+      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/yes-he-kan-une-distinction-meritee-pour-l-ancien-loser-patente-la-presse-europeenne-salue-le-couronnement-du-roi-harry-kane-ballon-d-or-2026_8255347.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "5b48cc1cc7",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel artiste succède à Bad Bunny en tête d'affiche du concert de la mi-temps du Super Bowl ?",
+      "choix": [
+        "Eminem",
+        "Drake",
+        "Kendrick Lamar",
+        "Jay-Z"
+      ],
+      "reponse": 3,
+      "explication": "Le rappeur Jay-Z succèdera à Bad Bunny pour assurer le \"halftime show\" du Super Bowl.",
+      "lien": "https://www.franceinfo.fr/culture/musique/jay-z/le-rappeur-jay-z-succede-a-bad-bunny-en-tete-d-affiche-du-halftime-show-du-super-bowl_8255368.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "5b6391a7a7",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel président a réuni à Moscou les principaux pays exportateurs de gaz en pleine flambée des prix ?",
+      "choix": [
+        "Narendra Modi",
+        "Xi Jinping",
+        "Vladimir Poutine",
+        "Recep Tayyip Erdogan"
+      ],
+      "reponse": 2,
+      "explication": "Le président russe Vladimir Poutine a réuni les grands producteurs de gaz à Moscou malgré les sanctions occidentales.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261027-gaz-poutine-r%C3%A9unit-les-grands-producteurs-%C3%A0-moscou-sur-fond-de-flamb%C3%A9e-des-prix"
+    },
+    {
+      "id": "2564ac53d7",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Selon la légende populaire, quel élève aurait inventé le rugby en attrapant le ballon à pleines mains lors d'un match de football ?",
+      "choix": [
+        "Henry Charles",
+        "Richardivus Rugby",
+        "Thomas Arnold",
+        "William Webb Ellis"
+      ],
+      "reponse": 3,
+      "explication": "La légende attribue l'invention du rugby à William Webb Ellis dans la ville de Rugby en Angleterre.",
+      "lien": ""
+    },
+    {
+      "id": "8b5d6d9b3a",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Sur quelle île s'est épanouie la civilisation minoenne, marquée par le palais de Cnossos ?",
+      "choix": [
+        "La Sicile",
+        "Chypre",
+        "Sardaigne",
+        "La Crète"
+      ],
+      "reponse": 3,
+      "explication": "La civilisation minoenne s'est développée sur l'île de Crète autour du somptueux palais de Cnossos.",
+      "lien": ""
     }
   ]
 }

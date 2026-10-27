@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "mode": "evening",
-  "updated": "2026-10-27T10:40:08.851634+01:00",
+  "updated": "2026-10-27T11:21:16.843917+01:00",
   "deja_presente": [
     {
       "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
@@ -80,84 +80,92 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Elections législatives en Israël : un début de scrutin marqué par la plus forte participation depuis 1981, selon la Commission électorale",
-      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · Le Monde",
-      "date": "2026-10-27T10:35:31+01:00",
-      "resume": "Plus de sept millions d'Israéliens sont appelés aux urnes mardi 27 octobre pour le renouvellement de la Knesset, le Parlement de l'État hébreu. Le scrutin est marqué par une participation record, atteignant 16,68 % dès le mardi matin, soit le taux le plus haut enregistré depuis 1981 selon la Commission électorale. Cette élection constitue la première depuis les attentats du 7 octobre 2023.",
-      "contexte": "Ce scrutin prend la forme d'un référendum pour ou contre le maintien au pouvoir du Premier ministre sortant Benyamin Nétanyahou, en très mauvaise posture politique depuis les attaques de 2023. Les enjeux sécuritaires et politiques sont immenses dans un pays profondément divisé, l'issue de l'élection pouvant redessiner durablement les équilibres au Proche-Orient."
+      "titre": "Tourisme en Afrique du Sud : les touristes africains se détournent du pays",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-tourisme-en-afrique-du-sud-les-touristes-africains-se-d%C3%A9tournent-du-pays",
+      "source": "France 24",
+      "date": "2026-10-27T11:18:11+01:00",
+      "resume": "Un reportage mené par Caroline Dumay et Stefan Carstens met en lumière le désintérêt progressif des touristes africains pour l'Afrique du Sud. Les visiteurs du continent se tournent désormais vers d'autres destinations, marquant un changement dans les dynamiques touristiques régionales.",
+      "contexte": "L'Afrique du Sud a longtemps été la locomotive économique et touristique de l'Afrique australe, attirant de nombreux voyageurs pour ses infrastructures et ses parcs naturels. Ce boudage par les touristes du continent peut s'expliquer par des coûts de voyage élevés, des formalités de visa parfois restrictives ou l'émergence de nouvelles destinations concurrentes en Afrique. Pour le pays, cela représente un manque à gagner important dans un secteur clé de l'économie."
+    },
+    {
+      "titre": "Les Pays-Bas se retirent de l'Eurovision 2027 en raison de la question \"sensible\" de la participation d'Israël",
+      "lien": "https://www.franceinfo.fr/culture/tv/les-pays-bas-se-retirent-de-l-eurovision-2027-en-raison-de-la-question-sensible-d-israel_8255473.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T11:16:10+01:00",
+      "resume": "Les Pays-Bas ont annoncé leur retrait du concours de l'Eurovision 2027 en raison de la question sensible de la participation d'Israël. En 2026, ce pays avait déjà boycotté l'événement aux côtés de l'Irlande, de l'Islande, de l'Espagne et de la Slovénie, qui s'opposaient à la présence d'Israël sur fond de guerre à Gaza.",
+      "contexte": "Le concours de l'Eurovision est régulièrement le théâtre de tensions géopolitiques malgré les règles de neutralité affichées par les organisateurs. La participation d'Israël susmet de vives contestations dans certains pays européens en raison du conflit en cours dans la bande de Gaza. Ce boycott répété fragilise l'image d'unité culturelle que cherche à projeter le télécrochet international."
+    },
+    {
+      "titre": "La Jordanie frappe la Syrie après l'attaque contre une église et affirme avoir tué 20 personnnes, Damas recense sept morts",
+      "lien": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T11:06:12+01:00",
+      "resume": "L'armée jordanienne a mené des frappes en Syrie après l'attaque inédite perpétrée vendredi contre une église orthodoxe grecque en Jordanie, qui avait coûté la vie à neuf personnes tuées par des hommes armés. La Jordanie affirme avoir abattu 20 personnes lors de ses représailles, tandis que Damas recense de son côté sept morts.",
+      "contexte": "Cette escalade militaire transfrontalière intervient dans un climat régional extrêmement tendu, marqué par l'instabilité chronique en Syrie et ses répercussions sur les pays voisins. La Jordanie, soucieuse de préserver sa sécurité intérieure et de réagir avec fermeté face à des violences ciblant la minorité chrétienne du royaume, montre sa volonté de frapper les groupes armés de l'autre côté de la frontière. Ces opérations font courir le risque d'une aggravation des tensions diplomatiques entre Amman et Damas."
+    },
+    {
+      "titre": "Le Japonais Tetsuya Chiba, figure majeure du manga et auteur de la série de boxe \"Ashita no Joe\", est mort à 87 ans",
+      "lien": "https://www.franceinfo.fr/culture/bd/mangas/le-japonais-tetsuya-chiba-figure-majeure-du-manga-et-auteur-de-la-serie-de-boxe-ashita-no-joe-est-mort-a-87-ans_8255443.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T11:05:53+01:00",
+      "resume": "Le mangaka japonais Tetsuya Chiba, figure majeure de la bande dessinée japonaise et auteur de la célèbre série de boxe \"Ashita no Joe\", est décédé à l'âge de 87 ans. Sa série à succès, publiée dans les années 1960 et 1970, demeure un phénomène culturel incontournable.",
+      "contexte": "Tetsuya Chiba a profondément marqué l'histoire du manga moderne, en particulier le genre du shonen sportif et dramatique. \"Ashita no Joe\" est devenue une œuvre culte qui a influencé des générations d'auteurs et ancré durablement la culture manga à travers le monde. Sa disparition marque la perte d'un pionnier de l'âge d'or de la bande dessinée japonaise."
+    },
+    {
+      "titre": "Une minute de silence sera observée mardi à L'Assemblée nationale en hommages Pengo Bossio Wangi, mort dans l'attentat de Trappes",
+      "lien": "https://www.franceinfo.fr/societe/trappes/une-minute-de-silence-sera-observee-mardi-a-l-assemblee-nationale-en-hommages-pengo-bossio-wangi-mort-dans-l-attentat-de-trappes_8255494.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T11:05:07+01:00",
+      "resume": "Une minute de silence sera observée mardi à l'Assemblée nationale en hommage à Pengo Bossio Wangi, tué lors de l'attentat de Trappes. Cet hommage faisait l'objet de demandes insistantes depuis plusieurs jours, notamment via une tribune publiée sur le site de Politis signée par une centaine de personnalités dénonçant le racisme et pointant la responsabilité des médias.",
+      "contexte": "Les hommages institutionnels aux victimes d'attentats à caractère raciste revêtent une forte charge politique et sociétale en France. Ce type de recueillement intervient souvent pour apaiser les tensions et afficher l'unité nationale face à la violence. Il met également en lumière les débats publics sur le traitement médiatique de ces drames et la lutte contre les discriminations."
+    },
+    {
+      "titre": "Israël : début des élections législatives, où Netanyahu joue sa survie politique",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-isra%C3%ABl-d%C3%A9but-des-%C3%A9lections-l%C3%A9gislatives-o%C3%B9-netanyahu-joue-sa-survie-politique",
+      "source": "France 24 · Le Monde",
+      "date": "2026-10-27T11:02:42+01:00",
+      "resume": "Les élections législatives ont débuté en Israël, un scrutin crucial où le Premier ministre Benjamin Netanyahu joue sa survie politique. À cette occasion, une vingtaine de familles de colons ont installé un campement à moins d'un kilomètre de la clôture de séparation avec la bande de Gaza, affirmant leur intention de s'implanter durablement sur place avec le slogan \"Gaza est à nous !\".",
+      "contexte": "Ces élections législatives se déroulent dans un contexte de profonde polarisation de la société israélienne, sur fond de guerre prolongée à Gaza et de pressions internationales accrues. Le sort politique de Benjamin Netanyahu dépend de sa capacité à maintenir une coalition de droite et d'extrême droite. L'activisme des colons aux abords de l'enclave illustre les ambitions territoriales portées par les franges les plus radicales de l'électorat nationaliste."
+    },
+    {
+      "titre": "\"Yes he Kan\", \"une distinction méritée\" pour l'ancien \"loser patenté\" : la presse européenne salue le couronnement du roi Harry Kane, Ballon d'or 2026",
+      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/yes-he-kan-une-distinction-meritee-pour-l-ancien-loser-patente-la-presse-europeenne-salue-le-couronnement-du-roi-harry-kane-ballon-d-or-2026_8255347.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T10:54:06+01:00",
+      "resume": "L'international anglais Harry Kane a reçu le Ballon d'Or 2026 lundi à Londres, devançant Kylian Mbappé et Lamine Yamal. La presse européenne a salué cette distinction pour l'attaquant, qualifié par certains de \"loser patenté\" par le passé.",
+      "contexte": "Le Ballon d'Or est la récompense individuelle la plus prestigieuse du football mondial, attribuée chaque année au meilleur joueur de la saison. Le sacre de Harry Kane vient couronner des performances exceptionnelles en club et en sélection, effaçant les critiques récurrentes sur son manque de trophées majeurs au cours de sa carrière. Cette victoire consacre la longévité et l'efficacité de l'attaquant au sommet du football européen."
+    },
+    {
+      "titre": "Le gouvernement envisage de renforcer la lutte contre l'optimisation fiscale pour financer les mesures sur les lycées",
+      "lien": "https://www.franceinfo.fr/economie/budget/la-lutte-contre-l-optimisation-fiscale-possible-piste-pour-financer-les-mesures-sur-les-lycees-selon-le-ministre-de-l-action-et-des-comptes-publics_8255356.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T10:52:27+01:00",
+      "resume": "Le gouvernement français envisage de renforcer la lutte contre l'optimisation fiscale afin de financer les mesures en faveur des lycées annoncées lundi. Selon le ministre de l'Action et des Comptes publics, ces nouveautés doivent être compensées par des efforts budgétaires pour éviter d'alourdir la dette publique.",
+      "contexte": "Face aux exigences de rigueur budgétaire et de réduction des déficits, l'exécutif cherche de nouvelles sources de financement pour répondre aux attentes sociales de la jeunesse. La lutte contre l'optimisation et la fraude fiscales est régulièrement présentée comme un levier de justice fiscale et de recettes supplémentaires. Les arbitrages s'annoncent toutefois délicats pour concrétiser ces promesses sans pénaliser l'économie ou mécontenter les contribuables."
+    },
+    {
+      "titre": "L'introduction en Bourse d'Anthropic promet d'être record",
+      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/l-introduction-en-bourse-d-anthropic-promet-d-etre-record_8234677.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T10:51:47+01:00",
+      "resume": "La start-up américaine Anthropic a rendu public son dossier d'introduction à Wall Street, préparant une entrée en Bourse qui s'annonce d'ores et déjà record. Ce document confirme la croissance fulgurante du géant de l'intelligence artificielle.",
+      "contexte": "Le secteur de l'intelligence artificielle générative attire des flux massifs de capitaux et fait l'objet d'une course effrénée entre géants technologiques et jeunes pousses très valorisées. L'introduction en Bourse d'Anthropic reflète l'appétit insatiable des marchés financiers pour ces technologies disruptives. Elle permettra à l'entreprise de lever des fonds colossaux pour financer sa puissance de calcul et sa R&D."
+    },
+    {
+      "titre": "Le rappeur Jay-Z succède à Bad Bunny en tête d'affiche du \"halftime show\" du Super Bowl",
+      "lien": "https://www.franceinfo.fr/culture/musique/jay-z/le-rappeur-jay-z-succede-a-bad-bunny-en-tete-d-affiche-du-halftime-show-du-super-bowl_8255368.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T10:45:47+01:00",
+      "resume": "Le rappeur Jay-Z succèdera à Bad Bunny pour assurer la tête d'affiche du concert de la mi-temps du Super Bowl. Sa prestation est programmée pour le 14 février et viendra couronner une tournée mondiale célébrant ses 30 ans de carrière.",
+      "contexte": "Le \"halftime show\" du Super Bowl est l'un des événements musicaux et télévisuels les plus regardés au monde, offrant une vitrine planétaire exceptionnelle aux artistes choisis. Pour Jay-Z, qui est également devenu un magnat influent des affaires et de la production à travers sa société Roc Nation, cette performance consacre une immense longévité artistique. C'est l'occasion de célébrer trois décennies de tubes et d'impact culturel sur la scène hip-hop internationale."
     },
     {
       "titre": "Gaz : Poutine réunit les grands producteurs à Moscou sur fond de flambée des prix",
       "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261027-gaz-poutine-r%C3%A9unit-les-grands-producteurs-%C3%A0-moscou-sur-fond-de-flamb%C3%A9e-des-prix",
       "source": "France 24",
       "date": "2026-10-27T10:34:33+01:00",
-      "resume": "Cette rencontre au sommet permet à Moscou de réAffirmer son poid géopolitique sur le marché énergétique mondial malgré les sanctions. La flambée des prix liée aux tensions d'approvisionnement fait peser des risques importants sur les consommateurs européens et mondiaux à l'approche de la saison froide, renforçant le levier d'influence des pays producteurs.",
-      "contexte": "Vladimir Poutine réunit mardi à Moscou les principaux pays exportateurs de gaz pour une démonstration de force diplomatique. Cette réunion intervient malgré les sanctions occidentales et alors que les tensions sur les approvisionnements font s'envoler les prix à l'approche de l'hiver."
-    },
-    {
-      "titre": "\"Jusqu'à -40% de volume de consommation\" : le patron de Coopérative U évoque un \"véritable effondrement de la consommation de carburant\" en octobre",
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/jusqu-a-40-de-volume-de-consommation-le-patron-de-cooperative-u-evoque-un-veritable-effondrement-de-la-consommation-de-carburant-en-octobre_8255380.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T10:33:32+01:00",
-      "resume": "L'attente des consommateurs face à la baisse promise du carburant au 1er novembre entraîne un net report des achats et une chute brutale des volumes vendus en octobre. Cette baisse des prix à la pompe vise à soulager le pouvoir d'achat des automobilistes face à la hausse générale du coût de la vie.",
-      "contexte": "Le patron de Coopérative U a évoqué mardi un véritable effondrement de la consommation de carburant, avec jusqu'à -40 % de volume consommé en octobre. Cette situation intervient alors que le Premier ministre a promis mi-octobre une baisse des prix du gazole pour les consommateurs dès le 1er novembre, représentant environ dix euros d'économies par plein."
-    },
-    {
-      "titre": "\"Nous savions tous qu'un jour, les mots de la haine tueraient\" : Omar Sy, Theodora, Gilles Lellouche… Des personnalités dénoncent le racisme après l'attentat de Trappes",
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/nous-savions-tous-qu-un-jour-les-mots-de-la-haine-tueraient-omar-sy-jul-theodora-gilles-lellouche-des-personnalites-denoncent-le-racisme-apres-l-attentat-de-trappes_8255149.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · Le Monde",
-      "date": "2026-10-27T10:33:21+01:00",
-      "resume": "De nombreuses personnalités, parmi lesquelles Omar Sy, Theodora et Gilles Lellouche, ont dénoncé le racisme à la suite de l'attentat de Trappes, établissant un lien avec le traitement médiatique de la manifestation du 17 octobre. Des milliers de personnes se sont également rassemblées lundi soir dans des villes comme Paris, Toulouse et Vénissieux pour rendre hommage aux victimes et exprimer leur émotion après la mort de Pengo Bossio Wangi, tué par l'assaillant.",
-      "contexte": "Ce drame ravive les tensions autour des questions de racisme, de sécurité et du traitement médiatique des mouvements sociaux en France. Les réactions contrastées des responsables politiques et des collectifs militants lors des hommages illustrent les divergences profondes qui traversent la société sur ces sujets."
-    },
-    {
-      "titre": "« Une superstar à l’excellence discrète » : le triomphe de Harry Kane au Ballon d’or 2026 salué par la presse étrangère",
-      "lien": "https://www.lemonde.fr/sport/article/2026/10/27/une-superstar-a-l-excellence-discrete-le-triomphe-de-harry-kane-au-ballon-d-or-2026-salue-par-la-presse-etrangere_6801220_3242.html",
-      "source": "Le Monde",
-      "date": "2026-10-27T10:30:09+01:00",
-      "resume": "Ce sacre vient récompenser la régularité et les performances de haut niveau de l'attaquant sur la scène internationale. Il illustre également une forme de reconnaissance du talent brut et du travail d'équipe par rapport aux stratégies de communication médiatique.",
-      "contexte": "L'attaquant anglais Harry Kane a remporté lundi le Ballon d'Or 2026 devant Kylian Mbappé (2e) et Lamine Yamal (3e), salué par la presse étrangère comme une superstar à l'excellence discrète. Contrairement à ses principaux concurrents, il n'avait pas mené de campagne d'autopromotion intense."
-    },
-    {
-      "titre": "La Jordanie frappe la Syrie après l'attaque contre une église et affirme avoir tué 20 personnnes, Damas recense sept morts",
-      "lien": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T10:13:12+01:00",
-      "resume": "Cette opération militaire transfrontalière marque une riposte extrêmement ferme de la Jordanie suite à un attentat rarissime ayant touché sa communauté chrétienne. Cette escalade illustre l'instabilité persistante aux frontières syriennes et la volonté des États voisins de réagir militairement pour assurer leur sécurité intérieure.",
-      "contexte": "Les autorités jordaniennes ont mené des frappes en Syrie faisant 20 morts selon Amman, tandis que Damas en recense sept, en réaction à l'attaque sans précédent menée vendredi contre une église orthodoxe grecque en Jordanie où neuf personnes avaient été tuées par des hommes armés."
-    },
-    {
-      "titre": "Casseurs-payeurs : \"On pourrait également considérer que cette loi porte une atteinte excessive à la liberté de manifester\", décrypte Olivia Ronen, avocate pénaliste",
-      "lien": "https://www.franceinfo.fr/societe/loi-anti-casseurs/casseurs-payeurs-on-pourrait-egalement-considerer-que-cette-loi-porte-une-atteinte-excessive-a-la-liberte-de-manifester-decrypte-olivia-ronen-avocate-penaliste_8255362.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T10:07:52+01:00",
-      "resume": "Ce texte suscite de forts débats juridiques et politiques, certains experts estimant qu'il pourrait porter une atteinte excessive à la liberté fondamentale de manifester. Il s'inscrit dans le cadre des mesures gouvernementales visant à répondre aux violences urbaines et aux dégradations lors des mouvements sociaux.",
-      "contexte": "L'avocate pénaliste Olivia Ronen est revenue mardi 27 octobre sur le projet de loi 'casseurs-payeurs' examiné au Sénat, qui élargit la responsabilité financière des manifestants pour les dégâts commis."
-    },
-    {
-      "titre": "Présidentielle 2027 : le professeur d'immunologie Éric Vivier appelle les candidats à soutenir la recherche fondamentale",
-      "lien": "https://www.franceinfo.fr/sante/presidentielle-2027-le-professeur-d-immunologie-eric-vivier-appelle-les-candidats-a-soutenir-la-recherche-fondamentale_8255410.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T09:59:29+01:00",
-      "resume": "Cet appel met en lumière les difficultés structurelles de la recherche scientifique française face à la concurrence internationale. Les enjeux portent sur l'innovation médicale, l'attractivité des chercheurs et la souveraineté sanitaire du pays à long terme.",
-      "contexte": "Le professeur d'immunologie Éric Vivier a lancé un appel sur France Inter pour que les candidats à la présidentielle de 2027 soutiennent la recherche fondamentale, alertant sur le retard pris par la France en raison du manque de financements."
-    },
-    {
-      "titre": "Deux grandes compagnies chinoises rompent leurs contrats avec Kylian Mbappé l'accusant d'avoir \"heurté les sentiments nationaux\"",
-      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/deux-grandes-compagnies-chinoises-rompent-avec-kylian-mbappe-l-accusant-d-avoir-heurte-les-sentiments-nationaux_8255212.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T09:55:53+01:00",
-      "resume": "Cet épisode illustre la sensibilité extrême des marchés asiatiques, en particulier chinois, aux questions mémorielles et politiques concernant leurs dirigeants historiques. Pour les sportifs de premier plan, cela démontre l'impact économique direct que peuvent avoir des déclarations informelles sur leur image internationale.",
-      "contexte": "Deux grandes compagnies chinoises ont rompu leurs contrats publicitaires avec Kylian Mbappé après une référence à Mao Zedong lors d'une interview avec Aurélien Tchouaméni, jugée offensante pour les sentiments nationaux en Chine."
-    },
-    {
-      "titre": "Mobilisation des lycéens : les syndicats disent voir \"une petite brèche\" et veulent \"continuer à utiliser ce rapport de forces\"",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-les-syndicats-disent-voir-une-petite-breche-et-veulent-continuer-a-utiliser-ce-rapport-de-forces_8255338.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T09:49:36+01:00",
-      "resume": "Bien qu'ils perçoivent une 'petite brèche' dans la position de l'exécutif, les syndicats maintiennent la pression et comptent poursuivre le rapport de forces. La mobilisation des jeunes continue ainsi de peser sur l'agenda politique et social.",
-      "contexte": "Les syndicats étudiants et lycéens (Les Lycéens! et la Fage) estiment que les récentes annonces du gouvernement constituent un premier pas face à leur colère, mais restent insuffisantes."
+      "resume": "Le président russe Vladimir Poutine réunit mardi à Moscou les principaux pays exportateurs de gaz en pleine flambée des prix. Cette rencontre se tient malgré les sanctions occidentales et constitue une démonstration de puissance diplomatique face aux tensions sur les approvisionnements à l'approche de l'hiver.",
+      "contexte": "La Russie utilise traditionnellement ses ressources énergétiques comme un instrument d'influence géopolitique majeure, en particulier vis-à-vis de l'Europe. Dans un contexte de sanctions économiques liées au conflit en Ukraine, Moscou cherche à cimenter des alliances alternatives avec les grands producteurs mondiaux pour peser sur les marchés. Cette coordination resserrée accentue la pression sur les prix du gaz et la sécurité énergétique internationale."
     }
   ],
   "culture": [
@@ -182,108 +190,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "f07892bf2a",
+      "id": "f486360289",
       "date": "2026-10-27",
       "type": "actu",
-      "question": "Quel événement marquant a caractérisé le début des élections législatives en Israël ?",
+      "question": "Quel pays a annoncé son retrait de l'Eurovision 2027 en raison de la participation d'Israël ?",
       "choix": [
-        "Des cyberattaques contre la Commission électorale",
-        "Un boycott massif de l'opposition",
-        "Une participation record depuis 1981",
-        "Le report du scrutin en raison des intempéries"
-      ],
-      "reponse": 2,
-      "explication": "Le scrutin a connu une participation de 16,68 % dès le mardi matin, soit le taux le plus élevé enregistré depuis 1981.",
-      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "0f243c2c9a",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Pourquoi le patron de Coopérative U évoque-t-il un effondrement de la consommation de carburant en octobre ?",
-      "choix": [
-        "Suite à l'interdiction de rouler certains jours de la semaine",
-        "À cause d'une taxe exceptionnelle votée par le gouvernement",
-        "À cause de pénuries massives dans les raffineries",
-        "En raison de l'attente des consommateurs face à une baisse des prix promise au 1er novembre"
-      ],
-      "reponse": 3,
-      "explication": "L'attente de la baisse promise du carburant au 1er novembre a entraîné un report des achats et une chute brutale des volumes en octobre.",
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/jusqu-a-40-de-volume-de-consommation-le-patron-de-cooperative-u-evoque-un-veritable-effondrement-de-la-consommation-de-carburant-en-octobre_8255380.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "e72467c6bc",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Suite à quel événement de nombreuses personnalités, dont Omar Sy et Gilles Lellouche, ont-elles dénoncé le racisme ?",
-      "choix": [
-        "L'attentat de Trappes",
-        "La profanation d'un lieu de culte à Toulouse",
-        "Les incidents lors d'un match de football",
-        "Une agression dans le métro parisien"
-      ],
-      "reponse": 0,
-      "explication": "Les personnalités ont dénoncé le racisme à la suite de l'attentat de Trappes et de la mort de Pengo Bossio Wangi.",
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/nous-savions-tous-qu-un-jour-les-mots-de-la-haine-tueraient-omar-sy-jul-theodora-gilles-lellouche-des-personnalites-denoncent-le-racisme-apres-l-attentat-de-trappes_8255149.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "ef87469d5e",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Quelle a été la cause de la riposte militaire de la Jordanie contre la Syrie ?",
-      "choix": [
-        "Une attaque contre une église touchant sa communauté chrétienne",
-        "Un accrochage frontalier entre gardes-frontières",
-        "Le non-respect d'un accord commercial",
-        "Un différend sur le partage des eaux"
-      ],
-      "reponse": 0,
-      "explication": "La Jordanie a frappé la Syrie en réponse à un attentat rarissime ayant touché sa communauté chrétienne.",
-      "lien": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "b30d2e65f6",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Pourquoi deux grandes compagnies chinoises ont-elles rompu leurs contrats avec Kylian Mbappé ?",
-      "choix": [
-        "Il a signé un contrat exclusif avec une marque concurrente",
-        "Elles l'accusaient d'avoir heurté les sentiments nationaux",
-        "Il a refusé de participer à une tournée en Asie",
-        "Il a demandé une revalorisation salariale trop importante"
+        "L'Islande",
+        "Les Pays-Bas",
+        "La Slovénie",
+        "L'Espagne"
       ],
       "reponse": 1,
-      "explication": "Les compagnies l'ont accusé d'avoir 'heurté les sentiments nationaux', illustrant la sensibilité des marchés asiatiques.",
-      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/deux-grandes-compagnies-chinoises-rompent-avec-kylian-mbappe-l-accusant-d-avoir-heurte-les-sentiments-nationaux_8255212.html#xtor=RSS-3-[lestitres]"
+      "explication": "Les Pays-Bas ont annoncé leur retrait du concours de l'Eurovision 2027 à cause de cette question sensible.",
+      "lien": "https://www.franceinfo.fr/culture/tv/les-pays-bas-se-retirent-de-l-eurovision-2027-en-raison-de-la-question-sensible-d-israel_8255473.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "a0bee108a8",
+      "id": "77470402a1",
       "date": "2026-10-27",
-      "type": "culture",
-      "question": "Selon la légende populaire, quel personnage est à l'origine de l'invention du rugby moderne en Angleterre ?",
+      "type": "actu",
+      "question": "Quel est le domaine de prédilection de Tetsuya Chiba, auteur de la série \"Ashita no Joe\" décédé à 87 ans ?",
       "choix": [
-        "Thomas Arnold",
-        "Arthur Wellesley de Wellington",
-        "William Webb Ellis",
-        "Henry Newbolt"
+        "Le manga",
+        "Le cinéma d'animation",
+        "Le roman policier",
+        "L'architecture"
+      ],
+      "reponse": 0,
+      "explication": "Tetsuya Chiba était une figure majeure du manga japonais et l'auteur de la célèbre série de boxe \"Ashita no Joe\".",
+      "lien": "https://www.franceinfo.fr/culture/bd/mangas/le-japonais-tetsuya-chiba-figure-majeure-du-manga-et-auteur-de-la-serie-de-boxe-ashita-no-joe-est-mort-a-87-ans_8255443.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "ec80da835f",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel footballeur a reçu le Ballon d'Or 2026 à Londres ?",
+      "choix": [
+        "Kylian Mbappé",
+        "Harry Kane",
+        "Lamine Yamal",
+        "Erling Haaland"
+      ],
+      "reponse": 1,
+      "explication": "L'international anglais Harry Kane a reçu le Ballon d'Or 2026 en devançant Kylian Mbappé et Lamine Yamal.",
+      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/yes-he-kan-une-distinction-meritee-pour-l-ancien-loser-patente-la-presse-europeenne-salue-le-couronnement-du-roi-harry-kane-ballon-d-or-2026_8255347.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "5b48cc1cc7",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel artiste succède à Bad Bunny en tête d'affiche du concert de la mi-temps du Super Bowl ?",
+      "choix": [
+        "Eminem",
+        "Drake",
+        "Kendrick Lamar",
+        "Jay-Z"
+      ],
+      "reponse": 3,
+      "explication": "Le rappeur Jay-Z succèdera à Bad Bunny pour assurer le \"halftime show\" du Super Bowl.",
+      "lien": "https://www.franceinfo.fr/culture/musique/jay-z/le-rappeur-jay-z-succede-a-bad-bunny-en-tete-d-affiche-du-halftime-show-du-super-bowl_8255368.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "5b6391a7a7",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel président a réuni à Moscou les principaux pays exportateurs de gaz en pleine flambée des prix ?",
+      "choix": [
+        "Narendra Modi",
+        "Xi Jinping",
+        "Vladimir Poutine",
+        "Recep Tayyip Erdogan"
       ],
       "reponse": 2,
-      "explication": "La légende veut que William Webb Ellis ait attrapé le ballon à pleines mains lors d'un match de football pour courir vers le but.",
+      "explication": "Le président russe Vladimir Poutine a réuni les grands producteurs de gaz à Moscou malgré les sanctions occidentales.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261027-gaz-poutine-r%C3%A9unit-les-grands-producteurs-%C3%A0-moscou-sur-fond-de-flamb%C3%A9e-des-prix"
+    },
+    {
+      "id": "2564ac53d7",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Selon la légende populaire, quel élève aurait inventé le rugby en attrapant le ballon à pleines mains lors d'un match de football ?",
+      "choix": [
+        "Henry Charles",
+        "Richardivus Rugby",
+        "Thomas Arnold",
+        "William Webb Ellis"
+      ],
+      "reponse": 3,
+      "explication": "La légende attribue l'invention du rugby à William Webb Ellis dans la ville de Rugby en Angleterre.",
       "lien": ""
     },
     {
-      "id": "bb44b29c41",
+      "id": "8b5d6d9b3a",
       "date": "2026-10-27",
       "type": "culture",
-      "question": "Quel événement majeur est considéré par la majorité des scientifiques comme la cause de la fin de la civilisation minoenne ?",
+      "question": "Sur quelle île s'est épanouie la civilisation minoenne, marquée par le palais de Cnossos ?",
       "choix": [
-        "Une épidémie de peste noire",
-        "Un réchauffement climatique soudain",
-        "Une invasion de l'Empire romain",
-        "Une gigantesque éruption volcanique sur l'île de Théra"
+        "La Sicile",
+        "Chypre",
+        "Sardaigne",
+        "La Crète"
       ],
       "reponse": 3,
-      "explication": "Une éruption volcanique sur l'île voisine de Théra (Santorin) a déclenché des tsunamis et des pluies de cendre destructeurs pour l'économie minoenne.",
+      "explication": "La civilisation minoenne s'est développée sur l'île de Crète autour du somptueux palais de Cnossos.",
       "lien": ""
     }
   ]
