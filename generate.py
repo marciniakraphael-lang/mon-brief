@@ -16,6 +16,8 @@ NL = chr(10)
 FENCE = chr(96) * 3
 
 MODEL = "gemini-flash-latest"
+MODEL_FAST = "gemini-flash-lite-latest"
+TIMEOUT = 150
 PARIS = ZoneInfo("Europe/Paris")
 DATA_DIR = "data"
 LATEST = os.path.join(DATA_DIR, "latest.json")
@@ -181,10 +183,10 @@ def collect_items():
     return out
 
 
-def gemini(prompt):
+def call_gemini(model, prompt):
     url = (
         "https://generativelanguage.googleapis.com"
-        "/v1beta/models/" + MODEL + ":generateContent"
+        "/v1beta/models/" + model + ":generateContent"
     )
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
@@ -197,43 +199,47 @@ def gemini(prompt):
         "Content-Type": "application/json",
         "x-goog-api-key": os.environ["GEMINI_API_KEY"],
     }
+    req = urllib.request.Request(
+        url,
+        data=json.dumps(body).encode("utf-8"),
+        headers=headers,
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+        data = json.loads(r.read().decode("utf-8"))
+    parts = data["candidates"][0]["content"]["parts"]
+    text = "".join(
+        p.get("text", "")
+        for p in parts
+        if not p.get("thought")
+    )
+    pat = "^" + FENCE + r"(?:json)?\s*"
+    pat += "|" + r"\s*" + FENCE + "$"
+    text = re.sub(pat, "", text.strip())
+    return json.loads(text)
+
+
+def gemini(prompt):
+    plan = [MODEL, MODEL, MODEL_FAST, MODEL_FAST]
     last_error = None
-    for attempt in range(3):
+    for i, model in enumerate(plan):
         try:
-            req = urllib.request.Request(
-                url,
-                data=json.dumps(body).encode("utf-8"),
-                headers=headers,
-                method="POST",
-            )
-            with urllib.request.urlopen(req, timeout=120) as r:
-                data = json.loads(r.read().decode("utf-8"))
-            parts = data["candidates"][0]["content"]["parts"]
-            text = "".join(
-                p.get("text", "")
-                for p in parts
-                if not p.get("thought")
-            )
-            pat = "^" + FENCE + r"(?:json)?\s*"
-            pat += "|" + r"\s*" + FENCE + "$"
-            text = re.sub(pat, "", text.strip())
-            return json.loads(text)
+            print("Gemini : " + model)
+            return call_gemini(model, prompt)
         except urllib.error.HTTPError as e:
-            detail = e.read().decode("utf-8", "ignore")[:500]
+            detail = e.read().decode("utf-8", "ignore")[:300]
             print("[!] Erreur Gemini " + str(e.code))
             print(detail)
             last_error = e
-            if e.code in (429, 500, 503) and attempt < 2:
-                time.sleep(25 * (attempt + 1))
-                continue
-            raise
-        except (json.JSONDecodeError, KeyError, IndexError) as e:
-            print("[!] Réponse Gemini illisible : " + str(e))
+            time.sleep(15 * (i + 1))
+        except (TimeoutError, OSError) as e:
+            print("[!] Délai dépassé : " + str(e))
             last_error = e
-            if attempt < 2:
-                time.sleep(5)
-                continue
-            raise
+            time.sleep(5)
+        except (json.JSONDecodeError, KeyError, IndexError) as e:
+            print("[!] Réponse illisible : " + str(e))
+            last_error = e
+            time.sleep(5)
     raise last_error
 
 
@@ -431,150 +437,4 @@ def make_quiz(items, culture):
         return out
     for q in res.get("questions", []):
         try:
-            choix = [clean_text(str(c)) for c in q["choix"]]
-            rep = int(q["reponse"])
-            if len(choix) != 4 or not 0 <= rep <= 3:
-                continue
-            bonne = choix[rep]
-            random.shuffle(choix)
-            lien = ""
-            ida = q.get("id_article")
-            if isinstance(ida, str) and ida.isdigit():
-                ida = int(ida)
-            is_actu = q.get("type") == "actu"
-            if is_actu and isinstance(ida, int):
-                if 0 <= ida < len(items):
-                    lien = items[ida]["lien"]
-            question = clean_text(q["question"])
-            raw = question.lower().encode("utf-8")
-            qid = hashlib.md5(raw).hexdigest()[:10]
-            out.append({
-                "id": qid,
-                "date": TODAY,
-                "type": "actu" if is_actu else "culture",
-                "question": question,
-                "choix": choix,
-                "reponse": choix.index(bonne),
-                "explication": clean_text(
-                    q.get("explication", "")
-                ),
-                "lien": lien,
-            })
-        except Exception:
-            continue
-    return out
-
-
-def main():
-    items = collect_items()
-    if not items:
-        raise SystemExit("Aucune actualité récupérée.")
-
-    history = load_json(HISTORY, {})
-    history.setdefault("days", {})
-    history.setdefault("culture_seen", [])
-    latest = load_json(LATEST, {})
-    bank = load_json(BANK, {})
-    bank.setdefault("questions", [])
-
-    mode = MODE
-    if mode == "update" and latest.get("date") != TODAY:
-        mode = "morning"
-    print("Mode : " + mode + " | " + NOW.isoformat())
-
-    new = []
-    if mode == "morning":
-        prev = history["days"].get(YESTERDAY, {})
-        try:
-            start = datetime.fromisoformat(prev["morning_run"])
-        except Exception:
-            start = MIDNIGHT - timedelta(hours=18)
-        deja = prev.get("morning_items", [])
-        depuis_src = [
-            it for it in items
-            if start <= it["date"] < MIDNIGHT
-        ][:8]
-        auj_src = [
-            it for it in items if it["date"] >= MIDNIGHT
-        ][:8]
-        summarized = summarize(depuis_src + auj_src)
-        depuis = summarized[:len(depuis_src)]
-        auj = summarized[len(depuis_src):]
-        culture = make_culture(history["culture_seen"])
-        history["culture_seen"] += [c["titre"] for c in culture]
-        history["culture_seen"] = history["culture_seen"][-200:]
-        quiz = []
-    else:
-        same_day = latest.get("date") == TODAY
-        old = latest.get("aujourdhui", []) if same_day else []
-        deja = latest.get("deja_presente", []) if same_day else []
-        depuis = latest.get("depuis_hier", []) if same_day else []
-        culture = latest.get("culture", []) if same_day else []
-        quiz = latest.get("quiz_jour", []) if same_day else []
-        have = {norm(a["titre"]) for a in old + depuis + deja}
-        today_src = [it for it in items if it["date"] >= MIDNIGHT]
-        fresh = [
-            it for it in today_src
-            if norm(it["titre"]) not in have
-        ][:8]
-        new = summarize(fresh)
-        auj = (new + old)[:30]
-        if mode == "evening":
-            quiz = make_quiz(auj[:10], culture)
-            known = {q["id"] for q in bank["questions"]}
-            for q in quiz:
-                if q["id"] not in known:
-                    bank["questions"].append(q)
-            bank["questions"] = bank["questions"][-600:]
-
-    history["days"][TODAY] = {
-        "morning_run": NOW.isoformat(),
-        "morning_items": auj,
-    }
-
-    state = {
-        "date": TODAY,
-        "mode": mode,
-        "updated": NOW.isoformat(),
-        "deja_presente": deja,
-        "depuis_hier": depuis,
-        "aujourdhui": auj,
-        "culture": culture,
-        "quiz_jour": quiz,
-    }
-
-    keep = sorted(history["days"].keys())[-40:]
-    history["days"] = {k: history["days"][k] for k in keep}
-
-    save_json(LATEST, state)
-    save_json(HISTORY, history)
-    save_json(BANK, bank)
-    print(
-        "OK : " + str(len(depuis)) + " depuis hier, "
-        + str(len(auj)) + " aujourd'hui, "
-        + str(len(culture)) + " culture, "
-        + str(len(quiz)) + " questions."
-    )
-
-    if mode == "morning":
-        has_tuto = any(c.get("type") == "tuto" for c in culture)
-        msg = (
-            str(len(auj) + len(depuis)) + " actus et "
-            + str(len(culture)) + " fiches"
-        )
-        msg += " dont un tuto." if has_tuto else "."
-        notify("Ton brief du matin est prêt", msg)
-    elif mode == "evening":
-        n = len([q for q in quiz if q.get("type") == "actu"])
-        notify(
-            "Ton quiz du jour est prêt",
-            str(n) + " questions sur les infos du jour.",
-        )
-    else:
-        imp = [a for a in new if a.get("important")]
-        for a in imp[:2]:
-            notify("À la une", a["titre"])
-
-
-if __name__ == "__main__":
-    main()
+            choix = [clean_text(str(c)) for
