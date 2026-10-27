@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
-  "mode": "morning",
-  "updated": "2026-10-27T09:19:27.586615+01:00",
+  "mode": "evening",
+  "updated": "2026-10-27T09:33:19.629461+01:00",
   "deja_presente": [
     {
       "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
@@ -136,68 +136,84 @@
   ],
   "aujourdhui": [
     {
+      "titre": "Mobilisation des lycéens : \"Le travail doit reprendre lundi\", enjoint le ministre de l'Enseignement supérieur",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T09:27:12+01:00",
+      "resume": "Le ministre de l'Enseignement supérieur a enjoint à la reprise du travail dès lundi face à la mobilisation des lycéens. Il a également souligné que les discussions avec les organisations syndicales, étudiantes et lycéennes devaient se poursuivre.",
+      "contexte": "Les mouvements sociaux dans les lycées et universités surviennent généralement pour contester des réformes ou des conditions d'études, poussant le gouvernement à engager le dialogue pour éviter l'embrasement. Ces crises font peser un enjeu de stabilité politique pour l'exécutif, qui cherche à désamorcer la contestation tout en maintenant ses projets."
+    },
+    {
+      "titre": "\"C'est le moment le plus important de ces 50 dernières années pour le pays\" : les jeunes électeurs, la clé des élections législatives en Israël ?",
+      "lien": "https://www.franceinfo.fr/monde/israel/c-est-le-moment-le-plus-important-pour-le-pays-de-ces-50-dernieres-annees-les-jeunes-electeurs-traumatises-par-le-7-octobre-vont-ils-etre-la-cle-des-elections-legislatives-en-israel_8254774.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-27T09:25:06+01:00",
+      "resume": "Les Israéliens ont commencé à voter mardi pour les élections législatives. Près de 10 % des sept millions d'électeurs appelés aux urnes sont des primo-votants, ce qui constitue un record.",
+      "contexte": "La participation des jeunes générations est souvent un facteur décisif dans les scrutins tendus car elle peut faire basculer les équilibres politiques traditionnels. En Israël, le poids électoral des nouveaux électeurs intervient dans un climat de polarisation intense où chaque voix compte pour déterminer l'avenir du pays."
+    },
+    {
+      "titre": "\"Parcoursup a été un progrès énorme\" : sous le feu des critiques, Jean-Michel Blanquer défend son bilan",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-a-ete-un-progres-enorme-sous-le-feu-des-critiques-l-ancien-ministre-de-l-education-nationale-jean-michel-blanquer-defend-son-bilan_8255266.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T09:19:26+01:00",
+      "resume": "L'ancien ministre de l'Éducation nationale, Jean-Michel Blanquer, a défendu mardi sur franceinfo la plateforme d'admission dans l'enseignement supérieur qu'il a fondée. Il a affirmé que Parcoursup a constitué un progrès énorme, malgré les critiques persistantes.",
+      "contexte": "La mise en place de Parcoursup a profondément transformé l'accès à l'enseignement supérieur en France, remplaçant l'ancien système d'affectation et suscitant régulièrement des débats sur la sélection et l'anxiété des lycéens. Les anciens ministres continuent souvent de défendre leurs réformes phares pour préserver leur bilan politique face aux critiques publiques."
+    },
+    {
+      "titre": "En direct : ouverture des bureaux de vote en Israël, Netanyahu à l'épreuve des urnes",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261027-direct-ouverture-bureaux-vote-isra%C3%ABl-netanyahu-%C3%A9preuve-urnes",
+      "source": "France 24",
+      "date": "2026-10-27T09:18:27+01:00",
+      "resume": "Les électeurs israéliens ont commencé à voter mardi lors d'élections législatives. Ce scrutin doit décider du sort du Premier ministre Benjamin Netanyahu et permettre d'examiner son bilan depuis l'attaque meurtrière du Hamas du 7 octobre 2023.",
+      "contexte": "Ces élections se tiennent dans un contexte de crise sécuritaire et politique majeure pour Israël, profondément marqué par les répercussions de l'attaque du 7 octobre. L'enjeu est la survie politique de Benjamin Netanyahu, jugé sur sa gestion de la sécurité nationale et la réponse apportée aux attaques."
+    },
+    {
       "titre": "DIRECT. Elections législatives en Israël : les bureaux de vote sont ouverts, le Premier ministre Benyamin Nétanyahou joue sa survie politique",
       "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
-      "date": "2026-10-27T09:15:53+01:00",
-      "resume": "Un peu plus de sept millions d'Israéliens sont appelés à voter mardi pour des élections législatives aux allures de référendum pour ou contre le Premier ministre Benyamin Netanyahou. Ce dernier se trouve en mauvaise posture depuis les attentats du 7 octobre 2023.",
-      "contexte": "Ce scrutin constitue un test crucial pour l'avenir politique du dirigeant israélien, jugé sur sa capacité à assurer la sécurité du pays. Les résultats détermineront l'orientation de la politique nationale et les équilibres géopolitiques au Proche-Orient."
+      "date": "2026-10-27T09:15:55+01:00",
+      "resume": "Un peu plus de sept millions d'Israéliens sont appelés à voter mardi lors d'élections législatives. Ce scrutin prend des allures de référendum pour ou contre l'actuel chef du gouvernement, Benyamin Nétanyahou, en mauvaise posture depuis les attentats du 7 octobre 2023.",
+      "contexte": "La pérennité du pouvoir de Benjamin Netanyahu est fragilisée par les critiques concernant les défaillances sécuritaires liées aux attaques de 2023. Le scrutin sert de test démocratique crucial pour mesurer le soutien populaire dont bénéficie encore le Premier ministre en exercice."
     },
     {
       "titre": "\"Nous savions tous qu'un jour, les mots de la haine tueraient\" : Omar Sy, Jul, Theodora, Gilles Lellouche... des personnalités dénoncent le racisme après l'attentat de Trappes",
       "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/nous-savions-tous-qu-un-jour-les-mots-de-la-haine-tueraient-omar-sy-jul-theodora-gilles-lellouche-des-personnalites-denoncent-le-racisme-apres-l-attentat-de-trappes_8255149.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T09:12:43+01:00",
-      "resume": "Des personnalités comme Omar Sy, Jul, Theodora et Gilles Lellouche ont dénoncé le racisme après l'attentat de Trappes. Les signataires font un lien entre cet attentat et le traitement médiatique d'une manifestation du 17 octobre marquée par des dégradations, et demandent une minute de silence à l'Assemblée nationale pour la victime Pengo Bossio Wangi.",
-      "contexte": "Ce type de prise de position publique illustre les tensions sociales et les débats récurrents en France autour du traitement médiatique des faits divers et des manifestations. Les appels à l'hommage institutionnel visent à marquer la solidarité nationale face aux actes de violence."
+      "resume": "Des personnalités comme Omar Sy, Jul, Theodora et Gilles Lellouche ont dénoncé le racisme après l'attentat de Trappes. Les signataires ont fait un lien entre cet attentat et le traitement médiatique d'une manifestation le 17 octobre, tout en demandant une minute de silence à l'Assemblée nationale pour Pengo Bossio Wangi, tué par l'assaillant.",
+      "contexte": "Les drames de cette nature suscitent de vives réactions publiques et amènent des personnalités à s'emparer du débat public pour interpeller les autorités sur les tensions sociétales et les discours haineux. La question du traitement médiatique des mouvements sociaux et des violences fait l'objet de vifs débats politiques en France."
     },
     {
       "titre": "Avec le couronnement à domicile d'Harry Kane, la folie du Ballon d'or a enflammé Londres",
       "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/reportage-avec-le-couronnement-a-domicile-d-harry-kane-la-folie-du-ballon-d-or-a-enflamme-londres_8254720.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T09:11:26+01:00",
-      "resume": "La cérémonie du Ballon d'or s'est déroulée à Londres lundi pour sa 70e édition, marquant la première délocalisation de son histoire hors de France. Cet événement a coïncidé avec le couronnement à domicile de l'Anglais Harry Kane.",
-      "contexte": "L'internationalisation et la rotation des lieux d'événements sportifs majeurs s'inscrivent dans une stratégie marketing globale visant à renforcer l'attractivité internationale de la marque. Cela permet également de mobiliser de nouveaux publics à travers le monde."
-    },
-    {
-      "titre": "\"On a effectivement un droit à manifester mais le droit au blocage n'existe pas\" : le ministre de l'Enseignement supérieur enjoint le retour au \"travail\" lundi",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T09:08:51+01:00",
-      "resume": "Le ministre de l'Enseignement supérieur a enjoint un retour au travail lundi, déclarant que le droit au blocage n'existe pas malgré le droit constitutionnel à manifester. Il a également appelé à la poursuite des discussions avec les organisations syndicales et représentatives des étudiants et lycéens.",
-      "contexte": "Ces déclarations interviennent dans un climat de contestation sociale où les blocages d'établissements sont fréquemment utilisés comme moyen de pression par les manifestants. Le gouvernement cherche traditionnellement à concilier le maintien de l'ordre public et de la continuité pédagogique avec le dialogue social."
+      "resume": "La cérémonie du Ballon d'or a été délocalisée à Londres pour la première fois de son histoire, lundi, à l'occasion de sa 70e édition. Cet événement a été marqué par le couronnement à domicile du joueur Harry Kane.",
+      "contexte": "La délocalisation de grands événements sportifs internationaux répond généralement à des stratégies de diversification géographique et de conquête de nouveaux publics par les instances organisatrices. Cela permet de renforcer l'attractivité de la marque et de célébrer les figures sportives locales au sein de leur propre pays."
     },
     {
       "titre": "Élections de mi-mandat aux États-Unis : le gazole, carburant de la colère",
       "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/elections-de-mi-mandat-aux-etats-unis-le-gazole-carburant-de-la-colere_8255296.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
       "date": "2026-10-27T09:03:02+01:00",
-      "resume": "À l'approche des élections de mi-mandat aux États-Unis, le scrutin s'annonce délicat pour Donald Trump. Dans l'État du Maine, les pêcheurs de homards, qui avaient majoritairement voté pour les républicains, expriment désormais leurs doutes en raison du coût du gazole.",
-      "contexte": "Le prix des carburants et l'inflation sont des préoccupations économiques majeures qui influencent directement le vote des électeurs américains lors des scrutins intermédiaires. La fluctuation de ces coûts peut rapidement faire basculer le soutien électoral dans certains secteurs clés."
+      "resume": "Les élections de mi-mandat s'annoncent délicates pour Donald Trump à quelques jours du scrutin. Dans le Maine, les pêcheurs de homards expriment leurs doutes alors qu'ils avaient principalement voté pour les républicains par le passé, le gazole s'imposant comme le carburant de la colère.",
+      "contexte": "Les fluctuations des prix des carburants et de l'énergie touchent directement le pouvoir d'achat des travailleurs et des petites entreprises, ce qui pèse lourdement sur les choix électoraux lors des scrutins intermédiaires aux États-Unis. Ce mécontentement économique peut modifier les équilibres politiques locaux au détriment du parti au pouvoir ou de la tendance politique en place."
     },
     {
       "titre": "Mobilisation lycéenne : \"Il faut arrêter de se moquer\" de la jeunesse, \"il n'y a rien dans les annonces du gouvernement\", réagit Clémence Guetté (LFI)",
       "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-il-faut-arreter-de-se-moquer-de-la-jeunesse-il-n-y-a-rien-dans-les-annonces-du-gouvernement-reagit-clemence-guette-lfi_8255329.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T09:00:40+01:00",
-      "resume": "La députée La France insouboumise Clémence Guetté a réagi à la mobilisation lycéenne en affirmant qu'il ne fallait pas se moquer de la jeunesse. Elle a estimé que les annonces du gouvernement ne sont pas à la hauteur des enjeux exprimés par les jeunes.",
-      "contexte": "Les mouvements lycéens expriment régulièrement des revendications liées aux conditions d'études, aux réformes des examens ou au pouvoir d'achat. L'opposition politique s'empare souvent de ces mobilisations pour critiquer la gestion et la réactivité de l'exécutif face aux préoccupations de la jeunesse."
+      "resume": "La députée La France insoubousie du Val-de-Marne, Clémence Guetté, a réagi à la mobilisation lycéenne en affirmant qu'il faut arrêter de se moquer de la jeunesse. Selon elle, il n'y a rien dans les annonces du gouvernement qui soit à la hauteur des enjeux face à la colère lycéenne.",
+      "contexte": "L'opposition utilise traditionnellement les mouvements sociaux de la jeunesse pour critiquer l'action gouvernementale et exiger des mesures sociales ou budgétaires plus fortes. Les réponses de l'exécutif sont souvent jugées insuffisantes par les oppositions et les syndicats, ce qui entretient la contestation."
     },
     {
       "titre": "Israël : l'État de droit au cœur de la campagne",
       "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/israel-l-etat-de-droit-au-c-ur-de-la-campagne_8255284.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T08:47:27+01:00",
-      "resume": "Les Israéliens sont appelés aux urnes mardi 27 octobre dans un pays profondément divisé. Le principal adversaire de Benyamin Netanyahou place l'État de droit au cœur de la campagne et exige des comptes concernant les défaillances sécuritaires.",
-      "contexte": "Les questions relatives aux institutions démocratiques et à la sécurité nationale polarisent fortement le débat public en Israël. Les oppositions tentent de capitaliser sur les failles perçues de l'exécutif pour provoquer une alternance politique."
-    },
-    {
-      "titre": "Aux États-Unis, les spots de campagne générés par IA en vue des élections des midterms se multiplient",
-      "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/aux-etats-unis-les-spots-de-campagne-generes-par-ia-en-vue-des-elections-des-midterms-se-multiplient_8234683.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-27T08:46:23+01:00",
-      "resume": "La campagne des élections de mi-mandat aux États-Unis voit la multiplication de faux spots télévisés générés par intelligence artificielle. Ces outils sont notamment utilisés pour cibler et attaquer certaines personnalités politiques.",
-      "contexte": "L'essor de l'intelligence artificielle générative pose des défis inédits en matière de désinformation et de régulation des campagnes électorales. La prolifération de contenus trompeurs complique le travail de vérification des faits pour les électeurs et menace la crédibilité du débat démocratique."
+      "resume": "Les Israéliens choisissent leurs députés mardi 27 octobre dans un pays profondément divisé. Face à Benyamin Netanyahou, le principal adversaire dénonce les atteintes à l'État de droit et réclame des comptes sur les défaillances sécuritaires.",
+      "contexte": "Les tensions autour de l'État de droit et des réformes judiciaires ont fracturé la société israélienne ces dernières années, s'ajoutant aux crises sécuritaires. Les élections constituent l'arbitrage démocratique par lequel les citoyens se prononcent sur ces orientations institutionnelles et la responsabilité de leurs dirigeants."
     }
   ],
   "culture": [
@@ -220,5 +236,111 @@
       "a_retenir": "Les anneaux olympiques unissent les continents grâce à des couleurs choisies pour refléter tous les drapeaux du monde."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "ae199cfd28",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel événement électoral a débuté mardi en Israël pour près de sept millions d'électeurs ?",
+      "choix": [
+        "Un référendum constitutionnel",
+        "Des élections municipales",
+        "Des élections législatives",
+        "Des élections présidentielles"
+      ],
+      "reponse": 2,
+      "explication": "Les Israéliens ont commencé à voter mardi pour des élections législatives, un scrutin crucial pour le Premier ministre Benjamin Netanyahu.",
+      "lien": "https://www.franceinfo.fr/monde/israel/c-est-le-moment-le-plus-important-pour-le-pays-de-ces-50-dernieres-annees-les-jeunes-electeurs-traumatises-par-le-7-octobre-vont-ils-etre-la-cle-des-elections-legislatives-en-israel_8254774.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "c419f53fce",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel ancien ministre a défendu la plateforme Parcoursup en affirmant qu'elle constituait un 'progrès énorme' ?",
+      "choix": [
+        "Gabriel Attal",
+        "Bruno Le Maire",
+        "Jean-Michel Blanquer",
+        "Pap Ndiaye"
+      ],
+      "reponse": 2,
+      "explication": "Jean-Michel Blanquer, l'ancien ministre de l'Éducation nationale qui a fondé la plateforme, a défendu son bilan sur franceinfo.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-a-ete-un-progres-enorme-sous-le-feu-des-critiques-l-ancien-ministre-de-l-education-nationale-jean-michel-blanquer-defend-son-bilan_8255266.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e0dc3e1d1c",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Dans quelle ville la cérémonie du Ballon d'or a-t-elle été délimitée et délocalisée pour la première fois ?",
+      "choix": [
+        "Rome",
+        "Paris",
+        "Londres",
+        "Madrid"
+      ],
+      "reponse": 2,
+      "explication": "La cérémonie a été délocalisée à Londres pour la première fois à l'occasion de sa 70e édition, marquée par le sacre d'Harry Kane.",
+      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/reportage-avec-le-couronnement-a-domicile-d-harry-kane-la-folie-du-ballon-d-or-a-enflamme-londres_8254720.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "a1d73de09c",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel carburant est qualifié de 'carburant de la colère' dans le contexte des élections de mi-mandat aux États-Unis ?",
+      "choix": [
+        "Le gazole",
+        "L'essence sans plomb",
+        "Le kérosène",
+        "L'éthanol"
+      ],
+      "reponse": 0,
+      "explication": "Dans le Maine, les pêcheurs expriment leurs doutes et le gazole s'impose comme le carburant de la colère à l'approche du scrutin.",
+      "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/elections-de-mi-mandat-aux-etats-unis-le-gazole-carburant-de-la-colere_8255296.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "ccbdc6e81e",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel membre du gouvernement a enjoint la reprise du travail face à la mobilisation des lycéens ?",
+      "choix": [
+        "Le ministre de l'Intérieur",
+        "Le ministre de l'Enseignement supérieur",
+        "Le porte-parole du gouvernement",
+        "Le ministre de l'Économie"
+      ],
+      "reponse": 1,
+      "explication": "C'est le ministre de l'Enseignement supérieur qui a demandé la reprise du travail dès lundi tout en promettant de poursuivre les discussions.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "510fb01683",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Quel peuple a été artificiellement coupé en deux par la ligne Durand tracée à la fin du XIXe siècle ?",
+      "choix": [
+        "Le peuple pachtoun",
+        "Le peuple baloutche",
+        "Le peuple kurde",
+        "Le peuple hazara"
+      ],
+      "reponse": 0,
+      "explication": "La ligne Durand, tracée par les Britanniques, a coupé en deux le peuple pachtoun à la frontière afghane.",
+      "lien": ""
+    },
+    {
+      "id": "ee09f1114e",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "À quoi servait initialement la rose des vents développée par les marins au Moyen Âge en Méditerranée ?",
+      "choix": [
+        "À mesurer la profondeur de l'eau",
+        "À cartographier précisément les vents dominants",
+        "À estimer la vitesse des navires à voile",
+        "À calculer la position des étoiles la nuit"
+      ],
+      "reponse": 1,
+      "explication": "Les marins ont ressenti le besoin de cartographier les vents dominants pour naviguer en toute sécurité, créant ainsi la rose des vents.",
+      "lien": ""
+    }
+  ]
 }

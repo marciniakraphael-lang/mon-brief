@@ -194,6 +194,111 @@
       "reponse": 1,
       "explication": "L'équipe de Grace Hopper a retrouvé un véritable papillon de nuit (moth) bloqué dans un relais, immortalisant le terme de bug informatique.",
       "lien": ""
+    },
+    {
+      "id": "ae199cfd28",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel événement électoral a débuté mardi en Israël pour près de sept millions d'électeurs ?",
+      "choix": [
+        "Un référendum constitutionnel",
+        "Des élections municipales",
+        "Des élections législatives",
+        "Des élections présidentielles"
+      ],
+      "reponse": 2,
+      "explication": "Les Israéliens ont commencé à voter mardi pour des élections législatives, un scrutin crucial pour le Premier ministre Benjamin Netanyahu.",
+      "lien": "https://www.franceinfo.fr/monde/israel/c-est-le-moment-le-plus-important-pour-le-pays-de-ces-50-dernieres-annees-les-jeunes-electeurs-traumatises-par-le-7-octobre-vont-ils-etre-la-cle-des-elections-legislatives-en-israel_8254774.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "c419f53fce",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel ancien ministre a défendu la plateforme Parcoursup en affirmant qu'elle constituait un 'progrès énorme' ?",
+      "choix": [
+        "Gabriel Attal",
+        "Bruno Le Maire",
+        "Jean-Michel Blanquer",
+        "Pap Ndiaye"
+      ],
+      "reponse": 2,
+      "explication": "Jean-Michel Blanquer, l'ancien ministre de l'Éducation nationale qui a fondé la plateforme, a défendu son bilan sur franceinfo.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-a-ete-un-progres-enorme-sous-le-feu-des-critiques-l-ancien-ministre-de-l-education-nationale-jean-michel-blanquer-defend-son-bilan_8255266.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e0dc3e1d1c",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Dans quelle ville la cérémonie du Ballon d'or a-t-elle été délimitée et délocalisée pour la première fois ?",
+      "choix": [
+        "Rome",
+        "Paris",
+        "Londres",
+        "Madrid"
+      ],
+      "reponse": 2,
+      "explication": "La cérémonie a été délocalisée à Londres pour la première fois à l'occasion de sa 70e édition, marquée par le sacre d'Harry Kane.",
+      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/reportage-avec-le-couronnement-a-domicile-d-harry-kane-la-folie-du-ballon-d-or-a-enflamme-londres_8254720.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "a1d73de09c",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel carburant est qualifié de 'carburant de la colère' dans le contexte des élections de mi-mandat aux États-Unis ?",
+      "choix": [
+        "Le gazole",
+        "L'essence sans plomb",
+        "Le kérosène",
+        "L'éthanol"
+      ],
+      "reponse": 0,
+      "explication": "Dans le Maine, les pêcheurs expriment leurs doutes et le gazole s'impose comme le carburant de la colère à l'approche du scrutin.",
+      "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/elections-de-mi-mandat-aux-etats-unis-le-gazole-carburant-de-la-colere_8255296.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "ccbdc6e81e",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel membre du gouvernement a enjoint la reprise du travail face à la mobilisation des lycéens ?",
+      "choix": [
+        "Le ministre de l'Intérieur",
+        "Le ministre de l'Enseignement supérieur",
+        "Le porte-parole du gouvernement",
+        "Le ministre de l'Économie"
+      ],
+      "reponse": 1,
+      "explication": "C'est le ministre de l'Enseignement supérieur qui a demandé la reprise du travail dès lundi tout en promettant de poursuivre les discussions.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "510fb01683",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Quel peuple a été artificiellement coupé en deux par la ligne Durand tracée à la fin du XIXe siècle ?",
+      "choix": [
+        "Le peuple pachtoun",
+        "Le peuple baloutche",
+        "Le peuple kurde",
+        "Le peuple hazara"
+      ],
+      "reponse": 0,
+      "explication": "La ligne Durand, tracée par les Britanniques, a coupé en deux le peuple pachtoun à la frontière afghane.",
+      "lien": ""
+    },
+    {
+      "id": "ee09f1114e",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "À quoi servait initialement la rose des vents développée par les marins au Moyen Âge en Méditerranée ?",
+      "choix": [
+        "À mesurer la profondeur de l'eau",
+        "À cartographier précisément les vents dominants",
+        "À estimer la vitesse des navires à voile",
+        "À calculer la position des étoiles la nuit"
+      ],
+      "reponse": 1,
+      "explication": "Les marins ont ressenti le besoin de cartographier les vents dominants pour naviguer en toute sécurité, créant ainsi la rose des vents.",
+      "lien": ""
     }
   ]
 }
