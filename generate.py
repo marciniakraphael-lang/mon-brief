@@ -45,10 +45,10 @@ THEMES = [
     "sport",
     "santé et corps humain",
     "mythologie grecque",
-    "vie courante (argent, droit, logement, cuisine)",
+    "vie courante (argent, droit, logement)",
     "histoire",
     "géographie et pays du monde",
-    "origine des grands événements ou conflits actuels",
+    "origine des conflits actuels",
     "nature et animaux",
     "technologie",
     "arts et littérature",
@@ -56,20 +56,20 @@ THEMES = [
 ]
 
 TUTOS = [
-    "appliquer de l'enduit sur un trou ou une fissure",
+    "appliquer de l'enduit sur un trou",
     "reboucher un trou de cheville",
     "changer un joint de robinet",
     "déboucher un évier sans produit agressif",
-    "détartrer une bouilloire ou une machine à café",
+    "détartrer une bouilloire",
     "changer une roue de voiture",
     "lire sa fiche de paie",
     "faire un budget mensuel simple",
-    "rédiger une bonne lettre de résiliation",
+    "rédiger une lettre de résiliation",
     "faire un nœud de cravate",
-    "poser une étagère avec des chevilles adaptées",
-    "entretenir et affûter un couteau de cuisine",
-    "enlever une tache courante sur un vêtement",
-    "faire cuire parfaitement du riz ou des pâtes",
+    "poser une étagère avec des chevilles",
+    "affûter un couteau de cuisine",
+    "enlever une tache sur un vêtement",
+    "faire cuire parfaitement du riz",
     "organiser son CV sur une page",
     "peindre un mur proprement",
     "nettoyer le filtre d'une machine à laver",
@@ -81,8 +81,11 @@ MODE = os.environ.get("MODE", "").strip()
 if MODE not in ("morning", "evening", "update"):
     MODE = "morning" if NOW.hour < 12 else "evening"
 TODAY = NOW.strftime("%Y-%m-%d")
-YESTERDAY = (NOW - timedelta(days=1)).strftime("%Y-%m-%d")
-MIDNIGHT = NOW.replace(hour=0, minute=0, second=0, microsecond=0)
+YEST = NOW - timedelta(days=1)
+YESTERDAY = YEST.strftime("%Y-%m-%d")
+MIDNIGHT = NOW.replace(
+    hour=0, minute=0, second=0, microsecond=0
+)
 
 
 def load_json(path, default):
@@ -94,7 +97,8 @@ def load_json(path, default):
 
 
 def save_json(path, data):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
+    folder = os.path.dirname(path)
+    os.makedirs(folder, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -106,7 +110,8 @@ def clean_text(s):
 
 
 def norm(t):
-    return re.sub(r"\W+", "", (t or "").lower())[:60]
+    t = (t or "").lower()
+    return re.sub(r"\W+", "", t)[:60]
 
 
 def notify(title, message):
@@ -188,31 +193,33 @@ def call_gemini(model, prompt):
         "https://generativelanguage.googleapis.com"
         "/v1beta/models/" + model + ":generateContent"
     )
+    config = {
+        "responseMimeType": "application/json",
+        "temperature": 0.7,
+        "thinkingConfig": {"thinkingBudget": 0},
+    }
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "responseMimeType": "application/json",
-            "temperature": 0.7,
-        },
+        "generationConfig": config,
     }
     headers = {
         "Content-Type": "application/json",
         "x-goog-api-key": os.environ["GEMINI_API_KEY"],
     }
+    raw = json.dumps(body).encode("utf-8")
     req = urllib.request.Request(
         url,
-        data=json.dumps(body).encode("utf-8"),
+        data=raw,
         headers=headers,
         method="POST",
     )
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
         data = json.loads(r.read().decode("utf-8"))
     parts = data["candidates"][0]["content"]["parts"]
-    text = "".join(
-        p.get("text", "")
-        for p in parts
-        if not p.get("thought")
-    )
+    text = ""
+    for p in parts:
+        if not p.get("thought"):
+            text += p.get("text", "")
     pat = "^" + FENCE + r"(?:json)?\s*"
     pat += "|" + r"\s*" + FENCE + "$"
     text = re.sub(pat, "", text.strip())
@@ -227,17 +234,21 @@ def gemini(prompt):
             print("Gemini : " + model)
             return call_gemini(model, prompt)
         except urllib.error.HTTPError as e:
-            detail = e.read().decode("utf-8", "ignore")[:300]
+            detail = e.read().decode("utf-8", "ignore")
             print("[!] Erreur Gemini " + str(e.code))
-            print(detail)
+            print(detail[:300])
             last_error = e
             time.sleep(15 * (i + 1))
         except (TimeoutError, OSError) as e:
             print("[!] Délai dépassé : " + str(e))
             last_error = e
             time.sleep(5)
-        except (json.JSONDecodeError, KeyError, IndexError) as e:
+        except (json.JSONDecodeError, KeyError) as e:
             print("[!] Réponse illisible : " + str(e))
+            last_error = e
+            time.sleep(5)
+        except IndexError as e:
+            print("[!] Réponse vide : " + str(e))
             last_error = e
             time.sleep(5)
     raise last_error
@@ -261,20 +272,20 @@ def summarize(items):
     )
     prompt = NL.join([
         "Tu rédiges un brief d'actualité en français",
-        "pour quelqu'un qui veut améliorer sa culture générale.",
+        "pour quelqu'un qui veut améliorer sa culture.",
         "Pour chaque article ci-dessous :",
-        "- resume : résumé factuel et neutre de 2 à 3 phrases,",
-        "en langage simple. N'invente aucun fait :",
-        "appuie-toi uniquement sur le titre et l'extrait.",
-        "Pas d'opinion.",
-        "- contexte : 1 à 2 phrases qui expliquent pourquoi",
-        "c'est important (causes, enjeux, historique),",
-        "avec des connaissances générales solides.",
+        "- resume : résumé factuel et neutre de 2 à 3",
+        "phrases, en langage simple. N'invente aucun",
+        "fait : appuie-toi uniquement sur le titre et",
+        "l'extrait. Pas d'opinion.",
+        "- contexte : 1 à 2 phrases qui expliquent",
+        "pourquoi c'est important (causes, enjeux,",
+        "historique), avec des connaissances solides.",
         "Si tu n'es pas sûr, laisse vide.",
-        "- important : true uniquement pour une très grande",
-        "nouvelle (catastrophe majeure, attentat, événement",
-        "politique ou international de premier plan).",
-        "Dans la grande majorité des cas, false.",
+        "- important : true uniquement pour une très",
+        "grande nouvelle (catastrophe majeure, attentat,",
+        "événement politique ou international de premier",
+        "plan). Dans la grande majorité des cas, false.",
         fmt,
         "",
         "Articles :",
@@ -285,7 +296,8 @@ def summarize(items):
     if isinstance(res, dict):
         for r in res.get("resumes", []):
             try:
-                resumes[int(r["id"])] = (
+                key = int(r["id"])
+                resumes[key] = (
                     clean_text(r["resume"]),
                     clean_text(r.get("contexte", "")),
                     r.get("important") is True,
@@ -309,9 +321,19 @@ def summarize(items):
     return out
 
 
+def clean_list(values, limit):
+    out = []
+    for v in values:
+        v = clean_text(str(v))
+        if v:
+            out.append(v)
+    return out[:limit]
+
+
 def make_culture(seen):
     tuto = random.random() < CHANCE_TUTO
-    themes = random.sample(THEMES, 2 if tuto else 3)
+    nb = 2 if tuto else 3
+    themes = random.sample(THEMES, nb)
     lines = [
         "Tu écris des fiches en français, claires et",
         "agréables à lire, pour un adulte curieux.",
@@ -324,8 +346,8 @@ def make_culture(seen):
             "Ajoute en dernière position une fiche de type",
             "tuto : un mini-tuto pratique et utile pour la",
             "vie de tous les jours, sans danger (rien sur",
-            "l'électricité sous tension, le gaz ou la santé",
-            "grave). Sujets possibles : "
+            "l'électricité sous tension, le gaz ou la",
+            "santé grave). Sujets possibles : "
             + json.dumps(idees, ensure_ascii=False),
             "Choisis-en un, ou un autre du même esprit.",
             "Pour le tuto : theme = Tuto pratique,",
@@ -335,15 +357,16 @@ def make_culture(seen):
             "erreurs = 2 à 3 erreurs courantes à éviter,",
             "a_retenir = le conseil clé.",
         ]
+    vus = json.dumps(seen[-80:], ensure_ascii=False)
     lines += [
         "Fiches de culture générale (type culture) :",
-        "un titre court, un texte de 4 à 6 phrases simples",
-        "qui explique le sujet, et une phrase a_retenir.",
-        "Règles : faits solides et vérifiables uniquement",
-        "(en cas de doute, choisis un autre sujet) ;",
+        "un titre court, un texte de 4 à 6 phrases",
+        "simples qui explique le sujet, et une phrase",
+        "a_retenir.",
+        "Règles : faits solides et vérifiables",
+        "uniquement (en cas de doute, change de sujet) ;",
         "pas de chiffres précis dont tu n'es pas sûr ;",
-        "ne répète pas ces sujets déjà présentés : "
-        + json.dumps(seen[-80:], ensure_ascii=False),
+        "ne répète pas ces sujets déjà présentés : " + vus,
         'Réponds uniquement en JSON : {"culture": [',
         '{"type": "culture", "theme": "...",',
         '"titre": "...", "texte": "...",',
@@ -355,37 +378,31 @@ def make_culture(seen):
     ]
     res = gemini(NL.join(lines))
     out = []
-    if isinstance(res, dict):
-        for c in res.get("culture", [])[:3]:
-            try:
-                fiche = {
-                    "type": "culture",
-                    "theme": clean_text(c["theme"]),
-                    "titre": clean_text(c["titre"]),
-                    "texte": clean_text(c["texte"]),
-                    "a_retenir": clean_text(
-                        c.get("a_retenir", "")
-                    ),
-                }
-                etapes = []
-                for e in c.get("etapes", []):
-                    e = clean_text(str(e))
-                    if e:
-                        etapes.append(e)
-                etapes = etapes[:8]
-                if (tuto and c.get("type") == "tuto"
-                        and len(etapes) >= 3):
-                    erreurs = []
-                    for e in c.get("erreurs", []):
-                        e = clean_text(str(e))
-                        if e:
-                            erreurs.append(e)
-                    fiche["type"] = "tuto"
-                    fiche["etapes"] = etapes
-                    fiche["erreurs"] = erreurs[:4]
-                out.append(fiche)
-            except Exception:
-                pass
+    if not isinstance(res, dict):
+        return out
+    for c in res.get("culture", [])[:3]:
+        try:
+            fiche = {
+                "type": "culture",
+                "theme": clean_text(c["theme"]),
+                "titre": clean_text(c["titre"]),
+                "texte": clean_text(c["texte"]),
+                "a_retenir": clean_text(
+                    c.get("a_retenir", "")
+                ),
+            }
+            etapes = clean_list(c.get("etapes", []), 8)
+            is_tuto = tuto and c.get("type") == "tuto"
+            if is_tuto and len(etapes) >= 3:
+                erreurs = clean_list(
+                    c.get("erreurs", []), 4
+                )
+                fiche["type"] = "tuto"
+                fiche["etapes"] = etapes
+                fiche["erreurs"] = erreurs
+            out.append(fiche)
+        except Exception:
+            pass
     return out
 
 
@@ -401,7 +418,8 @@ def make_quiz(items, culture):
         })
     fiches = []
     for c in culture:
-        txt = c["texte"] + " " + " ".join(c.get("etapes", []))
+        steps = " ".join(c.get("etapes", []))
+        txt = c["texte"] + " " + steps
         fiches.append({"titre": c["titre"], "texte": txt})
     fmt = (
         'Réponds uniquement en JSON : {"questions": ['
@@ -416,11 +434,11 @@ def make_quiz(items, culture):
         "1) Jusqu'à 5 questions sur les articles du jour",
         "ci-dessous (type actu), avec l'id de l'article.",
         "2) Jusqu'à 2 questions sur les fiches de culture",
-        "générale ci-dessous (type culture).",
+        "ci-dessous (type culture).",
         "Règles : questions claires qui se comprennent",
-        "sans avoir lu l'article ; réponse vérifiable dans",
-        "le texte fourni ; mauvaises réponses plausibles ;",
-        "une explication courte pour chaque réponse.",
+        "sans avoir lu l'article ; réponse vérifiable",
+        "dans le texte fourni ; mauvaises réponses",
+        "plausibles ; une explication courte par réponse.",
         fmt,
         "reponse est l'index de 0 à 3 de la bonne réponse.",
         "id_article vaut null pour le type culture.",
@@ -437,4 +455,180 @@ def make_quiz(items, culture):
         return out
     for q in res.get("questions", []):
         try:
-            choix = [clean_text(str(c)) for
+            choix = []
+            for c in q["choix"]:
+                choix.append(clean_text(str(c)))
+            rep = int(q["reponse"])
+            if len(choix) != 4:
+                continue
+            if rep < 0 or rep > 3:
+                continue
+            bonne = choix[rep]
+            random.shuffle(choix)
+            lien = ""
+            ida = q.get("id_article")
+            if isinstance(ida, str) and ida.isdigit():
+                ida = int(ida)
+            is_actu = q.get("type") == "actu"
+            if is_actu and isinstance(ida, int):
+                if 0 <= ida < len(items):
+                    lien = items[ida]["lien"]
+            question = clean_text(q["question"])
+            raw = question.lower().encode("utf-8")
+            qid = hashlib.md5(raw).hexdigest()[:10]
+            expl = clean_text(q.get("explication", ""))
+            out.append({
+                "id": qid,
+                "date": TODAY,
+                "type": "actu" if is_actu else "culture",
+                "question": question,
+                "choix": choix,
+                "reponse": choix.index(bonne),
+                "explication": expl,
+                "lien": lien,
+            })
+        except Exception:
+            continue
+    return out
+
+
+def main():
+    items = collect_items()
+    if not items:
+        raise SystemExit("Aucune actualité récupérée.")
+
+    history = load_json(HISTORY, {})
+    history.setdefault("days", {})
+    history.setdefault("culture_seen", [])
+    latest = load_json(LATEST, {})
+    bank = load_json(BANK, {})
+    bank.setdefault("questions", [])
+
+    mode = MODE
+    if mode == "update" and latest.get("date") != TODAY:
+        mode = "morning"
+    print("Mode : " + mode + " | " + NOW.isoformat())
+
+    new = []
+    if mode == "morning":
+        prev = history["days"].get(YESTERDAY, {})
+        try:
+            start = datetime.fromisoformat(
+                prev["morning_run"]
+            )
+        except Exception:
+            start = MIDNIGHT - timedelta(hours=18)
+        deja = prev.get("morning_items", [])
+        depuis_src = []
+        auj_src = []
+        for it in items:
+            if start <= it["date"] < MIDNIGHT:
+                depuis_src.append(it)
+            elif it["date"] >= MIDNIGHT:
+                auj_src.append(it)
+        depuis_src = depuis_src[:8]
+        auj_src = auj_src[:8]
+        summarized = summarize(depuis_src + auj_src)
+        cut = len(depuis_src)
+        depuis = summarized[:cut]
+        auj = summarized[cut:]
+        seen = history["culture_seen"]
+        culture = make_culture(seen)
+        for c in culture:
+            seen.append(c["titre"])
+        history["culture_seen"] = seen[-200:]
+        quiz = []
+    else:
+        same_day = latest.get("date") == TODAY
+        old = []
+        deja = []
+        depuis = []
+        culture = []
+        quiz = []
+        if same_day:
+            old = latest.get("aujourdhui", [])
+            deja = latest.get("deja_presente", [])
+            depuis = latest.get("depuis_hier", [])
+            culture = latest.get("culture", [])
+            quiz = latest.get("quiz_jour", [])
+        have = set()
+        for a in old + depuis + deja:
+            have.add(norm(a["titre"]))
+        fresh = []
+        for it in items:
+            if it["date"] < MIDNIGHT:
+                continue
+            if norm(it["titre"]) in have:
+                continue
+            fresh.append(it)
+        new = summarize(fresh[:8])
+        auj = (new + old)[:30]
+        if mode == "evening":
+            quiz = make_quiz(auj[:10], culture)
+            known = set()
+            for q in bank["questions"]:
+                known.add(q["id"])
+            for q in quiz:
+                if q["id"] not in known:
+                    bank["questions"].append(q)
+            bank["questions"] = bank["questions"][-600:]
+
+    history["days"][TODAY] = {
+        "morning_run": NOW.isoformat(),
+        "morning_items": auj,
+    }
+
+    state = {
+        "date": TODAY,
+        "mode": mode,
+        "updated": NOW.isoformat(),
+        "deja_presente": deja,
+        "depuis_hier": depuis,
+        "aujourdhui": auj,
+        "culture": culture,
+        "quiz_jour": quiz,
+    }
+
+    keep = sorted(history["days"].keys())[-40:]
+    days = {}
+    for k in keep:
+        days[k] = history["days"][k]
+    history["days"] = days
+
+    save_json(LATEST, state)
+    save_json(HISTORY, history)
+    save_json(BANK, bank)
+    print(
+        "OK : " + str(len(depuis)) + " depuis hier, "
+        + str(len(auj)) + " aujourd'hui, "
+        + str(len(culture)) + " culture, "
+        + str(len(quiz)) + " questions."
+    )
+
+    if mode == "morning":
+        has_tuto = False
+        for c in culture:
+            if c.get("type") == "tuto":
+                has_tuto = True
+        total = len(auj) + len(depuis)
+        msg = str(total) + " actus et "
+        msg += str(len(culture)) + " fiches"
+        msg += " dont un tuto." if has_tuto else "."
+        notify("Ton brief du matin est prêt", msg)
+    elif mode == "evening":
+        n = 0
+        for q in quiz:
+            if q.get("type") == "actu":
+                n += 1
+        notify(
+            "Ton quiz du jour est prêt",
+            str(n) + " questions sur les infos du jour.",
+        )
+    else:
+        imp = [a for a in new if a.get("important")]
+        for a in imp[:2]:
+            notify("À la une", a["titre"])
+
+
+if __name__ == "__main__":
+    main()
