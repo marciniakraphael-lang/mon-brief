@@ -1,199 +1,464 @@
 <!DOCTYPE html>
-<html lang="fr"><head>
+<html lang="fr">
+<head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Brief">
-<meta name="theme-color" content="#0a0a0d">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#0f172a">
+<title>Mon Brief</title>
 <link rel="manifest" href="manifest.json">
-<link rel="apple-touch-icon" id="ico">
-<title>Brief</title>
 <style>
-:root{--bg:#0a0a0d;--card:#14141a;--line:#23232c;--tx:#ececf1;--mu:#8b8b99;--ac:#8ea2ff;--ok:#5ad19a;--ko:#ff7a8a}
+:root{--bg:#0f172a;--card:#1e293b;--txt:#f1f5f9;--mut:#94a3b8;--acc:#38bdf8;--ok:#22c55e;--ko:#ef4444}
+@media (prefers-color-scheme:light){:root{--bg:#f1f5f9;--card:#ffffff;--txt:#0f172a;--mut:#64748b;--acc:#0284c7}}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-html,body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 -apple-system,system-ui,sans-serif}
-header{position:sticky;top:0;z-index:5;display:flex;justify-content:space-between;align-items:center;padding:calc(env(safe-area-inset-top) + 12px) 20px 12px;background:rgba(10,10,13,.85);backdrop-filter:blur(14px)}
-header h1{margin:0;font-size:22px;font-weight:700;letter-spacing:-.5px}
-header small{display:block;color:var(--mu);font-size:12px;font-weight:400;letter-spacing:0}
-main{padding:4px 16px 110px;max-width:640px;margin:auto}
-.i{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex:none}
-button,a.b{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
-.ib{padding:8px;border-radius:12px;color:var(--mu)}
-h2{font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:var(--mu);margin:26px 4px 10px;font-weight:600;display:flex;justify-content:space-between;align-items:center}
-.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;margin-bottom:12px}
-.meta{font-size:12px;color:var(--mu)}
-.card h3{margin:6px 0 6px;font-size:17px;line-height:1.3;letter-spacing:-.2px}
-.card p{margin:0;color:#c4c4cf;font-size:15px}
-.ctx{margin-top:12px;padding:10px 12px;border-left:2px solid var(--ac);background:rgba(142,162,255,.07);border-radius:0 10px 10px 0;font-size:14px;color:#c4c4cf}
-.ctx b{display:block;color:var(--ac);font-size:11px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px}
-.ctx.bad{border-left-color:var(--ko);background:rgba(255,122,138,.07)}
-.ctx.bad b{color:var(--ko)}
-.acts{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
-.acts button,.acts a,.pill{display:inline-flex;align-items:center;gap:6px;padding:7px 12px;border-radius:999px;background:#1c1c25;color:var(--tx);font-size:13px;text-decoration:none}
-.say.on{background:var(--ac);color:#0a0a0d}
-.chip{display:inline-block;font-size:11px;color:var(--ac);background:rgba(142,162,255,.1);padding:3px 10px;border-radius:999px}
-.chip.tuto{color:var(--ok);background:rgba(90,209,154,.12)}
-.keep{margin-top:12px;font-size:14px;color:var(--ok)}
-.steps{margin:12px 0 0;padding-left:22px;color:#c4c4cf;font-size:15px}
-.steps li{margin-bottom:8px;padding-left:2px}
-nav{position:fixed;bottom:0;left:0;right:0;display:flex;justify-content:space-around;padding:8px 10px calc(env(safe-area-inset-bottom) + 6px);background:rgba(10,10,13,.9);backdrop-filter:blur(16px);border-top:1px solid var(--line)}
-nav button{display:flex;flex-direction:column;align-items:center;gap:2px;font-size:11px;color:var(--mu);padding:6px 16px}
-nav button.on{color:var(--ac)}
-.empty{color:var(--mu);text-align:center;padding:40px 10px}
-.big{display:flex;align-items:center;gap:14px;width:100%;text-align:left}
-.big .i{width:26px;height:26px;color:var(--ac)}
-.big b{display:block}.big span{color:var(--mu);font-size:13px}
-.stat{display:flex;align-items:center;gap:14px}
-.stat svg{width:56px;height:56px;flex:none}
-.stat b{font-size:17px;display:block}
-.q{font-size:19px;font-weight:600;margin:10px 0 18px;line-height:1.35}
-.ch{display:block;width:100%;text-align:left;padding:14px;margin-bottom:10px;background:var(--card);border:1px solid var(--line);border-radius:14px}
-.ch.ok{border-color:var(--ok);background:rgba(90,209,154,.1)}
-.ch.bad{border-color:var(--ko);background:rgba(255,122,138,.1)}
-.prog{height:3px;background:var(--line);border-radius:3px;margin:6px 0 14px}
-.prog i{display:block;height:100%;background:var(--ac);border-radius:3px}
-.nx{width:100%;padding:14px;border-radius:14px;background:var(--ac);color:#0a0a0d;font-weight:600;margin-top:12px}
-.nx.alt{background:none;border:1px solid var(--ko);color:var(--ko)}
-.rec{border-left:3px solid var(--mu)}.rec.ok{border-left-color:var(--ok)}.rec.ko{border-left-color:var(--ko)}
-select,input[type=range]{width:100%;margin:8px 0;background:#1c1c25;color:var(--tx);border:1px solid var(--line);border-radius:10px;padding:10px;font:inherit}
-details summary{color:var(--mu);font-size:13px;margin:20px 4px 10px;cursor:pointer}
-.sm{color:var(--mu);font-size:13px}
-</style></head><body>
-<header><h1 id="d">Brief<small id="u"></small></h1><button class="ib" id="rf"></button></header>
-<main id="m"></main>
-<nav id="n"></nav>
+body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.5 -apple-system,system-ui,sans-serif;padding:env(safe-area-inset-top) 0 calc(76px + env(safe-area-inset-bottom))}
+header{padding:14px 16px 4px;display:flex;justify-content:space-between;align-items:center;max-width:720px;margin:0 auto}
+h1{font-size:22px;margin:0}
+.sub{color:var(--mut);font-size:13px}
+.wrap{max-width:720px;margin:0 auto;padding:0 14px}
+.statsbar{display:flex;gap:14px;align-items:center;background:var(--card);border-radius:14px;padding:10px 14px;margin-top:6px}
+.pie{width:54px;height:54px;border-radius:50%;flex:none}
+.pct{font-weight:700;font-size:17px}
+main{padding:8px 14px 20px;max-width:720px;margin:0 auto}
+h3{margin:22px 4px 8px;font-size:14px;text-transform:uppercase;letter-spacing:.05em;color:var(--mut);display:flex;justify-content:space-between;align-items:center}
+.card{background:var(--card);border-radius:14px;padding:12px 14px;margin:0 0 10px}
+.card summary{cursor:pointer;list-style:none}
+.card summary::-webkit-details-marker{display:none}
+.src{display:block;color:var(--mut);font-size:12px}
+.t{display:block;font-weight:600}
+.tag{display:inline-block;background:var(--acc);color:#04283a;border-radius:20px;padding:1px 10px;font-size:12px;font-weight:600;margin-bottom:6px}
+.ctx{background:rgba(56,189,248,.12);border-left:3px solid var(--acc);padding:8px 10px;border-radius:8px;font-size:15px;margin:8px 0}
+.row{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:8px}
+a{color:var(--acc)}
+button{font:inherit}
+.listen{background:transparent;border:1px solid var(--acc);color:var(--acc);border-radius:20px;padding:5px 12px;font-size:14px;text-transform:none;letter-spacing:0}
+.listen.on{background:var(--acc);color:#04283a}
+.btn.full{display:block;width:100%;background:var(--acc);color:#04283a;font-weight:600;padding:12px;margin-top:12px;border:0;border-radius:12px;font-size:16px}
+.btn.alt{background:transparent;color:var(--ko);border:1px solid var(--ko)}
+.choice{display:block;width:100%;text-align:left;background:var(--card);color:var(--txt);border:2px solid transparent;border-radius:12px;padding:12px 14px;margin:8px 0}
+.choice.good{border-color:var(--ok)}
+.choice.bad{border-color:var(--ko)}
+.q{font-size:19px;margin:6px 0 10px}
+.fb{margin-top:10px;font-size:15px}
+.big{font-size:40px;font-weight:700}
+.rec{border-left:4px solid var(--mut)}
+.rec.ok{border-left-color:var(--ok)}
+.rec.ko{border-left-color:var(--ko)}
+.empty{color:var(--mut);text-align:center;padding:40px 10px}
+.sel{width:100%;padding:10px;border-radius:10px;background:var(--bg);color:var(--txt);border:1px solid var(--mut);font-size:16px;margin:6px 0}
+input[type=range]{width:100%}
+nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:var(--card);padding-bottom:env(safe-area-inset-bottom);border-top:1px solid rgba(148,163,184,.25)}
+nav button{flex:1;background:none;border:0;color:var(--mut);padding:10px 0 8px;font-size:11px}
+nav button span{display:block;font-size:20px}
+nav button.on{color:var(--acc)}
+.refresh{background:none;border:0;color:var(--acc);font-size:24px}
+</style>
+</head>
+<body>
+<header>
+  <div><h1>Mon Brief</h1><div class="sub" id="sub"></div></div>
+  <button class="refresh" id="refresh" aria-label="Actualiser">↻</button>
+</header>
+<div class="wrap"><div id="stats" class="statsbar"></div></div>
+<main id="view"></main>
+<nav id="nav"></nav>
+
 <script>
-const $=s=>document.querySelector(s);
-const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const I={news:'<path d="M4 5h13v14H6a2 2 0 0 1-2-2z"/><path d="M17 9h3v8a2 2 0 0 1-2 2"/><path d="M8 9h5M8 13h5"/>',
-bulb:'<path d="M9 18h6M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.7.7 1 1.5 1 2.5h6c0-1 .3-1.8 1-2.5A6 6 0 0 0 12 3z"/>',
-quiz:'<circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.7.4-1 .9-1 1.7"/><path d="M12 17h.01"/>',
-spk:'<path d="M4 10v4h4l5 4V6L8 10z"/><path d="M16.5 9a4 4 0 0 1 0 6"/>',
-lnk:'<path d="M14 4h6v6M20 4l-9 9"/><path d="M18 14v5H5V6h5"/>',
-set:'<path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><circle cx="8" cy="17" r="2"/>',
-rnd:'<path d="M3 7h4l10 10h4M3 17h4l3-3M14 10l3-3h4M18 4l3 3-3 3M18 14l3 3-3 3"/>',
-day:'<rect x="4" y="5" width="16" height="15" rx="3"/><path d="M4 10h16M9 3v4M15 3v4"/>',
-rev:'<path d="M4 12a8 8 0 1 0 3-6.2M4 4v4h4"/>',
-rf:'<path d="M20 12a8 8 0 1 1-2.5-5.8M20 4v4h-4"/>'};
-const ic=n=>`<svg class="i" viewBox="0 0 24 24">${I[n]}</svg>`;
-const store={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch{return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch{}}};
-const hm=s=>{try{return new Date(s).toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'})}catch{return''}};
-let D=null,B=[],tab='actus',tok=0,queue=[];
+// ---------- Réglages ----------
+const QUIZ_REVISION = 10;   // questions par session de révision
 
-// icône d'app
-(()=>{try{const c=document.createElement('canvas');c.width=c.height=180;const x=c.getContext('2d');
-x.fillStyle='#0a0a0d';x.fillRect(0,0,180,180);
-const g=x.createLinearGradient(30,30,150,150);g.addColorStop(0,'#8ea2ff');g.addColorStop(1,'#b49cff');
-x.fillStyle=g;x.beginPath();x.roundRect(40,40,100,100,28);x.fill();
-x.fillStyle='#0a0a0d';x.font='700 70px -apple-system,sans-serif';x.textAlign='center';x.textBaseline='middle';x.fillText('B',90,94);
-$('#ico').href=c.toDataURL('image/png')}catch{}})();
+const TABS = [
+  ["actus","📰","Actus"],
+  ["culture","🧠","Culture G"],
+  ["quiz","❓","Quiz"],
+  ["revision","🔁","Révision"],
+  ["reglages","⚙️","Réglages"]
+];
+let tab = "actus", DATA = null, BANK = [];
+const view = document.getElementById("view");
 
-// ---------- voix ----------
-const frVoices=()=>('speechSynthesis' in window?speechSynthesis.getVoices():[]).filter(v=>(v.lang||'').toLowerCase().replace('_','-').startsWith('fr'));
-function pickVoice(){const vs=frVoices(),s=store.get('voice','');const f=vs.find(v=>v.voiceURI===s);if(f)return f;
-const sc=v=>(/premium|haute qualit/i.test(v.name)?30:0)+(/siri/i.test(v.name)?25:0)+(/enhanced|am[ée]lior/i.test(v.name)?20:0)+(v.lang.replace('_','-')==='fr-FR'?5:0)+(v.localService?1:0);
-return vs.slice().sort((a,b)=>sc(b)-sc(a))[0]||null}
-function stopSay(){tok++;queue=[];if('speechSynthesis' in window)speechSynthesis.cancel();document.querySelectorAll('.say.on').forEach(b=>b.classList.remove('on'))}
-function say(text,btn){const was=btn.classList.contains('on');stopSay();if(was)return;btn.classList.add('on');
-const t=tok;queue=(text.match(/[^.!?]+[.!?]*\s*/g)||[text]).filter(s=>s.trim());setTimeout(()=>nxt(btn,t),80)}
-function nxt(btn,t){if(t!==tok)return;if(!queue.length){btn.classList.remove('on');return}
-const u=new SpeechSynthesisUtterance(queue.shift().trim());const v=pickVoice();
-if(v){u.voice=v;u.lang=v.lang}else u.lang='fr-FR';
-u.rate=store.get('rate',.95);u.onend=()=>nxt(btn,t);u.onerror=()=>nxt(btn,t);speechSynthesis.speak(u)}
-if('speechSynthesis' in window)speechSynthesis.onvoiceschanged=()=>{if(tab==='reglages')render()};
+// ---------- Icône générée (pour l'écran d'accueil) ----------
+(function(){
+  try{
+    const c = document.createElement("canvas"); c.width = c.height = 180;
+    const g = c.getContext("2d");
+    g.fillStyle = "#0f172a"; g.fillRect(0,0,180,180);
+    g.fillStyle = "#38bdf8"; g.font = "bold 92px -apple-system,Helvetica,Arial";
+    g.textAlign = "center"; g.textBaseline = "middle"; g.fillText("MB",90,98);
+    const l = document.createElement("link");
+    l.rel = "apple-touch-icon"; l.href = c.toDataURL("image/png");
+    document.head.appendChild(l);
+  }catch(e){}
+})();
 
-// ---------- stats ----------
-const getG=()=>store.get('g',{answered:0,correct:0,quizzes:0});
-function record(id,ok){const st=store.get('stats',{});const s=st[id]||{ok:0,ko:0};ok?s.ok++:s.ko++;st[id]=s;store.set('stats',st);
-const g=getG();g.answered++;if(ok)g.correct++;store.set('g',g)}
-function countQuiz(){const g=getG();g.quizzes++;store.set('g',g)}
-function statsHTML(){const g=getG(),pct=g.answered?Math.round(g.correct/g.answered*100):0,C=138.23;
-return `<div class="card stat"><svg viewBox="0 0 56 56"><circle cx="28" cy="28" r="22" fill="none" stroke="${g.answered?'#ff7a8a':'#23232c'}" stroke-width="6"/>
-<circle cx="28" cy="28" r="22" fill="none" stroke="#5ad19a" stroke-width="6" stroke-linecap="butt" stroke-dasharray="${pct/100*C} ${C}" transform="rotate(-90 28 28)"/></svg>
-<div><b>${g.answered?pct+' % de réussite':'Pas encore de quiz'}</b><span class="sm">${g.quizzes} quiz terminé${g.quizzes>1?'s':''} · ${g.correct}/${g.answered} bonnes réponses</span></div></div>`}
+// ---------- Outils ----------
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+};
 
-// ---------- vues actus / culture ----------
-const card=a=>{const t=[a.titre,a.resume,a.contexte?'Pourquoi : '+a.contexte:''].filter(Boolean).join('. ');
-return `<article class="card"><div class="meta">${esc(a.source)} · ${hm(a.date)}</div><h3>${esc(a.titre)}</h3><p>${esc(a.resume)}</p>${a.contexte?`<div class="ctx"><b>Pourquoi c'est important</b>${esc(a.contexte)}</div>`:''}<div class="acts"><button class="say" data-t="${esc(t)}">${ic('spk')}Écouter</button>${a.lien?`<a href="${esc(a.lien)}" target="_blank" rel="noopener">${ic('lnk')}Lire</a>`:''}</div></article>`};
-const sec=(t,l)=>l&&l.length?`<h2>${t}</h2>${l.map(card).join('')}`:'';
-function vActus(){if(!D)return '<div class="empty">Pas encore de données. Lance le workflow dans GitHub (onglet Actions).</div>';
-const all=(D.aujourdhui||[]).map(a=>a.titre+'. '+a.resume).join(' ');
-let h=(D.aujourdhui||[]).length?`<div class="acts" style="margin:12px 4px 0"><button class="say" data-t="${esc(all)}">${ic('spk')}Tout écouter</button></div>`:'';
-h+=sec('Depuis hier',D.depuis_hier)+sec("Aujourd'hui",D.aujourdhui);
-if((D.deja_presente||[]).length)h+=`<details><summary>Déjà présenté (${D.deja_presente.length})</summary>${D.deja_presente.map(card).join('')}</details>`;
-return h||'<div class="empty">Aucune actu pour le moment.</div>'}
-function fiche(c){const tu=c.type==='tuto',et=c.etapes||[],er=c.erreurs||[];
-const t=[c.titre,c.texte,...et.map((e,i)=>'Étape '+(i+1)+' : '+e),er.length?'Erreurs à éviter : '+er.join('. '):'',c.a_retenir?'À retenir : '+c.a_retenir:''].filter(Boolean).join('. ');
-return `<article class="card"><span class="chip ${tu?'tuto':''}">${esc(c.theme)}</span><h3 style="margin-top:10px">${esc(c.titre)}</h3><p>${esc(c.texte)}</p>
-${et.length?`<ol class="steps">${et.map(e=>`<li>${esc(e)}</li>`).join('')}</ol>`:''}
-${er.length?`<div class="ctx bad"><b>À éviter</b>${er.map(e=>esc(e)).join('<br>')}</div>`:''}
-${c.a_retenir?`<div class="keep">À retenir : ${esc(c.a_retenir)}</div>`:''}
-<div class="acts"><button class="say" data-t="${esc(t)}">${ic('spk')}Écouter</button></div></article>`}
-const vCult=()=>D&&(D.culture||[]).length?D.culture.map(fiche).join(''):'<div class="empty">Les fiches de culture arrivent avec le brief du matin.</div>';
+function el(tag, props, ...kids){
+  const e = document.createElement(tag);
+  for(const k in (props || {})){
+    if(k === "class") e.className = props[k];
+    else if(k === "onclick") e.onclick = props[k];
+    else e.setAttribute(k, props[k]);
+  }
+  kids.flat().forEach(c => { if(c !== null && c !== undefined && c !== false) e.append(c); });
+  return e;
+}
 
-// ---------- quiz ----------
-const jour=()=>((D&&D.quiz_jour)||[]).filter(q=>q.type==='actu');
-const allQ=()=>{const m={};[...B,...((D&&D.quiz_jour)||[])].forEach(q=>m[q.id]=q);return m};
-const weakN=()=>{const st=store.get('stats',{});return Object.keys(allQ()).filter(i=>st[i]&&st[i].ko>st[i].ok).length};
-function pickRev(){const st=store.get('stats',{});
-return Object.values(allQ()).map(q=>{const s=st[q.id];let w=2;if(s)w=s.ko>s.ok?4:(s.ko>0&&s.ok-s.ko<2?3:1);return{q,w:w+Math.random()*1.5}})
-.sort((a,b)=>b.w-a.w).slice(0,10).map(x=>x.q).sort(()=>Math.random()-.5)}
-function start(mode){let list,title;
-if(mode==='jour'){list=jour();title='Du jour'}
-else if(mode==='hasard'){list=Object.values(allQ()).sort(()=>Math.random()-.5).slice(0,10);title='Au hasard'}
-else{list=pickRev();title='Révision'}
-if(!list.length)return;store.set('qs',{list,i:0,answers:[],done:false,counted:false,title});render();scrollTo(0,0)}
-function vQuiz(){const S=store.get('qs',null);
-if(!S){const nj=jour().length,nb=Object.keys(allQ()).length,nw=weakN();
-return statsHTML()+`<h2>Choisis ton quiz</h2>
-<button class="card big" data-a="jour">${ic('day')}<div><b>Quiz du jour</b><span>${nj?nj+' questions sur les infos du jour':'Disponible après la mise à jour du soir'}</span></div></button>
-<button class="card big" data-a="hasard">${ic('rnd')}<div><b>Quiz au hasard</b><span>${nb?'10 questions parmi les '+nb+' depuis le début':'Pas encore de questions'}</span></div></button>
-${nb>=3?`<button class="card big" data-a="rev">${ic('rev')}<div><b>Révision</b><span>${nw} question${nw>1?'s':''} à retravailler</span></div></button>`:''}`}
-const L=S.list;
-if(S.done){const sc=L.filter((q,k)=>S.answers[k]===q.reponse).length,pct=Math.round(sc/L.length*100);
-return `<div class="card" style="text-align:center;margin-top:12px"><div class="meta">${esc(S.title)} terminé</div><div style="font-size:48px;font-weight:700;color:var(--ac)">${sc}/${L.length}</div><p>${pct} % de bonnes réponses</p></div>`+
-L.map((q,k)=>{const ok=S.answers[k]===q.reponse;return `<div class="card rec ${ok?'ok':'ko'}"><b>${ok?'✓':'✗'} ${esc(q.question)}</b>${ok?'':`<div class="sm">Bonne réponse : ${esc(q.choix[q.reponse])}</div>`}${q.explication?`<div class="sm">${esc(q.explication)}</div>`:''}</div>`}).join('')+
-`<button class="nx" data-a="menu">Terminer</button>`}
-const q=L[S.i],ch=S.answers[S.i],ans=ch!=null;
-return `<div class="meta" style="display:flex;justify-content:space-between"><span>${esc(S.title)} · ${S.i+1}/${L.length} · ${q.type==='actu'?'Actu':'Culture'}</span><button data-a="menu" class="sm">Quitter</button></div>
-<div class="prog"><i style="width:${S.i/L.length*100}%"></i></div><div class="q">${esc(q.question)}</div>
-${q.choix.map((c,k)=>`<button class="ch ${ans?(k===q.reponse?'ok':k===ch?'bad':''):''}" data-a="pick" data-k="${k}" ${ans?'disabled':''}>${esc(c)}</button>`).join('')}
-${ans?`<div class="ctx"><b>${ch===q.reponse?'Bonne réponse':'Raté'}</b>${esc(q.explication||'')}${q.lien?` <a href="${esc(q.lien)}" target="_blank" rel="noopener" style="color:var(--ac)">Lire</a>`:''}</div><button class="nx" data-a="next">${S.i+1>=L.length?'Voir mon résultat':'Question suivante'}</button>`:''}`}
+function fmt(iso){
+  try{ return new Date(iso).toLocaleString("fr-FR",{weekday:"short",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}); }
+  catch(e){ return ""; }
+}
 
-// ---------- réglages ----------
-function vSet(){const vs=frVoices(),cur=pickVoice(),r=store.get('rate',.95);
-return `<h2>Voix de lecture</h2><div class="card">
-${vs.length?`<select id="vs">${vs.map(v=>`<option value="${esc(v.voiceURI)}" ${cur&&cur.voiceURI===v.voiceURI?'selected':''}>${esc(v.name)} (${esc(v.lang)})</option>`).join('')}</select>`:'<p class="sm">Aucune voix française détectée.</p>'}
-<div class="sm">Vitesse</div><input type="range" id="rt" min="0.7" max="1.2" step="0.05" value="${r}">
-<div class="acts"><button class="say" data-t="Bonjour, voici un exemple de la voix qui te lira ton brief.">${ic('spk')}Tester</button></div></div>
-<div class="card"><b>Voix plus naturelle</b><p class="sm" style="margin-top:6px">Réglages iPhone › Accessibilité › Contenu énoncé › Voix › Français, puis télécharge une voix « Améliorée » ou « Premium ». Recharge l'app, puis choisis-la ici.</p></div>
-<h2>Statistiques</h2><div class="card"><p class="sm" style="margin:0 0 6px">Efface le camembert, le compteur et la progression de révision.</p><button class="nx alt" data-a="reset">Réinitialiser mes statistiques</button></div>`}
+function empty(msg){ view.append(el("div",{class:"empty"}, msg)); }
 
-// ---------- affichage ----------
+// ---------- Lecture vocale ----------
+function frVoices(){
+  if(!("speechSynthesis" in window)) return [];
+  return speechSynthesis.getVoices().filter(v => v.lang && v.lang.toLowerCase().replace("_","-").startsWith("fr"));
+}
+
+function voiceScore(v){
+  const n = v.name.toLowerCase();
+  let s = 0;
+  if(/premium|haute qualité/.test(n)) s += 30;
+  if(/siri/.test(n)) s += 25;
+  if(/enhanced|améliorée|amélioré/.test(n)) s += 20;
+  if(v.lang.toLowerCase().replace("_","-") === "fr-fr") s += 5;
+  if(v.localService) s += 1;
+  return s;
+}
+
+function pickVoice(){
+  const vs = frVoices();
+  const saved = store.get("voice", "");
+  if(saved){ const m = vs.find(v => v.name === saved); if(m) return m; }
+  return vs.slice().sort((a, b) => voiceScore(b) - voiceScore(a))[0] || null;
+}
+
+function getRate(){
+  const r = parseFloat(store.get("rate", 0.95));
+  return isNaN(r) ? 0.95 : r;
+}
+
+function stopSpeech(){
+  if("speechSynthesis" in window) speechSynthesis.cancel();
+  document.querySelectorAll(".listen.on").forEach(b => b.classList.remove("on"));
+}
+
+function speak(texts, btn){
+  if(!("speechSynthesis" in window)){ alert("La lecture vocale n’est pas disponible ici."); return; }
+  const wasOn = btn.classList.contains("on");
+  stopSpeech();
+  if(wasOn) return;
+  btn.classList.add("on");
+  const clean = texts.filter(Boolean).map(t => String(t).trim()).map(t => /[.!?…]$/.test(t) ? t : t + ".");
+  const parts = clean.flatMap(t => t.match(/[^.!?…]+[.!?…]*\s*/g) || []);
+  const voice = pickVoice();
+  const rate = getRate();
+  setTimeout(() => {
+    parts.forEach((p, i) => {
+      const u = new SpeechSynthesisUtterance(p.trim());
+      u.lang = "fr-FR"; u.rate = rate;
+      if(voice) u.voice = voice;
+      if(i === parts.length - 1){
+        u.onend = () => btn.classList.remove("on");
+        u.onerror = () => btn.classList.remove("on");
+      }
+      speechSynthesis.speak(u);
+    });
+  }, 80);
+}
+
+if("speechSynthesis" in window){
+  speechSynthesis.onvoiceschanged = () => { if(tab === "reglages") render(); };
+}
+
+// ---------- Statistiques globales (camembert) ----------
+function getG(){ return store.get("g", {answered:0, correct:0, quizzes:0}); }
+
+function renderStats(){
+  const g = getG();
+  const pct = g.answered ? Math.round(g.correct / g.answered * 100) : 0;
+  const pie = el("div",{class:"pie"});
+  pie.style.background = g.answered
+    ? "conic-gradient(var(--ok) 0 " + pct + "%, var(--ko) " + pct + "% 100%)"
+    : "var(--mut)";
+  document.getElementById("stats").replaceChildren(
+    pie,
+    el("div",{},
+      el("div",{class:"pct"}, g.answered ? pct + " % de réussite" : "Pas encore de quiz"),
+      el("div",{class:"sub"}, g.quizzes + " quiz terminé" + (g.quizzes > 1 ? "s" : "") + " · " + g.correct + "/" + g.answered + " bonnes réponses")
+    )
+  );
+}
+
+function record(id, ok){
+  const st = store.get("stats", {});
+  const s = st[id] || {ok:0, ko:0};
+  if(ok) s.ok++; else s.ko++;
+  s.last = new Date().toISOString().slice(0,10);
+  st[id] = s;
+  store.set("stats", st);
+  const g = getG();
+  g.answered++;
+  if(ok) g.correct++;
+  store.set("g", g);
+  renderStats();
+}
+
+function countQuiz(){
+  const g = getG();
+  g.quizzes++;
+  store.set("g", g);
+  renderStats();
+}
+
+// ---------- Actus ----------
+function articleCard(a){
+  const listen = el("button",{class:"listen"}, "🔊 Écouter");
+  listen.onclick = () => speak([a.titre, a.resume, a.contexte ? "Pourquoi : " + a.contexte : ""], listen);
+  return el("details",{class:"card"},
+    el("summary",{},
+      el("span",{class:"src"}, a.source + " · " + fmt(a.date)),
+      el("span",{class:"t"}, a.titre)),
+    el("p",{}, a.resume),
+    a.contexte ? el("div",{class:"ctx"}, el("strong",{}, "Pourquoi / contexte : "), a.contexte) : null,
+    el("div",{class:"row"}, listen,
+      a.lien ? el("a",{href:a.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗") : null));
+}
+
+function addSection(title, list){
+  list = list || [];
+  if(!list.length) return;
+  const lb = el("button",{class:"listen"}, "🔊 Tout écouter");
+  lb.onclick = () => speak(list.flatMap(a => [a.titre, a.resume, a.contexte ? "Pourquoi : " + a.contexte : ""]), lb);
+  view.append(el("h3",{}, title, lb), ...list.map(articleCard));
+}
+
+function viewActus(){
+  if(!DATA){ empty("Pas encore de données. Lance le workflow dans GitHub (onglet Actions)."); return; }
+  const n = (DATA.depuis_hier||[]).length + (DATA.aujourdhui||[]).length;
+  if(!n) empty("Aucune actu pour le moment.");
+  addSection("Depuis hier", DATA.depuis_hier);
+  addSection("Aujourd’hui", DATA.aujourdhui);
+  const deja = DATA.deja_presente || [];
+  if(deja.length){
+    const d = el("details",{}, el("summary",{class:"sub"}, "Déjà présentées hier (" + deja.length + ")"));
+    deja.forEach(a => d.append(articleCard(a)));
+    view.append(el("div",{style:"margin-top:18px"}, d));
+  }
+}
+
+// ---------- Culture G ----------
+function viewCulture(){
+  const l = (DATA && DATA.culture) || [];
+  if(!l.length){ empty("Les fiches de culture générale arrivent avec le brief du matin."); return; }
+  l.forEach(c => {
+    const lb = el("button",{class:"listen"}, "🔊 Écouter");
+    lb.onclick = () => speak([c.titre, c.texte, c.a_retenir ? "À retenir : " + c.a_retenir : ""], lb);
+    view.append(el("div",{class:"card"},
+      el("span",{class:"tag"}, c.theme),
+      el("div",{class:"t"}, c.titre),
+      el("p",{}, c.texte),
+      c.a_retenir ? el("p",{}, el("strong",{}, "À retenir : "), c.a_retenir) : null,
+      el("div",{class:"row"}, lb)));
+  });
+}
+
+// ---------- Moteur de quiz (avec sauvegarde de la progression) ----------
+function newSession(qs, sid){
+  return {sid: sid, qs: qs, i: 0, answers: [], done: false, counted: false};
+}
+
+function runQuiz(root, sess, label, save, restartLabel, onRestart){
+  const qs = sess.qs;
+
+  function showResult(){
+    const total = qs.length;
+    const score = qs.filter((q, k) => sess.answers[k] === q.reponse).length;
+    const pct = total ? Math.round(score / total * 100) : 0;
+    const msg = pct >= 80 ? "Excellent 🎉" : pct >= 50 ? "Pas mal 👍" : "Continue, ça vient 💪";
+    root.append(el("div",{class:"card"},
+      el("div",{class:"sub"}, label + " terminé ✅"),
+      el("div",{class:"big"}, score + " / " + total),
+      el("p",{}, pct + " % de bonnes réponses · " + msg)));
+    qs.forEach((q, k) => {
+      const ok = sess.answers[k] === q.reponse;
+      root.append(el("div",{class:"card rec " + (ok ? "ok" : "ko")},
+        el("div",{class:"t"}, (ok ? "✓ " : "✗ ") + q.question),
+        ok ? null : el("div",{class:"sub"}, "Bonne réponse : " + q.choix[q.reponse]),
+        q.explication ? el("div",{class:"sub"}, q.explication) : null));
+    });
+    root.append(el("button",{class:"btn full", onclick:() => onRestart()}, restartLabel));
+  }
+
+  function step(){
+    root.replaceChildren();
+    if(sess.done){ showResult(); return; }
+    const q = qs[sess.i];
+    const chosen = sess.answers[sess.i];
+    const answered = chosen !== null && chosen !== undefined;
+    const fb = el("div",{class:"fb"});
+    const btns = q.choix.map((c, idx) => {
+      const b = el("button",{class:"choice"}, c);
+      if(answered){
+        if(idx === q.reponse) b.classList.add("good");
+        else if(idx === chosen) b.classList.add("bad");
+      } else {
+        b.onclick = () => {
+          sess.answers[sess.i] = idx;
+          record(q.id, idx === q.reponse);
+          save(sess);
+          step();
+        };
+      }
+      return b;
+    });
+    let next = null;
+    if(answered){
+      const ok = chosen === q.reponse;
+      fb.append(el("strong",{}, ok ? "Bonne réponse ! " : "Raté. "), q.explication || "");
+      if(q.lien) fb.append(el("div",{class:"row"}, el("a",{href:q.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗")));
+      const last = sess.i + 1 >= qs.length;
+      next = el("button",{class:"btn full", onclick:() => {
+        if(last){
+          sess.done = true;
+          if(!sess.counted){ sess.counted = true; countQuiz(); }
+        } else {
+          sess.i++;
+        }
+        save(sess);
+        step();
+        window.scrollTo(0, 0);
+      }}, last ? "Voir mon résultat" : "Question suivante");
+    }
+    root.append(
+      el("div",{class:"sub"}, label + " · " + (sess.i + 1) + "/" + qs.length + " · " + (q.type === "actu" ? "Actu" : "Culture")),
+      el("h2",{class:"q"}, q.question),
+      ...btns, fb, next);
+  }
+  step();
+}
+
+// ---------- Quiz du jour ----------
+function viewQuiz(){
+  const qs = (DATA && DATA.quiz_jour) || [];
+  if(!qs.length){ empty("Le quiz du jour arrive avec le brief du soir (vers 20 h 45)."); return; }
+  const sid = qs.map(q => q.id).join("-");
+  let sess = store.get("qs_jour", null);
+  if(!sess || sess.sid !== sid){ sess = newSession(qs, sid); store.set("qs_jour", sess); }
+  const root = el("div"); view.append(root);
+  runQuiz(root, sess, "Quiz du jour", s => store.set("qs_jour", s), "Refaire ce quiz", () => {
+    store.set("qs_jour", newSession(qs, sid));
+    render();
+  });
+}
+
+// ---------- Révision ----------
+function pickRevision(){
+  const st = store.get("stats", {});
+  return BANK.map(q => {
+    const s = st[q.id];
+    let w = 2;
+    if(s) w = s.ko > s.ok ? 4 : (s.ko > 0 && s.ok - s.ko < 2 ? 3 : 1);
+    return {q, w: w + Math.random() * 1.5};
+  }).sort((a, b) => b.w - a.w).slice(0, QUIZ_REVISION).map(x => x.q).sort(() => Math.random() - 0.5);
+}
+
+function viewRevision(){
+  let sess = store.get("qs_rev", null);
+  if(!sess){
+    if(BANK.length < 3){ empty("La banque de questions se remplit chaque soir. Reviens après quelques quiz."); return; }
+    sess = newSession(pickRevision(), "rev-" + Date.now());
+    store.set("qs_rev", sess);
+  }
+  const st = store.get("stats", {});
+  const weak = BANK.filter(q => st[q.id] && st[q.id].ko > st[q.id].ok).length;
+  view.append(el("div",{class:"sub",style:"margin:6px 4px"}, BANK.length + " questions en banque · " + weak + " à retravailler"));
+  const root = el("div"); view.append(root);
+  runQuiz(root, sess, "Révision", s => store.set("qs_rev", s), "Nouvelle session", () => {
+    store.set("qs_rev", null);
+    render();
+  });
+}
+
+// ---------- Réglages ----------
+function viewReglages(){
+  const vs = frVoices();
+  const sel = el("select",{class:"sel"},
+    el("option",{value:""}, "Automatique (la plus naturelle)"),
+    ...vs.map(v => el("option",{value:v.name}, v.name + " (" + v.lang + ")")));
+  sel.value = store.get("voice", "");
+  sel.onchange = () => store.set("voice", sel.value);
+
+  const rl = el("span",{}, getRate().toFixed(2) + "×");
+  const rate = el("input",{type:"range",min:"0.7",max:"1.2",step:"0.05"});
+  rate.value = getRate();
+  rate.oninput = () => { store.set("rate", parseFloat(rate.value)); rl.textContent = parseFloat(rate.value).toFixed(2) + "×"; };
+
+  const test = el("button",{class:"listen"}, "🔊 Tester la voix");
+  test.onclick = () => speak(["Bonjour, voici un exemple de la voix qui te lira ton brief quotidien."], test);
+
+  view.append(
+    el("div",{class:"card"},
+      el("div",{class:"t"}, "Voix de lecture"),
+      vs.length ? sel : el("p",{class:"sub"}, "Aucune voix française détectée sur cet appareil."),
+      el("div",{class:"sub",style:"margin-top:10px"}, "Vitesse : ", rl),
+      rate,
+      el("div",{class:"row"}, test)),
+    el("div",{class:"card"},
+      el("div",{class:"t"}, "Pour une voix plus naturelle"),
+      el("p",{class:"sub"}, "Sur ton iPhone : Réglages > Accessibilité > Contenu énoncé > Voix > Français, puis télécharge une voix marquée « Premium » ou « Améliorée ». Reviens ici, recharge la page et choisis-la dans la liste.")),
+    el("div",{class:"card"},
+      el("div",{class:"t"}, "Statistiques"),
+      el("p",{class:"sub"}, "Efface le camembert, le compteur de quiz et ta progression en révision."),
+      el("button",{class:"btn full alt", onclick:() => {
+        if(confirm("Effacer toutes tes statistiques de quiz ?")){
+          store.set("g", {answered:0, correct:0, quizzes:0});
+          store.set("stats", {});
+          store.set("qs_jour", null);
+          store.set("qs_rev", null);
+          render();
+        }
+      }}, "Réinitialiser mes statistiques")));
+}
+
+// ---------- Affichage ----------
 function render(){
-$('#n').innerHTML=[['actus','news','Actus'],['culture','bulb','Culture'],['quiz','quiz','Quiz'],['reglages','set','Réglages']].map(([k,i,l])=>`<button data-tab="${k}" class="${tab===k?'on':''}">${ic(i)}${l}</button>`).join('');
-$('#rf').innerHTML=ic('rf');
-$('#m').innerHTML=tab==='actus'?vActus():tab==='culture'?vCult():tab==='quiz'?vQuiz():vSet()}
-
-document.addEventListener('click',e=>{
-if(e.target.closest('#rf')){load();return}
-const s=e.target.closest('.say');if(s&&s.dataset.t){say(s.dataset.t,s);return}
-const t=e.target.closest('[data-tab]');if(t){tab=t.dataset.tab;stopSay();render();scrollTo(0,0);return}
-const a=e.target.closest('[data-a]');if(!a)return;const x=a.dataset.a;
-if(x==='jour'||x==='hasard'||x==='rev')start(x);
-else if(x==='menu'){store.set('qs',null);render();scrollTo(0,0)}
-else if(x==='next'){const S=store.get('qs');if(S.i+1>=S.list.length){S.done=true;if(!S.counted){S.counted=true;countQuiz()}}else S.i++;store.set('qs',S);render();scrollTo(0,0)}
-else if(x==='pick'){const S=store.get('qs');if(!S||S.answers[S.i]!=null)return;const k=+a.dataset.k;S.answers[S.i]=k;record(S.list[S.i].id,k===S.list[S.i].reponse);store.set('qs',S);render()}
-else if(x==='reset'){if(confirm('Effacer toutes tes statistiques de quiz ?')){store.set('g',{answered:0,correct:0,quizzes:0});store.set('stats',{});store.set('qs',null);render()}}});
-document.addEventListener('change',e=>{if(e.target.id==='vs')store.set('voice',e.target.value);if(e.target.id==='rt')store.set('rate',+e.target.value)});
+  stopSpeech();
+  document.getElementById("nav").replaceChildren(...TABS.map(([id, ic, lb]) =>
+    el("button",{class: id === tab ? "on" : "", onclick:() => { tab = id; render(); window.scrollTo(0,0); }}, el("span",{}, ic), lb)));
+  document.getElementById("sub").textContent = DATA ? "Mis à jour : " + fmt(DATA.updated) : "";
+  renderStats();
+  view.replaceChildren();
+  if(tab === "actus") viewActus();
+  else if(tab === "culture") viewCulture();
+  else if(tab === "quiz") viewQuiz();
+  else if(tab === "revision") viewRevision();
+  else viewReglages();
+}
 
 async function load(){
-const j=async f=>{try{const r=await fetch('data/'+f+'?t='+Date.now(),{cache:'no-store'});return r.ok?await r.json():null}catch{return null}};
-D=await j('latest.json');const b=await j('quiz_bank.json');B=(b&&b.questions)||[];
-const dt=D&&D.date?new Date(D.date+'T12:00:00').toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long'}):'';
-$('#d').innerHTML='Brief<small>'+esc(dt)+(D&&D.updated?' · maj '+hm(D.updated):'')+'</small>';render()}
-document.addEventListener('visibilitychange',()=>{if(!document.hidden)load()});
-render();load();
-</script></body></html>
+  try{
+    const r = await fetch("data/latest.json?t=" + Date.now(), {cache:"no-store"});
+    DATA = r.ok ? await r.json() : null;
+  }catch(e){ DATA = null; }
+  try{
+    const r = await fetch("data/quiz_bank.json?t=" + Date.now(), {cache:"no-store"});
+    if(r.ok){ const b = await r.json(); BANK = b.questions || []; }
+  }catch(e){}
+  render();
+}
+
+document.getElementById("refresh").onclick = load;
+load();
+</script>
+</body>
+</html>
