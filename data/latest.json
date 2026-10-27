@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "mode": "morning",
-  "updated": "2026-10-27T10:12:43.926593+01:00",
+  "updated": "2026-10-27T10:37:15.282385+01:00",
   "deja_presente": [
     {
       "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
@@ -70,130 +70,106 @@
   ],
   "depuis_hier": [
     {
-      "titre": "L'Anglais Harry Kane remporte le Ballon d'Or 2026, le premier de sa carrière",
-      "lien": "https://www.france24.com/fr/sports/20261026-l-anglais-harry-kane-remporte-le-ballon-d-or-2026",
-      "source": "France 24",
-      "date": "2026-10-26T23:58:32+01:00",
-      "resume": "L'Anglais Harry Kane a remporté le Ballon d'Or 2026, marquant le premier sacre de sa carrière. Cette distinction individuelle vient couronner ses performances sportives au plus haut niveau. Aucun autre détail chiffré n'est fourni dans l'extrait.",
-      "contexte": "Ce type de récompense consacre les meilleurs footballeurs de la saison écoulée selon les votes de journalistes internationaux. L'obtention de ce trophée renforce le prestige du joueur et marque l'histoire du football de son pays. C'est souvent l'aboutissement d'années de régularité au sommet des compétitions européennes."
-    },
-    {
-      "titre": "Ballon d'or 2026 : l'attaquant du Bayern Munich Harry Kane devient le premier Anglais récompensé depuis 25 ans",
-      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-sacre-a-londres-harry-kane-devient-le-premier-anglais-recompense-depuis-25-ans_8254834.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-26T23:54:14+01:00",
-      "resume": "L'attaquant du Bayern Munich Harry Kane, âgé de 33 ans, a remporté le Ballon d'Or 2026 lundi au terme d'un suspense serré. Il est parvenu à s'imposer face à Kylian Mbappé et Lamine Yamal. Il devient ainsi le premier joueur anglais à recevoir cette récompense depuis 25 ans.",
-      "contexte": "Ce sacre met en lumière la longévité et l'efficacité offensive de l'attaquant au sein de son club allemand. Devancer des talents de premier plan comme Mbappé et Yamal témoigne du niveau très disputé de cette édition. Cela met fin à une longue disette pour le football anglais dans cette catégorie prestigieuse."
-    },
-    {
       "titre": "Ballon d'Or 2026 : l'Espagnol Alexia Putellas, la \"Reine\" prolonge son règne",
       "lien": "https://www.france24.com/fr/sports/20261026-l-espagnole-alexia-putellas-remporte-son-troisi%C3%A8me-ballon-d-or-f%C3%A9minin",
       "source": "France 24",
       "date": "2026-10-26T23:47:16+01:00",
-      "resume": "L'Espagnole Alexia Putellas a remporté lundi le Ballon d'Or féminin pour la troisième fois de sa carrière, après ses victoires en 2021 et 2022. Désormais joueuse des London City Lionesses, elle rejoint au palmarès sa compatriote Aitana Bonmati, qui avait été sacrée lors des trois années précédentes. Cette distinction vient couronner son parcours au plus haut niveau mondial.",
-      "contexte": "La domination des joueuses espagnoles sur le football mondial illustre la très grande qualité de la formation ibérique et le succès de clubs comme le FC Barcelone. Ce troisième trophée permet à Alexia Putellas d'ancrer un peu plus sa légende dans l'histoire du sport féminin. Les rivalités pour ce titre entre coéquipières de la sélection espagnole soulignent la densité exceptionnelle de ce championnat."
-    },
-    {
-      "titre": "🔴 L’Espagnole Alexia Putellas remporte le Ballon d'Or féminin 2026",
-      "lien": "https://www.france24.com/fr/sports/20261026-en-direct-ballon-d-or-2026-suivez-c%C3%A9r%C3%A9monie-remise-des-prix-mbappe-yamal-kane-bonmati-football",
-      "source": "France 24",
-      "date": "2026-10-26T23:36:50+01:00",
-      "resume": "L'Espagnole Alexia Putellas a remporté le Ballon d'Or féminin pour l'édition 2026. L'annonce a été officialisée lundi. Aucun autre détail chiffré ou contextuel n'est fourni dans cet extrait.",
-      "contexte": "Ce prix individuel est le plus prestigieux du football mondial et récompense l'excellence d'une joueuse sur l'ensemble de l'année civile. Il contribue à accroître la visibilité du football féminin à l'échelle internationale. C'est généralement le fruit de victoires majeures remportées tant en sélection nationale qu'en club."
-    },
-    {
-      "titre": "Élections en Israël : Netanyahu ou Eisenkot ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261026-%C3%A9lections-en-isra%C3%ABl-netanyahou-ou-eisenkot",
-      "source": "France 24",
-      "date": "2026-10-26T23:15:47+01:00",
-      "resume": "À la veille des élections législatives en Israël, le scrutin met en lumière deux principaux protagonistes. Il s'agit du Premier ministre sortant Benjamin Netanyahu et de l'ancien chef d'état-major Gadi Eisenkot. L'extrait ne fournit pas de chiffres précis sur ces élections.",
-      "contexte": "Les scrutins législatifs en Israël déterminent la composition de la Knesset et désignent la personnalité chargée de former un gouvernement. Le choix entre ces dirigeants reflète les divisions profondes de la société israélienne sur la sécurité et la gouvernance. L'enjeu est de taille pour l'avenir politique du pays dans une région marquée par des tensions permanentes."
+      "resume": "L'Espagnole Alexia Putellas a remporté le Ballon d'Or féminin 2026 lundi, décrochant ce titre pour la troisième fois de sa carrière après ses victoires en 2021 et 2022. Désormais joueuse des London City Lionesses, elle rejoint au palmarès record sa compatriote Aitana Bonmati, qui s'était imposée lors des trois années précédentes.",
+      "contexte": "Ce nouveau sacre confirme la domination incontestée du football féminin espagnol sur la scène internationale de ces dernières années. Il met également en lumière la longévité et le retour au premier plan d'Alexia Putellas après des passages marqués par des blessures et des transferts."
     }
   ],
   "aujourdhui": [
     {
-      "titre": "EN DIRECT, législatives en Israël : suivez la journée d’élection avec nos correspondants et posez vos questions",
-      "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-suivez-la-journee-d-election-avec-nos-correspondants-et-posez-vos-questions_6801217_3210.html",
-      "source": "Le Monde",
-      "date": "2026-10-27T10:05:01+01:00",
-      "resume": "Les électeurs israéliens se rendent aux urnes le mardi 27 octobre pour le renouvellement de la Knesset, le Parlement de l'État hébreu. Il s'agit du premier scrutin de ce type depuis l'attaque terroriste du 7 octobre 2023. L'un des enjeux majeurs de cette journée d'élection est de déterminer si le Premier ministre sortant, Benyamin Nétanyahou, parviendra à se maintenir au pouvoir.",
-      "contexte": "Ces élections interviennent dans un climat sécuritaire et politique extrêmement lourd pour le pays suite aux événements de 2023. L'issue du vote peut redessiner les équilibres politiques nationaux et influencer la gestion des conflits en cours. Le maintien ou le départ de Benyamin Nétanyahou constitue un tournant historique pour la coalition au pouvoir."
+      "titre": "Gaz : Poutine réunit les grands producteurs à Moscou sur fond de flambée des prix",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261027-gaz-poutine-r%C3%A9unit-les-grands-producteurs-%C3%A0-moscou-sur-fond-de-flamb%C3%A9e-des-prix",
+      "source": "France 24",
+      "date": "2026-10-27T10:34:33+01:00",
+      "resume": "Vladimir Poutine réunit mardi à Moscou les principaux pays exportateurs de gaz, en dépit des sanctions occidentales. Cette rencontre intervient sur fond de flambée des prix de l'énergie à l'approche de l'hiver en raison des fortes tensions sur les approvisionnements.",
+      "contexte": "Cette réunion fait office de démonstration de puissance diplomatique pour la Russie, qui cherche à affirmer son rôle central sur le marché énergétique mondial malgré les restrictions imposées par les Occidentaux. L'enjeu pour les pays producteurs est de coordonner leurs positions face à la volatilité des marchés et aux pressions géopolitiques."
     },
     {
-      "titre": "\"Nous savions tous qu'un jour, les mots de la haine tueraient\" : Omar Sy, Jul, Theodora, Gilles Lellouche… Des personnalités dénoncent le racisme après l'attentat de Trappes",
+      "titre": "\"Nous savions tous qu'un jour, les mots de la haine tueraient\" : Omar Sy, Theodora, Gilles Lellouche… Des personnalités dénoncent le racisme après l'attentat de Trappes",
       "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/nous-savions-tous-qu-un-jour-les-mots-de-la-haine-tueraient-omar-sy-jul-theodora-gilles-lellouche-des-personnalites-denoncent-le-racisme-apres-l-attentat-de-trappes_8255149.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · Le Monde",
+      "date": "2026-10-27T10:33:21+01:00",
+      "resume": "De nombreuses personnalités publiques, dont Omar Sy, Theodora et Gilles Lellouche, ont exprimé leur indignation et dénoncé le racisme à la suite de l'attentat de Trappes. Des milliers de personnes se sont également rassemblées lundi soir dans plusieurs villes de France pour rendre hommage à la victime, Pengo Bossio Wangi, au milieu d'émotions partagées et de prises de position politiques.",
+      "contexte": "Ce drame suscite une vive émotion nationale et relance le débat public sur la montée des actes racistes et le climat social en France. Les réactions des artistes et les rassemblements citoyens traduisent la volonté de peser sur le débat politique et médiatique face aux fractures de la société."
+    },
+    {
+      "titre": "Ballon d'or 2026 : l'attaquant du Bayern Munich Harry Kane devient le premier Anglais récompensé depuis 25 ans",
+      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-sacre-a-londres-harry-kane-devient-le-premier-anglais-recompense-depuis-25-ans_8254834.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · Le Monde",
+      "date": "2026-10-27T10:30:09+01:00",
+      "resume": "L'attaquant anglais du Bayern Munich Harry Kane a remporté le Ballon d'or 2026 lundi, devançant Kylian Mbappé et Lamine Yamal. Agé de 33 ans, il devient le premier joueur anglais à recevoir cette distinction depuis 25 ans. Sa victoire a été saluée par la presse étrangère, qui a mis en avant son excellence discrète.",
+      "contexte": "Le Ballon d'or est la récompense individuelle la plus prestigieuse du football mondial, attribuée chaque année au meilleur joueur de la saison écoulée. Ce sacre consacre la régularité et les performances de l'attaquant au plus haut niveau européen, malgré la forte concurrence de jeunes talents montants et de stars confirmées."
+    },
+    {
+      "titre": "La Jordanie frappe la Syrie après l'attaque contre une église et affirme avoir tué 20 personnnes, Damas recense sept morts",
+      "lien": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-27T09:56:08+01:00",
-      "resume": "Des personnalités publiques, parmi lesquelles Omar Sy, Jul, Theodora et Gilles Lellouche, ont dénoncé publiquement le racisme à la suite de l'attentat de Trappes. Les signataires établissent un lien entre cet attentat et le traitement médiatique d'une journée de manifestation du 17 octobre, qui avait été marquée par des pillages et des dégradations. Ils réclament par ailleurs une minute de silence à l'Assemblée nationale en hommage à Pengo Bossio Wangi, tué par l'assaillant.",
-      "contexte": "Ce type de prise de position collective de personnalités vise à alerter l'opinion publique sur la montée des tensions et des actes racistes dans la société française. Les réactions font suite à un drame qui suspecte des résonances avec le climat social et politique du moment. La demande d'un hommage officiel illustre la volonté de donner une portée nationale à ce drame local."
+      "date": "2026-10-27T10:13:12+01:00",
+      "resume": "La Jordanie a mené des frappes en Syrie ayant fait 20 morts selon Amman, tandis que Damas en recense sept, en réaction à une attaque armée menée vendredi contre une église orthodoxe grecque. Cette attaque inédite avait coûté la vie à neuf personnes dans le royaume jordanien avant que les assaillants ne prennent la fuite.",
+      "contexte": "Cette riposte militaire transfrontalière illustre la détermination des autorités jordaniennes à répondre avec fermeté à toute menace visant sa sécurité intérieure et ses minorités religieuses. La situation sécuritaire à la frontière syrienne reste un sujet de vive préoccupation régionale en raison de l'instabilité chronique de la zone."
+    },
+    {
+      "titre": "Casseurs-payeurs : \"On pourrait également considérer que cette loi porte une atteinte excessive à la liberté de manifester\", décrypte Olivia Ronen, avocate pénaliste",
+      "lien": "https://www.franceinfo.fr/societe/loi-anti-casseurs/casseurs-payeurs-on-pourrait-egalement-considerer-que-cette-loi-porte-une-atteinte-excessive-a-la-liberte-de-manifester-decrypte-olivia-ronen-avocate-penaliste_8255362.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T10:07:52+01:00",
+      "resume": "Le projet de loi dit des « casseurs-payeurs », qui élargit la responsabilité financière des manifestants pour les dégradations commises, est examiné au Sénat ce mardi 27 octobre. L'avocate pénaliste Olivia Ronen a souligné sur franceinfo les interrogations juridiques soulevées par ce texte, estimant qu'il pourrait porter une atteinte excessive à la liberté de manifester.",
+      "contexte": "Ce projet de loi s'inscrit dans le cadre des débats récurrents sur l'encadrement du maintien de l'ordre et le droit de grève ou de manifestation en France. L'objectif affiché par les partisans de la mesure est de responsabiliser les auteurs de violences et de soulager les finances publiques, tandis que ses détracteurs y voient un risque de criminalisation du mouvement social."
+    },
+    {
+      "titre": "Élections en Israël : Netanyahu ou Eisenkot ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261026-%C3%A9lections-en-isra%C3%ABl-netanyahou-ou-eisenkot",
+      "source": "France 24 · Le Monde",
+      "date": "2026-10-27T10:05:01+01:00",
+      "resume": "Les électeurs israéliens sont appelés aux urnes ce mardi 27 octobre pour le renouvellement de la Knesset, le Parlement de l'État hébreu. Ce scrutin, le premier depuis l'attaque du 7 octobre 2023, oppose notamment le Premier ministre sortant Benyamin Nétanyahou à l'ancien chef d'état-major Gadi Eisenkot.",
+      "contexte": "Ces élections législatives constituent un test politique majeur pour Benyamin Nétanyahou, dont la gestion sécuritaire et politique est scrutée depuis les événements d'octobre 2023. L'issue du vote pourrait redéfinir profondément les équilibres politiques du pays et sa trajectoire diplomatique et militaire dans la région."
+    },
+    {
+      "titre": "Présidentielle 2027 : le professeur d'immunologie Éric Vivier appelle les candidats à soutenir la recherche fondamentale",
+      "lien": "https://www.franceinfo.fr/sante/presidentielle-2027-le-professeur-d-immunologie-eric-vivier-appelle-les-candidats-a-soutenir-la-recherche-fondamentale_8255410.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T09:59:29+01:00",
+      "resume": "Le professeur d'immunologie Éric Vivier a lancé un appel sur France Inter à l'attention des candidats à l'élection présidentielle de 2027 pour exiger un soutien accru à la recherche fondamentale. Il a ainsi alerté sur le retard pris par la France en raison d'un manque chronique de financements dans ce secteur.",
+      "contexte": "La question du financement de la recherche scientifique est un sujet récurrent de préoccupation pour la communauté académique française, qui pointe régulièrement le décrochage de la France par rapport à d'autres puissances mondiales. Les échéances électorales sont traditionnellement l'occasion pour les chercheurs de placer ces enjeux au cœur du débat public."
     },
     {
       "titre": "Deux grandes compagnies chinoises rompent leurs contrats avec Kylian Mbappé l'accusant d'avoir \"heurté les sentiments nationaux\"",
       "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/deux-grandes-compagnies-chinoises-rompent-avec-kylian-mbappe-l-accusant-d-avoir-heurte-les-sentiments-nationaux_8255212.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T09:55:53+01:00",
-      "resume": "Deux grandes entreprises chinoises ont rompu leurs contrats avec le footballeur Kylian Mbarté. Elles l'accusent d'avoir heurté les sentiments nationaux. Cette décision fait suite à une référence à Mao Zedong lors d'une interview réalisée avec son coéquipier au Real Madrid, Aurélien Tchouaméni. Aucun chiffre sur les contrats n'est mentionné.",
-      "contexte": "Les marques internationales accordent une attention particulière aux sensibilités politiques et historiques des marchés locaux, en particulier en Chine. Évoquer certaines figures historiques de manière jugée inappropriée peut entraîner des sanctions commerciales immédiates pour préserver l'image des entreprises. C'est une illustration des risques géopolitiques et culturels qui pèsent sur les partenariats des sportifs de premier plan."
+      "resume": "Deux grandes entreprises chinoises ont rompu leurs contrats publicitaires avec Kylian Mbappé après des propos tenus lors d'une interview avec son coéquipier Aurélien Tchouaméni. Les marques l'accusent d'avoir « heurté les sentiments nationaux » en faisant une référence à Mao Zedong.",
+      "contexte": "Ce type de boycott illustre la sensibilité extrême des marques et des opinions publiques asiatiques, en particulier en Chine, face à toute évocation de figures historiques sensibles. Pour les sportifs de stature internationale, les prises de parole ou les références culturelles peuvent parfois avoir d'importantes répercussions économiques et diplomatiques sur leurs contrats de parrainage."
     },
     {
       "titre": "Mobilisation des lycéens : les syndicats disent voir \"une petite brèche\" et veulent \"continuer à utiliser ce rapport de forces\"",
       "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-les-syndicats-disent-voir-une-petite-breche-et-veulent-continuer-a-utiliser-ce-rapport-de-forces_8255338.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T09:49:36+01:00",
-      "resume": "Les syndicats étudiants et lycéens, notamment 'Les Lycéens!' et la Fage, estiment que le gouvernement a fait un 'premier pas' pour répondre à leur colère. S'exprimant sur France Inter, ils considèrent qu'il s'agit d'une 'petite brèche' et affirment vouloir continuer à utiliser ce rapport de forces. Ils jugent toutefois que les mesures annoncées à ce stade restent insuffisantes.",
-      "contexte": "Ce type de mobilisation traduit un mécontentement persistant de la jeunesse face à des réformes ou à la précarité étudiante. Les organisations syndicales cherchent à maintenir la pression sur l'exécutif pour obtenir des avancées concrètes sur leurs revendications. La stratégie consiste à capitaliser sur ces premiers signaux d'ouverture pour amplifier le mouvement."
-    },
-    {
-      "titre": "La France insoumise réclame une commission d'enquête parlementaire pour \"établir les responsabilités\" sur l'attentat raciste dans les Yvelines",
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-france-insoumise-reclame-une-commission-d-enquete-parlementaire-pour-etablir-les-responsabilites-sur-l-attentat-raciste-dans-les-yvelines_8255395.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T09:44:53+01:00",
-      "resume": "La France insoumise réclame la création d'une commission d'enquête parlementaire pour établir les responsabilités dans l'attentat raciste survenu dans les Yvelines. Clémence Guetté, députée du Val-de-Marne et vice-présidente de l'Assemblée nationale, met en cause la responsabilité du gouvernement dans la libération de la parole raciste. L'extrait ne donne pas de chiffre précis sur cette demande.",
-      "contexte": "L'utilisation d'une commission d'enquête parlementaire est un outil institutionnel d'opposition pour contraindre l'exécutif à s'expliquer sur la gestion de crises ou de drames sociétaux. Ce type de démarche vise à porter le débat politique sur le terrain de la responsabilité gouvernementale face à la montée des actes de haine. C'est un moyen d'exercer un contrôle sur l'action de l'État."
-    },
-    {
-      "titre": "\"Jusqu'à -40 % de volume de consommation\" : Le patron de Coopérative U évoque un \"véritable effondrement de la consommation de carburant\" en octobre",
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/jusqu-a-40-de-volume-de-consommation-le-patron-de-cooperative-u-evoque-un-veritable-effondrement-de-la-consommation-de-carburant-en-octobre_8255380.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T09:44:44+01:00",
-      "resume": "Le patron de Coopérative U a fait état mi-octobre d'un véritalbe effondrement de la consommation de carburant, avec des volumes en baisse pouvant atteindre -40 %. Cette situation intervient alors que le Premier ministre a promis que les prix du gazole baisseraient pour les consommateurs dès le 1er novembre. Selon le gouvernement, cette baisse attendue pourrait représenter environ dix euros d'économies par plein en moyenne.",
-      "contexte": "L'annonce d'une baisse future des prix incite souvent les consommateurs à reporter leurs achats de carburant, ce qui provoque des chutes temporaires de volumes pour la grande distribution. Cet attentisme pèse sur l'activité des stations-service à court terme dans l'attente de la mesure gouvernementale. C'est un indicateur de la sensibilité accrue des ménages aux coûts de l'énergie dans un contexte d'inflation."
-    },
-    {
-      "titre": "\"Parcoursup a été un progrès énorme\" : sous le feu des critiques, Jean-Michel Blanquer défend son bilan",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-a-ete-un-progres-enorme-sous-le-feu-des-critiques-l-ancien-ministre-de-l-education-nationale-jean-michel-blanquer-defend-son-bilan_8255266.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T09:38:02+01:00",
-      "resume": "L'ancien ministre de l'Éducation nationale Jean-Michel Blanquer a défendu son bilan sur franceinfo mardi. Il a notamment qualifié la plateforme d'admission Parcoursup de 'progrès énorme'. Cette prise de parole intervient alors que le dispositif continue de faire l'objet de critiques.",
-      "contexte": "La plateforme Parcoursup sus régulièrement des débats houleux concernant la transparence et l'angoisse générée chez les lycéens lors de l'orientation post-bac. Les anciens ministres interviennent souvent dans les médias pour légiférer ou justifier les réformes structurantes de leur mandat face aux contestations. Cela participe au débat public sur l'efficacité et l'équité du système éducatif français."
-    },
-    {
-      "titre": "La Jordanie frappe la Syrie après l'attaque contre une église, provoquant la mort de huit personnes, dont trois enfants",
-      "lien": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T09:34:09+01:00",
-      "resume": "La Jordanie a mené des frappes en Syrie en réponse à une attaque perpétrée contre une église orthodoxe grecque, faisant huit morts, dont trois enfants. L'attaque initiale, survenue vendredi, avait coûté la vie à neuf personnes tuées par des hommes armés qui ont ensuite pris la fuite. Les autorités jordaniennes avaient juré de réagir avec fermeté à cet événement sans précédent visant les chrétiens du royaume.",
-      "contexte": "Cette riposte militaire transfrontalière illustre la détermination des autorités jordaniennes à protéger leur sécurité intérieure et les minorités religieuses du pays. Les tensions régionales poussent parfois les États voisins à intervenir militairement en territoire syrien pour neutraliser des menaces. C'est une illustration des répercussions sécuritaires des conflits du Proche-Orient sur les nations limitrophes."
+      "resume": "Les syndicats étudiants et lycéens, notamment 'Les Lycéens!' et la Fage, estiment que les récentes annonces du gouvernement constituent un « premier pas » mais restent insuffisants. Ils entendent maintenir la pression et poursuivre leur mobilisation en exploitant ce qu'ils qualifient de « petite brèche ».",
+      "contexte": "Cette contestation s'inscrit dans un climat de tensions sociales où les syndicats cherchent à capitaliser sur le mécontentement de la jeunesse face aux réformes ou aux conditions de vie étudiante. La poursuite du mouvement vise à contraindre l'exécutif à ouvrir de véritables négociations et à accorder des concessions supplémentaires."
     }
   ],
   "culture": [
     {
-      "theme": "mythologie grecque",
-      "titre": "Le fil d'Ariane",
-      "texte": "Dans la mythologie grecque, Ariane est la fille du roi Minos de Crète. Amoureuse du héros Thésée, elle décide de l'aider à s'échapper du redoutable Labyrinthe après qu'il a vaincu le Minotaure. Pour cela, elle lui donne une pelote de fil qu'il déroule tout au long de son chemin. Grâce à cette astuce ingénieuse, Thésée parvient à retrouver la sortie sans se perdre. Cette histoire a donné naissance à l'expression populaire désignant un guide ou un moyen de se repérer dans une situation complexe.",
-      "a_retenir": "Le fil d'Ariane symbolise le moyen infaillible de se diriger ou de s'en sortir dans une situation difficile."
-    },
-    {
-      "theme": "géographie et pays du monde",
-      "titre": "Le Lesotho, pays dans les nuages",
-      "texte": "Le Lesotho est un petit pays enclavé entièrement entouré par le territoire de l'Afrique du Sud. Sa particularité géographique majeure est son altitude extrêmement élevée. En effet, c'est le seul pays au monde dont l'intégralité du territoire se situe au-dessus de mille mètres d'altitude. Cette topographie montagneuse lui vaut le surnom poétique de « Royaume dans le ciel ». Ses paysages sont dominés par de superbes hauts plateaux et des sommets souvent enneigés en hiver.",
-      "a_retenir": "Le Lesotho est le seul pays au monde dont tout le territoire est situé à plus de mille mètres d'altitude."
-    },
-    {
       "theme": "sport",
-      "titre": "L'origine du mot « tennis »",
-      "texte": "Le tennis trouve ses lointaines origines dans un jeu médiéval français appelé le jeu de paume, où les joueurs frappaient la balle avec la main. Au Moyen Âge, les moines et les nobles qui y jouaient avaient l'habitude de crier un mot en lançant le service pour prévenir leur adversaire. Ce cri était « Tenez ! », signifiant « Préparez-vous à recevoir la balle ! ». Les Britanniques, en important et codifiant le jeu au dix-neuvième siècle, ont phonétiquement transformé ce terme pour donner le mot « tennis ».",
-      "a_retenir": "Le mot tennis vient directement du cri « tenez ! » lancé par les joueurs français du jeu de paume."
+      "titre": "L'invention du rugby moderne",
+      "texte": "Selon la légende populaire, le rugby serait né en Angleterre lorsqu'un élève de la ville de Rugby, William Webb Ellis, aurait attrapé le ballon à pleines mains lors d'un match de football pour courir vers le but adverse. Si cette histoire est aujourd'hui considérée comme un mythe romancé, elle a donné son nom à ce sport de combat collectif. Les premières règles officielles ont été codifiées au XIXe siècle par des étudiants pour harmoniser les pratiques entre différents collèges britanniques. Ce jeu est rapidement devenu un vecteur d'éducation physique et de valeurs morales dans l'Empire britannique. Aujourd'hui, il se caractérise par un mélange unique de rudesse physique, de stratégie tactique et de respect absolu entre adversaires.",
+      "a_retenir": "Le rugby s'est structuré au XIXe siècle dans les collèges britanniques, transformant une variante du football en un sport fondé sur la rigueur et le respect."
+    },
+    {
+      "theme": "origine des grands événements ou conflits actuels",
+      "titre": "Les origines de la Ligne verte à Chypre",
+      "texte": "La partition actuelle de l'île de Chypre trouve ses racines profondes dans les tensions intercommunautaires entre les populations chypriotes grecques et turques après l'indépendance vis-à-vis du Royaume-Uni. En mil neuf cent soixante-quatorze, un coup d'État nationaliste grec visant le rattachement de l'île à la Grèce a provoqué une intervention militaire de la Turquie. L'armée turque a alors pris le contrôle du tiers nord du territoire pour protéger la minorité turcophone. Une zone tampon patrouillée par les Nations unies, connue sous le nom de Ligne verte, a été tracée pour séparer les deux communautés. Cette division politique et géographique perdure encore aujourd'hui, faisant de la capitale Nicosie l'une des dernières villes divisées d'Europe.",
+      "a_retenir": "La Ligne verte à Chypre est une zone tampon de l'ONU créée en 1974 suite à une intervention militaire turque, divisant durablement l'île en deux."
+    },
+    {
+      "theme": "histoire",
+      "titre": "Le mystère de la disparition de la civilsation minoenne",
+      "texte": "La civilisation minoenne, l'une des plus brillantes de l'âge du bronze en Méditerranée, s'est épanouie sur l'île de Crète autour du somptueux palais de Cnossos. Connue pour son art raffiné, son écriture non déchiffrée et sa puissance maritime, elle a dominé la région pendant des siècles. Sa fin brutale, survenue au milieu du deuxième millénaire avant notre ère, a longtemps fasciné les historiens et les archéologues. Aujourd'hui, la majorité des scientifiques s'accorde à dire qu'une gigantesque éruption volcanique sur l'île voisine de Théra, aujourd'hui Santorin, a déclenché des tsunamis dévastateurs et des pluies de cendre. Cet cataclysme naturel a affaibli irrémédiablement l'économie minoenne, facilitant par la suite l'invasion de l'île par les Mycéniens venus du continent grec.",
+      "a_retenir": "La puissante civilisation minoenne de Crète a périclité à la suite des ravages causés par l'éruption volcanique de Santorin et des invasions terrestres."
     }
   ],
   "quiz_jour": []
