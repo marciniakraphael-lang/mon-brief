@@ -299,6 +299,111 @@
       "reponse": 1,
       "explication": "Les marins ont ressenti le besoin de cartographier les vents dominants pour naviguer en toute sécurité, créant ainsi la rose des vents.",
       "lien": ""
+    },
+    {
+      "id": "f07892bf2a",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel événement marquant a caractérisé le début des élections législatives en Israël ?",
+      "choix": [
+        "Des cyberattaques contre la Commission électorale",
+        "Un boycott massif de l'opposition",
+        "Une participation record depuis 1981",
+        "Le report du scrutin en raison des intempéries"
+      ],
+      "reponse": 2,
+      "explication": "Le scrutin a connu une participation de 16,68 % dès le mardi matin, soit le taux le plus élevé enregistré depuis 1981.",
+      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "0f243c2c9a",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Pourquoi le patron de Coopérative U évoque-t-il un effondrement de la consommation de carburant en octobre ?",
+      "choix": [
+        "Suite à l'interdiction de rouler certains jours de la semaine",
+        "À cause d'une taxe exceptionnelle votée par le gouvernement",
+        "À cause de pénuries massives dans les raffineries",
+        "En raison de l'attente des consommateurs face à une baisse des prix promise au 1er novembre"
+      ],
+      "reponse": 3,
+      "explication": "L'attente de la baisse promise du carburant au 1er novembre a entraîné un report des achats et une chute brutale des volumes en octobre.",
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/jusqu-a-40-de-volume-de-consommation-le-patron-de-cooperative-u-evoque-un-veritable-effondrement-de-la-consommation-de-carburant-en-octobre_8255380.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e72467c6bc",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Suite à quel événement de nombreuses personnalités, dont Omar Sy et Gilles Lellouche, ont-elles dénoncé le racisme ?",
+      "choix": [
+        "L'attentat de Trappes",
+        "La profanation d'un lieu de culte à Toulouse",
+        "Les incidents lors d'un match de football",
+        "Une agression dans le métro parisien"
+      ],
+      "reponse": 0,
+      "explication": "Les personnalités ont dénoncé le racisme à la suite de l'attentat de Trappes et de la mort de Pengo Bossio Wangi.",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/nous-savions-tous-qu-un-jour-les-mots-de-la-haine-tueraient-omar-sy-jul-theodora-gilles-lellouche-des-personnalites-denoncent-le-racisme-apres-l-attentat-de-trappes_8255149.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "ef87469d5e",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quelle a été la cause de la riposte militaire de la Jordanie contre la Syrie ?",
+      "choix": [
+        "Une attaque contre une église touchant sa communauté chrétienne",
+        "Un accrochage frontalier entre gardes-frontières",
+        "Le non-respect d'un accord commercial",
+        "Un différend sur le partage des eaux"
+      ],
+      "reponse": 0,
+      "explication": "La Jordanie a frappé la Syrie en réponse à un attentat rarissime ayant touché sa communauté chrétienne.",
+      "lien": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "b30d2e65f6",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Pourquoi deux grandes compagnies chinoises ont-elles rompu leurs contrats avec Kylian Mbappé ?",
+      "choix": [
+        "Il a signé un contrat exclusif avec une marque concurrente",
+        "Elles l'accusaient d'avoir heurté les sentiments nationaux",
+        "Il a refusé de participer à une tournée en Asie",
+        "Il a demandé une revalorisation salariale trop importante"
+      ],
+      "reponse": 1,
+      "explication": "Les compagnies l'ont accusé d'avoir 'heurté les sentiments nationaux', illustrant la sensibilité des marchés asiatiques.",
+      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/deux-grandes-compagnies-chinoises-rompent-avec-kylian-mbappe-l-accusant-d-avoir-heurte-les-sentiments-nationaux_8255212.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "a0bee108a8",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Selon la légende populaire, quel personnage est à l'origine de l'invention du rugby moderne en Angleterre ?",
+      "choix": [
+        "Thomas Arnold",
+        "Arthur Wellesley de Wellington",
+        "William Webb Ellis",
+        "Henry Newbolt"
+      ],
+      "reponse": 2,
+      "explication": "La légende veut que William Webb Ellis ait attrapé le ballon à pleines mains lors d'un match de football pour courir vers le but.",
+      "lien": ""
+    },
+    {
+      "id": "bb44b29c41",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Quel événement majeur est considéré par la majorité des scientifiques comme la cause de la fin de la civilisation minoenne ?",
+      "choix": [
+        "Une épidémie de peste noire",
+        "Un réchauffement climatique soudain",
+        "Une invasion de l'Empire romain",
+        "Une gigantesque éruption volcanique sur l'île de Théra"
+      ],
+      "reponse": 3,
+      "explication": "Une éruption volcanique sur l'île voisine de Théra (Santorin) a déclenché des tsunamis et des pluies de cendre destructeurs pour l'économie minoenne.",
+      "lien": ""
     }
   ]
 }

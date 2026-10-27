@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
-  "mode": "morning",
-  "updated": "2026-10-27T10:37:15.282385+01:00",
+  "mode": "evening",
+  "updated": "2026-10-27T10:40:08.851634+01:00",
   "deja_presente": [
     {
       "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
@@ -80,76 +80,84 @@
   ],
   "aujourdhui": [
     {
+      "titre": "Elections législatives en Israël : un début de scrutin marqué par la plus forte participation depuis 1981, selon la Commission électorale",
+      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · Le Monde",
+      "date": "2026-10-27T10:35:31+01:00",
+      "resume": "Plus de sept millions d'Israéliens sont appelés aux urnes mardi 27 octobre pour le renouvellement de la Knesset, le Parlement de l'État hébreu. Le scrutin est marqué par une participation record, atteignant 16,68 % dès le mardi matin, soit le taux le plus haut enregistré depuis 1981 selon la Commission électorale. Cette élection constitue la première depuis les attentats du 7 octobre 2023.",
+      "contexte": "Ce scrutin prend la forme d'un référendum pour ou contre le maintien au pouvoir du Premier ministre sortant Benyamin Nétanyahou, en très mauvaise posture politique depuis les attaques de 2023. Les enjeux sécuritaires et politiques sont immenses dans un pays profondément divisé, l'issue de l'élection pouvant redessiner durablement les équilibres au Proche-Orient."
+    },
+    {
       "titre": "Gaz : Poutine réunit les grands producteurs à Moscou sur fond de flambée des prix",
       "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261027-gaz-poutine-r%C3%A9unit-les-grands-producteurs-%C3%A0-moscou-sur-fond-de-flamb%C3%A9e-des-prix",
       "source": "France 24",
       "date": "2026-10-27T10:34:33+01:00",
-      "resume": "Vladimir Poutine réunit mardi à Moscou les principaux pays exportateurs de gaz, en dépit des sanctions occidentales. Cette rencontre intervient sur fond de flambée des prix de l'énergie à l'approche de l'hiver en raison des fortes tensions sur les approvisionnements.",
-      "contexte": "Cette réunion fait office de démonstration de puissance diplomatique pour la Russie, qui cherche à affirmer son rôle central sur le marché énergétique mondial malgré les restrictions imposées par les Occidentaux. L'enjeu pour les pays producteurs est de coordonner leurs positions face à la volatilité des marchés et aux pressions géopolitiques."
+      "resume": "Cette rencontre au sommet permet à Moscou de réAffirmer son poid géopolitique sur le marché énergétique mondial malgré les sanctions. La flambée des prix liée aux tensions d'approvisionnement fait peser des risques importants sur les consommateurs européens et mondiaux à l'approche de la saison froide, renforçant le levier d'influence des pays producteurs.",
+      "contexte": "Vladimir Poutine réunit mardi à Moscou les principaux pays exportateurs de gaz pour une démonstration de force diplomatique. Cette réunion intervient malgré les sanctions occidentales et alors que les tensions sur les approvisionnements font s'envoler les prix à l'approche de l'hiver."
+    },
+    {
+      "titre": "\"Jusqu'à -40% de volume de consommation\" : le patron de Coopérative U évoque un \"véritable effondrement de la consommation de carburant\" en octobre",
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/jusqu-a-40-de-volume-de-consommation-le-patron-de-cooperative-u-evoque-un-veritable-effondrement-de-la-consommation-de-carburant-en-octobre_8255380.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T10:33:32+01:00",
+      "resume": "L'attente des consommateurs face à la baisse promise du carburant au 1er novembre entraîne un net report des achats et une chute brutale des volumes vendus en octobre. Cette baisse des prix à la pompe vise à soulager le pouvoir d'achat des automobilistes face à la hausse générale du coût de la vie.",
+      "contexte": "Le patron de Coopérative U a évoqué mardi un véritable effondrement de la consommation de carburant, avec jusqu'à -40 % de volume consommé en octobre. Cette situation intervient alors que le Premier ministre a promis mi-octobre une baisse des prix du gazole pour les consommateurs dès le 1er novembre, représentant environ dix euros d'économies par plein."
     },
     {
       "titre": "\"Nous savions tous qu'un jour, les mots de la haine tueraient\" : Omar Sy, Theodora, Gilles Lellouche… Des personnalités dénoncent le racisme après l'attentat de Trappes",
       "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/nous-savions-tous-qu-un-jour-les-mots-de-la-haine-tueraient-omar-sy-jul-theodora-gilles-lellouche-des-personnalites-denoncent-le-racisme-apres-l-attentat-de-trappes_8255149.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo · Le Monde",
       "date": "2026-10-27T10:33:21+01:00",
-      "resume": "De nombreuses personnalités publiques, dont Omar Sy, Theodora et Gilles Lellouche, ont exprimé leur indignation et dénoncé le racisme à la suite de l'attentat de Trappes. Des milliers de personnes se sont également rassemblées lundi soir dans plusieurs villes de France pour rendre hommage à la victime, Pengo Bossio Wangi, au milieu d'émotions partagées et de prises de position politiques.",
-      "contexte": "Ce drame suscite une vive émotion nationale et relance le débat public sur la montée des actes racistes et le climat social en France. Les réactions des artistes et les rassemblements citoyens traduisent la volonté de peser sur le débat politique et médiatique face aux fractures de la société."
+      "resume": "De nombreuses personnalités, parmi lesquelles Omar Sy, Theodora et Gilles Lellouche, ont dénoncé le racisme à la suite de l'attentat de Trappes, établissant un lien avec le traitement médiatique de la manifestation du 17 octobre. Des milliers de personnes se sont également rassemblées lundi soir dans des villes comme Paris, Toulouse et Vénissieux pour rendre hommage aux victimes et exprimer leur émotion après la mort de Pengo Bossio Wangi, tué par l'assaillant.",
+      "contexte": "Ce drame ravive les tensions autour des questions de racisme, de sécurité et du traitement médiatique des mouvements sociaux en France. Les réactions contrastées des responsables politiques et des collectifs militants lors des hommages illustrent les divergences profondes qui traversent la société sur ces sujets."
     },
     {
-      "titre": "Ballon d'or 2026 : l'attaquant du Bayern Munich Harry Kane devient le premier Anglais récompensé depuis 25 ans",
-      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-sacre-a-londres-harry-kane-devient-le-premier-anglais-recompense-depuis-25-ans_8254834.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · Le Monde",
+      "titre": "« Une superstar à l’excellence discrète » : le triomphe de Harry Kane au Ballon d’or 2026 salué par la presse étrangère",
+      "lien": "https://www.lemonde.fr/sport/article/2026/10/27/une-superstar-a-l-excellence-discrete-le-triomphe-de-harry-kane-au-ballon-d-or-2026-salue-par-la-presse-etrangere_6801220_3242.html",
+      "source": "Le Monde",
       "date": "2026-10-27T10:30:09+01:00",
-      "resume": "L'attaquant anglais du Bayern Munich Harry Kane a remporté le Ballon d'or 2026 lundi, devançant Kylian Mbappé et Lamine Yamal. Agé de 33 ans, il devient le premier joueur anglais à recevoir cette distinction depuis 25 ans. Sa victoire a été saluée par la presse étrangère, qui a mis en avant son excellence discrète.",
-      "contexte": "Le Ballon d'or est la récompense individuelle la plus prestigieuse du football mondial, attribuée chaque année au meilleur joueur de la saison écoulée. Ce sacre consacre la régularité et les performances de l'attaquant au plus haut niveau européen, malgré la forte concurrence de jeunes talents montants et de stars confirmées."
+      "resume": "Ce sacre vient récompenser la régularité et les performances de haut niveau de l'attaquant sur la scène internationale. Il illustre également une forme de reconnaissance du talent brut et du travail d'équipe par rapport aux stratégies de communication médiatique.",
+      "contexte": "L'attaquant anglais Harry Kane a remporté lundi le Ballon d'Or 2026 devant Kylian Mbappé (2e) et Lamine Yamal (3e), salué par la presse étrangère comme une superstar à l'excellence discrète. Contrairement à ses principaux concurrents, il n'avait pas mené de campagne d'autopromotion intense."
     },
     {
       "titre": "La Jordanie frappe la Syrie après l'attaque contre une église et affirme avoir tué 20 personnnes, Damas recense sept morts",
       "lien": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T10:13:12+01:00",
-      "resume": "La Jordanie a mené des frappes en Syrie ayant fait 20 morts selon Amman, tandis que Damas en recense sept, en réaction à une attaque armée menée vendredi contre une église orthodoxe grecque. Cette attaque inédite avait coûté la vie à neuf personnes dans le royaume jordanien avant que les assaillants ne prennent la fuite.",
-      "contexte": "Cette riposte militaire transfrontalière illustre la détermination des autorités jordaniennes à répondre avec fermeté à toute menace visant sa sécurité intérieure et ses minorités religieuses. La situation sécuritaire à la frontière syrienne reste un sujet de vive préoccupation régionale en raison de l'instabilité chronique de la zone."
+      "resume": "Cette opération militaire transfrontalière marque une riposte extrêmement ferme de la Jordanie suite à un attentat rarissime ayant touché sa communauté chrétienne. Cette escalade illustre l'instabilité persistante aux frontières syriennes et la volonté des États voisins de réagir militairement pour assurer leur sécurité intérieure.",
+      "contexte": "Les autorités jordaniennes ont mené des frappes en Syrie faisant 20 morts selon Amman, tandis que Damas en recense sept, en réaction à l'attaque sans précédent menée vendredi contre une église orthodoxe grecque en Jordanie où neuf personnes avaient été tuées par des hommes armés."
     },
     {
       "titre": "Casseurs-payeurs : \"On pourrait également considérer que cette loi porte une atteinte excessive à la liberté de manifester\", décrypte Olivia Ronen, avocate pénaliste",
       "lien": "https://www.franceinfo.fr/societe/loi-anti-casseurs/casseurs-payeurs-on-pourrait-egalement-considerer-que-cette-loi-porte-une-atteinte-excessive-a-la-liberte-de-manifester-decrypte-olivia-ronen-avocate-penaliste_8255362.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T10:07:52+01:00",
-      "resume": "Le projet de loi dit des « casseurs-payeurs », qui élargit la responsabilité financière des manifestants pour les dégradations commises, est examiné au Sénat ce mardi 27 octobre. L'avocate pénaliste Olivia Ronen a souligné sur franceinfo les interrogations juridiques soulevées par ce texte, estimant qu'il pourrait porter une atteinte excessive à la liberté de manifester.",
-      "contexte": "Ce projet de loi s'inscrit dans le cadre des débats récurrents sur l'encadrement du maintien de l'ordre et le droit de grève ou de manifestation en France. L'objectif affiché par les partisans de la mesure est de responsabiliser les auteurs de violences et de soulager les finances publiques, tandis que ses détracteurs y voient un risque de criminalisation du mouvement social."
-    },
-    {
-      "titre": "Élections en Israël : Netanyahu ou Eisenkot ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261026-%C3%A9lections-en-isra%C3%ABl-netanyahou-ou-eisenkot",
-      "source": "France 24 · Le Monde",
-      "date": "2026-10-27T10:05:01+01:00",
-      "resume": "Les électeurs israéliens sont appelés aux urnes ce mardi 27 octobre pour le renouvellement de la Knesset, le Parlement de l'État hébreu. Ce scrutin, le premier depuis l'attaque du 7 octobre 2023, oppose notamment le Premier ministre sortant Benyamin Nétanyahou à l'ancien chef d'état-major Gadi Eisenkot.",
-      "contexte": "Ces élections législatives constituent un test politique majeur pour Benyamin Nétanyahou, dont la gestion sécuritaire et politique est scrutée depuis les événements d'octobre 2023. L'issue du vote pourrait redéfinir profondément les équilibres politiques du pays et sa trajectoire diplomatique et militaire dans la région."
+      "resume": "Ce texte suscite de forts débats juridiques et politiques, certains experts estimant qu'il pourrait porter une atteinte excessive à la liberté fondamentale de manifester. Il s'inscrit dans le cadre des mesures gouvernementales visant à répondre aux violences urbaines et aux dégradations lors des mouvements sociaux.",
+      "contexte": "L'avocate pénaliste Olivia Ronen est revenue mardi 27 octobre sur le projet de loi 'casseurs-payeurs' examiné au Sénat, qui élargit la responsabilité financière des manifestants pour les dégâts commis."
     },
     {
       "titre": "Présidentielle 2027 : le professeur d'immunologie Éric Vivier appelle les candidats à soutenir la recherche fondamentale",
       "lien": "https://www.franceinfo.fr/sante/presidentielle-2027-le-professeur-d-immunologie-eric-vivier-appelle-les-candidats-a-soutenir-la-recherche-fondamentale_8255410.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T09:59:29+01:00",
-      "resume": "Le professeur d'immunologie Éric Vivier a lancé un appel sur France Inter à l'attention des candidats à l'élection présidentielle de 2027 pour exiger un soutien accru à la recherche fondamentale. Il a ainsi alerté sur le retard pris par la France en raison d'un manque chronique de financements dans ce secteur.",
-      "contexte": "La question du financement de la recherche scientifique est un sujet récurrent de préoccupation pour la communauté académique française, qui pointe régulièrement le décrochage de la France par rapport à d'autres puissances mondiales. Les échéances électorales sont traditionnellement l'occasion pour les chercheurs de placer ces enjeux au cœur du débat public."
+      "resume": "Cet appel met en lumière les difficultés structurelles de la recherche scientifique française face à la concurrence internationale. Les enjeux portent sur l'innovation médicale, l'attractivité des chercheurs et la souveraineté sanitaire du pays à long terme.",
+      "contexte": "Le professeur d'immunologie Éric Vivier a lancé un appel sur France Inter pour que les candidats à la présidentielle de 2027 soutiennent la recherche fondamentale, alertant sur le retard pris par la France en raison du manque de financements."
     },
     {
       "titre": "Deux grandes compagnies chinoises rompent leurs contrats avec Kylian Mbappé l'accusant d'avoir \"heurté les sentiments nationaux\"",
       "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/deux-grandes-compagnies-chinoises-rompent-avec-kylian-mbappe-l-accusant-d-avoir-heurte-les-sentiments-nationaux_8255212.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T09:55:53+01:00",
-      "resume": "Deux grandes entreprises chinoises ont rompu leurs contrats publicitaires avec Kylian Mbappé après des propos tenus lors d'une interview avec son coéquipier Aurélien Tchouaméni. Les marques l'accusent d'avoir « heurté les sentiments nationaux » en faisant une référence à Mao Zedong.",
-      "contexte": "Ce type de boycott illustre la sensibilité extrême des marques et des opinions publiques asiatiques, en particulier en Chine, face à toute évocation de figures historiques sensibles. Pour les sportifs de stature internationale, les prises de parole ou les références culturelles peuvent parfois avoir d'importantes répercussions économiques et diplomatiques sur leurs contrats de parrainage."
+      "resume": "Cet épisode illustre la sensibilité extrême des marchés asiatiques, en particulier chinois, aux questions mémorielles et politiques concernant leurs dirigeants historiques. Pour les sportifs de premier plan, cela démontre l'impact économique direct que peuvent avoir des déclarations informelles sur leur image internationale.",
+      "contexte": "Deux grandes compagnies chinoises ont rompu leurs contrats publicitaires avec Kylian Mbappé après une référence à Mao Zedong lors d'une interview avec Aurélien Tchouaméni, jugée offensante pour les sentiments nationaux en Chine."
     },
     {
       "titre": "Mobilisation des lycéens : les syndicats disent voir \"une petite brèche\" et veulent \"continuer à utiliser ce rapport de forces\"",
       "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-les-syndicats-disent-voir-une-petite-breche-et-veulent-continuer-a-utiliser-ce-rapport-de-forces_8255338.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T09:49:36+01:00",
-      "resume": "Les syndicats étudiants et lycéens, notamment 'Les Lycéens!' et la Fage, estiment que les récentes annonces du gouvernement constituent un « premier pas » mais restent insuffisants. Ils entendent maintenir la pression et poursuivre leur mobilisation en exploitant ce qu'ils qualifient de « petite brèche ».",
-      "contexte": "Cette contestation s'inscrit dans un climat de tensions sociales où les syndicats cherchent à capitaliser sur le mécontentement de la jeunesse face aux réformes ou aux conditions de vie étudiante. La poursuite du mouvement vise à contraindre l'exécutif à ouvrir de véritables négociations et à accorder des concessions supplémentaires."
+      "resume": "Bien qu'ils perçoivent une 'petite brèche' dans la position de l'exécutif, les syndicats maintiennent la pression et comptent poursuivre le rapport de forces. La mobilisation des jeunes continue ainsi de peser sur l'agenda politique et social.",
+      "contexte": "Les syndicats étudiants et lycéens (Les Lycéens! et la Fage) estiment que les récentes annonces du gouvernement constituent un premier pas face à leur colère, mais restent insuffisantes."
     }
   ],
   "culture": [
@@ -172,5 +180,111 @@
       "a_retenir": "La puissante civilisation minoenne de Crète a périclité à la suite des ravages causés par l'éruption volcanique de Santorin et des invasions terrestres."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "f07892bf2a",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel événement marquant a caractérisé le début des élections législatives en Israël ?",
+      "choix": [
+        "Des cyberattaques contre la Commission électorale",
+        "Un boycott massif de l'opposition",
+        "Une participation record depuis 1981",
+        "Le report du scrutin en raison des intempéries"
+      ],
+      "reponse": 2,
+      "explication": "Le scrutin a connu une participation de 16,68 % dès le mardi matin, soit le taux le plus élevé enregistré depuis 1981.",
+      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "0f243c2c9a",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Pourquoi le patron de Coopérative U évoque-t-il un effondrement de la consommation de carburant en octobre ?",
+      "choix": [
+        "Suite à l'interdiction de rouler certains jours de la semaine",
+        "À cause d'une taxe exceptionnelle votée par le gouvernement",
+        "À cause de pénuries massives dans les raffineries",
+        "En raison de l'attente des consommateurs face à une baisse des prix promise au 1er novembre"
+      ],
+      "reponse": 3,
+      "explication": "L'attente de la baisse promise du carburant au 1er novembre a entraîné un report des achats et une chute brutale des volumes en octobre.",
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/jusqu-a-40-de-volume-de-consommation-le-patron-de-cooperative-u-evoque-un-veritable-effondrement-de-la-consommation-de-carburant-en-octobre_8255380.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e72467c6bc",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Suite à quel événement de nombreuses personnalités, dont Omar Sy et Gilles Lellouche, ont-elles dénoncé le racisme ?",
+      "choix": [
+        "L'attentat de Trappes",
+        "La profanation d'un lieu de culte à Toulouse",
+        "Les incidents lors d'un match de football",
+        "Une agression dans le métro parisien"
+      ],
+      "reponse": 0,
+      "explication": "Les personnalités ont dénoncé le racisme à la suite de l'attentat de Trappes et de la mort de Pengo Bossio Wangi.",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/nous-savions-tous-qu-un-jour-les-mots-de-la-haine-tueraient-omar-sy-jul-theodora-gilles-lellouche-des-personnalites-denoncent-le-racisme-apres-l-attentat-de-trappes_8255149.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "ef87469d5e",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quelle a été la cause de la riposte militaire de la Jordanie contre la Syrie ?",
+      "choix": [
+        "Une attaque contre une église touchant sa communauté chrétienne",
+        "Un accrochage frontalier entre gardes-frontières",
+        "Le non-respect d'un accord commercial",
+        "Un différend sur le partage des eaux"
+      ],
+      "reponse": 0,
+      "explication": "La Jordanie a frappé la Syrie en réponse à un attentat rarissime ayant touché sa communauté chrétienne.",
+      "lien": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "b30d2e65f6",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Pourquoi deux grandes compagnies chinoises ont-elles rompu leurs contrats avec Kylian Mbappé ?",
+      "choix": [
+        "Il a signé un contrat exclusif avec une marque concurrente",
+        "Elles l'accusaient d'avoir heurté les sentiments nationaux",
+        "Il a refusé de participer à une tournée en Asie",
+        "Il a demandé une revalorisation salariale trop importante"
+      ],
+      "reponse": 1,
+      "explication": "Les compagnies l'ont accusé d'avoir 'heurté les sentiments nationaux', illustrant la sensibilité des marchés asiatiques.",
+      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/deux-grandes-compagnies-chinoises-rompent-avec-kylian-mbappe-l-accusant-d-avoir-heurte-les-sentiments-nationaux_8255212.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "a0bee108a8",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Selon la légende populaire, quel personnage est à l'origine de l'invention du rugby moderne en Angleterre ?",
+      "choix": [
+        "Thomas Arnold",
+        "Arthur Wellesley de Wellington",
+        "William Webb Ellis",
+        "Henry Newbolt"
+      ],
+      "reponse": 2,
+      "explication": "La légende veut que William Webb Ellis ait attrapé le ballon à pleines mains lors d'un match de football pour courir vers le but.",
+      "lien": ""
+    },
+    {
+      "id": "bb44b29c41",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Quel événement majeur est considéré par la majorité des scientifiques comme la cause de la fin de la civilisation minoenne ?",
+      "choix": [
+        "Une épidémie de peste noire",
+        "Un réchauffement climatique soudain",
+        "Une invasion de l'Empire romain",
+        "Une gigantesque éruption volcanique sur l'île de Théra"
+      ],
+      "reponse": 3,
+      "explication": "Une éruption volcanique sur l'île voisine de Théra (Santorin) a déclenché des tsunamis et des pluies de cendre destructeurs pour l'économie minoenne.",
+      "lien": ""
+    }
+  ]
 }
