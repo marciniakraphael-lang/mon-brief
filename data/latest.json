@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "mode": "evening",
-  "updated": "2026-10-27T12:32:16.401370+01:00",
+  "updated": "2026-10-27T13:26:27.601688+01:00",
   "deja_presente": [
     {
       "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
@@ -80,60 +80,84 @@
   ],
   "aujourdhui": [
     {
-      "titre": "L'Irak condamne six Français à la perpétuité pour appartenance à l'organisation terroriste EI",
-      "lien": "https://www.france24.com/fr/moyen-orient/20261027-irak-condamne-six-fran%C3%A7ais-%C3%A0-la-perpetuite-pour-appartenance-a-organisation-terroriste-etat-islamique-ei",
-      "source": "France 24",
-      "date": "2026-10-27T12:26:05+01:00",
-      "resume": "Mardi, un tribunal irakien a condamné six ressortissants français à la réclusion criminelle à perpétuité pour leur appartenance au groupe État islamique. Un septième prévenu a écopé d'une peine de 15 ans d'emprisonnement. L'un des avocats de la défense a immédiatement annoncé son intention de faire appel de ces jugements.",
-      "contexte": "Ces procès s'inscrivent dans le cadre des poursuites engagées par l'Irak contre les combattants étrangers de l'organisation jihadiste capturés dans la région. La question du jugement de ces nationaux par des juridictions locales plutôt que leur rapatriement en France a longtemps suscité des débats juridiques et politiques."
+      "titre": "Mobilisation des lycéens : \"Le compte n'y est pas\", déplore la secrétaire générale du Snes-FSU après sa réunion avec Edouard Geffray",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-10-27T13:18:50+01:00",
+      "resume": "La secrétaire générale du Snes-FSU a déploré que le compte n'y soit pas après une réunion avec Edouard Geffray, maintenant l'appel à manifester des lycéens pour le 5 novembre. Face à la mobilisation qui dure depuis un mois, le gouvernement a laissé filtrer des pistes de réforme, comme le remplacement envisagé de Parcoursup sur deux ans, des prêts pour la rénovation des bâtiments et une hausse des capacités d'accueil à l'université.",
+      "contexte": "Ces mouvements traduisent le mécontentement persistant d'une partie de la jeunesse et des syndicats concernant les conditions d'études et l'orientation. L'objectif généralement recherché par l'exécutif à travers ces annonces est de désamorcer les tensions en répondant aux critiques sur la sélection à l'université et la vétusté des infrastructures."
     },
     {
-      "titre": "\"C'est le moment le plus important de ces 50 dernières années pour le pays\" : les jeunes électeurs, la clé des élections législatives en Israël ?",
-      "lien": "https://www.franceinfo.fr/monde/israel/c-est-le-moment-le-plus-important-pour-le-pays-de-ces-50-dernieres-annees-les-jeunes-electeurs-traumatises-par-le-7-octobre-vont-ils-etre-la-cle-des-elections-legislatives-en-israel_8254774.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde · France 24",
-      "date": "2026-10-27T12:25:42+01:00",
-      "resume": "Les Israéliens ont commencé à voter mardi pour de nouvelles élections législatives, les premières organisées depuis les événements du 7 octobre. Près de sept millions d'électeurs sont appelés aux urnes, parmi lesquels un record de 10 % de primo-votants. Ce scrutin prend la forme d'un référendum pour ou contre le Premier ministre conservateur Benyamin Nétanyahou, tandis que les Palestiniens de Cisjordanie occupée redoutent une aggravation de leur situation quel que soit le résultat.",
-      "contexte": "Ces élections interviennent dans un climat politique extrêmement polarisé et marqué par les répercussions profondes du conflit en cours. Les enjeux sécuritaires et l'avenir de la coalition au pouvoir dominent la campagne, influençant durablement la stabilité de la région."
-    },
-    {
-      "titre": "Trappes, reflet des crises sociales et des bouleversements de la France contemporaine",
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/27/trappes-reflet-des-crises-sociales-et-des-bouleversements-de-la-france-contemporaine_6801264_3224.html",
-      "source": "Le Monde",
-      "date": "2026-10-27T12:22:41+01:00",
-      "resume": "L'attentat terroriste raciste survenu le 23 octobre a replacé la ville de Trappes, dans les Yvelines, sous le feu des projecteurs médiatiques. Cette commune d'environ 35 000 habitants, ancienne terre d'accueil d'une main-d'œuvre immigrée durant les Trente Glorieuses, illustre trois quarts de siècle d'histoire et de mutations sociales en France.",
-      "contexte": "Ce type d'événement met en lumière les difficultés économiques et les tensions persistantes dans certains quartiers populaires de l'Hexagone. L'histoire de Trappes reflète les défis de l'intégration et l'évolution de la société française contemporaine face aux crises sécuritaires et sociales."
-    },
-    {
-      "titre": "Polémique autour du nouveau logo des Atlanta Falcons",
-      "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/polemique-autour-du-nouveau-logo-des-atlanta-falcons_8234662.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-27T12:21:47+01:00",
-      "resume": "Le club de football américain des Atlanta Falcons a présenté un nouveau logo inspiré de son maillot de 1966, représentant un faucon noir anguleux sur des rayures verticales rouge, noire et or. De nombreux internautes ont immédiatement vivement réagi en estimant que le design évoquait l'Allemagne nazie. Cette polémique a rapidement enflammé les réseaux sociaux autour de l'esthétique choisie par la franchise.",
-      "contexte": "Les choix graphiques des équipes sportives font régulièrement l'objet d'une surveillance accrue de la part du public et des communautés en ligne. La sensibilité face aux symboles historiques et aux potentielles ressemblances malencontreuses entraîne fréquemment de rapides controverses."
-    },
-    {
-      "titre": "Ballon d'Or 2026: Harry Kane et Alexia Putellas sacrés à Londres",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-ballon-d-or-2026-harry-kane-et-alexia-putellas-sacr%C3%A9s-%C3%A0-londres",
-      "source": "France 24 · franceinfo",
-      "date": "2026-10-27T12:21:18+01:00",
-      "resume": "L'attaquant anglais Harry Kane et l'Espagnole Alexia Putellas ont été sacrés lors de la cérémonie du Ballon d'Or 2026 organisée lundi à Londres. Harry Kane remporte ainsi le trophée masculin le plus prestigieux après une saison remarquée avec le Bayern Munich et sa sélection nationale, devançant de peu Kylian Mbappé. De son côté, Alexia Putellas prolonge son règne en décrochant le Ballon d'Or féminin pour la troisième fois de sa carrière.",
-      "contexte": "Le Ballon d'Or demeure la distinction individuelle suprême dans le monde du football, couronnant les performances individuelles et collectives de l'année écoulée. La défaite de Kylian Mbappé s'ajoute à la liste des rendez-vous manqués du joueur français avec cette récompense historique."
-    },
-    {
-      "titre": "Hausse des prix, inquiétudes liées au chômage et à l'inflation… La confiance des ménages mesurée en octobre est au plus bas depuis juin 2013, annonce l'Insee",
-      "lien": "https://www.franceinfo.fr/economie/menages/situation-financiere-inquietante-hausse-des-prix-inquietudes-liees-au-chomage-et-a-l-inflation-la-confiance-des-menages-en-octobre-au-plus-bas-depuis-juin-2013-selon-l-insee_8255350.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Ce propos était maladroit\" : Kylian Mbappé présente ses excuses à la Chine après avoir déclenché une polémique à cause d'une plaisanterie sur Mao Zedong",
+      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/jce-propos-etait-maladroit-kylian-mbappe-presente-ses-excuses-a-la-chine-apres-avoir-declenche-une-polemique-a-cause-d-une-plaisanterie-sur-mao-zedong_8255830.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-27T12:12:39+01:00",
-      "resume": "Selon les chiffres communiqués par l'Insee, la confiance des ménages français s'est établie en octobre à son niveau le plus bas depuis juin 2013. Cette baisse est principalement alimentée par la hausse continue des prix ainsi que par les inquiétudes persistantes liées au chômage et à l'inflation. À l'inverse, le climat de l'épargne reste relativement favorable malgré une légère dégradation continue.",
-      "contexte": "Cet indice reflète le moral des consommateurs face à un contexte économique difficile marqué par la cherté de la vie et l'incertitude sur l'emploi. Il influence directement les choix de consommation des ménages, un moteur essentiel de l'activité économique du pays."
+      "date": "2026-10-27T13:08:48+01:00",
+      "resume": "Kylian Mbappé a présenté ses excuses à la Chine dans un communiqué publié lundi, qualifiant de maladroite une plaisanterie qu'il avait faite au sujet de Mao Zedong. Cette polémique lui a fait perdre plusieurs partenariats et a même poussé le président de la Liga à réagir.",
+      "contexte": "Ce type d'incident illustre la sensibilité extrême des personnalités publiques et des sportifs de premier plan aux enjeux géopolitiques et diplomatiques. Les déclarations touchant à l'histoire des régimes autoritaires provoquent fréquemment des réactions outrées, susceptibles de nuire aux intérêts commerciaux et à l'image des marques associées à ces athlètes."
     },
     {
-      "titre": "Chine : Kylian Mbappé accusé d'offense aux sentiments nationaux",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-chine-kylian-mbapp%C3%A9-accus%C3%A9-d-offense-aux-sentiments-nationaux",
+      "titre": "Une « taxe émeutes » de 0,8 % pourrait toucher les assurances auto et habitation",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-une-taxe-%C3%A9meutes-de-0-8-pourrait-toucher-les-assurances-auto-et-habitation",
       "source": "France 24",
-      "date": "2026-10-27T12:08:29+01:00",
-      "resume": "Kylian Mbappé fait face à une vague de critiques et à l'annulation de plusieurs contrats publicitaires en Chine. Cette levée de boucliers fait suite à la diffusion en ligne d'une vidéo dans laquelle le joueur français semble plaisanter au sujet de l'ancien dirigeant historique Mao Zedong.",
-      "contexte": "Les figures publiques du sport mondial font l'objet d'une attention très rigoureuse lorsqu'elles touchent à des sujets historiques ou politiques sensibles dans certains pays. En Chine, toute évocation perçue comme irrespectueuse envers les figures fondatrices du régime provoque généralement de fortes réactions institutionnelles et populaires."
+      "date": "2026-10-27T13:04:24+01:00",
+      "resume": "Une taxe émeutes de 0,8 % pourrait prochainement s'appliquer aux contrats d'assurance automobile et habitation, selon un reportage. Cette mesure pèserait directement sur les cotisations payées par les assurés.",
+      "contexte": "Cette surcote envisagée intervient dans un contexte de forte augmentation des coûts des indemnisations pour dégradations de biens lors de troubles urbains récents. L'objectif est généralement de renflouer les caisses face aux pertes importantes subies par les assureurs lors de ces vagues de violences."
+    },
+    {
+      "titre": "Journalistes brutalisés au congrès du RN : la presse doit pouvoir travailler librement, alertent 44 sociétés de journalistes",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/27/journalistes-brutalises-au-congres-du-rn-la-presse-doit-pouvoir-travailler-librement-alertent-44-societes-de-journalistes_6801268_823448.html",
+      "source": "Le Monde",
+      "date": "2026-10-27T12:57:00+01:00",
+      "resume": "Les 24 et 25 octobre, des journalistes de Mediapart et de Politis ont été molestés par le service d'ordre et des militants lors du congrès du Rassemblement national. Plus de 40 sociétés de journalistes ont publié une alerte pour dénoncer ces violences et rappeler le droit fondamental à couvrir librement les événements politiques.",
+      "contexte": "Ces agressions rappellent les tensions récurrentes entre certains partis politiques et les médias, accusés de partialité par leurs détracteurs. La liberté de la presse est un pilier démocratique fondamental, et de telles entraves suscitent régulièrement l'indignation des syndicats et des sociétés de rédacteurs soucieux de protéger le travail d'investigation et d'information."
+    },
+    {
+      "titre": "Risque \"extrêmement élevé\" de nouvelles atrocités au Soudan, alertent des pays",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-risque-extr%C3%AAmement-%C3%A9lev%C3%A9-de-nouvelles-atrocit%C3%A9s-au-soudan-alertent-des-pays",
+      "source": "France 24",
+      "date": "2026-10-27T12:52:34+01:00",
+      "resume": "Les États membres de la Coalition pour la prévention des atrocités et la justice au Soudan ont alerté lundi sur un risque extrêmement élevé de nouvelles exactions de grande ampleur. Cette alerte intervient un an après la prise de la ville stratégique d'El-Fasher par les forces paramilitaires de soutien rapide, un massacre qui avait fait au moins 6 000 morts civils.",
+      "contexte": "Le conflit armé qui ravage le Soudan depuis plusieurs mois oppose l'armée régulière aux forces paramilitaires, entraînant une grave crise humanitaire et des violences de masse contre les populations civiles. L'impunité dont profitent les belligérants complique la protection des habitants et fait redouter de nouveaux drames dans les zones disputées."
+    },
+    {
+      "titre": "Vladimir Poutine accuse l'Union européenne et l'Otan de prolonger la guerre en Ukraine, lors d'un appel avec des dirigeants nordiques",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-accuse-l-union-europeenne-et-l-otan-de-prolonger-la-guerre-en-ukraine-lors-d-un-appel-avec-des-dirigeants-nordiques_8255782.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T12:49:47+01:00",
+      "resume": "Lors d'un appel avec des dirigeants nordiques, le président russe Vladimir Poutine a accusé l'Union européenne et l'Otan de chercher à prolonger la guerre en Ukraine. Il a également affirmé qu'une paix juste et durable nécessitait de tenir pleinement compte des intérêts de la Russie.",
+      "contexte": "Cette prise de position s'inscrit dans la stratégie de communication de Moscou qui cherche à imposer son narratif sur les responsabilités du conflit et à diviser le soutien occidental à Kiev. Les exigences russes concernant la sécurité régionale et les territoires ukrainiens restent toutefois incompatibles avec les positions de l'Ukraine et de ses alliés."
+    },
+    {
+      "titre": "Irak : six Français condamnés à la perpétuité pour appartenance à l'EI",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-irak-six-fran%C3%A7ais-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-%C3%A0-l-ei",
+      "source": "France 24",
+      "date": "2026-10-27T12:48:30+01:00",
+      "resume": "Un tribunal irakien a condamné mardi six ressortissants français à la réclusion criminelle à perpétuité et un septième à 15 ans de prison. Ils ont été reconnus coupables d'appartenance au groupe État islamique.",
+      "contexte": "Le sort des combattants étrangers de l'EI et de leurs familles capturés dans la zone irako-syrienne constitue un sujet judiciaire épineux pour les pays européens. La position constante de la France est de privilégier un jugement sur place par les juridictions locales pour les adultes impliqués dans des activités terroristes."
+    },
+    {
+      "titre": "Elections législatives en Israël : Benyamin Nétanyahou dénonce des \"tentatives de voler l'élection\" et s'en prend aux opposants arabes israéliens",
+      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T12:45:53+01:00",
+      "resume": "Plus de sept millions d'Israéliens sont appelés aux urnes ce mardi pour des élections législatives aux allures de référendum. Le Premier ministre Benyamin Nétanyahou, en grande difficulté politique depuis les attaques du 7 octobre 2023, a dénoncé des tentatives de voler le scrutin et s'en est pris aux opposants arabes israéliens.",
+      "contexte": "Ce scrutin crucial intervient dans un climat de profonde polarisation politique et de guerre persistante, qui fragilise la position de Benyamin Nétanyahou au pouvoir. Les attaques d'octobre 2023 ont profondément marqué la société israélienne et redéfini les équilibres électoraux, plaçant la question de la sécurité au centre du débat."
+    },
+    {
+      "titre": "Kévin T., un parcours contradictoire avant une radicalisation à l'extrême droite",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-k%C3%A9vin-t-un-parcours-contradictoire-avant-une-radicalisation-%C3%A0-l-extr%C3%AAme-droite",
+      "source": "France 24",
+      "date": "2026-10-27T12:42:33+01:00",
+      "resume": "Kévin T., l'auteur présumé de l'attaque de Trappes qui a fait un mort et plusieurs blessés, présente un profil marqué par la schizophrénie et une rupture sociale. Ancien ouvrier automobile proche de milieux de gauche, il a ensuite connu une marginalisation avant de basculer vers l'extrême droite.",
+      "contexte": "L'analyse des profils d'auteurs d'attaques violentes met souvent en lumière la combinaison de troubles psychiatriques non stabilisés, d'isolement social et d'une radicalisation idéologique. Les motivations précises et le parcours exact de passage à l'acte font l'objet d'enquêtes pour comprendre comment la bascule s'est opérée."
+    },
+    {
+      "titre": "Quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles à l'école, selon une enquête de l'Education nationale",
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/quatre-eleves-de-ce2-sur-dix-declarent-avoir-subi-des-violences-sexuelles-a-l-ecole-selon-une-enquete-de-l-education-nationale_8255653.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T12:38:58+01:00",
+      "resume": "Selon une enquête de l'Éducation nationale, quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles à l'école, l'enquête ne précisant toutefois pas l'âge des auteurs. Plus précisément, 22 % des enfants interrogés affirment qu'une personne a essayé de les embrasser, de les toucher ou de les caresser sans leur accord au sein de leur établissement.",
+      "contexte": "La publication de telles enquêtes met en lumière l'ampleur des violences interpersonnelles et des agressions au sein du milieu scolaire, souvent sous-estimées. Les autorités tentent de renforcer la prévention et la libération de la parole pour mieux protéger les enfants."
     }
   ],
   "culture": [
@@ -158,108 +182,93 @@
   ],
   "quiz_jour": [
     {
-      "id": "a11c13a86d",
+      "id": "8b354bb366",
       "date": "2026-10-27",
       "type": "actu",
-      "question": "Combien de ressortissants français ont été condamnés à la réclusion criminelle à perpétuité en Irak pour appartenance à l'organisation État islamique ?",
+      "question": "Quel footballeur a présenté ses excuses à la Chine après une polémique liée à une plaisanterie sur Mao Zedong ?",
+      "choix": [
+        "Paul Pogba",
+        "Kylian Mbappé",
+        "Antoine Griezmann",
+        "Karim Benzema"
+      ],
+      "reponse": 1,
+      "explication": "Kylian Mbappé a présenté ses excuses dans un communiqué après une plaisanterie maladroite sur Mao Zedong qui lui a fait perdre des partenariats.",
+      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/jce-propos-etait-maladroit-kylian-mbappe-presente-ses-excuses-a-la-chine-apres-avoir-declenche-une-polemique-a-cause-d-une-plaisanterie-sur-mao-zedong_8255830.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "9ca508cc9d",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel taux de \"taxe émeutes\" pourrait prochainement s'appliquer aux contrats d'assurance auto et habitation ?",
+      "choix": [
+        "0,2 %",
+        "0,8 %",
+        "1,2 %",
+        "0,5 %"
+      ],
+      "reponse": 1,
+      "explication": "Une taxe émeutes de 0,8 % pourrait toucher les assurances automobile et habitation, pesant directement sur les assurés.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-une-taxe-%C3%A9meutes-de-0-8-pourrait-toucher-les-assurances-auto-et-habitation"
+    },
+    {
+      "id": "1c1f003542",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Combien de ressortissants français ont été condamnés à la réclusion criminelle à perpétuité par un tribunal irakien pour appartenance à l'EI ?",
       "choix": [
         "Quatre",
         "Dix",
-        "Sept",
+        "Deux",
         "Six"
       ],
       "reponse": 3,
-      "explication": "Un tribunal irakien a condamné six ressortissants français à la perpétuité, tandis qu'un septième a écopé de 15 ans d'emprisonnement.",
-      "lien": "https://www.france24.com/fr/moyen-orient/20261027-irak-condamne-six-fran%C3%A7ais-%C3%A0-la-perpetuite-pour-appartenance-a-organisation-terroriste-etat-islamique-ei"
+      "explication": "Six Français ont été condamnés à la perpétuité (et un septième à 15 ans de prison) pour appartenance au groupe État islamique.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-irak-six-fran%C3%A7ais-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-%C3%A0-l-ei"
     },
     {
-      "id": "6852914f24",
+      "id": "f58b0bba56",
       "date": "2026-10-27",
       "type": "actu",
-      "question": "Quel club de football américain a fait l'objet d'une polémique en raison de son nouveau logo jugé proche de l'esthétique nazie ?",
+      "question": "Selon une enquête de l'Éducation nationale, quelle proportion d'élèves de CE2 déclare avoir subi des violences sexuelles à l'école ?",
       "choix": [
-        "Les New England Patriots",
-        "Les Atlanta Falcons",
-        "Les Green Bay Packers",
-        "Les Dallas Cowboys"
+        "Un sur dix",
+        "Deux sur dix",
+        "La moitié",
+        "Quatre sur dix"
       ],
-      "reponse": 1,
-      "explication": "Le club des Atlanta Falcons a présenté un nouveau logo inspiré de 1966 qui a provoqué des réactions sur les réseaux sociaux en raison de sa ressemblance perçue avec l'Allemagne nazie.",
-      "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/polemique-autour-du-nouveau-logo-des-atlanta-falcons_8234662.html#xtor=RSS-3-%5Bgeneral%5D"
+      "reponse": 3,
+      "explication": "L'enquête indique que quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles au sein de leur établissement.",
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/quatre-eleves-de-ce2-sur-dix-declarent-avoir-subi-des-violences-sexuelles-a-l-ecole-selon-une-enquete-de-l-education-nationale_8255653.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "1b50f5de6b",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Qui a remporté le Ballon d'Or masculin lors de la cérémonie organisée à Londres en 2026 ?",
-      "choix": [
-        "Harry Kane",
-        "Lionel Messi",
-        "Erling Haaland",
-        "Kylian Mbappé"
-      ],
-      "reponse": 0,
-      "explication": "L'attaquant anglais Harry Kane a remporté le trophée masculin en devançant Kylian Mbappé.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-ballon-d-or-2026-harry-kane-et-alexia-putellas-sacr%C3%A9s-%C3%A0-londres"
-    },
-    {
-      "id": "7ad1d86145",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Selon l'Insee, à quelle date remonte le précédent niveau aussi bas de la confiance des ménages français mesurée en octobre ?",
-      "choix": [
-        "Novembre 2018",
-        "Janvier 2015",
-        "Juin 2013",
-        "Juin 2010"
-      ],
-      "reponse": 2,
-      "explication": "La confiance des ménages mesurée en octobre a atteint son niveau le plus bas depuis juin 2013 en raison de la hausse des prix et des inquiétudes liées au chômage.",
-      "lien": "https://www.franceinfo.fr/economie/menages/situation-financiere-inquietante-hausse-des-prix-inquietudes-liees-au-chomage-et-a-l-inflation-la-confiance-des-menages-en-octobre-au-plus-bas-depuis-juin-2013-selon-l-insee_8255350.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "b5b290070e",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Pour quelle raison Kylian Mbappé fait-il l'objet de critiques et de l'annulation de contrats publicitaires en Chine ?",
-      "choix": [
-        "Il a critiqué le régime économique chinois",
-        "Il a refusé de disputer un match amical",
-        "Il semble plaisanter au sujet de l'ancien dirigeant Mao Zedong dans une vidéo",
-        "Il a porté un maillot d'une équipe rivale"
-      ],
-      "reponse": 2,
-      "explication": "Une vague de critiques a suivi la diffusion en ligne d'une vidéo où le joueur français semble plaisanter au sujet de l'ancien dirigeant historique Mao Zedong.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-chine-kylian-mbapp%C3%A9-accus%C3%A9-d-offense-aux-sentiments-nationaux"
-    },
-    {
-      "id": "24e2c20266",
+      "id": "51607accd7",
       "date": "2026-10-27",
       "type": "culture",
-      "question": "Quel personnage de légende est traditionnellement associé à l'invention du rugby en Angleterre ?",
+      "question": "Selon la légende populaire, quel sport serait né grâce à William Webb Ellis qui aurait attrapé un ballon à pleines mains lors d'un match de football ?",
       "choix": [
-        "Arthur Wellesley de Wellington",
-        "Thomas Arnold",
-        "William Webb Ellis",
-        "Charles Dickens"
+        "Le rugby",
+        "Le handball",
+        "Le basketball",
+        "Le football américain"
       ],
-      "reponse": 2,
-      "explication": "Selon la légende populaire, le rugby est né lorsqu'un élève nommé William Webb Ellis a attrapé le ballon à pleines mains lors d'un match de football.",
+      "reponse": 0,
+      "explication": "La légende attribue l'invention du rugby à William Webb Ellis dans la ville de Rugby en Angleterre.",
       "lien": ""
     },
     {
-      "id": "272c01f7dd",
+      "id": "4d69b28f68",
       "date": "2026-10-27",
       "type": "culture",
-      "question": "Quelle civilisation de l'âge du bronze s'est épanouie sur l'île de Crète autour du palais de Cnossos ?",
+      "question": "Sur quelle île s'est épanouie la civilisation minoenne autour du palais de Cnossos ?",
       "choix": [
-        "La civilisation minoenne",
-        "La civilisation troyenne",
-        "La civilisation mycénienne",
-        "La civilisation cycladique"
+        "La Sicile",
+        "Chypre",
+        "La Crète",
+        "La Corse"
       ],
-      "reponse": 0,
-      "explication": "La civilisation minoenne s'est développée sur l'île de Crète autour du palais de Cnossos avant sa fin marquée par l'éruption volcanique de l'île de Théra.",
+      "reponse": 2,
+      "explication": "La civilisation minoenne s'est développée sur l'île de Crète et s'est illustrée notamment autour du palais de Cnossos.",
       "lien": ""
     }
   ]

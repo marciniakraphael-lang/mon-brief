@@ -614,6 +614,96 @@
       "reponse": 0,
       "explication": "La civilisation minoenne s'est développée sur l'île de Crète autour du palais de Cnossos avant sa fin marquée par l'éruption volcanique de l'île de Théra.",
       "lien": ""
+    },
+    {
+      "id": "8b354bb366",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel footballeur a présenté ses excuses à la Chine après une polémique liée à une plaisanterie sur Mao Zedong ?",
+      "choix": [
+        "Paul Pogba",
+        "Kylian Mbappé",
+        "Antoine Griezmann",
+        "Karim Benzema"
+      ],
+      "reponse": 1,
+      "explication": "Kylian Mbappé a présenté ses excuses dans un communiqué après une plaisanterie maladroite sur Mao Zedong qui lui a fait perdre des partenariats.",
+      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/jce-propos-etait-maladroit-kylian-mbappe-presente-ses-excuses-a-la-chine-apres-avoir-declenche-une-polemique-a-cause-d-une-plaisanterie-sur-mao-zedong_8255830.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "9ca508cc9d",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel taux de \"taxe émeutes\" pourrait prochainement s'appliquer aux contrats d'assurance auto et habitation ?",
+      "choix": [
+        "0,2 %",
+        "0,8 %",
+        "1,2 %",
+        "0,5 %"
+      ],
+      "reponse": 1,
+      "explication": "Une taxe émeutes de 0,8 % pourrait toucher les assurances automobile et habitation, pesant directement sur les assurés.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-une-taxe-%C3%A9meutes-de-0-8-pourrait-toucher-les-assurances-auto-et-habitation"
+    },
+    {
+      "id": "1c1f003542",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Combien de ressortissants français ont été condamnés à la réclusion criminelle à perpétuité par un tribunal irakien pour appartenance à l'EI ?",
+      "choix": [
+        "Quatre",
+        "Dix",
+        "Deux",
+        "Six"
+      ],
+      "reponse": 3,
+      "explication": "Six Français ont été condamnés à la perpétuité (et un septième à 15 ans de prison) pour appartenance au groupe État islamique.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-irak-six-fran%C3%A7ais-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-%C3%A0-l-ei"
+    },
+    {
+      "id": "f58b0bba56",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Selon une enquête de l'Éducation nationale, quelle proportion d'élèves de CE2 déclare avoir subi des violences sexuelles à l'école ?",
+      "choix": [
+        "Un sur dix",
+        "Deux sur dix",
+        "La moitié",
+        "Quatre sur dix"
+      ],
+      "reponse": 3,
+      "explication": "L'enquête indique que quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles au sein de leur établissement.",
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/quatre-eleves-de-ce2-sur-dix-declarent-avoir-subi-des-violences-sexuelles-a-l-ecole-selon-une-enquete-de-l-education-nationale_8255653.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "51607accd7",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Selon la légende populaire, quel sport serait né grâce à William Webb Ellis qui aurait attrapé un ballon à pleines mains lors d'un match de football ?",
+      "choix": [
+        "Le rugby",
+        "Le handball",
+        "Le basketball",
+        "Le football américain"
+      ],
+      "reponse": 0,
+      "explication": "La légende attribue l'invention du rugby à William Webb Ellis dans la ville de Rugby en Angleterre.",
+      "lien": ""
+    },
+    {
+      "id": "4d69b28f68",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Sur quelle île s'est épanouie la civilisation minoenne autour du palais de Cnossos ?",
+      "choix": [
+        "La Sicile",
+        "Chypre",
+        "La Crète",
+        "La Corse"
+      ],
+      "reponse": 2,
+      "explication": "La civilisation minoenne s'est développée sur l'île de Crète et s'est illustrée notamment autour du palais de Cnossos.",
+      "lien": ""
     }
   ]
 }
