@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "mode": "evening",
-  "updated": "2026-10-27T13:26:27.601688+01:00",
+  "updated": "2026-10-27T13:35:36.631466+01:00",
   "deja_presente": [
     {
       "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
@@ -80,84 +80,60 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Mobilisation des lycéens : \"Le compte n'y est pas\", déplore la secrétaire générale du Snes-FSU après sa réunion avec Edouard Geffray",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-10-27T13:18:50+01:00",
-      "resume": "La secrétaire générale du Snes-FSU a déploré que le compte n'y soit pas après une réunion avec Edouard Geffray, maintenant l'appel à manifester des lycéens pour le 5 novembre. Face à la mobilisation qui dure depuis un mois, le gouvernement a laissé filtrer des pistes de réforme, comme le remplacement envisagé de Parcoursup sur deux ans, des prêts pour la rénovation des bâtiments et une hausse des capacités d'accueil à l'université.",
-      "contexte": "Ces mouvements traduisent le mécontentement persistant d'une partie de la jeunesse et des syndicats concernant les conditions d'études et l'orientation. L'objectif généralement recherché par l'exécutif à travers ces annonces est de désamorcer les tensions en répondant aux critiques sur la sélection à l'université et la vétusté des infrastructures."
+      "titre": "Soudan : les survivants racontent l’horreur, un an après le massacre d’El-Fasher",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-soudan-les-survivants-racontent-l-horreur-un-an-apr%C3%A8s-le-massacre-d-el-fasher",
+      "source": "France 24",
+      "date": "2026-10-27T13:30:34+01:00",
+      "resume": "Un an après le massacre d'El-Fasher, les survivants témoignent des atrocités subies au Soudan. Parallèlement, les États membres de la Coalition pour la prévention des atrocités et la justice au Soudan alertent lundi sur un risque extrêmement élevé de nouvelles violences de grande ampleur. La question des poursuites des criminels de guerre réfugiés au Tchad se pose également, alors que le retrait tchadien prévu pour juillet 2027 pourrait compliquer les enquêtes de la CPI.",
+      "contexte": "Le conflit au Soudan, qui oppose l'armée régulière et les forces paramilitaires, a provoqué l'une des pires crises humanitaires et sécuritaires au monde. Les difficultés d'accès à la justice internationale s'expliquent souvent par les tensions géopolitiques régionales et la complexité des coopérations étatiques avec la Cour pénale internationale."
+    },
+    {
+      "titre": "Elections législatives israéliennes : qui est Gadi Eisenkot ?",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-qui-est-gadi-eisenkot",
+      "source": "France 24 · franceinfo",
+      "date": "2026-10-27T13:30:20+01:00",
+      "resume": "Plus de sept millions d'électeurs israéliens sont appelés aux urnes mardi pour des élections législatives cruciales qui font office de référendum sur le bilan du Premier ministre Benjamin Netanyahu. Ce dernier, qui joue sa survie politique après l'attaque du Hamas du 7 octobre 2023, a dénoncé des tentatives de voler le scrutin et s'en est pris aux opposants arabes israéliens. Face à lui, le centriste et principal rival Gadi Eisenkot a exhorté les électeurs à écarter du pouvoir ce qu'il qualifie de pire gouvernement de l'histoire du pays.",
+      "contexte": "Ces élections se déroulent dans un climat d'extrême polarisation politique et sécuritaire en Israël. Le résultat de ce scrutin pourrait redéfinir profondément la coalition au pouvoir, la gestion du conflit en cours et les relations diplomatiques du pays."
+    },
+    {
+      "titre": "Vladimir Poutine accuse l'Union européenne et l'Otan de prolonger la guerre en Ukraine",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-accuse-l-union-europeenne-et-l-otan-de-prolonger-la-guerre-en-ukraine-lors-d-un-appel-avec-des-dirigeants-nordiques_8255782.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T13:28:17+01:00",
+      "resume": "Le président russe Vladimir Poutine a accusé mardi l'Union européenne et l'Otan de prolonger la guerre en Ukraine lors d'un entretien téléphonique avec deux dirigeants nordiques. Il a affirmé qu'une paix juste et durable ne pourrait être atteinte qu'à condition de prendre pleinement en compte les intérêts de la Russie.",
+      "contexte": "Cette prise de position s'inscrit dans la stratégie de communication de Moscou face aux pays occidentaux et nordiques soutenant l'Ukraine. L'objectif est généralement de rejeter la responsabilité de l'impasse diplomatique sur les alliés de Kyiv tout en posant des conditions maximalistes pour de futures négociations."
+    },
+    {
+      "titre": "Projet de loi \"Casseurs-payeurs\" : le gouvernement face aux réseaux sociaux",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-projet-de-loi-casseurs-payeurs-le-gouvernement-face-aux-r%C3%A9seaux-sociaux",
+      "source": "France 24",
+      "date": "2026-10-27T13:24:20+01:00",
+      "resume": "Le Sénat examine mardi le projet de loi \"casseurs-payeurs\", qui suscite de vives discussions en raison de mesures controversées sur la responsabilité solidaire des fauteurs de trouble et la saisie de leurs prestations sociales. Le gouvernement souhaite également introduire une procédure d'urgence pour exiger le retrait rapide des contenus sur les réseaux sociaux appelant à l'insurrection ou à l'armement contre l'État. En parallèle, une \"taxe émeutes\" de 0,8 % est évoquée pour potentiellement impacter les contrats d'assurance auto et habitation.",
+      "contexte": "Ces mesures interviennent dans un contexte d'automne marqué par de fortes contestations sociales et des épisodes de violences urbaines et de pillages. Les débats illustrent la difficulté permanente pour l'exécutif de concilier le maintien de l'ordre, l'indemnisation des dégâts et la protection des libertés publiques."
     },
     {
       "titre": "\"Ce propos était maladroit\" : Kylian Mbappé présente ses excuses à la Chine après avoir déclenché une polémique à cause d'une plaisanterie sur Mao Zedong",
       "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/jce-propos-etait-maladroit-kylian-mbappe-presente-ses-excuses-a-la-chine-apres-avoir-declenche-une-polemique-a-cause-d-une-plaisanterie-sur-mao-zedong_8255830.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-27T13:08:48+01:00",
-      "resume": "Kylian Mbappé a présenté ses excuses à la Chine dans un communiqué publié lundi, qualifiant de maladroite une plaisanterie qu'il avait faite au sujet de Mao Zedong. Cette polémique lui a fait perdre plusieurs partenariats et a même poussé le président de la Liga à réagir.",
-      "contexte": "Ce type d'incident illustre la sensibilité extrême des personnalités publiques et des sportifs de premier plan aux enjeux géopolitiques et diplomatiques. Les déclarations touchant à l'histoire des régimes autoritaires provoquent fréquemment des réactions outrées, susceptibles de nuire aux intérêts commerciaux et à l'image des marques associées à ces athlètes."
-    },
-    {
-      "titre": "Une « taxe émeutes » de 0,8 % pourrait toucher les assurances auto et habitation",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-une-taxe-%C3%A9meutes-de-0-8-pourrait-toucher-les-assurances-auto-et-habitation",
-      "source": "France 24",
-      "date": "2026-10-27T13:04:24+01:00",
-      "resume": "Une taxe émeutes de 0,8 % pourrait prochainement s'appliquer aux contrats d'assurance automobile et habitation, selon un reportage. Cette mesure pèserait directement sur les cotisations payées par les assurés.",
-      "contexte": "Cette surcote envisagée intervient dans un contexte de forte augmentation des coûts des indemnisations pour dégradations de biens lors de troubles urbains récents. L'objectif est généralement de renflouer les caisses face aux pertes importantes subies par les assureurs lors de ces vagues de violences."
+      "resume": "La star du Real Madrid Kylian Mbappé a présenté ses excuses publiques lundi après avoir provoqué une polémique en raison d'une plaisanterie concernant Mao Zedong. Cette sortie médiatique avait entraîné la perte de plusieurs partenariats et poussé le président de la Liga à réagir.",
+      "contexte": "Les sportifs de premier plan font l'objet d'une surveillance médiatique mondiale constante, où la moindre déclaration politique ou historique maladroite peut avoir d'importantes répercussions commerciales et diplomatiques, en particulier sur des marchés sensibles comme la Chine."
     },
     {
       "titre": "Journalistes brutalisés au congrès du RN : la presse doit pouvoir travailler librement, alertent 44 sociétés de journalistes",
       "lien": "https://www.lemonde.fr/politique/article/2026/10/27/journalistes-brutalises-au-congres-du-rn-la-presse-doit-pouvoir-travailler-librement-alertent-44-societes-de-journalistes_6801268_823448.html",
       "source": "Le Monde",
       "date": "2026-10-27T12:57:00+01:00",
-      "resume": "Les 24 et 25 octobre, des journalistes de Mediapart et de Politis ont été molestés par le service d'ordre et des militants lors du congrès du Rassemblement national. Plus de 40 sociétés de journalistes ont publié une alerte pour dénoncer ces violences et rappeler le droit fondamental à couvrir librement les événements politiques.",
-      "contexte": "Ces agressions rappellent les tensions récurrentes entre certains partis politiques et les médias, accusés de partialité par leurs détracteurs. La liberté de la presse est un pilier démocratique fondamental, et de telles entraves suscitent régulièrement l'indignation des syndicats et des sociétés de rédacteurs soucieux de protéger le travail d'investigation et d'information."
-    },
-    {
-      "titre": "Risque \"extrêmement élevé\" de nouvelles atrocités au Soudan, alertent des pays",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-risque-extr%C3%AAmement-%C3%A9lev%C3%A9-de-nouvelles-atrocit%C3%A9s-au-soudan-alertent-des-pays",
-      "source": "France 24",
-      "date": "2026-10-27T12:52:34+01:00",
-      "resume": "Les États membres de la Coalition pour la prévention des atrocités et la justice au Soudan ont alerté lundi sur un risque extrêmement élevé de nouvelles exactions de grande ampleur. Cette alerte intervient un an après la prise de la ville stratégique d'El-Fasher par les forces paramilitaires de soutien rapide, un massacre qui avait fait au moins 6 000 morts civils.",
-      "contexte": "Le conflit armé qui ravage le Soudan depuis plusieurs mois oppose l'armée régulière aux forces paramilitaires, entraînant une grave crise humanitaire et des violences de masse contre les populations civiles. L'impunité dont profitent les belligérants complique la protection des habitants et fait redouter de nouveaux drames dans les zones disputées."
-    },
-    {
-      "titre": "Vladimir Poutine accuse l'Union européenne et l'Otan de prolonger la guerre en Ukraine, lors d'un appel avec des dirigeants nordiques",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-accuse-l-union-europeenne-et-l-otan-de-prolonger-la-guerre-en-ukraine-lors-d-un-appel-avec-des-dirigeants-nordiques_8255782.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T12:49:47+01:00",
-      "resume": "Lors d'un appel avec des dirigeants nordiques, le président russe Vladimir Poutine a accusé l'Union européenne et l'Otan de chercher à prolonger la guerre en Ukraine. Il a également affirmé qu'une paix juste et durable nécessitait de tenir pleinement compte des intérêts de la Russie.",
-      "contexte": "Cette prise de position s'inscrit dans la stratégie de communication de Moscou qui cherche à imposer son narratif sur les responsabilités du conflit et à diviser le soutien occidental à Kiev. Les exigences russes concernant la sécurité régionale et les territoires ukrainiens restent toutefois incompatibles avec les positions de l'Ukraine et de ses alliés."
+      "resume": "Plus de 40 sociétés de journalistes ont publié une alerte pour dénoncer les violences subies par des reporters de « Mediapart » et de « Politis », molestés par le service d'ordre et des militants lors du congrès du Rassemblement national les 24 et 25 octobre derniers. Les signataires rappellent l'impératif constitutionnel et démocratique de laisser la presse travailler et couvrir librement les événements politiques.",
+      "contexte": "Les relations tendues entre certains partis politiques et les médias traduisent une défiance croissante dans le débat public. La liberté de la presse est un pilier fondamental de la démocratie, et la sécurisation des journalistes en meeting est un sujet de préoccupation constant pour les rédactions."
     },
     {
       "titre": "Irak : six Français condamnés à la perpétuité pour appartenance à l'EI",
       "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-irak-six-fran%C3%A7ais-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-%C3%A0-l-ei",
       "source": "France 24",
       "date": "2026-10-27T12:48:30+01:00",
-      "resume": "Un tribunal irakien a condamné mardi six ressortissants français à la réclusion criminelle à perpétuité et un septième à 15 ans de prison. Ils ont été reconnus coupables d'appartenance au groupe État islamique.",
-      "contexte": "Le sort des combattants étrangers de l'EI et de leurs familles capturés dans la zone irako-syrienne constitue un sujet judiciaire épineux pour les pays européens. La position constante de la France est de privilégier un jugement sur place par les juridictions locales pour les adultes impliqués dans des activités terroristes."
-    },
-    {
-      "titre": "Elections législatives en Israël : Benyamin Nétanyahou dénonce des \"tentatives de voler l'élection\" et s'en prend aux opposants arabes israéliens",
-      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T12:45:53+01:00",
-      "resume": "Plus de sept millions d'Israéliens sont appelés aux urnes ce mardi pour des élections législatives aux allures de référendum. Le Premier ministre Benyamin Nétanyahou, en grande difficulté politique depuis les attaques du 7 octobre 2023, a dénoncé des tentatives de voler le scrutin et s'en est pris aux opposants arabes israéliens.",
-      "contexte": "Ce scrutin crucial intervient dans un climat de profonde polarisation politique et de guerre persistante, qui fragilise la position de Benyamin Nétanyahou au pouvoir. Les attaques d'octobre 2023 ont profondément marqué la société israélienne et redéfini les équilibres électoraux, plaçant la question de la sécurité au centre du débat."
-    },
-    {
-      "titre": "Kévin T., un parcours contradictoire avant une radicalisation à l'extrême droite",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-k%C3%A9vin-t-un-parcours-contradictoire-avant-une-radicalisation-%C3%A0-l-extr%C3%AAme-droite",
-      "source": "France 24",
-      "date": "2026-10-27T12:42:33+01:00",
-      "resume": "Kévin T., l'auteur présumé de l'attaque de Trappes qui a fait un mort et plusieurs blessés, présente un profil marqué par la schizophrénie et une rupture sociale. Ancien ouvrier automobile proche de milieux de gauche, il a ensuite connu une marginalisation avant de basculer vers l'extrême droite.",
-      "contexte": "L'analyse des profils d'auteurs d'attaques violentes met souvent en lumière la combinaison de troubles psychiatriques non stabilisés, d'isolement social et d'une radicalisation idéologique. Les motivations précises et le parcours exact de passage à l'acte font l'objet d'enquêtes pour comprendre comment la bascule s'est opérée."
-    },
-    {
-      "titre": "Quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles à l'école, selon une enquête de l'Education nationale",
-      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/quatre-eleves-de-ce2-sur-dix-declarent-avoir-subi-des-violences-sexuelles-a-l-ecole-selon-une-enquete-de-l-education-nationale_8255653.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T12:38:58+01:00",
-      "resume": "Selon une enquête de l'Éducation nationale, quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles à l'école, l'enquête ne précisant toutefois pas l'âge des auteurs. Plus précisément, 22 % des enfants interrogés affirment qu'une personne a essayé de les embrasser, de les toucher ou de les caresser sans leur accord au sein de leur établissement.",
-      "contexte": "La publication de telles enquêtes met en lumière l'ampleur des violences interpersonnelles et des agressions au sein du milieu scolaire, souvent sous-estimées. Les autorités tentent de renforcer la prévention et la libération de la parole pour mieux protéger les enfants."
+      "resume": "Un tribunal irakien a condamné mardi six ressortissants français à la réclusion criminelle à perpétuité et un septième à 15 ans de prison pour leur appartenance au groupe État islamique. L'annonce a été faite depuis Bagdad par la correspondante sur place.",
+      "contexte": "Le sort des ressortissants occidentaux partis rejoindre les rangs de Daech et jugés dans les pays de capture (notamment en Irak et en Syrie) pose la question récurrente de leur rapatriement. La position officielle de nombreux États européens a longtemps été de privilégier les procès locaux, malgré les critiques des ONG sur les garanties judiciaires et l'application de la peine de mort."
     }
   ],
   "culture": [
@@ -182,93 +158,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "8b354bb366",
+      "id": "ac3fafc46c",
       "date": "2026-10-27",
       "type": "actu",
-      "question": "Quel footballeur a présenté ses excuses à la Chine après une polémique liée à une plaisanterie sur Mao Zedong ?",
+      "question": "Quel pays fait face à des inquiétudes concernant le retrait tchadien en 2027 qui pourrait compliquer les enquêtes de la CPI sur des crimes de guerre ?",
       "choix": [
-        "Paul Pogba",
-        "Kylian Mbappé",
-        "Antoine Griezmann",
-        "Karim Benzema"
+        "La République centrafricaine",
+        "Le Mali",
+        "Le Soudan",
+        "Le Niger"
+      ],
+      "reponse": 2,
+      "explication": "L'article concerne le massacre d'El-Fasher et les criminels de guerre réfugiés au Tchad en lien avec la situation au Soudan.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-soudan-les-survivants-racontent-l-horreur-un-an-apr%C3%A8s-le-massacre-d-el-fasher"
+    },
+    {
+      "id": "28b78e6e02",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel dirigeant politique israélien fait face à des élections législatives cruciales qui font office de référendum sur son bilan après l'attaque du Hamas du 7 octobre 2023 ?",
+      "choix": [
+        "Benyamin Netanyahou",
+        "Yair Lapid",
+        "Benny Gantz",
+        "Gadi Eisenkot"
+      ],
+      "reponse": 0,
+      "explication": "Le Premier ministre Benyamin Netanyahou joue sa survie politique lors de ces élections face à son rival Gadi Eisenkot.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-qui-est-gadi-eisenkot"
+    },
+    {
+      "id": "7286316689",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel est l'objet principal du projet de loi 'casseurs-payeurs' examiné par le Sénat ?",
+      "choix": [
+        "Taxer les bénéfices des entreprises du numérique",
+        "Engager la responsabilité solidaire des fauteurs de trouble et faciliter le retrait de contenus",
+        "Interdire totalement les réseaux sociaux",
+        "Créer un service civique obligatoire pour les jeunes"
       ],
       "reponse": 1,
-      "explication": "Kylian Mbappé a présenté ses excuses dans un communiqué après une plaisanterie maladroite sur Mao Zedong qui lui a fait perdre des partenariats.",
+      "explication": "Le projet de loi aborde la responsabilité solidaire des fauteurs de trouble, la saisie de leurs prestations sociales et le retrait rapide de contenus en ligne.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-projet-de-loi-casseurs-payeurs-le-gouvernement-face-aux-r%C3%A9seaux-sociaux"
+    },
+    {
+      "id": "6b672ce0fa",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quelle personnalité publique a présenté ses excuses après une polémique liée à une plaisanterie sur Mao Zedong ?",
+      "choix": [
+        "Un dirigeant d'un club de football chinois",
+        "Emmanuel Macron",
+        "Le président de la Liga",
+        "Kylian Mbappé"
+      ],
+      "reponse": 3,
+      "explication": "Kylian Mbappé a présenté ses excuses après sa plaisanterie sur Mao Zedong qui avait entraîné la perte de partenariats.",
       "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/jce-propos-etait-maladroit-kylian-mbappe-presente-ses-excuses-a-la-chine-apres-avoir-declenche-une-polemique-a-cause-d-une-plaisanterie-sur-mao-zedong_8255830.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "9ca508cc9d",
+      "id": "30e297d264",
       "date": "2026-10-27",
       "type": "actu",
-      "question": "Quel taux de \"taxe émeutes\" pourrait prochainement s'appliquer aux contrats d'assurance auto et habitation ?",
-      "choix": [
-        "0,2 %",
-        "0,8 %",
-        "1,2 %",
-        "0,5 %"
-      ],
-      "reponse": 1,
-      "explication": "Une taxe émeutes de 0,8 % pourrait toucher les assurances automobile et habitation, pesant directement sur les assurés.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-une-taxe-%C3%A9meutes-de-0-8-pourrait-toucher-les-assurances-auto-et-habitation"
-    },
-    {
-      "id": "1c1f003542",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Combien de ressortissants français ont été condamnés à la réclusion criminelle à perpétuité par un tribunal irakien pour appartenance à l'EI ?",
+      "question": "Combien de ressortissants français ont été condamnés à la réclusion criminelle à perpétuité par un tribunal irakien pour appartenance à l'État islamique ?",
       "choix": [
         "Quatre",
-        "Dix",
-        "Deux",
-        "Six"
+        "Sept",
+        "Six",
+        "Cinq"
       ],
-      "reponse": 3,
-      "explication": "Six Français ont été condamnés à la perpétuité (et un septième à 15 ans de prison) pour appartenance au groupe État islamique.",
+      "reponse": 2,
+      "explication": "Six Français ont été condamnés à la perpétuité et un septième à 15 ans de prison par un tribunal en Irak.",
       "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-irak-six-fran%C3%A7ais-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-%C3%A0-l-ei"
     },
     {
-      "id": "f58b0bba56",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Selon une enquête de l'Éducation nationale, quelle proportion d'élèves de CE2 déclare avoir subi des violences sexuelles à l'école ?",
-      "choix": [
-        "Un sur dix",
-        "Deux sur dix",
-        "La moitié",
-        "Quatre sur dix"
-      ],
-      "reponse": 3,
-      "explication": "L'enquête indique que quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles au sein de leur établissement.",
-      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/quatre-eleves-de-ce2-sur-dix-declarent-avoir-subi-des-violences-sexuelles-a-l-ecole-selon-une-enquete-de-l-education-nationale_8255653.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "51607accd7",
+      "id": "2979e56084",
       "date": "2026-10-27",
       "type": "culture",
-      "question": "Selon la légende populaire, quel sport serait né grâce à William Webb Ellis qui aurait attrapé un ballon à pleines mains lors d'un match de football ?",
+      "question": "Selon la légende populaire, quel élève aurait inventé le rugby moderne en attrapant le ballon à pleines mains lors d'un match de football ?",
       "choix": [
-        "Le rugby",
-        "Le handball",
-        "Le basketball",
-        "Le football américain"
+        "Richard Lindon",
+        "Thomas Arnold",
+        "William Webb Ellis",
+        "Arthur Conan Doyle"
       ],
-      "reponse": 0,
-      "explication": "La légende attribue l'invention du rugby à William Webb Ellis dans la ville de Rugby en Angleterre.",
+      "reponse": 2,
+      "explication": "William Webb Ellis est associé par la légende à l'invention du rugby dans la ville de Rugby en Angleterre.",
       "lien": ""
     },
     {
-      "id": "4d69b28f68",
+      "id": "223cf657c7",
       "date": "2026-10-27",
       "type": "culture",
-      "question": "Sur quelle île s'est épanouie la civilisation minoenne autour du palais de Cnossos ?",
+      "question": "Quelle île méditerranéenne abritait la brillante civilisation minoenne centrée autour du palais de Cnossos ?",
       "choix": [
         "La Sicile",
-        "Chypre",
         "La Crète",
-        "La Corse"
+        "Chypre",
+        "La Sardaigne"
       ],
-      "reponse": 2,
-      "explication": "La civilisation minoenne s'est développée sur l'île de Crète et s'est illustrée notamment autour du palais de Cnossos.",
+      "reponse": 1,
+      "explication": "La civilisation minoenne s'est épanouie sur l'île de Crète avant de subir le contrecoup de l'éruption de Santorin.",
       "lien": ""
     }
   ]

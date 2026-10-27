@@ -704,6 +704,111 @@
       "reponse": 2,
       "explication": "La civilisation minoenne s'est développée sur l'île de Crète et s'est illustrée notamment autour du palais de Cnossos.",
       "lien": ""
+    },
+    {
+      "id": "ac3fafc46c",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel pays fait face à des inquiétudes concernant le retrait tchadien en 2027 qui pourrait compliquer les enquêtes de la CPI sur des crimes de guerre ?",
+      "choix": [
+        "La République centrafricaine",
+        "Le Mali",
+        "Le Soudan",
+        "Le Niger"
+      ],
+      "reponse": 2,
+      "explication": "L'article concerne le massacre d'El-Fasher et les criminels de guerre réfugiés au Tchad en lien avec la situation au Soudan.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-soudan-les-survivants-racontent-l-horreur-un-an-apr%C3%A8s-le-massacre-d-el-fasher"
+    },
+    {
+      "id": "28b78e6e02",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel dirigeant politique israélien fait face à des élections législatives cruciales qui font office de référendum sur son bilan après l'attaque du Hamas du 7 octobre 2023 ?",
+      "choix": [
+        "Benyamin Netanyahou",
+        "Yair Lapid",
+        "Benny Gantz",
+        "Gadi Eisenkot"
+      ],
+      "reponse": 0,
+      "explication": "Le Premier ministre Benyamin Netanyahou joue sa survie politique lors de ces élections face à son rival Gadi Eisenkot.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-qui-est-gadi-eisenkot"
+    },
+    {
+      "id": "7286316689",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel est l'objet principal du projet de loi 'casseurs-payeurs' examiné par le Sénat ?",
+      "choix": [
+        "Taxer les bénéfices des entreprises du numérique",
+        "Engager la responsabilité solidaire des fauteurs de trouble et faciliter le retrait de contenus",
+        "Interdire totalement les réseaux sociaux",
+        "Créer un service civique obligatoire pour les jeunes"
+      ],
+      "reponse": 1,
+      "explication": "Le projet de loi aborde la responsabilité solidaire des fauteurs de trouble, la saisie de leurs prestations sociales et le retrait rapide de contenus en ligne.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-projet-de-loi-casseurs-payeurs-le-gouvernement-face-aux-r%C3%A9seaux-sociaux"
+    },
+    {
+      "id": "6b672ce0fa",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quelle personnalité publique a présenté ses excuses après une polémique liée à une plaisanterie sur Mao Zedong ?",
+      "choix": [
+        "Un dirigeant d'un club de football chinois",
+        "Emmanuel Macron",
+        "Le président de la Liga",
+        "Kylian Mbappé"
+      ],
+      "reponse": 3,
+      "explication": "Kylian Mbappé a présenté ses excuses après sa plaisanterie sur Mao Zedong qui avait entraîné la perte de partenariats.",
+      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/jce-propos-etait-maladroit-kylian-mbappe-presente-ses-excuses-a-la-chine-apres-avoir-declenche-une-polemique-a-cause-d-une-plaisanterie-sur-mao-zedong_8255830.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "30e297d264",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Combien de ressortissants français ont été condamnés à la réclusion criminelle à perpétuité par un tribunal irakien pour appartenance à l'État islamique ?",
+      "choix": [
+        "Quatre",
+        "Sept",
+        "Six",
+        "Cinq"
+      ],
+      "reponse": 2,
+      "explication": "Six Français ont été condamnés à la perpétuité et un septième à 15 ans de prison par un tribunal en Irak.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-irak-six-fran%C3%A7ais-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-%C3%A0-l-ei"
+    },
+    {
+      "id": "2979e56084",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Selon la légende populaire, quel élève aurait inventé le rugby moderne en attrapant le ballon à pleines mains lors d'un match de football ?",
+      "choix": [
+        "Richard Lindon",
+        "Thomas Arnold",
+        "William Webb Ellis",
+        "Arthur Conan Doyle"
+      ],
+      "reponse": 2,
+      "explication": "William Webb Ellis est associé par la légende à l'invention du rugby dans la ville de Rugby en Angleterre.",
+      "lien": ""
+    },
+    {
+      "id": "223cf657c7",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Quelle île méditerranéenne abritait la brillante civilisation minoenne centrée autour du palais de Cnossos ?",
+      "choix": [
+        "La Sicile",
+        "La Crète",
+        "Chypre",
+        "La Sardaigne"
+      ],
+      "reponse": 1,
+      "explication": "La civilisation minoenne s'est épanouie sur l'île de Crète avant de subir le contrecoup de l'éruption de Santorin.",
+      "lien": ""
     }
   ]
 }
