@@ -509,6 +509,111 @@
       "reponse": 3,
       "explication": "La civilisation minoenne s'est développée sur l'île de Crète autour du somptueux palais de Cnossos.",
       "lien": ""
+    },
+    {
+      "id": "a11c13a86d",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Combien de ressortissants français ont été condamnés à la réclusion criminelle à perpétuité en Irak pour appartenance à l'organisation État islamique ?",
+      "choix": [
+        "Quatre",
+        "Dix",
+        "Sept",
+        "Six"
+      ],
+      "reponse": 3,
+      "explication": "Un tribunal irakien a condamné six ressortissants français à la perpétuité, tandis qu'un septième a écopé de 15 ans d'emprisonnement.",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261027-irak-condamne-six-fran%C3%A7ais-%C3%A0-la-perpetuite-pour-appartenance-a-organisation-terroriste-etat-islamique-ei"
+    },
+    {
+      "id": "6852914f24",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel club de football américain a fait l'objet d'une polémique en raison de son nouveau logo jugé proche de l'esthétique nazie ?",
+      "choix": [
+        "Les New England Patriots",
+        "Les Atlanta Falcons",
+        "Les Green Bay Packers",
+        "Les Dallas Cowboys"
+      ],
+      "reponse": 1,
+      "explication": "Le club des Atlanta Falcons a présenté un nouveau logo inspiré de 1966 qui a provoqué des réactions sur les réseaux sociaux en raison de sa ressemblance perçue avec l'Allemagne nazie.",
+      "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/polemique-autour-du-nouveau-logo-des-atlanta-falcons_8234662.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "1b50f5de6b",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Qui a remporté le Ballon d'Or masculin lors de la cérémonie organisée à Londres en 2026 ?",
+      "choix": [
+        "Harry Kane",
+        "Lionel Messi",
+        "Erling Haaland",
+        "Kylian Mbappé"
+      ],
+      "reponse": 0,
+      "explication": "L'attaquant anglais Harry Kane a remporté le trophée masculin en devançant Kylian Mbappé.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-ballon-d-or-2026-harry-kane-et-alexia-putellas-sacr%C3%A9s-%C3%A0-londres"
+    },
+    {
+      "id": "7ad1d86145",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Selon l'Insee, à quelle date remonte le précédent niveau aussi bas de la confiance des ménages français mesurée en octobre ?",
+      "choix": [
+        "Novembre 2018",
+        "Janvier 2015",
+        "Juin 2013",
+        "Juin 2010"
+      ],
+      "reponse": 2,
+      "explication": "La confiance des ménages mesurée en octobre a atteint son niveau le plus bas depuis juin 2013 en raison de la hausse des prix et des inquiétudes liées au chômage.",
+      "lien": "https://www.franceinfo.fr/economie/menages/situation-financiere-inquietante-hausse-des-prix-inquietudes-liees-au-chomage-et-a-l-inflation-la-confiance-des-menages-en-octobre-au-plus-bas-depuis-juin-2013-selon-l-insee_8255350.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "b5b290070e",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Pour quelle raison Kylian Mbappé fait-il l'objet de critiques et de l'annulation de contrats publicitaires en Chine ?",
+      "choix": [
+        "Il a critiqué le régime économique chinois",
+        "Il a refusé de disputer un match amical",
+        "Il semble plaisanter au sujet de l'ancien dirigeant Mao Zedong dans une vidéo",
+        "Il a porté un maillot d'une équipe rivale"
+      ],
+      "reponse": 2,
+      "explication": "Une vague de critiques a suivi la diffusion en ligne d'une vidéo où le joueur français semble plaisanter au sujet de l'ancien dirigeant historique Mao Zedong.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-chine-kylian-mbapp%C3%A9-accus%C3%A9-d-offense-aux-sentiments-nationaux"
+    },
+    {
+      "id": "24e2c20266",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Quel personnage de légende est traditionnellement associé à l'invention du rugby en Angleterre ?",
+      "choix": [
+        "Arthur Wellesley de Wellington",
+        "Thomas Arnold",
+        "William Webb Ellis",
+        "Charles Dickens"
+      ],
+      "reponse": 2,
+      "explication": "Selon la légende populaire, le rugby est né lorsqu'un élève nommé William Webb Ellis a attrapé le ballon à pleines mains lors d'un match de football.",
+      "lien": ""
+    },
+    {
+      "id": "272c01f7dd",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Quelle civilisation de l'âge du bronze s'est épanouie sur l'île de Crète autour du palais de Cnossos ?",
+      "choix": [
+        "La civilisation minoenne",
+        "La civilisation troyenne",
+        "La civilisation mycénienne",
+        "La civilisation cycladique"
+      ],
+      "reponse": 0,
+      "explication": "La civilisation minoenne s'est développée sur l'île de Crète autour du palais de Cnossos avant sa fin marquée par l'éruption volcanique de l'île de Théra.",
+      "lien": ""
     }
   ]
 }
