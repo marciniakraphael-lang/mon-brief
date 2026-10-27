@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "mode": "evening",
-  "updated": "2026-10-27T13:35:36.631466+01:00",
+  "updated": "2026-10-27T18:23:09.247814+01:00",
   "deja_presente": [
     {
       "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
@@ -80,60 +80,92 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Soudan : les survivants racontent l’horreur, un an après le massacre d’El-Fasher",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-soudan-les-survivants-racontent-l-horreur-un-an-apr%C3%A8s-le-massacre-d-el-fasher",
+      "titre": "Serbie : l'ex-dirigeant Aleksandar Vucic va-t-il vraiment manquer à la Russie ?",
+      "lien": "https://www.france24.com/fr/europe/20261027-serbie-ex-dirigeant-aleksandar-vucic-vraiment-manquer-russie",
       "source": "France 24",
-      "date": "2026-10-27T13:30:34+01:00",
-      "resume": "Un an après le massacre d'El-Fasher, les survivants témoignent des atrocités subies au Soudan. Parallèlement, les États membres de la Coalition pour la prévention des atrocités et la justice au Soudan alertent lundi sur un risque extrêmement élevé de nouvelles violences de grande ampleur. La question des poursuites des criminels de guerre réfugiés au Tchad se pose également, alors que le retrait tchadien prévu pour juillet 2027 pourrait compliquer les enquêtes de la CPI.",
-      "contexte": "Le conflit au Soudan, qui oppose l'armée régulière et les forces paramilitaires, a provoqué l'une des pires crises humanitaires et sécuritaires au monde. Les difficultés d'accès à la justice internationale s'expliquent souvent par les tensions géopolitiques régionales et la complexité des coopérations étatiques avec la Cour pénale internationale."
+      "date": "2026-10-27T18:05:02+01:00",
+      "resume": "L'ex-dirigeant nationaliste serbe Aleksandar Vucic a perdu les élections législatives en Serbie face à un mouvement étudiant. Malgré ce changement politique, les analystes estiment qu'il est prématuré de prédire une rupture des relations diplomatiques entre Belgrade et Moscou. Le pays conserve des liens historiques et stratégiques étroits avec la Russie.",
+      "contexte": "La Serbie occupe une position charnière entre l'influence de l'Union européenne et celle de la Russie. Ce basculement électoral illustre une volonté de changement portée par la jeunesse, mais le maintien de la coopération avec le Kremlin reste un enjeu majeur pour la stabilité énergétique et diplomatique de la région."
     },
     {
-      "titre": "Elections législatives israéliennes : qui est Gadi Eisenkot ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-qui-est-gadi-eisenkot",
-      "source": "France 24 · franceinfo",
-      "date": "2026-10-27T13:30:20+01:00",
-      "resume": "Plus de sept millions d'électeurs israéliens sont appelés aux urnes mardi pour des élections législatives cruciales qui font office de référendum sur le bilan du Premier ministre Benjamin Netanyahu. Ce dernier, qui joue sa survie politique après l'attaque du Hamas du 7 octobre 2023, a dénoncé des tentatives de voler le scrutin et s'en est pris aux opposants arabes israéliens. Face à lui, le centriste et principal rival Gadi Eisenkot a exhorté les électeurs à écarter du pouvoir ce qu'il qualifie de pire gouvernement de l'histoire du pays.",
-      "contexte": "Ces élections se déroulent dans un climat d'extrême polarisation politique et sécuritaire en Israël. Le résultat de ce scrutin pourrait redéfinir profondément la coalition au pouvoir, la gestion du conflit en cours et les relations diplomatiques du pays."
-    },
-    {
-      "titre": "Vladimir Poutine accuse l'Union européenne et l'Otan de prolonger la guerre en Ukraine",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-accuse-l-union-europeenne-et-l-otan-de-prolonger-la-guerre-en-ukraine-lors-d-un-appel-avec-des-dirigeants-nordiques_8255782.html#xtor=RSS-3-[lestitres]",
+      "titre": "L'Union européenne veut renforcer l'agence Frontex et élargir ses pouvoirs d'expulsion de personnes exilées",
+      "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-veut-renforcer-frontex-et-elargir-ses-pouvoirs-d-expulsion-de-migrants_8255833.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-27T13:28:17+01:00",
-      "resume": "Le président russe Vladimir Poutine a accusé mardi l'Union européenne et l'Otan de prolonger la guerre en Ukraine lors d'un entretien téléphonique avec deux dirigeants nordiques. Il a affirmé qu'une paix juste et durable ne pourrait être atteinte qu'à condition de prendre pleinement en compte les intérêts de la Russie.",
-      "contexte": "Cette prise de position s'inscrit dans la stratégie de communication de Moscou face aux pays occidentaux et nordiques soutenant l'Ukraine. L'objectif est généralement de rejeter la responsabilité de l'impasse diplomatique sur les alliés de Kyiv tout en posant des conditions maximalistes pour de futures négociations."
+      "date": "2026-10-27T18:02:38+01:00",
+      "resume": "La présidente de la Commission européenne, Ursula von der Leyen, a proposé de renforcer les pouvoirs de l'agence Frontex. Cette mesure vise à accroître les capacités de l'Union européenne en matière d'expulsion des personnes exilées. L'objectif affiché est de renforcer le contrôle des frontières et de décider unilatéralement des conditions d'entrée dans l'espace communautaire.",
+      "contexte": "La gestion des flux migratoires est l'un des sujets les plus clivants au sein de l'Union européenne, alimentant de nombreux débats politiques nationaux. Ce renforcement s'inscrit dans une politique plus stricte de sécurisation des frontières extérieures, souvent justifiée par la nécessité de réguler l'immigration illégale et de garantir la sécurité intérieure."
     },
     {
-      "titre": "Projet de loi \"Casseurs-payeurs\" : le gouvernement face aux réseaux sociaux",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-projet-de-loi-casseurs-payeurs-le-gouvernement-face-aux-r%C3%A9seaux-sociaux",
+      "titre": "Cessez-le-feu à Olechky pour faciliter l'acheminement d'aide humanitaire",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-cessez-le-feu-%C3%A0-olechky-pour-faciliter-l-acheminement-d-aide-humanitaire",
       "source": "France 24",
-      "date": "2026-10-27T13:24:20+01:00",
-      "resume": "Le Sénat examine mardi le projet de loi \"casseurs-payeurs\", qui suscite de vives discussions en raison de mesures controversées sur la responsabilité solidaire des fauteurs de trouble et la saisie de leurs prestations sociales. Le gouvernement souhaite également introduire une procédure d'urgence pour exiger le retrait rapide des contenus sur les réseaux sociaux appelant à l'insurrection ou à l'armement contre l'État. En parallèle, une \"taxe émeutes\" de 0,8 % est évoquée pour potentiellement impacter les contrats d'assurance auto et habitation.",
-      "contexte": "Ces mesures interviennent dans un contexte d'automne marqué par de fortes contestations sociales et des épisodes de violences urbaines et de pillages. Les débats illustrent la difficulté permanente pour l'exécutif de concilier le maintien de l'ordre, l'indemnisation des dégâts et la protection des libertés publiques."
+      "date": "2026-10-27T17:57:44+01:00",
+      "resume": "Un cessez-le-feu local a été instauré à Olechky, en Ukraine, afin de permettre l'évacuation des civils et l'acheminement d'aide humanitaire. Cette trêve, annoncée par la première dame des États-Unis Melania Trump, a été obtenue suite à des négociations, la Russie refusant par ailleurs tout cessez-le-feu généralisé sur le front.",
+      "contexte": "La situation humanitaire dans les zones de conflit ukrainiennes demeure critique en raison de l'intensité des combats. Ces trêves localisées sont essentielles pour protéger les populations civiles piégées, bien qu'elles ne règlent pas le conflit de fond qui oppose l'Ukraine et la Russie."
     },
     {
-      "titre": "\"Ce propos était maladroit\" : Kylian Mbappé présente ses excuses à la Chine après avoir déclenché une polémique à cause d'une plaisanterie sur Mao Zedong",
-      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/jce-propos-etait-maladroit-kylian-mbappe-presente-ses-excuses-a-la-chine-apres-avoir-declenche-une-polemique-a-cause-d-une-plaisanterie-sur-mao-zedong_8255830.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T13:08:48+01:00",
-      "resume": "La star du Real Madrid Kylian Mbappé a présenté ses excuses publiques lundi après avoir provoqué une polémique en raison d'une plaisanterie concernant Mao Zedong. Cette sortie médiatique avait entraîné la perte de plusieurs partenariats et poussé le président de la Liga à réagir.",
-      "contexte": "Les sportifs de premier plan font l'objet d'une surveillance médiatique mondiale constante, où la moindre déclaration politique ou historique maladroite peut avoir d'importantes répercussions commerciales et diplomatiques, en particulier sur des marchés sensibles comme la Chine."
-    },
-    {
-      "titre": "Journalistes brutalisés au congrès du RN : la presse doit pouvoir travailler librement, alertent 44 sociétés de journalistes",
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/27/journalistes-brutalises-au-congres-du-rn-la-presse-doit-pouvoir-travailler-librement-alertent-44-societes-de-journalistes_6801268_823448.html",
+      "titre": "Midterms 2026 : Donald Trump dit qu’il acceptera les résultats des élections si elles sont « honnêtes », dans une nouvelle allusion à des fraudes électorales jamais prouvées",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/27/midterms-2026-donald-trump-dit-qu-il-acceptera-les-resultats-des-elections-si-elles-sont-honnetes-dans-une-nouvelle-allusion-a-des-fraudes-electorales-jamais-prouvees_6801324_3210.html",
       "source": "Le Monde",
-      "date": "2026-10-27T12:57:00+01:00",
-      "resume": "Plus de 40 sociétés de journalistes ont publié une alerte pour dénoncer les violences subies par des reporters de « Mediapart » et de « Politis », molestés par le service d'ordre et des militants lors du congrès du Rassemblement national les 24 et 25 octobre derniers. Les signataires rappellent l'impératif constitutionnel et démocratique de laisser la presse travailler et couvrir librement les événements politiques.",
-      "contexte": "Les relations tendues entre certains partis politiques et les médias traduisent une défiance croissante dans le débat public. La liberté de la presse est un pilier fondamental de la démocratie, et la sécurisation des journalistes en meeting est un sujet de préoccupation constant pour les rédactions."
+      "date": "2026-10-27T17:56:36+01:00",
+      "resume": "Le président américain Donald Trump a déclaré qu'il accepterait les résultats des élections de mi-mandat de 2026 uniquement si elles sont jugées « honnêtes ». Cette prise de parole ravive ses critiques récurrentes sur la fiabilité du système électoral américain, sans toutefois apporter de preuves de fraudes. Ces élections de mi-mandat sont historiquement difficiles pour le parti au pouvoir à la Maison Blanche.",
+      "contexte": "La contestation systématique des résultats électoraux est devenue une stratégie politique récurrente dans le discours de Donald Trump, visant à mobiliser sa base électorale. Cette rhétorique soulève des inquiétudes quant à la polarisation de la société américaine et au respect des institutions démocratiques après le scrutin."
     },
     {
-      "titre": "Irak : six Français condamnés à la perpétuité pour appartenance à l'EI",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-irak-six-fran%C3%A7ais-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-%C3%A0-l-ei",
+      "titre": "Eisenkot accuse Netanyahu de se préparer à contester les résultats",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-eisenkot-accuse-netanyahu-de-se-pr%C3%A9parer-%C3%A0-contester-les-r%C3%A9sultats",
       "source": "France 24",
-      "date": "2026-10-27T12:48:30+01:00",
-      "resume": "Un tribunal irakien a condamné mardi six ressortissants français à la réclusion criminelle à perpétuité et un septième à 15 ans de prison pour leur appartenance au groupe État islamique. L'annonce a été faite depuis Bagdad par la correspondante sur place.",
-      "contexte": "Le sort des ressortissants occidentaux partis rejoindre les rangs de Daech et jugés dans les pays de capture (notamment en Irak et en Syrie) pose la question récurrente de leur rapatriement. La position officielle de nombreux États européens a longtemps été de privilégier les procès locaux, malgré les critiques des ONG sur les garanties judiciaires et l'application de la peine de mort."
+      "date": "2026-10-27T17:56:04+01:00",
+      "resume": "Le général Eisenkot a publiquement accusé le Premier ministre israélien Benjamin Netanyahu de préparer une stratégie pour contester les résultats électoraux. Cette accusation intervient dans un climat politique intérieur tendu en Israël. Le sujet fait l'objet d'analyses croisées sur l'évolution de la situation démocratique dans le pays.",
+      "contexte": "Les tensions politiques en Israël sont exacerbées par des divergences profondes sur la gestion de l'État et les affaires judiciaires entourant les dirigeants en place. De telles accusations de remise en cause des processus électoraux fragilisent la confiance des citoyens dans leurs institutions."
+    },
+    {
+      "titre": "L'armée iranienne affirme qu'un pétrolier a pris feu dans le détroit d'Ormuz après avoir percuté des mines",
+      "lien": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-armee-iranienne-affirme-qu-un-petrolier-a-pris-feu-dans-le-detroit-d-ormuz-apres-avoir-percute-des-mines_8256169.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T17:52:57+01:00",
+      "resume": "L'armée iranienne a rapporté qu'un pétrolier a pris feu dans le détroit d'Ormuz après avoir percuté des mines. L'Iran continue de revendiquer sa souveraineté sur ce passage maritime stratégique. Cette zone est cruciale pour le commerce mondial, puisqu'un cinquième des hydrocarbures mondiaux y transitait avant le conflit actuel.",
+      "contexte": "Le détroit d'Ormuz est un point de passage ultra-sensible pour l'économie mondiale. Toute perturbation dans ce secteur, qu'elle soit due à un accident ou à un acte délibéré, provoque immédiatement des tensions diplomatiques et des fluctuations sur les prix de l'énergie."
+    },
+    {
+      "titre": "Des députés de gauche et écologistes quittent l'hémicycle après l'hommage à la victime de l'attentat de Trappes",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/videos-des-deputes-quittent-l-assemblee-nationale-pendant-la-prise-de-parole-de-l-elu-rn-sebastien-chenu-apres-l-hommage-a-la-victime-de-l-attentat-de-trappes_8255992.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T17:50:34+01:00",
+      "resume": "Une vive tension a éclaté à l'Assemblée nationale mardi lors d'un hommage rendu à Pengo Bossio Wangi, victime de l'attentat raciste survenu à Trappes le vendredi précédent. Des députés de gauche et écologistes ont quitté l'hémicycle durant la minute de silence. Cet événement souligne les divisions persistantes au sein de la classe politique française concernant les réponses aux violences racistes.",
+      "contexte": "Les hommages officiels au sein des institutions sont parfois le théâtre de manifestations politiques. Le départ d'une partie des députés témoigne d'un désaccord profond sur la manière dont les autorités traitent les questions liées au racisme et à la sécurité publique."
+    },
+    {
+      "titre": "Mobilisation lycéenne : pourquoi le gouvernement a-t-il annoncé ses mesures à des créateurs de contenu en avant-première ?",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-pourquoi-le-gouvernement-a-t-il-annonce-ses-mesures-a-des-createurs-de-contenu-en-avant-premiere_8253583.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-27T17:50:16+01:00",
+      "resume": "Le gouvernement français a annoncé des mesures pour remplacer Parcoursup d'ici 2027, répondant ainsi à une demande forte des lycéens mobilisés depuis plusieurs semaines. La méthode de communication a toutefois suscité la colère des syndicats lycéens, le gouvernement ayant choisi de dévoiler ces projets en avant-première à des créateurs de contenu sur internet plutôt qu'aux représentants syndicaux.",
+      "contexte": "La réforme de l'accès à l'enseignement supérieur est un sujet récurrent de contestation en France, Parcoursup étant souvent critiqué pour son opacité. En s'adressant directement aux influenceurs, le gouvernement cherche à toucher une audience jeune, mais cette stratégie risque d'affaiblir le dialogue social avec les organisations représentatives."
+    },
+    {
+      "titre": "José Beaurain, député RN de l’Aisne, visé par une enquête pour détournement de fonds publics",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/27/jose-beaurain-depute-rn-de-l-aisne-vise-par-une-enquete-pour-detournement-de-fonds-publics_6801318_823448.html",
+      "source": "Le Monde",
+      "date": "2026-10-27T17:38:59+01:00",
+      "resume": "Le député RN de l'Aisne, José Beaurain, est visé par une enquête pour détournement de fonds publics après des révélations du « Canard enchaîné ». L'élu, qui bénéficie d'une enveloppe majorée en tant que député non-voyant, est accusé d'avoir exigé de ses collaborateurs qu'ils lui rétrocèdent une partie de leurs primes en liquide. L'intéressé a formellement démenti ces allégations.",
+      "contexte": "L'utilisation des fonds parlementaires est strictement encadrée pour éviter tout abus. Les soupçons de détournement de fonds publics, lorsqu'ils touchent des élus, font l'objet d'investigations judiciaires systématiques pour garantir l'intégrité de la vie politique."
+    },
+    {
+      "titre": "Chine : Mbappé s'excuse après être accusé d'offense aux sentiments nationaux",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-mbapp%C3%A9-s-excuse-apr%C3%A8s-avoir-%C3%A9t%C3%A9-accus%C3%A9-d-offense-aux-sentiments-nationaux",
+      "source": "France 24",
+      "date": "2026-10-27T17:36:02+01:00",
+      "resume": "La star du football Kylian Mbappé a présenté des excuses après la diffusion d'une vidéo où il semblait plaisanter au sujet de Mao Zedong. Cette séquence a provoqué une vive polémique en Chine, entraînant des appels au boycott et l'annulation de contrats publicitaires. Le joueur a déclaré être « sincèrement désolé » pour ce qu'il qualifie d'offense involontaire aux sentiments nationaux.",
+      "contexte": "La Chine est un marché majeur pour les marques et les personnalités internationales, mais le pays impose des limites strictes sur les sujets liés à son histoire politique. Les personnalités publiques doivent naviguer avec prudence pour éviter de froisser les autorités ou l'opinion publique locale, sous peine de conséquences économiques immédiates."
+    },
+    {
+      "titre": "« La Messagerie du diable. Quand la police pirate les narcos », sur HBO Max : un récit vertigineux et troublant",
+      "lien": "https://www.lemonde.fr/culture/article/2026/10/27/la-messagerie-du-diable-quand-la-police-pirate-les-narcos-sur-hbo-max-un-recit-vertigineux-et-troublant_6801317_3246.html",
+      "source": "Le Monde",
+      "date": "2026-10-27T17:30:08+01:00",
+      "resume": "La plateforme HBO Max diffuse « La Messagerie du diable », une série documentaire réalisée par Ksenia Bolchakova et Simon Bouisson. Le récit suit les méthodes de la police pour infiltrer et pirater les réseaux de trafiquants de drogues. La série propose une immersion dans le monde des organisations criminelles et de leurs acteurs de terrain.",
+      "contexte": "Le genre du documentaire d'investigation sur le crime organisé rencontre un succès croissant, offrant une perspective sur les enjeux sécuritaires complexes. Ces productions permettent de sensibiliser le public aux méthodes de lutte contre le narcotrafic tout en documentant les réalités du terrain."
     }
   ],
   "culture": [
@@ -158,108 +190,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "ac3fafc46c",
+      "id": "45b930b497",
       "date": "2026-10-27",
       "type": "actu",
-      "question": "Quel pays fait face à des inquiétudes concernant le retrait tchadien en 2027 qui pourrait compliquer les enquêtes de la CPI sur des crimes de guerre ?",
+      "question": "Quel événement politique a eu lieu en Serbie concernant l'ex-dirigeant Aleksandar Vucic ?",
       "choix": [
-        "La République centrafricaine",
-        "Le Mali",
-        "Le Soudan",
-        "Le Niger"
+        "Il a gagné les élections présidentielles",
+        "Il a annoncé son retrait définitif de la vie politique mondiale",
+        "Il a perdu les élections législatives face à un mouvement étudiant",
+        "Il a fondé un nouveau parti nationaliste"
       ],
       "reponse": 2,
-      "explication": "L'article concerne le massacre d'El-Fasher et les criminels de guerre réfugiés au Tchad en lien avec la situation au Soudan.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-soudan-les-survivants-racontent-l-horreur-un-an-apr%C3%A8s-le-massacre-d-el-fasher"
+      "explication": "Aleksandar Vucic a perdu les élections législatives face à un mouvement étudiant, bien que les relations avec la Russie ne devraient pas rompre immédiatement.",
+      "lien": "https://www.france24.com/fr/europe/20261027-serbie-ex-dirigeant-aleksandar-vucic-vraiment-manquer-russie"
     },
     {
-      "id": "28b78e6e02",
+      "id": "90b929bfe5",
       "date": "2026-10-27",
       "type": "actu",
-      "question": "Quel dirigeant politique israélien fait face à des élections législatives cruciales qui font office de référendum sur son bilan après l'attaque du Hamas du 7 octobre 2023 ?",
+      "question": "Quel organisme l'Union européenne souhaite-t-elle renforcer avec de nouveaux pouvoirs d'expulsion ?",
       "choix": [
-        "Benyamin Netanyahou",
-        "Yair Lapid",
-        "Benny Gantz",
-        "Gadi Eisenkot"
-      ],
-      "reponse": 0,
-      "explication": "Le Premier ministre Benyamin Netanyahou joue sa survie politique lors de ces élections face à son rival Gadi Eisenkot.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-qui-est-gadi-eisenkot"
-    },
-    {
-      "id": "7286316689",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Quel est l'objet principal du projet de loi 'casseurs-payeurs' examiné par le Sénat ?",
-      "choix": [
-        "Taxer les bénéfices des entreprises du numérique",
-        "Engager la responsabilité solidaire des fauteurs de trouble et faciliter le retrait de contenus",
-        "Interdire totalement les réseaux sociaux",
-        "Créer un service civique obligatoire pour les jeunes"
+        "Interpol",
+        "L'agence Frontex",
+        "La Cour pénale internationale",
+        "L'OTAN"
       ],
       "reponse": 1,
-      "explication": "Le projet de loi aborde la responsabilité solidaire des fauteurs de trouble, la saisie de leurs prestations sociales et le retrait rapide de contenus en ligne.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-projet-de-loi-casseurs-payeurs-le-gouvernement-face-aux-r%C3%A9seaux-sociaux"
+      "explication": "La présidente de la Commission européenne a proposé de renforcer les pouvoirs de l'agence Frontex pour accroître les capacités d'expulsion des personnes exilées.",
+      "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-veut-renforcer-frontex-et-elargir-ses-pouvoirs-d-expulsion-de-migrants_8255833.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "6b672ce0fa",
+      "id": "9a15a5da32",
       "date": "2026-10-27",
       "type": "actu",
-      "question": "Quelle personnalité publique a présenté ses excuses après une polémique liée à une plaisanterie sur Mao Zedong ?",
+      "question": "Dans quel passage maritime stratégique un pétrolier a-t-il pris feu après avoir percuté des mines ?",
       "choix": [
-        "Un dirigeant d'un club de football chinois",
-        "Emmanuel Macron",
-        "Le président de la Liga",
-        "Kylian Mbappé"
+        "Le détroit d'Ormuz",
+        "Le détroit de Malacca",
+        "Le canal de Suez",
+        "Le détroit de Gibraltar"
       ],
-      "reponse": 3,
-      "explication": "Kylian Mbappé a présenté ses excuses après sa plaisanterie sur Mao Zedong qui avait entraîné la perte de partenariats.",
-      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/jce-propos-etait-maladroit-kylian-mbappe-presente-ses-excuses-a-la-chine-apres-avoir-declenche-une-polemique-a-cause-d-une-plaisanterie-sur-mao-zedong_8255830.html#xtor=RSS-3-[lestitres]"
+      "reponse": 0,
+      "explication": "L'incident a eu lieu dans le détroit d'Ormuz, une zone cruciale pour le transit des hydromondiaux.",
+      "lien": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-armee-iranienne-affirme-qu-un-petrolier-a-pris-feu-dans-le-detroit-d-ormuz-apres-avoir-percute-des-mines_8256169.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "30e297d264",
+      "id": "f57717fab0",
       "date": "2026-10-27",
       "type": "actu",
-      "question": "Combien de ressortissants français ont été condamnés à la réclusion criminelle à perpétuité par un tribunal irakien pour appartenance à l'État islamique ?",
+      "question": "Quel projet le gouvernement français a-t-il annoncé vouloir remplacer d'ici 2027 suite à une mobilisation lycéenne ?",
       "choix": [
-        "Quatre",
-        "Sept",
-        "Six",
-        "Cinq"
+        "Le baccalauréat",
+        "Parcoursup",
+        "Le Service National Universel",
+        "La réforme des retraites"
       ],
-      "reponse": 2,
-      "explication": "Six Français ont été condamnés à la perpétuité et un septième à 15 ans de prison par un tribunal en Irak.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-irak-six-fran%C3%A7ais-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-%C3%A0-l-ei"
+      "reponse": 1,
+      "explication": "Le gouvernement a annoncé des mesures pour remplacer Parcoursup d'ici 2027, bien que la méthode de communication auprès de créateurs de contenu ait fâché les syndicats.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-pourquoi-le-gouvernement-a-t-il-annonce-ses-mesures-a-des-createurs-de-contenu-en-avant-premiere_8253583.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "2979e56084",
+      "id": "d9333751dd",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Pourquoi la star du football Kylian Mbappé a-t-elle présenté des excuses en Chine ?",
+      "choix": [
+        "Pour avoir critiqué la cuisine locale",
+        "Pour avoir semblé plaisanter au sujet de Mao Zedong",
+        "Pour avoir refusé de signer un contrat publicitaire",
+        "Pour avoir raté un penalty décisif"
+      ],
+      "reponse": 1,
+      "explication": "Kylian Mbappé s'est excusé après la diffusion d'une vidéo où il semblait plaisanter au sujet de Mao Zedong, provoquant une vive polémique.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-mbapp%C3%A9-s-excuse-apr%C3%A8s-avoir-%C3%A9t%C3%A9-accus%C3%A9-d-offense-aux-sentiments-nationaux"
+    },
+    {
+      "id": "4ca2f40938",
       "date": "2026-10-27",
       "type": "culture",
-      "question": "Selon la légende populaire, quel élève aurait inventé le rugby moderne en attrapant le ballon à pleines mains lors d'un match de football ?",
+      "question": "Selon la légende populaire, quel élève aurait inventé le rugby moderne en attrapant un ballon à pleines mains lors d'un match de football ?",
       "choix": [
-        "Richard Lindon",
-        "Thomas Arnold",
+        "Henry Fielding",
         "William Webb Ellis",
-        "Arthur Conan Doyle"
+        "Charles Goodyear",
+        "Arthur Rugby"
       ],
-      "reponse": 2,
-      "explication": "William Webb Ellis est associé par la légende à l'invention du rugby dans la ville de Rugby en Angleterre.",
+      "reponse": 1,
+      "explication": "La légende attribue l'invention du rugby à William Webb Ellis dans la ville de Rugby en Angleterre.",
       "lien": ""
     },
     {
-      "id": "223cf657c7",
+      "id": "3a14fe3132",
       "date": "2026-10-27",
       "type": "culture",
-      "question": "Quelle île méditerranéenne abritait la brillante civilisation minoenne centrée autour du palais de Cnossos ?",
+      "question": "Quelle île a abrité la brillante civilisation minoenne autour du palais de Cnossos avant sa disparition causée par une éruption volcanique ?",
       "choix": [
-        "La Sicile",
-        "La Crète",
         "Chypre",
-        "La Sardaigne"
+        "La Crète",
+        "La Sicile",
+        "Malte"
       ],
       "reponse": 1,
-      "explication": "La civilisation minoenne s'est épanouie sur l'île de Crète avant de subir le contrecoup de l'éruption de Santorin.",
+      "explication": "La civilisation minoenne s'est épanouie sur l'île de Crète autour du palais de Cnossos.",
       "lien": ""
     }
   ]

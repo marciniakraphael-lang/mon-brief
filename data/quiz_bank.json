@@ -809,6 +809,111 @@
       "reponse": 1,
       "explication": "La civilisation minoenne s'est épanouie sur l'île de Crète avant de subir le contrecoup de l'éruption de Santorin.",
       "lien": ""
+    },
+    {
+      "id": "45b930b497",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel événement politique a eu lieu en Serbie concernant l'ex-dirigeant Aleksandar Vucic ?",
+      "choix": [
+        "Il a gagné les élections présidentielles",
+        "Il a annoncé son retrait définitif de la vie politique mondiale",
+        "Il a perdu les élections législatives face à un mouvement étudiant",
+        "Il a fondé un nouveau parti nationaliste"
+      ],
+      "reponse": 2,
+      "explication": "Aleksandar Vucic a perdu les élections législatives face à un mouvement étudiant, bien que les relations avec la Russie ne devraient pas rompre immédiatement.",
+      "lien": "https://www.france24.com/fr/europe/20261027-serbie-ex-dirigeant-aleksandar-vucic-vraiment-manquer-russie"
+    },
+    {
+      "id": "90b929bfe5",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel organisme l'Union européenne souhaite-t-elle renforcer avec de nouveaux pouvoirs d'expulsion ?",
+      "choix": [
+        "Interpol",
+        "L'agence Frontex",
+        "La Cour pénale internationale",
+        "L'OTAN"
+      ],
+      "reponse": 1,
+      "explication": "La présidente de la Commission européenne a proposé de renforcer les pouvoirs de l'agence Frontex pour accroître les capacités d'expulsion des personnes exilées.",
+      "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-veut-renforcer-frontex-et-elargir-ses-pouvoirs-d-expulsion-de-migrants_8255833.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "9a15a5da32",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Dans quel passage maritime stratégique un pétrolier a-t-il pris feu après avoir percuté des mines ?",
+      "choix": [
+        "Le détroit d'Ormuz",
+        "Le détroit de Malacca",
+        "Le canal de Suez",
+        "Le détroit de Gibraltar"
+      ],
+      "reponse": 0,
+      "explication": "L'incident a eu lieu dans le détroit d'Ormuz, une zone cruciale pour le transit des hydromondiaux.",
+      "lien": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-armee-iranienne-affirme-qu-un-petrolier-a-pris-feu-dans-le-detroit-d-ormuz-apres-avoir-percute-des-mines_8256169.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "f57717fab0",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Quel projet le gouvernement français a-t-il annoncé vouloir remplacer d'ici 2027 suite à une mobilisation lycéenne ?",
+      "choix": [
+        "Le baccalauréat",
+        "Parcoursup",
+        "Le Service National Universel",
+        "La réforme des retraites"
+      ],
+      "reponse": 1,
+      "explication": "Le gouvernement a annoncé des mesures pour remplacer Parcoursup d'ici 2027, bien que la méthode de communication auprès de créateurs de contenu ait fâché les syndicats.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-pourquoi-le-gouvernement-a-t-il-annonce-ses-mesures-a-des-createurs-de-contenu-en-avant-premiere_8253583.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "d9333751dd",
+      "date": "2026-10-27",
+      "type": "actu",
+      "question": "Pourquoi la star du football Kylian Mbappé a-t-elle présenté des excuses en Chine ?",
+      "choix": [
+        "Pour avoir critiqué la cuisine locale",
+        "Pour avoir semblé plaisanter au sujet de Mao Zedong",
+        "Pour avoir refusé de signer un contrat publicitaire",
+        "Pour avoir raté un penalty décisif"
+      ],
+      "reponse": 1,
+      "explication": "Kylian Mbappé s'est excusé après la diffusion d'une vidéo où il semblait plaisanter au sujet de Mao Zedong, provoquant une vive polémique.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-mbapp%C3%A9-s-excuse-apr%C3%A8s-avoir-%C3%A9t%C3%A9-accus%C3%A9-d-offense-aux-sentiments-nationaux"
+    },
+    {
+      "id": "4ca2f40938",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Selon la légende populaire, quel élève aurait inventé le rugby moderne en attrapant un ballon à pleines mains lors d'un match de football ?",
+      "choix": [
+        "Henry Fielding",
+        "William Webb Ellis",
+        "Charles Goodyear",
+        "Arthur Rugby"
+      ],
+      "reponse": 1,
+      "explication": "La légende attribue l'invention du rugby à William Webb Ellis dans la ville de Rugby en Angleterre.",
+      "lien": ""
+    },
+    {
+      "id": "3a14fe3132",
+      "date": "2026-10-27",
+      "type": "culture",
+      "question": "Quelle île a abrité la brillante civilisation minoenne autour du palais de Cnossos avant sa disparition causée par une éruption volcanique ?",
+      "choix": [
+        "Chypre",
+        "La Crète",
+        "La Sicile",
+        "Malte"
+      ],
+      "reponse": 1,
+      "explication": "La civilisation minoenne s'est épanouie sur l'île de Crète autour du palais de Cnossos.",
+      "lien": ""
     }
   ]
 }
