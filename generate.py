@@ -16,7 +16,8 @@ NL = chr(10)
 FENCE = chr(96) * 3
 
 MODEL = "gemini-flash-latest"
-MODEL_FAST = "gemini-flash-lite-latest"
+MODEL_2 = "gemini-2.5-flash"
+MODEL_FAST = "gemini-2.5-flash-lite"
 TIMEOUT = 150
 PARIS = ZoneInfo("Europe/Paris")
 DATA_DIR = "data"
@@ -196,7 +197,6 @@ def call_gemini(model, prompt):
     config = {
         "responseMimeType": "application/json",
         "temperature": 0.7,
-        "thinkingConfig": {"thinkingBudget": 0},
     }
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
@@ -227,7 +227,7 @@ def call_gemini(model, prompt):
 
 
 def gemini(prompt):
-    plan = [MODEL, MODEL, MODEL_FAST, MODEL_FAST]
+    plan = [MODEL, MODEL, MODEL_2, MODEL_FAST, MODEL_FAST]
     last_error = None
     for i, model in enumerate(plan):
         try:
@@ -238,7 +238,7 @@ def gemini(prompt):
             print("[!] Erreur Gemini " + str(e.code))
             print(detail[:300])
             last_error = e
-            time.sleep(15 * (i + 1))
+            time.sleep(10 * (i + 1))
         except (TimeoutError, OSError) as e:
             print("[!] Délai dépassé : " + str(e))
             last_error = e
