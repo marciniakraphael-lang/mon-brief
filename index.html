@@ -7,86 +7,117 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Brief">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="theme-color" content="#0f172a">
+<meta name="theme-color" content="#0a0d14">
 <title>Mon Brief</title>
 <link rel="manifest" href="manifest.json">
 <style>
-:root{--bg:#0f172a;--card:#1e293b;--txt:#f1f5f9;--mut:#94a3b8;--acc:#38bdf8;--ok:#22c55e;--ko:#ef4444}
-@media (prefers-color-scheme:light){:root{--bg:#f1f5f9;--card:#ffffff;--txt:#0f172a;--mut:#64748b;--acc:#0284c7}}
+:root{--bg:#0a0d14;--surface:#11151f;--surface2:#181d2a;--line:rgba(255,255,255,.07);--txt:#e8ebf2;--mut:#8089a0;--acc:#8ab4ff;--ok:#4ade80;--ko:#f87171}
+html{color-scheme:dark}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.5 -apple-system,system-ui,sans-serif;padding:env(safe-area-inset-top) 0 calc(76px + env(safe-area-inset-bottom))}
-header{padding:14px 16px 4px;display:flex;justify-content:space-between;align-items:center;max-width:720px;margin:0 auto}
-h1{font-size:22px;margin:0}
+body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.55 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif;-webkit-font-smoothing:antialiased;padding:env(safe-area-inset-top) 0 calc(88px + env(safe-area-inset-bottom))}
+header{max-width:720px;margin:0 auto;padding:22px 20px 4px;display:flex;justify-content:space-between;align-items:flex-end}
+h1{font-size:30px;font-weight:700;letter-spacing:-.02em;margin:0;line-height:1.1}
 .sub{color:var(--mut);font-size:13px}
-.wrap{max-width:720px;margin:0 auto;padding:0 14px}
-.statsbar{display:flex;gap:14px;align-items:center;background:var(--card);border-radius:14px;padding:10px 14px;margin-top:6px}
-.pie{width:54px;height:54px;border-radius:50%;flex:none}
-.pct{font-weight:700;font-size:17px}
-main{padding:8px 14px 20px;max-width:720px;margin:0 auto}
-h3{margin:22px 4px 8px;font-size:14px;text-transform:uppercase;letter-spacing:.05em;color:var(--mut);display:flex;justify-content:space-between;align-items:center}
-.card{background:var(--card);border-radius:14px;padding:12px 14px;margin:0 0 10px}
-.card summary{cursor:pointer;list-style:none}
-.card summary::-webkit-details-marker{display:none}
-.src{display:block;color:var(--mut);font-size:12px}
-.t{display:block;font-weight:600}
-.tag{display:inline-block;background:var(--acc);color:#04283a;border-radius:20px;padding:1px 10px;font-size:12px;font-weight:600;margin-bottom:6px}
-.ctx{background:rgba(56,189,248,.12);border-left:3px solid var(--acc);padding:8px 10px;border-radius:8px;font-size:15px;margin:8px 0}
-.row{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:8px}
-a{color:var(--acc)}
+.icon-btn{background:var(--surface);border:1px solid var(--line);color:var(--mut);width:40px;height:40px;border-radius:12px;display:grid;place-items:center;padding:0}
+.wrap{max-width:720px;margin:0 auto;padding:0 16px}
+.stats{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:12px 14px}
+.lab{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin-bottom:8px}
+.sbody{display:flex;align-items:center;gap:12px}
+.donut{width:56px;height:56px;border-radius:50%;flex:none;display:grid;place-items:center}
+.donut i{width:44px;height:44px;border-radius:50%;background:var(--surface);display:grid;place-items:center;font-style:normal;font-size:12px;font-weight:600}
+.n{font-size:20px;font-weight:700;line-height:1.1}
+.n span{font-size:12px;font-weight:500;color:var(--mut)}
+.s{font-size:12px;color:var(--mut)}
+main{max-width:720px;margin:0 auto;padding:4px 16px 24px}
+h3{margin:26px 4px 10px;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);font-weight:600;display:flex;justify-content:space-between;align-items:center}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px 16px;margin:0 0 10px}
+.card p{margin:10px 0;color:#cfd5e3}
+details.card summary{cursor:pointer;list-style:none;position:relative;padding-right:22px}
+details.card summary::-webkit-details-marker{display:none}
+details.card summary::after{content:"";position:absolute;right:3px;top:10px;width:7px;height:7px;border-right:1.6px solid var(--mut);border-bottom:1.6px solid var(--mut);transform:rotate(45deg);transition:transform .2s}
+details.card[open] summary::after{transform:rotate(-135deg)}
+.src{display:block;color:var(--mut);font-size:12px;margin-bottom:2px}
+.t{display:block;font-weight:600;font-size:17px;line-height:1.35}
+.tag{display:inline-block;background:var(--surface2);color:var(--acc);border:1px solid var(--line);border-radius:999px;padding:2px 11px;font-size:12px;font-weight:600;margin-bottom:8px}
+.ctx{background:var(--surface2);border-left:2px solid var(--acc);padding:10px 12px;border-radius:10px;font-size:15px;color:#cfd5e3;margin:10px 0}
+.ctx b{display:block;color:var(--acc);font-size:11px;letter-spacing:.08em;text-transform:uppercase;margin-bottom:2px}
+.row{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:10px}
+a{color:var(--acc);text-decoration:none}
 button{font:inherit}
-.listen{background:transparent;border:1px solid var(--acc);color:var(--acc);border-radius:20px;padding:5px 12px;font-size:14px;text-transform:none;letter-spacing:0}
-.listen.on{background:var(--acc);color:#04283a}
-.btn.full{display:block;width:100%;background:var(--acc);color:#04283a;font-weight:600;padding:12px;margin-top:12px;border:0;border-radius:12px;font-size:16px}
+.pill{display:inline-flex;align-items:center;gap:6px;background:var(--surface2);border:1px solid var(--line);color:var(--txt);border-radius:999px;padding:7px 14px;font-size:13px;text-transform:none;letter-spacing:0}
+.pill.on{background:var(--acc);border-color:var(--acc);color:#0a0d14}
+.btn{display:block;width:100%;background:var(--acc);color:#0a0d14;font-weight:600;padding:14px;margin-top:14px;border:0;border-radius:14px;font-size:16px}
 .btn.alt{background:transparent;color:var(--ko);border:1px solid var(--ko)}
-.choice{display:block;width:100%;text-align:left;background:var(--card);color:var(--txt);border:2px solid transparent;border-radius:12px;padding:12px 14px;margin:8px 0}
-.choice.good{border-color:var(--ok)}
-.choice.bad{border-color:var(--ko)}
-.q{font-size:19px;margin:6px 0 10px}
-.fb{margin-top:10px;font-size:15px}
-.big{font-size:40px;font-weight:700}
-.rec{border-left:4px solid var(--mut)}
+.hint{color:var(--mut);font-size:13px;margin:6px 4px 14px}
+.prog{height:3px;background:var(--surface2);border-radius:3px;margin:6px 0 16px;overflow:hidden}
+.prog i{display:block;height:100%;background:var(--acc);border-radius:3px;transition:width .3s}
+.q{font-size:20px;line-height:1.35;margin:6px 0 12px;font-weight:600}
+.choice{display:block;width:100%;text-align:left;background:var(--surface2);color:var(--txt);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin:8px 0;font-size:16px}
+.choice.good{border-color:var(--ok);background:rgba(74,222,128,.09)}
+.choice.bad{border-color:var(--ko);background:rgba(248,113,113,.09)}
+.fb{margin-top:12px;font-size:15px;color:#cfd5e3}
+.big{font-size:44px;font-weight:700;letter-spacing:-.02em;line-height:1.1;margin:6px 0}
+.rec{border-left:3px solid var(--mut)}
 .rec.ok{border-left-color:var(--ok)}
 .rec.ko{border-left-color:var(--ko)}
-.empty{color:var(--mut);text-align:center;padding:40px 10px}
-.sel{width:100%;padding:10px;border-radius:10px;background:var(--bg);color:var(--txt);border:1px solid var(--mut);font-size:16px;margin:6px 0}
-input[type=range]{width:100%}
-nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:var(--card);padding-bottom:env(safe-area-inset-bottom);border-top:1px solid rgba(148,163,184,.25)}
-nav button{flex:1;background:none;border:0;color:var(--mut);padding:10px 0 8px;font-size:11px}
-nav button span{display:block;font-size:20px}
+.empty{color:var(--mut);text-align:center;padding:56px 12px}
+.sel{width:100%;padding:11px;border-radius:12px;background:var(--surface2);color:var(--txt);border:1px solid var(--line);font-size:16px;margin:8px 0}
+input[type=range]{width:100%;accent-color:var(--acc)}
+nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:rgba(10,13,20,.86);-webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px);padding-bottom:env(safe-area-inset-bottom);border-top:1px solid var(--line)}
+nav button{flex:1;background:none;border:0;color:var(--mut);padding:10px 0 8px;font-size:10.5px;display:flex;flex-direction:column;align-items:center;gap:3px}
 nav button.on{color:var(--acc)}
-.refresh{background:none;border:0;color:var(--acc);font-size:24px}
 </style>
 </head>
 <body>
 <header>
   <div><h1>Mon Brief</h1><div class="sub" id="sub"></div></div>
-  <button class="refresh" id="refresh" aria-label="Actualiser">↻</button>
+  <button class="icon-btn" id="refresh" aria-label="Actualiser"></button>
 </header>
-<div class="wrap"><div id="stats" class="statsbar"></div></div>
+<div class="wrap"><div class="stats" id="stats"></div></div>
 <main id="view"></main>
 <nav id="nav"></nav>
 
 <script>
 // ---------- Réglages ----------
-const QUIZ_REVISION = 10;   // questions par session de révision
+const QUIZ_GENERAL = 10;   // questions par quiz général
 
 const TABS = [
-  ["actus","📰","Actus"],
-  ["culture","🧠","Culture G"],
-  ["quiz","❓","Quiz"],
-  ["revision","🔁","Révision"],
-  ["reglages","⚙️","Réglages"]
+  ["actus","Actus"],
+  ["culture","Culture"],
+  ["quiz","Du jour"],
+  ["general","Général"],
+  ["reglages","Réglages"]
 ];
-let tab = "actus", DATA = null, BANK = [];
+let tab = "actus", DATA = null, BANK = [], LOADING = true;
 const view = document.getElementById("view");
+
+// ---------- Icônes ----------
+const ICONS = {
+  actus:'<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>',
+  culture:'<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>',
+  quiz:'<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>',
+  general:'<polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/>',
+  reglages:'<line x1="4" y1="21" x2="4" y2="14"/><line x1="4" y1="10" x2="4" y2="3"/><line x1="12" y1="21" x2="12" y2="12"/><line x1="12" y1="8" x2="12" y2="3"/><line x1="20" y1="21" x2="20" y2="16"/><line x1="20" y1="12" x2="20" y2="3"/><line x1="1" y1="14" x2="7" y2="14"/><line x1="9" y1="8" x2="15" y2="8"/><line x1="17" y1="16" x2="23" y2="16"/>',
+  refresh:'<polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/>',
+  sound:'<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/>'
+};
+
+function ico(name, size){
+  const s = document.createElement("span");
+  s.style.display = "inline-flex";
+  const z = size || 22;
+  s.innerHTML = '<svg viewBox="0 0 24 24" width="' + z + '" height="' + z + '" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">' + ICONS[name] + '</svg>';
+  return s;
+}
 
 // ---------- Icône générée (pour l'écran d'accueil) ----------
 (function(){
   try{
     const c = document.createElement("canvas"); c.width = c.height = 180;
     const g = c.getContext("2d");
-    g.fillStyle = "#0f172a"; g.fillRect(0,0,180,180);
-    g.fillStyle = "#38bdf8"; g.font = "bold 92px -apple-system,Helvetica,Arial";
+    g.fillStyle = "#0a0d14"; g.fillRect(0,0,180,180);
+    g.fillStyle = "#8ab4ff"; g.font = "bold 92px -apple-system,Helvetica,Arial";
     g.textAlign = "center"; g.textBaseline = "middle"; g.fillText("MB",90,98);
     const l = document.createElement("link");
     l.rel = "apple-touch-icon"; l.href = c.toDataURL("image/png");
@@ -117,6 +148,10 @@ function fmt(iso){
 }
 
 function empty(msg){ view.append(el("div",{class:"empty"}, msg)); }
+
+function pill(text, icon){
+  return el("button",{class:"pill"}, icon ? ico(icon, 15) : null, text);
+}
 
 // ---------- Lecture vocale ----------
 function frVoices(){
@@ -149,7 +184,7 @@ function getRate(){
 
 function stopSpeech(){
   if("speechSynthesis" in window) speechSynthesis.cancel();
-  document.querySelectorAll(".listen.on").forEach(b => b.classList.remove("on"));
+  document.querySelectorAll(".pill.on").forEach(b => b.classList.remove("on"));
 }
 
 function speak(texts, btn){
@@ -180,56 +215,67 @@ if("speechSynthesis" in window){
   speechSynthesis.onvoiceschanged = () => { if(tab === "reglages") render(); };
 }
 
-// ---------- Statistiques globales (camembert) ----------
-function getG(){ return store.get("g", {answered:0, correct:0, quizzes:0}); }
+// ---------- Statistiques (un camembert par quiz) ----------
+const KEYS = {jour:"gj", all:"ga"};
 
-function renderStats(){
-  const g = getG();
-  const pct = g.answered ? Math.round(g.correct / g.answered * 100) : 0;
-  const pie = el("div",{class:"pie"});
-  pie.style.background = g.answered
-    ? "conic-gradient(var(--ok) 0 " + pct + "%, var(--ko) " + pct + "% 100%)"
-    : "var(--mut)";
-  document.getElementById("stats").replaceChildren(
-    pie,
-    el("div",{},
-      el("div",{class:"pct"}, g.answered ? pct + " % de réussite" : "Pas encore de quiz"),
-      el("div",{class:"sub"}, g.quizzes + " quiz terminé" + (g.quizzes > 1 ? "s" : "") + " · " + g.correct + "/" + g.answered + " bonnes réponses")
-    )
-  );
+(function migrate(){
+  const old = store.get("g", null);
+  if(old && !store.get("gj", null)) store.set("gj", old);
+})();
+
+function getG(kind){ return store.get(KEYS[kind], {answered:0, correct:0, quizzes:0}); }
+
+function statCard(label, g){
+  const pct = g.answered ? Math.round(g.correct / g.answered * 100) : null;
+  const ring = el("div",{class:"donut"}, el("i",{}, pct === null ? "–" : pct + "%"));
+  ring.style.background = pct === null
+    ? "#232a3b"
+    : "conic-gradient(var(--ok) 0 " + pct + "%, var(--ko) " + pct + "% 100%)";
+  return el("div",{class:"stat"},
+    el("div",{class:"lab"}, label),
+    el("div",{class:"sbody"}, ring,
+      el("div",{},
+        el("div",{class:"n"}, String(g.quizzes), " ", el("span",{}, g.quizzes > 1 ? "quiz" : "quiz")),
+        el("div",{class:"s"}, g.correct + "/" + g.answered + " justes"))));
 }
 
-function record(id, ok){
+function renderStats(){
+  document.getElementById("stats").replaceChildren(
+    statCard("Quiz du jour", getG("jour")),
+    statCard("Quiz général", getG("all")));
+}
+
+function record(id, ok, kind){
   const st = store.get("stats", {});
   const s = st[id] || {ok:0, ko:0};
   if(ok) s.ok++; else s.ko++;
   s.last = new Date().toISOString().slice(0,10);
   st[id] = s;
   store.set("stats", st);
-  const g = getG();
+  const g = getG(kind);
   g.answered++;
   if(ok) g.correct++;
-  store.set("g", g);
+  store.set(KEYS[kind], g);
   renderStats();
 }
 
-function countQuiz(){
-  const g = getG();
+function countQuiz(kind){
+  const g = getG(kind);
   g.quizzes++;
-  store.set("g", g);
+  store.set(KEYS[kind], g);
   renderStats();
 }
 
 // ---------- Actus ----------
 function articleCard(a){
-  const listen = el("button",{class:"listen"}, "🔊 Écouter");
+  const listen = pill("Écouter", "sound");
   listen.onclick = () => speak([a.titre, a.resume, a.contexte ? "Pourquoi : " + a.contexte : ""], listen);
   return el("details",{class:"card"},
     el("summary",{},
       el("span",{class:"src"}, a.source + " · " + fmt(a.date)),
       el("span",{class:"t"}, a.titre)),
     el("p",{}, a.resume),
-    a.contexte ? el("div",{class:"ctx"}, el("strong",{}, "Pourquoi / contexte : "), a.contexte) : null,
+    a.contexte ? el("div",{class:"ctx"}, el("b",{}, "Pourquoi"), a.contexte) : null,
     el("div",{class:"row"}, listen,
       a.lien ? el("a",{href:a.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗") : null));
 }
@@ -237,9 +283,9 @@ function articleCard(a){
 function addSection(title, list){
   list = list || [];
   if(!list.length) return;
-  const lb = el("button",{class:"listen"}, "🔊 Tout écouter");
+  const lb = pill("Tout écouter", "sound");
   lb.onclick = () => speak(list.flatMap(a => [a.titre, a.resume, a.contexte ? "Pourquoi : " + a.contexte : ""]), lb);
-  view.append(el("h3",{}, title, lb), ...list.map(articleCard));
+  view.append(el("h3",{}, el("span",{}, title), lb), ...list.map(articleCard));
 }
 
 function viewActus(){
@@ -250,53 +296,53 @@ function viewActus(){
   addSection("Aujourd’hui", DATA.aujourdhui);
   const deja = DATA.deja_presente || [];
   if(deja.length){
-    const d = el("details",{}, el("summary",{class:"sub"}, "Déjà présentées hier (" + deja.length + ")"));
+    const d = el("details",{}, el("summary",{class:"sub",style:"cursor:pointer;margin:20px 4px 10px"}, "Déjà présentées hier (" + deja.length + ")"));
     deja.forEach(a => d.append(articleCard(a)));
-    view.append(el("div",{style:"margin-top:18px"}, d));
+    view.append(d);
   }
 }
 
-// ---------- Culture G ----------
+// ---------- Culture ----------
 function viewCulture(){
   const l = (DATA && DATA.culture) || [];
   if(!l.length){ empty("Les fiches de culture générale arrivent avec le brief du matin."); return; }
   l.forEach(c => {
-    const lb = el("button",{class:"listen"}, "🔊 Écouter");
+    const lb = pill("Écouter", "sound");
     lb.onclick = () => speak([c.titre, c.texte, c.a_retenir ? "À retenir : " + c.a_retenir : ""], lb);
     view.append(el("div",{class:"card"},
       el("span",{class:"tag"}, c.theme),
       el("div",{class:"t"}, c.titre),
       el("p",{}, c.texte),
-      c.a_retenir ? el("p",{}, el("strong",{}, "À retenir : "), c.a_retenir) : null,
+      c.a_retenir ? el("div",{class:"ctx"}, el("b",{}, "À retenir"), c.a_retenir) : null,
       el("div",{class:"row"}, lb)));
   });
 }
 
-// ---------- Moteur de quiz (avec sauvegarde de la progression) ----------
+// ---------- Moteur de quiz (progression sauvegardée) ----------
 function newSession(qs, sid){
   return {sid: sid, qs: qs, i: 0, answers: [], done: false, counted: false};
 }
 
-function runQuiz(root, sess, label, save, restartLabel, onRestart){
+function runQuiz(root, sess, o){
   const qs = sess.qs;
 
   function showResult(){
     const total = qs.length;
     const score = qs.filter((q, k) => sess.answers[k] === q.reponse).length;
     const pct = total ? Math.round(score / total * 100) : 0;
-    const msg = pct >= 80 ? "Excellent 🎉" : pct >= 50 ? "Pas mal 👍" : "Continue, ça vient 💪";
+    const msg = pct >= 80 ? "Excellent" : pct >= 50 ? "Pas mal" : "Continue, ça vient";
     root.append(el("div",{class:"card"},
-      el("div",{class:"sub"}, label + " terminé ✅"),
+      el("div",{class:"lab"}, o.label + " · terminé"),
       el("div",{class:"big"}, score + " / " + total),
-      el("p",{}, pct + " % de bonnes réponses · " + msg)));
+      el("div",{class:"sub"}, pct + " % de bonnes réponses · " + msg)));
     qs.forEach((q, k) => {
       const ok = sess.answers[k] === q.reponse;
       root.append(el("div",{class:"card rec " + (ok ? "ok" : "ko")},
-        el("div",{class:"t"}, (ok ? "✓ " : "✗ ") + q.question),
-        ok ? null : el("div",{class:"sub"}, "Bonne réponse : " + q.choix[q.reponse]),
-        q.explication ? el("div",{class:"sub"}, q.explication) : null));
+        el("div",{class:"t",style:"font-size:15px"}, (ok ? "✓ " : "✗ ") + q.question),
+        ok ? null : el("div",{class:"sub",style:"margin-top:4px"}, "Bonne réponse : " + q.choix[q.reponse]),
+        q.explication ? el("div",{class:"sub",style:"margin-top:4px"}, q.explication) : null));
     });
-    root.append(el("button",{class:"btn full", onclick:() => onRestart()}, restartLabel));
+    root.append(el("button",{class:"btn", onclick:() => o.onRestart()}, o.restartLabel));
   }
 
   function step(){
@@ -314,8 +360,8 @@ function runQuiz(root, sess, label, save, restartLabel, onRestart){
       } else {
         b.onclick = () => {
           sess.answers[sess.i] = idx;
-          record(q.id, idx === q.reponse);
-          save(sess);
+          record(q.id, idx === q.reponse, o.kind);
+          o.save(sess);
           step();
         };
       }
@@ -324,68 +370,76 @@ function runQuiz(root, sess, label, save, restartLabel, onRestart){
     let next = null;
     if(answered){
       const ok = chosen === q.reponse;
-      fb.append(el("strong",{}, ok ? "Bonne réponse ! " : "Raté. "), q.explication || "");
+      fb.append(el("strong",{style:"color:" + (ok ? "var(--ok)" : "var(--ko)")}, ok ? "Bonne réponse. " : "Raté. "), q.explication || "");
       if(q.lien) fb.append(el("div",{class:"row"}, el("a",{href:q.lien,target:"_blank",rel:"noopener"}, "Lire l’article ↗")));
       const last = sess.i + 1 >= qs.length;
-      next = el("button",{class:"btn full", onclick:() => {
+      next = el("button",{class:"btn", onclick:() => {
         if(last){
           sess.done = true;
-          if(!sess.counted){ sess.counted = true; countQuiz(); }
+          if(!sess.counted){ sess.counted = true; countQuiz(o.kind); }
         } else {
           sess.i++;
         }
-        save(sess);
+        o.save(sess);
         step();
         window.scrollTo(0, 0);
       }}, last ? "Voir mon résultat" : "Question suivante");
     }
+    const bar = el("i");
+    bar.style.width = ((sess.i + (answered ? 1 : 0)) / qs.length * 100) + "%";
     root.append(
-      el("div",{class:"sub"}, label + " · " + (sess.i + 1) + "/" + qs.length + " · " + (q.type === "actu" ? "Actu" : "Culture")),
-      el("h2",{class:"q"}, q.question),
+      el("div",{class:"lab"}, o.label + " · " + (sess.i + 1) + "/" + qs.length),
+      el("div",{class:"prog"}, bar),
+      el("div",{class:"q"}, q.question),
       ...btns, fb, next);
   }
   step();
 }
 
-// ---------- Quiz du jour ----------
+// ---------- Quiz du jour (actus du jour uniquement) ----------
 function viewQuiz(){
-  const qs = (DATA && DATA.quiz_jour) || [];
+  const qs = ((DATA && DATA.quiz_jour) || []).filter(q => q.type === "actu");
   if(!qs.length){ empty("Le quiz du jour arrive avec le brief du soir (vers 20 h 45)."); return; }
   const sid = qs.map(q => q.id).join("-");
   let sess = store.get("qs_jour", null);
   if(!sess || sess.sid !== sid){ sess = newSession(qs, sid); store.set("qs_jour", sess); }
+  view.append(el("div",{class:"hint"}, "Questions sur les actus d’aujourd’hui."));
   const root = el("div"); view.append(root);
-  runQuiz(root, sess, "Quiz du jour", s => store.set("qs_jour", s), "Refaire ce quiz", () => {
-    store.set("qs_jour", newSession(qs, sid));
-    render();
+  runQuiz(root, sess, {
+    label: "Quiz du jour", kind: "jour",
+    save: s => store.set("qs_jour", s),
+    restartLabel: "Refaire ce quiz",
+    onRestart: () => { store.set("qs_jour", newSession(qs, sid)); render(); }
   });
 }
 
-// ---------- Révision ----------
-function pickRevision(){
+// ---------- Quiz général (tout depuis le début) ----------
+function pickGeneral(){
   const st = store.get("stats", {});
   return BANK.map(q => {
     const s = st[q.id];
     let w = 2;
     if(s) w = s.ko > s.ok ? 4 : (s.ko > 0 && s.ok - s.ko < 2 ? 3 : 1);
     return {q, w: w + Math.random() * 1.5};
-  }).sort((a, b) => b.w - a.w).slice(0, QUIZ_REVISION).map(x => x.q).sort(() => Math.random() - 0.5);
+  }).sort((a, b) => b.w - a.w).slice(0, QUIZ_GENERAL).map(x => x.q).sort(() => Math.random() - 0.5);
 }
 
-function viewRevision(){
-  let sess = store.get("qs_rev", null);
+function viewGeneral(){
+  let sess = store.get("qs_gen", null);
   if(!sess){
-    if(BANK.length < 3){ empty("La banque de questions se remplit chaque soir. Reviens après quelques quiz."); return; }
-    sess = newSession(pickRevision(), "rev-" + Date.now());
-    store.set("qs_rev", sess);
+    if(BANK.length < 3){ empty("La banque de questions se remplit chaque soir. Reviens après quelques quiz du jour."); return; }
+    sess = newSession(pickGeneral(), "gen-" + Date.now());
+    store.set("qs_gen", sess);
   }
   const st = store.get("stats", {});
   const weak = BANK.filter(q => st[q.id] && st[q.id].ko > st[q.id].ok).length;
-  view.append(el("div",{class:"sub",style:"margin:6px 4px"}, BANK.length + " questions en banque · " + weak + " à retravailler"));
+  view.append(el("div",{class:"hint"}, "Toutes les questions depuis le début · " + BANK.length + " en banque · " + weak + " à retravailler."));
   const root = el("div"); view.append(root);
-  runQuiz(root, sess, "Révision", s => store.set("qs_rev", s), "Nouvelle session", () => {
-    store.set("qs_rev", null);
-    render();
+  runQuiz(root, sess, {
+    label: "Quiz général", kind: "all",
+    save: s => store.set("qs_gen", s),
+    restartLabel: "Nouveau quiz général",
+    onRestart: () => { store.set("qs_gen", null); render(); }
   });
 }
 
@@ -403,28 +457,30 @@ function viewReglages(){
   rate.value = getRate();
   rate.oninput = () => { store.set("rate", parseFloat(rate.value)); rl.textContent = parseFloat(rate.value).toFixed(2) + "×"; };
 
-  const test = el("button",{class:"listen"}, "🔊 Tester la voix");
+  const test = pill("Tester la voix", "sound");
   test.onclick = () => speak(["Bonjour, voici un exemple de la voix qui te lira ton brief quotidien."], test);
 
   view.append(
     el("div",{class:"card"},
-      el("div",{class:"t"}, "Voix de lecture"),
+      el("div",{class:"lab"}, "Voix de lecture"),
       vs.length ? sel : el("p",{class:"sub"}, "Aucune voix française détectée sur cet appareil."),
       el("div",{class:"sub",style:"margin-top:10px"}, "Vitesse : ", rl),
       rate,
       el("div",{class:"row"}, test)),
     el("div",{class:"card"},
-      el("div",{class:"t"}, "Pour une voix plus naturelle"),
-      el("p",{class:"sub"}, "Sur ton iPhone : Réglages > Accessibilité > Contenu énoncé > Voix > Français, puis télécharge une voix marquée « Premium » ou « Améliorée ». Reviens ici, recharge la page et choisis-la dans la liste.")),
+      el("div",{class:"lab"}, "Voix plus naturelle"),
+      el("p",{class:"sub"}, "Sur ton iPhone : Réglages > Accessibilité > Contenu énoncé > Voix > Français, puis télécharge une voix « Premium » ou « Améliorée ». Reviens ici, recharge la page et choisis-la dans la liste.")),
     el("div",{class:"card"},
-      el("div",{class:"t"}, "Statistiques"),
-      el("p",{class:"sub"}, "Efface le camembert, le compteur de quiz et ta progression en révision."),
-      el("button",{class:"btn full alt", onclick:() => {
+      el("div",{class:"lab"}, "Statistiques"),
+      el("p",{class:"sub"}, "Efface les deux camemberts, les compteurs et ta progression."),
+      el("button",{class:"btn alt", onclick:() => {
         if(confirm("Effacer toutes tes statistiques de quiz ?")){
-          store.set("g", {answered:0, correct:0, quizzes:0});
+          store.set("g", null);
+          store.set("gj", {answered:0, correct:0, quizzes:0});
+          store.set("ga", {answered:0, correct:0, quizzes:0});
           store.set("stats", {});
           store.set("qs_jour", null);
-          store.set("qs_rev", null);
+          store.set("qs_gen", null);
           render();
         }
       }}, "Réinitialiser mes statistiques")));
@@ -433,15 +489,16 @@ function viewReglages(){
 // ---------- Affichage ----------
 function render(){
   stopSpeech();
-  document.getElementById("nav").replaceChildren(...TABS.map(([id, ic, lb]) =>
-    el("button",{class: id === tab ? "on" : "", onclick:() => { tab = id; render(); window.scrollTo(0,0); }}, el("span",{}, ic), lb)));
-  document.getElementById("sub").textContent = DATA ? "Mis à jour : " + fmt(DATA.updated) : "";
+  document.getElementById("nav").replaceChildren(...TABS.map(([id, lb]) =>
+    el("button",{class: id === tab ? "on" : "", onclick:() => { tab = id; render(); window.scrollTo(0,0); }}, ico(id, 22), lb)));
+  document.getElementById("sub").textContent = DATA ? "Mis à jour · " + fmt(DATA.updated) : "";
   renderStats();
   view.replaceChildren();
+  if(LOADING && tab !== "reglages"){ empty("Chargement…"); return; }
   if(tab === "actus") viewActus();
   else if(tab === "culture") viewCulture();
   else if(tab === "quiz") viewQuiz();
-  else if(tab === "revision") viewRevision();
+  else if(tab === "general") viewGeneral();
   else viewReglages();
 }
 
@@ -454,10 +511,13 @@ async function load(){
     const r = await fetch("data/quiz_bank.json?t=" + Date.now(), {cache:"no-store"});
     if(r.ok){ const b = await r.json(); BANK = b.questions || []; }
   }catch(e){}
+  LOADING = false;
   render();
 }
 
+document.getElementById("refresh").append(ico("refresh", 18));
 document.getElementById("refresh").onclick = load;
+render();
 load();
 </script>
 </body>
