@@ -1,282 +1,192 @@
 {
-  "date": "2026-10-27",
-  "mode": "evening",
-  "updated": "2026-10-27T22:53:46.018440+01:00",
+  "date": "2026-10-28",
+  "mode": "morning",
+  "updated": "2026-10-28T10:53:23.996110+01:00",
   "deja_presente": [
     {
-      "titre": "Mobilisation des lycéens : \"Les élèves vont voir leur vie changer\", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
+      "titre": "Gaz : Poutine réunit les grands producteurs à Moscou sur fond de flambée des prix",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261027-gaz-poutine-r%C3%A9unit-les-grands-producteurs-%C3%A0-moscou-sur-fond-de-flamb%C3%A9e-des-prix",
+      "source": "France 24",
+      "date": "2026-10-27T10:34:33+01:00",
+      "resume": "Vladimir Poutine réunit mardi à Moscou les principaux pays exportateurs de gaz, en dépit des sanctions occidentales. Cette rencontre intervient sur fond de flambée des prix de l'énergie à l'approche de l'hiver en raison des fortes tensions sur les approvisionnements.",
+      "contexte": "Cette réunion fait office de démonstration de puissance diplomatique pour la Russie, qui cherche à affirmer son rôle central sur le marché énergétique mondial malgré les restrictions imposées par les Occidentaux. L'enjeu pour les pays producteurs est de coordonner leurs positions face à la volatilité des marchés et aux pressions géopolitiques."
+    },
+    {
+      "titre": "\"Nous savions tous qu'un jour, les mots de la haine tueraient\" : Omar Sy, Theodora, Gilles Lellouche… Des personnalités dénoncent le racisme après l'attentat de Trappes",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/nous-savions-tous-qu-un-jour-les-mots-de-la-haine-tueraient-omar-sy-jul-theodora-gilles-lellouche-des-personnalites-denoncent-le-racisme-apres-l-attentat-de-trappes_8255149.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · Le Monde",
+      "date": "2026-10-27T10:33:21+01:00",
+      "resume": "De nombreuses personnalités publiques, dont Omar Sy, Theodora et Gilles Lellouche, ont exprimé leur indignation et dénoncé le racisme à la suite de l'attentat de Trappes. Des milliers de personnes se sont également rassemblées lundi soir dans plusieurs villes de France pour rendre hommage à la victime, Pengo Bossio Wangi, au milieu d'émotions partagées et de prises de position politiques.",
+      "contexte": "Ce drame suscite une vive émotion nationale et relance le débat public sur la montée des actes racistes et le climat social en France. Les réactions des artistes et les rassemblements citoyens traduisent la volonté de peser sur le débat politique et médiatique face aux fractures de la société."
+    },
+    {
+      "titre": "Ballon d'or 2026 : l'attaquant du Bayern Munich Harry Kane devient le premier Anglais récompensé depuis 25 ans",
+      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-sacre-a-londres-harry-kane-devient-le-premier-anglais-recompense-depuis-25-ans_8254834.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · Le Monde",
+      "date": "2026-10-27T10:30:09+01:00",
+      "resume": "L'attaquant anglais du Bayern Munich Harry Kane a remporté le Ballon d'or 2026 lundi, devançant Kylian Mbappé et Lamine Yamal. Agé de 33 ans, il devient le premier joueur anglais à recevoir cette distinction depuis 25 ans. Sa victoire a été saluée par la presse étrangère, qui a mis en avant son excellence discrète.",
+      "contexte": "Le Ballon d'or est la récompense individuelle la plus prestigieuse du football mondial, attribuée chaque année au meilleur joueur de la saison écoulée. Ce sacre consacre la régularité et les performances de l'attaquant au plus haut niveau européen, malgré la forte concurrence de jeunes talents montants et de stars confirmées."
+    },
+    {
+      "titre": "La Jordanie frappe la Syrie après l'attaque contre une église et affirme avoir tué 20 personnnes, Damas recense sept morts",
+      "lien": "https://www.franceinfo.fr/monde/revolte-en-syrie/la-jordanie-frappe-la-syrie-apres-l-attaque-contre-une-eglise-provoquant-la-mort-de-huit-personnes-dont-trois-enfants_8255299.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-26T22:31:17+01:00",
-      "resume": "Lundi, le gouvernement a reçu les organisations lycéennes et étudiantes afin de tenter de mettre fin à une crise sociale marquée par cinq semaines de blocages d'établissements. Edouard Geffray a affirmé que les élèves allaient voir leur vie changer à l'issue de ces échanges. Malgré cette réunion, l'intersyndicale jeunesse a appelé à poursuivre la mobilisation.",
-      "contexte": "Ces mouvements de contestation chez les jeunes traduisent généralement un désaccord profond avec les réformes éducatives en cours ou les conditions de vie étudiante. Le dialogue avec l'exécutif vise à apaiser les tensions pour éviter la prolongation des blocages, qui perturbent le fonctionnement des établissements scolaires et universitaires."
+      "date": "2026-10-27T10:13:12+01:00",
+      "resume": "La Jordanie a mené des frappes en Syrie ayant fait 20 morts selon Amman, tandis que Damas en recense sept, en réaction à une attaque armée menée vendredi contre une église orthodoxe grecque. Cette attaque inédite avait coûté la vie à neuf personnes dans le royaume jordanien avant que les assaillants ne prennent la fuite.",
+      "contexte": "Cette riposte militaire transfrontalière illustre la détermination des autorités jordaniennes à répondre avec fermeté à toute menace visant sa sécurité intérieure et ses minorités religieuses. La situation sécuritaire à la frontière syrienne reste un sujet de vive préoccupation régionale en raison de l'instabilité chronique de la zone."
     },
     {
-      "titre": "Une commission de l'ONU accuse Israël de commettre des crimes contre l'humanité contre les Palestiniens en Cisjordanie occupée",
-      "lien": "https://www.franceinfo.fr/monde/israel/une-commission-de-l-onu-accuse-israel-de-commettre-des-crimes-contre-l-humanite-contre-les-palestiniens-en-cisjordanie_8254216.html#xtor=RSS-3-[lestitres]",
+      "titre": "Casseurs-payeurs : \"On pourrait également considérer que cette loi porte une atteinte excessive à la liberté de manifester\", décrypte Olivia Ronen, avocate pénaliste",
+      "lien": "https://www.franceinfo.fr/societe/loi-anti-casseurs/casseurs-payeurs-on-pourrait-egalement-considerer-que-cette-loi-porte-une-atteinte-excessive-a-la-liberte-de-manifester-decrypte-olivia-ronen-avocate-penaliste_8255362.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-26T22:27:28+01:00",
-      "resume": "Une commission de l'ONU a publié un rapport accusant Israël de commettre des crimes contre l'humanité à l'encontre des Palestiniens en Cisjordanie occupée. Les faits mentionnés dans ce document comprennent l'extermination, la torture et des violences sexuelles. De son côté, Israël a rejeté ces conclusions, qualifiant le rapport de tentative visant à détruire l'État juif.",
-      "contexte": "Les accusations formulées par des organes de l'ONU s'inscrivent dans le cadre du suivi international du conflit israélo-palestinien et du respect du droit international humanitaire. Ce type de rapport exerce une pression diplomatique importante sur les gouvernements concernés, bien que les décisions de ces commissions n'aient pas de pouvoir contraignant direct."
+      "date": "2026-10-27T10:07:52+01:00",
+      "resume": "Le projet de loi dit des « casseurs-payeurs », qui élargit la responsabilité financière des manifestants pour les dégradations commises, est examiné au Sénat ce mardi 27 octobre. L'avocate pénaliste Olivia Ronen a souligné sur franceinfo les interrogations juridiques soulevées par ce texte, estimant qu'il pourrait porter une atteinte excessive à la liberté de manifester.",
+      "contexte": "Ce projet de loi s'inscrit dans le cadre des débats récurrents sur l'encadrement du maintien de l'ordre et le droit de grève ou de manifestation en France. L'objectif affiché par les partisans de la mesure est de responsabiliser les auteurs de violences et de soulager les finances publiques, tandis que ses détracteurs y voient un risque de criminalisation du mouvement social."
     },
     {
-      "titre": "Le PSG s'offre l'OL dans le choc décalé de la 8e journée et prend les commandes de la Ligue 1",
-      "lien": "https://www.franceinfo.fr/sports/foot/psg/le-psg-s-offre-l-ol-dans-le-choc-decale-de-la-8e-journee-et-prend-les-commandes-de-la-ligue-1_8254879.html#xtor=RSS-3-[lestitres]",
+      "titre": "Élections en Israël : Netanyahu ou Eisenkot ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261026-%C3%A9lections-en-isra%C3%ABl-netanyahou-ou-eisenkot",
+      "source": "France 24 · Le Monde",
+      "date": "2026-10-27T10:05:01+01:00",
+      "resume": "Les électeurs israéliens sont appelés aux urnes ce mardi 27 octobre pour le renouvellement de la Knesset, le Parlement de l'État hébreu. Ce scrutin, le premier depuis l'attaque du 7 octobre 2023, oppose notamment le Premier ministre sortant Benyamin Nétanyahou à l'ancien chef d'état-major Gadi Eisenkot.",
+      "contexte": "Ces élections législatives constituent un test politique majeur pour Benyamin Nétanyahou, dont la gestion sécuritaire et politique est scrutée depuis les événements d'octobre 2023. L'issue du vote pourrait redéfinir profondément les équilibres politiques du pays et sa trajectoire diplomatique et militaire dans la région."
+    },
+    {
+      "titre": "Présidentielle 2027 : le professeur d'immunologie Éric Vivier appelle les candidats à soutenir la recherche fondamentale",
+      "lien": "https://www.franceinfo.fr/sante/presidentielle-2027-le-professeur-d-immunologie-eric-vivier-appelle-les-candidats-a-soutenir-la-recherche-fondamentale_8255410.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-26T22:22:23+01:00",
-      "resume": "Lundi soir, le Paris Saint-Germain a battu l'Olympique Lyonnais sur le score de 2 à 0 lors d'un match décalé comptant pour la 8e journée de Ligue 1. Dominateur et patient, le club parisien a fait la différence en fin de rencontre face à son adversaire. Grâce à cette victoire, le PSG s'empare de la première place du classement du championnat de France.",
-      "contexte": "Ce type de confrontation directe entre clubs de premier plan pèse lourdement dans la course au titre en Ligue 1. Pour le PSG, l'objectif est de s'installer durablement en tête du championnat, tandis que pour l'OL, ce match constitue un test important pour mesurer ses ambitions européennes."
+      "date": "2026-10-27T09:59:29+01:00",
+      "resume": "Le professeur d'immunologie Éric Vivier a lancé un appel sur France Inter à l'attention des candidats à l'élection présidentielle de 2027 pour exiger un soutien accru à la recherche fondamentale. Il a ainsi alerté sur le retard pris par la France en raison d'un manque chronique de financements dans ce secteur.",
+      "contexte": "La question du financement de la recherche scientifique est un sujet récurrent de préoccupation pour la communauté académique française, qui pointe régulièrement le décrochage de la France par rapport à d'autres puissances mondiales. Les échéances électorales sont traditionnellement l'occasion pour les chercheurs de placer ces enjeux au cœur du débat public."
     },
     {
-      "titre": "Donald Trump dénonce des élections \"truquées\" au Brésil après la défaite de Flavio Bolsonaro",
-      "lien": "https://www.franceinfo.fr/monde/bresil/donald-trump-denonce-des-elections-truquees-au-bresil-apres-la-defaite-de-flavio-bolsonaro_8254870.html#xtor=RSS-3-[lestitres]",
+      "titre": "Deux grandes compagnies chinoises rompent leurs contrats avec Kylian Mbappé l'accusant d'avoir \"heurté les sentiments nationaux\"",
+      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/deux-grandes-compagnies-chinoises-rompent-avec-kylian-mbappe-l-accusant-d-avoir-heurte-les-sentiments-nationaux_8255212.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-26T22:21:30+01:00",
-      "resume": "Le président des États-Unis a publiquement qualifié les élections brésiliennes de \"truquées\" après la défaite de Flavio Bolsonaro. Pour appuyer ses déclarations, il a fait référence à sa propre défaite lors de l'élection présidentielle américaine de 2020 face à Joe Biden.",
-      "contexte": "Ce type de prise de position s'inscrit dans une rhétorique politique contestataire visant à jeter le doute sur la régularité des scrutins démocratiques en cas de défaite des candidats soutenus. Cela reflète les clivages politiques internationaux et les alliances entre courants populistes à travers le monde."
+      "date": "2026-10-27T09:55:53+01:00",
+      "resume": "Deux grandes entreprises chinoises ont rompu leurs contrats publicitaires avec Kylian Mbappé après des propos tenus lors d'une interview avec son coéquipier Aurélien Tchouaméni. Les marques l'accusent d'avoir « heurté les sentiments nationaux » en faisant une référence à Mao Zedong.",
+      "contexte": "Ce type de boycott illustre la sensibilité extrême des marques et des opinions publiques asiatiques, en particulier en Chine, face à toute évocation de figures historiques sensibles. Pour les sportifs de stature internationale, les prises de parole ou les références culturelles peuvent parfois avoir d'importantes répercussions économiques et diplomatiques sur leurs contrats de parrainage."
     },
     {
-      "titre": "Mobilisations sociales : à Marseille, Emmanuel Macron fait le mea culpa de l’Etat",
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/26/mobilisations-sociales-a-marseille-emmanuel-macron-fait-le-mea-culpa-de-l-etat_6800843_823448.html",
-      "source": "Le Monde",
-      "date": "2026-10-26T21:57:57+01:00",
-      "resume": "En déplacement à Marseille, le président de la République Emmanuel Macron a fait le mea culpa de l'État face aux mobilisations sociales. Il a reconnu un manque d'anticipation des forces de l'ordre et du gouvernement avant la date du 17 octobre tout en saluant la légitimité du mouvement, sans toutefois annoncer de mesures précises.",
-      "contexte": "Ce genre de reconnaissance publique de la part de l'exécutif intervient généralement pour tenter de désamorcer une crise sociale et de renouer le dialogue avec les contestataires. L'enjeu est de limiter les débordements tout en répondant aux critiques sur la gestion du maintien de l'ordre."
-    },
-    {
-      "titre": "Serbie : les étudiants prennent le pouvoir",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-26T21:53:30+01:00",
-      "resume": "Dimanche 25 octobre, le mouvement des étudiants en Serbie a remporté les élections face au dirigeant populiste Aleksandar Vučić, au pouvoir depuis 12 ans. Cette victoire fait suite à deux années de mobilisation menées par la rue pour obtenir le changement politique.",
-      "contexte": "L'implication prolongée de la jeunesse et des mouvements citoyens dans les pays d'Europe de l'est traduit souvent une volonté de renouvellement démocratique face à une gouvernance jugée autoritaire. La prise de pouvoir par la rue marque un tournant institutionnel majeur dans l'histoire politique récente du pays."
-    },
-    {
-      "titre": "Lula déjoue les pronostics en étant réélu président du Brésil",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-26T21:42:19+01:00",
-      "resume": "Lula a remporté l'élection présidentielle au Brésil en obtenant 51,8 % des voix face à Flavio Bolsonaro, alors qu'il était donné perdant par les pronostics. Le candidat d'extrême droite a adopté une attitude similaire à celle de son père en refusant de reconnaître sa défaite électorale.",
-      "contexte": "Le retour au pouvoir de Lula illustre l'alternance politique observée dans plusieurs grandes démocraties sud-américaines, marquées par des polarisations fortes entre la gauche et la droite populiste. Le refus de reconnaître les résultats électoraux fragilise traditionnellement les transitions démocratiques et les institutions du pays."
-    },
-    {
-      "titre": "Attentat raciste à Trappes : des images de vidéosurveillance montrent le parcours du meurtrier dans une station-service",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-raciste-a-trappes-revelations-sur-le-parcours-du-meurtrier-presume_8254756.html#xtor=RSS-3-[lestitres]",
+      "titre": "Mobilisation des lycéens : les syndicats disent voir \"une petite brèche\" et veulent \"continuer à utiliser ce rapport de forces\"",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-les-syndicats-disent-voir-une-petite-breche-et-veulent-continuer-a-utiliser-ce-rapport-de-forces_8255338.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-26T21:42:15+01:00",
-      "resume": "Des images de vidéosurveillance provenant d'une station-service ont été diffusées dans le cadre de l'enquête sur l'attentat raciste commis à Trappes, dans les Yvelines. Ces documents visuels retracent le parcours de l'auteur présumé et témoignent de sa détermination au moment des faits.",
-      "contexte": "L'exploitation des caméras de surveillance est une étape classique des investigations judiciaires pour reconstituer précisément le déroulement des drames et identifier les complices éventuels. Ce type d'affaire suscrit une vive émotion nationale en raison de la nature raciste des actes reprochés."
+      "date": "2026-10-27T09:49:36+01:00",
+      "resume": "Les syndicats étudiants et lycéens, notamment 'Les Lycéens!' et la Fage, estiment que les récentes annonces du gouvernement constituent un « premier pas » mais restent insuffisants. Ils entendent maintenir la pression et poursuivre leur mobilisation en exploitant ce qu'ils qualifient de « petite brèche ».",
+      "contexte": "Cette contestation s'inscrit dans un climat de tensions sociales où les syndicats cherchent à capitaliser sur le mécontentement de la jeunesse face aux réformes ou aux conditions de vie étudiante. La poursuite du mouvement vise à contraindre l'exécutif à ouvrir de véritables négociations et à accorder des concessions supplémentaires."
     }
   ],
   "depuis_hier": [
     {
-      "titre": "Ballon d'Or 2026 : l'Espagnol Alexia Putellas, la \"Reine\" prolonge son règne",
-      "lien": "https://www.france24.com/fr/sports/20261026-l-espagnole-alexia-putellas-remporte-son-troisi%C3%A8me-ballon-d-or-f%C3%A9minin",
-      "source": "France 24",
-      "date": "2026-10-26T23:47:16+01:00",
-      "resume": "L'Espagnole Alexia Putellas a remporté le Ballon d'Or féminin 2026 lundi, décrochant ce titre pour la troisième fois de sa carrière après ses victoires en 2021 et 2022. Désormais joueuse des London City Lionesses, elle rejoint au palmarès record sa compatriote Aitana Bonmati, qui s'était imposée lors des trois années précédentes.",
-      "contexte": "Ce nouveau sacre confirme la domination incontestée du football féminin espagnol sur la scène internationale de ces dernières années. Il met également en lumière la longévité et le retour au premier plan d'Alexia Putellas après des passages marqués par des blessures et des transferts."
-    }
-  ],
-  "aujourdhui": [
-    {
-      "titre": "Après les pillages de commerces, plus de 1 700 annonces suspectes ont été supprimées des plateformes de revente en ligne, selon le gouvernement",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/apres-les-pillages-de-commerces-plus-de-1-700-annonces-suspectes-ont-ete-supprimees-des-plateformes-de-revente-en-ligne-selon-le-gouvernement_8256394.html#xtor=RSS-3-[lestitres]",
+      "titre": "L'adolescente de 17 ans qui a perdu un œil à Mulhouse en marge de la mobilisation du 17 octobre va porter plainte",
+      "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-adolescente-de-17-ans-qui-a-perdu-un-il-a-mulhouse-en-marge-de-la-mobilisation-du-17-octobre-va-porter-plainte_8256484.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-27T22:45:53+01:00",
-      "resume": "Plus de 1 700 annonces suspectes ont été supprimées des plateformes de revente en ligne à la suite de la manifestation du 17 octobre, d'après les autorités gouvernementales. Cette opération fait suite au pillage, au saccage ou à l'incendie de plus de 1 000 commerces répertoriés par le réseau CCI France en marge du rassemblement. Plusieurs centaines d'autres annonces font encore l'objet d'investigations actives.",
-      "contexte": "Les plateformes de vente de seconde main sont couramment surveillées par les services d'enquête après des dégradations de grande ampleur, car elles servent souvent à écouler rapidement des biens dérobés. L'objectif pour l'État est de tarir l'intérêt financier des pillages tout en facilitant l'identification des auteurs d'infractions. Cette régulation numérique témoigne d'une volonté d'associer plus étroitement les acteurs du web à la réponse pénale."
-    },
-    {
-      "titre": "Pourquoi le BHV demande sa mise en redressement judiciaire aux juges de Lyon",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/27/pourquoi-le-bhv-demande-sa-mise-en-redressement-judiciaire-aux-juges-de-lyon_6801349_3234.html",
-      "source": "Le Monde",
-      "date": "2026-10-27T22:45:13+01:00",
-      "resume": "L'enseigne parisienne du BHV a formulé une demande de mise en redressement judiciaire auprès des juges de Lyon, dans la préfecture du Rhône. Cette démarche, effectuée pour placer l'entreprise sous la protection de la justice, suscite la vive inquiétude de ses 700 salariés. Les motifs exacts du choix de cette juridiction géographique spécifique n'ont pas été précisés dans l'immédiat.",
-      "contexte": "Le secteur des grands magasins fait face depuis plusieurs années à de lourdes difficultés structurelles, subissant la concurrence du commerce électronique, les baisses de fréquentation et l'inflation des coûts d'exploitation. La procédure de redressement judiciaire est généralement sollicitée par une direction lorsqu'une entreprise est en cessation de paiements, dans l'espoir de geler les dettes et d'élaborer un plan de restructuration pour éviter la liquidation."
-    },
-    {
-      "titre": "Mort d’un manifestant le 17 octobre à Paris : l’autopsie conclut à « une défaillance cardiorespiratoire aiguë » ; la famille dénonce l’usage de gaz lacrymogène",
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/27/mort-d-un-manifestant-le-17-octobre-a-paris-l-autopsie-conclut-a-une-defaillance-cardiorespiratoire-aigue-la-famille-denonce-l-usage-de-gaz-lacrymogene_6801348_3224.html",
-      "source": "Le Monde",
-      "date": "2026-10-27T22:39:49+01:00",
-      "resume": "L'autopsie réalisée sur Christophe M., décédé à Paris lors de la manifestation du 17 octobre, a conclu à une défaillance cardiorespiratoire aiguë. L'avocat de sa famille a déposé plainte lundi contre les forces de l'ordre pour violences volontaires par personne dépositaire de l'autorité publique ayant entraîné la mort sans intention de la donner. Les proches du défunt mettent en cause l'usage de gaz lacrymogène durant les événements.",
-      "contexte": "Ce décès relance le débat récurrent en France sur la doctrine du maintien de l'ordre et l'emploi de la force lors de mobilisations sociales houleuses. L'ouverture d'une enquête judiciaire vise généralement à déterminer les responsabilités exactes et le lien de causalité entre les moyens employés par les policiers et le décès. L'affaire accentue les tensions entre les autorités publiques et les collectifs dénonçant les violences policières."
-    },
-    {
-      "titre": "Avec le projet de loi « casseurs-payeurs », le gouvernement veut pouvoir censurer les appels à la violence sur les réseaux sociaux",
-      "lien": "https://www.lemonde.fr/pixels/article/2026/10/27/avec-le-projet-de-loi-casseurs-payeurs-le-gouvernement-veut-pouvoir-censurer-les-appels-a-la-violence-sur-les-reseaux-sociaux_6801347_4408996.html",
-      "source": "Le Monde",
-      "date": "2026-10-27T22:24:16+01:00",
-      "resume": "Le gouvernement français prépare un projet de loi dit « casseurs-payeurs » visant à censurer les appels à la violence sur les réseaux sociaux. Le texte prévoit d'accorder à l'exécutif la possibilité d'ordonner le blocage administratif des sites et des plateformes diffusant ces incitations. Ce dispositif, qui permet d'interdire un accès sans passer au préalable par une décision de justice, a été instauré en 2014 et déjà étendu à plusieurs reprises.",
-      "contexte": "Face à la rapidité avec laquelle les rassemblements violents peuvent être organisés et coordonnés en ligne, l'exécutif cherche à renforcer sa réactivité technique en court-circuitant le temps judiciaire classique. Toutefois, l'extension des procédures administratives de censure suscite habituellement de vives réserves chez les défenseurs des libertés publiques, qui s'inquiètent des risques d'atteinte disproportionnée à la liberté d'expression."
-    },
-    {
-      "titre": "Elections législatives en Israël : les premières estimations sont un désaveu \"complet\" pour Benyamin Nétanyahou, selon son rival Gadi Eisenkot",
-      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-27T22:17:17+01:00",
-      "resume": "En Israël, les sondages réalisés à la sortie des urnes lors des élections législatives placent le bloc de l'opposition en tête face à la coalition de Benyamin Nétanyahou. Mené par le centriste Gadi Eisenkot, ce « bloc du changement » obtiendrait entre 52 et 53 sièges sur les 120 de la Knesset. La coalition sortante du Premier ministre recueillerait quant à elle 50 sièges. Le rival du Premier ministre a qualifié ces premières estimations de désaveu complet pour le dirigeant sortant.",
-      "contexte": "Ce scrutin constitue le premier vote législatif organisé en Israël depuis les attaques du 7 octobre 2023 et la guerre qui a suivi. Malgré son avance, l'opposition ne parvient pas à obtenir seule le seuil des 61 sièges requis pour gouverner, ce qui laisse présager de difficiles tractations pour former une majorité. Cette situation pourrait prolonger l'instabilité politique chronique qui traverse le pays depuis plusieurs années."
-    },
-    {
-      "titre": "Les manifestations dégénèrent en émeutes à Bilbao",
-      "lien": "https://www.franceinfo.fr/monde/espagne/les-manifestations-degenerent-en-emeutes-a-bilbao_8256424.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-27T22:00:02+01:00",
-      "resume": "Des scènes de chaos et des émeutes ont éclaté lundi soir dans les rues de Bilbao, dans le nord de l'Espagne. Plusieurs militants antifascistes s'étaient rassemblés pour protester contre la venue, finalement annulée, d'un influenceur d'extrême droite dans le cadre d'une tournée liée aux législatives. Des casseurs se sont ensuite affrontés avec les forces de l'ordre au cours de la soirée.",
-      "contexte": "Ces violences interviennent dans un climat de vive polarisation politique en Espagne à l'approche d'échéances électorales. La présence de personnalités radicales et l'agitation sur les réseaux sociaux exacerbent souvent les antagonismes entre mouvements antifascistes et partisans d'extrême droite. De telles confrontations soulèvent régulièrement des défis sécuritaires importants pour le maintien de l'ordre dans les centres urbains."
+      "date": "2026-10-27T23:00:34+01:00",
+      "resume": "Une adolescente de 17 ans grièvement blessée à l'œil par un projectile des forces de l'ordre à Mulhouse le 17 octobre s'apprête à porter plainte, une enquête ayant été confiée à l'IGPN. Par ailleurs, plus de 1 700 annonces suspectes de revente en ligne ont été supprimées à la suite des pillages de commerces survenus lors de la même journée de mobilisation. Un bilan du réseau CCI France faisait état de plus de 1 000 commerces pillés ou saccagés.",
+      "contexte": "Ces incidents font suite à des épisodes de tensions et de violences urbaines survenus en marge de manifestations. L'intervention des forces de l'ordre et l'usage de la force font régulièrement l'objet d'enquêtes administratives et judiciaires pour en déterminer la proportionnalité. La revente d'objets volés sur internet pose quant à elle un défi persistant aux autorités, qui traquent les plateformes de commerce en ligne pour endiguer le recel."
     },
     {
       "titre": "🔴 Flavio Bolsonaro a fui le Brésil pour les États-Unis, selon la presse brésilienne",
       "lien": "https://www.france24.com/fr/am%C3%A9riques/20261027-br%C3%A9sil-passeports-flavio-bolsonaro-annul%C3%A9s-argentine-nie-toute-fuite-territoire",
       "source": "France 24",
       "date": "2026-10-27T21:48:28+01:00",
-      "resume": "Selon des informations rapportées par la presse brésilienne, Flavio Bolsonaro a quitté le Brésil pour se réfugier aux États-Unis. Ce départ soudain intervient peu de temps après l'élection présidentielle brésilienne.",
-      "contexte": "Cette fuite annoncée s'inscrit dans un climat de forte fébrilité politique au Brésil, marqué par des contestations électorales et de multiples enquêtes judiciaires visant l'entourage de l'ancien pouvoir conservateur. Le départ vers l'étranger d'une figure politique de premier plan est souvent perçu comme une tentative d'échapper à d'éventuelles poursuites ou pressions judiciaires dans son pays."
+      "resume": "Le sénateur ultraconservateur brésilien Flavio Bolsonaro a fui le Brésil pour les États-Unis en passant par l'Argentine et l'Équateur, selon la presse locale. Ce départ intervient deux jours après sa défaite à la présidentielle et malgré une décision de la Cour suprême lui ordonnant de remettre ses passeports. Le gouvernement américain s'apprête à lui délivrer un visa.",
+      "contexte": "Ce type de départ de personnalités politiques sous le coup de mesures judiciaires illustre les tensions institutionnelles et les stratégies de contournement de la justice dans les dossiers de corruption ou d'atteinte à l'État de droit. L'implication de pays tiers dans l'accueil de figures politiques en délicatesse avec leur justice nationale soulève régulièrement des questions diplomatiques."
     },
     {
-      "titre": "\"Nous avons été manipulés\" : des évêques catholiques américains s'excusent après une prière pour Donald Trump dans le Bureau ovale",
-      "lien": "https://www.franceinfo.fr/monde/usa/nous-avons-ete-manipules-des-eveques-catholiques-presentent-leurs-excuses-apres-la-diffusion-d-une-video-les-montrant-en-train-de-prier-pour-donald-trump-dans-le-bureau-ovale_8256025.html#xtor=RSS-3-[lestitres]",
+      "titre": "Ukraine : le Danemark reproche à la Finlande et à la Norvège d'avoir joué \"solo\" en appelant Poutine",
+      "lien": "https://www.france24.com/fr/europe/20261027-ukraine-danemark-reproche-finlande-norv%C3%A8ge-avoir-jou%C3%A9-solo-appel-vladimir-poutine",
+      "source": "France 24",
+      "date": "2026-10-27T19:44:15+01:00",
+      "resume": "Le président finlandais Alexander Stubb et le Premier ministre norvégien Jonas Gahr Store se sont entretenus par téléphone avec le président russe Vladimir Poutine pour ouvrir un canal de communication avec le Kremlin. La Première ministre danoise, Mette Frederiksen, a vivement critiqué cette initiative, reprochant à ses voisins d'avoir agi seuls.",
+      "contexte": "Cette divergence au sein des pays nordiques illustre les débats stratégiques en Europe concernant la gestion des relations diplomatiques avec la Russie depuis le début du conflit en Ukraine. Maintenir ou non des lignes de communication ouvertes avec Moscou divise les alliés occidentaux entre partisans d'un isolement strict et tenants d'une diplomatie directe."
+    },
+    {
+      "titre": "Élections en Serbie : \"La mobilisation contre la fraude a sûrement eu un impact sur les résultats\"",
+      "lien": "https://www.france24.com/fr/europe/20261027-%C3%A9lections-serbie-mobilisation-contre-fraude-s%C3%BBrement-impact-r%C3%A9sultats",
+      "source": "France 24",
+      "date": "2026-10-27T18:58:48+01:00",
+      "resume": "Le mouvement de contestation mené par les étudiants en Serbie a remporté une victoire historique aux élections législatives en devançant le parti du président démissionnaire Aleksandar Vucic. Les électeurs et les militants se sont massivement mobilisés pour surveiller le scrutin et empêcher les fraudes électorales.",
+      "contexte": "La mobilisation de la jeunesse et de la société civile contre les dérives autoritaires ou les soupçons de corruption est devenue un levier majeur de contestation politique dans plusieurs démocraties fragilisées d'Europe de l'Est. Ces victoires électorales par le bas témoignent d'un rejet des élites en place et d'une exigence accrue de transparence démocratique."
+    }
+  ],
+  "aujourdhui": [
+    {
+      "titre": "Collision de deux trains en Espagne : les autorités locales déplorent \"au moins 10 morts\"",
+      "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-28T10:45:15+01:00",
+      "resume": "Une collision entre deux trains, l'un de l'opérateur privé Yrio et l'autre de la compagnie nationale Renfe, s'est produite à 8h54 en Espagne. Les autorités locales et les services d'urgence déplorent au moins 10 morts.",
+      "contexte": "Les accidents ferroviaires impliquant des pertes humaines majeures entraînent généralement l'ouverture immédiate d'enquêtes techniques et judiciaires pour déterminer les causes de la collision, qu'il s'agisse d'une défaillance humaine, d'un problème de signalisation ou d'un dysfonctionnement technique."
+    },
+    {
+      "titre": "\"Il a mordu la main qui le nourrit\" : malgré ses excuses, Kylian Mbappé est toujours très critiqué en Chine pour ses propos sur Mao Zedong",
+      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/boycott-contrats-rompus-malgre-ses-excuses-kylian-mbappe-est-toujours-tres-critique-en-chine-pour-ses-propos-sur-mao-zedong_8256967.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo · franceinfo Monde",
-      "date": "2026-10-27T21:39:34+01:00",
-      "resume": "À une semaine des élections de mi-mandat américaines de 2026, Donald Trump mène une campagne marquée par des provocations et des propos controversés qui suscitent le malaise dans son propre camp. En parallèle, des évêques catholiques américains ont présenté leurs excuses après la diffusion sur le réseau social X d'une vidéo montrant une prière dans le Bureau ovale. Certains membres du clergé ont affirmé avoir été manipulés et ont accusé la Maison Blanche de récupération politique à quelques jours du vote.",
-      "contexte": "Les élections de mi-mandat représentent traditionnellement un test majeur pour l'exécutif américain, déterminant le contrôle du Congrès. La stratégie de Donald Trump repose souvent sur une mobilisation intense de sa base électorale et sur une présence médiatique constante par le biais de polémiques. Le soutien des électeurs religieux conservateurs est crucial pour les républicains, ce qui explique la sensibilité politique autour des gestes adressés aux responsables spirituels."
+      "date": "2026-10-28T10:44:46+01:00",
+      "resume": "Kylian Mbappé fait l'objet de vives critiques et de pressions en Chine après avoir qualifié Mao Zedong de dictateur dans une vidéo sur les réseaux sociaux. La polémique, qui a pris une dimension importante, a conduit deux grandes compagnies chinoises à rompre leurs contrats avec le joueur pour avoir heurté les sentiments nationaux.",
+      "contexte": "Cet épisode illustre l'impact géopolitique du 'sharp power' et la sensibilité extrême des marchés asiatiques, notamment chinois, vis-à-vis des déclarations publiques de personnalités occidentales sur des sujets mémoriels ou politiques sensibles. Les sportifs de premier plan, érigés en marques mondiales, se trouvent ainsi exposés aux répercussions économiques de prises de position jugées contraires aux intérêts des régimes partenaires."
     },
     {
-      "titre": "Avec son « esthétique de l’inachevé », Willem De Kooning crée le trouble au Rijksmuseum d’Amsterdam",
-      "lien": "https://www.lemonde.fr/culture/article/2026/10/27/avec-son-esthetique-de-l-inacheve-willem-de-kooning-cree-le-trouble-au-rijksmuseum-d-amsterdam_6801343_3246.html",
+      "titre": "Législatives en Israël : le camp de Netanyahu en tête, mais sans majorité",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-isra%C3%ABl-participation-record-netanyahu-eisenkot-coude-%C3%A0-coude",
+      "source": "France 24 · franceinfo",
+      "date": "2026-10-28T10:42:25+01:00",
+      "resume": "Les élections législatives en Israël n'ont pas permis de dégager de majorité claire après le dépouillement d'une grande partie des suffrages et le rejet d'une demande de prolongation du vote par la Commission électorale. Le Premier ministre sortant Benjamin Netanyahu arrive légèrement en tête, au coude-à-coude avec le bloc de l'opposition emmené par Gadi Eisenkot. Les deux rivaux se sont dits prêts à former un gouvernement, ouvrant une période d'intenses tractations dans un paysage politique très fragmenté.",
+      "contexte": "Ces élections se tiennent dans un contexte géopolitique et sécuritaire extrêmement tendu depuis les attaques du Hamas du 7 octobre 2023. L'absence de majorité claire prolonge l'instabilité politique chronique du pays, où la formation de coalitions gouvernementales nécessite traditionnellement de laborieuses négociations avec les partis religieux et nationalistes."
+    },
+    {
+      "titre": "En Serbie, un assaillant abattu près de l’ambassade israélienne à Belgrade ; Israël confirme une tentative d’« attentat terroriste »",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/28/en-serbie-un-assaillant-abattu-pres-de-l-ambassade-israelienne-a-belgrade-israel-confirme-une-tentative-d-attentat-terroriste_6801547_3210.html",
       "source": "Le Monde",
-      "date": "2026-10-27T20:50:09+01:00",
-      "resume": "Le Rijksmuseum d'Amsterdam consacre une exposition au peintre néerlandais Willem De Kooning, articulée autour de la notion d'« esthétique de l'inachevé ». L'événement rassemble plus de 120 œuvres retraçant soixante-cinq années de sa carrière artistique. Le parcours met en lumière la façon dont l'artiste se servait du dessin pour explorer, corriger, détruire ses créations et se surprendre lui-même.",
-      "contexte": "Figure majeure de l'expressionnisme abstrait, Willem De Kooning a profondément marqué l'art moderne de la seconde moitié du XXe siècle par son approche dynamique et tourmentée de la matière et du geste pictural. Cette rétrospective dans l'une des institutions les plus prestigieuses des Pays-Bas permet d'éclairer son processus créatif intime et de réévaluer l'importance de l'expérimentation constante dans son œuvre."
+      "date": "2026-10-28T10:31:44+01:00",
+      "resume": "Une tentative d'attentat terroriste s'est produite dans la nuit près de l'ambassade israélienne à Belgrade, en Serbie, se soldez par la mort d'un assaillant. La diplomatie israélienne a rapidement confirmé l'incident, survenu peu après l'annonce des premiers résultats des élections législatives en Israël.",
+      "contexte": "Les représentations diplomatiques israéliennes à l'étranger font l'objet d'un renforcement constant de leur sécurité en raison des tensions géopolitiques mondiales et du risque accru d'attaques ciblées en période de crise au Proche-Orient."
+    },
+    {
+      "titre": "\"Un projet qui n'est pas le bon pour la France\" : Bruno Retailleau balaie la main tendue du RN en vue d'un éventuel gouvernement d'union des droites",
+      "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/un-projet-qui-n-est-pas-le-bon-pour-la-france-bruno-retailleau-balaie-la-main-tendue-du-rn-en-vue-d-un-eventuel-gouvernement-d-union-des-droites_8257030.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-28T10:28:51+01:00",
+      "resume": "Le responsable politique Bruno Retailleau a balayé la main tendue du Rassemblement national en vue d'un gouvernement d'union des droites, qualifiant le projet du RN de non adapté pour la France. Il a toutefois reconnu des convergences idéologiques avec Marine Le Pen sur des sujets régaliens et l'ordre public.",
+      "contexte": "Ces positionnements traduisent les stratégies d'alliance ou de démarcation au sein de la droite et de l'extrême droite françaises en vue des échéances électorales, oscillant entre la volonté de préserver une autonomie partisane et la tentation de rapprochements thématiques."
+    },
+    {
+      "titre": "Paris continuera de plaider pour une solution à deux Etats, quel que soit le résultat des élections législatives en Israël, affirme Jean-Noël Barrot",
+      "lien": "https://www.franceinfo.fr/monde/israel/la-diplomatie-francaise-continuera-de-pousser-pour-une-solution-a-deux-etats-quel-que-soit-le-resultat-des-elections-legislatives-en-israel-affirme-jean-noel-barrot_8256982.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-28T10:14:55+01:00",
+      "resume": "Le ministre français des Affaires étrangères, Jean-Noël Barrot, a affirmé que Paris continuerait de plaider pour une solution à deux États au Proche-Orient, indépendamment des résultats des élections législatives en Israël.",
+      "contexte": "La France maintient une ligne diplomatique constante sur le dossier israélo-palestinien, rappelant régulièrement son attachement au droit international et à la solution à deux États malgré les soubresauts de la vie politique locale en Israël."
+    },
+    {
+      "titre": "A Marseille, un homme succombe à des tirs de kalachnikov sur un point de deal du 11ᵉ arrondissement",
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/28/a-marseille-un-homme-succombe-a-des-tirs-de-kalachnikov-sur-un-point-de-deal-du-11-arrondissement_6801546_3224.html",
+      "source": "Le Monde",
+      "date": "2026-10-28T10:08:32+01:00",
+      "resume": "Un homme de 21 ans a été tué par des tirs de kalachnikov mardi soir à la cité Air Bel, dans le 11e arrondissement de Marseille, sur un point de deal. La victime était déjà connue de la justice pour trafic de stupéfiants.",
+      "contexte": "Ce type d'homicide s'inscrit généralement dans le cadre de règlements de comptes liés au trafic de drogue, un phénomène persistant dans les grandes métropoles que les autorités tentent de combattre par des opérations de police ciblées."
     }
   ],
   "culture": [
     {
-      "theme": "sport",
-      "titre": "L'invention du rugby moderne",
-      "texte": "Selon la légende populaire, le rugby serait né en Angleterre lorsqu'un élève de la ville de Rugby, William Webb Ellis, aurait attrapé le ballon à pleines mains lors d'un match de football pour courir vers le but adverse. Si cette histoire est aujourd'hui considérée comme un mythe romancé, elle a donné son nom à ce sport de combat collectif. Les premières règles officielles ont été codifiées au XIXe siècle par des étudiants pour harmoniser les pratiques entre différents collèges britanniques. Ce jeu est rapidement devenu un vecteur d'éducation physique et de valeurs morales dans l'Empire britannique. Aujourd'hui, il se caractérise par un mélange unique de rudesse physique, de stratégie tactique et de respect absolu entre adversaires.",
-      "a_retenir": "Le rugby s'est structuré au XIXe siècle dans les collèges britanniques, transformant une variante du football en un sport fondé sur la rigueur et le respect."
+      "theme": "arts et littérature",
+      "titre": "Le mystère des carnets de Léonard de Vinci",
+      "texte": "L'artiste et savant Léonard de Vinci remplissait ses carnets de notes et de dessins dans un style bien particulier. Il écrivait en effet de droite à gauche, ce qui obligeait les lecteurs à utiliser un miroir pour déchiffrer ses textes. Cette écriture spéculaire n'était pas un message codé destiné à intriguer ses contemporains. C'était simplement une habitude pratique pour un homme gaucher, qui évitait ainsi d'étaler l'encre fraîche avec sa main en écrivant. Ces manuscrits regorgent d'inventions visionnaires, d'études anatomiques d'une grande précision et d'observations botaniques fascinantes. Aujourd'hui, ces précieux carnets sont dispersés dans les plus grands musées et collections du monde entier.",
+      "a_retenir": "Léonard de Vinci écrivait de droite à gauche dans ses carnets pour éviter de tacher l'encre avec sa main de gaucher."
     },
     {
-      "theme": "origine des grands événements ou conflits actuels",
-      "titre": "Les origines de la Ligne verte à Chypre",
-      "texte": "La partition actuelle de l'île de Chypre trouve ses racines profondes dans les tensions intercommunautaires entre les populations chypriotes grecques et turques après l'indépendance vis-à-vis du Royaume-Uni. En mil neuf cent soixante-quatorze, un coup d'État nationaliste grec visant le rattachement de l'île à la Grèce a provoqué une intervention militaire de la Turquie. L'armée turque a alors pris le contrôle du tiers nord du territoire pour protéger la minorité turcophone. Une zone tampon patrouillée par les Nations unies, connue sous le nom de Ligne verte, a été tracée pour séparer les deux communautés. Cette division politique et géographique perdure encore aujourd'hui, faisant de la capitale Nicosie l'une des dernières villes divisées d'Europe.",
-      "a_retenir": "La Ligne verte à Chypre est une zone tampon de l'ONU créée en 1974 suite à une intervention militaire turque, divisant durablement l'île en deux."
+      "theme": "nature et animaux",
+      "titre": "L'étonnante stratégie des arbres pour communiquer",
+      "texte": "Longtemps perçus comme des êtres isolés, les arbres d'une forêt forment en réalité un vaste réseau interconnecté. Sous la surface du sol, leurs racines s'associent à des champignons pour créer un immense réseau souterrain, souvent surnommé le « wood wide web ». Grâce à cette alliance, les arbres peuvent échanger des nutriments essentiels et s'envoyer des signaux chimiques d'alerte. Si un arbre est attaqué par des parasites, il prévient ses voisins en libérant des molécules spécifiques via ce réseau. Les arbres sains peuvent ainsi renforcer leurs défenses immunitaires avant même d'être touchés par la menace. Cette solidarité végétale démontre la complexité insoupçonnée de la vie en forêt.",
+      "a_retenir": "Les arbres communiquent et s'entraident sous terre grâce à un réseau formé par leurs racines et des champignons."
     },
     {
-      "theme": "histoire",
-      "titre": "Le mystère de la disparition de la civilsation minoenne",
-      "texte": "La civilisation minoenne, l'une des plus brillantes de l'âge du bronze en Méditerranée, s'est épanouie sur l'île de Crète autour du somptueux palais de Cnossos. Connue pour son art raffiné, son écriture non déchiffrée et sa puissance maritime, elle a dominé la région pendant des siècles. Sa fin brutale, survenue au milieu du deuxième millénaire avant notre ère, a longtemps fasciné les historiens et les archéologues. Aujourd'hui, la majorité des scientifiques s'accorde à dire qu'une gigantesque éruption volcanique sur l'île voisine de Théra, aujourd'hui Santorin, a déclenché des tsunamis dévastateurs et des pluies de cendre. Cet cataclysme naturel a affaibli irrémédiablement l'économie minoenne, facilitant par la suite l'invasion de l'île par les Mycéniens venus du continent grec.",
-      "a_retenir": "La puissante civilisation minoenne de Crète a périclité à la suite des ravages causés par l'éruption volcanique de Santorin et des invasions terrestres."
+      "theme": "économie",
+      "titre": "L'origine colorée des pages du Financial Times",
+      "texte": "Le célèbre journal économique britannique *Financial Times* se distingue immédiatement par la couleur rose saumon de son papier. Ce choix audacieux ne relève pas d'une simple stratégie artistique ou esthétique. À l'origine, au tournant du vingtième siècle, le journal était imprimé sur du papier rose tout simplement parce qu'il était moins coûteux à fabriquer. Le papier blanc de bonne qualité était alors plus cher et réservé à d'autres usages. Au fil du temps, cette teinte unique est devenue une marque de fabrique incontournable et un symbole de reconnaissance internationale. Même à l'ère du numérique, la version papier conserve cette couleur historique.",
+      "a_retenir": "Le journal Financial Times est imprimé en rose saumon depuis son origine, car ce papier était à l'époque moins coûteux à produire."
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "1a795f4609",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Combien d'annonces suspectes de revente en ligne ont été supprimées après la manifestation du 17 octobre ?",
-      "choix": [
-        "Plus de 1 200",
-        "Plus de 500",
-        "Plus de 1 700",
-        "Plus de 3 000"
-      ],
-      "reponse": 2,
-      "explication": "Le gouvernement a indiqué que plus de 1 700 annonces suspectes ont été supprimées des plateformes de revente en ligne.",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/apres-les-pillages-de-commerces-plus-de-1-700-annonces-suspectes-ont-ete-supprimees-des-plateformes-de-revente-en-ligne-selon-le-gouvernement_8256394.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "9a60fb508c",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Auprès des juges de quelle ville l'enseigne parisienne du BHV a-t-elle demandé sa mise en redressement judiciaire ?",
-      "choix": [
-        "Paris",
-        "Marseille",
-        "Lille",
-        "Lyon"
-      ],
-      "reponse": 3,
-      "explication": "La demande de mise en redressement judiciaire a été formulée auprès des juges de Lyon.",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/27/pourquoi-le-bhv-demande-sa-mise-en-redressement-judiciaire-aux-juges-de-lyon_6801349_3234.html"
-    },
-    {
-      "id": "eef93c6394",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Quelle est la conclusion de l'autopsie concernant le décès de Christophe M. à Paris le 17 octobre ?",
-      "choix": [
-        "Un traumatisme crânien sévère",
-        "Une noyade accidentelle",
-        "Une crise cardiaque naturelle",
-        "Une défaillance cardiorespiratoire aiguë"
-      ],
-      "reponse": 3,
-      "explication": "L'autopsie a conclu à « une défaillance cardiorespiratoire aiguë », tandis que la famille met en cause le gaz lacrymogène.",
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/27/mort-d-un-manifestant-le-17-octobre-a-paris-l-autopsie-conclut-a-une-defaillance-cardiorespiratoire-aigue-la-famille-denonce-l-usage-de-gaz-lacrymogene_6801348_3224.html"
-    },
-    {
-      "id": "5be145c393",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Quel dirigeant politique israélien a qualifié les premières estimations des législatives de désaveu complet pour Benyamin Nétanyahou ?",
-      "choix": [
-        "Gadi Eisenkot",
-        "Yair Lapid",
-        "Benny Gantz",
-        "Isaac Herzog"
-      ],
-      "reponse": 0,
-      "explication": "C'est le centriste Gadi Eisenkot, menant le bloc de l'opposition, qui a qualifié ces estimations de désaveu complet.",
-      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "190b7c738b",
-      "date": "2026-10-27",
-      "type": "actu",
-      "question": "Quel musée d'Amsterdam consacre une exposition au peintre Willem De Kooning ?",
-      "choix": [
-        "Le Stedelijk Museum",
-        "Le musée Van Gogh",
-        "Le musée Rembrandt",
-        "Le Rijksmuseum"
-      ],
-      "reponse": 3,
-      "explication": "Le Rijksmuseum d'Amsterdam présente une exposition consacrée à Willem De Kooning autour de l'esthétique de l'inachevé.",
-      "lien": "https://www.lemonde.fr/culture/article/2026/10/27/avec-son-esthetique-de-l-inacheve-willem-de-kooning-cree-le-trouble-au-rijksmuseum-d-amsterdam_6801343_3246.html"
-    },
-    {
-      "id": "12d6f8299e",
-      "date": "2026-10-27",
-      "type": "culture",
-      "question": "Quel personnage de légende est traditionnellement associé à l'invention du rugby moderne en Angleterre ?",
-      "choix": [
-        "Arthur Wellesley de Wellington",
-        "William Webb Ellis",
-        "Thomas Arnold",
-        "Henry Newbolt"
-      ],
-      "reponse": 1,
-      "explication": "La légende populaire attribue l'invention du rugby à William Webb Ellis, qui aurait attrapé le ballon à pleines mains lors d'un match de football.",
-      "lien": ""
-    },
-    {
-      "id": "00a9a159a7",
-      "date": "2026-10-27",
-      "type": "culture",
-      "question": "Quelle catastrophe naturelle est aujourd'hui considérée par la majorité des scientifiques comme la cause principale de l'affaiblissement de la civilisation minoenne ?",
-      "choix": [
-        "Une éruption volcanique sur l'île de Théra",
-        "Un tsunami d'origine sismique en provenance d'Égypte",
-        "Une sécheresse prolongée",
-        "Un violent tremblement de terre à Cnossos"
-      ],
-      "reponse": 0,
-      "explication": "Une gigantesque éruption volcanique sur l'île voisine de Théra (Santorin) a déclenché des tsunamis et des pluies de cendre ayant ruiné l'économie minoenne.",
-      "lien": ""
-    }
-  ]
+  "quiz_jour": []
 }
