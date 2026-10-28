@@ -1124,6 +1124,111 @@
       "reponse": 1,
       "explication": "Au tournant du XXe siècle, le Financial Times a opté pour le papier rose saumon car sa fabrication coûtait moins cher que celle du papier blanc.",
       "lien": ""
+    },
+    {
+      "id": "eab73a883f",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Aux États-Unis, quelle proportion des sièges du Sénat sera remise en jeu lors des élections de mi-mandat (Midterms) de 2026 ?",
+      "choix": [
+        "Un quart des sièges",
+        "La moitié des sièges",
+        "La totalité des sièges",
+        "Un tiers des sièges"
+      ],
+      "reponse": 3,
+      "explication": "Lors des Midterms 2026, l'ensemble des sièges de la Chambre des représentants ainsi qu'un tiers de ceux du Sénat sont remis en jeu.",
+      "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-midterms-2026-donald-trump-attendu-dans-l-ohio-barack-obama-en-georgie-suivez-la-campagne-des-elections-de-mi-mandat-aux-etats-unis_6801590_3210.html"
+    },
+    {
+      "id": "d2d3422387",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quelle hypothèse est privilégiée par les enquêteurs concernant la collision meurtrière de deux trains survenue au sud de Madrid ?",
+      "choix": [
+        "Une erreur humaine consécutive à une panne de signalisation",
+        "Un glissement de terrain ayant endommagé la voie",
+        "Un acte de malveillance volontaire",
+        "Une rupture des freins liée à l'usure du matériel"
+      ],
+      "reponse": 0,
+      "explication": "Les premières investigations sur le drame ferroviaire en Espagne privilégient la piste d'une erreur humaine suite à une défaillance de la signalisation.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/collision-meurtriere-entre-deux-trains-en-espagne-la-piste-d-une-erreur-humaine-privilegiee_8257868.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "1c49fdcaa2",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Dans quelle ville l'instauration d'un cessez-le-feu a-t-elle été qualifiée d'« immense succès » par le président ukrainien Volodymyr Zelensky ?",
+      "choix": [
+        "Bakhmout",
+        "Olechky",
+        "Marioupol",
+        "Kharkiv"
+      ],
+      "reponse": 1,
+      "explication": "Volodymyr Zelensky a qualifié le cessez-le-feu à Olechky d'« immense succès » qui offre un répit aux habitants de Kherson.",
+      "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-le-cessez-le-feu-a-olechky-est-un-immense-succes-selon-volodymyr-zelensky-qui-appelle-a-une-rencontre-entre-moscou-kiev-et-washington-en-novembre_6799896_3210.html"
+    },
+    {
+      "id": "696b33517b",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quelle mesure prévoit le projet de loi du gouvernement d'Andorre concernant la dépénalisation partielle de l'avortement ?",
+      "choix": [
+        "L'autorisation de l'IVG sans condition sur tout le territoire",
+        "La gratuité des soins liés à l'IVG remboursés par la principauté",
+        "L'absence de poursuites pénales pour les femmes recourant à l'IVG à l'étranger",
+        "La légalisation de l'avortement uniquement pour des raisons médicales"
+      ],
+      "reponse": 2,
+      "explication": "Le projet prévoit que les femmes ne soient plus poursuivies pénalement si elles avortent à l'étranger, bien que la pratique demeure interdite pour les médecins en Andorre.",
+      "lien": "https://www.franceinfo.fr/societe/ivg/le-gouvernement-d-andorre-veut-depenaliser-partiellement-l-avortement-sans-toutefois-l-autoriser-dans-la-principaute_8257832.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "5bd43141de",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "De quelle affaire judiciaire le juge fédéral américain Alvin Hellerstein, décédé à l'âge de 92 ans, avait-il notamment la charge ?",
+      "choix": [
+        "L'arbitrage de l'affaire liée à Julian Assange",
+        "La procédure visant Nicolas Maduro",
+        "Le procès fédéral de Donald Trump",
+        "L'inculpation des dirigeants d'Enron"
+      ],
+      "reponse": 1,
+      "explication": "Le juge Alvin Hellerstein était notamment en charge de la procédure judiciaire américaine visant le président vénézuélien déchu Nicolas Maduro.",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261028-alvin-hellerstein-le-juge-americain-en-charge-affaire-maduro-est-mort-a-92-ans"
+    },
+    {
+      "id": "29d411e0ff",
+      "date": "2026-10-28",
+      "type": "culture",
+      "question": "Pour quelle raison pratique Léonard de Vinci rédigeait-il principalement ses carnets de droite à gauche ?",
+      "choix": [
+        "Parce qu'il était gaucher et évitait ainsi d'étaler l'encre",
+        "Pour économiser le parchemin en écrivant plus serré",
+        "Pour coder ses découvertes face à l'Inquisition",
+        "Pour imiter la calligraphie des manuscrits anciens"
+      ],
+      "reponse": 0,
+      "explication": "L'écriture spéculaire (en miroir) de Léonard de Vinci était une habitude pratique de gaucher afin de ne pas frotter sa main sur l'encre fraîche.",
+      "lien": ""
+    },
+    {
+      "id": "312a051c2c",
+      "date": "2026-10-28",
+      "type": "culture",
+      "question": "Pour quelle raison le journal économique britannique « Financial Times » a-t-il historiquement choisi d'imprimer ses pages sur du papier rose saumon ?",
+      "choix": [
+        "Pour se démarquer d'un concurrent qui utilisait déjà le bleu",
+        "Parce que ce papier était moins coûteux à fabriquer",
+        "Pour empêcher les contrefaçons et les copies illégales",
+        "Pour rendre hommage aux couleurs de la monarchie"
+      ],
+      "reponse": 1,
+      "explication": "Au tournant du XXe siècle, le Financial Times a opté pour le papier teinté rose tout simplement parce qu'il était moins cher à produire que le papier blanc de qualité.",
+      "lien": ""
     }
   ]
 }
