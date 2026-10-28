@@ -1229,6 +1229,96 @@
       "reponse": 1,
       "explication": "Au tournant du XXe siècle, le Financial Times a opté pour le papier teinté rose tout simplement parce qu'il était moins cher à produire que le papier blanc de qualité.",
       "lien": ""
+    },
+    {
+      "id": "a4d0372bf8",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quelle est la principale piste privilégiée par l'enquête concernant la collision ferroviaire survenue en Espagne près de Tolède ?",
+      "choix": [
+        "Une erreur humaine consécutive à une panne",
+        "Un affaissement soudain des voies",
+        "Un acte malveillant prémédité",
+        "Des conditions météorologiques extrêmes"
+      ],
+      "reponse": 0,
+      "explication": "Les premiers éléments de l'enquête privilégient la piste d'une erreur humaine consécutive à une panne de signalisation ou informatique.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/collision-meurtriere-entre-deux-trains-en-espagne-la-piste-d-une-erreur-humaine-privilegiee_8257868.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "65b2ee882b",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Dans quel pays Flavio Bolsonaro a-t-il fui après sa défaite électorale ?",
+      "choix": [
+        "Au Canada",
+        "Aux États-Unis",
+        "En Espagne",
+        "En France"
+      ],
+      "reponse": 1,
+      "explication": "Flavio Bolsonaro a fui le Brésil pour rejoindre Miami, aux États-Unis, après sa défaite à l'élection présidentielle.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/un-citoyen-qui-fuit-son-pays-a-forcement-quelque-chose-a-cacher-la-fuite-de-flavio-bolsonaro-a-miami-apres-sa-defaite-au-bresil-fait-reagir-le-president-lula_8257958.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "8dd72193b1",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Comment appelle-t-on les élections de mi-mandat aux États-Unis qui approchent et donnent lieu à de nombreuses rumeurs ?",
+      "choix": [
+        "Les Midterms",
+        "Les Primaires",
+        "Les General Elections",
+        "Les Caucuses"
+      ],
+      "reponse": 0,
+      "explication": "Le texte mentionne les élections de mi-mandat (Midterms) prévues le 3 novembre aux États-Unis.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261028-%C3%A9tats-unis-vent-de-rumeurs-%C3%A0-l-approche-des-midterms"
+    },
+    {
+      "id": "da81deaeac",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quelle issue a connu l'enquête pour agression sexuelle visant un policier à Metz lors d'une interpellation ?",
+      "choix": [
+        "Un renvoi devant les assises",
+        "Une condamnation ferme",
+        "Un classement sans suite",
+        "Un non-lieu prononcé par un juge d'instruction"
+      ],
+      "reponse": 2,
+      "explication": "L'enquête a été classée sans suite ce mercredi par le procureur de la République.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-mobilisation-des-lyceens-l-enquete-pour-agression-sexuelle-visant-un-policier-a-metz-classee-sans-suite-procureur_8257907.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "19cf762524",
+      "date": "2026-10-28",
+      "type": "culture",
+      "question": "Pour quelle raison Léonard de Vinci écrivait-il ses carnets de droite à gauche ?",
+      "choix": [
+        "C'était un code secret destiné à ses rivaux",
+        "Il s'agissait d'une coutume artistique de son époque",
+        "Étant gaucher, cela lui évitait d'étaler l'encre fraîche",
+        "C'était une obligation imposée par l'Église"
+      ],
+      "reponse": 2,
+      "explication": "Cette écriture spéculaire était une habitude pratique pour un homme gaucher afin d'éviter d'étaler l'encre fraîche en écrivant.",
+      "lien": ""
+    },
+    {
+      "id": "722a6dda0d",
+      "date": "2026-10-28",
+      "type": "culture",
+      "question": "Pourquoi les pages du journal britannique Financial Times sont-elles traditionnellement de couleur rose saumon ?",
+      "choix": [
+        "C'était pour se démarquer des tabloïds politiques",
+        "C'était à l'origine le papier le moins coûteux à fabriquer",
+        "C'était une exigence du gouvernement britannique",
+        "C'était la couleur préférée du fondateur"
+      ],
+      "reponse": 1,
+      "explication": "À l'origine, au tournant du vingtième siècle, le journal était imprimé sur du papier rose car il était moins coûteux à fabriquer que le papier blanc.",
+      "lien": ""
     }
   ]
 }

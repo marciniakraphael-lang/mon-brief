@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "mode": "evening",
-  "updated": "2026-10-28T21:02:35.088611+01:00",
+  "updated": "2026-10-28T23:17:47.353599+01:00",
   "deja_presente": [
     {
       "titre": "Gaz : Poutine réunit les grands producteurs à Moscou sur fond de flambée des prix",
@@ -112,84 +112,36 @@
   ],
   "aujourdhui": [
     {
-      "titre": "EN DIRECT, Midterms 2026 : Donald Trump attendu dans l’Ohio, Barack Obama en Géorgie... Suivez la campagne des élections de mi-mandat aux Etats-Unis",
-      "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-midterms-2026-donald-trump-attendu-dans-l-ohio-barack-obama-en-georgie-suivez-la-campagne-des-elections-de-mi-mandat-aux-etats-unis_6801590_3210.html",
-      "source": "Le Monde",
-      "date": "2026-10-28T20:54:23+01:00",
-      "resume": "La campagne des élections de mi-mandat aux États-Unis, les Midterms 2026, bat son plein avec la visite attendue de Donald Trump dans l'Ohio et celle de Barack Obama en Géorgie. Alors que les républicains contrôlent actuellement le Congrès et la Maison Blanche, la totalité des sièges de la Chambre des représentants et un tiers de ceux du Sénat seront remis en jeu le 3 novembre.",
-      "contexte": "Ces élections de mi-mandat constituent un test crucial pour l'administration en place, permettant souvent aux électeurs de sanctionner ou de conforter la politique du président. L'objectif pour l'opposition est de basculer la majorité dans au moins une des chambres du Congrès pour entraver ou rééquilibrer le pouvoir exécutif."
-    },
-    {
-      "titre": "Manifestation du 17 octobre : une adolescente de 17 ans a déposé plainte après avoir été éborgnée",
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/28/manifestation-du-17-octobre-une-adolescente-de-17-ans-a-depose-plainte-apres-avoir-ete-eborgnee_6801639_3224.html",
-      "source": "Le Monde",
-      "date": "2026-10-28T20:46:38+01:00",
-      "resume": "Une adolescente de 17 ans a déposé plainte après avoir eu un œil blessé lors de la manifestation du 17 octobre. Selon son avocat, l'étudiante en langues sortait d'un restaurant et ne participait pas au rassemblement lorsqu'elle a été touchée au visage par un tir tendu de grenade lacrymogène, et l'Inspection générale de la Police nationale (IGPN) a été saisie.",
-      "contexte": "Ce type d'incident relance régulièrement le débat sur l'usage des armes de force intermédiaire par les forces de l'ordre lors des manifestations en France. La saisine de l'IGPN vise à établir les responsabilités et à déterminer si les règles d'engagement ont été strictement respectées."
-    },
-    {
-      "titre": "Législatives en Israël : une formation arabe se dit prête à \"soutenir\" un gouvernement d'opposition \"pour faire tomber\" la coalition de Benyamin Nétanyahou",
-      "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-en-israel-le-camp-de-benjamin-netanyahou-legerement-en-tete-apres-50-des-bulletins-depouilles-selon-la-commission-electorale_8256712.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-28T20:44:33+01:00",
-      "resume": "À l'issue des élections législatives en Israël, une formation arabe s'est dite prête à soutenir un gouvernement d'opposition afin de faire tomber la coalition de Benyamin Nétanyahou. Alors que le dépouillement est à peu près à sa moitié, le camp du Premier ministre sortant se trouve légèrement en tête et les résultats officiels sont attendus dans les prochains jours.",
-      "contexte": "Le paysage politique israélien est profondément fragmenté, rendant les alliances avec les partis arabes ou centristes indispensables pour atteindre la majorité à la Knesset. Cette position des partis arabes pourrait constituer un tournant historique si elle permet de bâtir une coalition alternative pour écarter le Premier ministre de longue date."
-    },
-    {
       "titre": "Collision meurtrière entre deux trains en Espagne : la piste d'une erreur humaine privilégiée",
       "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/collision-meurtriere-entre-deux-trains-en-espagne-la-piste-d-une-erreur-humaine-privilegiee_8257868.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde · franceinfo",
-      "date": "2026-10-28T20:42:45+01:00",
-      "resume": "Un grave accident ferroviaire survenu ce mercredi 28 octobre au sud de Madrid a fait au moins 68 morts et plus d'une centaine de blessés, constituant la pire catastrophe de ce type en Espagne depuis 2013. Les premiers éléments des investigations privilégient la piste d'une erreur humaine consécutive à une panne de signalisation, poussant la compagnie Renfe à suspendre la vente de billets entre Madrid et l'Andalousie jusqu'en décembre.",
-      "contexte": "Ce drame met en lumière les vulnérabilités potentielles des infrastructures ferroviaires à grande vitesse et la criticité des systèmes de signalisation modernes. Les conséquences économiques et logistiques sont immédiates pour le trafic national, tandis qu'une enquête approfondie doit déterminer les responsabilités exactes de cette collision."
+      "source": "franceinfo Monde · franceinfo · Le Monde",
+      "date": "2026-10-28T23:02:34+01:00",
+      "resume": "Une violente collision entre deux trains est survenue ce mercredi 28 octobre en Espagne, au sud de Madrid près de Tolède, causant la mort d'au moins 68 personnes et faisant une centaine de blessés. Les premiers éléments de l'enquête privilégient la piste d'une erreur humaine consécutive à une panne de signalisation ou informatique. Cet accident constitue la pire catastrophe ferroviaire en Espagne depuis 2013, endeuillant à nouveau le pays moins d'un an après un autre drame survenu en Andalousie.",
+      "contexte": "Ce type d'accident dramatique relance souvent le débat sur la sécurité des infrastructures ferroviaires, la vétusté du réseau et la gestion de la surfréquentation des lignes à grande vitesse. L'enquête technique et judiciaire devra déterminer précisément les responsabilités et les dysfonctionnements précis ayant conduit à ce que deux trains se retrouvent sur la même voie."
     },
     {
-      "titre": "Nouveau drame ferroviaire en Espagne, élections législatives israéliennes...Les informés de franceinfo du mercredi 28 octobre 2026",
-      "lien": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/nouveau-drame-ferroviaire-en-espagne-elections-legislatives-israeliennes-les-informes-de-franceinfo-du-mercredi-28-octobre-2026_8236315.html#xtor=RSS-3-%5Bgeneral%5D",
+      "titre": "\"Un citoyen qui fuit son pays a forcément quelque chose à cacher\" : la fuite de Flavio Bolsonaro à Miami après sa défaite au Brésil fait réagir le président Lula",
+      "lien": "https://www.franceinfo.fr/monde/bresil/un-citoyen-qui-fuit-son-pays-a-forcement-quelque-chose-a-cacher-la-fuite-de-flavio-bolsonaro-a-miami-apres-sa-defaite-au-bresil-fait-reagir-le-president-lula_8257958.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
-      "date": "2026-10-28T20:32:33+01:00",
-      "resume": "L'émission quotidienne de franceinfo a consacré une partie de son débat du mercredi 28 octobre 2026 à l'actualité marquée par le nouveau drame ferroviaire en Espagne et par les élections législatives israéliennes. Les informés se sont réunis autour du présentateur Renaud Blanc pour analyser ces faits majeurs.",
-      "contexte": "Ce format d'analyse permet de décrypter les grands titres de l'actualité internationale en confrontant les points de vue de différents éditorialistes et experts. L'objectif est de donner des clés de compréhension au public sur des événements géopolitiques et sociétaux complexes."
+      "date": "2026-10-28T22:33:56+01:00",
+      "resume": "Flavio Bolsonaro a fui le Brésil pour rejoindre Miami, aux États-Unis, en passant par l'Argentine et l'Équateur, après sa récente défaite à l'élection présidentielle brésilienne. Cette cavale a suscité de vives réactions au Brésil, notamment de la part du président Lula qui a estimé qu'un citoyen fuyant son pays avait quelque chose à cacher. L'ex-candidat populiste est visé dans son pays par plusieurs enquêtes pour corruption, blanchiment d'argent et fraude fiscale.",
+      "contexte": "Le départ précipité de personnalités politiques majeures face à des poursuites judiciaires est un scénario fréquent dans les crises politiques polarisées, l'éloignement géographique servant parfois à échapper provisoirement à la justice locale. Les enjeux diplomatiques et judiciaires autour d'une éventuelle extradition vers le Brésil dépendront de la nature des requêtes transmises aux autorités américaines."
     },
     {
-      "titre": "EN DIRECT, guerre en Ukraine | Le cessez-le-feu à Olechky est un « immense succès », selon Volodymyr Zelensky, qui appelle à une rencontre entre Moscou, Kiev et Washington en novembre",
-      "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-le-cessez-le-feu-a-olechky-est-un-immense-succes-selon-volodymyr-zelensky-qui-appelle-a-une-rencontre-entre-moscou-kiev-et-washington-en-novembre_6799896_3210.html",
-      "source": "Le Monde",
-      "date": "2026-10-28T20:25:19+01:00",
-      "resume": "Le président ukrainien Volodymyr Zelensky a qualifié d'« immense succès » le cessez-le-feu instauré à Olechky, tout en saluant le répit accordé aux habitants de Kherson situés sur l'autre rive du Dniepr. Il a par ailleurs profité de cette situation pour appeler à la tenue d'une rencontre tripartite entre Moscou, Kiev et Washington dès le mois de novembre.",
-      "contexte": "Cette trêve locale pourrait servir de test diplomatique et militaire dans le cadre de la guerre en Ukraine, où les initiatives de paix peinent généralement à aboutir. L'implication souhaitée de Washington reflète la nécessité pour Kiev d'associer les puissances internationales pour espérer progresser vers des négociations de fond."
-    },
-    {
-      "titre": "Le gouvernement d'Andorre veut dépénaliser partiellement l'avortement, sans toutefois l'autoriser",
-      "lien": "https://www.franceinfo.fr/societe/ivg/le-gouvernement-d-andorre-veut-depenaliser-partiellement-l-avortement-sans-toutefois-l-autoriser-dans-la-principaute_8257832.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-28T20:15:55+01:00",
-      "resume": "Le gouvernement d'andorre a présenté un projet pour dépénaliser partiellement l'avortement sans toutefois l'autoriser pleinement sur son territoire. Les femmes ayant recours à l'IVG à l'étranger ne risqueront plus de poursuites pénales, mais la pénalisation du personnel médical est maintenue dans la principauté par souci de « protection de la vie », en raison de liens étroits avec le Vatican.",
-      "contexte": "Andorre possède l'une des législations les plus restrictives d'Europe en matière d'interruption volontaire de grossesse, en raison de la particularité constitutionnelle de ses co-princes, dont l'évêque d'Urgell. Cette réforme constitue un compromis prudent entre les pressions sociétales en faveur des droits des femmes et le poids des traditions religieuses locales."
-    },
-    {
-      "titre": "Alvin Hellerstein, le juge américain en charge de l'affaire Maduro, est mort à 92 ans",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261028-alvin-hellerstein-le-juge-americain-en-charge-affaire-maduro-est-mort-a-92-ans",
+      "titre": "États-Unis : vent de rumeurs à l'approche des Midterms",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261028-%C3%A9tats-unis-vent-de-rumeurs-%C3%A0-l-approche-des-midterms",
       "source": "France 24",
-      "date": "2026-10-28T20:15:36+01:00",
-      "resume": "Le juge fédéral américain Alvin Hellerstein est mort ce mercredi à l'âge de 92 ans, alors qu'il était notamment en charge de la procédure judiciaire visant le président vénézuélien déchu Nicolas Maduro. Il était apparu extrêmement fatigué et s'exprimait avec difficulté lors d'une récente audience.",
-      "contexte": "Le décès d'un magistrat de cette envergure sur un dossier aussi sensible sur le plan géopolitique nécessite une réattribution de l'affaire au sein du système judiciaire fédéral américain. Cela pourrait potentiellement entraîner de nouveaux délais dans la procédure visant des dirigeants étrangers poursuissables aux États-Unis."
+      "date": "2026-10-28T21:58:01+01:00",
+      "resume": "À l'approche des élections de mi-mandat (Midterms) prévues le 3 novembre aux États-Unis, les fausses informations et les rumeurs infondées se multiplient. Des accusations mensongères ciblent notamment la fiabilité des machines à voter dans l'Illinois ou visent directement certains candidats, à l'image du prétendant démocrate au Sénat dans le Texas, James Talarico.",
+      "contexte": "La prolifération de fausses informations à l'approche de scrutins majeurs vise généralement à affaiblir la confiance des électeurs dans le système démocratique et à influencer le résultat des urnes. Ce phénomène est devenu un défi majeur pour les autorités électorales et les plateformes numériques, contraintes de multiplier les efforts de vérification des faits."
     },
     {
-      "titre": "\"Le Mystère Lucy Lost\" : un film d'animation poétique sur les mécanismes de la résilience",
-      "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/le-mystere-lucy-lost-un-film-d-animation-poetique-sur-les-mecanismes-de-la-resilience_8257580.html#xtor=RSS-3-[lestitres]",
+      "titre": "L'enquête pour agression sexuelle visant un policier à Metz en marge des mobilisations lycéennes classée sans suite",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-mobilisation-des-lyceens-l-enquete-pour-agression-sexuelle-visant-un-policier-a-metz-classee-sans-suite-procureur_8257907.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-28T20:13:59+01:00",
-      "resume": "Le film d'animation « Le Mystère Lucy Lost », réalisé par Olivier Clert, est présenté comme une œuvre poétique explorant les mécanismes psychologiques de la résilience. Le long-métrage utilise les rebondissements narratifs pour plonger le spectateur dans la psyché d'une jeune fille qui apprend à composer avec ses traumatismes.",
-      "contexte": "Le cinéma d'animation aborde de plus en plus des thèmes psychologiques profonds et des sujets de santé mentale destinés à un large public. Ce type d'œuvre utilise la métaphore visuelle pour rendre accessibles des notions complexes liées à la guérison émotionnelle."
-    },
-    {
-      "titre": "Guinée : Mamady Doumbouya, nouveau président de la Fédération de football",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-guin%C3%A9e-mamady-doumbouya-nouveau-pr%C3%A9sident-de-la-f%C3%A9d%C3%A9ration-de-football",
-      "source": "France 24",
-      "date": "2026-10-28T20:02:53+01:00",
-      "resume": "En Guinée, Mamady Doumbouya a pris à 34 ans les commandes de la Fédération guinéenne de football (Feguifoot). Bénéficiant du soutien de plusieurs hommes d'affaires fortunés, il a formulé des promesses d'investissements afin de relancer le football national.",
-      "contexte": "La gestion des instances sportives en Afrique subit souvent des recompositions liées à des soutiens politico-financiers, dans le but de redynamiser des sélections nationales en quête de résultats. L'enjeu est généralement d'attirer des fonds privés pour compenser les carences structurelles des fédérations publiques."
+      "date": "2026-10-28T21:57:02+01:00",
+      "resume": "L'enquête pour agression sexuelle ouverte à l'encontre d'un policier lors de l'interpellation d'une adolescente de 14 ans à Metz a été classée sans suite ce mercredi par le procureur de la République. Les faits s'étaient déroulés le 5 octobre dernier en marge d'une mobilisation des lycéens.",
+      "contexte": "Le classement sans suite signifie qu'à l'issue des investigations, le parquet a estimé que les éléments recueillis ne permettaient pas de caractériser une infraction pénale ou que les preuves étaient insuffisantes pour engager des poursuites. Ce type de décision intervient souvent dans un contexte de forte tension autour du maintien de l'ordre lors des manifestations de jeunesse."
     }
   ],
   "culture": [
@@ -214,108 +166,93 @@
   ],
   "quiz_jour": [
     {
-      "id": "eab73a883f",
+      "id": "a4d0372bf8",
       "date": "2026-10-28",
       "type": "actu",
-      "question": "Aux États-Unis, quelle proportion des sièges du Sénat sera remise en jeu lors des élections de mi-mandat (Midterms) de 2026 ?",
+      "question": "Quelle est la principale piste privilégiée par l'enquête concernant la collision ferroviaire survenue en Espagne près de Tolède ?",
       "choix": [
-        "Un quart des sièges",
-        "La moitié des sièges",
-        "La totalité des sièges",
-        "Un tiers des sièges"
-      ],
-      "reponse": 3,
-      "explication": "Lors des Midterms 2026, l'ensemble des sièges de la Chambre des représentants ainsi qu'un tiers de ceux du Sénat sont remis en jeu.",
-      "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-midterms-2026-donald-trump-attendu-dans-l-ohio-barack-obama-en-georgie-suivez-la-campagne-des-elections-de-mi-mandat-aux-etats-unis_6801590_3210.html"
-    },
-    {
-      "id": "d2d3422387",
-      "date": "2026-10-28",
-      "type": "actu",
-      "question": "Quelle hypothèse est privilégiée par les enquêteurs concernant la collision meurtrière de deux trains survenue au sud de Madrid ?",
-      "choix": [
-        "Une erreur humaine consécutive à une panne de signalisation",
-        "Un glissement de terrain ayant endommagé la voie",
-        "Un acte de malveillance volontaire",
-        "Une rupture des freins liée à l'usure du matériel"
+        "Une erreur humaine consécutive à une panne",
+        "Un affaissement soudain des voies",
+        "Un acte malveillant prémédité",
+        "Des conditions météorologiques extrêmes"
       ],
       "reponse": 0,
-      "explication": "Les premières investigations sur le drame ferroviaire en Espagne privilégient la piste d'une erreur humaine suite à une défaillance de la signalisation.",
+      "explication": "Les premiers éléments de l'enquête privilégient la piste d'une erreur humaine consécutive à une panne de signalisation ou informatique.",
       "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/collision-meurtriere-entre-deux-trains-en-espagne-la-piste-d-une-erreur-humaine-privilegiee_8257868.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
-      "id": "1c49fdcaa2",
+      "id": "65b2ee882b",
       "date": "2026-10-28",
       "type": "actu",
-      "question": "Dans quelle ville l'instauration d'un cessez-le-feu a-t-elle été qualifiée d'« immense succès » par le président ukrainien Volodymyr Zelensky ?",
+      "question": "Dans quel pays Flavio Bolsonaro a-t-il fui après sa défaite électorale ?",
       "choix": [
-        "Bakhmout",
-        "Olechky",
-        "Marioupol",
-        "Kharkiv"
+        "Au Canada",
+        "Aux États-Unis",
+        "En Espagne",
+        "En France"
       ],
       "reponse": 1,
-      "explication": "Volodymyr Zelensky a qualifié le cessez-le-feu à Olechky d'« immense succès » qui offre un répit aux habitants de Kherson.",
-      "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-le-cessez-le-feu-a-olechky-est-un-immense-succes-selon-volodymyr-zelensky-qui-appelle-a-une-rencontre-entre-moscou-kiev-et-washington-en-novembre_6799896_3210.html"
+      "explication": "Flavio Bolsonaro a fui le Brésil pour rejoindre Miami, aux États-Unis, après sa défaite à l'élection présidentielle.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/un-citoyen-qui-fuit-son-pays-a-forcement-quelque-chose-a-cacher-la-fuite-de-flavio-bolsonaro-a-miami-apres-sa-defaite-au-bresil-fait-reagir-le-president-lula_8257958.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
-      "id": "696b33517b",
+      "id": "8dd72193b1",
       "date": "2026-10-28",
       "type": "actu",
-      "question": "Quelle mesure prévoit le projet de loi du gouvernement d'Andorre concernant la dépénalisation partielle de l'avortement ?",
+      "question": "Comment appelle-t-on les élections de mi-mandat aux États-Unis qui approchent et donnent lieu à de nombreuses rumeurs ?",
       "choix": [
-        "L'autorisation de l'IVG sans condition sur tout le territoire",
-        "La gratuité des soins liés à l'IVG remboursés par la principauté",
-        "L'absence de poursuites pénales pour les femmes recourant à l'IVG à l'étranger",
-        "La légalisation de l'avortement uniquement pour des raisons médicales"
-      ],
-      "reponse": 2,
-      "explication": "Le projet prévoit que les femmes ne soient plus poursuivies pénalement si elles avortent à l'étranger, bien que la pratique demeure interdite pour les médecins en Andorre.",
-      "lien": "https://www.franceinfo.fr/societe/ivg/le-gouvernement-d-andorre-veut-depenaliser-partiellement-l-avortement-sans-toutefois-l-autoriser-dans-la-principaute_8257832.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "5bd43141de",
-      "date": "2026-10-28",
-      "type": "actu",
-      "question": "De quelle affaire judiciaire le juge fédéral américain Alvin Hellerstein, décédé à l'âge de 92 ans, avait-il notamment la charge ?",
-      "choix": [
-        "L'arbitrage de l'affaire liée à Julian Assange",
-        "La procédure visant Nicolas Maduro",
-        "Le procès fédéral de Donald Trump",
-        "L'inculpation des dirigeants d'Enron"
-      ],
-      "reponse": 1,
-      "explication": "Le juge Alvin Hellerstein était notamment en charge de la procédure judiciaire américaine visant le président vénézuélien déchu Nicolas Maduro.",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261028-alvin-hellerstein-le-juge-americain-en-charge-affaire-maduro-est-mort-a-92-ans"
-    },
-    {
-      "id": "29d411e0ff",
-      "date": "2026-10-28",
-      "type": "culture",
-      "question": "Pour quelle raison pratique Léonard de Vinci rédigeait-il principalement ses carnets de droite à gauche ?",
-      "choix": [
-        "Parce qu'il était gaucher et évitait ainsi d'étaler l'encre",
-        "Pour économiser le parchemin en écrivant plus serré",
-        "Pour coder ses découvertes face à l'Inquisition",
-        "Pour imiter la calligraphie des manuscrits anciens"
+        "Les Midterms",
+        "Les Primaires",
+        "Les General Elections",
+        "Les Caucuses"
       ],
       "reponse": 0,
-      "explication": "L'écriture spéculaire (en miroir) de Léonard de Vinci était une habitude pratique de gaucher afin de ne pas frotter sa main sur l'encre fraîche.",
+      "explication": "Le texte mentionne les élections de mi-mandat (Midterms) prévues le 3 novembre aux États-Unis.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261028-%C3%A9tats-unis-vent-de-rumeurs-%C3%A0-l-approche-des-midterms"
+    },
+    {
+      "id": "da81deaeac",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quelle issue a connu l'enquête pour agression sexuelle visant un policier à Metz lors d'une interpellation ?",
+      "choix": [
+        "Un renvoi devant les assises",
+        "Une condamnation ferme",
+        "Un classement sans suite",
+        "Un non-lieu prononcé par un juge d'instruction"
+      ],
+      "reponse": 2,
+      "explication": "L'enquête a été classée sans suite ce mercredi par le procureur de la République.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-mobilisation-des-lyceens-l-enquete-pour-agression-sexuelle-visant-un-policier-a-metz-classee-sans-suite-procureur_8257907.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "19cf762524",
+      "date": "2026-10-28",
+      "type": "culture",
+      "question": "Pour quelle raison Léonard de Vinci écrivait-il ses carnets de droite à gauche ?",
+      "choix": [
+        "C'était un code secret destiné à ses rivaux",
+        "Il s'agissait d'une coutume artistique de son époque",
+        "Étant gaucher, cela lui évitait d'étaler l'encre fraîche",
+        "C'était une obligation imposée par l'Église"
+      ],
+      "reponse": 2,
+      "explication": "Cette écriture spéculaire était une habitude pratique pour un homme gaucher afin d'éviter d'étaler l'encre fraîche en écrivant.",
       "lien": ""
     },
     {
-      "id": "312a051c2c",
+      "id": "722a6dda0d",
       "date": "2026-10-28",
       "type": "culture",
-      "question": "Pour quelle raison le journal économique britannique « Financial Times » a-t-il historiquement choisi d'imprimer ses pages sur du papier rose saumon ?",
+      "question": "Pourquoi les pages du journal britannique Financial Times sont-elles traditionnellement de couleur rose saumon ?",
       "choix": [
-        "Pour se démarquer d'un concurrent qui utilisait déjà le bleu",
-        "Parce que ce papier était moins coûteux à fabriquer",
-        "Pour empêcher les contrefaçons et les copies illégales",
-        "Pour rendre hommage aux couleurs de la monarchie"
+        "C'était pour se démarquer des tabloïds politiques",
+        "C'était à l'origine le papier le moins coûteux à fabriquer",
+        "C'était une exigence du gouvernement britannique",
+        "C'était la couleur préférée du fondateur"
       ],
       "reponse": 1,
-      "explication": "Au tournant du XXe siècle, le Financial Times a opté pour le papier teinté rose tout simplement parce qu'il était moins cher à produire que le papier blanc de qualité.",
+      "explication": "À l'origine, au tournant du vingtième siècle, le journal était imprimé sur du papier rose car il était moins coûteux à fabriquer que le papier blanc.",
       "lien": ""
     }
   ]
