@@ -1019,6 +1019,111 @@
       "reponse": 0,
       "explication": "Une gigantesque éruption volcanique sur l'île voisine de Théra (Santorin) a déclenché des tsunamis et des pluies de cendre ayant ruiné l'économie minoenne.",
       "lien": ""
+    },
+    {
+      "id": "f8423737bc",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Près de quelle ville espagnole une violente collision ferroviaire s'est-elle produite sur l'axe reliant Madrid à l'Andalousie ?",
+      "choix": [
+        "Valence",
+        "Séville",
+        "Tolède",
+        "Saragosse"
+      ],
+      "reponse": 2,
+      "explication": "La collision meurtrière entre deux trains s'est déroulée près de Tolède, sur l'axe reliant la capitale Madrid au sud de l'Espagne.",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-les-images-aeriennes-de-la-collision-meurtriere-entre-deux-trains-pres-de-tolede-en-espagne_8257246.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "2ef9a9ab3b",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quel cyclone a frappé le littoral sud-est de l'Inde avec des rafales atteignant plus de 150 km/h ?",
+      "choix": [
+        "Arnab",
+        "Nargis",
+        "Amphan",
+        "Fani"
+      ],
+      "reponse": 0,
+      "explication": "Le cyclone Arnab a balayé le sud-est de l'Inde le 28 octobre, causant d'importantes intempéries et la mort de trois personnes.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-inde-le-cyclone-arnab-fait-trois-morts-dans-le-sud-est-du-pays-avec-des-rafales-%C3%A0-150-km-h"
+    },
+    {
+      "id": "53954bdbd6",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quelle star du football s'est récemment excusée auprès de la Chine après avoir suscité une vive polémique en mentionnant Mao Zedong ?",
+      "choix": [
+        "Antoine Griezmann",
+        "Ousmane Dembélé",
+        "Karim Benzema",
+        "Kylian Mbappé"
+      ],
+      "reponse": 3,
+      "explication": "Kylian Mbappé s'est excusé après avoir cité Mao Zedong dans un podcast, provoquant de nombreuses critiques en Chine et la réaction de Pékin.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-chine-la-star-fran%C3%A7aise-kylian-mbapp%C3%A9-s-excuse-p%C3%A9kin-dit-prendre-ses-mots-au-s%C3%A9rieux"
+    },
+    {
+      "id": "98b279a294",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quel instrument d'origine méditerranéenne l'artiste Donal Lunny est-il réputé avoir introduit dans la musique traditionnelle irlandaise ?",
+      "choix": [
+        "La mandoline italienne",
+        "Le bouzouki grec",
+        "Le sitar",
+        "Le luth arabe"
+      ],
+      "reponse": 1,
+      "explication": "Le musicien et arrangeur Donal Lunny s'est distingué en intégrant le bouzouki grec au répertoire traditionnel irlandais.",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/28/donal-lunny-l-homme-qui-a-revolutionne-la-musique-traditionnelle-irlandaise-est-mort_6801570_3382.html"
+    },
+    {
+      "id": "fb9142f3aa",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Au Japon, à quelle obligation matérielle les demandeurs d'aide sociale doivent-ils généralement se soumettre pour toucher leurs allocations ?",
+      "choix": [
+        "Donner leurs appareils électroménagers",
+        "Vendre leur véhicule personnel",
+        "Résilier leur forfait Internet",
+        "Quitter les logements de plus d'une pièce"
+      ],
+      "reponse": 1,
+      "explication": "Les bénéficiaires de l'aide sociale au Japon doivent vendre leur voiture, l'État considérant qu'elle engendre des frais superflus et n'est pas indispensable.",
+      "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-les-demandeurs-d-aide-sociale-doivent-vendre-leur-voiture-pour-toucher-de-l-argent-de-l-etat_8236291.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "6b659d0340",
+      "date": "2026-10-28",
+      "type": "culture",
+      "question": "Pour quelle raison pratique Léonard de Vinci rédigeait-il la plupart de ses carnets de droite à gauche (écriture spéculaire) ?",
+      "choix": [
+        "Il était gaucher et évitait ainsi d'étaler l'encre fraîche avec sa main",
+        "Il compensait un trouble visuel qui l'empêchait d'écrire normalement",
+        "Il suivait les consignes graphiques imposées par l'Église",
+        "Il souhaitait crypter ses inventions pour échapper aux plagiaires"
+      ],
+      "reponse": 0,
+      "explication": "Étant gaucher, Léonard de Vinci écrivait de droite à gauche pour ne pas frotter sa main sur l'encre qui venait d'être posée sur le papier.",
+      "lien": ""
+    },
+    {
+      "id": "7ddaa633d0",
+      "date": "2026-10-28",
+      "type": "culture",
+      "question": "Pourquoi le célèbre quotidien « Financial Times » a-t-il été historiquement imprimé sur du papier rose saumon ?",
+      "choix": [
+        "Pour faciliter la lecture du journal dans les calèches et les trains",
+        "Parce que ce papier était moins cher à fabriquer que le papier blanc",
+        "Pour se démarquer symboliquement de la presse d'opinion rouge",
+        "Pour rendre hommage aux couleurs de la Banque d'Angleterre"
+      ],
+      "reponse": 1,
+      "explication": "Au tournant du XXe siècle, le Financial Times a opté pour le papier rose saumon car sa fabrication coûtait moins cher que celle du papier blanc.",
+      "lien": ""
     }
   ]
 }

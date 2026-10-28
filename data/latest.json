@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
-  "mode": "morning",
-  "updated": "2026-10-28T10:53:23.996110+01:00",
+  "mode": "evening",
+  "updated": "2026-10-28T13:01:35.380113+01:00",
   "deja_presente": [
     {
       "titre": "Gaz : Poutine réunit les grands producteurs à Moscou sur fond de flambée des prix",
@@ -112,60 +112,84 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Collision de deux trains en Espagne : les autorités locales déplorent \"au moins 10 morts\"",
-      "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html#xtor=RSS-3-[lestitres]",
+      "titre": "Les images aériennes montrent la violence de la collision meurtrière entre deux trains près de Tolède, en Espagne",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-les-images-aeriennes-de-la-collision-meurtriere-entre-deux-trains-pres-de-tolede-en-espagne_8257246.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-28T10:45:15+01:00",
-      "resume": "Une collision entre deux trains, l'un de l'opérateur privé Yrio et l'autre de la compagnie nationale Renfe, s'est produite à 8h54 en Espagne. Les autorités locales et les services d'urgence déplorent au moins 10 morts.",
-      "contexte": "Les accidents ferroviaires impliquant des pertes humaines majeures entraînent généralement l'ouverture immédiate d'enquêtes techniques et judiciaires pour déterminer les causes de la collision, qu'il s'agisse d'une défaillance humaine, d'un problème de signalisation ou d'un dysfonctionnement technique."
+      "date": "2026-10-28T12:57:01+01:00",
+      "resume": "Une collision meurtrière entre deux trains s'est produite mercredi matin près de Tolède, en Espagne, sur l'axe reliant Madrid à l'Andalousie. Les images aériennes diffusées par la garde civile témoignent de la grande violence de l'accident. Les causes de cette catastrophe n'ont pas encore été établies par les autorités.",
+      "contexte": "Le réseau ferroviaire espagnol est l'un des plus fréquentés d'Europe et repose sur des normes strictes de sécurité. Les accidents de cette ampleur y sont rares et entraînent systématiquement des expertises techniques poussées sur l'état de la signalisation et des rames. L'événement devrait relancer le débat sur l'entretien et la surveillance des infrastructures de transport dans le pays."
     },
     {
-      "titre": "\"Il a mordu la main qui le nourrit\" : malgré ses excuses, Kylian Mbappé est toujours très critiqué en Chine pour ses propos sur Mao Zedong",
-      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/boycott-contrats-rompus-malgre-ses-excuses-kylian-mbappe-est-toujours-tres-critique-en-chine-pour-ses-propos-sur-mao-zedong_8256967.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · franceinfo Monde",
-      "date": "2026-10-28T10:44:46+01:00",
-      "resume": "Kylian Mbappé fait l'objet de vives critiques et de pressions en Chine après avoir qualifié Mao Zedong de dictateur dans une vidéo sur les réseaux sociaux. La polémique, qui a pris une dimension importante, a conduit deux grandes compagnies chinoises à rompre leurs contrats avec le joueur pour avoir heurté les sentiments nationaux.",
-      "contexte": "Cet épisode illustre l'impact géopolitique du 'sharp power' et la sensibilité extrême des marchés asiatiques, notamment chinois, vis-à-vis des déclarations publiques de personnalités occidentales sur des sujets mémoriels ou politiques sensibles. Les sportifs de premier plan, érigés en marques mondiales, se trouvent ainsi exposés aux répercussions économiques de prises de position jugées contraires aux intérêts des régimes partenaires."
-    },
-    {
-      "titre": "Législatives en Israël : le camp de Netanyahu en tête, mais sans majorité",
-      "lien": "https://www.france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-isra%C3%ABl-participation-record-netanyahu-eisenkot-coude-%C3%A0-coude",
-      "source": "France 24 · franceinfo",
-      "date": "2026-10-28T10:42:25+01:00",
-      "resume": "Les élections législatives en Israël n'ont pas permis de dégager de majorité claire après le dépouillement d'une grande partie des suffrages et le rejet d'une demande de prolongation du vote par la Commission électorale. Le Premier ministre sortant Benjamin Netanyahu arrive légèrement en tête, au coude-à-coude avec le bloc de l'opposition emmené par Gadi Eisenkot. Les deux rivaux se sont dits prêts à former un gouvernement, ouvrant une période d'intenses tractations dans un paysage politique très fragmenté.",
-      "contexte": "Ces élections se tiennent dans un contexte géopolitique et sécuritaire extrêmement tendu depuis les attaques du Hamas du 7 octobre 2023. L'absence de majorité claire prolonge l'instabilité politique chronique du pays, où la formation de coalitions gouvernementales nécessite traditionnellement de laborieuses négociations avec les partis religieux et nationalistes."
-    },
-    {
-      "titre": "En Serbie, un assaillant abattu près de l’ambassade israélienne à Belgrade ; Israël confirme une tentative d’« attentat terroriste »",
-      "lien": "https://www.lemonde.fr/international/article/2026/10/28/en-serbie-un-assaillant-abattu-pres-de-l-ambassade-israelienne-a-belgrade-israel-confirme-une-tentative-d-attentat-terroriste_6801547_3210.html",
-      "source": "Le Monde",
-      "date": "2026-10-28T10:31:44+01:00",
-      "resume": "Une tentative d'attentat terroriste s'est produite dans la nuit près de l'ambassade israélienne à Belgrade, en Serbie, se soldez par la mort d'un assaillant. La diplomatie israélienne a rapidement confirmé l'incident, survenu peu après l'annonce des premiers résultats des élections législatives en Israël.",
-      "contexte": "Les représentations diplomatiques israéliennes à l'étranger font l'objet d'un renforcement constant de leur sécurité en raison des tensions géopolitiques mondiales et du risque accru d'attaques ciblées en période de crise au Proche-Orient."
-    },
-    {
-      "titre": "\"Un projet qui n'est pas le bon pour la France\" : Bruno Retailleau balaie la main tendue du RN en vue d'un éventuel gouvernement d'union des droites",
-      "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/un-projet-qui-n-est-pas-le-bon-pour-la-france-bruno-retailleau-balaie-la-main-tendue-du-rn-en-vue-d-un-eventuel-gouvernement-d-union-des-droites_8257030.html#xtor=RSS-3-[lestitres]",
+      "titre": "Un hommage national sera organisé après l'attentat raciste dans les Yvelines, annonce le gouvernement",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/un-hommage-national-sera-organise-apres-l-attentat-raciste-dans-les-yvelines-annonce-le-gouvernement_8257222.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-28T10:28:51+01:00",
-      "resume": "Le responsable politique Bruno Retailleau a balayé la main tendue du Rassemblement national en vue d'un gouvernement d'union des droites, qualifiant le projet du RN de non adapté pour la France. Il a toutefois reconnu des convergences idéologiques avec Marine Le Pen sur des sujets régaliens et l'ordre public.",
-      "contexte": "Ces positionnements traduisent les stratégies d'alliance ou de démarcation au sein de la droite et de l'extrême droite françaises en vue des échéances électorales, oscillant entre la volonté de préserver une autonomie partisane et la tentation de rapprochements thématiques."
+      "date": "2026-10-28T12:42:08+01:00",
+      "resume": "Le gouvernement français a annoncé qu'un hommage national sera rendu à la suite de l'attentat raciste perpétré dans les Yvelines. Pour l'heure, l'exécutif n'a communiqué ni la date de cette cérémonie ni la confirmation d'une présidence par Emmanuel Macron.",
+      "contexte": "L'hommage national est un cérémonial officiel réservé aux circonstances exceptionnelles pour marquer le deuil de la nation et honorer des victimes d'actes d'une gravité majeure. Cette décision intervient dans un climat de forte indignation et de prises de parole publiques dénonçant la prolifération des discours de haine. Elle vise généralement à affirmer l'unité républicaine et le refus des violences discriminatoires."
     },
     {
-      "titre": "Paris continuera de plaider pour une solution à deux Etats, quel que soit le résultat des élections législatives en Israël, affirme Jean-Noël Barrot",
-      "lien": "https://www.franceinfo.fr/monde/israel/la-diplomatie-francaise-continuera-de-pousser-pour-une-solution-a-deux-etats-quel-que-soit-le-resultat-des-elections-legislatives-en-israel-affirme-jean-noel-barrot_8256982.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-28T10:14:55+01:00",
-      "resume": "Le ministre français des Affaires étrangères, Jean-Noël Barrot, a affirmé que Paris continuerait de plaider pour une solution à deux États au Proche-Orient, indépendamment des résultats des élections législatives en Israël.",
-      "contexte": "La France maintient une ligne diplomatique constante sur le dossier israélo-palestinien, rappelant régulièrement son attachement au droit international et à la solution à deux États malgré les soubresauts de la vie politique locale en Israël."
+      "titre": "Inde : le cyclone Arnab fait trois morts dans le sud-est du pays, avec des rafales à 150 km/h",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-inde-le-cyclone-arnab-fait-trois-morts-dans-le-sud-est-du-pays-avec-des-rafales-%C3%A0-150-km-h",
+      "source": "France 24",
+      "date": "2026-10-28T12:38:57+01:00",
+      "resume": "Le cyclone Arnab a balayé le littoral sud-est de l'Inde mercredi 28 octobre, causant la mort de trois personnes selon le bilan officiel. Le phénomène météorologique s'est accompagné de pluies torrentielles et de rafales atteignant plus de 150 km/h. La tempête a commencé à faiblir après avoir touché terre.",
+      "contexte": "Le golfe du Bengale est régulièrement frappé par de violentes tempêtes tropicales qui menacent les populations côtières souvent très denses. Bien que les systèmes d'alerte précoce et d'évacuation aient progressé ces dernières années, ces épisodes provoquent d'importants dégâts aux habitations et aux réseaux électriques. Le réchauffement des eaux de surface dans la région tend par ailleurs à renforcer l'intensité de ces cyclones."
     },
     {
-      "titre": "A Marseille, un homme succombe à des tirs de kalachnikov sur un point de deal du 11ᵉ arrondissement",
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/28/a-marseille-un-homme-succombe-a-des-tirs-de-kalachnikov-sur-un-point-de-deal-du-11-arrondissement_6801546_3224.html",
+      "titre": "Chine : la star française Kylian Mbappé s'excuse, Pékin dit prendre ses mots au \"sérieux\"",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-chine-la-star-fran%C3%A7aise-kylian-mbapp%C3%A9-s-excuse-p%C3%A9kin-dit-prendre-ses-mots-au-s%C3%A9rieux",
+      "source": "France 24",
+      "date": "2026-10-28T12:31:00+01:00",
+      "resume": "Kylian Mbappé s'est excusé mardi 27 octobre après avoir mentionné l'ancien dirigeant Mao Zedong dans le podcast The Bridge. Le gouvernement de Pékin a réagi mercredi en affirmant prendre ses déclarations au sérieux, sans toutefois dissiper les critiques virulentes sur les réseaux sociaux chinois. Cette polémique intervient alors que plusieurs grandes entreprises locales avaient déjà rompu leurs contrats publicitaires avec le joueur.",
+      "contexte": "En Chine, les figures historiques fondatrices du régime sont protégées de toute critique publique et les faux pas sur ce sujet entraînent souvent des réactions nationalistes immédiates. Le marché chinois est stratégique pour les marques mondiales et les sportifs de premier plan, qui y génèrent d'importants revenus de sponsoring. Les personnalités publiques internationales sont ainsi soumises à une vigilance accrue pour éviter tout incident diplomatique ou commercial."
+    },
+    {
+      "titre": "Donal Lunny, l’homme qui a révolutionné la musique traditionnelle irlandaise, est mort",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/28/donal-lunny-l-homme-qui-a-revolutionne-la-musique-traditionnelle-irlandaise-est-mort_6801570_3382.html",
       "source": "Le Monde",
-      "date": "2026-10-28T10:08:32+01:00",
-      "resume": "Un homme de 21 ans a été tué par des tirs de kalachnikov mardi soir à la cité Air Bel, dans le 11e arrondissement de Marseille, sur un point de deal. La victime était déjà connue de la justice pour trafic de stupéfiants.",
-      "contexte": "Ce type d'homicide s'inscrit généralement dans le cadre de règlements de comptes liés au trafic de drogue, un phénomène persistant dans les grandes métropoles que les autorités tentent de combattre par des opérations de police ciblées."
+      "date": "2026-10-28T12:30:05+01:00",
+      "resume": "Le musicien et arrangeur Donal Lunny s'est éteint le 23 octobre à l'âge de 79 ans. Il s'était illustré en renouvelant la musique traditionnelle irlandaise, notamment en introduisant le bouzouki grec dans cet univers musical. Au fil des décennies, il s'était également imposé comme un producteur incontournable pour de très nombreux interprètes.",
+      "contexte": "Figure de proue de groupes influents tels que Planxty, Donal Lunny a été l'un des artisans majeurs du renouveau folk celtique dans les années 1970. En mariant les répertoires folkloriques avec des sonorités et des rythmes modernes, il a contribué à faire rayonner la culture irlandaise à travers le monde. Sa disparition marque la perte d'un bâtisseur essentiel de la scène musicale contemporaine de l'île."
+    },
+    {
+      "titre": "Législatives en Israël : coude-à-coude entre Netanyahu et Eisenkot, une attente sous pression",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-l%C3%A9gislatives-en-isra%C3%ABl-aucune-majorit%C3%A9-distincte-entre-eisenkot-et-netanyahu",
+      "source": "France 24",
+      "date": "2026-10-28T12:24:40+01:00",
+      "resume": "Les élections législatives du 28 octobre en Israël s'annoncent particulièrement indécises et ne dégagent aucune majorité claire. Selon les premières estimations, la coalition de droite et d'extrême droite menée par le Premier ministre sortant Benjamin Netanyahu et le camp du centriste Gadi Eisenkot obtiendraient chacun 51 sièges. Face à ce blocage, un important opposant arabe israélien a appelé à bâtir un partenariat judéo-arabe pour tourner la page du pouvoir sortant.",
+      "contexte": "La Knesset compte 120 sièges et une majorité nécessite le ralliement d'au moins 61 députés, un seuil devenu très difficile à atteindre dans un paysage politique israélien fragmenté. Le pays traverse une instabilité politique chronique, exacerbée par les débats autour de la conduite de la guerre et de l'avenir démocratique des institutions. L'absence de vainqueur net ouvre la voie à de complexes tractations ou au risque d'une nouvelle paralysie institutionnelle."
+    },
+    {
+      "titre": "Toussaint : Laurent Nuñez demande aux préfets de renforcer la sécurité des lieux de culte et cimetières chrétiens",
+      "lien": "https://www.franceinfo.fr/societe/religion/toussaint/toussaint-laurent-nunez-demande-aux-prefets-de-renforcer-la-securite-des-lieux-de-culte-et-cimetieres-chretiens_8257213.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-28T12:22:34+01:00",
+      "resume": "Le ministre de l'Intérieur Laurent Nuñez a demandé aux préfets de relever le niveau de surveillance autour des lieux de culte et des cimetières chrétiens à l'occasion de la Toussaint. La consigne incite également les municipalités à solliciter leurs polices municipales et à optimiser l'usage des caméras de vidéoprotection.",
+      "contexte": "Les grandes fêtes du calendrier religieux concentrent d'importants rassemblements et font régulièrement l'objet de mesures préventives face à un niveau de menace terroriste persistant en France. La protection des sites funéraires répond également à la nécessité d'éviter des dégradations ou des actes de vandalisme ciblés pendant les moments de recueillement. Ce dispositif mobilise conjointement les services de l'État et les élus locaux pour sécuriser l'espace public."
+    },
+    {
+      "titre": "Le nombre de demandeurs d'emploi en catégorie A a augmenté de 0,9% au troisième trimestre 2026, rapporte le ministère du Travail",
+      "lien": "https://www.franceinfo.fr/economie/emploi/chomage/le-nombre-de-demandeurs-d-emploi-en-categorie-a-a-augmente-de-0-9-au-troisieme-trimestre-2026-rapporte-le-ministere-du-travail_8256991.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-28T12:18:37+01:00",
+      "resume": "En France, le nombre de demandeurs d'emploi inscrits en catégorie A a progressé de 0,9 % au troisième trimestre 2026. Le ministère du Travail a indiqué que cette hausse découle des effets de la mise en œuvre de la loi pour le plein emploi et qu'elle ne traduit pas une détérioration de la situation conjoncturelle.",
+      "contexte": "La catégorie A regroupe les personnes totalement privées d'activité et constitue le principal indicateur statistique surveillé par les observateurs de l'économie. Les réformes institutionnelles modifient souvent les circuits d'inscription et les critères administratifs, créant des variations techniques dans les chiffres sans lien direct avec les embauches. Le suivi de ces données reste néanmoins déterminant pour évaluer l'efficacité des politiques publiques d'insertion."
+    },
+    {
+      "titre": "À Marseille, un jeune homme de 21 ans tué par balles dans le 11e arrondissement sur fond de narcotrafic",
+      "lien": "https://www.franceinfo.fr/faits-divers/a-marseille-un-jeune-homme-de-21-ans-tue-par-balles-dans-le-11e-arrondissement-sur-fond-de-narcotrafic_8256934.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-28T12:16:18+01:00",
+      "resume": "Un homme de 21 ans a été tué par balles dans le 11e arrondissement de Marseille. D'après les premiers éléments de l'enquête, deux individus armés d'un fusil d'assaut ont fui les lieux à bord d'une camionnette blanche. Les faits s'inscrivent dans un contexte de criminalité liée au trafic de stupéfiants.",
+      "contexte": "Marseille est le théâtre récurrent d'affrontements armés entre réseaux rivaux qui se disputent le contrôle des points de vente de drogue. La prolifération des armes de guerre et le recours à de très jeunes exécutants aggravent la létalité de ces règlements de comptes. Les autorités judiciaires et policières maintiennent une pression constante sur les cités phocéennes sans parvenir à éradiquer totalement ces violences territoriales."
+    },
+    {
+      "titre": "Au Japon, les demandeurs d'aide sociale doivent vendre leur voiture pour toucher de l'argent de l'État",
+      "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-les-demandeurs-d-aide-sociale-doivent-vendre-leur-voiture-pour-toucher-de-l-argent-de-l-etat_8236291.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-28T12:03:20+01:00",
+      "resume": "Au Japon, les bénéficiaires de l'aide sociale publique sont tenus de se séparer de leur véhicule personnel pour percevoir les allocations accordées par l'État. Les autorités considèrent en effet qu'une voiture engendre des dépenses excessives et n'est pas indispensable pour les ménages modestes, bien que certaines dérogations restent prévues.",
+      "contexte": "Le modèle de protection sociale japonais applique des critères de ressources particulièrement stricts qui imposent souvent de liquider ses biens avant de pouvoir être soutenu financièrement. Cette règle pose toutefois des difficultés croissantes dans les campagnes ou les zones mal desservies, où l'automobile est indispensable pour accéder à un travail ou à des soins. La rigidité de ces critères fait l'objet de contestations régulières face au vieillissement et à la précarité dans les territoires isolés."
     }
   ],
   "culture": [
@@ -188,5 +212,111 @@
       "a_retenir": "Le journal Financial Times est imprimé en rose saumon depuis son origine, car ce papier était à l'époque moins coûteux à produire."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "f8423737bc",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Près de quelle ville espagnole une violente collision ferroviaire s'est-elle produite sur l'axe reliant Madrid à l'Andalousie ?",
+      "choix": [
+        "Valence",
+        "Séville",
+        "Tolède",
+        "Saragosse"
+      ],
+      "reponse": 2,
+      "explication": "La collision meurtrière entre deux trains s'est déroulée près de Tolède, sur l'axe reliant la capitale Madrid au sud de l'Espagne.",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-les-images-aeriennes-de-la-collision-meurtriere-entre-deux-trains-pres-de-tolede-en-espagne_8257246.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "2ef9a9ab3b",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quel cyclone a frappé le littoral sud-est de l'Inde avec des rafales atteignant plus de 150 km/h ?",
+      "choix": [
+        "Arnab",
+        "Nargis",
+        "Amphan",
+        "Fani"
+      ],
+      "reponse": 0,
+      "explication": "Le cyclone Arnab a balayé le sud-est de l'Inde le 28 octobre, causant d'importantes intempéries et la mort de trois personnes.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-inde-le-cyclone-arnab-fait-trois-morts-dans-le-sud-est-du-pays-avec-des-rafales-%C3%A0-150-km-h"
+    },
+    {
+      "id": "53954bdbd6",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quelle star du football s'est récemment excusée auprès de la Chine après avoir suscité une vive polémique en mentionnant Mao Zedong ?",
+      "choix": [
+        "Antoine Griezmann",
+        "Ousmane Dembélé",
+        "Karim Benzema",
+        "Kylian Mbappé"
+      ],
+      "reponse": 3,
+      "explication": "Kylian Mbappé s'est excusé après avoir cité Mao Zedong dans un podcast, provoquant de nombreuses critiques en Chine et la réaction de Pékin.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-chine-la-star-fran%C3%A7aise-kylian-mbapp%C3%A9-s-excuse-p%C3%A9kin-dit-prendre-ses-mots-au-s%C3%A9rieux"
+    },
+    {
+      "id": "98b279a294",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Quel instrument d'origine méditerranéenne l'artiste Donal Lunny est-il réputé avoir introduit dans la musique traditionnelle irlandaise ?",
+      "choix": [
+        "La mandoline italienne",
+        "Le bouzouki grec",
+        "Le sitar",
+        "Le luth arabe"
+      ],
+      "reponse": 1,
+      "explication": "Le musicien et arrangeur Donal Lunny s'est distingué en intégrant le bouzouki grec au répertoire traditionnel irlandais.",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/28/donal-lunny-l-homme-qui-a-revolutionne-la-musique-traditionnelle-irlandaise-est-mort_6801570_3382.html"
+    },
+    {
+      "id": "fb9142f3aa",
+      "date": "2026-10-28",
+      "type": "actu",
+      "question": "Au Japon, à quelle obligation matérielle les demandeurs d'aide sociale doivent-ils généralement se soumettre pour toucher leurs allocations ?",
+      "choix": [
+        "Donner leurs appareils électroménagers",
+        "Vendre leur véhicule personnel",
+        "Résilier leur forfait Internet",
+        "Quitter les logements de plus d'une pièce"
+      ],
+      "reponse": 1,
+      "explication": "Les bénéficiaires de l'aide sociale au Japon doivent vendre leur voiture, l'État considérant qu'elle engendre des frais superflus et n'est pas indispensable.",
+      "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-les-demandeurs-d-aide-sociale-doivent-vendre-leur-voiture-pour-toucher-de-l-argent-de-l-etat_8236291.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "6b659d0340",
+      "date": "2026-10-28",
+      "type": "culture",
+      "question": "Pour quelle raison pratique Léonard de Vinci rédigeait-il la plupart de ses carnets de droite à gauche (écriture spéculaire) ?",
+      "choix": [
+        "Il était gaucher et évitait ainsi d'étaler l'encre fraîche avec sa main",
+        "Il compensait un trouble visuel qui l'empêchait d'écrire normalement",
+        "Il suivait les consignes graphiques imposées par l'Église",
+        "Il souhaitait crypter ses inventions pour échapper aux plagiaires"
+      ],
+      "reponse": 0,
+      "explication": "Étant gaucher, Léonard de Vinci écrivait de droite à gauche pour ne pas frotter sa main sur l'encre qui venait d'être posée sur le papier.",
+      "lien": ""
+    },
+    {
+      "id": "7ddaa633d0",
+      "date": "2026-10-28",
+      "type": "culture",
+      "question": "Pourquoi le célèbre quotidien « Financial Times » a-t-il été historiquement imprimé sur du papier rose saumon ?",
+      "choix": [
+        "Pour faciliter la lecture du journal dans les calèches et les trains",
+        "Parce que ce papier était moins cher à fabriquer que le papier blanc",
+        "Pour se démarquer symboliquement de la presse d'opinion rouge",
+        "Pour rendre hommage aux couleurs de la Banque d'Angleterre"
+      ],
+      "reponse": 1,
+      "explication": "Au tournant du XXe siècle, le Financial Times a opté pour le papier rose saumon car sa fabrication coûtait moins cher que celle du papier blanc.",
+      "lien": ""
+    }
+  ]
 }
