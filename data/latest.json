@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "mode": "evening",
-  "updated": "2026-10-29T21:01:58.352556+01:00",
+  "updated": "2026-10-29T23:30:29.977870+01:00",
   "deja_presente": [
     {
       "titre": "Collision de deux trains en Espagne : les autorités locales déplorent \"au moins 10 morts\"",
@@ -128,84 +128,68 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Le forum et la manifestation prévus samedi et dimanche par le collectif Objectif Remigration ont été interdits",
-      "lien": "https://www.franceinfo.fr/economie/greve/le-forum-et-la-manifestation-organises-samedi-et-dimanche-par-le-collectif-objectif-remigration-ont-ete-interdits_8258789.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-29T20:52:34+01:00",
-      "resume": "La préfecture de police de Paris a officiellement interdit le forum et la manifestation prévus ce week-end par le collectif Objectif Remigration. Les arrêtés d'interdiction ont été justifiés par les risques élevés de troubles à l'ordre public. L'autorité préfectorale a notamment mentionné les vives tensions persistantes consécutives à l'attentat survenu récemment à Trappes.",
-      "contexte": "Ces rassemblements avaient suscité une vive indignation de la part de partis de gauche et d'associations antiracistes, qui réclamaient leur annulation. En France, les préfectures recourent fréquemment à l'interdiction préventive lorsque la confrontation entre militants d'extrême droite et contre-manifestants risque de dégénérer. Les organisateurs de tels événements ont toutefois la possibilité de contester ces arrêtés en urgence devant la justice administrative."
+      "titre": "\"Cheveux blonds, mi-longs, taille environ 1m60\" : en Espagne, la quête des Français portés disparus après la collision meurtrière entre deux trains",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/sept-francais-portes-disparus-apres-la-collision-meurtriere-entre-deux-trains-en-espagne_8259401.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · franceinfo Monde",
+      "date": "2026-10-29T22:53:48+01:00",
+      "resume": "Des ressortissants français, dont la cheffe d'entreprise Marie Audan, sont portés disparus à la suite de la collision dramatique entre deux trains survenue mercredi à Urda, près de Tolède en Espagne. Les habitants locaux et les rescapés témoignent de leur effroi et racontent les minutes cruciales passées à secourir les blessés. Alors que la colère grandit et que les premiers éléments évoquent une possible erreur humaine, des syndicats pointent également du doigt des défaillances de signalisation et un manque de personnel sur le réseau ferroviaire.",
+      "contexte": "Ce type d'accident relance traditionnellement les débats sur la sécurité ferroviaire, l'état des infrastructures et les conditions de travail du personnel dans les transports publics. Les enquêtes techniques et judiciaires devront déterminer les responsabilités exactes entre défaillance humaine et problèmes matériels."
     },
     {
-      "titre": "Une conférence du député LFI Raphaël Arnault prévue à Lyon le 5 novembre annulée pour raisons de « sécurité »",
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/lyon-annulation-d-une-conference-du-depute-lfi-raphael-arnault-pour-raisons-de-securite-decidee-par-une-mairie-d-arrondissement_6802385_823448.html",
-      "source": "Le Monde",
-      "date": "2026-10-29T20:49:31+01:00",
-      "resume": "Une conférence du député La France insoumise Raphaël Arnault, programmée le 5 novembre dans une salle municipale du 8e arrondissement de Lyon, a été annulée. L'élu du Vaucluse avait prévu d'y organiser des débats autour de son ouvrage intitulé « Antifasciste ». La décision de fermer la salle a été motivée par des impératifs liés à la sécurité de l'événement.",
-      "contexte": "Ancien porte-parole d'un mouvement d'action antifasciste, le parlementaire cristallise régulièrement de fortes oppositions politiques de la part de ses détracteurs. Les mairies sont souvent confrontées à des arbitrages difficiles entre la garantie de la liberté d'expression des élus et la prévention de heurts aux abords de leurs bâtiments. Les tensions récurrentes à Lyon entre factions militantes antagonistes justifient généralement ces mesures d'interdiction administrative."
-    },
-    {
-      "titre": "Un hélicoptère de la Force européenne militaire s'écrase en Bosnie, au moins quatre morts",
-      "lien": "https://www.franceinfo.fr/faits-divers/accident/un-helicoptere-de-la-force-europeenne-militaire-s-ecrase-en-bosnie-au-moins-quatre-morts_8259398.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-29T20:49:06+01:00",
-      "resume": "Un hélicoptère militaire italien de la Force européenne en Bosnie-Herzégovine s'est écrasé au cours d'une opération de routine. L'accident a causé la mort d'au moins quatre personnes et a fait onze blessés, selon des sources hospitalières. Les circonstances exactes de cette chute d'aéronef n'ont pas été précisées dans l'immédiat.",
-      "contexte": "La mission Eufor Althea est déployée depuis 2004 pour veiller au respect des accords de paix de Dayton et maintenir la stabilité dans les Balkans. Cet événement constitue une lourde perte pour le contingent militaire européen dans la région. Une enquête technique internationale est généralement ouverte pour vérifier s'il s'agit d'une panne mécanique ou de conditions météorologiques dégradées."
-    },
-    {
-      "titre": "Attentat raciste dans les Yvelines : le suspect, Kévin Tessier, mis en examen par un juge antiterroriste",
-      "lien": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-29T20:47:52+01:00",
-      "resume": "L'homme de 39 ans soupçonné d'avoir perpétré une attaque raciste à Trappes, dans les Yvelines, a été mis en examen par un juge antiterroriste. Il a reconnu les faits devant les enquêteurs, admettant avoir délibérément ciblé des victimes en raison de leur origine perçue comme africaine, maghrébine ou musulmane. Trois jours avant ce périple meurtrier, il avait déjà été interpellé après avoir frappé un homme noir dans une station-service. L'avocat de plusieurs victimes a publiquement dénoncé des dysfonctionnements dans le suivi judiciaire de l'agresseur.",
-      "contexte": "Cette affaire suscite une vive émotion et relance le débat sur le suivi des profils violents avant qu'ils ne commettent des actes irréparables. Les poursuites pour terrorisme fondées sur des motivations ouvertement racistes restent relativement rares en France par rapport à d'autres mouvances radicales, mais font l'objet d'une vigilance accrue des autorités. Les critiques sur d'éventuels ratés policiers ou judiciaires risquent d'entraîner l'ouverture d'inspections internes pour examiner les conditions de sa précédente garde à vue."
-    },
-    {
-      "titre": "Mesures du gouvernement pour les lycéens : Des annonces insuffisantes ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/politique/20261029-mesures-du-gouvernement-pour-les-lyc%C3%A9ens-des-annonces-insuffisantes",
-      "source": "France 24",
-      "date": "2026-10-29T20:40:11+01:00",
-      "resume": "Plusieurs organisations lycéennes maintiennent leurs appels à la mobilisation malgré les récentes propositions formulées par le gouvernement. Les syndicats de jeunes jugent ces annonces très insuffisantes et réclament des concessions supplémentaires de la part de l'exécutif. La situation et les perspectives du mouvement font l'objet d'intenses débats entre acteurs éducatifs et observateurs politiques.",
-      "contexte": "Les mouvements de jeunesse représentent traditionnellement un test délicat pour les gouvernements, qui craignent une contagion de la contestation au monde étudiant et aux syndicats de salariés. Les revendications portent couramment sur les conditions d'étude, la précarité ou les réformes des filières d'enseignement. Face à ces blocages, l'exécutif cherche généralement à négocier rapidement pour désamorcer les perturbations avant les périodes d'examens."
-    },
-    {
-      "titre": "Sept Français portés disparus après la collision meurtrière entre deux trains en Espagne",
-      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/sept-francais-portes-disparus-apres-la-collision-meurtriere-entre-deux-trains-en-espagne_8259401.html#xtor=RSS-3-%5Bgeneral%5D",
+      "titre": "VIDEO. La grande brocante des trumpistes",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-la-grande-brocante-des-trumpistes_8254327.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
-      "date": "2026-10-29T20:37:41+01:00",
-      "resume": "Au moins sept ressortissants français sont portés disparus après la collision meurtrière survenue entre deux trains en Espagne. Parmi eux figure une cheffe d’entreprise installée à Madrid depuis plus de 25 ans. Les secours poursuivent leurs opérations sur le lieu de la catastrophe pour tenter de retrouver d'éventuels survivants et procéder à l'identification formelle des corps.",
-      "contexte": "Cet accident ferroviaire compte parmi les plus graves enregistrés ces dernières années dans le pays, mobilisant des moyens de secours binationaux pour assister les familles. L'annonce de disparus français pousse les autorités consulaires à ouvrir une cellule de crise pour accompagner les proches. Les enquêtes techniques et judiciaires devront déterminer les causes exactes du drame, qui pourraient être liées à un problème de signalisation ou à une défaillance humaine."
+      "date": "2026-10-29T22:48:54+01:00",
+      "resume": "Un reportage d'\"Envoyé spécial\" explore la route 127 qui traverse six États républicains américains, au cœur de la plus grande brocante du monde. À l'approche des élections de mi-mandat prévues le 3 novembre 2026, l'émission s'intéresse aux opinions des électeurs de cette Amérique profonde face au paysage politique actuel.",
+      "contexte": "Les élections de mi-mandat (midterms) aux États-Unis constituent un test majeur pour l'administration en place, permettant de renouveler une partie du Congrès et de mesurer l'adhésion populaire aux politiques fédérales. Ces scrutins se déroulent souvent dans un climat de forte polarisation politique."
     },
     {
-      "titre": "Matignon s’apprête à vendre l’hôtel particulier du Haut-Commissariat à la stratégie et au plan",
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/matignon-s-apprete-a-vendre-l-hotel-particulier-du-haut-commissariat-a-la-strategie-et-au-plan_6802384_823448.html",
+      "titre": "Éboulement mortel sur un célèbre site de Turquie : \"C'est la pluie\", explique un guide à propos de l'effondrement d'une cheminée de fées en Cappadoce",
+      "lien": "https://www.franceinfo.fr/monde/turquie/eboulement-mortel-sur-un-celebre-site-de-turquie-c-est-la-pluie-explique-un-guide-a-propos-de-l-effondrement-d-une-cheminee-de-fees-en-cappadoce_8259518.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-29T22:45:22+01:00",
+      "resume": "Un éboulement provoqué par de fortes pluies a entraîné l'effondrement d'une célèbre cheminée de fées ce jeudi 29 octobre dans la région de la Cappadoce en Turquie. Ce glissement de terrain sur l'un des sites touristiques les plus visités du pays a fait au moins trois morts, selon un guide local.",
+      "contexte": "La Cappadoce est mondialement connue pour ses formations géologiques uniques sculptées par l'érosion, qui attirent chaque année des millions de touristes. Les modifications climatiques et les épisodes de fortes intempéries fragilisent parfois ces structures naturelles délicates."
+    },
+    {
+      "titre": "Face à l’effondrement du BHV, l’impuissance de la Mairie de Paris",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/face-a-l-effondrement-du-bhv-l-impuissance-de-la-mairie-de-paris_6802394_823448.html",
       "source": "Le Monde",
-      "date": "2026-10-29T20:29:24+01:00",
-      "resume": "Le gouvernement français prépare la mise en vente de l'hôtel Beistegui, un hôtel particulier situé face à l'esplanade des Invalides à Paris qui héberge le Haut-Commissariat à la stratégie et au plan. Propriété publique depuis 1971, ce bâtiment historique fait partie d'une liste de biens cédés par l'État. L'opération s'inscrit dans un plan plus vaste prévoyant de dégager 300 millions d'euros de recettes immobilières d'ici à 2027.",
-      "contexte": "Confronté à une forte pression budgétaire, l'exécutif cherche à rationaliser son patrimoine immobilier en vendant des biens prestigieux mais coûteux à entretenir. Ces arbitrages visent à la fois à désendetter l'État et à regrouper les administrations dans des locaux plus fonctionnels. La vente de ces lieux emblématiques suscite régulièrement des débats sur la préservation du patrimoine public et la perte de symboles institutionnels."
+      "date": "2026-10-29T22:44:55+01:00",
+      "resume": "L'enseigne historique du BHV, située au centre de Paris, se dirige vers un placement en redressement judiciaire. La Mairie de Paris dispose de peu de leviers pour intervenir et limiter les dégâts face à cette situation critique.",
+      "contexte": "Les grands magasins parisiens font face à des mutations profondes du secteur de la distribution, combinant la hausse des coûts fixes, l'inflation et la concurrence du commerce en ligne. Ces difficultés entraînent régulièrement des procédures collectives pour restructurer les dettes des entreprises en crise."
     },
     {
-      "titre": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]",
+      "titre": "Crise des carburants : comment expliquer les bénéfices records de TotalEnergies ?",
+      "lien": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/crise-des-carburants-comment-expliquer-les-benefices-records-de-totalenergies_8259500.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-29T22:32:07+01:00",
+      "resume": "Le géant pétrolier TotalEnergies a publié ce jeudi 29 octobre des bénéfices records atteignant près de sept milliards et demi d'euros pour le troisième trimestre, soit le double de la même période de l'année précédente. Cette annonce relance les interrogations sur le niveau des prix à la pompe et sur de possibles efforts financiers supplémentaires de l'entreprise.",
+      "contexte": "Les superprofits des entreprises énergétiques surviennent souvent dans un contexte de tensions géopolitiques et d'inflation sur les prix des carburants, suscitant des débats politiques récurrents sur la taxation exceptionnelle des superdividendes et le pouvoir d'achat des ménages."
+    },
+    {
+      "titre": "Avant l'attentat raciste dans les Yvelines, Kevin Tessier avait été arrêté pour avoir agressé un homme noir",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/avant-l-attentat-raciste-dans-les-yvelines-le-suspect-avait-ete-arrete-trois-jours-plus-tot-pour-avoir-agresse-un-homme-noir_8258999.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T20:00:18+01:00",
-      "resume": "Le ministre de l'Intérieur, Laurent Nuñez, a annoncé le déploiement de 70 000 policiers et gendarmes sur l'ensemble du territoire à l'occasion des manifestations du 31 octobre. Ce dispositif sécuritaire, qualifié d'exceptionnel, reproduit celui mis en place lors de la précédente journée de mobilisation du 24 octobre. Les autorités anticipent une journée à très haut risque, en particulier durant la soirée en raison des célébrations d'Halloween.",
-      "contexte": "Le maintien de l'ordre fait face à un double défi logistique en combinant l'encadrement de cortèges revendicatifs et la gestion des rassemblements festifs nocturnes propices aux débordements. Ce niveau de mobilisation policière vise à dissuader les groupes violents et à éviter les dégradations urbaines constatées lors de précédentes manifestations. Une telle présence massive sur le terrain implique une importante réorganisation des plannings des forces de sécurité."
+      "date": "2026-10-29T22:27:41+01:00",
+      "resume": "Kévin Tessier, un homme de 39 ans, a été mis en examen et placé en détention provisoire pour un attentat raciste dans les Yvelines. Il a reconnu les faits et admis avoir spécifiquement ciblé des personnes de type musulman, africain ou nord-africain, tout en ayant été interpellé trois jours plus tôt pour avoir agressé un homme noir à Trappes.",
+      "contexte": "La justice qualifie ces actes selon le code pénal lorsqu'un mobile raciste est avéré, ce qui alourdit les peines encourues. Ce type d'affaire met en lumière la question du suivi des individus radicalisés ou violents avant le passage à l'acte."
     },
     {
-      "titre": "Stérilisations forcées au Pérou : après le classement de l’enquête, les victimes estiment que « la recherche de justice n’est pas terminée »",
-      "lien": "https://www.lemonde.fr/international/article/2026/10/29/sterilisations-forcees-au-perou-apres-le-classement-de-l-enquete-les-victimes-estiment-que-la-recherche-de-justice-n-est-pas-terminee_6802381_3210.html",
-      "source": "Le Monde",
-      "date": "2026-10-29T20:00:07+01:00",
-      "resume": "Les victimes des stérilisations forcées au Pérou ont annoncé leur intention de saisir le parquet général des droits humains après le classement de leur dossier par le ministère public. L'enquête judiciaire portait sur des interventions imposées à des milliers de femmes autochtones durant la présidence d'Alberto Fujimori. Malgré la décision de clôture, les plaignantes affirment que leur combat pour obtenir justice n'est pas terminé.",
-      "contexte": "Ce programme de contrôle des naissances mené dans les années 1990 visait officiellement à réduire la pauvreté mais ciblait principalement des populations rurales et indigènes sans leur consentement éclairé. L'affaire est particulièrement sensible sur le plan politique car le pays est aujourd'hui dirigé par la fille de l'ancien dirigeant, Keiko Fujimori. Les associations espèrent désormais porter l'affaire devant des instances internationales de défense des droits humains si les recours internes échouent."
+      "titre": "Malte : des automobilistes payés pour abandonner leur permis de conduire",
+      "lien": "https://www.franceinfo.fr/economie/automobile/malte-des-automobilistes-payes-pour-abandonner-leur-permis-de-conduire_8259485.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-29T22:25:05+01:00",
+      "resume": "Le gouvernement maltais a mis en place une mesure offrant 25 000 euros aux automobilistes qui acceptent d'abandonner leur permis de conduire pendant au moins cinq ans. Cette initiative vise à lutter contre l'accumulation des embouteillages, bien qu'elle ne porte pas encore ses fruits pour le moment.",
+      "contexte": "Face à la saturation automobile dans les zones urbaines denses, de nombreuses municipalités et gouvernements testent des incitations financières ou le développement des transports en commun pour réduire la dépendance à la voiture individuelle."
     },
     {
-      "titre": "Le cas Ali O., réfugié palestinien déchu de son statut, mis en examen pour terrorisme en France pour des actes commis en Cisjordanie, mobilise des rapporteurs spéciaux de l’ONU",
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/29/le-cas-ali-o-refugie-palestinien-dechu-de-son-statut-mis-en-examen-pour-terrorisme-en-france-pour-des-actes-commis-en-cisjordanie-mobilise-des-rapporteurs-speciaux-de-l-onu_6802380_3224.html",
-      "source": "Le Monde",
-      "date": "2026-10-29T20:00:05+01:00",
-      "resume": "Quatre rapporteurs spéciaux de l'Organisation des nations unies ont exprimé leur vive préoccupation au sujet de la situation d'Ali O., un réfugié palestinien de 36 ans poursuivi en France pour des actes commis en Cisjordanie. Placé en détention provisoire depuis deux ans et demi, l'homme s'est vu retirer son statut protecteur de réfugié. Cette déchéance s'est appuyée sur des éléments de renseignement directement transmis par les autorités israéliennes.",
-      "contexte": "Cette intervention onusienne souligne la complexité juridique posée par l'application du principe de compétence universelle en matière d'antiterrorisme sur des théâtres de conflit extérieurs. Les experts s'inquiètent fréquemment de l'utilisation d'informations issues de services de renseignement étrangers qui peuvent limiter les droits de la défense. L'affaire pose aussi la question de la protection internationale accordée aux demandeurs d'asile face à des accusations d'activités armées."
+      "titre": "Edouard Philippe placé sous le statut de témoin assisté dans une affaire de détournement de fonds publics, son avocat salue une \"décision favorable\"",
+      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-29T22:09:21+01:00",
+      "resume": "L'ancien Premier ministre et candidat à la présidentielle Édouard Philippe a été entendu toute la journée de jeudi par deux juges d'instruction financiers dans une affaire de détournement de fonds publics. Il s'est vu attribuer le statut de témoin assisté, une position moins incriminante qu'une mise en examen, saluée par son avocat.",
+      "contexte": "Le statut de témoin assisté est accordé lorsqu'il existe des indices rendant vraisemblable qu'une personne ait pu participer à une infraction, sans pour autant justifier une mise en examen immédiate. C'est une étape fréquente dans les enquêtes politico-financières complexes."
     }
   ],
   "culture": [
@@ -230,108 +214,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "e1646f798e",
+      "id": "1d0831957e",
       "date": "2026-10-29",
       "type": "actu",
-      "question": "Quel est le titre du livre du député Raphaël Arnault au cœur de la conférence annulée à Lyon ?",
+      "question": "Quelle mesure financière le gouvernement maltais a-t-il proposée pour tenter de désengorger ses routes ?",
       "choix": [
-        "Le combat militant",
-        "Résistance populaire",
-        "Antifasciste",
-        "La France insoumise"
+        "Une prime de 5 000 euros pour l'achat d'un vélo électrique",
+        "La gratuité totale du carburant pour les adeptes du covoiturage",
+        "Une exonération fiscale complète pour les usagers des transports publics",
+        "Une aide de 25 000 euros en échange de l'abandon du permis de conduire pendant au moins cinq ans"
       ],
-      "reponse": 2,
-      "explication": "La conférence, annulée pour des motifs de sécurité, devait être l'occasion d'échanger autour de l'ouvrage de Raphaël Arnault intitulé « Antifasciste ».",
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/lyon-annulation-d-une-conference-du-depute-lfi-raphael-arnault-pour-raisons-de-securite-decidee-par-une-mairie-d-arrondissement_6802385_823448.html"
+      "reponse": 3,
+      "explication": "Le gouvernement de Malte propose 25 000 euros aux automobilistes qui renoncent à leur permis de conduire pour une durée minimale de cinq ans.",
+      "lien": "https://www.franceinfo.fr/economie/automobile/malte-des-automobilistes-payes-pour-abandonner-leur-permis-de-conduire_8259485.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
-      "id": "6f82f66b6a",
+      "id": "31273785cd",
       "date": "2026-10-29",
       "type": "actu",
-      "question": "Dans quel pays un hélicoptère militaire de la Force européenne s'est-il écrasé lors d'une opération de routine ?",
+      "question": "En Turquie, quel phénomène a provoqué l'effondrement meurtrier d'une cheminée de fées en Cappadoce ?",
       "choix": [
-        "En Espagne",
-        "En Grèce",
-        "En Bosnie-Herzégovine",
-        "En Italie"
+        "Un coup de vent violent",
+        "Une secousse sismique",
+        "De fortes pluies",
+        "Une explosion de gaz souterraine"
       ],
       "reponse": 2,
-      "explication": "L'accident d'hélicoptère militaire italien de la Force européenne s'est déroulé en Bosnie-Herzégovine, faisant au moins quatre morts.",
-      "lien": "https://www.franceinfo.fr/faits-divers/accident/un-helicoptere-de-la-force-europeenne-militaire-s-ecrase-en-bosnie-au-moins-quatre-morts_8259398.html#xtor=RSS-3-[lestitres]"
+      "explication": "Selon les explications fournies sur place, ce sont de fortes pluies qui ont provoqué l'éboulement et l'effondrement de la cheminée de fées.",
+      "lien": "https://www.franceinfo.fr/monde/turquie/eboulement-mortel-sur-un-celebre-site-de-turquie-c-est-la-pluie-explique-un-guide-a-propos-de-l-effondrement-d-une-cheminee-de-fees-en-cappadoce_8259518.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
-      "id": "73a980a17f",
+      "id": "31a083dfdb",
       "date": "2026-10-29",
       "type": "actu",
-      "question": "Quel hôtel particulier parisien l'État prévoit-il de vendre d'ici à 2027 pour générer des recettes immobilières ?",
+      "question": "Dans le cadre d'une enquête pour détournement de fonds publics, quel statut judiciaire a obtenu Édouard Philippe ?",
       "choix": [
-        "L'hôtel de Brienne",
-        "L'hôtel Matignon",
-        "L'hôtel Beistegui",
-        "L'hôtel de Roquelaure"
-      ],
-      "reponse": 2,
-      "explication": "L'hôtel Beistegui, qui accueille le Haut-Commissariat à la stratégie et au plan, doit être vendu par l'État dans le cadre d'un plan de cessions immobilières.",
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/matignon-s-apprete-a-vendre-l-hotel-particulier-du-haut-commissariat-a-la-strategie-et-au-plan_6802384_823448.html"
-    },
-    {
-      "id": "1a338cb731",
-      "date": "2026-10-29",
-      "type": "actu",
-      "question": "Combien de policiers et gendarmes ont été annoncés pour sécuriser les manifestations du 31 octobre en France ?",
-      "choix": [
-        "25 000",
-        "70 000",
-        "50 000",
-        "100 000"
+        "Partie civile",
+        "Témoin assisté",
+        "Mis en examen",
+        "Condamné avec sursis"
       ],
       "reponse": 1,
-      "explication": "Le ministre de l'Intérieur a fait part de la mobilisation de 70 000 membres des forces de l'ordre sur le territoire national pour la journée du 31 octobre.",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]"
+      "explication": "Édouard Philippe a été placé sous le statut de témoin assisté par les juges d'instruction, une qualification moins lourde qu'une mise en examen.",
+      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "b2ceb3d035",
+      "id": "80f0870a25",
       "date": "2026-10-29",
       "type": "actu",
-      "question": "Sous la présidence de quel dirigeant les stérilisations forcées ont-elles été infligées à des femmes autochtones au Pérou ?",
+      "question": "À quel montant s'élèvent environ les bénéfices records enregistrés par TotalEnergies au troisième trimestre ?",
       "choix": [
-        "Alberto Fujimori",
-        "Pedro Castillo",
-        "Alan García",
-        "Alejandro Toledo"
+        "Près de 5 milliards d'euros",
+        "Près de 2,5 milliards d'euros",
+        "Près de 7,5 milliards d'euros",
+        "Près de 12 milliards d'euros"
       ],
-      "reponse": 0,
-      "explication": "Les stérilisations forcées au Pérou ont été pratiquées sous le mandat présidentiel d'Alberto Fujimori.",
-      "lien": "https://www.lemonde.fr/international/article/2026/10/29/sterilisations-forcees-au-perou-apres-le-classement-de-l-enquete-les-victimes-estiment-que-la-recherche-de-justice-n-est-pas-terminee_6802381_3210.html"
+      "reponse": 2,
+      "explication": "TotalEnergies a dévoilé un résultat record de près de 7,5 milliards d'euros pour le troisième trimestre, soit le double par rapport à l'année précédente.",
+      "lien": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/crise-des-carburants-comment-expliquer-les-benefices-records-de-totalenergies_8259500.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
-      "id": "cff2aea983",
+      "id": "b2746f862e",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "À proximité de quelle ville espagnole s'est produite la collision dramatique entre deux trains ?",
+      "choix": [
+        "Saragosse",
+        "Tolède",
+        "Séville",
+        "Barcelone"
+      ],
+      "reponse": 1,
+      "explication": "L'accident ferroviaire a eu lieu à Urda, une commune située près de Tolède en Espagne.",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/sept-francais-portes-disparus-apres-la-collision-meurtriere-entre-deux-trains-en-espagne_8259401.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "5850598ade",
       "date": "2026-10-29",
       "type": "culture",
-      "question": "En cuisine, entre quels éléments la réaction de Maillard se produit-elle principalement ?",
+      "question": "À quel moment un écran à encre électronique consomme-t-il de l'énergie ?",
       "choix": [
-        "Entre des acides aminés et des sucres réducteurs",
-        "Entre des acides gras et des sels minéraux",
-        "Entre de l'eau et de l'amidon",
-        "Entre des lipides et des vitamines"
+        "Uniquement au moment du changement ou rafraîchissement de page",
+        "Dès que l'utilisateur touche la surface de l'écran",
+        "Seulement lorsqu'il est exposé en plein soleil",
+        "En continu pour maintenir le rétroéclairage actif"
       ],
       "reponse": 0,
-      "explication": "La réaction de Maillard est une transformation chimique entre des acides aminés et des sucres réducteurs, donnant saveurs et couleur dorée à partir d'environ 140 °C.",
+      "explication": "L'encre électronique ne requiert un apport électrique que pour déplacer les pigments lors des transitions de pages, ce qui lui confère une très grande autonomie.",
       "lien": ""
     },
     {
-      "id": "2788197f9b",
+      "id": "4ce2574cca",
       "date": "2026-10-29",
       "type": "culture",
-      "question": "En quoi consiste le sommeil unisphérique pratiqué par les dauphins ?",
+      "question": "Pourquoi les dauphins dorment-ils en ne mettant au repos qu'un seul hémisphère cérébral à la fois ?",
       "choix": [
-        "Seule une moitié de leur cerveau s'endort à la fois",
-        "Ils cessent complètement de respirer pendant le repos",
-        "Leurs deux yeux restent fermés en permanence",
-        "Ils dorment immobiles tout au fond de l'eau"
+        "Pour continuer à respirer consciemment et guetter les prédateurs",
+        "Pour éviter d'être emportés par de puissants courants marins",
+        "Pour réguler leur température corporelle en continu",
+        "Pour communiquer en permanence avec les autres membres du groupe"
       ],
       "reponse": 0,
-      "explication": "Le sommeil unisphérique permet au dauphin de faire dormir un seul hémisphère cérébral à la fois afin de continuer à respirer et surveiller les prédateurs.",
+      "explication": "Le sommeil unisphérique permet au dauphin de garder un hémisphère éveillé pour remonter volontairement respirer à la surface et surveiller son environnement.",
       "lien": ""
     }
   ]

@@ -1529,6 +1529,111 @@
       "reponse": 0,
       "explication": "Le sommeil unisphérique permet au dauphin de faire dormir un seul hémisphère cérébral à la fois afin de continuer à respirer et surveiller les prédateurs.",
       "lien": ""
+    },
+    {
+      "id": "1d0831957e",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Quelle mesure financière le gouvernement maltais a-t-il proposée pour tenter de désengorger ses routes ?",
+      "choix": [
+        "Une prime de 5 000 euros pour l'achat d'un vélo électrique",
+        "La gratuité totale du carburant pour les adeptes du covoiturage",
+        "Une exonération fiscale complète pour les usagers des transports publics",
+        "Une aide de 25 000 euros en échange de l'abandon du permis de conduire pendant au moins cinq ans"
+      ],
+      "reponse": 3,
+      "explication": "Le gouvernement de Malte propose 25 000 euros aux automobilistes qui renoncent à leur permis de conduire pour une durée minimale de cinq ans.",
+      "lien": "https://www.franceinfo.fr/economie/automobile/malte-des-automobilistes-payes-pour-abandonner-leur-permis-de-conduire_8259485.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "31273785cd",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "En Turquie, quel phénomène a provoqué l'effondrement meurtrier d'une cheminée de fées en Cappadoce ?",
+      "choix": [
+        "Un coup de vent violent",
+        "Une secousse sismique",
+        "De fortes pluies",
+        "Une explosion de gaz souterraine"
+      ],
+      "reponse": 2,
+      "explication": "Selon les explications fournies sur place, ce sont de fortes pluies qui ont provoqué l'éboulement et l'effondrement de la cheminée de fées.",
+      "lien": "https://www.franceinfo.fr/monde/turquie/eboulement-mortel-sur-un-celebre-site-de-turquie-c-est-la-pluie-explique-un-guide-a-propos-de-l-effondrement-d-une-cheminee-de-fees-en-cappadoce_8259518.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "31a083dfdb",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Dans le cadre d'une enquête pour détournement de fonds publics, quel statut judiciaire a obtenu Édouard Philippe ?",
+      "choix": [
+        "Partie civile",
+        "Témoin assisté",
+        "Mis en examen",
+        "Condamné avec sursis"
+      ],
+      "reponse": 1,
+      "explication": "Édouard Philippe a été placé sous le statut de témoin assisté par les juges d'instruction, une qualification moins lourde qu'une mise en examen.",
+      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "80f0870a25",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "À quel montant s'élèvent environ les bénéfices records enregistrés par TotalEnergies au troisième trimestre ?",
+      "choix": [
+        "Près de 5 milliards d'euros",
+        "Près de 2,5 milliards d'euros",
+        "Près de 7,5 milliards d'euros",
+        "Près de 12 milliards d'euros"
+      ],
+      "reponse": 2,
+      "explication": "TotalEnergies a dévoilé un résultat record de près de 7,5 milliards d'euros pour le troisième trimestre, soit le double par rapport à l'année précédente.",
+      "lien": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/crise-des-carburants-comment-expliquer-les-benefices-records-de-totalenergies_8259500.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "b2746f862e",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "À proximité de quelle ville espagnole s'est produite la collision dramatique entre deux trains ?",
+      "choix": [
+        "Saragosse",
+        "Tolède",
+        "Séville",
+        "Barcelone"
+      ],
+      "reponse": 1,
+      "explication": "L'accident ferroviaire a eu lieu à Urda, une commune située près de Tolède en Espagne.",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/sept-francais-portes-disparus-apres-la-collision-meurtriere-entre-deux-trains-en-espagne_8259401.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "5850598ade",
+      "date": "2026-10-29",
+      "type": "culture",
+      "question": "À quel moment un écran à encre électronique consomme-t-il de l'énergie ?",
+      "choix": [
+        "Uniquement au moment du changement ou rafraîchissement de page",
+        "Dès que l'utilisateur touche la surface de l'écran",
+        "Seulement lorsqu'il est exposé en plein soleil",
+        "En continu pour maintenir le rétroéclairage actif"
+      ],
+      "reponse": 0,
+      "explication": "L'encre électronique ne requiert un apport électrique que pour déplacer les pigments lors des transitions de pages, ce qui lui confère une très grande autonomie.",
+      "lien": ""
+    },
+    {
+      "id": "4ce2574cca",
+      "date": "2026-10-29",
+      "type": "culture",
+      "question": "Pourquoi les dauphins dorment-ils en ne mettant au repos qu'un seul hémisphère cérébral à la fois ?",
+      "choix": [
+        "Pour continuer à respirer consciemment et guetter les prédateurs",
+        "Pour éviter d'être emportés par de puissants courants marins",
+        "Pour réguler leur température corporelle en continu",
+        "Pour communiquer en permanence avec les autres membres du groupe"
+      ],
+      "reponse": 0,
+      "explication": "Le sommeil unisphérique permet au dauphin de garder un hémisphère éveillé pour remonter volontairement respirer à la surface et surveiller son environnement.",
+      "lien": ""
     }
   ]
 }
