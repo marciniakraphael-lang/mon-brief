@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
-  "mode": "morning",
-  "updated": "2026-10-29T11:15:49.361183+01:00",
+  "mode": "evening",
+  "updated": "2026-10-29T13:13:07.387204+01:00",
   "deja_presente": [
     {
       "titre": "Collision de deux trains en Espagne : les autorités locales déplorent \"au moins 10 morts\"",
@@ -128,68 +128,76 @@
   ],
   "aujourdhui": [
     {
-      "titre": "\"Joyeux Gauloinniversaire\" : Astérix fête son 67ème anniversaire avec une chanson inédite",
-      "lien": "https://www.franceinfo.fr/culture/bd/joyeux-gauloinniversaire-une-chanson-pour-feter-les-67-ans-d-asterix-et-obelix_8258573.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-29T11:10:08+01:00",
-      "resume": "À l'occasion du 67e anniversaire d'Astérix, une chanson inédite intitulée \"Joyeux Gauloinniversaire\" a été dévoilée jeudi. Produite par les Éditions Albert René, elle est interprétée par l'artiste Roland Karl pour célébrer la célèbre bande dessinée.",
-      "contexte": "La franchise Astérix demeure l'un des piliers de la culture populaire franco-belge et fait régulièrement l'objet d'opérations marketing et culturelles d'envergure pour entretenir sa popularité intergénérationnelle. Ces anniversaires sont l'occasion de rappeler le poids économique et patrimonial de la BD créée par Goscinny et Uderzo."
+      "titre": "Attentat raciste dans les Yvelines : Kevin T. admet avoir ciblé des personnes \"de type musulman, africain ou nord-africain\"",
+      "lien": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-10-29T13:02:11+01:00",
+      "resume": "Kevin T. a été mis en examen pour assassinat et tentative en lien avec une entreprise terroriste à la suite d'un attentat raciste perpétré le 23 octobre dans les Yvelines. L'assaillant a reconnu la préméditation de ses actes et avoir ciblé des personnes \"de type musulman, africain ou nord-africain\". Trente autocollants \"Vive la France et le RN\" ont également été découverts à son domicile, selon les déclarations d'Olivier Christen, procureur du parquet national antiterroriste.",
+      "contexte": "Ce type d'affaire met en lumière la menace persistante du terrorisme d'ultradroite et la radicalisation d'individus isolés. L'enquête judiciaire vise à déterminer les complicités potentielles et le parcours exact du suspect, tandis que ces actes suscitent une vive émotion et de lourds débats sur la sécurité et la montée des crispations identitaires en France."
     },
     {
-      "titre": "TotalEnergies affiche des profits record, dopés par les tensions mondiales sur le gazole",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-affiche-des-profits-record-dopes-par-les-tensions-mondiales-sur-le-gazole_6802305_3234.html",
+      "titre": "La France sans nouvelles d'\"au moins deux\" ressortissants après l'accident ferroviaire en Espagne",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/la-france-sans-nouvelles-d-au-moins-deux-ressortissants-apres-l-accident-ferroviaire-en-espagne_8258774.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-29T13:00:33+01:00",
+      "resume": "Les autorités françaises sont sans nouvelles d'\"au moins deux\" ressortissants après l'accident ferroviaire tragique survenu en Espagne. Les équipes du ministère des Affaires étrangères se déclarent pleinement mobilisées pour tenter de retrouver ces citoyens français.",
+      "contexte": "Ce drame relance les questions cruciales sur la sécurité des réseaux ferroviaires et la prise en charge rapide des victimes étrangères lors d'accidents de grande ampleur à l'étranger. Les consulats jouent alors un rôle central pour accompagner les familles et coordonner les recherches avec les autorités locales."
+    },
+    {
+      "titre": "Geoffroy Roux de Bézieux, l'ex-président du Medef, succède à Edgar Grospiron à la tête du comité d'organisation des JO d'hiver Alpes 2030",
+      "lien": "https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/geoffroy-roux-de-bezieux-succede-a-edgar-grospiron-et-devient-le-nouveau-president-du-cojop-des-alpes-2030_8255530.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · Le Monde",
+      "date": "2026-10-29T12:51:17+01:00",
+      "resume": "Geoffroy Roux de Bézieux, ancien président du Medef âgé de 64 ans, a été élu à l'unanimité président du comité d'organisation des Jeux olympiques d'hiver Alpes 2030. Il succède ainsi à Edgar Grospiron, qui avait démissionné en septembre après un an et demi de crises internes au sein du Cojop.",
+      "contexte": "L'ancien patron des patrons arrive avec la lourde mission de stabiliser un comité décrit comme étant en \"état de crise permanent\". Les enjeux économiques, logistiques et politiques autour de l'organisation de jeux olympiques exigent un pilotage rigoureux pour regagner la confiance des partenaires et du public."
+    },
+    {
+      "titre": "Dolores Huerta, légende du syndicalisme et de la gauche aux Etats-Unis, est morte",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/29/dolores-huerta-legende-du-syndicalisme-et-de-la-gauche-aux-etats-unis-est-morte_6802318_3382.html",
       "source": "Le Monde",
-      "date": "2026-10-29T11:05:07+01:00",
-      "resume": "La major pétrolière française TotalEnergies a annoncé un bénéfice net en forte hausse de 124 % sur un an pour le troisième trimestre, atteignant 8,3 milliards de dollars. Cette progression est notamment portée par des raffineries tournant à plein régime et par les tensions sur le marché mondial du gazole.",
-      "contexte": "Les entreprises du secteur énergétique ont profité ces derniers mois des perturbations géopolitiques et de la volatilité des cours du pétrole et du gaz pour dégager des profits records. Ces résultats relancent régulièrement le débat politique sur la taxation des superprofits et le pouvoir d'achat des consommateurs face à la cherté des carburants."
+      "date": "2026-10-29T12:42:43+01:00",
+      "resume": "Dolores Huerta, figure majeure du syndicalisme et de la gauche aux États-Unis, est décédée le 28 octobre à l'âge de 96 ans. Elle s'était illustrée dans les années 1960 et 1970 en organisant la lutte des ouvriers agricoles latinos en Californie et en s'imposant comme une pionnière de la lutte féministe.",
+      "contexte": "Sa disparition marque la perte de l'une des dernières grandes icônes des mouvements civils et sociaux américains du XXe siècle. Son héritage continue d'inspirer les luttes pour les droits des minorités et des travailleurs aux États-Unis."
     },
     {
-      "titre": "Santé publique France a recensé 441 morts par noyade entre mai et août, principalement pendant les canicules",
-      "lien": "https://www.franceinfo.fr/faits-divers/noyades/entre-le-1er-mai-et-le-31-aout-441-morts-par-noyade-principalement-pendant-les-canicules-denombre-sante-publique-france_8258543.html#xtor=RSS-3-[lestitres]",
+      "titre": "Christine Lagarde annonce son départ anticipé de la Banque centrale européenne en février 2027",
+      "lien": "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T10:56:18+01:00",
-      "resume": "Santé publique France a recensé 441 décès par noyade entre les mois de mai et d'août. L'organisme souligne que 82 % de ces drames mortels se sont produits au cours de périodes de \"vigilance canicule\".",
-      "contexte": "Les épisodes de forte chaleur incitent naturellement la population à se baigner pour se rafraîchir, ce qui accroît les risques de noyade, en particulier chez les personnes vulnérables ou en raison de chocs thermiques. Les campagnes de prévention rappellent chaque année l'importance de la surveillance accrue et du respect des consignes de sécurité aquatique."
+      "date": "2026-10-29T12:39:32+01:00",
+      "resume": "Christine Lagarde a annoncé qu'elle quitterait ses fonctions de présidente de la Banque centrale européenne de manière anticipée en février 2027. Ce départ prématuré permet au président français sortant, Emmanuel Macron, de participer à la désignation de son successeur avant l'élection présidentielle du printemps.",
+      "contexte": "La désignation du chef de la BCE est un enjeu géopolitique et économique majeur pour l'Union européenne, influençant la politique monétaire de la zone euro. Un tel calendrier de succession soulève souvent des discussions politiques intenses sur l'indépendance de l'institution et le calendrier électoral national."
     },
     {
-      "titre": "Choc violent, \"erreur humaine\" : ce que l'on sait du drame ferroviaire qui endeuille encore l'Espagne",
-      "lien": "https://www.france24.com/fr/europe/20261028-choc-violent-erreur-humaine-ce-que-l-on-sait-drame-ferroviaire-endeuille-encore-espagne-collision-trains-grande-vitesse-urda",
-      "source": "France 24 · franceinfo Monde · franceinfo",
-      "date": "2026-10-29T10:55:12+01:00",
-      "resume": "Une collision mortelle survenue mercredi ​matin entre deux trains à grande vitesse près d'Urda, au sud de Madrid, endeuille de nouveau l'Espagne, neuf mois après une précédente catastrophe ferroviaire d'ampleur. Cette fois, la piste de l'\"erreur humaine\" est privilégiée. Voici ce que l'on en sait.",
-      "contexte": ""
-    },
-    {
-      "titre": "Le prix Renaudot écarte l'écrivain Thélyson Orélien, accusé d'avoir utilisé l'IA, de la liste de ses finalistes",
-      "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/le-prix-renaudot-ecarte-l-ecrivain-thelyson-orelien-accuse-d-avoir-utilise-l-ia-de-la-liste-de-ses-finalistes_8258492.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-29T10:49:32+01:00",
-      "resume": "Le prix littéraire Renaudot a décidé d'écarter l'écrivain Thélyson Orélien de sa liste de finalistes pour son roman \"C'était ça ou mourir\". Cette décision intervient après que l'éditeur canadien de l'auteur a rompu ses liens avec lui suite à des accusations d'utilisation de l'intelligence artificielle.",
-      "contexte": "L'irruption des outils d'intelligence artificielle générative dans la création littéraire soulève des questions éthiques et juridiques inédites, notamment sur l'authenticité des œuvres et le respect du droit d'auteur. De nombreux prix et maisons d'édition affichent une tolérance zéro face à l'usage non déclaré de ces technologies par les écrivains."
-    },
-    {
-      "titre": "Le général Christian Piquemal, qui avait signé en 2021 une tribune controversée de militaires, est mort",
-      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/29/le-general-christian-piquemal-qui-avait-signe-en-2021-une-tribune-controversee-de-militaires-est-mort_6802303_3382.html",
+      "titre": "Fnac Darty sanctionné d’une amende de 7 millions d’euros par la CNIL pour non-respect de la législations sur les données personnelles",
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/29/fnac-darty-sanctionne-d-une-amende-de-7-millions-d-euros-par-la-cnil-pour-non-respect-de-la-legislations-sur-les-donnees-personnelles_6802316_3234.html",
       "source": "Le Monde",
-      "date": "2026-10-29T10:39:10+01:00",
-      "resume": "Le général Christian Piquemal est décédé le 23 octobre à l'âge de 85 ans. Ancien légionnaire, il avait été radié des cadres de l'armée en 2016 pour avoir pris part à une manifestation interdite organisée par un mouvement islamophobe en Allemagne, avant de signer en 2021 une tribune controversée de militaires.",
-      "contexte": "Les prises de position publiques de figures militaires à la retraite sur des sujets politiques ou migratoires suscitent régulièrement des polémiques en France concernant le devoir de réserve et la neutralité de l'institution militaire. Le parcours de Christian Piquemal illustre les frictions entre certains anciens gradés et les autorités républicaines."
+      "date": "2026-10-29T12:29:36+01:00",
+      "resume": "La CNIL a infligé une amende de 7 millions d'euros à Fnac Darty pour non-respect de la législation sur les données personnelles. L'autorité administrative assortit cette sanction d'une astreinte de 10 000 euros par jour si le groupe ne se met pas rapidement en conformité concernant la gestion des cookies.",
+      "contexte": "Cette sanction s'inscrit dans la lignée des contrôles stricts menés par les régulateurs européens depuis l'entrée en vigueur du RGPD. L'objectif est généralement de contraindre les grandes entreprises du commerce à respecter la vie privée des utilisateurs et à corriger leurs pratiques de traçage numérique."
     },
     {
-      "titre": "\"Plus jamais un enfant victime d'inceste n'entendra qu'il était trop tard pour parler\" : le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
-      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-jamais-un-enfant-victime-d-inceste-n-entendra-qu-il-etait-trop-tard-pour-parler-le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs_8258195.html#xtor=RSS-3-[lestitres]",
+      "titre": "Au Texas, un chanteur aux allures de cow-boy, Bobby Pulido, tente de reconquérir un siège démocrate au Congrès",
+      "lien": "https://www.franceinfo.fr/culture/musique/au-texas-un-chanteur-aux-allures-de-cow-boy-bobby-pulido-tente-de-reconquerir-un-siege-democrate-au-congres_8258594.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T10:37:22+01:00",
-      "resume": "Le Sénat a approuvé une proposition visant à rendre imprescriptibles les crimes sexuels commis sur des mineurs. Actuellement, les victimes de viols subis durant l'enfance disposent d'un délai de trente ans à compter de leur majorité pour porter plainte, une limite jugée insuffisante par plusieurs associations.",
-      "contexte": "L'évolution de la législation sur la prescription des infractions sexuelles répond à la libération de la parole et à la prise de conscience des traumatismes psychologiques de long terme, qui empêchent souvent les victimes de signaler les faits rapidement. Cette mesure législative doit encore suivre son parcours parlementaire pour être définitivement adoptée."
+      "date": "2026-10-29T12:22:56+01:00",
+      "resume": "Bobby Pulido, un chanteur de 55 ans aux allures de cow-boy très populaire dans sa région, se présente pour tenter de reconquérir un siège démocrate au Congrès américain au Texas. Sa circonscription est située à proximité immédiate de la frontière avec le Mexique.",
+      "contexte": "L'utilisation de personnalités locales ou issues du monde artistique est une stratégie classique pour mobiliser les électeurs dans des circonscriptions frontalières très disputées. Les enjeux migratoires et économiques y sont particulièrement forts à l'approche des scrutins."
     },
     {
-      "titre": "Un deuxième suspect, âgé de 16 ans, mis en examen dans l'enquête sur la cyberattaque contre la Direction générale des finances publiques",
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-deuxieme-suspect-age-de-16-ans-mis-en-examen-dans-l-enquete-sur-la-cyberattaque-contre-la-direction-generale-des-finances-publiques_8258519.html#xtor=RSS-3-[lestitres]",
+      "titre": "Sommet Russie-Afrique : une démonstration de force qui peine à cacher le bilan de Moscou",
+      "lien": "https://www.france24.com/fr/europe/20261029-sommet-russie-afrique-d%C3%A9monstration-force-peine-cacher-bilan-moscou",
+      "source": "France 24",
+      "date": "2026-10-29T12:17:02+01:00",
+      "resume": "Le troisième sommet Russie-Afrique s'est achevé à Moscou après deux jours de réunions entre le Kremlin et 48 délégations africaines. Cette démonstration de force orchestrée par la Russie s'est accompagnée de promesses et de signatures officielles, tout en peinant à masquer ses difficultés économiques, ses faiblesses militaires et le recours à des mercenaires.",
+      "contexte": "La Russie cherche activement à renforcer son influence diplomatique et économique sur le continent africain pour contourner son isolement occidental. En contrepartie, de nombreux pays africains y voient une opportunité de diversifier leurs partenariats stratégiques et sécuritaires."
+    },
+    {
+      "titre": "Une attaque russe sur la gare de Dnipro fait 13 morts en Ukraine, Volodymyr Zelensky dénonce une \"horrible frappe\" et exhorte l'Occident à l'action",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-13-morts-dans-une-attaque-russe-sur-la-gare-de-dnipro-en-ukraine-volodymyr-zelensky-exhorte-l-occident-a-l-action-apres-une-horrible-frappe_8258627.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T10:34:10+01:00",
-      "resume": "Un deuxième adolescent âgé de 16 ans, surnommé \"Casquette\", a été mis en examen dans le cadre de l'enquête sur la cyberattaque et le vol de données visant la Direction générale des finances publiques. Il s'ajoute à un premier suspect de 18 ans, connu sous le pseudonyme \"ChatNoir\", les deux individus étant déjà poursuivis dans d'autres affaires de fuites de données.",
-      "contexte": "La recrudescence des cyberattaques ciblant des administrations publiques met en lumière la vulnérabilité des systèmes informatiques étatiques face à des groupes de pirates informatiques souvent jeunes mais organisés. Les enquêtes s'appuient sur la traçabilité numérique pour identifier les auteurs de ces vols d'informations sensibles."
+      "date": "2026-10-29T12:15:27+01:00",
+      "resume": "Une attaque russe menée contre la gare de Dnipro, en Ukraine, a fait 13 morts. Le président ukrainien Volodymyr Zelensky a qualifié l'événement d'\"horrible frappe\" et a exhorté l'Amérique et l'Europe à mener des actions justes et résolues face à l'escalade militaire de Moscou.",
+      "contexte": "Les frappes contre les infrastructures civiles et de transport en Ukraine visent régulièrement à paralyser le pays et à saper le moral de la population. Kiev utilise ces bilans tragiques pour réclamer davantage d'aide militaire et de systèmes de défense antiaérienne à ses alliés occidentaux."
     }
   ],
   "culture": [
@@ -212,5 +220,111 @@
       "a_retenir": "Les dauphins dorment avec un seul hémisphère cérébral à la fois pour continuer à respirer et surveiller les environs."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "2e01648473",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Qui a été élu à l'unanimité à la présidence du comité d'organisation des Jeux olympiques d'hiver Alpes 2030 ?",
+      "choix": [
+        "Edgar Grospiron",
+        "Tony Estanguet",
+        "Martin Fourcade",
+        "Geoffroy Roux de Bézieux"
+      ],
+      "reponse": 3,
+      "explication": "Geoffroy Roux de Bézieux, ancien président du Medef, succède à Edgar Grospiron à la tête du comité d'organisation des JO d'hiver 2030.",
+      "lien": "https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/geoffroy-roux-de-bezieux-succede-a-edgar-grospiron-et-devient-le-nouveau-president-du-cojop-des-alpes-2030_8255530.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e5ac29c314",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "De quelle institution Christine Lagarde a-t-elle annoncé quitter la présidence de manière anticipée en février 2027 ?",
+      "choix": [
+        "La Commission européenne",
+        "Le Fonds monétaire international",
+        "La Banque centrale européenne",
+        "La Banque mondiale"
+      ],
+      "reponse": 2,
+      "explication": "Christine Lagarde a annoncé qu'elle quitterait ses fonctions de présidente de la Banque centrale européenne (BCE) de façon anticipée en février 2027.",
+      "lien": "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "a129a82863",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Quel montant d'amende la CNIL a-t-elle infligé au groupe Fnac Darty pour des manquements relatifs aux données personnelles ?",
+      "choix": [
+        "2 millions d'euros",
+        "50 millions d'euros",
+        "15 millions d'euros",
+        "7 millions d'euros"
+      ],
+      "reponse": 3,
+      "explication": "La CNIL a sanctionné Fnac Darty d'une amende de 7 millions d'euros, notamment en raison de sa gestion non conforme des cookies.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/29/fnac-darty-sanctionne-d-une-amende-de-7-millions-d-euros-par-la-cnil-pour-non-respect-de-la-legislations-sur-les-donnees-personnelles_6802316_3234.html"
+    },
+    {
+      "id": "79cefd6239",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Dans quel domaine la figure militante américaine Dolores Huerta s'est-elle particulièrement illustrée dans les années 1960 et 1970 ?",
+      "choix": [
+        "L'industrie aérospatiale",
+        "La diplomatie auprès des Nations unies",
+        "La lutte syndicale des ouvriers agricoles latinos",
+        "L'essor de l'industrie cinématographique"
+      ],
+      "reponse": 2,
+      "explication": "Dolores Huerta était une figure majeure du syndicalisme américain, reconnue pour avoir organisé la lutte des ouvriers agricoles latinos en Californie.",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/29/dolores-huerta-legende-du-syndicalisme-et-de-la-gauche-aux-etats-unis-est-morte_6802318_3382.html"
+    },
+    {
+      "id": "2f610c0ca0",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Quel métier artistique exerce Bobby Pulido, candidat démocrate au Congrès américain dans une circonscription du Texas ?",
+      "choix": [
+        "Acteur de cinéma",
+        "Peintre",
+        "Chanteur",
+        "Romancier"
+      ],
+      "reponse": 2,
+      "explication": "Bobby Pulido est un chanteur populaire aux allures de cow-boy qui tente de remporter un siège pour le parti démocrate au Congrès.",
+      "lien": "https://www.franceinfo.fr/culture/musique/au-texas-un-chanteur-aux-allures-de-cow-boy-bobby-pulido-tente-de-reconquerir-un-siege-democrate-au-congres_8258594.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "b239a73211",
+      "date": "2026-10-29",
+      "type": "culture",
+      "question": "En cuisine, à partir d'environ quelle température la réaction de Maillard commence-t-elle à se déclencher ?",
+      "choix": [
+        "100 °C",
+        "60 °C",
+        "200 °C",
+        "140 °C"
+      ],
+      "reponse": 3,
+      "explication": "La réaction de Maillard, qui provoque le brunissement et développe les arômes des aliments rôtis ou cuits, démarre généralement autour de 140 °C.",
+      "lien": ""
+    },
+    {
+      "id": "959f8e9fcf",
+      "date": "2026-10-29",
+      "type": "culture",
+      "question": "En quoi consiste la particularité du « sommeil unisphérique » pratiqué par les dauphins ?",
+      "choix": [
+        "Leur cœur s'arrête de battre brièvement pendant le repos",
+        "Ils dorment uniquement la tête émergée",
+        "Une seule moitié du cerveau dort à la fois",
+        "Ils dorment exclusivement en groupe compact"
+      ],
+      "reponse": 2,
+      "explication": "Le sommeil unisphérique permet à un seul hémisphère cérébral de dormir à la fois, assurant au dauphin de continuer à respirer et à surveiller son environnement.",
+      "lien": ""
+    }
+  ]
 }

@@ -1319,6 +1319,111 @@
       "reponse": 1,
       "explication": "À l'origine, au tournant du vingtième siècle, le journal était imprimé sur du papier rose car il était moins coûteux à fabriquer que le papier blanc.",
       "lien": ""
+    },
+    {
+      "id": "2e01648473",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Qui a été élu à l'unanimité à la présidence du comité d'organisation des Jeux olympiques d'hiver Alpes 2030 ?",
+      "choix": [
+        "Edgar Grospiron",
+        "Tony Estanguet",
+        "Martin Fourcade",
+        "Geoffroy Roux de Bézieux"
+      ],
+      "reponse": 3,
+      "explication": "Geoffroy Roux de Bézieux, ancien président du Medef, succède à Edgar Grospiron à la tête du comité d'organisation des JO d'hiver 2030.",
+      "lien": "https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/geoffroy-roux-de-bezieux-succede-a-edgar-grospiron-et-devient-le-nouveau-president-du-cojop-des-alpes-2030_8255530.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e5ac29c314",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "De quelle institution Christine Lagarde a-t-elle annoncé quitter la présidence de manière anticipée en février 2027 ?",
+      "choix": [
+        "La Commission européenne",
+        "Le Fonds monétaire international",
+        "La Banque centrale européenne",
+        "La Banque mondiale"
+      ],
+      "reponse": 2,
+      "explication": "Christine Lagarde a annoncé qu'elle quitterait ses fonctions de présidente de la Banque centrale européenne (BCE) de façon anticipée en février 2027.",
+      "lien": "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "a129a82863",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Quel montant d'amende la CNIL a-t-elle infligé au groupe Fnac Darty pour des manquements relatifs aux données personnelles ?",
+      "choix": [
+        "2 millions d'euros",
+        "50 millions d'euros",
+        "15 millions d'euros",
+        "7 millions d'euros"
+      ],
+      "reponse": 3,
+      "explication": "La CNIL a sanctionné Fnac Darty d'une amende de 7 millions d'euros, notamment en raison de sa gestion non conforme des cookies.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/29/fnac-darty-sanctionne-d-une-amende-de-7-millions-d-euros-par-la-cnil-pour-non-respect-de-la-legislations-sur-les-donnees-personnelles_6802316_3234.html"
+    },
+    {
+      "id": "79cefd6239",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Dans quel domaine la figure militante américaine Dolores Huerta s'est-elle particulièrement illustrée dans les années 1960 et 1970 ?",
+      "choix": [
+        "L'industrie aérospatiale",
+        "La diplomatie auprès des Nations unies",
+        "La lutte syndicale des ouvriers agricoles latinos",
+        "L'essor de l'industrie cinématographique"
+      ],
+      "reponse": 2,
+      "explication": "Dolores Huerta était une figure majeure du syndicalisme américain, reconnue pour avoir organisé la lutte des ouvriers agricoles latinos en Californie.",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/29/dolores-huerta-legende-du-syndicalisme-et-de-la-gauche-aux-etats-unis-est-morte_6802318_3382.html"
+    },
+    {
+      "id": "2f610c0ca0",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Quel métier artistique exerce Bobby Pulido, candidat démocrate au Congrès américain dans une circonscription du Texas ?",
+      "choix": [
+        "Acteur de cinéma",
+        "Peintre",
+        "Chanteur",
+        "Romancier"
+      ],
+      "reponse": 2,
+      "explication": "Bobby Pulido est un chanteur populaire aux allures de cow-boy qui tente de remporter un siège pour le parti démocrate au Congrès.",
+      "lien": "https://www.franceinfo.fr/culture/musique/au-texas-un-chanteur-aux-allures-de-cow-boy-bobby-pulido-tente-de-reconquerir-un-siege-democrate-au-congres_8258594.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "b239a73211",
+      "date": "2026-10-29",
+      "type": "culture",
+      "question": "En cuisine, à partir d'environ quelle température la réaction de Maillard commence-t-elle à se déclencher ?",
+      "choix": [
+        "100 °C",
+        "60 °C",
+        "200 °C",
+        "140 °C"
+      ],
+      "reponse": 3,
+      "explication": "La réaction de Maillard, qui provoque le brunissement et développe les arômes des aliments rôtis ou cuits, démarre généralement autour de 140 °C.",
+      "lien": ""
+    },
+    {
+      "id": "959f8e9fcf",
+      "date": "2026-10-29",
+      "type": "culture",
+      "question": "En quoi consiste la particularité du « sommeil unisphérique » pratiqué par les dauphins ?",
+      "choix": [
+        "Leur cœur s'arrête de battre brièvement pendant le repos",
+        "Ils dorment uniquement la tête émergée",
+        "Une seule moitié du cerveau dort à la fois",
+        "Ils dorment exclusivement en groupe compact"
+      ],
+      "reponse": 2,
+      "explication": "Le sommeil unisphérique permet à un seul hémisphère cérébral de dormir à la fois, assurant au dauphin de continuer à respirer et à surveiller son environnement.",
+      "lien": ""
     }
   ]
 }
