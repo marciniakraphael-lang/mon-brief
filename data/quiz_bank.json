@@ -1424,6 +1424,111 @@
       "reponse": 2,
       "explication": "Le sommeil unisphérique permet à un seul hémisphère cérébral de dormir à la fois, assurant au dauphin de continuer à respirer et à surveiller son environnement.",
       "lien": ""
+    },
+    {
+      "id": "e1646f798e",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Quel est le titre du livre du député Raphaël Arnault au cœur de la conférence annulée à Lyon ?",
+      "choix": [
+        "Le combat militant",
+        "Résistance populaire",
+        "Antifasciste",
+        "La France insoumise"
+      ],
+      "reponse": 2,
+      "explication": "La conférence, annulée pour des motifs de sécurité, devait être l'occasion d'échanger autour de l'ouvrage de Raphaël Arnault intitulé « Antifasciste ».",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/lyon-annulation-d-une-conference-du-depute-lfi-raphael-arnault-pour-raisons-de-securite-decidee-par-une-mairie-d-arrondissement_6802385_823448.html"
+    },
+    {
+      "id": "6f82f66b6a",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Dans quel pays un hélicoptère militaire de la Force européenne s'est-il écrasé lors d'une opération de routine ?",
+      "choix": [
+        "En Espagne",
+        "En Grèce",
+        "En Bosnie-Herzégovine",
+        "En Italie"
+      ],
+      "reponse": 2,
+      "explication": "L'accident d'hélicoptère militaire italien de la Force européenne s'est déroulé en Bosnie-Herzégovine, faisant au moins quatre morts.",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/un-helicoptere-de-la-force-europeenne-militaire-s-ecrase-en-bosnie-au-moins-quatre-morts_8259398.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "73a980a17f",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Quel hôtel particulier parisien l'État prévoit-il de vendre d'ici à 2027 pour générer des recettes immobilières ?",
+      "choix": [
+        "L'hôtel de Brienne",
+        "L'hôtel Matignon",
+        "L'hôtel Beistegui",
+        "L'hôtel de Roquelaure"
+      ],
+      "reponse": 2,
+      "explication": "L'hôtel Beistegui, qui accueille le Haut-Commissariat à la stratégie et au plan, doit être vendu par l'État dans le cadre d'un plan de cessions immobilières.",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/matignon-s-apprete-a-vendre-l-hotel-particulier-du-haut-commissariat-a-la-strategie-et-au-plan_6802384_823448.html"
+    },
+    {
+      "id": "1a338cb731",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Combien de policiers et gendarmes ont été annoncés pour sécuriser les manifestations du 31 octobre en France ?",
+      "choix": [
+        "25 000",
+        "70 000",
+        "50 000",
+        "100 000"
+      ],
+      "reponse": 1,
+      "explication": "Le ministre de l'Intérieur a fait part de la mobilisation de 70 000 membres des forces de l'ordre sur le territoire national pour la journée du 31 octobre.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "b2ceb3d035",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Sous la présidence de quel dirigeant les stérilisations forcées ont-elles été infligées à des femmes autochtones au Pérou ?",
+      "choix": [
+        "Alberto Fujimori",
+        "Pedro Castillo",
+        "Alan García",
+        "Alejandro Toledo"
+      ],
+      "reponse": 0,
+      "explication": "Les stérilisations forcées au Pérou ont été pratiquées sous le mandat présidentiel d'Alberto Fujimori.",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/29/sterilisations-forcees-au-perou-apres-le-classement-de-l-enquete-les-victimes-estiment-que-la-recherche-de-justice-n-est-pas-terminee_6802381_3210.html"
+    },
+    {
+      "id": "cff2aea983",
+      "date": "2026-10-29",
+      "type": "culture",
+      "question": "En cuisine, entre quels éléments la réaction de Maillard se produit-elle principalement ?",
+      "choix": [
+        "Entre des acides aminés et des sucres réducteurs",
+        "Entre des acides gras et des sels minéraux",
+        "Entre de l'eau et de l'amidon",
+        "Entre des lipides et des vitamines"
+      ],
+      "reponse": 0,
+      "explication": "La réaction de Maillard est une transformation chimique entre des acides aminés et des sucres réducteurs, donnant saveurs et couleur dorée à partir d'environ 140 °C.",
+      "lien": ""
+    },
+    {
+      "id": "2788197f9b",
+      "date": "2026-10-29",
+      "type": "culture",
+      "question": "En quoi consiste le sommeil unisphérique pratiqué par les dauphins ?",
+      "choix": [
+        "Seule une moitié de leur cerveau s'endort à la fois",
+        "Ils cessent complètement de respirer pendant le repos",
+        "Leurs deux yeux restent fermés en permanence",
+        "Ils dorment immobiles tout au fond de l'eau"
+      ],
+      "reponse": 0,
+      "explication": "Le sommeil unisphérique permet au dauphin de faire dormir un seul hémisphère cérébral à la fois afin de continuer à respirer et surveiller les prédateurs.",
+      "lien": ""
     }
   ]
 }

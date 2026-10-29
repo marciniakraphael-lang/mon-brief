@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "mode": "evening",
-  "updated": "2026-10-29T13:13:07.387204+01:00",
+  "updated": "2026-10-29T21:01:58.352556+01:00",
   "deja_presente": [
     {
       "titre": "Collision de deux trains en Espagne : les autorités locales déplorent \"au moins 10 morts\"",
@@ -128,76 +128,84 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Attentat raciste dans les Yvelines : Kevin T. admet avoir ciblé des personnes \"de type musulman, africain ou nord-africain\"",
+      "titre": "Le forum et la manifestation prévus samedi et dimanche par le collectif Objectif Remigration ont été interdits",
+      "lien": "https://www.franceinfo.fr/economie/greve/le-forum-et-la-manifestation-organises-samedi-et-dimanche-par-le-collectif-objectif-remigration-ont-ete-interdits_8258789.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-29T20:52:34+01:00",
+      "resume": "La préfecture de police de Paris a officiellement interdit le forum et la manifestation prévus ce week-end par le collectif Objectif Remigration. Les arrêtés d'interdiction ont été justifiés par les risques élevés de troubles à l'ordre public. L'autorité préfectorale a notamment mentionné les vives tensions persistantes consécutives à l'attentat survenu récemment à Trappes.",
+      "contexte": "Ces rassemblements avaient suscité une vive indignation de la part de partis de gauche et d'associations antiracistes, qui réclamaient leur annulation. En France, les préfectures recourent fréquemment à l'interdiction préventive lorsque la confrontation entre militants d'extrême droite et contre-manifestants risque de dégénérer. Les organisateurs de tels événements ont toutefois la possibilité de contester ces arrêtés en urgence devant la justice administrative."
+    },
+    {
+      "titre": "Une conférence du député LFI Raphaël Arnault prévue à Lyon le 5 novembre annulée pour raisons de « sécurité »",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/lyon-annulation-d-une-conference-du-depute-lfi-raphael-arnault-pour-raisons-de-securite-decidee-par-une-mairie-d-arrondissement_6802385_823448.html",
+      "source": "Le Monde",
+      "date": "2026-10-29T20:49:31+01:00",
+      "resume": "Une conférence du député La France insoumise Raphaël Arnault, programmée le 5 novembre dans une salle municipale du 8e arrondissement de Lyon, a été annulée. L'élu du Vaucluse avait prévu d'y organiser des débats autour de son ouvrage intitulé « Antifasciste ». La décision de fermer la salle a été motivée par des impératifs liés à la sécurité de l'événement.",
+      "contexte": "Ancien porte-parole d'un mouvement d'action antifasciste, le parlementaire cristallise régulièrement de fortes oppositions politiques de la part de ses détracteurs. Les mairies sont souvent confrontées à des arbitrages difficiles entre la garantie de la liberté d'expression des élus et la prévention de heurts aux abords de leurs bâtiments. Les tensions récurrentes à Lyon entre factions militantes antagonistes justifient généralement ces mesures d'interdiction administrative."
+    },
+    {
+      "titre": "Un hélicoptère de la Force européenne militaire s'écrase en Bosnie, au moins quatre morts",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/un-helicoptere-de-la-force-europeenne-militaire-s-ecrase-en-bosnie-au-moins-quatre-morts_8259398.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-29T20:49:06+01:00",
+      "resume": "Un hélicoptère militaire italien de la Force européenne en Bosnie-Herzégovine s'est écrasé au cours d'une opération de routine. L'accident a causé la mort d'au moins quatre personnes et a fait onze blessés, selon des sources hospitalières. Les circonstances exactes de cette chute d'aéronef n'ont pas été précisées dans l'immédiat.",
+      "contexte": "La mission Eufor Althea est déployée depuis 2004 pour veiller au respect des accords de paix de Dayton et maintenir la stabilité dans les Balkans. Cet événement constitue une lourde perte pour le contingent militaire européen dans la région. Une enquête technique internationale est généralement ouverte pour vérifier s'il s'agit d'une panne mécanique ou de conditions météorologiques dégradées."
+    },
+    {
+      "titre": "Attentat raciste dans les Yvelines : le suspect, Kévin Tessier, mis en examen par un juge antiterroriste",
       "lien": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-10-29T13:02:11+01:00",
-      "resume": "Kevin T. a été mis en examen pour assassinat et tentative en lien avec une entreprise terroriste à la suite d'un attentat raciste perpétré le 23 octobre dans les Yvelines. L'assaillant a reconnu la préméditation de ses actes et avoir ciblé des personnes \"de type musulman, africain ou nord-africain\". Trente autocollants \"Vive la France et le RN\" ont également été découverts à son domicile, selon les déclarations d'Olivier Christen, procureur du parquet national antiterroriste.",
-      "contexte": "Ce type d'affaire met en lumière la menace persistante du terrorisme d'ultradroite et la radicalisation d'individus isolés. L'enquête judiciaire vise à déterminer les complicités potentielles et le parcours exact du suspect, tandis que ces actes suscitent une vive émotion et de lourds débats sur la sécurité et la montée des crispations identitaires en France."
-    },
-    {
-      "titre": "La France sans nouvelles d'\"au moins deux\" ressortissants après l'accident ferroviaire en Espagne",
-      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/la-france-sans-nouvelles-d-au-moins-deux-ressortissants-apres-l-accident-ferroviaire-en-espagne_8258774.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-29T13:00:33+01:00",
-      "resume": "Les autorités françaises sont sans nouvelles d'\"au moins deux\" ressortissants après l'accident ferroviaire tragique survenu en Espagne. Les équipes du ministère des Affaires étrangères se déclarent pleinement mobilisées pour tenter de retrouver ces citoyens français.",
-      "contexte": "Ce drame relance les questions cruciales sur la sécurité des réseaux ferroviaires et la prise en charge rapide des victimes étrangères lors d'accidents de grande ampleur à l'étranger. Les consulats jouent alors un rôle central pour accompagner les familles et coordonner les recherches avec les autorités locales."
-    },
-    {
-      "titre": "Geoffroy Roux de Bézieux, l'ex-président du Medef, succède à Edgar Grospiron à la tête du comité d'organisation des JO d'hiver Alpes 2030",
-      "lien": "https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/geoffroy-roux-de-bezieux-succede-a-edgar-grospiron-et-devient-le-nouveau-president-du-cojop-des-alpes-2030_8255530.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · Le Monde",
-      "date": "2026-10-29T12:51:17+01:00",
-      "resume": "Geoffroy Roux de Bézieux, ancien président du Medef âgé de 64 ans, a été élu à l'unanimité président du comité d'organisation des Jeux olympiques d'hiver Alpes 2030. Il succède ainsi à Edgar Grospiron, qui avait démissionné en septembre après un an et demi de crises internes au sein du Cojop.",
-      "contexte": "L'ancien patron des patrons arrive avec la lourde mission de stabiliser un comité décrit comme étant en \"état de crise permanent\". Les enjeux économiques, logistiques et politiques autour de l'organisation de jeux olympiques exigent un pilotage rigoureux pour regagner la confiance des partenaires et du public."
-    },
-    {
-      "titre": "Dolores Huerta, légende du syndicalisme et de la gauche aux Etats-Unis, est morte",
-      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/29/dolores-huerta-legende-du-syndicalisme-et-de-la-gauche-aux-etats-unis-est-morte_6802318_3382.html",
-      "source": "Le Monde",
-      "date": "2026-10-29T12:42:43+01:00",
-      "resume": "Dolores Huerta, figure majeure du syndicalisme et de la gauche aux États-Unis, est décédée le 28 octobre à l'âge de 96 ans. Elle s'était illustrée dans les années 1960 et 1970 en organisant la lutte des ouvriers agricoles latinos en Californie et en s'imposant comme une pionnière de la lutte féministe.",
-      "contexte": "Sa disparition marque la perte de l'une des dernières grandes icônes des mouvements civils et sociaux américains du XXe siècle. Son héritage continue d'inspirer les luttes pour les droits des minorités et des travailleurs aux États-Unis."
-    },
-    {
-      "titre": "Christine Lagarde annonce son départ anticipé de la Banque centrale européenne en février 2027",
-      "lien": "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T12:39:32+01:00",
-      "resume": "Christine Lagarde a annoncé qu'elle quitterait ses fonctions de présidente de la Banque centrale européenne de manière anticipée en février 2027. Ce départ prématuré permet au président français sortant, Emmanuel Macron, de participer à la désignation de son successeur avant l'élection présidentielle du printemps.",
-      "contexte": "La désignation du chef de la BCE est un enjeu géopolitique et économique majeur pour l'Union européenne, influençant la politique monétaire de la zone euro. Un tel calendrier de succession soulève souvent des discussions politiques intenses sur l'indépendance de l'institution et le calendrier électoral national."
+      "date": "2026-10-29T20:47:52+01:00",
+      "resume": "L'homme de 39 ans soupçonné d'avoir perpétré une attaque raciste à Trappes, dans les Yvelines, a été mis en examen par un juge antiterroriste. Il a reconnu les faits devant les enquêteurs, admettant avoir délibérément ciblé des victimes en raison de leur origine perçue comme africaine, maghrébine ou musulmane. Trois jours avant ce périple meurtrier, il avait déjà été interpellé après avoir frappé un homme noir dans une station-service. L'avocat de plusieurs victimes a publiquement dénoncé des dysfonctionnements dans le suivi judiciaire de l'agresseur.",
+      "contexte": "Cette affaire suscite une vive émotion et relance le débat sur le suivi des profils violents avant qu'ils ne commettent des actes irréparables. Les poursuites pour terrorisme fondées sur des motivations ouvertement racistes restent relativement rares en France par rapport à d'autres mouvances radicales, mais font l'objet d'une vigilance accrue des autorités. Les critiques sur d'éventuels ratés policiers ou judiciaires risquent d'entraîner l'ouverture d'inspections internes pour examiner les conditions de sa précédente garde à vue."
     },
     {
-      "titre": "Fnac Darty sanctionné d’une amende de 7 millions d’euros par la CNIL pour non-respect de la législations sur les données personnelles",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/29/fnac-darty-sanctionne-d-une-amende-de-7-millions-d-euros-par-la-cnil-pour-non-respect-de-la-legislations-sur-les-donnees-personnelles_6802316_3234.html",
-      "source": "Le Monde",
-      "date": "2026-10-29T12:29:36+01:00",
-      "resume": "La CNIL a infligé une amende de 7 millions d'euros à Fnac Darty pour non-respect de la législation sur les données personnelles. L'autorité administrative assortit cette sanction d'une astreinte de 10 000 euros par jour si le groupe ne se met pas rapidement en conformité concernant la gestion des cookies.",
-      "contexte": "Cette sanction s'inscrit dans la lignée des contrôles stricts menés par les régulateurs européens depuis l'entrée en vigueur du RGPD. L'objectif est généralement de contraindre les grandes entreprises du commerce à respecter la vie privée des utilisateurs et à corriger leurs pratiques de traçage numérique."
-    },
-    {
-      "titre": "Au Texas, un chanteur aux allures de cow-boy, Bobby Pulido, tente de reconquérir un siège démocrate au Congrès",
-      "lien": "https://www.franceinfo.fr/culture/musique/au-texas-un-chanteur-aux-allures-de-cow-boy-bobby-pulido-tente-de-reconquerir-un-siege-democrate-au-congres_8258594.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-29T12:22:56+01:00",
-      "resume": "Bobby Pulido, un chanteur de 55 ans aux allures de cow-boy très populaire dans sa région, se présente pour tenter de reconquérir un siège démocrate au Congrès américain au Texas. Sa circonscription est située à proximité immédiate de la frontière avec le Mexique.",
-      "contexte": "L'utilisation de personnalités locales ou issues du monde artistique est une stratégie classique pour mobiliser les électeurs dans des circonscriptions frontalières très disputées. Les enjeux migratoires et économiques y sont particulièrement forts à l'approche des scrutins."
-    },
-    {
-      "titre": "Sommet Russie-Afrique : une démonstration de force qui peine à cacher le bilan de Moscou",
-      "lien": "https://www.france24.com/fr/europe/20261029-sommet-russie-afrique-d%C3%A9monstration-force-peine-cacher-bilan-moscou",
+      "titre": "Mesures du gouvernement pour les lycéens : Des annonces insuffisantes ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/politique/20261029-mesures-du-gouvernement-pour-les-lyc%C3%A9ens-des-annonces-insuffisantes",
       "source": "France 24",
-      "date": "2026-10-29T12:17:02+01:00",
-      "resume": "Le troisième sommet Russie-Afrique s'est achevé à Moscou après deux jours de réunions entre le Kremlin et 48 délégations africaines. Cette démonstration de force orchestrée par la Russie s'est accompagnée de promesses et de signatures officielles, tout en peinant à masquer ses difficultés économiques, ses faiblesses militaires et le recours à des mercenaires.",
-      "contexte": "La Russie cherche activement à renforcer son influence diplomatique et économique sur le continent africain pour contourner son isolement occidental. En contrepartie, de nombreux pays africains y voient une opportunité de diversifier leurs partenariats stratégiques et sécuritaires."
+      "date": "2026-10-29T20:40:11+01:00",
+      "resume": "Plusieurs organisations lycéennes maintiennent leurs appels à la mobilisation malgré les récentes propositions formulées par le gouvernement. Les syndicats de jeunes jugent ces annonces très insuffisantes et réclament des concessions supplémentaires de la part de l'exécutif. La situation et les perspectives du mouvement font l'objet d'intenses débats entre acteurs éducatifs et observateurs politiques.",
+      "contexte": "Les mouvements de jeunesse représentent traditionnellement un test délicat pour les gouvernements, qui craignent une contagion de la contestation au monde étudiant et aux syndicats de salariés. Les revendications portent couramment sur les conditions d'étude, la précarité ou les réformes des filières d'enseignement. Face à ces blocages, l'exécutif cherche généralement à négocier rapidement pour désamorcer les perturbations avant les périodes d'examens."
     },
     {
-      "titre": "Une attaque russe sur la gare de Dnipro fait 13 morts en Ukraine, Volodymyr Zelensky dénonce une \"horrible frappe\" et exhorte l'Occident à l'action",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-13-morts-dans-une-attaque-russe-sur-la-gare-de-dnipro-en-ukraine-volodymyr-zelensky-exhorte-l-occident-a-l-action-apres-une-horrible-frappe_8258627.html#xtor=RSS-3-[lestitres]",
+      "titre": "Sept Français portés disparus après la collision meurtrière entre deux trains en Espagne",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/sept-francais-portes-disparus-apres-la-collision-meurtriere-entre-deux-trains-en-espagne_8259401.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-29T20:37:41+01:00",
+      "resume": "Au moins sept ressortissants français sont portés disparus après la collision meurtrière survenue entre deux trains en Espagne. Parmi eux figure une cheffe d’entreprise installée à Madrid depuis plus de 25 ans. Les secours poursuivent leurs opérations sur le lieu de la catastrophe pour tenter de retrouver d'éventuels survivants et procéder à l'identification formelle des corps.",
+      "contexte": "Cet accident ferroviaire compte parmi les plus graves enregistrés ces dernières années dans le pays, mobilisant des moyens de secours binationaux pour assister les familles. L'annonce de disparus français pousse les autorités consulaires à ouvrir une cellule de crise pour accompagner les proches. Les enquêtes techniques et judiciaires devront déterminer les causes exactes du drame, qui pourraient être liées à un problème de signalisation ou à une défaillance humaine."
+    },
+    {
+      "titre": "Matignon s’apprête à vendre l’hôtel particulier du Haut-Commissariat à la stratégie et au plan",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/matignon-s-apprete-a-vendre-l-hotel-particulier-du-haut-commissariat-a-la-strategie-et-au-plan_6802384_823448.html",
+      "source": "Le Monde",
+      "date": "2026-10-29T20:29:24+01:00",
+      "resume": "Le gouvernement français prépare la mise en vente de l'hôtel Beistegui, un hôtel particulier situé face à l'esplanade des Invalides à Paris qui héberge le Haut-Commissariat à la stratégie et au plan. Propriété publique depuis 1971, ce bâtiment historique fait partie d'une liste de biens cédés par l'État. L'opération s'inscrit dans un plan plus vaste prévoyant de dégager 300 millions d'euros de recettes immobilières d'ici à 2027.",
+      "contexte": "Confronté à une forte pression budgétaire, l'exécutif cherche à rationaliser son patrimoine immobilier en vendant des biens prestigieux mais coûteux à entretenir. Ces arbitrages visent à la fois à désendetter l'État et à regrouper les administrations dans des locaux plus fonctionnels. La vente de ces lieux emblématiques suscite régulièrement des débats sur la préservation du patrimoine public et la perte de symboles institutionnels."
+    },
+    {
+      "titre": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T12:15:27+01:00",
-      "resume": "Une attaque russe menée contre la gare de Dnipro, en Ukraine, a fait 13 morts. Le président ukrainien Volodymyr Zelensky a qualifié l'événement d'\"horrible frappe\" et a exhorté l'Amérique et l'Europe à mener des actions justes et résolues face à l'escalade militaire de Moscou.",
-      "contexte": "Les frappes contre les infrastructures civiles et de transport en Ukraine visent régulièrement à paralyser le pays et à saper le moral de la population. Kiev utilise ces bilans tragiques pour réclamer davantage d'aide militaire et de systèmes de défense antiaérienne à ses alliés occidentaux."
+      "date": "2026-10-29T20:00:18+01:00",
+      "resume": "Le ministre de l'Intérieur, Laurent Nuñez, a annoncé le déploiement de 70 000 policiers et gendarmes sur l'ensemble du territoire à l'occasion des manifestations du 31 octobre. Ce dispositif sécuritaire, qualifié d'exceptionnel, reproduit celui mis en place lors de la précédente journée de mobilisation du 24 octobre. Les autorités anticipent une journée à très haut risque, en particulier durant la soirée en raison des célébrations d'Halloween.",
+      "contexte": "Le maintien de l'ordre fait face à un double défi logistique en combinant l'encadrement de cortèges revendicatifs et la gestion des rassemblements festifs nocturnes propices aux débordements. Ce niveau de mobilisation policière vise à dissuader les groupes violents et à éviter les dégradations urbaines constatées lors de précédentes manifestations. Une telle présence massive sur le terrain implique une importante réorganisation des plannings des forces de sécurité."
+    },
+    {
+      "titre": "Stérilisations forcées au Pérou : après le classement de l’enquête, les victimes estiment que « la recherche de justice n’est pas terminée »",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/29/sterilisations-forcees-au-perou-apres-le-classement-de-l-enquete-les-victimes-estiment-que-la-recherche-de-justice-n-est-pas-terminee_6802381_3210.html",
+      "source": "Le Monde",
+      "date": "2026-10-29T20:00:07+01:00",
+      "resume": "Les victimes des stérilisations forcées au Pérou ont annoncé leur intention de saisir le parquet général des droits humains après le classement de leur dossier par le ministère public. L'enquête judiciaire portait sur des interventions imposées à des milliers de femmes autochtones durant la présidence d'Alberto Fujimori. Malgré la décision de clôture, les plaignantes affirment que leur combat pour obtenir justice n'est pas terminé.",
+      "contexte": "Ce programme de contrôle des naissances mené dans les années 1990 visait officiellement à réduire la pauvreté mais ciblait principalement des populations rurales et indigènes sans leur consentement éclairé. L'affaire est particulièrement sensible sur le plan politique car le pays est aujourd'hui dirigé par la fille de l'ancien dirigeant, Keiko Fujimori. Les associations espèrent désormais porter l'affaire devant des instances internationales de défense des droits humains si les recours internes échouent."
+    },
+    {
+      "titre": "Le cas Ali O., réfugié palestinien déchu de son statut, mis en examen pour terrorisme en France pour des actes commis en Cisjordanie, mobilise des rapporteurs spéciaux de l’ONU",
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/29/le-cas-ali-o-refugie-palestinien-dechu-de-son-statut-mis-en-examen-pour-terrorisme-en-france-pour-des-actes-commis-en-cisjordanie-mobilise-des-rapporteurs-speciaux-de-l-onu_6802380_3224.html",
+      "source": "Le Monde",
+      "date": "2026-10-29T20:00:05+01:00",
+      "resume": "Quatre rapporteurs spéciaux de l'Organisation des nations unies ont exprimé leur vive préoccupation au sujet de la situation d'Ali O., un réfugié palestinien de 36 ans poursuivi en France pour des actes commis en Cisjordanie. Placé en détention provisoire depuis deux ans et demi, l'homme s'est vu retirer son statut protecteur de réfugié. Cette déchéance s'est appuyée sur des éléments de renseignement directement transmis par les autorités israéliennes.",
+      "contexte": "Cette intervention onusienne souligne la complexité juridique posée par l'application du principe de compétence universelle en matière d'antiterrorisme sur des théâtres de conflit extérieurs. Les experts s'inquiètent fréquemment de l'utilisation d'informations issues de services de renseignement étrangers qui peuvent limiter les droits de la défense. L'affaire pose aussi la question de la protection internationale accordée aux demandeurs d'asile face à des accusations d'activités armées."
     }
   ],
   "culture": [
@@ -222,108 +230,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "2e01648473",
+      "id": "e1646f798e",
       "date": "2026-10-29",
       "type": "actu",
-      "question": "Qui a été élu à l'unanimité à la présidence du comité d'organisation des Jeux olympiques d'hiver Alpes 2030 ?",
+      "question": "Quel est le titre du livre du député Raphaël Arnault au cœur de la conférence annulée à Lyon ?",
       "choix": [
-        "Edgar Grospiron",
-        "Tony Estanguet",
-        "Martin Fourcade",
-        "Geoffroy Roux de Bézieux"
-      ],
-      "reponse": 3,
-      "explication": "Geoffroy Roux de Bézieux, ancien président du Medef, succède à Edgar Grospiron à la tête du comité d'organisation des JO d'hiver 2030.",
-      "lien": "https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/geoffroy-roux-de-bezieux-succede-a-edgar-grospiron-et-devient-le-nouveau-president-du-cojop-des-alpes-2030_8255530.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "e5ac29c314",
-      "date": "2026-10-29",
-      "type": "actu",
-      "question": "De quelle institution Christine Lagarde a-t-elle annoncé quitter la présidence de manière anticipée en février 2027 ?",
-      "choix": [
-        "La Commission européenne",
-        "Le Fonds monétaire international",
-        "La Banque centrale européenne",
-        "La Banque mondiale"
+        "Le combat militant",
+        "Résistance populaire",
+        "Antifasciste",
+        "La France insoumise"
       ],
       "reponse": 2,
-      "explication": "Christine Lagarde a annoncé qu'elle quitterait ses fonctions de présidente de la Banque centrale européenne (BCE) de façon anticipée en février 2027.",
-      "lien": "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html#xtor=RSS-3-[lestitres]"
+      "explication": "La conférence, annulée pour des motifs de sécurité, devait être l'occasion d'échanger autour de l'ouvrage de Raphaël Arnault intitulé « Antifasciste ».",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/lyon-annulation-d-une-conference-du-depute-lfi-raphael-arnault-pour-raisons-de-securite-decidee-par-une-mairie-d-arrondissement_6802385_823448.html"
     },
     {
-      "id": "a129a82863",
+      "id": "6f82f66b6a",
       "date": "2026-10-29",
       "type": "actu",
-      "question": "Quel montant d'amende la CNIL a-t-elle infligé au groupe Fnac Darty pour des manquements relatifs aux données personnelles ?",
+      "question": "Dans quel pays un hélicoptère militaire de la Force européenne s'est-il écrasé lors d'une opération de routine ?",
       "choix": [
-        "2 millions d'euros",
-        "50 millions d'euros",
-        "15 millions d'euros",
-        "7 millions d'euros"
-      ],
-      "reponse": 3,
-      "explication": "La CNIL a sanctionné Fnac Darty d'une amende de 7 millions d'euros, notamment en raison de sa gestion non conforme des cookies.",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/29/fnac-darty-sanctionne-d-une-amende-de-7-millions-d-euros-par-la-cnil-pour-non-respect-de-la-legislations-sur-les-donnees-personnelles_6802316_3234.html"
-    },
-    {
-      "id": "79cefd6239",
-      "date": "2026-10-29",
-      "type": "actu",
-      "question": "Dans quel domaine la figure militante américaine Dolores Huerta s'est-elle particulièrement illustrée dans les années 1960 et 1970 ?",
-      "choix": [
-        "L'industrie aérospatiale",
-        "La diplomatie auprès des Nations unies",
-        "La lutte syndicale des ouvriers agricoles latinos",
-        "L'essor de l'industrie cinématographique"
+        "En Espagne",
+        "En Grèce",
+        "En Bosnie-Herzégovine",
+        "En Italie"
       ],
       "reponse": 2,
-      "explication": "Dolores Huerta était une figure majeure du syndicalisme américain, reconnue pour avoir organisé la lutte des ouvriers agricoles latinos en Californie.",
-      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/29/dolores-huerta-legende-du-syndicalisme-et-de-la-gauche-aux-etats-unis-est-morte_6802318_3382.html"
+      "explication": "L'accident d'hélicoptère militaire italien de la Force européenne s'est déroulé en Bosnie-Herzégovine, faisant au moins quatre morts.",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/un-helicoptere-de-la-force-europeenne-militaire-s-ecrase-en-bosnie-au-moins-quatre-morts_8259398.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "2f610c0ca0",
+      "id": "73a980a17f",
       "date": "2026-10-29",
       "type": "actu",
-      "question": "Quel métier artistique exerce Bobby Pulido, candidat démocrate au Congrès américain dans une circonscription du Texas ?",
+      "question": "Quel hôtel particulier parisien l'État prévoit-il de vendre d'ici à 2027 pour générer des recettes immobilières ?",
       "choix": [
-        "Acteur de cinéma",
-        "Peintre",
-        "Chanteur",
-        "Romancier"
+        "L'hôtel de Brienne",
+        "L'hôtel Matignon",
+        "L'hôtel Beistegui",
+        "L'hôtel de Roquelaure"
       ],
       "reponse": 2,
-      "explication": "Bobby Pulido est un chanteur populaire aux allures de cow-boy qui tente de remporter un siège pour le parti démocrate au Congrès.",
-      "lien": "https://www.franceinfo.fr/culture/musique/au-texas-un-chanteur-aux-allures-de-cow-boy-bobby-pulido-tente-de-reconquerir-un-siege-democrate-au-congres_8258594.html#xtor=RSS-3-[lestitres]"
+      "explication": "L'hôtel Beistegui, qui accueille le Haut-Commissariat à la stratégie et au plan, doit être vendu par l'État dans le cadre d'un plan de cessions immobilières.",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/matignon-s-apprete-a-vendre-l-hotel-particulier-du-haut-commissariat-a-la-strategie-et-au-plan_6802384_823448.html"
     },
     {
-      "id": "b239a73211",
+      "id": "1a338cb731",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Combien de policiers et gendarmes ont été annoncés pour sécuriser les manifestations du 31 octobre en France ?",
+      "choix": [
+        "25 000",
+        "70 000",
+        "50 000",
+        "100 000"
+      ],
+      "reponse": 1,
+      "explication": "Le ministre de l'Intérieur a fait part de la mobilisation de 70 000 membres des forces de l'ordre sur le territoire national pour la journée du 31 octobre.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "b2ceb3d035",
+      "date": "2026-10-29",
+      "type": "actu",
+      "question": "Sous la présidence de quel dirigeant les stérilisations forcées ont-elles été infligées à des femmes autochtones au Pérou ?",
+      "choix": [
+        "Alberto Fujimori",
+        "Pedro Castillo",
+        "Alan García",
+        "Alejandro Toledo"
+      ],
+      "reponse": 0,
+      "explication": "Les stérilisations forcées au Pérou ont été pratiquées sous le mandat présidentiel d'Alberto Fujimori.",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/29/sterilisations-forcees-au-perou-apres-le-classement-de-l-enquete-les-victimes-estiment-que-la-recherche-de-justice-n-est-pas-terminee_6802381_3210.html"
+    },
+    {
+      "id": "cff2aea983",
       "date": "2026-10-29",
       "type": "culture",
-      "question": "En cuisine, à partir d'environ quelle température la réaction de Maillard commence-t-elle à se déclencher ?",
+      "question": "En cuisine, entre quels éléments la réaction de Maillard se produit-elle principalement ?",
       "choix": [
-        "100 °C",
-        "60 °C",
-        "200 °C",
-        "140 °C"
+        "Entre des acides aminés et des sucres réducteurs",
+        "Entre des acides gras et des sels minéraux",
+        "Entre de l'eau et de l'amidon",
+        "Entre des lipides et des vitamines"
       ],
-      "reponse": 3,
-      "explication": "La réaction de Maillard, qui provoque le brunissement et développe les arômes des aliments rôtis ou cuits, démarre généralement autour de 140 °C.",
+      "reponse": 0,
+      "explication": "La réaction de Maillard est une transformation chimique entre des acides aminés et des sucres réducteurs, donnant saveurs et couleur dorée à partir d'environ 140 °C.",
       "lien": ""
     },
     {
-      "id": "959f8e9fcf",
+      "id": "2788197f9b",
       "date": "2026-10-29",
       "type": "culture",
-      "question": "En quoi consiste la particularité du « sommeil unisphérique » pratiqué par les dauphins ?",
+      "question": "En quoi consiste le sommeil unisphérique pratiqué par les dauphins ?",
       "choix": [
-        "Leur cœur s'arrête de battre brièvement pendant le repos",
-        "Ils dorment uniquement la tête émergée",
-        "Une seule moitié du cerveau dort à la fois",
-        "Ils dorment exclusivement en groupe compact"
+        "Seule une moitié de leur cerveau s'endort à la fois",
+        "Ils cessent complètement de respirer pendant le repos",
+        "Leurs deux yeux restent fermés en permanence",
+        "Ils dorment immobiles tout au fond de l'eau"
       ],
-      "reponse": 2,
-      "explication": "Le sommeil unisphérique permet à un seul hémisphère cérébral de dormir à la fois, assurant au dauphin de continuer à respirer et à surveiller son environnement.",
+      "reponse": 0,
+      "explication": "Le sommeil unisphérique permet au dauphin de faire dormir un seul hémisphère cérébral à la fois afin de continuer à respirer et surveiller les prédateurs.",
       "lien": ""
     }
   ]
