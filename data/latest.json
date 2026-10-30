@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
-  "mode": "morning",
-  "updated": "2026-10-30T11:17:18.206713+01:00",
+  "mode": "evening",
+  "updated": "2026-10-30T13:03:27.587523+01:00",
   "deja_presente": [
     {
       "titre": "\"Joyeux Gauloinniversaire\" : Astérix fête son 67ème anniversaire avec une chanson inédite",
@@ -120,76 +120,76 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Manifestations du 31 octobre : la préfecture de police interdit les parcours dans le centre de Paris déposés par la CGT et les gilets jaunes",
+      "titre": "Vente de préservatifs non conformes : 15 références retirées et rappelées sur le marché européen après une enquête de la DGCCRF",
+      "lien": "https://www.franceinfo.fr/sante/vente-de-preservatifs-non-conformes-15-references-retirees-et-rappelees-sur-le-marche-europeen-apres-une-enquete-de-la-dgccrf_8260220.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-30T12:59:50+01:00",
+      "resume": "La Répression des fraudes (DGCCRF) a ordonné le retrait et le rappel d'environ sept millions de préservatifs répartis sur 15 références à travers le marché européen. Les produits concernés ont été fabriqués par un industriel malaisien. Les analyses ont mis en évidence des non-conformités et des défauts de fabrication susceptibles de provoquer des éclatements ou des perforations.",
+      "contexte": "Les préservatifs constituent des dispositifs médicaux soumis à des normes de sécurité et de résistance très strictes afin de prévenir les grossesses non désirées ainsi que la transmission d'infections sexuellement transmissibles. Ce vaste rappel vise à éliminer tout danger sanitaire pour les consommateurs et illustre les mécanismes de contrôle régulier exercés sur les biens importés dans l'Union européenne."
+    },
+    {
+      "titre": "Manifestations du 31 octobre : la préfecture de police ordonne un couvre-feu ce week-end dans plusieurs secteurs de Paris",
       "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-30T11:11:54+01:00",
-      "resume": "La préfecture de police a interdit les défilés prévus dans le centre de Paris par la CGT et les gilets jaunes pour la journée de mobilisation du 31 octobre. Les autorités ont ordonné aux deux cortèges de converger pour manifester en périphérie de la capitale. Le parcours imposé reliera la porte de Bagnolet à la porte de Charenton.",
-      "contexte": "La préfecture de police a régulièrement recours à des interdictions de parcours dans l'hypercentre parisien pour prévenir les troubles à l'ordre public, limiter les dégradations matérielles et éviter le blocage de zones à forte activité commerciale. Le choix de repousser les manifestations sur les boulevards extérieurs permet aux forces de l'ordre d'encadrer plus facilement les cortèges. Cette pratique est couramment dénoncée par les organisations syndicales qui y voient une entrave à la visibilité de leurs revendications citoyennes."
+      "date": "2026-10-30T12:52:11+01:00",
+      "resume": "La préfecture de police a interdit les parcours déposés dans le centre de Paris par la CGT et les gilets jaunes pour la journée de mobilisation du 31 octobre. Les autorités ont également ordonné un couvre-feu ce week-end dans plusieurs secteurs ciblés de la capitale. Les deux cortèges sont désormais contraints de converger et de défiler en périphérie, sur un itinéraire imposé entre la porte de Bagnolet et la porte de Charenton.",
+      "contexte": "Ce type de restriction est généralement pris par les autorités pour limiter les risques de troubles à l'ordre public, de dégradations ou de blocages des axes majeurs. Les décisions préfectorales restreignant les manifestations dans les centres-villes suscitent régulièrement des critiques de la part des syndicats et des collectifs, qui dénoncent une entrave à la liberté d'expression et au droit de manifester."
     },
     {
-      "titre": "EN DIRECT, guerre en Ukraine : Kiev et Moscou annoncent le début des évacuations humanitaires à Olechky, où un cessez-le-feu est en vigueur depuis plus de trois jours",
-      "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-et-moscou-annoncent-le-debut-des-evacuations-humanitaires-a-olechky-ou-un-cessez-le-feu-est-en-vigueur-depuis-plus-de-trois-jours_6799896_3210.html",
-      "source": "Le Monde",
-      "date": "2026-10-30T11:09:10+01:00",
-      "resume": "Kiev et Moscou ont annoncé le lancement d'évacuations humanitaires dans la ville d'Olechky, où un cessez-le-feu local est respecté depuis plus de trois jours. Le député ukrainien David Arakhamia, négociateur-clé pour l'Ukraine, a précisé que les opérations de distribution d'aide alimentaire avaient également commencé. Ces mesures visent à secourir les populations civiles bloquées dans la zone.",
-      "contexte": "L'instauration de couloirs humanitaires et de cessez-le-feu localisés est généralement négociée pour évacuer les populations vulnérables hors des zones directement touchées par les hostilités. Dans un conflit marqué par de violents affrontements d'artillerie et des infrastructures détruites, l'acheminement de vivres est vital pour les civils pris au piège. La réussite ou l'échec de telles trêves temporaires sert souvent de test pour la diplomatie de terrain entre belligérants."
-    },
-    {
-      "titre": "\"Nos ports sont utilisés comme des pions dans des conflits géopolitiques\" : pourquoi les dockers français et européens sont en grève",
-      "lien": "https://www.franceinfo.fr/economie/greve/nos-ports-sont-utilises-comme-des-pions-dans-des-conflits-geopolitiques-pourquoi-les-dockers-francais-et-europeens-sont-en-greve_8259995.html#xtor=RSS-3-[lestitres]",
+      "titre": "La police a-t-elle coopéré avec des militants d'ultradroite à Montpellier lors de la manifestation du samedi 24 octobre ?",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/enquete-franceinfo-la-police-a-t-elle-coopere-avec-des-militants-d-ultradroite-a-montpellier-lors-de-la-manifestation-du-samedi-24-octobre_8257252.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-30T11:03:55+01:00",
-      "resume": "Les personnels portuaires en France et en Europe ont entamé un arrêt de travail de 24 heures afin de protester contre l'utilisation de leurs infrastructures dans le cadre de tensions géopolitiques. Les dockers dénoncent notamment la militarisation croissante des installations maritimes. Le mouvement vise également à contester les choix budgétaires gouvernementaux et à préparer la grève nationale programmée le 5 novembre.",
-      "contexte": "Les infrastructures maritimes et portuaires représentent des nœuds stratégiques cruciaux pour les échanges mondiaux et la logistique d'approvisionnement des États. En période d'instabilité internationale, certains ports civils sont sollicités pour le transit de matériel militaire ou stratégique, ce qui suscite de vives contestations syndicales au nom de la neutralité ouvrière. Les syndicats de dockers disposent d'un pouvoir de blocage important, capable de perturber rapidement les chaînes d'approvisionnement industrielles et commerciales."
+      "date": "2026-10-30T12:45:55+01:00",
+      "resume": "Des interrogations émergent à la suite de la manifestation du samedi 24 octobre à Montpellier, où des soupçons d'entente entre policiers et groupes d'ultradroite ont été soulevés. Bien que le gouvernement réfute tout rapprochement entre les forces de sécurité et ces militants, plusieurs témoignages et éléments visuels collectés suggèrent une attitude de tolérance ou de non-intervention policière envers ces groupuscules.",
+      "contexte": "La gestion de l'ordre public lors de mobilisations confrontant l'extrême droite et des militants antifascistes fait souvent l'objet de vives polémiques en France. La neutralité des forces de l'ordre et le traitement différencié des cortèges sont régulièrement scrutés par les observateurs des libertés publiques et font l'objet de débats politiques récurrents."
     },
     {
-      "titre": "L'automobiliste mise en examen pour le meurtre du cycliste Paul Varry a été libéré sous bracelet électronique dans l'attente de son son procès",
-      "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/l-automobiliste-mise-en-examen-pour-le-meurtre-du-cycliste-paul-varry-a-ete-libere-sous-bracelet-electronique-dans-l-attente-de-son-son-proces_8259794.html#xtor=RSS-3-[lestitres]",
+      "titre": "Cameroun : Nouvelles révélations dans le procès de l'assassinat de Martinez Zogo",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-cameroun-nouvelles-r%C3%A9v%C3%A9lations-dans-le-proc%C3%A8s-de-l-assassinat-de-martinez-zogo",
+      "source": "France 24",
+      "date": "2026-10-30T12:41:19+01:00",
+      "resume": "Le procès de l'assassinat du journaliste Martinez Zogo au Cameroun a franchi un nouveau cap après plus de deux ans de procédure. Un officier supérieur de l'armée, écarté de l'enquête préliminaire et entendu en tant que 36ᵉ témoin, a livré une déposition explosive devant le tribunal. Il y a formellement dénoncé une enquête judiciaire tronquée et orientée par des motivations politiques.",
+      "contexte": "Martinez Zogo, un journaliste d'investigation très populaire qui dénonçait les détournements de fonds publics, a été enlevé et assassiné au début de l'année 2023. Cette affaire d'État implique de hauts fonctionnaires et des figures économiques influentes du pays, exposant au grand jour les luttes d'influence internes au sein du pouvoir camerounais."
+    },
+    {
+      "titre": "\"13h15 le samedi\". Le frappeur de Goudelin",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-samedi-le-frappeur-de-goudelin_8236384.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-30T12:37:09+01:00",
+      "resume": "Le village de Goudelin, situé dans les Côtes-d'Armor, subit depuis trois ans les agissements répétés d'un individu inconnu. Ce rôdeur opère au cœur de la nuit pour tambouriner avec insistance contre les portes de maisons habitées par des femmes. Malgré des investigations et une surveillance prolongée de la part des gendarmes, le suspect n'a toujours pas été identifié.",
+      "contexte": "Ce type de harcèlement nocturne crée un climat d'insécurité et d'angoisse durable dans les petites communes rurales, où la présence des forces de l'ordre est plus diffuse qu'en milieu urbain. L'absence d'éléments matériels ou de flagrant délit complique souvent le travail des enquêteurs dans les affaires d'intrusions répétées sans agression physique directe."
+    },
+    {
+      "titre": "En Géorgie, le rêve européen en sursis",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20261030-georgie-reve-europe-union-europeenne-sursis-reportage",
+      "source": "France 24",
+      "date": "2026-10-30T12:34:32+01:00",
+      "resume": "Des rassemblements quotidiens continuent de se dérouler à Tbilissi pour défendre l'intégration européenne de la Géorgie, malgré la répression policière. La contestation avait démarré fin 2024 après des élections législatives contestées, remportées par le parti au pouvoir « Rêve géorgien », et l'adoption d'une loi controversée sur les agents étrangers. Depuis, les autorités ont officialisé la suspension du processus d'adhésion du pays à l'Union européenne.",
+      "contexte": "La Géorgie traverse une crise politique majeure qui cristallise les tensions entre aspirations euro-atlantiques de la jeunesse et le rapprochement du gouvernement avec Moscou. La loi sur l'influence étrangère, inspirée de législations russes similaires, a gelé les relations avec Bruxelles et fragilise les espoirs de millions de Géorgiens d'ancrer leur pays dans les démocraties occidentales."
+    },
+    {
+      "titre": "Prise en charge des victimes de violences, statut de fonctionnaire pour les assistants scolaires… LFI fait adopter trois textes à l'Assemblée malgré l'obstruction de l'extrême droite",
+      "lien": "https://www.franceinfo.fr/politique/prise-en-charge-des-victimes-de-violences-assistants-scolaires-fonctionnaires-trois-succes-pour-lfi-a-l-assemblee-nationale-malgre-l-obstruction-de-l-extreme-droite_8259917.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-30T10:57:44+01:00",
-      "resume": "Le conducteur mis en examen pour le meurtre du cycliste Paul Varry a été remis en liberté sous surveillance électronique dans l'attente de son procès. La décision intervient deux ans après la survenue des faits. Selon ses avocats, plus aucun motif juridique ne justifiait le prolongement de sa détention provisoire.",
-      "contexte": "En droit français, la détention provisoire avant jugement est une mesure exceptionnelle qui doit répondre à des critères stricts, comme le risque de réitération, de fuite ou de pression sur les témoins. Lorsque ces critères ne s'appliquent plus, le placement sous bracelet électronique permet de concilier la présomption d'innocence et le contrôle strict des déplacements de l'accusé. La mort de Paul Varry avait suscité une vive émotion et relancé le débat sur le partage de l'espace public et la sécurité des usagers vulnérables de la route."
+      "date": "2026-10-30T12:32:46+01:00",
+      "resume": "La France insoumise est parvenue à faire adopter trois propositions de loi à l'Assemblée nationale lors de sa journée réservée. Ces textes concernent notamment la prise en charge des victimes de violences et l'octroi du statut de fonctionnaire pour les accompagnants scolaires. En revanche, un texte prolongeant jusqu'à 25 ans le suivi des jeunes de l'Aide sociale à l'enfance a été bloqué par le dépôt de 140 sous-amendements de l'extrême droite.",
+      "contexte": "Les journées de « niche parlementaire » permettent aux groupes d'opposition de soumettre leurs propres textes au vote, mais le temps d'examen y est strictement encadré par le règlement de l'Assemblée. Le dépôt massif d'amendements est une stratégie classique d'obstruction parlementaire destinée à épuiser le temps alloué pour empêcher le vote des mesures contestées."
     },
     {
-      "titre": "Visé par une cyberattaque massive, le géant des cryptomonnaies Binance gèle ses opérations et craint un préjudice de 6,3 milliards de dollars",
-      "lien": "https://www.franceinfo.fr/economie/bitcoin/vise-par-une-cyberattaque-massive-le-geant-des-cryptomonnaies-binance-gele-ses-operations-et-redoute-un-prejudice-de-6-3-milliards-de-dollars_8259938.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-30T10:50:26+01:00",
-      "resume": "La plateforme de cryptomonnaies Binance a gelé ses opérations après avoir été la cible d'une cyberattaque d'ampleur massive. L'entreprise craint un préjudice financier qui pourrait atteindre 6,3 milliards de dollars. D'après le co-PDG de la société, l'incident proviendrait du piratage de l'ordinateur d'un ingénieur informatique, ce qui a permis d'effectuer des retraits non autorisés lors d'une opération complexe.",
-      "contexte": "Les plateformes d'échange d'actifs numériques constituent des cibles privilégiées pour les cybercriminels en raison des volumes considérables de capitaux qui y transitent. Les attaques par compromission des accès internes d'employés représentent l'une des failles de sécurité les plus redoutées du secteur technologique. Un tel piratage risque d'accentuer la méfiance des investisseurs envers les dépositaires d'actifs numériques et de relancer les appels à une régulation internationale accrue des plateformes d'échange."
-    },
-    {
-      "titre": "\"Ils nous ont tués\" : bastion historique de la presse indépendante russe, le quotidien \"Novaïa Gazeta\" contraint de fermer sous la pression des autorités",
+      "titre": "\"Ils nous ont tués\" : bastion historique de la presse indépendante russe, le journal \"Novaïa Gazeta\" contraint de fermer sous la pression des autorités",
       "lien": "https://www.franceinfo.fr/monde/russie/ils-nous-ont-tues-le-bastion-historique-de-la-presse-independante-russe-oblige-de-fermer-sous-la-pression-des-autorites_8260061.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-30T10:48:27+01:00",
-      "resume": "Le journal indépendant russe « Novaïa Gazeta » a été contraint de cesser ses activités et a été expulsé de son siège moscovite historique, qu'il occupait depuis trente ans. Le média était internationalement reconnu pour ses enquêtes sur la corruption, les abus institutionnels et les atteintes aux droits humains. Cette fermeture intervient après une intensification des pressions exercées par les autorités locales.",
-      "contexte": "Depuis plusieurs années, et plus particulièrement depuis le début du conflit armé en Ukraine, la Russie a durci sa législation sur la presse, restreignant drastiquement la liberté d'informer. Fondé notamment avec l'aide du prix Nobel Mikhaïl Gorbatchev, le quotidien avait déjà vu plusieurs de ses journalistes assassinés par le passé en raison de leurs enquêtes. Cette expulsion marque la disparition de l'un des derniers bastions emblématiques du journalisme d'investigation indépendant opérant directement depuis le territoire russe."
+      "date": "2026-10-30T12:28:32+01:00",
+      "resume": "Le journal russe indépendant « Novaïa Gazeta » a été contraint de fermer définitivement sous la pression des autorités russes. Le quotidien a notamment été expulsé de son siège historique situé à Moscou, qu'il occupait depuis trente ans. Ce média était internationalement reconnu pour ses enquêtes approfondies sur la corruption, les violences institutionnelles et les violations des droits humains.",
+      "contexte": "Cette fermeture marque une nouvelle étape dans la répression de la liberté de la presse en Russie, particulièrement renforcée depuis le début du conflit en Ukraine. Confrontés à des lois très strictes sur la censure et à des poursuites judiciaires, la quasi-totalité des médias indépendants russes ont été fermés, interdits ou contraints de poursuivre leurs activités depuis l'étranger."
     },
     {
-      "titre": "Ignorer plutôt que bloquer : la méthode brésilienne pour invisibiliser l'extrême droite sur les réseaux",
-      "lien": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/ignorer-plutot-que-bloquer-la-methode-bresilienne-pour-invisibiliser-l-extreme-droite-sur-les-reseaux_8239486.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-30T10:47:32+01:00",
-      "resume": "Une nouvelle stratégie numérique venue du Brésil gagne du terrain sur les réseaux sociaux en France pour limiter l'exposition des idées d'extrême droite. Inspirée de pratiques nées après la réélection de Lula, la méthode préconise d'ignorer totalement ces publications plutôt que de les bloquer ou de les dénoncer. Les internautes sont ainsi invités à ne plus commenter ni partager ces contenus.",
-      "contexte": "Les algorithmes des grandes plateformes de réseaux sociaux valorisent avant tout l'engagement, ce qui favorise la diffusion des publications générant de fortes réactions, y compris l'indignation ou la controverse. En commentant ou en partageant un message pour le critiquer, les opposants augmentent involontairement sa visibilité mécanique auprès d'autres utilisateurs. Cette approche vise à assécher l'exposition algorithmique des discours radicaux en privant ces contenus de l'interaction qui assure leur viralité."
-    },
-    {
-      "titre": "Attentat raciste de Trappes : Yannick Jadot regrette l’absence d’Edouard Philippe et de Gabriel Attal au rassemblement en hommage aux victimes prévu vendredi soir",
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/attentat-raciste-de-trappes-yannick-jadot-regrette-l-absence-d-edouard-philippe-et-de-gabriel-attal-au-rassemblement-en-hommage-aux-victimes-prevu-vendredi-soir_6803029_823448.html",
+      "titre": "Arrêts maladie : les partenaires sociaux et le gouvernement négocient sous contrainte budgétaire en vue d’une réforme structurelle",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/arrets-maladie-les-partenaires-sociaux-et-le-gouvernement-negocient-sous-contrainte-budgetaire-en-vue-d-une-reforme-structurelle_6803077_823448.html",
       "source": "Le Monde",
-      "date": "2026-10-30T10:46:55+01:00",
-      "resume": "Plusieurs milliers de personnes sont attendues ce vendredi soir à Trappes pour un rassemblement en mémoire des victimes d'un attentat raciste perpétré une semaine plus tôt dans les Yvelines. Les principaux candidats de gauche à l'élection présidentielle ont annoncé leur présence à cet événement. L'écologiste Yannick Jadot a publiquement regretté l'absence annoncée d'Édouard Philippe et de Gabriel Attal.",
-      "contexte": "Les commémorations consécutives à des attaques ciblées deviennent fréquemment des moments d'expression politique et civique autour des valeurs républicaines et de la lutte contre le racisme. La présence ou l'absence de responsables politiques de premier rang lors de tels rassemblements suscite régulièrement des controverses partisanes en période préélectorale. Les divergences d'agendas et de positionnements face à ces hommages illustrent les clivages politiques sur la manière de répondre aux violences idéologiques."
-    },
-    {
-      "titre": "\"Il n'est pas du tout pour la violence\" : le père de l'homme suspecté d'être impliqué dans l'incendie de la mairie de Limoges s'exprime pour la première fois dans \"Envoyé spécial\"",
-      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-dans-envoye-special-le-pere-de-l-homme-de-34-ans-suspecte-d-etre-implique-dans-l-incendie-de-la-mairie-de-limoges-s-exprime-pour-la-premiere-fois_8259338.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-30T10:46:16+01:00",
-      "resume": "Un homme âgé de 34 ans a été interpellé trois jours après l'incendie survenu à l'hôtel de ville de Limoges. Le suspect est répertorié par les services de police pour son affiliation présumée à la mouvance de l'ultragauche. Son père est intervenu pour la première fois publiquement pour contester tout engagement violent ou radical de la part de son fils.",
-      "contexte": "Les dégradations et attaques ciblant des bâtiments institutionnels municipaux font systématiquement l'objet d'enquêtes prioritaires de la part des services judiciaires et de renseignement. Les services de sécurité surveillent de près les franges radicales susceptibles de mener des actions directes contre des symboles de l'État. Les déclarations des proches de suspects cherchent généralement à nuancer le profil décrit par les enquêteurs et à contester la qualification idéologique des actes poursuivis."
+      "date": "2026-10-30T12:14:25+01:00",
+      "resume": "Le gouvernement et les partenaires sociaux mènent des négociations en vue d'une réforme structurelle du régime des arrêts maladie. L'exécutif impose un cadre budgétaire strict et vise un objectif de 1 milliard d'euros d'économies. Face à ces contraintes financières, les syndicats et les représentants patronaux craignent que les échanges ne mettent de côté les enjeux cruciaux liés à la pénibilité et aux conditions de travail.",
+      "contexte": "La progression des dépenses d'indemnisation des arrêts de travail pèse lourdement sur les comptes de la Sécurité sociale, incitant régulièrement l'État à vouloir en durcir les conditions d'accès ou d'indemnisation. Les syndicats rappellent souvent que la dégradation de la santé des salariés découle d'un manque de prévention dans les entreprises, tandis que les employeurs s'inquiètent de possibles hausses de cotisations."
     }
   ],
   "culture": [
@@ -212,5 +212,111 @@
       "a_retenir": "Séparées par moins de quatre kilomètres dans le détroit de Béring, les îles Diomède marquent la frontière russo-américaine et affichent presque un jour entier de décalage horaire."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "3b9e52c432",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel organisme a ordonné le retrait de millions de préservatifs non conformes sur le marché européen ?",
+      "choix": [
+        "La police sanitaire internationale",
+        "L'Agence européenne des médicaments",
+        "L'Organisation mondiale de la santé",
+        "La DGCCRF (Répression des fraudes)"
+      ],
+      "reponse": 3,
+      "explication": "C'est la Répression des fraudes (DGCCRF) qui a ordonné le rappel des préservatifs fabriqués par un industriel malaisien.",
+      "lien": "https://www.franceinfo.fr/sante/vente-de-preservatifs-non-conformes-15-references-retirees-et-rappelees-sur-le-marche-europeen-apres-une-enquete-de-la-dgccrf_8260220.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "630e05cf8c",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quelle mesure la préfecture de police a-t-elle prise pour les manifestations du 31 octobre à Paris ?",
+      "choix": [
+        "Un couvre-feu et des parcours en périphérie imposés",
+        "Une gratuité des transports pour les manifestants",
+        "Une interdiction totale de manifester dans toute la France",
+        "Le déploiement de l'armée dans tout l'Hexagone"
+      ],
+      "reponse": 0,
+      "explication": "La préfecture a ordonné un couvre-feu dans certains secteurs et contraint les cortèges à défiler en périphérie sur un itinéraire imposé.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "8b5ab883ad",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Au Cameroun, le procès de l'assassinat de quel journaliste connaît de nouveaux rebondissements ?",
+      "choix": [
+        "Thierry Mbarga",
+        "Martinez Zogo",
+        "Jean-Paul Dia",
+        "Alain Foka"
+      ],
+      "reponse": 1,
+      "explication": "Le procès concerne l'assassinat du journaliste camerounais Martinez Zogo.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-cameroun-nouvelles-r%C3%A9v%C3%A9lations-dans-le-proc%C3%A8s-de-l-assassinat-de-martinez-zogo"
+    },
+    {
+      "id": "8793f352ef",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel pays a officialisé la suspension de son processus d'adhésion à l'Union européenne après des manifestations à Tbilissi ?",
+      "choix": [
+        "L'Ukraine",
+        "La Moldavie",
+        "L'Arménie",
+        "La Géorgie"
+      ],
+      "reponse": 3,
+      "explication": "Les rassemblements ont lieu à Tbilissi, la capitale de la Géorgie, où le pouvoir a suspendu le processus d'adhésion à l'UE.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20261030-georgie-reve-europe-union-europeenne-sursis-reportage"
+    },
+    {
+      "id": "ae38e94896",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel célèbre journal russe indépendant a été contraint de fermer sous la pression des autorités ?",
+      "choix": [
+        "Izvestia",
+        "Vedomosti",
+        "Kommersant",
+        "Novaïa Gazeta"
+      ],
+      "reponse": 3,
+      "explication": "Le journal « Novaïa Gazeta », bastion de la presse indépendante russe, a dû fermer et quitter son siège historique de Moscou.",
+      "lien": "https://www.franceinfo.fr/monde/russie/ils-nous-ont-tues-le-bastion-historique-de-la-presse-independante-russe-oblige-de-fermer-sous-la-pression-des-autorites_8260061.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "27932fb9fa",
+      "date": "2026-10-30",
+      "type": "culture",
+      "question": "Quel nom porte l'état de stase et de résistance extrême dans lequel entre le tardigrade en milieu hostile ?",
+      "choix": [
+        "La photosynthèse",
+        "La karyogamie",
+        "L'hibernation",
+        "La cryptobiose"
+      ],
+      "reponse": 3,
+      "explication": "En cas d'environnement hostile, le tardigrade entre en cryptobiose en expulsant la quasi-totalité de l'eau de son corps.",
+      "lien": ""
+    },
+    {
+      "id": "1cde4debd4",
+      "date": "2026-10-30",
+      "type": "culture",
+      "question": "Quelle contrainte formelle majeure Georges Perec s'est-il imposée pour écrire son roman 'La Disparition' ?",
+      "choix": [
+        "Écrire entièrement en vers alexandrins",
+        "Utiliser uniquement des phrases de moins de cinq mots",
+        "Ne pas utiliser la lettre 'e'",
+        "Interdire l'usage de tout pronom personnel"
+      ],
+      "reponse": 2,
+      "explication": "Le roman 'La Disparition' est un lipogramme rédigé sans employer une seule fois la lettre 'e'.",
+      "lien": ""
+    }
+  ]
 }

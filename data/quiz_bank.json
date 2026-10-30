@@ -1634,6 +1634,111 @@
       "reponse": 0,
       "explication": "Le sommeil unisphérique permet au dauphin de garder un hémisphère éveillé pour remonter volontairement respirer à la surface et surveiller son environnement.",
       "lien": ""
+    },
+    {
+      "id": "3b9e52c432",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel organisme a ordonné le retrait de millions de préservatifs non conformes sur le marché européen ?",
+      "choix": [
+        "La police sanitaire internationale",
+        "L'Agence européenne des médicaments",
+        "L'Organisation mondiale de la santé",
+        "La DGCCRF (Répression des fraudes)"
+      ],
+      "reponse": 3,
+      "explication": "C'est la Répression des fraudes (DGCCRF) qui a ordonné le rappel des préservatifs fabriqués par un industriel malaisien.",
+      "lien": "https://www.franceinfo.fr/sante/vente-de-preservatifs-non-conformes-15-references-retirees-et-rappelees-sur-le-marche-europeen-apres-une-enquete-de-la-dgccrf_8260220.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "630e05cf8c",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quelle mesure la préfecture de police a-t-elle prise pour les manifestations du 31 octobre à Paris ?",
+      "choix": [
+        "Un couvre-feu et des parcours en périphérie imposés",
+        "Une gratuité des transports pour les manifestants",
+        "Une interdiction totale de manifester dans toute la France",
+        "Le déploiement de l'armée dans tout l'Hexagone"
+      ],
+      "reponse": 0,
+      "explication": "La préfecture a ordonné un couvre-feu dans certains secteurs et contraint les cortèges à défiler en périphérie sur un itinéraire imposé.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "8b5ab883ad",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Au Cameroun, le procès de l'assassinat de quel journaliste connaît de nouveaux rebondissements ?",
+      "choix": [
+        "Thierry Mbarga",
+        "Martinez Zogo",
+        "Jean-Paul Dia",
+        "Alain Foka"
+      ],
+      "reponse": 1,
+      "explication": "Le procès concerne l'assassinat du journaliste camerounais Martinez Zogo.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-cameroun-nouvelles-r%C3%A9v%C3%A9lations-dans-le-proc%C3%A8s-de-l-assassinat-de-martinez-zogo"
+    },
+    {
+      "id": "8793f352ef",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel pays a officialisé la suspension de son processus d'adhésion à l'Union européenne après des manifestations à Tbilissi ?",
+      "choix": [
+        "L'Ukraine",
+        "La Moldavie",
+        "L'Arménie",
+        "La Géorgie"
+      ],
+      "reponse": 3,
+      "explication": "Les rassemblements ont lieu à Tbilissi, la capitale de la Géorgie, où le pouvoir a suspendu le processus d'adhésion à l'UE.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20261030-georgie-reve-europe-union-europeenne-sursis-reportage"
+    },
+    {
+      "id": "ae38e94896",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel célèbre journal russe indépendant a été contraint de fermer sous la pression des autorités ?",
+      "choix": [
+        "Izvestia",
+        "Vedomosti",
+        "Kommersant",
+        "Novaïa Gazeta"
+      ],
+      "reponse": 3,
+      "explication": "Le journal « Novaïa Gazeta », bastion de la presse indépendante russe, a dû fermer et quitter son siège historique de Moscou.",
+      "lien": "https://www.franceinfo.fr/monde/russie/ils-nous-ont-tues-le-bastion-historique-de-la-presse-independante-russe-oblige-de-fermer-sous-la-pression-des-autorites_8260061.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "27932fb9fa",
+      "date": "2026-10-30",
+      "type": "culture",
+      "question": "Quel nom porte l'état de stase et de résistance extrême dans lequel entre le tardigrade en milieu hostile ?",
+      "choix": [
+        "La photosynthèse",
+        "La karyogamie",
+        "L'hibernation",
+        "La cryptobiose"
+      ],
+      "reponse": 3,
+      "explication": "En cas d'environnement hostile, le tardigrade entre en cryptobiose en expulsant la quasi-totalité de l'eau de son corps.",
+      "lien": ""
+    },
+    {
+      "id": "1cde4debd4",
+      "date": "2026-10-30",
+      "type": "culture",
+      "question": "Quelle contrainte formelle majeure Georges Perec s'est-il imposée pour écrire son roman 'La Disparition' ?",
+      "choix": [
+        "Écrire entièrement en vers alexandrins",
+        "Utiliser uniquement des phrases de moins de cinq mots",
+        "Ne pas utiliser la lettre 'e'",
+        "Interdire l'usage de tout pronom personnel"
+      ],
+      "reponse": 2,
+      "explication": "Le roman 'La Disparition' est un lipogramme rédigé sans employer une seule fois la lettre 'e'.",
+      "lien": ""
     }
   ]
 }
