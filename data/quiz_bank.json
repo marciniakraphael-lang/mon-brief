@@ -1739,6 +1739,111 @@
       "reponse": 2,
       "explication": "Le roman 'La Disparition' est un lipogramme rédigé sans employer une seule fois la lettre 'e'.",
       "lien": ""
+    },
+    {
+      "id": "e674aebb3b",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel sénateur républicain a redouté une défaite de son parti au Texas à l'approche des élections de mi-mandat aux États-Unis ?",
+      "choix": [
+        "Marco Rubio",
+        "Ted Cruz",
+        "Donald Trump",
+        "Mitch McConnell"
+      ],
+      "reponse": 1,
+      "explication": "Le sénateur républicain Ted Cruz a exprimé ses craintes concernant une potentielle défaite de son parti au Texas.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-maga-pourquoi-le-camp-de-trump-se-fracture-d%C3%A9cryptage-disponible-sur-youtube"
+    },
+    {
+      "id": "5c496a8b0c",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel ministre de l'Intérieur français a mobilisé environ 70 000 membres des forces de l'ordre en prévision des manifestations du 31 octobre ?",
+      "choix": [
+        "Laurent Nuñez",
+        "Christophe Castaner",
+        "Gérald Darmanin",
+        "Bruno Retailleau"
+      ],
+      "reponse": 0,
+      "explication": "Face aux risques de débordements lors des manifestations du 31 octobre, le ministre de l'Intérieur Laurent Nuñez a mobilisé près de 70 000 membres des forces de l'ordre.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "83a61aab7e",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "À la suite de frappes de missiles russes ayant fait 20 morts parmi des civils, quelle ville n'a PAS été mentionnée parmi les cibles dans le rapport ?",
+      "choix": [
+        "Dnipro",
+        "Krementchouk",
+        "Kharkiv",
+        "Tchernihiv"
+      ],
+      "reponse": 2,
+      "explication": "Les villes touchées par ces frappes et mentionnées dans l'article sont Dnipro, Tchernihiv et Krementchouk.",
+      "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-demande-une-reunion-d-urgence-du-conseil-de-securite-de-l-onu_6799896_3210.html"
+    },
+    {
+      "id": "ae95d85eac",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Dans quelle ville des Yvelines un rassemblement contre le racisme et l'islamophobie a-t-il eu lieu à la suite d'un attentat raciste ?",
+      "choix": [
+        "Trappes",
+        "Mantes-la-Jolie",
+        "Poissy",
+        "Saint-Germain-en-Laye"
+      ],
+      "reponse": 0,
+      "explication": "Le maire de Trappes a pris la parole lors de ce rassemblement pour accuser le Rassemblement national.",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "a5f84c67fb",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel type d'exécution ratée a suscité un débat aux États-Unis, selon le témoignage de Christa Pike ?",
+      "choix": [
+        "La pendaison",
+        "La chaise électrique",
+        "L'injection létale",
+        "Le peloton d'exécution"
+      ],
+      "reponse": 2,
+      "explication": "Le témoignage de Christa Pike fait suite à une exécution ratée par injection létale aux États-Unis.",
+      "lien": "https://www.franceinfo.fr/monde/usa/il-n-y-a-pas-eu-un-seul-moment-depuis-cette-nuit-la-ou-je-n-ai-pas-souffert-temoigne-christa-pike-apres-avoir-survecu-a-son-execution-aux-etats-unis_8260529.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "a0a35be008",
+      "date": "2026-10-30",
+      "type": "culture",
+      "question": "Quel état d'endormissement ou de stase extrême permet au tardigrade de survivre à des environnements hostiles ?",
+      "choix": [
+        "La cryptobiose",
+        "La catatonie",
+        "L'hibernation",
+        "L'anabiose"
+      ],
+      "reponse": 0,
+      "explication": "Le tardigrade entre en cryptobiose en expulsant la quasi-totalité de l'eau de son corps pour résister au gel ou aux radiations.",
+      "lien": ""
+    },
+    {
+      "id": "3c47aa4e1d",
+      "date": "2026-10-30",
+      "type": "culture",
+      "question": "Quelle contrainte formelle majeure l'écrivain Georges Perec s'est-il imposée pour rédiger son roman « La Disparition » en 1969 ?",
+      "choix": [
+        "Écrire sans utiliser la lettre 'e'",
+        "Utiliser uniquement des monosyllabes",
+        "Ne pas employer de verbes au passé",
+        "Rédiger sans aucun signe de ponctuation"
+      ],
+      "reponse": 0,
+      "explication": "« La Disparition » est un lipogramme célèbre écrit entièrement sans la lettre 'e', la plus fréquente de la langue française.",
+      "lien": ""
     }
   ]
 }
