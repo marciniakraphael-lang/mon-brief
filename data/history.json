@@ -275,6 +275,83 @@
           "contexte": "La recrudescence des cyberattaques ciblant des administrations publiques met en lumière la vulnérabilité des systèmes informatiques étatiques face à des groupes de pirates informatiques souvent jeunes mais organisés. Les enquêtes s'appuient sur la traçabilité numérique pour identifier les auteurs de ces vols d'informations sensibles."
         }
       ]
+    },
+    "2026-10-30": {
+      "morning_run": "2026-10-30T11:17:18.206713+01:00",
+      "morning_items": [
+        {
+          "titre": "Manifestations du 31 octobre : la préfecture de police interdit les parcours dans le centre de Paris déposés par la CGT et les gilets jaunes",
+          "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-30T11:11:54+01:00",
+          "resume": "La préfecture de police a interdit les défilés prévus dans le centre de Paris par la CGT et les gilets jaunes pour la journée de mobilisation du 31 octobre. Les autorités ont ordonné aux deux cortèges de converger pour manifester en périphérie de la capitale. Le parcours imposé reliera la porte de Bagnolet à la porte de Charenton.",
+          "contexte": "La préfecture de police a régulièrement recours à des interdictions de parcours dans l'hypercentre parisien pour prévenir les troubles à l'ordre public, limiter les dégradations matérielles et éviter le blocage de zones à forte activité commerciale. Le choix de repousser les manifestations sur les boulevards extérieurs permet aux forces de l'ordre d'encadrer plus facilement les cortèges. Cette pratique est couramment dénoncée par les organisations syndicales qui y voient une entrave à la visibilité de leurs revendications citoyennes."
+        },
+        {
+          "titre": "EN DIRECT, guerre en Ukraine : Kiev et Moscou annoncent le début des évacuations humanitaires à Olechky, où un cessez-le-feu est en vigueur depuis plus de trois jours",
+          "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-et-moscou-annoncent-le-debut-des-evacuations-humanitaires-a-olechky-ou-un-cessez-le-feu-est-en-vigueur-depuis-plus-de-trois-jours_6799896_3210.html",
+          "source": "Le Monde",
+          "date": "2026-10-30T11:09:10+01:00",
+          "resume": "Kiev et Moscou ont annoncé le lancement d'évacuations humanitaires dans la ville d'Olechky, où un cessez-le-feu local est respecté depuis plus de trois jours. Le député ukrainien David Arakhamia, négociateur-clé pour l'Ukraine, a précisé que les opérations de distribution d'aide alimentaire avaient également commencé. Ces mesures visent à secourir les populations civiles bloquées dans la zone.",
+          "contexte": "L'instauration de couloirs humanitaires et de cessez-le-feu localisés est généralement négociée pour évacuer les populations vulnérables hors des zones directement touchées par les hostilités. Dans un conflit marqué par de violents affrontements d'artillerie et des infrastructures détruites, l'acheminement de vivres est vital pour les civils pris au piège. La réussite ou l'échec de telles trêves temporaires sert souvent de test pour la diplomatie de terrain entre belligérants."
+        },
+        {
+          "titre": "\"Nos ports sont utilisés comme des pions dans des conflits géopolitiques\" : pourquoi les dockers français et européens sont en grève",
+          "lien": "https://www.franceinfo.fr/economie/greve/nos-ports-sont-utilises-comme-des-pions-dans-des-conflits-geopolitiques-pourquoi-les-dockers-francais-et-europeens-sont-en-greve_8259995.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-30T11:03:55+01:00",
+          "resume": "Les personnels portuaires en France et en Europe ont entamé un arrêt de travail de 24 heures afin de protester contre l'utilisation de leurs infrastructures dans le cadre de tensions géopolitiques. Les dockers dénoncent notamment la militarisation croissante des installations maritimes. Le mouvement vise également à contester les choix budgétaires gouvernementaux et à préparer la grève nationale programmée le 5 novembre.",
+          "contexte": "Les infrastructures maritimes et portuaires représentent des nœuds stratégiques cruciaux pour les échanges mondiaux et la logistique d'approvisionnement des États. En période d'instabilité internationale, certains ports civils sont sollicités pour le transit de matériel militaire ou stratégique, ce qui suscite de vives contestations syndicales au nom de la neutralité ouvrière. Les syndicats de dockers disposent d'un pouvoir de blocage important, capable de perturber rapidement les chaînes d'approvisionnement industrielles et commerciales."
+        },
+        {
+          "titre": "L'automobiliste mise en examen pour le meurtre du cycliste Paul Varry a été libéré sous bracelet électronique dans l'attente de son son procès",
+          "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/l-automobiliste-mise-en-examen-pour-le-meurtre-du-cycliste-paul-varry-a-ete-libere-sous-bracelet-electronique-dans-l-attente-de-son-son-proces_8259794.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-30T10:57:44+01:00",
+          "resume": "Le conducteur mis en examen pour le meurtre du cycliste Paul Varry a été remis en liberté sous surveillance électronique dans l'attente de son procès. La décision intervient deux ans après la survenue des faits. Selon ses avocats, plus aucun motif juridique ne justifiait le prolongement de sa détention provisoire.",
+          "contexte": "En droit français, la détention provisoire avant jugement est une mesure exceptionnelle qui doit répondre à des critères stricts, comme le risque de réitération, de fuite ou de pression sur les témoins. Lorsque ces critères ne s'appliquent plus, le placement sous bracelet électronique permet de concilier la présomption d'innocence et le contrôle strict des déplacements de l'accusé. La mort de Paul Varry avait suscité une vive émotion et relancé le débat sur le partage de l'espace public et la sécurité des usagers vulnérables de la route."
+        },
+        {
+          "titre": "Visé par une cyberattaque massive, le géant des cryptomonnaies Binance gèle ses opérations et craint un préjudice de 6,3 milliards de dollars",
+          "lien": "https://www.franceinfo.fr/economie/bitcoin/vise-par-une-cyberattaque-massive-le-geant-des-cryptomonnaies-binance-gele-ses-operations-et-redoute-un-prejudice-de-6-3-milliards-de-dollars_8259938.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-30T10:50:26+01:00",
+          "resume": "La plateforme de cryptomonnaies Binance a gelé ses opérations après avoir été la cible d'une cyberattaque d'ampleur massive. L'entreprise craint un préjudice financier qui pourrait atteindre 6,3 milliards de dollars. D'après le co-PDG de la société, l'incident proviendrait du piratage de l'ordinateur d'un ingénieur informatique, ce qui a permis d'effectuer des retraits non autorisés lors d'une opération complexe.",
+          "contexte": "Les plateformes d'échange d'actifs numériques constituent des cibles privilégiées pour les cybercriminels en raison des volumes considérables de capitaux qui y transitent. Les attaques par compromission des accès internes d'employés représentent l'une des failles de sécurité les plus redoutées du secteur technologique. Un tel piratage risque d'accentuer la méfiance des investisseurs envers les dépositaires d'actifs numériques et de relancer les appels à une régulation internationale accrue des plateformes d'échange."
+        },
+        {
+          "titre": "\"Ils nous ont tués\" : bastion historique de la presse indépendante russe, le quotidien \"Novaïa Gazeta\" contraint de fermer sous la pression des autorités",
+          "lien": "https://www.franceinfo.fr/monde/russie/ils-nous-ont-tues-le-bastion-historique-de-la-presse-independante-russe-oblige-de-fermer-sous-la-pression-des-autorites_8260061.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-30T10:48:27+01:00",
+          "resume": "Le journal indépendant russe « Novaïa Gazeta » a été contraint de cesser ses activités et a été expulsé de son siège moscovite historique, qu'il occupait depuis trente ans. Le média était internationalement reconnu pour ses enquêtes sur la corruption, les abus institutionnels et les atteintes aux droits humains. Cette fermeture intervient après une intensification des pressions exercées par les autorités locales.",
+          "contexte": "Depuis plusieurs années, et plus particulièrement depuis le début du conflit armé en Ukraine, la Russie a durci sa législation sur la presse, restreignant drastiquement la liberté d'informer. Fondé notamment avec l'aide du prix Nobel Mikhaïl Gorbatchev, le quotidien avait déjà vu plusieurs de ses journalistes assassinés par le passé en raison de leurs enquêtes. Cette expulsion marque la disparition de l'un des derniers bastions emblématiques du journalisme d'investigation indépendant opérant directement depuis le territoire russe."
+        },
+        {
+          "titre": "Ignorer plutôt que bloquer : la méthode brésilienne pour invisibiliser l'extrême droite sur les réseaux",
+          "lien": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/ignorer-plutot-que-bloquer-la-methode-bresilienne-pour-invisibiliser-l-extreme-droite-sur-les-reseaux_8239486.html#xtor=RSS-3-%5Bgeneral%5D",
+          "source": "franceinfo Monde",
+          "date": "2026-10-30T10:47:32+01:00",
+          "resume": "Une nouvelle stratégie numérique venue du Brésil gagne du terrain sur les réseaux sociaux en France pour limiter l'exposition des idées d'extrême droite. Inspirée de pratiques nées après la réélection de Lula, la méthode préconise d'ignorer totalement ces publications plutôt que de les bloquer ou de les dénoncer. Les internautes sont ainsi invités à ne plus commenter ni partager ces contenus.",
+          "contexte": "Les algorithmes des grandes plateformes de réseaux sociaux valorisent avant tout l'engagement, ce qui favorise la diffusion des publications générant de fortes réactions, y compris l'indignation ou la controverse. En commentant ou en partageant un message pour le critiquer, les opposants augmentent involontairement sa visibilité mécanique auprès d'autres utilisateurs. Cette approche vise à assécher l'exposition algorithmique des discours radicaux en privant ces contenus de l'interaction qui assure leur viralité."
+        },
+        {
+          "titre": "Attentat raciste de Trappes : Yannick Jadot regrette l’absence d’Edouard Philippe et de Gabriel Attal au rassemblement en hommage aux victimes prévu vendredi soir",
+          "lien": "https://www.lemonde.fr/politique/article/2026/10/30/attentat-raciste-de-trappes-yannick-jadot-regrette-l-absence-d-edouard-philippe-et-de-gabriel-attal-au-rassemblement-en-hommage-aux-victimes-prevu-vendredi-soir_6803029_823448.html",
+          "source": "Le Monde",
+          "date": "2026-10-30T10:46:55+01:00",
+          "resume": "Plusieurs milliers de personnes sont attendues ce vendredi soir à Trappes pour un rassemblement en mémoire des victimes d'un attentat raciste perpétré une semaine plus tôt dans les Yvelines. Les principaux candidats de gauche à l'élection présidentielle ont annoncé leur présence à cet événement. L'écologiste Yannick Jadot a publiquement regretté l'absence annoncée d'Édouard Philippe et de Gabriel Attal.",
+          "contexte": "Les commémorations consécutives à des attaques ciblées deviennent fréquemment des moments d'expression politique et civique autour des valeurs républicaines et de la lutte contre le racisme. La présence ou l'absence de responsables politiques de premier rang lors de tels rassemblements suscite régulièrement des controverses partisanes en période préélectorale. Les divergences d'agendas et de positionnements face à ces hommages illustrent les clivages politiques sur la manière de répondre aux violences idéologiques."
+        },
+        {
+          "titre": "\"Il n'est pas du tout pour la violence\" : le père de l'homme suspecté d'être impliqué dans l'incendie de la mairie de Limoges s'exprime pour la première fois dans \"Envoyé spécial\"",
+          "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-dans-envoye-special-le-pere-de-l-homme-de-34-ans-suspecte-d-etre-implique-dans-l-incendie-de-la-mairie-de-limoges-s-exprime-pour-la-premiere-fois_8259338.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-10-30T10:46:16+01:00",
+          "resume": "Un homme âgé de 34 ans a été interpellé trois jours après l'incendie survenu à l'hôtel de ville de Limoges. Le suspect est répertorié par les services de police pour son affiliation présumée à la mouvance de l'ultragauche. Son père est intervenu pour la première fois publiquement pour contester tout engagement violent ou radical de la part de son fils.",
+          "contexte": "Les dégradations et attaques ciblant des bâtiments institutionnels municipaux font systématiquement l'objet d'enquêtes prioritaires de la part des services judiciaires et de renseignement. Les services de sécurité surveillent de près les franges radicales susceptibles de mener des actions directes contre des symboles de l'État. Les déclarations des proches de suspects cherchent généralement à nuancer le profil décrit par les enquêteurs et à contester la qualification idéologique des actes poursuivis."
+        }
+      ]
     }
   },
   "culture_seen": [
@@ -298,6 +375,9 @@
     "L'origine colorée des pages du Financial Times",
     "L'encre électronique",
     "Le principe de la réaction de Maillard",
-    "Le sommeil unisphérique des dauphins"
+    "Le sommeil unisphérique des dauphins",
+    "L'incroyable résistance du tardigrade",
+    "Le tour de force de « La Disparition »",
+    "Les îles Diomède, la frontière du temps"
   ]
 }
