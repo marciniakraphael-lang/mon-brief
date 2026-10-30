@@ -1844,6 +1844,111 @@
       "reponse": 0,
       "explication": "« La Disparition » est un lipogramme célèbre écrit entièrement sans la lettre 'e', la plus fréquente de la langue française.",
       "lien": ""
+    },
+    {
+      "id": "69eef063a8",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Où s'est tenue la COP17 au cours de laquelle des textes pour la biodiversité ont été adoptés ?",
+      "choix": [
+        "À Nicosie à Chypre",
+        "À Tbilissi en Géorgie",
+        "À Bakou en Azerbaïdjan",
+        "À Erevan en Arménie"
+      ],
+      "reponse": 3,
+      "explication": "Près de 200 États membres ont adopté des textes majeurs pour la biodiversité à l'issue de la COP17 organisée à Erevan, en Arménie.",
+      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261030-cop17-textes-cl%C3%A9s-adopt%C3%A9s-protection-terres-oc%C3%A9ans-lutte-contre-pollution-biodiversit%C3%A9-arm%C3%A9nie-erevan"
+    },
+    {
+      "id": "3135068101",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quelle décision a récemment prise la Confédération africaine de football (CAF) concernant la Coupe d'Afrique des nations (CAN) ?",
+      "choix": [
+        "L'organiser conjointement avec l'Asie",
+        "La remplacer définitivement par la Ligue des nations",
+        "La faire disputer tous les quatre ans",
+        "Maintenir son organisation tous les deux ans"
+      ],
+      "reponse": 3,
+      "explication": "La CAF a fait machine arrière et a voté à l'unanimité pour le maintien de la compétition tous les deux ans, renonçant au passage à un rythme quadriennal.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261030-caf-r%C3%A9trop%C3%A9dale-can-se-jouera-de-nouveau-tous-deux-ans"
+    },
+    {
+      "id": "d32c0d95a3",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel événement dramatique a provoqué de vives inquiétudes et des dizaines de disparitions en Espagne ?",
+      "choix": [
+        "Un glissement de terrain majeur",
+        "Un déraillement de train",
+        "Une collision ferroviaire",
+        "L'effondrement d'un viaduc routier"
+      ],
+      "reponse": 2,
+      "explication": "Le drame en Espagne a été causé par une collision ferroviaire qui a laissé 67 personnes portées disparues.",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/en-espagne-les-familles-entre-la-colere-et-le-desespoir-apres-la-tragedie_8261027.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "3067e3562d",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "En Pologne, l'éviction de quel haut responsable a entraîné le déploiement de la police antiémeute à Varsovie ?",
+      "choix": [
+        "Le procureur général de la République",
+        "Le président du Tribunal constitutionnel",
+        "Le ministre de l'Intérieur",
+        "Le président de la Cour suprême"
+      ],
+      "reponse": 1,
+      "explication": "L'éviction du président du Tribunal constitutionnel polonais a provoqué de fortes tensions et le blocage de l'accès à la juridiction par les forces de l'ordre.",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/30/en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-deployee-a-varsovie_6803134_3210.html"
+    },
+    {
+      "id": "38b0b36175",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Combien de stations de métro parisiennes ont été fermées le 31 octobre en raison des manifestations ?",
+      "choix": [
+        "L'intégralité du réseau métropolitain",
+        "Plus de 40 stations",
+        "Environ 25 stations",
+        "Moins d'une dizaine"
+      ],
+      "reponse": 1,
+      "explication": "Plus de 40 stations de métro ont été fermées par mesure de sécurité à Paris lors de cette journée de mobilisation.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "72ca7c48d1",
+      "date": "2026-10-30",
+      "type": "culture",
+      "question": "Comment nomme-t-on l'état d'inactivité métabolique quasi totale dans lequel plonge le tardigrade pour résister à des conditions extrêmes ?",
+      "choix": [
+        "La cryptobiose",
+        "La catalepsie",
+        "La parthénogenèse",
+        "L'estivation"
+      ],
+      "reponse": 0,
+      "explication": "Face à des environnements hostiles, le tardigrade entre en cryptobiose : il vide son corps de son eau et suspend presque totalement son métabolisme.",
+      "lien": ""
+    },
+    {
+      "id": "099128c792",
+      "date": "2026-10-30",
+      "type": "culture",
+      "question": "Quelle contrainte littéraire Georges Perec s'est-il imposée pour écrire son célèbre roman « La Disparition » ?",
+      "choix": [
+        "Ne jamais employer la lettre « e »",
+        "Écrire entièrement l'ouvrage sous forme de lipogramme en « a »",
+        "Rédiger chaque phrase sous forme d'alexandrin",
+        "N'utiliser aucun adjectif qualificatif"
+      ],
+      "reponse": 0,
+      "explication": "« La Disparition » est un lipogramme de trois cents pages entièrement rédigé sans employer la voyelle « e », la plus courante de la langue française.",
+      "lien": ""
     }
   ]
 }

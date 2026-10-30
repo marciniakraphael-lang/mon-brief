@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "mode": "evening",
-  "updated": "2026-10-30T20:50:01.596690+01:00",
+  "updated": "2026-10-30T22:59:41.052197+01:00",
   "deja_presente": [
     {
       "titre": "\"Joyeux Gauloinniversaire\" : Astérix fête son 67ème anniversaire avec une chanson inédite",
@@ -120,60 +120,76 @@
   ],
   "aujourdhui": [
     {
-      "titre": "MAGA : pourquoi le camp de Trump se fracture - Décryptage disponible sur YouTube",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-maga-pourquoi-le-camp-de-trump-se-fracture-d%C3%A9cryptage-disponible-sur-youtube",
-      "source": "France 24 · Le Monde · franceinfo Monde",
-      "date": "2026-10-30T20:30:44+01:00",
-      "resume": "À l'approche des élections de mi-mandat prévues le 3 novembre aux États-Unis, le mouvement MAGA et le camp républicain font face à des tensions internes et à des inquiétudes sur leur mobilisation. Le sénateur républicain Ted Cruz a notamment redouté une défaite de son parti au Texas. De leur côté, les démocrates sont donnés favoris dans les sondages pour renouveler la Chambre des représentants et un tiers du Sénat.",
-      "contexte": "Ces élections de mi-mandat constituent un test majeur pour l'administration de Donald Trump, dont la fin de mandat pourrait être fortement compliquée en cas de défaite de son camp. Les divisions au sein de la droite américaine et la forte mobilisation potentielle des démocrates illustrent la polarisation politique du pays sur des sujets économiques et internationaux."
+      "titre": "À la COP17, des textes clés adoptés pour protéger la biodiversité",
+      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261030-cop17-textes-cl%C3%A9s-adopt%C3%A9s-protection-terres-oc%C3%A9ans-lutte-contre-pollution-biodiversit%C3%A9-arm%C3%A9nie-erevan",
+      "source": "France 24",
+      "date": "2026-10-30T22:53:48+01:00",
+      "resume": "Près de 200 États membres ont adopté, vendredi à Erevan en Arménie, des textes clés pour la protection de la biodiversité à l'issue de la COP17. Les accords conclus fixent 23 objectifs à respecter d'ici 2030, incluant notamment la protection de 30 % des terres et des océans. Un texte spécifique a également été consacré aux moyens financiers nécessaires pour atteindre ces objectifs environnementaux.",
+      "contexte": "Les sommets de la COP sur la biodiversité visent à enrayer l'effondrement du vivant et la disparition massive des espèces, exacerbés par les activités humaines et le changement climatique. L'enjeu principal de ces accords réside dans la mise en œuvre effective des financements promis par les pays développés pour aider les nations du Sud à protéger leurs écosystèmes. Atteindre l'objectif de 30 % de zones protégées d'ici 2030 nécessite des transformations profondes des politiques agricoles, industrielles et maritimes à l'échelle mondiale."
+    },
+    {
+      "titre": "Halloween et manifestations : interdit de dissimuler son visage ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261030-halloween-et-manifestations-interdit-de-dissimuler-son-visage",
+      "source": "France 24",
+      "date": "2026-10-30T22:40:13+01:00",
+      "resume": "La préfecture de police a rappelé mercredi que dissimuler son visage dans l'espace public est passible d'une amende, y compris pendant la fête d'Halloween, provoquant un vif débat. Cette mise au point soulève des interrogations juridiques quant à son application réelle lors de cette fête traditionnelle ainsi que dans le cadre des manifestations, où certains appels incitent les participants à se masquer.",
+      "contexte": "En France, la loi interdit la dissimulation du visage dans l'espace public de manière générale en vertu de la loi de 2010, mais des tolérances existent pour des événements festifs spécifiques comme le carnaval ou Halloween. Cependant, lors des manifestations, l'utilisation de cagoules ou de masques par certains protestataires pour échapper aux identifications est un sujet récurrent de tension avec les forces de l'ordre. Les autorités cherchent souvent à concilier le droit de manifester avec le maintien de l'ordre et l'interdiction de la dissimulation faciale."
+    },
+    {
+      "titre": "\"La France, c'est nous\" : une semaine après l'attentat raciste à Trappes, un rassemblement \"pour faire face aux discours xénophobes\"",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-france-c-est-nous-une-semaine-apres-l-attentat-raciste-a-trappes-un-rassemblement-pour-faire-face-aux-discours-xenophobes_8260991.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-30T22:33:25+01:00",
+      "resume": "Un rassemblement contre le racisme et l'islamophobie s'est tenu vendredi soir à Trappes, dans les Yvelines, une semaine après un attentat raciste perpétré le 23 octobre. Cette attaque a coûté la vie à Pengo Bossio Wangi, un homme noir de 26 ans, et a fait sept blessés, dont une fillette. L'événement, marqué par la présence de milliers de personnes et de figures politiques de gauche, a également mis en lumière l'inquiétude profonde qui gagne les habitants, notamment les enfants et les personnes âgées.",
+      "contexte": "Cet attentat tragique relance le débat public sur la montée des actes racistes et islamophobes en France, ainsi que sur le rôle du climat politique et des discours xénophobes dans le passage à l'acte violent. Les réactions locales témoignent d'un traumatisme profond au sein des populations ciblées, qui s'interrogent sur leur sécurité et leur place dans la société. Ces drames entraînent généralement une mobilisation politique intense pour réclamer l'unité républicaine et lutter contre les discriminations."
+    },
+    {
+      "titre": "La CAF rétropédale : la CAN se jouera de nouveau tous les deux ans",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261030-caf-r%C3%A9trop%C3%A9dale-can-se-jouera-de-nouveau-tous-deux-ans",
+      "source": "France 24",
+      "date": "2026-10-30T21:27:23+01:00",
+      "resume": "La Confédération africaine de football (CAF) a décidé à l'unanimité de faire machine arrière en maintenant la Coupe d'Afrique des nations (CAN) tous les deux ans. Le comité exécutif a acté que la compétition continentale ne passerait donc pas à un rythme quadriennal. Cette décision relance les interrogations sur les choix sportifs et politiques de l'instance ainsi que sur l'avenir de la future Ligue des nations africaine.",
+      "contexte": "L'organisation de la CAN à un rythme bisannuel est un sujet de discussion récurrent en raison des tensions calendaires avec les clubs européens employant de nombreux joueurs internationaux africains. La pression des grands clubs et des sélections pour espacer la compétition se heurte souvent à la volonté politique de la CAF de préserver la visibilité et les revenus du tournoi. Le maintien du format tous les deux ans illustre l'importance majeure de cette vitrine sportive pour le continent."
+    },
+    {
+      "titre": "Le pape Léon XIV a voté pour les élections de mi-mandat aux Etats-Unis",
+      "lien": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-a-vote-pour-les-elections-de-mi-mandat-aux-etats-unis_8261009.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-30T21:26:17+01:00",
+      "resume": "Le Vatican a annoncé vendredi que le pape Léon XIV avait voté dans le cadre des élections de mi-mandat aux États-Unis. Par ce geste, le souverain pontife a tenu à exprimer sa conviction concernant le droit et le devoir des citoyens de participer aux processus démocratiques.",
+      "contexte": "Il est rare que le Vatican commente ou détaille la participation électorale du pape, mais les déclarations soulignent l'importance accordée par l'Église aux valeurs civiques et à la stabilité démocratique. Les élections de mi-mandat américaines constituent un moment politique crucial qui influence directement l'équilibre du pouvoir au Congrès. La prise de position, même indirecte, rappelle l'engagement moral du Saint-Siège sur les questions de citoyenneté."
+    },
+    {
+      "titre": "En Espagne, les familles entre la colère et le désespoir après la tragédie",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/en-espagne-les-familles-entre-la-colere-et-le-desespoir-apres-la-tragedie_8261027.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-30T21:23:03+01:00",
+      "resume": "Deux jours après la collision ferroviaire survenue en Espagne, les familles des 67 personnes toujours portées disparues font face à une attente insoutenable. Alors que les autorités préviennent que les chances de retrouver des survivants sont désormais infimes, les proches réclament une accélération des identifications pendant que l'enquête se poursuit pour déterminer les causes exactes du drame.",
+      "contexte": "Les accidents ferroviaires d'une telle ampleur nécessitent des enquêtes techniques complexes menées par des agences spécialisées pour identifier les défaillances matérielles, humaines ou de signalisation. L'étape de l'identification des victimes, souvent longue et douloureuse, requiert des expertises médico-légales rigoureuses. Ces drames provoquent généralement une onde de choc nationale et relancent le débat sur la sécurité des infrastructures de transport."
+    },
+    {
+      "titre": "En Pologne, le président du Tribunal constitutionnel écarté, la police déployée à Varsovie",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/30/en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-deployee-a-varsovie_6803134_3210.html",
+      "source": "Le Monde",
+      "date": "2026-10-30T21:12:22+01:00",
+      "resume": "Le président du Tribunal constitutionnel a été écarté de ses fonctions en Pologne, provoquant un déploiement de la police antiémeute à Varsovie. Des dizaines de forces de l'ordre ont barré l'accès à l'enceinte de la plus haute juridiction pour faire face aux nombreux militants du parti national-conservateur Droit et justice venus soutenir le magistrat.",
+      "contexte": "Ces tensions autour des institutions judiciaires s'inscrivent dans un contexte de luttes politiques intérieures intérieures en Pologne, où les réformes de la justice et l'indépendance des magistrats font l'objet de vifs affrontements entre le pouvoir en place et l'opposition nationaliste. L'intervention des forces de l'ordre illustre la polarisation extrême de la vie politique polonaise. Le contrôle des juridictions suprêmes constitue un enjeu démocratique fondamental dans le pays."
     },
     {
       "titre": "Manifestations du 31 octobre : plus de 40 stations de métro fermées à Paris, des couvre-feux imposés dans plusieurs villes",
       "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-30T20:26:02+01:00",
-      "resume": "En prévision des manifestations du 31 octobre, plus de 40 stations de métro seront fermées à Paris et des couvre-feux ont été imposés dans plusieurs villes. Un bras de fer judiciaire a opposé la préfecture et les organisateurs concernant le tracé de la manifestation entre Bastille et Nation, le tribunal administratif ayant suspendu l'interdiction initiale avant un appel du gouvernement. Face à un risque très élevé de débordements, le ministre de l'Intérieur Laurent Nuñez a mobilisé environ 70 000 membres des forces de l'ordre.",
-      "contexte": "Ce dispositif sécuritaire d'envergure reflète les tensions sociales et politiques actuelles en France, où la gestion de l'ordre public lors des mouvements de contestation fait régulièrement l'objet de désaccords juridiques et politiques. Les restrictions de circulation visent à prévenir les dégradations et à sécuriser les centres urbains."
+      "date": "2026-10-30T20:48:21+01:00",
+      "resume": "Plus de 40 stations de métro ont été fermées à Paris en raison des manifestations prévues le 31 octobre, certaines fermetures intervenant dès 5h30 et d'autres plus tard dans la journée, notamment à Châtelet et Les Halles. Des mesures de restriction similaires, incluant des couvre-feux, ont également été imposées dans plusieurs autres villes françaises.",
+      "contexte": "À l'approche de certaines journées de mobilisation ou de fêtes sensibles comme Halloween, les autorités durcissent régulièrement les mesures de sécurité pour prévenir les risques de débordements ou de violences urbaines. La fermeture ciblée des transports en commun permet de limiter les attroupements et de contrôler les flux de circulation dans les zones à risque. Ces mesures visent à protéger les biens et les personnes tout en maintenant l'ordre public."
     },
     {
-      "titre": "Un apéro avec Laura Cahen : « Qu’est-ce que ça peut faire si je préfère une fille dans mon lit ? »",
-      "lien": "https://www.lemonde.fr/m-perso/article/2026/10/30/un-apero-avec-laura-cahen-qu-est-ce-que-ca-peut-faire-si-je-prefere-une-fille-dans-mon-lit_6803132_4497916.html",
-      "source": "Le Monde",
-      "date": "2026-10-30T20:08:34+01:00",
-      "resume": "La chanteuse et compositrice Laura Cahen s'est confiée dans un entretien sur son évolution artistique et l'affirmation publique de son homosexualité, alors qu'elle poursuit sa tournée pour ses disques « De l'autre côté » et « Side by Side ».",
-      "contexte": "Ce type de témoignage personnel s'inscrit dans un dialogue culturel régulier entre les artistes et leur public, permettant de mettre en lumière des parcours individuels et des questions d'identité à travers la création musicale."
-    },
-    {
-      "titre": "EN DIRECT, guerre en Ukraine : Kiev demande une réunion d’urgence du Conseil de sécurité de l’ONU",
-      "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-demande-une-reunion-d-urgence-du-conseil-de-securite-de-l-onu_6799896_3210.html",
-      "source": "Le Monde",
-      "date": "2026-10-30T20:03:25+01:00",
-      "resume": "À la suite de frappes de missiles russes sur des civils dans les villes de Dnipro, Tchernihiv et Krementchouk, ayant entraîné la mort de 20 Ukrainiens et fait de nombreux blessés, Kiev a demandé la convocation d'une réunion d'urgence du Conseil de sécurité de l'ONU.",
-      "contexte": "Cette saisine des Nations unies s'inscrit dans la stratégie diplomatique de l'Ukraine visant à maintenir la pression internationale sur la Russie et à documenter les atteintes aux civils. Le Conseil de sécurité, bloqué par le droit de veto de Moscou sur les résolutions de fond, sert néanmoins de tribune pour dénoncer ces attaques."
-    },
-    {
-      "titre": "Attentat raciste dans les Yvelines : le maire de Trappes accuse le RN d'avoir \"inoculé la haine\" dans l'esprit de l'auteur de l'attaque",
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-30T19:37:35+01:00",
-      "resume": "Un rassemblement contre le racisme et l'islamophobie a réuni des milliers de personnes, dont plusieurs figures politiques de gauche, à Trappes, à la suite d'un attentat raciste. Le maire de Trappes a publiquement accusé le Rassemblement national d'avoir propagé la haine à l'origine de cet acte.",
-      "contexte": "Ce type d'événement met en lumière les fractures politiques en France autour des questions d'intégration, de racisme et de la sécurité publique. Les réactions des élus illustrent les vifs débats sur la responsabilité du discours politique dans la recrudescence des actes violents."
-    },
-    {
-      "titre": "Croissance, dette, crise sociale : la France sous pression",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261030-croissance-dette-crise-sociale-la-france-sous-pression",
-      "source": "France 24",
-      "date": "2026-10-30T19:23:47+01:00",
-      "resume": "L'économie française fait face à des difficultés marquées par une croissance au point mort, le retour de l'inflation, un niveau de dette publique élevé et des tensions sociales et politiques accompagnées d'actes violents.",
-      "contexte": "Ces difficultés s'expliquent par un contexte international instable et des contraintes budgétaires structurelles qui limitent les marges de manœuvre de l'État. Les gouvernements successifs doivent arbitrer entre la nécessité de redresser les finances publiques et celle de soutenir le pouvoir d'achat des ménages."
-    },
-    {
-      "titre": "\"Il n'y a pas eu un seul moment depuis cette nuit-là où je n'ai pas souffert\", témoigne Christa Pike après avoir survécu à son exécution aux Etats-Unis",
-      "lien": "https://www.franceinfo.fr/monde/usa/il-n-y-a-pas-eu-un-seul-moment-depuis-cette-nuit-la-ou-je-n-ai-pas-souffert-temoigne-christa-pike-apres-avoir-survecu-a-son-execution-aux-etats-unis_8260529.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-30T19:22:38+01:00",
-      "resume": "Christa Pike a témoigné de sa survie après une exécution ratée aux États-Unis, un événement sans précédent dans le pays qui a ravivé le débat sur l'application de la peine capitale, en particulier par injection létale.",
-      "contexte": "La question de la peine de mort reste un sujet de vive controverse juridique et éthique aux États-Unis. Les dysfonctionnements rapportés lors des exécutions alimentent régulièrement les recours devant les tribunaux pour violation de l'interdiction des châtiments cruels."
+      "titre": "MAGA : pourquoi le camp de Trump se fracture - Décryptage disponible sur YouTube",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-maga-pourquoi-le-camp-de-trump-se-fracture-d%C3%A9cryptage-disponible-sur-youtube",
+      "source": "France 24 · Le Monde",
+      "date": "2026-10-30T20:30:44+01:00",
+      "resume": "À l'approche des élections de mi-mandat américaines du 3 novembre, les tensions politiques s'intensifient, illustrées par les inquiétudes du sénateur républicain Ted Cruz qui redoute une défaite au Texas face à une forte mobilisation démocrate. En parallèle, le mouvement MAGA de Donald Trump fait face à des fractures internes visibles sur des sujets tels que la guerre en Iran, le coût de la vie ou l'affaire Epstein, questionnant la capacité de mobilisation de sa base.",
+      "contexte": "Les midterms constituent traditionnellement un test électoral majeur pour l'administration en place et modifient l'équilibre du pouvoir au Congrès américain. Les divisions au sein du camp républicain reflètent les luttes d'influence entre l'aile populiste historique et d'autres sensibilités du parti à l'approche des échéances futures. La forte mobilisation de l'opposition démocrate complique la stratégie des conservateurs dans des États historiquement ancrés à droite comme le Texas."
     }
   ],
   "culture": [
@@ -198,108 +214,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "e674aebb3b",
+      "id": "69eef063a8",
       "date": "2026-10-30",
       "type": "actu",
-      "question": "Quel sénateur républicain a redouté une défaite de son parti au Texas à l'approche des élections de mi-mandat aux États-Unis ?",
+      "question": "Où s'est tenue la COP17 au cours de laquelle des textes pour la biodiversité ont été adoptés ?",
       "choix": [
-        "Marco Rubio",
-        "Ted Cruz",
-        "Donald Trump",
-        "Mitch McConnell"
+        "À Nicosie à Chypre",
+        "À Tbilissi en Géorgie",
+        "À Bakou en Azerbaïdjan",
+        "À Erevan en Arménie"
       ],
-      "reponse": 1,
-      "explication": "Le sénateur républicain Ted Cruz a exprimé ses craintes concernant une potentielle défaite de son parti au Texas.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-maga-pourquoi-le-camp-de-trump-se-fracture-d%C3%A9cryptage-disponible-sur-youtube"
+      "reponse": 3,
+      "explication": "Près de 200 États membres ont adopté des textes majeurs pour la biodiversité à l'issue de la COP17 organisée à Erevan, en Arménie.",
+      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261030-cop17-textes-cl%C3%A9s-adopt%C3%A9s-protection-terres-oc%C3%A9ans-lutte-contre-pollution-biodiversit%C3%A9-arm%C3%A9nie-erevan"
     },
     {
-      "id": "5c496a8b0c",
+      "id": "3135068101",
       "date": "2026-10-30",
       "type": "actu",
-      "question": "Quel ministre de l'Intérieur français a mobilisé environ 70 000 membres des forces de l'ordre en prévision des manifestations du 31 octobre ?",
+      "question": "Quelle décision a récemment prise la Confédération africaine de football (CAF) concernant la Coupe d'Afrique des nations (CAN) ?",
       "choix": [
-        "Laurent Nuñez",
-        "Christophe Castaner",
-        "Gérald Darmanin",
-        "Bruno Retailleau"
+        "L'organiser conjointement avec l'Asie",
+        "La remplacer définitivement par la Ligue des nations",
+        "La faire disputer tous les quatre ans",
+        "Maintenir son organisation tous les deux ans"
       ],
-      "reponse": 0,
-      "explication": "Face aux risques de débordements lors des manifestations du 31 octobre, le ministre de l'Intérieur Laurent Nuñez a mobilisé près de 70 000 membres des forces de l'ordre.",
+      "reponse": 3,
+      "explication": "La CAF a fait machine arrière et a voté à l'unanimité pour le maintien de la compétition tous les deux ans, renonçant au passage à un rythme quadriennal.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261030-caf-r%C3%A9trop%C3%A9dale-can-se-jouera-de-nouveau-tous-deux-ans"
+    },
+    {
+      "id": "d32c0d95a3",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Quel événement dramatique a provoqué de vives inquiétudes et des dizaines de disparitions en Espagne ?",
+      "choix": [
+        "Un glissement de terrain majeur",
+        "Un déraillement de train",
+        "Une collision ferroviaire",
+        "L'effondrement d'un viaduc routier"
+      ],
+      "reponse": 2,
+      "explication": "Le drame en Espagne a été causé par une collision ferroviaire qui a laissé 67 personnes portées disparues.",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/en-espagne-les-familles-entre-la-colere-et-le-desespoir-apres-la-tragedie_8261027.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "3067e3562d",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "En Pologne, l'éviction de quel haut responsable a entraîné le déploiement de la police antiémeute à Varsovie ?",
+      "choix": [
+        "Le procureur général de la République",
+        "Le président du Tribunal constitutionnel",
+        "Le ministre de l'Intérieur",
+        "Le président de la Cour suprême"
+      ],
+      "reponse": 1,
+      "explication": "L'éviction du président du Tribunal constitutionnel polonais a provoqué de fortes tensions et le blocage de l'accès à la juridiction par les forces de l'ordre.",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/30/en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-deployee-a-varsovie_6803134_3210.html"
+    },
+    {
+      "id": "38b0b36175",
+      "date": "2026-10-30",
+      "type": "actu",
+      "question": "Combien de stations de métro parisiennes ont été fermées le 31 octobre en raison des manifestations ?",
+      "choix": [
+        "L'intégralité du réseau métropolitain",
+        "Plus de 40 stations",
+        "Environ 25 stations",
+        "Moins d'une dizaine"
+      ],
+      "reponse": 1,
+      "explication": "Plus de 40 stations de métro ont été fermées par mesure de sécurité à Paris lors de cette journée de mobilisation.",
       "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "83a61aab7e",
-      "date": "2026-10-30",
-      "type": "actu",
-      "question": "À la suite de frappes de missiles russes ayant fait 20 morts parmi des civils, quelle ville n'a PAS été mentionnée parmi les cibles dans le rapport ?",
-      "choix": [
-        "Dnipro",
-        "Krementchouk",
-        "Kharkiv",
-        "Tchernihiv"
-      ],
-      "reponse": 2,
-      "explication": "Les villes touchées par ces frappes et mentionnées dans l'article sont Dnipro, Tchernihiv et Krementchouk.",
-      "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-demande-une-reunion-d-urgence-du-conseil-de-securite-de-l-onu_6799896_3210.html"
-    },
-    {
-      "id": "ae95d85eac",
-      "date": "2026-10-30",
-      "type": "actu",
-      "question": "Dans quelle ville des Yvelines un rassemblement contre le racisme et l'islamophobie a-t-il eu lieu à la suite d'un attentat raciste ?",
-      "choix": [
-        "Trappes",
-        "Mantes-la-Jolie",
-        "Poissy",
-        "Saint-Germain-en-Laye"
-      ],
-      "reponse": 0,
-      "explication": "Le maire de Trappes a pris la parole lors de ce rassemblement pour accuser le Rassemblement national.",
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "a5f84c67fb",
-      "date": "2026-10-30",
-      "type": "actu",
-      "question": "Quel type d'exécution ratée a suscité un débat aux États-Unis, selon le témoignage de Christa Pike ?",
-      "choix": [
-        "La pendaison",
-        "La chaise électrique",
-        "L'injection létale",
-        "Le peloton d'exécution"
-      ],
-      "reponse": 2,
-      "explication": "Le témoignage de Christa Pike fait suite à une exécution ratée par injection létale aux États-Unis.",
-      "lien": "https://www.franceinfo.fr/monde/usa/il-n-y-a-pas-eu-un-seul-moment-depuis-cette-nuit-la-ou-je-n-ai-pas-souffert-temoigne-christa-pike-apres-avoir-survecu-a-son-execution-aux-etats-unis_8260529.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "a0a35be008",
+      "id": "72ca7c48d1",
       "date": "2026-10-30",
       "type": "culture",
-      "question": "Quel état d'endormissement ou de stase extrême permet au tardigrade de survivre à des environnements hostiles ?",
+      "question": "Comment nomme-t-on l'état d'inactivité métabolique quasi totale dans lequel plonge le tardigrade pour résister à des conditions extrêmes ?",
       "choix": [
         "La cryptobiose",
-        "La catatonie",
-        "L'hibernation",
-        "L'anabiose"
+        "La catalepsie",
+        "La parthénogenèse",
+        "L'estivation"
       ],
       "reponse": 0,
-      "explication": "Le tardigrade entre en cryptobiose en expulsant la quasi-totalité de l'eau de son corps pour résister au gel ou aux radiations.",
+      "explication": "Face à des environnements hostiles, le tardigrade entre en cryptobiose : il vide son corps de son eau et suspend presque totalement son métabolisme.",
       "lien": ""
     },
     {
-      "id": "3c47aa4e1d",
+      "id": "099128c792",
       "date": "2026-10-30",
       "type": "culture",
-      "question": "Quelle contrainte formelle majeure l'écrivain Georges Perec s'est-il imposée pour rédiger son roman « La Disparition » en 1969 ?",
+      "question": "Quelle contrainte littéraire Georges Perec s'est-il imposée pour écrire son célèbre roman « La Disparition » ?",
       "choix": [
-        "Écrire sans utiliser la lettre 'e'",
-        "Utiliser uniquement des monosyllabes",
-        "Ne pas employer de verbes au passé",
-        "Rédiger sans aucun signe de ponctuation"
+        "Ne jamais employer la lettre « e »",
+        "Écrire entièrement l'ouvrage sous forme de lipogramme en « a »",
+        "Rédiger chaque phrase sous forme d'alexandrin",
+        "N'utiliser aucun adjectif qualificatif"
       ],
       "reponse": 0,
-      "explication": "« La Disparition » est un lipogramme célèbre écrit entièrement sans la lettre 'e', la plus fréquente de la langue française.",
+      "explication": "« La Disparition » est un lipogramme de trois cents pages entièrement rédigé sans employer la voyelle « e », la plus courante de la langue française.",
       "lien": ""
     }
   ]
