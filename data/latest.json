@@ -1,322 +1,248 @@
 {
-  "date": "2026-10-30",
-  "mode": "evening",
-  "updated": "2026-10-30T22:59:41.052197+01:00",
+  "date": "2026-10-31",
+  "mode": "morning",
+  "updated": "2026-10-31T10:50:42.847205+01:00",
   "deja_presente": [
     {
-      "titre": "\"Joyeux Gauloinniversaire\" : Astérix fête son 67ème anniversaire avec une chanson inédite",
-      "lien": "https://www.franceinfo.fr/culture/bd/joyeux-gauloinniversaire-une-chanson-pour-feter-les-67-ans-d-asterix-et-obelix_8258573.html#xtor=RSS-3-[lestitres]",
+      "titre": "Manifestations du 31 octobre : la préfecture de police interdit les parcours dans le centre de Paris déposés par la CGT et les gilets jaunes",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T11:10:08+01:00",
-      "resume": "À l'occasion du 67e anniversaire d'Astérix, une chanson inédite intitulée \"Joyeux Gauloinniversaire\" a été dévoilée jeudi. Produite par les Éditions Albert René, elle est interprétée par l'artiste Roland Karl pour célébrer la célèbre bande dessinée.",
-      "contexte": "La franchise Astérix demeure l'un des piliers de la culture populaire franco-belge et fait régulièrement l'objet d'opérations marketing et culturelles d'envergure pour entretenir sa popularité intergénérationnelle. Ces anniversaires sont l'occasion de rappeler le poids économique et patrimonial de la BD créée par Goscinny et Uderzo."
+      "date": "2026-10-30T11:11:54+01:00",
+      "resume": "La préfecture de police a interdit les défilés prévus dans le centre de Paris par la CGT et les gilets jaunes pour la journée de mobilisation du 31 octobre. Les autorités ont ordonné aux deux cortèges de converger pour manifester en périphérie de la capitale. Le parcours imposé reliera la porte de Bagnolet à la porte de Charenton.",
+      "contexte": "La préfecture de police a régulièrement recours à des interdictions de parcours dans l'hypercentre parisien pour prévenir les troubles à l'ordre public, limiter les dégradations matérielles et éviter le blocage de zones à forte activité commerciale. Le choix de repousser les manifestations sur les boulevards extérieurs permet aux forces de l'ordre d'encadrer plus facilement les cortèges. Cette pratique est couramment dénoncée par les organisations syndicales qui y voient une entrave à la visibilité de leurs revendications citoyennes."
     },
     {
-      "titre": "TotalEnergies affiche des profits record, dopés par les tensions mondiales sur le gazole",
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-affiche-des-profits-record-dopes-par-les-tensions-mondiales-sur-le-gazole_6802305_3234.html",
+      "titre": "EN DIRECT, guerre en Ukraine : Kiev et Moscou annoncent le début des évacuations humanitaires à Olechky, où un cessez-le-feu est en vigueur depuis plus de trois jours",
+      "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-et-moscou-annoncent-le-debut-des-evacuations-humanitaires-a-olechky-ou-un-cessez-le-feu-est-en-vigueur-depuis-plus-de-trois-jours_6799896_3210.html",
       "source": "Le Monde",
-      "date": "2026-10-29T11:05:07+01:00",
-      "resume": "La major pétrolière française TotalEnergies a annoncé un bénéfice net en forte hausse de 124 % sur un an pour le troisième trimestre, atteignant 8,3 milliards de dollars. Cette progression est notamment portée par des raffineries tournant à plein régime et par les tensions sur le marché mondial du gazole.",
-      "contexte": "Les entreprises du secteur énergétique ont profité ces derniers mois des perturbations géopolitiques et de la volatilité des cours du pétrole et du gaz pour dégager des profits records. Ces résultats relancent régulièrement le débat politique sur la taxation des superprofits et le pouvoir d'achat des consommateurs face à la cherté des carburants."
+      "date": "2026-10-30T11:09:10+01:00",
+      "resume": "Kiev et Moscou ont annoncé le lancement d'évacuations humanitaires dans la ville d'Olechky, où un cessez-le-feu local est respecté depuis plus de trois jours. Le député ukrainien David Arakhamia, négociateur-clé pour l'Ukraine, a précisé que les opérations de distribution d'aide alimentaire avaient également commencé. Ces mesures visent à secourir les populations civiles bloquées dans la zone.",
+      "contexte": "L'instauration de couloirs humanitaires et de cessez-le-feu localisés est généralement négociée pour évacuer les populations vulnérables hors des zones directement touchées par les hostilités. Dans un conflit marqué par de violents affrontements d'artillerie et des infrastructures détruites, l'acheminement de vivres est vital pour les civils pris au piège. La réussite ou l'échec de telles trêves temporaires sert souvent de test pour la diplomatie de terrain entre belligérants."
     },
     {
-      "titre": "Santé publique France a recensé 441 morts par noyade entre mai et août, principalement pendant les canicules",
-      "lien": "https://www.franceinfo.fr/faits-divers/noyades/entre-le-1er-mai-et-le-31-aout-441-morts-par-noyade-principalement-pendant-les-canicules-denombre-sante-publique-france_8258543.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Nos ports sont utilisés comme des pions dans des conflits géopolitiques\" : pourquoi les dockers français et européens sont en grève",
+      "lien": "https://www.franceinfo.fr/economie/greve/nos-ports-sont-utilises-comme-des-pions-dans-des-conflits-geopolitiques-pourquoi-les-dockers-francais-et-europeens-sont-en-greve_8259995.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T10:56:18+01:00",
-      "resume": "Santé publique France a recensé 441 décès par noyade entre les mois de mai et d'août. L'organisme souligne que 82 % de ces drames mortels se sont produits au cours de périodes de \"vigilance canicule\".",
-      "contexte": "Les épisodes de forte chaleur incitent naturellement la population à se baigner pour se rafraîchir, ce qui accroît les risques de noyade, en particulier chez les personnes vulnérables ou en raison de chocs thermiques. Les campagnes de prévention rappellent chaque année l'importance de la surveillance accrue et du respect des consignes de sécurité aquatique."
+      "date": "2026-10-30T11:03:55+01:00",
+      "resume": "Les personnels portuaires en France et en Europe ont entamé un arrêt de travail de 24 heures afin de protester contre l'utilisation de leurs infrastructures dans le cadre de tensions géopolitiques. Les dockers dénoncent notamment la militarisation croissante des installations maritimes. Le mouvement vise également à contester les choix budgétaires gouvernementaux et à préparer la grève nationale programmée le 5 novembre.",
+      "contexte": "Les infrastructures maritimes et portuaires représentent des nœuds stratégiques cruciaux pour les échanges mondiaux et la logistique d'approvisionnement des États. En période d'instabilité internationale, certains ports civils sont sollicités pour le transit de matériel militaire ou stratégique, ce qui suscite de vives contestations syndicales au nom de la neutralité ouvrière. Les syndicats de dockers disposent d'un pouvoir de blocage important, capable de perturber rapidement les chaînes d'approvisionnement industrielles et commerciales."
     },
     {
-      "titre": "Choc violent, \"erreur humaine\" : ce que l'on sait du drame ferroviaire qui endeuille encore l'Espagne",
-      "lien": "https://www.france24.com/fr/europe/20261028-choc-violent-erreur-humaine-ce-que-l-on-sait-drame-ferroviaire-endeuille-encore-espagne-collision-trains-grande-vitesse-urda",
-      "source": "France 24 · franceinfo Monde · franceinfo",
-      "date": "2026-10-29T10:55:12+01:00",
-      "resume": "Une collision mortelle survenue mercredi ​matin entre deux trains à grande vitesse près d'Urda, au sud de Madrid, endeuille de nouveau l'Espagne, neuf mois après une précédente catastrophe ferroviaire d'ampleur. Cette fois, la piste de l'\"erreur humaine\" est privilégiée. Voici ce que l'on en sait.",
-      "contexte": ""
-    },
-    {
-      "titre": "Le prix Renaudot écarte l'écrivain Thélyson Orélien, accusé d'avoir utilisé l'IA, de la liste de ses finalistes",
-      "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/le-prix-renaudot-ecarte-l-ecrivain-thelyson-orelien-accuse-d-avoir-utilise-l-ia-de-la-liste-de-ses-finalistes_8258492.html#xtor=RSS-3-[lestitres]",
+      "titre": "L'automobiliste mise en examen pour le meurtre du cycliste Paul Varry a été libéré sous bracelet électronique dans l'attente de son son procès",
+      "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/l-automobiliste-mise-en-examen-pour-le-meurtre-du-cycliste-paul-varry-a-ete-libere-sous-bracelet-electronique-dans-l-attente-de-son-son-proces_8259794.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T10:49:32+01:00",
-      "resume": "Le prix littéraire Renaudot a décidé d'écarter l'écrivain Thélyson Orélien de sa liste de finalistes pour son roman \"C'était ça ou mourir\". Cette décision intervient après que l'éditeur canadien de l'auteur a rompu ses liens avec lui suite à des accusations d'utilisation de l'intelligence artificielle.",
-      "contexte": "L'irruption des outils d'intelligence artificielle générative dans la création littéraire soulève des questions éthiques et juridiques inédites, notamment sur l'authenticité des œuvres et le respect du droit d'auteur. De nombreux prix et maisons d'édition affichent une tolérance zéro face à l'usage non déclaré de ces technologies par les écrivains."
+      "date": "2026-10-30T10:57:44+01:00",
+      "resume": "Le conducteur mis en examen pour le meurtre du cycliste Paul Varry a été remis en liberté sous surveillance électronique dans l'attente de son procès. La décision intervient deux ans après la survenue des faits. Selon ses avocats, plus aucun motif juridique ne justifiait le prolongement de sa détention provisoire.",
+      "contexte": "En droit français, la détention provisoire avant jugement est une mesure exceptionnelle qui doit répondre à des critères stricts, comme le risque de réitération, de fuite ou de pression sur les témoins. Lorsque ces critères ne s'appliquent plus, le placement sous bracelet électronique permet de concilier la présomption d'innocence et le contrôle strict des déplacements de l'accusé. La mort de Paul Varry avait suscité une vive émotion et relancé le débat sur le partage de l'espace public et la sécurité des usagers vulnérables de la route."
     },
     {
-      "titre": "Le général Christian Piquemal, qui avait signé en 2021 une tribune controversée de militaires, est mort",
-      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/29/le-general-christian-piquemal-qui-avait-signe-en-2021-une-tribune-controversee-de-militaires-est-mort_6802303_3382.html",
+      "titre": "Visé par une cyberattaque massive, le géant des cryptomonnaies Binance gèle ses opérations et craint un préjudice de 6,3 milliards de dollars",
+      "lien": "https://www.franceinfo.fr/economie/bitcoin/vise-par-une-cyberattaque-massive-le-geant-des-cryptomonnaies-binance-gele-ses-operations-et-redoute-un-prejudice-de-6-3-milliards-de-dollars_8259938.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-30T10:50:26+01:00",
+      "resume": "La plateforme de cryptomonnaies Binance a gelé ses opérations après avoir été la cible d'une cyberattaque d'ampleur massive. L'entreprise craint un préjudice financier qui pourrait atteindre 6,3 milliards de dollars. D'après le co-PDG de la société, l'incident proviendrait du piratage de l'ordinateur d'un ingénieur informatique, ce qui a permis d'effectuer des retraits non autorisés lors d'une opération complexe.",
+      "contexte": "Les plateformes d'échange d'actifs numériques constituent des cibles privilégiées pour les cybercriminels en raison des volumes considérables de capitaux qui y transitent. Les attaques par compromission des accès internes d'employés représentent l'une des failles de sécurité les plus redoutées du secteur technologique. Un tel piratage risque d'accentuer la méfiance des investisseurs envers les dépositaires d'actifs numériques et de relancer les appels à une régulation internationale accrue des plateformes d'échange."
+    },
+    {
+      "titre": "\"Ils nous ont tués\" : bastion historique de la presse indépendante russe, le quotidien \"Novaïa Gazeta\" contraint de fermer sous la pression des autorités",
+      "lien": "https://www.franceinfo.fr/monde/russie/ils-nous-ont-tues-le-bastion-historique-de-la-presse-independante-russe-oblige-de-fermer-sous-la-pression-des-autorites_8260061.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-30T10:48:27+01:00",
+      "resume": "Le journal indépendant russe « Novaïa Gazeta » a été contraint de cesser ses activités et a été expulsé de son siège moscovite historique, qu'il occupait depuis trente ans. Le média était internationalement reconnu pour ses enquêtes sur la corruption, les abus institutionnels et les atteintes aux droits humains. Cette fermeture intervient après une intensification des pressions exercées par les autorités locales.",
+      "contexte": "Depuis plusieurs années, et plus particulièrement depuis le début du conflit armé en Ukraine, la Russie a durci sa législation sur la presse, restreignant drastiquement la liberté d'informer. Fondé notamment avec l'aide du prix Nobel Mikhaïl Gorbatchev, le quotidien avait déjà vu plusieurs de ses journalistes assassinés par le passé en raison de leurs enquêtes. Cette expulsion marque la disparition de l'un des derniers bastions emblématiques du journalisme d'investigation indépendant opérant directement depuis le territoire russe."
+    },
+    {
+      "titre": "Ignorer plutôt que bloquer : la méthode brésilienne pour invisibiliser l'extrême droite sur les réseaux",
+      "lien": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/ignorer-plutot-que-bloquer-la-methode-bresilienne-pour-invisibiliser-l-extreme-droite-sur-les-reseaux_8239486.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-30T10:47:32+01:00",
+      "resume": "Une nouvelle stratégie numérique venue du Brésil gagne du terrain sur les réseaux sociaux en France pour limiter l'exposition des idées d'extrême droite. Inspirée de pratiques nées après la réélection de Lula, la méthode préconise d'ignorer totalement ces publications plutôt que de les bloquer ou de les dénoncer. Les internautes sont ainsi invités à ne plus commenter ni partager ces contenus.",
+      "contexte": "Les algorithmes des grandes plateformes de réseaux sociaux valorisent avant tout l'engagement, ce qui favorise la diffusion des publications générant de fortes réactions, y compris l'indignation ou la controverse. En commentant ou en partageant un message pour le critiquer, les opposants augmentent involontairement sa visibilité mécanique auprès d'autres utilisateurs. Cette approche vise à assécher l'exposition algorithmique des discours radicaux en privant ces contenus de l'interaction qui assure leur viralité."
+    },
+    {
+      "titre": "Attentat raciste de Trappes : Yannick Jadot regrette l’absence d’Edouard Philippe et de Gabriel Attal au rassemblement en hommage aux victimes prévu vendredi soir",
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/attentat-raciste-de-trappes-yannick-jadot-regrette-l-absence-d-edouard-philippe-et-de-gabriel-attal-au-rassemblement-en-hommage-aux-victimes-prevu-vendredi-soir_6803029_823448.html",
       "source": "Le Monde",
-      "date": "2026-10-29T10:39:10+01:00",
-      "resume": "Le général Christian Piquemal est décédé le 23 octobre à l'âge de 85 ans. Ancien légionnaire, il avait été radié des cadres de l'armée en 2016 pour avoir pris part à une manifestation interdite organisée par un mouvement islamophobe en Allemagne, avant de signer en 2021 une tribune controversée de militaires.",
-      "contexte": "Les prises de position publiques de figures militaires à la retraite sur des sujets politiques ou migratoires suscitent régulièrement des polémiques en France concernant le devoir de réserve et la neutralité de l'institution militaire. Le parcours de Christian Piquemal illustre les frictions entre certains anciens gradés et les autorités républicaines."
+      "date": "2026-10-30T10:46:55+01:00",
+      "resume": "Plusieurs milliers de personnes sont attendues ce vendredi soir à Trappes pour un rassemblement en mémoire des victimes d'un attentat raciste perpétré une semaine plus tôt dans les Yvelines. Les principaux candidats de gauche à l'élection présidentielle ont annoncé leur présence à cet événement. L'écologiste Yannick Jadot a publiquement regretté l'absence annoncée d'Édouard Philippe et de Gabriel Attal.",
+      "contexte": "Les commémorations consécutives à des attaques ciblées deviennent fréquemment des moments d'expression politique et civique autour des valeurs républicaines et de la lutte contre le racisme. La présence ou l'absence de responsables politiques de premier rang lors de tels rassemblements suscite régulièrement des controverses partisanes en période préélectorale. Les divergences d'agendas et de positionnements face à ces hommages illustrent les clivages politiques sur la manière de répondre aux violences idéologiques."
     },
     {
-      "titre": "\"Plus jamais un enfant victime d'inceste n'entendra qu'il était trop tard pour parler\" : le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
-      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-jamais-un-enfant-victime-d-inceste-n-entendra-qu-il-etait-trop-tard-pour-parler-le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs_8258195.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Il n'est pas du tout pour la violence\" : le père de l'homme suspecté d'être impliqué dans l'incendie de la mairie de Limoges s'exprime pour la première fois dans \"Envoyé spécial\"",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-dans-envoye-special-le-pere-de-l-homme-de-34-ans-suspecte-d-etre-implique-dans-l-incendie-de-la-mairie-de-limoges-s-exprime-pour-la-premiere-fois_8259338.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T10:37:22+01:00",
-      "resume": "Le Sénat a approuvé une proposition visant à rendre imprescriptibles les crimes sexuels commis sur des mineurs. Actuellement, les victimes de viols subis durant l'enfance disposent d'un délai de trente ans à compter de leur majorité pour porter plainte, une limite jugée insuffisante par plusieurs associations.",
-      "contexte": "L'évolution de la législation sur la prescription des infractions sexuelles répond à la libération de la parole et à la prise de conscience des traumatismes psychologiques de long terme, qui empêchent souvent les victimes de signaler les faits rapidement. Cette mesure législative doit encore suivre son parcours parlementaire pour être définitivement adoptée."
-    },
-    {
-      "titre": "Un deuxième suspect, âgé de 16 ans, mis en examen dans l'enquête sur la cyberattaque contre la Direction générale des finances publiques",
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-deuxieme-suspect-age-de-16-ans-mis-en-examen-dans-l-enquete-sur-la-cyberattaque-contre-la-direction-generale-des-finances-publiques_8258519.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-29T10:34:10+01:00",
-      "resume": "Un deuxième adolescent âgé de 16 ans, surnommé \"Casquette\", a été mis en examen dans le cadre de l'enquête sur la cyberattaque et le vol de données visant la Direction générale des finances publiques. Il s'ajoute à un premier suspect de 18 ans, connu sous le pseudonyme \"ChatNoir\", les deux individus étant déjà poursuivis dans d'autres affaires de fuites de données.",
-      "contexte": "La recrudescence des cyberattaques ciblant des administrations publiques met en lumière la vulnérabilité des systèmes informatiques étatiques face à des groupes de pirates informatiques souvent jeunes mais organisés. Les enquêtes s'appuient sur la traçabilité numérique pour identifier les auteurs de ces vols d'informations sensibles."
+      "date": "2026-10-30T10:46:16+01:00",
+      "resume": "Un homme âgé de 34 ans a été interpellé trois jours après l'incendie survenu à l'hôtel de ville de Limoges. Le suspect est répertorié par les services de police pour son affiliation présumée à la mouvance de l'ultragauche. Son père est intervenu pour la première fois publiquement pour contester tout engagement violent ou radical de la part de son fils.",
+      "contexte": "Les dégradations et attaques ciblant des bâtiments institutionnels municipaux font systématiquement l'objet d'enquêtes prioritaires de la part des services judiciaires et de renseignement. Les services de sécurité surveillent de près les franges radicales susceptibles de mener des actions directes contre des symboles de l'État. Les déclarations des proches de suspects cherchent généralement à nuancer le profil décrit par les enquêteurs et à contester la qualification idéologique des actes poursuivis."
     }
   ],
   "depuis_hier": [
     {
-      "titre": "Jeux Olympiques de la Jeunesse à Dakar : au cœur des préparatifs des premiers JO sur le sol africain",
-      "lien": "https://www.franceinfo.fr/jeux-olympiques-de-la-jeunesse/jeux-olympiques-de-la-jeunesse-a-dakar-au-c-ur-des-preparatifs-des-premiers-jo-sur-le-sol-africain_8259551.html#xtor=RSS-3-%5Bgeneral%5D",
+      "titre": "En Espagne, les familles entre la colère et le désespoir après la tragédie",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/en-espagne-les-familles-entre-la-colere-et-le-desespoir-apres-la-tragedie_8261027.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
-      "date": "2026-10-29T23:36:08+01:00",
-      "resume": "Les préparatifs des Jeux olympiques de la jeunesse entrent dans leur phase finale à Dakar, au Sénégal, deux jours avant le début officiel de la compétition. Il s'agit de la toute première manifestation olympique organisée sur le continent africain. Sur place, la délégation française a entamé ses repérages et ses entraînements sous de très fortes chaleurs.",
-      "contexte": "Créés par le Comité international olympique pour les athlètes âgés de 14 à 18 ans, ces Jeux visent à encourager la pratique sportive et l'esprit olympique chez les jeunes générations. L'attribution de cet événement au Sénégal marque une étape historique pour le sport mondial, l'Afrique n'ayant jusqu'alors jamais accueilli de jeux sous la bannière olympique. L'organisation de la compétition constitue un test d'envergure pour les infrastructures d'accueil et les capacités logistiques du pays hôte."
+      "date": "2026-10-30T23:49:43+01:00",
+      "resume": "Deux jours après une collision ferroviaire survenue en Espagne, les familles de 67 personnes portées disparues vivent dans l'attente et le désespoir. Les autorités ont prévenu que les chances de retrouver des survivants sont désormais infimes, tandis que les proches réclament des identifications plus rapides. L'enquête se poursuit pour déterminer les circonstances précises du drame.",
+      "contexte": "Les accidents ferroviaires majeurs exigent des opérations de secours et d'identification des victimes extrêmement complexes, mobilisant la médecine légale et des cellules de soutien psychologique. Les enquêtes techniques et judiciaires qui suivent cherchent généralement à identifier des défaillances humaines, matérielles ou de signalisation afin d'établir les responsabilités."
     },
     {
-      "titre": "Edouard Philippe placé sous le statut de témoin assisté dans une affaire de détournement de fonds publics, son avocat salue une \"décision favorable\"",
-      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-[lestitres]",
+      "titre": "L'agence de notation Fitch maintient la note A+ de la France, mais abaisse sa perspective",
+      "lien": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/l-agence-de-notation-fitch-maintient-la-note-a-de-la-france-mais-abaisse-sa-perspective_8261105.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-29T23:36:05+01:00",
-      "resume": "L'ancien Premier ministre Édouard Philippe a été placé sous le statut de témoin assisté dans le cadre d'une enquête pour détournement de fonds publics. Il a été auditionné toute la journée par deux juges d'instruction financiers qui l'avaient formellement convoqué. Son avocat a salué cette décision, soulignant qu'il s'agit d'un cadre juridique moins incriminant qu'une mise en examen.",
-      "contexte": "Le statut de témoin assisté est généralement accordé lorsqu'une personne est visée par des accusations sans qu'il n'existe d'indices graves ou concordants suffisants pour justifier une mise en examen. Ce statut permet à l'intéressé d'avoir accès au dossier judiciaire et d'être assisté par un avocat durant la procédure. Alors qu'Édouard Philippe est candidat déclaré à la prochaine élection présidentielle, l'évolution de cette procédure judiciaire pourrait peser sur son calendrier politique et son image publique."
+      "date": "2026-10-30T23:43:30+01:00",
+      "resume": "L'agence de notation Fitch a décidé de maintenir la note A+ de la France, tout en abaissant sa perspective. Les analystes ont mis en garde vendredi contre les effets du ralentissement de la croissance ainsi que contre une détérioration de la situation budgétaire et des taux d'emprunts du pays.",
+      "contexte": "La notation financière d'un État influence directement le coût de sa dette sur les marchés internationaux, un abaissement de perspective signalant un risque accru pour les investisseurs. Cette situation reflète les difficultés récurrentes des finances publiques françaises face aux impératifs de maîtrise du déficit et de la dette souveraine."
     },
     {
-      "titre": "Midterms aux États-Unis : les démocrates en position de force ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261029-midterms-aux-%C3%A9tats-unis-les-d%C3%A9mocrates-en-position-de-force",
-      "source": "France 24 · franceinfo Monde",
-      "date": "2026-10-29T22:53:12+01:00",
-      "resume": "À quelques jours des élections de mi-mandat aux États-Unis, les figures politiques majeures intensifient leurs déplacements électoraux à travers le pays. L'ancien président démocrate Barack Obama est intervenu pour soutenir les candidats de son camp dans l'Ohio, le Michigan et la Géorgie. De son côté, Donald Trump a mené campagne en Caroline du Sud, ainsi que dans le Michigan, le Texas, le Mississippi, la Géorgie et l'Ohio, tandis que les électeurs républicains de l'Amérique rurale se mobilisent.",
-      "contexte": "Les élections de mi-mandat permettent de renouveler l'ensemble de la Chambre des représentants et un tiers du Sénat américain. Elles constituent traditionnellement un test électoral majeur pour le parti au pouvoir et déterminent la majorité au Congrès pour les deux années suivantes. L'implication directe de figures politiques de premier plan vise à maximiser la participation électorale dans les États indécis où les scrutins sont particulièrement disputés."
+      "titre": "Le gouvernement américain approuve la vente de 500 missiles Patriot à l'Ukraine",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-gouvernement-americain-approuve-la-vente-de-500-missiles-patriot-a-l-ukraine_8261099.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-30T23:24:00+01:00",
+      "resume": "Le gouvernement américain a approuvé la vente de 500 missiles Patriot à l'Ukraine. En cas de feu vert du Congrès, cette transaction sera financée grâce à des contributions d'alliés étrangers de l'Ukraine, notamment européens, Washington précisant qu'aucun fonds américain n'est engagé dans cette vente.",
+      "contexte": "Ce type de contrat illustre l'effort soutenu des partenaires occidentaux pour renforcer les capacités de défense antiaérienne de l'Ukraine face aux frappes régulières. Le recours à des financements croisés ou européens permet de maintenir le soutien militaire tout en composant avec les débats politiques internes aux États-Unis."
     },
-    {
-      "titre": "Éboulement mortel sur un célèbre site de Turquie : \"C'est la pluie\", explique un guide à propos de l'effondrement d'une cheminée de fées en Cappadoce",
-      "lien": "https://www.franceinfo.fr/monde/turquie/eboulement-mortel-sur-un-celebre-site-de-turquie-c-est-la-pluie-explique-un-guide-a-propos-de-l-effondrement-d-une-cheminee-de-fees-en-cappadoce_8259518.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-29T22:45:22+01:00",
-      "resume": "Un effondrement rocheux a fait au moins trois morts ce jeudi 29 octobre dans la célèbre vallée des cheminées de fées, en Cappadoce, en Turquie. L'une des colonnes de pierre s'est écroulée à la suite d'un glissement de terrain survenu sur ce site touristique majeur. Selon un guide présent sur place, cet accident a été causé par des épisodes de pluie.",
-      "contexte": "La Cappadoce est réputée pour ses formations géologiques uniques, composées de roches volcaniques tendres façonnées au fil des millénaires par l'érosion du vent et de l'eau. Ces structures géologiques demeurent fragiles et vulnérables aux aléas météorologiques, notamment lors de précipitations intenses qui peuvent fragiliser les sols. Cet incident mortel pose la question de la sécurisation des périmètres de visite sur des sites naturels qui attirent chaque année des millions de touristes."
-    },
-    {
-      "titre": "Malte : des automobilistes payés pour abandonner leur permis de conduire",
-      "lien": "https://www.franceinfo.fr/economie/automobile/malte-des-automobilistes-payes-pour-abandonner-leur-permis-de-conduire_8259485.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-29T22:25:05+01:00",
-      "resume": "Pour lutter contre la prolifération des embouteillages, le gouvernement maltais propose une prime de 25 000 euros aux automobilistes qui renoncent à conduire pendant au moins cinq ans. Les conducteurs volontaires doivent ainsi restituer leur permis en échange de cette compensation financière. Les autorités constatent toutefois que le dispositif ne produit pas encore les résultats escomptés.",
-      "contexte": "L'île de Malte présente une densité de population très élevée et un taux de motorisation particulièrement important, provoquant une saturation quasi permanente de son réseau routier. Pour modifier les comportements de mobilité, les politiques publiques privilégient habituellement les investissements dans les transports collectifs ou les incitations fiscales. Cette incitation monétaire directe, inédite par son montant, illustre la difficulté des autorités insulaires à trouver des solutions efficaces pour désengorger leurs axes de circulation."
-    },
-    {
-      "titre": "Législatives en Israël : une alliance pourrait-elle faire chuter Benjamin Netanyahou ?",
-      "lien": "https://www.franceinfo.fr/monde/israel/legislatives-en-israel-une-alliance-pourrait-elle-faire-chuter-benjamin-netanyahou_8259467.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-29T22:05:35+01:00",
-      "resume": "Les récentes élections législatives en Israël ont placé la formation politique de Benjamin Netanyahou en première position, sans lui conférer toutefois de majorité absolue pour gouverner. Face à ce résultat incomplet, les partis de l'opposition étudient la faisabilité d'une alliance pour lui barrer la route du pouvoir. L'incertitude demeure quant à la composition de la prochaine coalition gouvernementale.",
-      "contexte": "Le système électoral israélien repose sur une proportionnelle intégrale à seuil relativement bas, ce qui impose presque systématiquement la formation de coalitions multipartites pour atteindre la majorité de 61 sièges à la Knesset. Ces dernières années, le pays a traversé des crises politiques à répétition marquées par des scrutins fréquents et polarisés autour de la personne de Benjamin Netanyahou. Les négociations post-électorales impliquent souvent de lourds compromis politiques entre partis aux idéologies très divergentes."
-    }
-  ],
-  "aujourdhui": [
     {
       "titre": "À la COP17, des textes clés adoptés pour protéger la biodiversité",
       "lien": "https://www.france24.com/fr/plan%C3%A8te/20261030-cop17-textes-cl%C3%A9s-adopt%C3%A9s-protection-terres-oc%C3%A9ans-lutte-contre-pollution-biodiversit%C3%A9-arm%C3%A9nie-erevan",
       "source": "France 24",
       "date": "2026-10-30T22:53:48+01:00",
-      "resume": "Près de 200 États membres ont adopté, vendredi à Erevan en Arménie, des textes clés pour la protection de la biodiversité à l'issue de la COP17. Les accords conclus fixent 23 objectifs à respecter d'ici 2030, incluant notamment la protection de 30 % des terres et des océans. Un texte spécifique a également été consacré aux moyens financiers nécessaires pour atteindre ces objectifs environnementaux.",
-      "contexte": "Les sommets de la COP sur la biodiversité visent à enrayer l'effondrement du vivant et la disparition massive des espèces, exacerbés par les activités humaines et le changement climatique. L'enjeu principal de ces accords réside dans la mise en œuvre effective des financements promis par les pays développés pour aider les nations du Sud à protéger leurs écosystèmes. Atteindre l'objectif de 30 % de zones protégées d'ici 2030 nécessite des transformations profondes des politiques agricoles, industrielles et maritimes à l'échelle mondiale."
+      "resume": "Le monde a adopté plusieurs textes clés pour protéger la nature tard vendredi, à l'issue de deux semaines de discussions émaillées de profonds désaccords lors de la COP17 sur la biodiversité, qui s'est déroulée en Arménie.",
+      "contexte": "Les négociations menées lors des conférences des parties (COP) sur la biodiversité peinent souvent à concilier les impératifs de préservation environnementale et les intérêts économiques des États. L'adoption de textes de compromis constitue néanmoins une étape essentielle pour fixer des objectifs mondiaux de protection des écosystèmes."
+    },
+    {
+      "titre": "Le Ballon d'or a échappé de très peu à Kylian Mbappé face à Harry Kane, révèle \"France Football\"",
+      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/le-ballon-d-or-a-echappe-de-tres-peu-a-kylian-mbappe-face-a-harry-kane-revele-france-football_8261069.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-30T22:46:37+01:00",
+      "resume": "Le mensuel \"France Football\" a publié vendredi le classement détaillé du Ballon d'or, révélant que l'attaquant français Kylian Mbappé a échappé de très près à la victoire face au lauréat britannique Harry Kane. Le joueur français a recueilli 1 027 points, contre 1 055 pour son concurrent.",
+      "contexte": "La publication des détails de vote des jurés internationaux offre chaque année un aperçu précis des rapports de force et des critères privilégiés pour désigner le meilleur footballeur de la saison. De tels écarts infimes témoignent de la forte concurrence entre les plus grands attaquants de la planète."
     },
     {
       "titre": "Halloween et manifestations : interdit de dissimuler son visage ?",
       "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261030-halloween-et-manifestations-interdit-de-dissimuler-son-visage",
       "source": "France 24",
       "date": "2026-10-30T22:40:13+01:00",
-      "resume": "La préfecture de police a rappelé mercredi que dissimuler son visage dans l'espace public est passible d'une amende, y compris pendant la fête d'Halloween, provoquant un vif débat. Cette mise au point soulève des interrogations juridiques quant à son application réelle lors de cette fête traditionnelle ainsi que dans le cadre des manifestations, où certains appels incitent les participants à se masquer.",
-      "contexte": "En France, la loi interdit la dissimulation du visage dans l'espace public de manière générale en vertu de la loi de 2010, mais des tolérances existent pour des événements festifs spécifiques comme le carnaval ou Halloween. Cependant, lors des manifestations, l'utilisation de cagoules ou de masques par certains protestataires pour échapper aux identifications est un sujet récurrent de tension avec les forces de l'ordre. Les autorités cherchent souvent à concilier le droit de manifester avec le maintien de l'ordre et l'interdiction de la dissimulation faciale."
+      "resume": "Un message de la préfecture de police publié mercredi, rappelant que dissimuler son visage dans l'espace public est passible d'une amende même pendant Halloween, a provoqué un tollé. La question s'est posée de savoir ce qu'il advient de cette règle lorsque la fête d'Halloween investit les manifestations et que de nombreuses publications appellent à manifester le visage couvert.",
+      "contexte": "L'interdiction de dissimuler son visage dans l'espace public vise à permettre l'identification des individus et à prévenir les troubles à l'ordre public lors des rassemblements. Son application en période festive ou lors de manifestations contestataires ravive régulièrement le débat sur l'équilibre entre libertés individuelles et sécurité."
     },
     {
-      "titre": "\"La France, c'est nous\" : une semaine après l'attentat raciste à Trappes, un rassemblement \"pour faire face aux discours xénophobes\"",
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-france-c-est-nous-une-semaine-apres-l-attentat-raciste-a-trappes-un-rassemblement-pour-faire-face-aux-discours-xenophobes_8260991.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-30T22:33:25+01:00",
-      "resume": "Un rassemblement contre le racisme et l'islamophobie s'est tenu vendredi soir à Trappes, dans les Yvelines, une semaine après un attentat raciste perpétré le 23 octobre. Cette attaque a coûté la vie à Pengo Bossio Wangi, un homme noir de 26 ans, et a fait sept blessés, dont une fillette. L'événement, marqué par la présence de milliers de personnes et de figures politiques de gauche, a également mis en lumière l'inquiétude profonde qui gagne les habitants, notamment les enfants et les personnes âgées.",
-      "contexte": "Cet attentat tragique relance le débat public sur la montée des actes racistes et islamophobes en France, ainsi que sur le rôle du climat politique et des discours xénophobes dans le passage à l'acte violent. Les réactions locales témoignent d'un traumatisme profond au sein des populations ciblées, qui s'interrogent sur leur sécurité et leur place dans la société. Ces drames entraînent généralement une mobilisation politique intense pour réclamer l'unité républicaine et lutter contre les discriminations."
+      "titre": "Depuis les États-Unis, Flavio Bolsonaro se dit victime d'une \"persécution\" au Brésil",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261030-depuis-les-%C3%A9tats-unis-flavio-bolsonaro-se-dit-victime-d-une-pers%C3%A9cution-au-br%C3%A9sil",
+      "source": "France 24",
+      "date": "2026-10-30T22:05:57+01:00",
+      "resume": "L'ex-candidat de droite à la présidentielle au Brésil, Flavio Bolsonaro, s'est exprimé vendredi depuis les États-Unis où il s'est réfugié après avoir fui son pays en jet privé suite à sa défaite. Il a justifié son départ en affirmant être victime d'une persécution dans son pays natal.",
+      "contexte": "Le départ de personnalités politiques majeures vers l'étranger à la suite d'alternances politiques s'inscrit souvent dans un climat de forte polarisation institutionnelle et judiciaire. Les accusations de persécution politique sont fréquemment invoquées par des responsables poursuivis ou menacés de poursuites par les nouvelles autorités."
     },
     {
       "titre": "La CAF rétropédale : la CAN se jouera de nouveau tous les deux ans",
       "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261030-caf-r%C3%A9trop%C3%A9dale-can-se-jouera-de-nouveau-tous-deux-ans",
       "source": "France 24",
       "date": "2026-10-30T21:27:23+01:00",
-      "resume": "La Confédération africaine de football (CAF) a décidé à l'unanimité de faire machine arrière en maintenant la Coupe d'Afrique des nations (CAN) tous les deux ans. Le comité exécutif a acté que la compétition continentale ne passerait donc pas à un rythme quadriennal. Cette décision relance les interrogations sur les choix sportifs et politiques de l'instance ainsi que sur l'avenir de la future Ligue des nations africaine.",
-      "contexte": "L'organisation de la CAN à un rythme bisannuel est un sujet de discussion récurrent en raison des tensions calendaires avec les clubs européens employant de nombreux joueurs internationaux africains. La pression des grands clubs et des sélections pour espacer la compétition se heurte souvent à la volonté politique de la CAF de préserver la visibilité et les revenus du tournoi. Le maintien du format tous les deux ans illustre l'importance majeure de cette vitrine sportive pour le continent."
+      "resume": "La Confédération africaine de football a fait machine arrière et a décidé à l'unanimité de son comité exécutif de maintenir la Coupe d'Afrique des nations tous les deux ans. La compétition continentale continuera donc de se jouer sur ce rythme et non tous les quatre ans.",
+      "contexte": "Le calendrier du football africain fait l'objet d'arbitrages constants entre les impératifs économiques, la pression des clubs européens employant de nombreux joueurs internationaux et les traditions sportives locales. Les modifications de périodicité répondent souvent à des dynamiques politiques et institutionnelles internes à l'instance."
     },
     {
       "titre": "Le pape Léon XIV a voté pour les élections de mi-mandat aux Etats-Unis",
       "lien": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-a-vote-pour-les-elections-de-mi-mandat-aux-etats-unis_8261009.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-10-30T21:26:17+01:00",
-      "resume": "Le Vatican a annoncé vendredi que le pape Léon XIV avait voté dans le cadre des élections de mi-mandat aux États-Unis. Par ce geste, le souverain pontife a tenu à exprimer sa conviction concernant le droit et le devoir des citoyens de participer aux processus démocratiques.",
-      "contexte": "Il est rare que le Vatican commente ou détaille la participation électorale du pape, mais les déclarations soulignent l'importance accordée par l'Église aux valeurs civiques et à la stabilité démocratique. Les élections de mi-mandat américaines constituent un moment politique crucial qui influence directement l'équilibre du pouvoir au Congrès. La prise de position, même indirecte, rappelle l'engagement moral du Saint-Siège sur les questions de citoyenneté."
-    },
+      "resume": "Le Vatican a annoncé vendredi que le pape Léon XIV avait voté pour les élections de mi-mandat aux États-Unis. Le Saint-Père a ainsi exprimé sa conviction quant au droit et au devoir des citoyens de participer aux processus démocratiques.",
+      "contexte": "L'engagement des autorités religieuses suprêmes dans l'incitation au vote s'inscrit dans une tradition d'appel à la responsabilité civique des fidèles. Cette démarche rappelle l'importance accordée par l'Église catholique à la participation active à la vie politique et sociale."
+    }
+  ],
+  "aujourdhui": [
     {
-      "titre": "En Espagne, les familles entre la colère et le désespoir après la tragédie",
-      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/en-espagne-les-familles-entre-la-colere-et-le-desespoir-apres-la-tragedie_8261027.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-30T21:23:03+01:00",
-      "resume": "Deux jours après la collision ferroviaire survenue en Espagne, les familles des 67 personnes toujours portées disparues font face à une attente insoutenable. Alors que les autorités préviennent que les chances de retrouver des survivants sont désormais infimes, les proches réclament une accélération des identifications pendant que l'enquête se poursuit pour déterminer les causes exactes du drame.",
-      "contexte": "Les accidents ferroviaires d'une telle ampleur nécessitent des enquêtes techniques complexes menées par des agences spécialisées pour identifier les défaillances matérielles, humaines ou de signalisation. L'étape de l'identification des victimes, souvent longue et douloureuse, requiert des expertises médico-légales rigoureuses. Ces drames provoquent généralement une onde de choc nationale et relancent le débat sur la sécurité des infrastructures de transport."
-    },
-    {
-      "titre": "En Pologne, le président du Tribunal constitutionnel écarté, la police déployée à Varsovie",
-      "lien": "https://www.lemonde.fr/international/article/2026/10/30/en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-deployee-a-varsovie_6803134_3210.html",
-      "source": "Le Monde",
-      "date": "2026-10-30T21:12:22+01:00",
-      "resume": "Le président du Tribunal constitutionnel a été écarté de ses fonctions en Pologne, provoquant un déploiement de la police antiémeute à Varsovie. Des dizaines de forces de l'ordre ont barré l'accès à l'enceinte de la plus haute juridiction pour faire face aux nombreux militants du parti national-conservateur Droit et justice venus soutenir le magistrat.",
-      "contexte": "Ces tensions autour des institutions judiciaires s'inscrivent dans un contexte de luttes politiques intérieures intérieures en Pologne, où les réformes de la justice et l'indépendance des magistrats font l'objet de vifs affrontements entre le pouvoir en place et l'opposition nationaliste. L'intervention des forces de l'ordre illustre la polarisation extrême de la vie politique polonaise. Le contrôle des juridictions suprêmes constitue un enjeu démocratique fondamental dans le pays."
-    },
-    {
-      "titre": "Manifestations du 31 octobre : plus de 40 stations de métro fermées à Paris, des couvre-feux imposés dans plusieurs villes",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]",
+      "titre": "Mobilisation du 31 octobre : la CGT appelle les manifestants à rejoindre le seul cortège parisien autorisé",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-30T20:48:21+01:00",
-      "resume": "Plus de 40 stations de métro ont été fermées à Paris en raison des manifestations prévues le 31 octobre, certaines fermetures intervenant dès 5h30 et d'autres plus tard dans la journée, notamment à Châtelet et Les Halles. Des mesures de restriction similaires, incluant des couvre-feux, ont également été imposées dans plusieurs autres villes françaises.",
-      "contexte": "À l'approche de certaines journées de mobilisation ou de fêtes sensibles comme Halloween, les autorités durcissent régulièrement les mesures de sécurité pour prévenir les risques de débordements ou de violences urbaines. La fermeture ciblée des transports en commun permet de limiter les attroupements et de contrôler les flux de circulation dans les zones à risque. Ces mesures visent à protéger les biens et les personnes tout en maintenant l'ordre public."
+      "date": "2026-10-31T10:49:43+01:00",
+      "resume": "La plus haute juridiction administrative française, le Conseil d'Etat, a donné raison à Laurent Nuñez en validant le parcours de manifestation entre les portes de Bagnolet et de Charenton pour la mobilisation du 31 octobre. Elle a ainsi désavoué le tribunal administratif qui avait autorisé un autre parcours entre Bastille et Nation voulu par les organisateurs. La CGT a par conséquent appelé les manifestants à rejoindre ce seul cortège parisien autorisé.",
+      "contexte": "Les tracés des manifestations font régulièrement l'objet de vifs désaccords juridiques et politiques entre les autorités préfectorales, soucieuses du maintien de l'ordre et de la sécurité publique, et les syndicats, attachés à la liberté de manifester dans les zones centrales. Ces arbitrages visent généralement à prévenir les risques de débordements tout en encadrant le droit de contestation."
     },
     {
-      "titre": "MAGA : pourquoi le camp de Trump se fracture - Décryptage disponible sur YouTube",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-maga-pourquoi-le-camp-de-trump-se-fracture-d%C3%A9cryptage-disponible-sur-youtube",
-      "source": "France 24 · Le Monde",
-      "date": "2026-10-30T20:30:44+01:00",
-      "resume": "À l'approche des élections de mi-mandat américaines du 3 novembre, les tensions politiques s'intensifient, illustrées par les inquiétudes du sénateur républicain Ted Cruz qui redoute une défaite au Texas face à une forte mobilisation démocrate. En parallèle, le mouvement MAGA de Donald Trump fait face à des fractures internes visibles sur des sujets tels que la guerre en Iran, le coût de la vie ou l'affaire Epstein, questionnant la capacité de mobilisation de sa base.",
-      "contexte": "Les midterms constituent traditionnellement un test électoral majeur pour l'administration en place et modifient l'équilibre du pouvoir au Congrès américain. Les divisions au sein du camp républicain reflètent les luttes d'influence entre l'aile populiste historique et d'autres sensibilités du parti à l'approche des échéances futures. La forte mobilisation de l'opposition démocrate complique la stratégie des conservateurs dans des États historiquement ancrés à droite comme le Texas."
+      "titre": "Le président de la Pologne convoque les partis pour trouver une issue à la crise politique après l'intervention de la police au Tribunal constitutionnel",
+      "lien": "https://www.franceinfo.fr/monde/europe/le-president-de-la-pologne-convoque-les-partis-pour-trouver-une-issue-a-la-crise-politique-apres-l-intervention-de-la-police-au-tribunal-constitutionnel_8261594.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-31T10:37:34+01:00",
+      "resume": "Le président de la Pologne a convoqué les partis politiques pour tenter de trouver une issue à la crise politique déclenchée par l'intervention de la police au Tribunal constitutionnel. Les têtes de l'exécutif polonais se déchirent en effet entre membres de la droite nationaliste et centristes autour des nominations à la plus haute juridiction du pays.",
+      "contexte": "Les tensions autour du pouvoir judiciaire en Pologne reflètent des années de luttes institutionnelles sur l'indépendance de la justice et la répartition des compétences entre le gouvernement, le président et le parlement. Ces crises institutionnelles menacent fréquemment la stabilité politique du pays au sein de l'Union européenne."
+    },
+    {
+      "titre": "Attentat raciste dans les Yvelines : le maire de Trappes accuse le RN d'avoir \"inoculé la haine\" dans l'esprit de l'auteur de l'attaque",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-31T10:33:48+01:00",
+      "resume": "Des milliers de personnes se sont rassemblées vendredi soir à Trappes, dans les Yvelines, pour participer à un événement contre le racisme et l'islamophobie et rendre hommage à Pengo Bossio Wangi, un homme noir de 26 ans, ainsi qu'aux sept autres personnes blessées, dont une fillette. Cet attentat a été commis par Kevin T., qui s'en est pris délibérément à des personnes musulmanes, africaines ou nord-africaines. Des figures de gauche comme Jean-Luc Mélenchon, Olivier Faure, Raphaël Glucksmann et Marine Tondelier ont pris part au rassemblement, tandis que le maire de Trappes a accusé le Rassemblement national d'avoir inoculé la haine dans l'esprit de l'auteur.",
+      "contexte": "Ce type de drame met en lumière les tensions identitaires et politiques persistantes dans certaines communes, ainsi que la prompte mobilisation des formations de gauche et des associations locales contre les actes racistes. Les réactions politiques illustrent la polarisation du débat public autour des questions d'intégration, de sécurité et de la montée des discours haineux."
+    },
+    {
+      "titre": "Midterms 2026, le récap : \"si les sondages ont raison\" ou l'optimisme angoissé des démocrates",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261031-midterms-2026-recap-sondages-democrates-republicains-trump-alaska-fraude-contestation-resultats-obama",
+      "source": "France 24",
+      "date": "2026-10-31T10:33:44+01:00",
+      "resume": "À l'approche des élections de mi-mandat de 2026 aux États-Unis, démocrates et analystes affichent un optimisme angoissé face aux derniers sondages qui prédisent une vague bleue. En Alaska, un scandale impliquant la candidate démocrate au Sénat fait craindre une possible contestation des résultats, sur fond de croisade de l'administration Trump contre la supposée fraude électorale.",
+      "contexte": "Les élections de mi-mandat constituent traditionnellement un test majeur pour l'administration en place et le Congrès, influençant le rapport de force politique pour la seconde moitié du mandat présidentiel. La méfiance envers les sondages et la crainte de contestations post-électorales traduisent la forte polarisation de la vie politique américaine."
+    },
+    {
+      "titre": "\"Les arnaques vont se multiplier\" : avant la sortie de GTA VI, les escroqueries montent en flèche",
+      "lien": "https://www.franceinfo.fr/culture/jeux-video/les-arnaques-vont-se-multiplier-avant-la-sortie-de-gta-vi-les-escroqueries-montent-en-fleche_8260514.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-31T10:07:36+01:00",
+      "resume": "À l'approche de la sortie du jeu vidéo \"Grand Theft Auto VI\" prévue le 19 novembre, les escroqueries en ligne montent en flèche. Les pirates profitent de l'engouement des fans pour multiplier les offres frauduleuses d'accès anticipé et les faux sites de précommande.",
+      "contexte": "Les sorties de produits culturels très attendus, comme les blockbusters du jeu vidéo, constituent des opportunités lucratives pour la cybercriminalité en raison de la forte demande et de l'impatience du public. Les autorités rappellent régulièrement la nécessité de privilégier les canaux de distribution officiels pour éviter les fraudes."
+    },
+    {
+      "titre": "Israël : la difficile formation d’un gouvernement avec les partis arabes",
+      "lien": "https://www.franceinfo.fr/monde/israel/israel-la-difficile-formation-d-un-gouvernement-avec-les-partis-arabes_8261597.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-10-31T09:50:12+01:00",
+      "resume": "À l'issue des élections législatives en Israël, aucun parti ou coalition n'est en mesure de former un gouvernement stable. Une série de tractations a ainsi débuté, devant nécessairement inclure les partis arabes, qui disposent de 19 sièges.",
+      "contexte": "La fragmentation du paysage politique israélien rend souvent la formation de coalitions majoritaires complexe et instable, nécessitant des alliances hétérogènes. L'intégration des formations politiques arabes dans les tractations constitue un enjeu institutionnel et stratégique majeur pour l'équilibre du pays."
+    },
+    {
+      "titre": "\"Affaires sensibles\". Quarante-trois ans après, un espoir de savoir enfin ce qui est arrivé au petit Mathieu Haulbert, disparu à la sortie d'un village du Verdon ?",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/affaires-sensibles/video-affaires-sensibles-quarante-trois-ans-apres-un-espoir-de-savoir-enfin-ce-qui-est-arrive-au-petit-mathieu-haulbert-disparu-a-la-sortie-d-un-village-du-verdon_8260742.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-31T09:48:55+01:00",
+      "resume": "Quarante-trois ans après la disparition du petit Mathieu Haulbert, survenue le 25 juin 1983 à la sortie d'un village du Verdon, l'affaire fait partie des dossiers repris par le pôle \"cold cases\" de Nanterre. Pour ses parents Lise et Philippe Haulbert, il s'agit d'un ultime espoir de voir aboutir une quête de quatre décennies.",
+      "contexte": "La création de pôles spécialisés dans le traitement des affaires non élucidées (cold cases) permet de relancer des enquêtes anciennes en mobilisant de nouvelles technologies scientifiques et des méthodes d'investigation actualisées. Cette démarche offre aux familles de victimes un nouvel espoir de vérité et de justice après des décennies d'attente."
+    },
+    {
+      "titre": "Jean-Claude Passeron, sociologue spécialiste de l’éducation, est mort",
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/31/jean-claude-passeron-sociologue-specialiste-de-l-education-est-mort_6803480_3224.html",
+      "source": "Le Monde",
+      "date": "2026-10-31T09:43:04+01:00",
+      "resume": "Le sociologue Jean-Claude Passeron, spécialiste de l'éducation et directeur d'études à l'EHESS ainsi que professeur à l'université de Vincennes, est mort. Il a notamment été l'auteur de plusieurs ouvrages de référence écrits avec Pierre Bourdieu, qui ont renouvelé la sociologie de l'éducation en France.",
+      "contexte": "L'œuvre de Jean-Claude Passeron, marquée par des collaborations majeures avec Pierre Bourdieu, a profondément influencé la sociologie moderne en analysant les mécanismes de reproduction sociale par le système éducatif. Ses travaux restent des références incontournables pour comprendre les inégalités scolaires et culturelles."
+    },
+    {
+      "titre": "Trois corps découverts dans les décombres d'un immeuble à Clermont-Ferrand après un incendie, une personne placée en garde à vue",
+      "lien": "https://www.franceinfo.fr/faits-divers/trois-corps-decouverts-dans-les-decombres-d-un-immeuble-a-clermont-ferrand-apres-un-incendie-une-personne-placee-en-garde-a-vue_8261585.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-31T09:38:25+01:00",
+      "resume": "Trois corps ont été découverts vendredi dans les décombres d'un immeuble à Clermont-Ferrand à la suite d'un incendie. Le parquet a évoqué une origine criminelle possible du sinistre, tandis qu'un homme a été interpellé et placé en garde à vue.",
+      "contexte": "La découverte de corps dans un incendie mortel déclenche systématiquement une enquête judiciaire en flagrance pour déterminer les causes exactes du drame et identifier d'éventuelles responsabilités criminelles. Les interpellations rapides permettent aux enquêteurs de vérifier des pistes liées à des différends personnels ou à des actes malveillants."
     }
   ],
   "culture": [
     {
       "theme": "science",
-      "titre": "L'incroyable résistance du tardigrade",
-      "texte": "Le tardigrade est un animal microscopique à huit pattes réputé pour sa capacité de survie hors du commun. Lorsqu'il est confronté à un environnement hostile comme le gel extrême, le vide spatial ou une sécheresse totale, il entre dans un état appelé cryptobiose. Durant cette phase, il expulse la quasi-totalité de l'eau de son corps et met son métabolisme en pause presque complète. Protégé sous cette forme de stase, il peut supporter des températures extrêmes ainsi que des doses de radiations mortelles pour les autres êtres vivants. Dès que les conditions redeviennent humides et favorables, il se réhydrate et reprend ses fonctions vitales normales en quelques heures.",
-      "a_retenir": "Grâce à la cryptobiose, le tardigrade peut suspendre son métabolisme pour survivre aux environnements les plus extrêmes de la Terre et de l'espace."
+      "titre": "La lévitation magnétique",
+      "texte": "La lévitation magnétique est un phénomène physique qui permet de faire flotter un objet dans les airs en utilisant uniquement des champs magnétiques. Cette technologie repose sur la force répulsive entre des aimants ou sur l'effet Meissner observé chez les supraconducteurs. Elle est aujourd'hui principalement utilisée dans les trains à grande vitesse, comme le Maglev, pour supprimer les frottements mécaniques avec les rails. En éliminant ces frictions, ces véhicules peuvent atteindre des vitesses impressionnantes tout en offrant un voyage d'une grande fluidité. C'est une application directe des lois de l'électromagnétisme découvertes au dix-neuvième siècle.",
+      "a_retenir": "La lévitation magnétique supprime les frottements grâce à la force des aimants, permettant aux trains de l'avenir de filer sans toucher les rails."
     },
     {
-      "theme": "arts et littérature",
-      "titre": "Le tour de force de « La Disparition »",
-      "texte": "En 1969, l'écrivain français Georges Perec publie un roman singulier d'environ trois cents pages intitulé « La Disparition ». Membre actif du mouvement littéraire de l'Oulipo, l'auteur s'est imposé une contrainte formelle stricte appelée lipogramme. L'ensemble de l'ouvrage est en effet rédigé sans employer une seule fois la lettre « e », pourtant la plus fréquente de la langue française. Pour contourner cette interdiction, Perec a dû réinventer son vocabulaire en bannissant des termes courants comme « le », « elle » ou les temps verbaux usuels. Au-delà de l'exercice de style virtuose, cette œuvre symbolise l'absence et le traumatisme lié à la disparition des parents de l'auteur durant son enfance.",
-      "a_retenir": "Dans « La Disparition », Georges Perec accomplit la prouesse d'écrire un roman policier entier sans jamais utiliser la voyelle « e »."
+      "theme": "nature et animaux",
+      "titre": "Le chant des baleines",
+      "texte": "Les baleines à bosse communiquent entre elles à l'aide de chants complexes et mélodieux qui peuvent durer de longues heures. Ces vocalises voyagent sur de très grandes distances à travers les océans grâce aux propriétés acoustiques de l'eau. Fait fascinant, les populations de baleines d'une même région partagent le même chant, qui évolue et se transforme subtilement au fil du temps. Les chercheurs ont ainsi pu observer de vagues de transmission culturelle d'un groupe à un autre au beau milieu de l'océan. Cette forme de communication sophistiquée témoigne de la vie sociale riche et méconnue des géants des mers.",
+      "a_retenir": "Les baleines composent et transmettent de véritables mélodies évolutives pour communiquer par-delà les immensités océaniques."
     },
     {
-      "theme": "géographie et pays du monde",
-      "titre": "Les îles Diomède, la frontière du temps",
-      "texte": "Situées au milieu du détroit de Béring, les îles Diomède sont deux îles rocheuses distantes de moins de quatre kilomètres. La plus vaste, Grande Diomède, appartient au territoire russe, tandis que Petite Diomède dépend des États-Unis. Entre ces deux terres passe non seulement la frontière maritime séparant les deux pays, mais aussi la ligne de changement de date. Cette configuration crée un décalage d'environ vingt et une heures entre deux rivages que l'on distingue parfaitement à l'œil nu. Les habitants surnomment ainsi ces deux îlots voisins « l'île de demain » et « l'île d'hier ».",
-      "a_retenir": "Séparées par moins de quatre kilomètres dans le détroit de Béring, les îles Diomède marquent la frontière russo-américaine et affichent presque un jour entier de décalage horaire."
+      "theme": "sport",
+      "titre": "L'origine du mot « podium »",
+      "texte": "Le terme « podium », aujourd'hui incontournable pour récompenser les trois premiers sportifs d'une compétition, nous vient de l'Antiquité romaine. À l'origine, il désignait le mur ou la estrade surélevée qui protégeait les spectateurs des arènes lors des jeux du cirque. Ce n'est qu'au milieu du vingtième siècle, lors des Jeux du Commonwealth, que l'usage de cette estrade s'est formalisé pour honorer les athlètes victorieux. Cette mise en valeur permettait de distinguer clairement les médaillés tout en offrant une meilleure visibilité au public et aux photographes. Une simple structure architecturale est ainsi devenue le symbole universel de la consécration sportive.",
+      "a_retenir": "Le podium tire son nom des anciennes estrades romaines avant de devenir la estrade sacrée des champions sportifs."
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "69eef063a8",
-      "date": "2026-10-30",
-      "type": "actu",
-      "question": "Où s'est tenue la COP17 au cours de laquelle des textes pour la biodiversité ont été adoptés ?",
-      "choix": [
-        "À Nicosie à Chypre",
-        "À Tbilissi en Géorgie",
-        "À Bakou en Azerbaïdjan",
-        "À Erevan en Arménie"
-      ],
-      "reponse": 3,
-      "explication": "Près de 200 États membres ont adopté des textes majeurs pour la biodiversité à l'issue de la COP17 organisée à Erevan, en Arménie.",
-      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261030-cop17-textes-cl%C3%A9s-adopt%C3%A9s-protection-terres-oc%C3%A9ans-lutte-contre-pollution-biodiversit%C3%A9-arm%C3%A9nie-erevan"
-    },
-    {
-      "id": "3135068101",
-      "date": "2026-10-30",
-      "type": "actu",
-      "question": "Quelle décision a récemment prise la Confédération africaine de football (CAF) concernant la Coupe d'Afrique des nations (CAN) ?",
-      "choix": [
-        "L'organiser conjointement avec l'Asie",
-        "La remplacer définitivement par la Ligue des nations",
-        "La faire disputer tous les quatre ans",
-        "Maintenir son organisation tous les deux ans"
-      ],
-      "reponse": 3,
-      "explication": "La CAF a fait machine arrière et a voté à l'unanimité pour le maintien de la compétition tous les deux ans, renonçant au passage à un rythme quadriennal.",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261030-caf-r%C3%A9trop%C3%A9dale-can-se-jouera-de-nouveau-tous-deux-ans"
-    },
-    {
-      "id": "d32c0d95a3",
-      "date": "2026-10-30",
-      "type": "actu",
-      "question": "Quel événement dramatique a provoqué de vives inquiétudes et des dizaines de disparitions en Espagne ?",
-      "choix": [
-        "Un glissement de terrain majeur",
-        "Un déraillement de train",
-        "Une collision ferroviaire",
-        "L'effondrement d'un viaduc routier"
-      ],
-      "reponse": 2,
-      "explication": "Le drame en Espagne a été causé par une collision ferroviaire qui a laissé 67 personnes portées disparues.",
-      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/en-espagne-les-familles-entre-la-colere-et-le-desespoir-apres-la-tragedie_8261027.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "id": "3067e3562d",
-      "date": "2026-10-30",
-      "type": "actu",
-      "question": "En Pologne, l'éviction de quel haut responsable a entraîné le déploiement de la police antiémeute à Varsovie ?",
-      "choix": [
-        "Le procureur général de la République",
-        "Le président du Tribunal constitutionnel",
-        "Le ministre de l'Intérieur",
-        "Le président de la Cour suprême"
-      ],
-      "reponse": 1,
-      "explication": "L'éviction du président du Tribunal constitutionnel polonais a provoqué de fortes tensions et le blocage de l'accès à la juridiction par les forces de l'ordre.",
-      "lien": "https://www.lemonde.fr/international/article/2026/10/30/en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-deployee-a-varsovie_6803134_3210.html"
-    },
-    {
-      "id": "38b0b36175",
-      "date": "2026-10-30",
-      "type": "actu",
-      "question": "Combien de stations de métro parisiennes ont été fermées le 31 octobre en raison des manifestations ?",
-      "choix": [
-        "L'intégralité du réseau métropolitain",
-        "Plus de 40 stations",
-        "Environ 25 stations",
-        "Moins d'une dizaine"
-      ],
-      "reponse": 1,
-      "explication": "Plus de 40 stations de métro ont été fermées par mesure de sécurité à Paris lors de cette journée de mobilisation.",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "72ca7c48d1",
-      "date": "2026-10-30",
-      "type": "culture",
-      "question": "Comment nomme-t-on l'état d'inactivité métabolique quasi totale dans lequel plonge le tardigrade pour résister à des conditions extrêmes ?",
-      "choix": [
-        "La cryptobiose",
-        "La catalepsie",
-        "La parthénogenèse",
-        "L'estivation"
-      ],
-      "reponse": 0,
-      "explication": "Face à des environnements hostiles, le tardigrade entre en cryptobiose : il vide son corps de son eau et suspend presque totalement son métabolisme.",
-      "lien": ""
-    },
-    {
-      "id": "099128c792",
-      "date": "2026-10-30",
-      "type": "culture",
-      "question": "Quelle contrainte littéraire Georges Perec s'est-il imposée pour écrire son célèbre roman « La Disparition » ?",
-      "choix": [
-        "Ne jamais employer la lettre « e »",
-        "Écrire entièrement l'ouvrage sous forme de lipogramme en « a »",
-        "Rédiger chaque phrase sous forme d'alexandrin",
-        "N'utiliser aucun adjectif qualificatif"
-      ],
-      "reponse": 0,
-      "explication": "« La Disparition » est un lipogramme de trois cents pages entièrement rédigé sans employer la voyelle « e », la plus courante de la langue française.",
-      "lien": ""
-    }
-  ]
+  "quiz_jour": []
 }
