@@ -1949,6 +1949,111 @@
       "reponse": 0,
       "explication": "« La Disparition » est un lipogramme de trois cents pages entièrement rédigé sans employer la voyelle « e », la plus courante de la langue française.",
       "lien": ""
+    },
+    {
+      "id": "ede0a2716b",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Quel résultat a obtenu l'équipe de France féminine de rugby lors de sa tournée contre la Nouvelle-Zélande ?",
+      "choix": [
+        "Une victoire historique",
+        "Un match nul",
+        "Une annulation du match",
+        "Une troisième défaite consécutive"
+      ],
+      "reponse": 3,
+      "explication": "L'article précise que la défaite face aux Black Ferns marque le troisième revers d'affilée des Bleues.",
+      "lien": "https://www.franceinfo.fr/sports/rugby/xv-de-france/video-un-seul-essai-une-troisieme-defaite-d-affilee-pour-les-bleues-le-resume-de-nouvelle-zelande-france-en-women-xv-global-series_8261756.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "622014a70f",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Pourquoi le président de la Chambre du commerce et de l'industrie de Paris s'inquiète-t-il des manifestations ?",
+      "choix": [
+        "À cause d'une grève des transports publics",
+        "À cause de la hausse des prix des matières premières",
+        "En raison de l'impact sur le commerce traditionnel et le tourisme en fin d'année",
+        "Parce que les commerçants refusent d'ouvrir leurs boutiques"
+      ],
+      "reponse": 2,
+      "explication": "Le texte souligne que ces secteurs réalisent 40% de leur chiffre d'affaires en fin d'année et que le tourisme est en baisse.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/le-commerce-traditionnel-est-en-danger-alerte-le-president-de-la-chambre-du-commerce-et-de-l-industrie-de-paris-avant-de-nouvelles-manifestations-samedi_8261735.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "4bbdeee0a4",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Combien de combattants français ont participé à la guerre de Corée au sein du Bataillon français de l'ONU ?",
+      "choix": [
+        "Environ 500",
+        "Plus de 3 000",
+        "Près de 10 000",
+        "Moins de 1 000"
+      ],
+      "reponse": 1,
+      "explication": "L'article mentionne explicitement que plus de 3 000 combattants français ont pris part à ce conflit.",
+      "lien": "https://www.franceinfo.fr/monde/coree-du-sud/une-ceremonie-d-inhumation-des-cendres-d-un-veteran-francais-de-la-guerre-de-coree-s-est-tenue-a-busan-au-pays_8261660.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "84539f3fab",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Quels types d'engins ont été utilisés pour frapper une centrale électrique à Kiev selon Volodymyr Zelensky ?",
+      "choix": [
+        "Des obus d'artillerie",
+        "Des avions de chasse",
+        "Des drones de type Shahed",
+        "Des missiles balistiques"
+      ],
+      "reponse": 2,
+      "explication": "Selon le résumé, le président ukrainien a indiqué que des drones de type Shahed ont frappé une centrale dans la capitale.",
+      "lien": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-des-centaines-de-milliers-de-foyers-prives-d-electricite-dans-les-regions-de-dnipro-et-de-kiev-apres-des-bombardements-russes_6799896_3210.html"
+    },
+    {
+      "id": "7d7da9df18",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Quel exploit Luis Enrique a-t-il récemment accompli avec le Paris Saint-Germain ?",
+      "choix": [
+        "Il a remporté la Ligue des champions",
+        "Il a marqué un but lors du match contre Le Havre",
+        "Il a signé un contrat à vie",
+        "Il est devenu l'entraîneur le plus victorieux de l'histoire du club"
+      ],
+      "reponse": 3,
+      "explication": "L'article indique qu'il est devenu l'entraîneur ayant décroché le plus de victoires avec le PSG après le match au Havre.",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-1/infographies-victoires-trophees-matchs-en-ligue-des-champions-les-records-de-luis-enrique-avec-le-psg_8261606.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "0f0ea9906f",
+      "date": "2026-10-31",
+      "type": "culture",
+      "question": "Quelle est l'utilisation principale de la technologie de lévitation magnétique (Maglev) aujourd'hui ?",
+      "choix": [
+        "La conservation des aliments",
+        "Le transport ferroviaire à grande vitesse",
+        "La production d'électricité propre",
+        "La propulsion de satellites"
+      ],
+      "reponse": 1,
+      "explication": "La fiche indique que cette technologie est utilisée pour les trains à grande vitesse afin de supprimer les frottements mécaniques.",
+      "lien": ""
+    },
+    {
+      "id": "16f3c8de97",
+      "date": "2026-10-31",
+      "type": "culture",
+      "question": "À l'origine, dans l'Antiquité romaine, que désignait le mot 'podium' ?",
+      "choix": [
+        "Un siège réservé à l'empereur",
+        "Une estrade pour les vainqueurs de courses",
+        "Une statue de gladiateur",
+        "Le mur ou l'estrade protégeant les spectateurs dans les arènes"
+      ],
+      "reponse": 3,
+      "explication": "La fiche précise que le terme désignait le mur ou l'estrade protégeant les spectateurs des arènes lors des jeux du cirque.",
+      "lien": ""
     }
   ]
 }
