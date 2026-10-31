@@ -2054,6 +2054,111 @@
       "reponse": 3,
       "explication": "La fiche précise que le terme désignait le mur ou l'estrade protégeant les spectateurs des arènes lors des jeux du cirque.",
       "lien": ""
+    },
+    {
+      "id": "d03e4802ed",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Quel a été le nombre de manifestants recensé par le ministère de l'Intérieur lors de la mobilisation du 31 octobre en France ?",
+      "choix": [
+        "1 million de personnes",
+        "320 000 personnes",
+        "150 000 personnes",
+        "Près d'un demi-million de personnes"
+      ],
+      "reponse": 1,
+      "explication": "Le ministère de l'Intérieur a dénombré 320 000 manifestants, tandis que l'intersyndicale en revendiquait près d'un demi-million.",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "3163226471",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Quel pilote français a été écarté par l'écurie Haas pour le reste du Grand Prix du Mexique en Formule 1 ?",
+      "choix": [
+        "Esteban Ocon",
+        "Charles Leclerc",
+        "Pierre Gasly",
+        "Théo Pourchaire"
+      ],
+      "reponse": 0,
+      "explication": "C'est le Français Esteban Ocon, en difficulté cette saison, qui a été écarté par Haas au profit de Ryo Hirakawa.",
+      "lien": "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-le-francais-esteban-ocon-ecarte-par-haas-pour-le-grand-prix-du-mexique_8261984.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "75132f277c",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Combien de victimes ont perdu la vie lors de la collision de trains survenue en Espagne ?",
+      "choix": [
+        "120 morts",
+        "12 morts",
+        "69 morts",
+        "45 morts"
+      ],
+      "reponse": 2,
+      "explication": "Le ministère des Affaires étrangères a confirmé que la collision de trains en Espagne a fait 69 morts, parmi lesquels figure une ressortissante française.",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-francaise-figure-parmi-les-victimes-de-la-collision-de-trains-en-espagne-qui-a-fait-69-morts-annonce-le-ministere-des-affaires-etrangeres_8261951.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "0dc93174ad",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Dans quelle ville italienne se déroule chaque année une course de fromage médiévale avec une meule de pecorino ?",
+      "choix": [
+        "Florence",
+        "Volterra",
+        "Sienne",
+        "Pise"
+      ],
+      "reponse": 1,
+      "explication": "La ville de Volterra, située en Toscane, accueille chaque année cette course traditionnelle de fromages.",
+      "lien": "https://www.franceinfo.fr/monde/italie/c-est-magnifique-en-italie-une-course-de-fromages-medievale-fait-vibrer-les-rues-de-volterra-en-toscane_8261921.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "06882592e9",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Quel dirigeant politique polonais est en désaccord avec le Premier ministre Donald Tusk au Tribunal constitutionnel de Varsovie ?",
+      "choix": [
+        "Andrzej Duda",
+        "Jaroslaw Kaczynski",
+        "Mateusz Morawiecki",
+        "Karol Nawrocki"
+      ],
+      "reponse": 3,
+      "explication": "La crise politique au Tribunal constitutionnel oppose le Premier ministre Donald Tusk au président Karol Nawrocki.",
+      "lien": "https://www.franceinfo.fr/monde/europe/pologne-une-crise-politique-eclate-au-tribunal-constitutionnel-de-varsovie-le-premier-ministre-donald-tusk-defie-par-le-president-karol-nawrocki_8261876.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "5924f8ac5f",
+      "date": "2026-10-31",
+      "type": "culture",
+      "question": "Quel est le nom de la technologie de transport qui utilise la lévitation magnétique pour supprimer les frottements avec les rails ?",
+      "choix": [
+        "Le Hyperloop",
+        "Le TGV",
+        "Le Shinkansen",
+        "Le Maglev"
+      ],
+      "reponse": 3,
+      "explication": "Le Maglev est un train à grande vitesse utilisant la lévitation magnétique pour éliminer les frictions mécaniques.",
+      "lien": ""
+    },
+    {
+      "id": "ecb8c814b7",
+      "date": "2026-10-31",
+      "type": "culture",
+      "question": "De quelle civilisation antique nous vient le mot « podium », aujourd'hui utilisé pour récompenser les sportifs ?",
+      "choix": [
+        "L'Antiquité romaine",
+        "La Grèce antique",
+        "L'Égypte ancienne",
+        "La Perse antique"
+      ],
+      "reponse": 0,
+      "explication": "Le mot « podium » vient de l'Antiquité romaine, où il désignait le mur ou l'estrade protégeant les spectateurs des arènes.",
+      "lien": ""
     }
   ]
 }
