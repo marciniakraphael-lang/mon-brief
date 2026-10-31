@@ -2159,6 +2159,111 @@
       "reponse": 0,
       "explication": "Le mot « podium » vient de l'Antiquité romaine, où il désignait le mur ou l'estrade protégeant les spectateurs des arènes.",
       "lien": ""
+    },
+    {
+      "id": "b5a8445d48",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "En Allemagne, que réclament les jeunes mobilisés par le collectif « GenZ regelt » ?",
+      "choix": [
+        "L'interdiction des énergies fossiles d'ici 2030",
+        "Des réformes structurelles et plus de moyens pour l'éducation",
+        "La réduction du temps de travail hebdomadaire",
+        "Une baisse immédiate du prix des transports en commun"
+      ],
+      "reponse": 1,
+      "explication": "Le collectif allemand « GenZ regelt » réclame des réformes structurelles et davantage de moyens financiers pour le secteur éducatif, en s'inspirant des mobilisations françaises.",
+      "lien": "https://www.france24.com/fr/europe/20261031-allemagne-gen-z-demande-r%C3%A9formes-pour-%C3%A9ducation-inspir%C3%A9e-par-mouvement-fran%C3%A7ais-manifestations-polices-jeunesse"
+    },
+    {
+      "id": "80d3302c56",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Pourquoi cinq ressortissants britanniques ont-ils été interpellés dans le nord de la France ?",
+      "choix": [
+        "Pour avoir diffusé en direct des actes d'intimidation envers des migrants",
+        "Pour transport illégal et contrebande de carburant",
+        "Pour avoir organisé le passage clandestin d'embarcations de fortune",
+        "Pour des dégradations commises sur les installations portuaires"
+      ],
+      "reponse": 0,
+      "explication": "Les cinq suspects britanniques circulaient en minibus et diffusaient en direct sur les réseaux sociaux des actions d'intimidation visant des personnes migrantes.",
+      "lien": "https://www.franceinfo.fr/monde/europe/migrants/cinq-britanniques-interpelles-jeudi-dans-le-nord-pour-des-actions-anti-migrants_8262203.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "a67c76ceb3",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "En quoi l'édition actuelle des Jeux olympiques de la jeunesse organisée au Sénégal est-elle historique ?",
+      "choix": [
+        "C'est la première édition entièrement financée par des fonds privés",
+        "C'est l'édition rassemblant le plus grand nombre de pays participants",
+        "C'est la première fois qu'ils ont lieu sur le continent africain",
+        "C'est la première fois qu'ils accueillent des épreuves handisport"
+      ],
+      "reponse": 2,
+      "explication": "L'ouverture des Jeux olympiques de la jeunesse au Sénégal marque une première historique pour le sport mondial en se déroulant sur le continent africain.",
+      "lien": "https://www.france24.com/fr/afrique/20261031-les-jeux-olympiques-de-la-jeunesse-premier-%C3%A9v%C3%A8nement-olympique-en-afrique-s-ouvrent-%C3%A0-dakar"
+    },
+    {
+      "id": "17446d34ea",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "De combien l'enseigne E. Leclerc a-t-elle annoncé baisser le prix du gazole par litre ?",
+      "choix": [
+        "10 centimes d'euro",
+        "15 centimes d'euro",
+        "30 centimes d'euro",
+        "21 centimes d'euro"
+      ],
+      "reponse": 3,
+      "explication": "E. Leclerc a annoncé une baisse de 21 centimes d'euro par litre de gazole, ce qui correspond à un peu plus de 10 euros d'économie pour un plein de 50 litres.",
+      "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/e-leclerc-baisse-egalement-le-prix-du-gazole-apres-totalenergies_8262119.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "8efab3ebed",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Quel organe institutionnel est au cœur d'une grave crise politique en Pologne ?",
+      "choix": [
+        "Le Tribunal constitutionnel",
+        "Le Conseil d'État",
+        "La Cour des comptes",
+        "Le Sénat polonais"
+      ],
+      "reponse": 0,
+      "explication": "La crise politique majeure en Pologne tourne autour du Tribunal constitutionnel après le refus du président de valider la nomination de nouveaux juges.",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/31/la-pologne-ne-s-est-pas-eteinte-et-ne-s-eteindra-pas-declare-donald-tusk-alors-que-le-pays-est-plonge-dans-une-grave-crise-politique-liee-au-tribunal-constitutionnel_6803486_3211.html"
+    },
+    {
+      "id": "87fa767ff3",
+      "date": "2026-10-31",
+      "type": "culture",
+      "question": "Dans les trains à grande vitesse de type Maglev, quel est l'intérêt principal de la lévitation magnétique ?",
+      "choix": [
+        "Éviter les perturbations causées par les intempéries",
+        "Recharger les batteries du train en continu pendant le trajet",
+        "Supprimer les frottements mécaniques avec les rails",
+        "Réduire le poids total de la rame de moitié"
+      ],
+      "reponse": 2,
+      "explication": "La lévitation magnétique permet d'éliminer les frottements mécaniques entre le train et les rails, ce qui autorise des vitesses très élevées avec une grande fluidité.",
+      "lien": ""
+    },
+    {
+      "id": "198c199697",
+      "date": "2026-10-31",
+      "type": "culture",
+      "question": "À l'origine dans l'Antiquité romaine, que désignait le mot « podium » ?",
+      "choix": [
+        "Une couronne de laurier remise aux gladiateurs victorieux",
+        "Un mur ou une estrade surélevée protégeant les spectateurs des arènes",
+        "Le trône réservé aux empereurs au sein du Sénat",
+        "Le char utilisé par le vainqueur lors des courses de cirque"
+      ],
+      "reponse": 1,
+      "explication": "Dans l'Antiquité romaine, le podium désignait un mur ou une estrade surélevée servant à protéger les spectateurs des arènes lors des jeux du cirque.",
+      "lien": ""
     }
   ]
 }

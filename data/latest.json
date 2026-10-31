@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "mode": "evening",
-  "updated": "2026-10-31T17:45:12.712421+01:00",
+  "updated": "2026-10-31T22:07:40.309400+01:00",
   "deja_presente": [
     {
       "titre": "Manifestations du 31 octobre : la préfecture de police interdit les parcours dans le centre de Paris déposés par la CGT et les gilets jaunes",
@@ -152,84 +152,52 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Mobilisation du 31 octobre : près d'un demi-million de manifestants en France selon l'intersyndicale, 320 000 d'après le ministère de l'Intérieur, en baisse par rapport au 24 octobre",
-      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · Le Monde",
-      "date": "2026-10-31T17:39:07+01:00",
-      "resume": "Près d'un demi-million de personnes ont manifesté en France selon l'intersyndicale, et 320 000 d'après le ministère de l'Intérieur, à l'occasion de l'Acte III de la mobilisation contre la vie chère et pour les conditions d'études. À Paris et dans de nombreuses régions comme Bordeaux, Toulouse ou Strasbourg, les cortèges ont rassemblé des participants encadrés par 70 000 policiers et gendarmes. La manifestation parisienne s'est déroulée globalement dans le calme entre la porte de Bagnolet et la porte de Charenton, avant des tensions constatées au moment de la dispersion, comme dans la plupart des grandes villes.",
-      "contexte": "Ces mouvements s'inscrivent dans un climat social tendu marqué par l'inflation et les préoccupations concernant le pouvoir d'achat et les conditions de vie. Les manifestations récurrentes visent à maintenir la pression sur le gouvernement pour obtenir des revalorisations salariales et des mesures de soutien pour les lycéens et étudiants."
+      "titre": "EN DIRECT, manifestations du 31 octobre : plusieurs centaines de milliers de personnes ont défilé contre la vie chère en France, des couvre-feux partiels prévus cette nuit dans certaines grandes villes",
+      "lien": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html",
+      "source": "Le Monde · franceinfo",
+      "date": "2026-10-31T22:01:40+01:00",
+      "resume": "Pour le troisième samedi consécutif, entre 320 000 et près d'un demi-million de personnes ont manifesté en France contre la vie chère. À Paris, le cortège s'est déroulé entre les portes de Bagnolet et de Charenton, où un gendarme mobile a été blessé par un jet de cocktail Molotov, un acte qualifié de tentative de meurtre par le ministre de l'Intérieur. Au total, plus de 40 000 contrôles et 565 interpellations ont été recensés sur le territoire national, tandis que des cortèges non déclarés ont aussi eu lieu en région, notamment à Marseille avec environ 10 000 participants.",
+      "contexte": "Cette contestation sociale s'inscrit dans un climat de forte grogne liée à l'inflation et à la perte de pouvoir d'achat des ménages. Les affrontements récurrents et les violences attribuées à des groupes radicaux poussent les autorités à durcir les dispositifs de sécurité, allant jusqu'à instaurer des couvre-feux partiels dans plusieurs grandes agglomérations pour prévenir les débordements nocturnes."
     },
     {
-      "titre": "Le parquet de Paris a ouvert une enquête pour provocation à la haine raciale en raison de menaces racistes visant des livreurs et chauffeurs sur X",
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/31/le-parquet-de-paris-a-ouvert-une-enquete-pour-provocation-a-la-haine-raciale-en-raison-de-menaces-racistes-visant-des-livreurs-et-chauffeurs-sur-x_6803720_3224.html",
+      "titre": "Allemagne : la \"Gen Z\" demande des réformes pour l’éducation, inspirée par le mouvement français",
+      "lien": "https://www.france24.com/fr/europe/20261031-allemagne-gen-z-demande-r%C3%A9formes-pour-%C3%A9ducation-inspir%C3%A9e-par-mouvement-fran%C3%A7ais-manifestations-polices-jeunesse",
+      "source": "France 24",
+      "date": "2026-10-31T21:58:38+01:00",
+      "resume": "Des dizaines de milliers de jeunes sont descendus dans la rue en Allemagne ce samedi à l'appel du collectif « GenZ regelt ». Les manifestants réclament des réformes structurelles ainsi que davantage de moyens financiers pour le secteur de l'éducation. Cette mobilisation s'inspire directement des récents mouvements de protestation menés par la jeunesse en France.",
+      "contexte": "La jeunesse européenne exprime une inquiétude croissante face à la dégradation des conditions d'études et au manque d'investissements publics dans les infrastructures scolaires et universitaires. Le recours à des collectifs citoyens indépendants permet à cette génération de contourner les syndicats traditionnels pour porter ses propres revendications à l'échelle nationale."
+    },
+    {
+      "titre": "Cinq Britanniques interpellés jeudi dans le Nord pour des actions anti-migrants",
+      "lien": "https://www.franceinfo.fr/monde/europe/migrants/cinq-britanniques-interpelles-jeudi-dans-le-nord-pour-des-actions-anti-migrants_8262203.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-10-31T21:35:01+01:00",
+      "resume": "Cinq ressortissants britanniques ont été interpellés jeudi sur le littoral du nord de la France. Les suspects circulaient à bord d'un minibus et diffusaient en direct sur les réseaux sociaux des séquences montrant des actions d'intimidation visant des personnes migrantes.",
+      "contexte": "Le littoral de la Manche est une zone de forte tension en raison des tentatives régulières de traversées clandestines vers le Royaume-Uni. Ces actions militantes hostiles s'expliquent par la radicalisation de certains groupes qui cherchent à entraver les départs par leurs propres moyens tout en instrumentalisant la crise migratoire en ligne."
+    },
+    {
+      "titre": "« La Pologne ne s’est pas éteinte et ne s’éteindra pas », déclare Donald Tusk alors que le pays est plongé dans une grave crise politique liée au Tribunal constitutionnel",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/31/la-pologne-ne-s-est-pas-eteinte-et-ne-s-eteindra-pas-declare-donald-tusk-alors-que-le-pays-est-plonge-dans-une-grave-crise-politique-liee-au-tribunal-constitutionnel_6803486_3211.html",
       "source": "Le Monde",
-      "date": "2026-10-31T17:24:39+01:00",
-      "resume": "Le parquet de Paris a ouvert une enquête pour provocation à la haine raciale suite à des menaces racistes visant des livreurs et des chauffeurs sur le réseau social X. Ces propos ont été tenus au début d'octobre dans un salon de discussion intitulé « L’heure est à l’action face à la violence des islamo-collabos antifas ».",
-      "contexte": "L'utilisation des réseaux sociaux pour diffuser des messages de haine et inciter à la violence pose un défi persistant aux autorités judiciaires et aux plateformes en matière de modération. Ce type d'enquête vise à identifier les auteurs de propos illégaux en ligne pour lutter contre la prolifération des discriminations."
+      "date": "2026-10-31T21:32:46+01:00",
+      "resume": "Le premier ministre polonais Donald Tusk a déclaré que son pays ne s'éteindrait pas, alors que la Pologne fait face à une grave crise politique au sein du Tribunal constitutionnel. La discorde a éclaté après le refus du président nationaliste Karol Nawrocki de valider la nomination de nouveaux juges. En réponse, le président contesté de l'institution a été écarté par des magistrats proches du pouvoir centriste, nécessitant une intervention policière.",
+      "contexte": "Depuis son retour au pouvoir, la coalition pro-européenne de Donald Tusk tente de démanteler les réformes judiciaires instaurées par les nationalistes, jugées contraires à l'État de droit par l'Union européenne. La cohabitation conflictuelle entre le gouvernement centriste et le président conservateur bloque régulièrement le fonctionnement des institutions et retarde la normalisation des relations avec Bruxelles."
     },
     {
-      "titre": "F1 : le Français Esteban Ocon écarté par Haas pour le Grand Prix du Mexique",
-      "lien": "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-le-francais-esteban-ocon-ecarte-par-haas-pour-le-grand-prix-du-mexique_8261984.html#xtor=RSS-3-[lestitres]",
+      "titre": "Sénégal : les Jeux olympiques de la jeunesse sont officiellement ouverts",
+      "lien": "https://www.france24.com/fr/afrique/20261031-les-jeux-olympiques-de-la-jeunesse-premier-%C3%A9v%C3%A8nement-olympique-en-afrique-s-ouvrent-%C3%A0-dakar",
+      "source": "France 24",
+      "date": "2026-10-31T20:14:02+01:00",
+      "resume": "Les Jeux olympiques de la jeunesse ont été officiellement ouverts au Sénégal. L'événement marque une étape historique pour le sport mondial en se tenant pour la première fois sur le continent africain.",
+      "contexte": "Cette compétition permet au Comité international olympique de tester des formats d'épreuves et de valoriser les jeunes athlètes de la scène internationale. Pour le pays hôte et l'Afrique, l'organisation de ces jeux représente une opportunité majeure pour développer les infrastructures sportives locales et démontrer leur capacité à accueillir de grands rendez-vous planétaires."
+    },
+    {
+      "titre": "E. Leclerc baisse également le prix du gazole, après TotalEnergies",
+      "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/e-leclerc-baisse-egalement-le-prix-du-gazole-apres-totalenergies_8262119.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-31T17:12:42+01:00",
-      "resume": "Le pilote français Esteban Ocon a été écarté par l'écurie Haas pour le reste du Grand Prix du Mexique en Formule 1. En difficulté cette saison avec seulement sept points marqués, il cède sa place au Japonais Ryo Hirakawa pour le week-end.",
-      "contexte": "Dans le milieu ultra-compétitif de la Formule 1, les écuries n'hésitent pas à modifier leur line-up en cours de saison ou à sanctionner les performances jugées insuffisantes pour stimuler leurs résultats ou tester de nouveaux pilotes."
-    },
-    {
-      "titre": "En Angleterre, Manchester United s’enfonce un peu plus dans la crise après sa défaite sur la pelouse de Chelsea",
-      "lien": "https://www.lemonde.fr/sport/article/2026/10/31/en-angleterre-manchester-united-s-enfonce-un-peu-plus-dans-la-crise-apres-sa-defaite-sur-la-pelouse-de-chelsea_6803717_3242.html",
-      "source": "Le Monde",
-      "date": "2026-10-31T17:08:29+01:00",
-      "resume": "Manchester United s'est incliné 0-2 sur la pelouse de Chelsea en championnat d'Angleterre samedi, prolongeant sa série noire à neuf matchs sans victoire. Ce début de saison catastrophique fragilise encore davantage la situation de l'entraîneur Michael Carrick.",
-      "contexte": "La pression est traditionnellement très forte dans les clubs de football de premier plan comme Manchester United, où l'absence de victoires répétées met immédiatement en cause l'avenir de l'encadrement technique et perturbe les ambitions sportives de la saison."
-    },
-    {
-      "titre": "Nathalie Sarraute ou la vie sous les mots",
-      "lien": "https://www.lemonde.fr/culture/article/2026/10/31/nathalie-sarraute-ou-la-vie-sous-les-mots_6803716_3246.html",
-      "source": "Le Monde",
-      "date": "2026-10-31T17:00:12+01:00",
-      "resume": "L'œuvre de l'écrivaine Nathalie Sarraute, active de 1900 à 1999, est mise en lumière à travers sa notion de « tropismes », qui désigne les mouvements fugaces de la conscience lors des conversations. Elle a fait de ces sensations inexprimées la matière d'une littérature majeure du XXe siècle.",
-      "contexte": "Ce type de rappel biographique et littéraire permet de valoriser les figures tutélaires de la littérature française et d'explorer les évolutions du roman psychologique du XXe siècle."
-    },
-    {
-      "titre": "Ballon d'or 2026 : le groupe Amaury, propriétaire de France Football, va déposer plainte après des soupçons de fuites de résultats et de paris frauduleux",
-      "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-le-groupe-amaury-proprietaire-de-france-football-va-deposer-plainte-apres-des-soupcons-de-fuites-de-resultats-et-de-paris-frauduleux_8261981.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-31T16:57:25+01:00",
-      "resume": "Le groupe Amaury, propriétaire de France Football, a annoncé qu'il allait déposer plainte après des soupçons de fuites de résultats et de paris frauduleux concernant le Ballon d'or 2026. Des paris suspects ont été mis en lumière sur les cinq premiers joueurs du classement, poussant l'organisation à prendre ces allégations très au sérieux.",
-      "contexte": "L'intégrité des votes et des classements pour les distinctions sportives mondiales est essentielle pour préserver la crédibilité de ces événements, rendant toute fuite ou manipulation financière passible de poursuites judiciaires."
-    },
-    {
-      "titre": "Une Française figure parmi les victimes de la collision de trains en Espagne qui a fait 69 morts, annonce le ministère des Affaires étrangères",
-      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-francaise-figure-parmi-les-victimes-de-la-collision-de-trains-en-espagne-qui-a-fait-69-morts-annonce-le-ministere-des-affaires-etrangeres_8261951.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-31T16:39:35+01:00",
-      "resume": "Le ministère des Affaires étrangères a annoncé qu'une ressortissante française figure parmi les 69 victimes de la collision de trains survenue en Espagne. Le Quai d'Orsay, qui était sans nouvelles de plusieurs compatriotes, a indiqué être en lien constant avec la famille de la victime.",
-      "contexte": "Les accidents de transport d'une telle ampleur nécessitent une coordination étroite entre les autorités consulaires du pays d'origine et les services de secours locaux pour identifier les victimes et accompagner les proches."
-    },
-    {
-      "titre": "\"C'est magnifique\" : en Italie, une course de fromages médiévale fait vibrer les rues de Volterra",
-      "lien": "https://www.franceinfo.fr/monde/italie/c-est-magnifique-en-italie-une-course-de-fromages-medievale-fait-vibrer-les-rues-de-volterra-en-toscane_8261921.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-31T16:36:34+01:00",
-      "resume": "La ville de Volterra, en Toscane, accueille chaque année à la fin du mois d'octobre une course de fromage médiévale où s'affrontent huit quartiers sur un parcours d'une centaine de mètres avec une meule de pecorino.",
-      "contexte": "Ce type de manifestation folklorique et traditionnelle perdure dans de nombreuses communes européennes pour animer la vie locale, renforcer la cohésion communautaire et attirer les visiteurs."
-    },
-    {
-      "titre": "La mairie de Paris saisit la justice après la découverte de tags \"remigration\" sur des façades de commerces",
-      "lien": "https://www.franceinfo.fr/societe/immigration/la-mairie-de-paris-saisit-la-justice-apres-la-decouverte-de-tags-remigration-sur-des-facades-de-commerces_8261918.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-31T16:33:32+01:00",
-      "resume": "La mairie de Paris a saisi la justice et demandé l'identification des auteurs après la découverte de tags « remigration » sur des façades de commerces. Des équipes de la propreté ont été dépêchées pour effacer ces inscriptions racistes.",
-      "contexte": "Les dégradations de biens publics ou privés par des messages à caractère politique ou haineux font l'objet de poursuites systématiques pour préserver l'ordre public et lutter contre les discriminations dans l'espace urbain."
-    },
-    {
-      "titre": "Pologne : une crise politique éclate au Tribunal constitutionnel de Varsovie, le Premier ministre Donald Tusk défié par le président Karol Nawrocki",
-      "lien": "https://www.franceinfo.fr/monde/europe/pologne-une-crise-politique-eclate-au-tribunal-constitutionnel-de-varsovie-le-premier-ministre-donald-tusk-defie-par-le-president-karol-nawrocki_8261876.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-31T16:32:31+01:00",
-      "resume": "Une crise politique éclate en Pologne au Tribunal constitutionnel de Varsovie, où le Premier ministre Donald Tusk est défié par le président Karol Nawrocki. La suspension du président du Tribunal a entraîné des manifestations et une intervention du président Nawrocki, illustrant un profond désaccord sur l'avenir de la justice polonaise.",
-      "contexte": "Les tensions institutionnelles en Pologne reflètent les divergences persistantes entre le gouvernement en place et la présidence sur les réformes de l'appareil judiciaire et l'État de droit."
+      "date": "2026-10-31T19:43:33+01:00",
+      "resume": "L'enseigne de grande distribution E. Leclerc a annoncé une baisse du prix du gazole de 21 centimes d'euro par litre. Cette décision intervient dans le sillage d'une mesure similaire adoptée par le groupe pétrolier TotalEnergies. La réduction représente une économie d'un peu plus de 10 euros pour un plein de 50 litres.",
+      "contexte": "Les distributeurs de carburant mènent souvent des opérations à prix réduit ou à marge minimale pour attirer les consommateurs dans leurs stations et leurs magasins. Dans un contexte de vigilance accrue sur le pouvoir d'achat, cette concurrence tarifaire vise généralement à fidéliser la clientèle face à la hausse générale des coûts de la vie."
     }
   ],
   "culture": [
@@ -254,108 +222,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "d03e4802ed",
+      "id": "b5a8445d48",
       "date": "2026-10-31",
       "type": "actu",
-      "question": "Quel a été le nombre de manifestants recensé par le ministère de l'Intérieur lors de la mobilisation du 31 octobre en France ?",
+      "question": "En Allemagne, que réclament les jeunes mobilisés par le collectif « GenZ regelt » ?",
       "choix": [
-        "1 million de personnes",
-        "320 000 personnes",
-        "150 000 personnes",
-        "Près d'un demi-million de personnes"
+        "L'interdiction des énergies fossiles d'ici 2030",
+        "Des réformes structurelles et plus de moyens pour l'éducation",
+        "La réduction du temps de travail hebdomadaire",
+        "Une baisse immédiate du prix des transports en commun"
       ],
       "reponse": 1,
-      "explication": "Le ministère de l'Intérieur a dénombré 320 000 manifestants, tandis que l'intersyndicale en revendiquait près d'un demi-million.",
-      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]"
+      "explication": "Le collectif allemand « GenZ regelt » réclame des réformes structurelles et davantage de moyens financiers pour le secteur éducatif, en s'inspirant des mobilisations françaises.",
+      "lien": "https://www.france24.com/fr/europe/20261031-allemagne-gen-z-demande-r%C3%A9formes-pour-%C3%A9ducation-inspir%C3%A9e-par-mouvement-fran%C3%A7ais-manifestations-polices-jeunesse"
     },
     {
-      "id": "3163226471",
+      "id": "80d3302c56",
       "date": "2026-10-31",
       "type": "actu",
-      "question": "Quel pilote français a été écarté par l'écurie Haas pour le reste du Grand Prix du Mexique en Formule 1 ?",
+      "question": "Pourquoi cinq ressortissants britanniques ont-ils été interpellés dans le nord de la France ?",
       "choix": [
-        "Esteban Ocon",
-        "Charles Leclerc",
-        "Pierre Gasly",
-        "Théo Pourchaire"
+        "Pour avoir diffusé en direct des actes d'intimidation envers des migrants",
+        "Pour transport illégal et contrebande de carburant",
+        "Pour avoir organisé le passage clandestin d'embarcations de fortune",
+        "Pour des dégradations commises sur les installations portuaires"
       ],
       "reponse": 0,
-      "explication": "C'est le Français Esteban Ocon, en difficulté cette saison, qui a été écarté par Haas au profit de Ryo Hirakawa.",
-      "lien": "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-le-francais-esteban-ocon-ecarte-par-haas-pour-le-grand-prix-du-mexique_8261984.html#xtor=RSS-3-[lestitres]"
+      "explication": "Les cinq suspects britanniques circulaient en minibus et diffusaient en direct sur les réseaux sociaux des actions d'intimidation visant des personnes migrantes.",
+      "lien": "https://www.franceinfo.fr/monde/europe/migrants/cinq-britanniques-interpelles-jeudi-dans-le-nord-pour-des-actions-anti-migrants_8262203.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "75132f277c",
+      "id": "a67c76ceb3",
       "date": "2026-10-31",
       "type": "actu",
-      "question": "Combien de victimes ont perdu la vie lors de la collision de trains survenue en Espagne ?",
+      "question": "En quoi l'édition actuelle des Jeux olympiques de la jeunesse organisée au Sénégal est-elle historique ?",
       "choix": [
-        "120 morts",
-        "12 morts",
-        "69 morts",
-        "45 morts"
+        "C'est la première édition entièrement financée par des fonds privés",
+        "C'est l'édition rassemblant le plus grand nombre de pays participants",
+        "C'est la première fois qu'ils ont lieu sur le continent africain",
+        "C'est la première fois qu'ils accueillent des épreuves handisport"
       ],
       "reponse": 2,
-      "explication": "Le ministère des Affaires étrangères a confirmé que la collision de trains en Espagne a fait 69 morts, parmi lesquels figure une ressortissante française.",
-      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-francaise-figure-parmi-les-victimes-de-la-collision-de-trains-en-espagne-qui-a-fait-69-morts-annonce-le-ministere-des-affaires-etrangeres_8261951.html#xtor=RSS-3-[lestitres]"
+      "explication": "L'ouverture des Jeux olympiques de la jeunesse au Sénégal marque une première historique pour le sport mondial en se déroulant sur le continent africain.",
+      "lien": "https://www.france24.com/fr/afrique/20261031-les-jeux-olympiques-de-la-jeunesse-premier-%C3%A9v%C3%A8nement-olympique-en-afrique-s-ouvrent-%C3%A0-dakar"
     },
     {
-      "id": "0dc93174ad",
+      "id": "17446d34ea",
       "date": "2026-10-31",
       "type": "actu",
-      "question": "Dans quelle ville italienne se déroule chaque année une course de fromage médiévale avec une meule de pecorino ?",
+      "question": "De combien l'enseigne E. Leclerc a-t-elle annoncé baisser le prix du gazole par litre ?",
       "choix": [
-        "Florence",
-        "Volterra",
-        "Sienne",
-        "Pise"
-      ],
-      "reponse": 1,
-      "explication": "La ville de Volterra, située en Toscane, accueille chaque année cette course traditionnelle de fromages.",
-      "lien": "https://www.franceinfo.fr/monde/italie/c-est-magnifique-en-italie-une-course-de-fromages-medievale-fait-vibrer-les-rues-de-volterra-en-toscane_8261921.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "id": "06882592e9",
-      "date": "2026-10-31",
-      "type": "actu",
-      "question": "Quel dirigeant politique polonais est en désaccord avec le Premier ministre Donald Tusk au Tribunal constitutionnel de Varsovie ?",
-      "choix": [
-        "Andrzej Duda",
-        "Jaroslaw Kaczynski",
-        "Mateusz Morawiecki",
-        "Karol Nawrocki"
+        "10 centimes d'euro",
+        "15 centimes d'euro",
+        "30 centimes d'euro",
+        "21 centimes d'euro"
       ],
       "reponse": 3,
-      "explication": "La crise politique au Tribunal constitutionnel oppose le Premier ministre Donald Tusk au président Karol Nawrocki.",
-      "lien": "https://www.franceinfo.fr/monde/europe/pologne-une-crise-politique-eclate-au-tribunal-constitutionnel-de-varsovie-le-premier-ministre-donald-tusk-defie-par-le-president-karol-nawrocki_8261876.html#xtor=RSS-3-%5Bgeneral%5D"
+      "explication": "E. Leclerc a annoncé une baisse de 21 centimes d'euro par litre de gazole, ce qui correspond à un peu plus de 10 euros d'économie pour un plein de 50 litres.",
+      "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/e-leclerc-baisse-egalement-le-prix-du-gazole-apres-totalenergies_8262119.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "5924f8ac5f",
+      "id": "8efab3ebed",
+      "date": "2026-10-31",
+      "type": "actu",
+      "question": "Quel organe institutionnel est au cœur d'une grave crise politique en Pologne ?",
+      "choix": [
+        "Le Tribunal constitutionnel",
+        "Le Conseil d'État",
+        "La Cour des comptes",
+        "Le Sénat polonais"
+      ],
+      "reponse": 0,
+      "explication": "La crise politique majeure en Pologne tourne autour du Tribunal constitutionnel après le refus du président de valider la nomination de nouveaux juges.",
+      "lien": "https://www.lemonde.fr/international/article/2026/10/31/la-pologne-ne-s-est-pas-eteinte-et-ne-s-eteindra-pas-declare-donald-tusk-alors-que-le-pays-est-plonge-dans-une-grave-crise-politique-liee-au-tribunal-constitutionnel_6803486_3211.html"
+    },
+    {
+      "id": "87fa767ff3",
       "date": "2026-10-31",
       "type": "culture",
-      "question": "Quel est le nom de la technologie de transport qui utilise la lévitation magnétique pour supprimer les frottements avec les rails ?",
+      "question": "Dans les trains à grande vitesse de type Maglev, quel est l'intérêt principal de la lévitation magnétique ?",
       "choix": [
-        "Le Hyperloop",
-        "Le TGV",
-        "Le Shinkansen",
-        "Le Maglev"
+        "Éviter les perturbations causées par les intempéries",
+        "Recharger les batteries du train en continu pendant le trajet",
+        "Supprimer les frottements mécaniques avec les rails",
+        "Réduire le poids total de la rame de moitié"
       ],
-      "reponse": 3,
-      "explication": "Le Maglev est un train à grande vitesse utilisant la lévitation magnétique pour éliminer les frictions mécaniques.",
+      "reponse": 2,
+      "explication": "La lévitation magnétique permet d'éliminer les frottements mécaniques entre le train et les rails, ce qui autorise des vitesses très élevées avec une grande fluidité.",
       "lien": ""
     },
     {
-      "id": "ecb8c814b7",
+      "id": "198c199697",
       "date": "2026-10-31",
       "type": "culture",
-      "question": "De quelle civilisation antique nous vient le mot « podium », aujourd'hui utilisé pour récompenser les sportifs ?",
+      "question": "À l'origine dans l'Antiquité romaine, que désignait le mot « podium » ?",
       "choix": [
-        "L'Antiquité romaine",
-        "La Grèce antique",
-        "L'Égypte ancienne",
-        "La Perse antique"
+        "Une couronne de laurier remise aux gladiateurs victorieux",
+        "Un mur ou une estrade surélevée protégeant les spectateurs des arènes",
+        "Le trône réservé aux empereurs au sein du Sénat",
+        "Le char utilisé par le vainqueur lors des courses de cirque"
       ],
-      "reponse": 0,
-      "explication": "Le mot « podium » vient de l'Antiquité romaine, où il désignait le mur ou l'estrade protégeant les spectateurs des arènes.",
+      "reponse": 1,
+      "explication": "Dans l'Antiquité romaine, le podium désignait un mur ou une estrade surélevée servant à protéger les spectateurs des arènes lors des jeux du cirque.",
       "lien": ""
     }
   ]
