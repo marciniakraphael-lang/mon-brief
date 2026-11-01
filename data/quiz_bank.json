@@ -2369,6 +2369,111 @@
       "reponse": 2,
       "explication": "L'Italie abrite deux micro-états souverains enclavés : le Vatican et la République de Saint-Marin.",
       "lien": ""
+    },
+    {
+      "id": "150c846d77",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Quel pays est soupçonné d'avoir versé des fonds à deux listes arabes pour l'achat présumé de voix lors des législatives en Israël ?",
+      "choix": [
+        "Les Émirats arabes unis",
+        "L'Égypte",
+        "Le Qatar",
+        "L'Arabie saoudite"
+      ],
+      "reponse": 2,
+      "explication": "Le camp de Benyamin Nétanyahou a relayé des soupçons selon lesquels deux partis arabes auraient bénéficié de fonds en provenance du Qatar.",
+      "lien": "https://www.franceinfo.fr/monde/israel/en-israel-les-soupcons-d-irregularites-lors-des-legislatives-ne-remettront-pas-en-cause-les-resultats-assure-le-president-de-la-commission-electorale_8263154.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "45a971a6dd",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Au large de quel pays l'armée a-t-elle secouru plus de 130 migrants se dirigeant vers les Canaries ?",
+      "choix": [
+        "Le Cap-Vert",
+        "Le Maroc",
+        "La Mauritanie",
+        "Le Sénégal"
+      ],
+      "reponse": 2,
+      "explication": "L'armée mauritanienne a annoncé avoir porté secours à une embarcation transportant plus de 130 personnes au large de ses côtes.",
+      "lien": "https://www.franceinfo.fr/monde/europe/migrants/plus-de-130-migrants-en-route-vers-les-canaries-secourus-au-large-de-la-mauritanie_8263082.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "d109c722d8",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Quel club Arsenal a-t-il battu à l'extérieur pour s'emparer seul de la tête de la Premier League ?",
+      "choix": [
+        "Chelsea",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham"
+      ],
+      "reponse": 2,
+      "explication": "Arsenal s'est imposé sur la pelouse de Liverpool à Anfield, un stade où les Gunners n'avaient plus gagné depuis 14 ans.",
+      "lien": "https://www.franceinfo.fr/sports/foot/arsenal/vainqueur-du-choc-face-a-liverpool-arsenal-prend-seul-les-commandes-de-la-premier-league_8263145.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "441c52f7c1",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Près de quelle ville un sapeur-pompier a-t-il été grièvement blessé par balle lors d'une intervention ?",
+      "choix": [
+        "Lyon",
+        "Nice",
+        "Toulouse",
+        "Marseille"
+      ],
+      "reponse": 3,
+      "explication": "Le sapeur-pompier a été blessé par balle au cours d'une intervention menée près de Marseille, déclenchant l'indignation du ministre de l'Intérieur.",
+      "lien": "https://www.franceinfo.fr/faits-divers/un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-pres-de-marseille-l-assaillant-retranche_8262992.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "f50f1b5b18",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Dans quelle ville un incendie d'immeuble ayant fait quatre morts a-t-il entraîné l'incarcération de deux suspects ?",
+      "choix": [
+        "Limoges",
+        "Grenoble",
+        "Saint-Étienne",
+        "Clermont-Ferrand"
+      ],
+      "reponse": 3,
+      "explication": "Deux hommes ont été mis en examen et écroués après l'incendie mortel d'un immeuble survenu à Clermont-Ferrand.",
+      "lien": "https://www.franceinfo.fr/faits-divers/deux-hommes-mis-en-examen-et-ecroues-apres-l-incendie-d-un-immeuble-a-clermont-ferrand-ayant-tue-quatre-personne_8263049.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "95ef57eba4",
+      "date": "2026-11-01",
+      "type": "culture",
+      "question": "Selon la tradition grecque, quel soldat aurait couru depuis Marathon jusqu'à Athènes pour proclamer la victoire avant de mourir ?",
+      "choix": [
+        "Philippidès",
+        "Miltiade",
+        "Léonidas",
+        "Thémistocle"
+      ],
+      "reponse": 0,
+      "explication": "La légende attribue cet exploit au soldat Philippidès, ce qui a inspiré la création de la discipline du marathon pour les Jeux olympiques modernes.",
+      "lien": ""
+    },
+    {
+      "id": "e06c02d3a2",
+      "date": "2026-11-01",
+      "type": "culture",
+      "question": "Quels sont les deux micro-États souverains entièrement enclavés à l'intérieur du territoire de l'Italie ?",
+      "choix": [
+        "Monaco et le Vatican",
+        "Le Liechtenstein et le Vatican",
+        "Le Vatican et Saint-Marin",
+        "Saint-Marin et Andorre"
+      ],
+      "reponse": 2,
+      "explication": "L'Italie a la particularité géographique d'abriter deux enclaves souveraines sur son sol : la Cité du Vatican et la République de Saint-Marin.",
+      "lien": ""
     }
   ]
 }
