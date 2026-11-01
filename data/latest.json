@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "mode": "evening",
-  "updated": "2026-11-01T20:20:18.319144+01:00",
+  "updated": "2026-11-01T22:46:35.173277+01:00",
   "deja_presente": [
     {
       "titre": "Mobilisation du 31 octobre : la CGT appelle les manifestants à rejoindre le seul cortège parisien autorisé",
@@ -144,84 +144,84 @@
   ],
   "aujourdhui": [
     {
+      "titre": "Le crash d’un petit avion privé en Floride fait neuf morts, selon le ministre des transports",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/01/le-crash-d-un-petit-avion-prive-en-floride-fait-neuf-morts-selon-le-ministre-des-transports_6804672_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-01T22:41:25+01:00",
+      "resume": "Un petit avion privé s'est écrasé en Floride, causant la mort de neuf personnes selon le ministre des Transports. À la suite de cet accident mortel, le régulateur aérien américain a annoncé l'ouverture d'une enquête conjointe avec l'agence fédérale de sécurité des transports. Les investigations devront faire toute la lumière sur les causes et les circonstances de ce drame.",
+      "contexte": "Les accidents impliquant l'aviation générale ou d'affaires font régulièrement l'objet d'enquêtes techniques approfondies aux États-Unis. Ces procédures visent généralement à déterminer si l'accident est dû à une défaillance mécanique, aux conditions météorologiques ou à une erreur humaine. Les conclusions permettent d'émettre des recommandations de sécurité pour prévenir de futurs incidents sur ce type d'appareils."
+    },
+    {
+      "titre": "Pierre-Olivier Costa retrouve la présidence du Mucem après sa suspension",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/01/pierre-olivier-costa-retrouve-la-presidence-du-mucem-apres-sa-suspension_6804671_3224.html",
+      "source": "Le Monde",
+      "date": "2026-11-01T22:06:15+01:00",
+      "resume": "Pierre-Olivier Costa a annoncé à l'AFP qu'il retrouvait ses fonctions de président du Mucem à Marseille et qu'il réintégrerait son bureau dès lundi. Le dirigeant avait été suspendu de son poste à la fin du mois de juin. Cette mise à l'écart s'inscrivait dans un climat de tensions sociales et faisait suite à des enquêtes portant sur des situations de mal-être au sein du musée.",
+      "contexte": "Le Mucem est l'un des grands musées nationaux décentralisés en région et un établissement culturel majeur pour Marseille. La reprise de fonction de son président intervient après plusieurs mois d'incertitude managériale liée à ces signalements internes. Ce retour pourrait raviver les débats sur le climat de travail ou nécessiter des mesures d'apaisement avec les organisations syndicales de l'institution."
+    },
+    {
       "titre": "En Israël, les soupçons d'irrégularités lors des législatives ne remettront pas en cause les résultats, assure le président de la commission électorale",
       "lien": "https://www.franceinfo.fr/monde/israel/en-israel-les-soupcons-d-irregularites-lors-des-legislatives-ne-remettront-pas-en-cause-les-resultats-assure-le-president-de-la-commission-electorale_8263154.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T20:14:53+01:00",
-      "resume": "Le président de la commission électorale en Israël a assuré que les soupçons d'irrégularités lors des dernières législatives ne remettront pas en cause les résultats officiels. Les accusations de fraude électorale ont visé deux listes arabes en lice, relayées par le camp de Benyamin Nétanyahou. Ces partis font l'objet de soupçons concernant de présumés fonds reçus du Qatar pour financer l'achat de voix.",
-      "contexte": "La vie politique israélienne est particulièrement fragmentée, rendant les alliances électorales et la participation des partis arabes cruciales mais souvent tendues. Les accusations de ingérences ou de financements étrangers, réelles ou supposées, sont un classique des périodes post-électorales pour délégitimer des adversaires ou justifier des difficultés de coalition. Cela illustre les fortes crispations institutionnelles et communautaires qui traversent régulièrement le pays."
+      "source": "franceinfo · France 24",
+      "date": "2026-11-01T22:04:00+01:00",
+      "resume": "Le président de la commission électorale israélienne a garanti que les résultats des élections législatives ne seraient pas remis en cause par les allégations d'irrégularités. Le camp de Benyamin Nétanyahou avait en effet accusé les deux listes arabes d'achat de voix via des fonds provenant du Qatar. Ce scrutin s'est tenu alors que la bande de Gaza demeure largement occupée par l'armée israélienne et soumise à des bombardements meurtriers un an après la proclamation d'un cessez-le-feu.",
+      "contexte": "Ces accusations de fraude s'inscrivent dans une stratégie courante de contestation électorale visant à délégitimer la représentation politique des partis arabes en Israël. La validation définitive du scrutin est une étape essentielle pour entamer les négociations complexes en vue de former une majorité parlementaire. Par ailleurs, ces échéances politiques se déroulent dans un climat d'instabilité régionale majeure liée à la poursuite du conflit à Gaza."
     },
     {
-      "titre": "Plus de 130 migrants en route vers les Canaries secourus au large de la Mauritanie",
-      "lien": "https://www.franceinfo.fr/monde/europe/migrants/plus-de-130-migrants-en-route-vers-les-canaries-secourus-au-large-de-la-mauritanie_8263082.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T19:51:54+01:00",
-      "resume": "L'armée mauritanienne a annoncé le sauvetage de plus de 130 migrants en route vers les îles Canaries au large de ses côtes. L'embarcation secourue comprenait 118 hommes, 14 femmes et deux enfants de différentes nationalités. Cette opération s'inscrit dans le cadre des efforts de surveillance et de secours sur cette route migratoire maritime très fréquentée et dangereuse.",
-      "contexte": "La route migratoire de l'Atlantique, reliant les côtes de l'Afrique de l'Ouest aux îles Canaries espagnoles, est l'une des plus mortelles au monde en raison des courants violents et de la distance. Les pays de départ et de transit comme la Mauritanie subissent une pression accrue pour intensifier les contrôles maritimes, souvent en lien avec des accords de coopération avec l'Union européenne. Les départs s'expliquent généralement par la pauvreté persistante, les crises climatiques et l'instabilité politique dans plusieurs pays de la région."
-    },
-    {
-      "titre": "Vainqueur du choc face à Liverpool, Arsenal prend seul les commandes de la Premier League",
-      "lien": "https://www.franceinfo.fr/sports/foot/arsenal/vainqueur-du-choc-face-a-liverpool-arsenal-prend-seul-les-commandes-de-la-premier-league_8263145.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T19:46:34+01:00",
-      "resume": "Arsenal s'est imposé lors du choc face à Liverpool à Anfield, un stade où les Gunners n'avaient plus gagné depuis 14 ans. Cette victoire permet au club londonien de prendre seul la tête de la Premier League. Ils profitent également de la défaite de Manchester City intervenue samedi.",
-      "contexte": "Le championnat anglais de football est réputé pour son intensité et la très forte concurrence en tête de classement entre clubs historiques. La suprématie sur la Premier League se joue souvent à des détails lors des confrontations directes entre cadors. Cette victoire positionne Arsenal comme un prétendant très sérieux au titre national cette saison."
-    },
-    {
-      "titre": "Ligue 1 : irrésistible, le Paris FC fait sa loi face à l'AS Monaco, Lyon garde le rythme face à Angers",
-      "lien": "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-irresistible-le-paris-fc-fait-sa-loi-face-a-l-as-monaco-lyon-garde-le-rythme-face-a-angers_8262965.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T19:35:59+01:00",
-      "resume": "Le Paris FC a dominé l'AS Monaco lors d'une rencontre disputée dimanche au stade Jean-Bouin, portée par une performance remarquable de son attaquant auteur de deux buts et d'une passe décisive. Dans le même temps, Lyon a conservé son rythme en s'imposant face à Angers. À l'issue de ces matchs, les Lyonnais occupent la troisième place du classement de Ligue 1, juste devant les Parisiens quatrièmes.",
-      "contexte": "Le championnat de France de Ligue 1 est marqué par la lutte intense pour les places européennes derrière l'hégémonie de certains clubs habituels du haut de tableau. L'émergence ou la confirmation de clubs ambitieux, qu'il s'agisse de projets en développement comme le Paris FC ou de valeurs sûres comme l'OL, dynamise la compétition. Les performances de début de saison s'avèrent cruciales pour fixer la hiérarchie avant la trêve hivernale."
-    },
-    {
-      "titre": "Après une semaine délicate, Kylian Mbappé buteur lors de la victoire du Real Madrid face à Santander, non diffusée en Chine",
-      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/apres-une-semaine-delicate-kylian-mbappe-buteur-lors-de-la-victoire-du-real-madrid-face-a-santander-non-diffusee-en-chine_8263100.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T19:11:37+01:00",
-      "resume": "Kylian Mbappé a inscrit un but sur penalty lors de la victoire du Real Madrid face à Santander, disputée dimanche. Ce succès intervient après une semaine qualifiée de délicate pour l'attaquant français. Par ailleurs, la rencontre n'a pas été diffusée en Chine.",
-      "contexte": "Les performances de Kylian Mbappé au Real Madrid sont scrutées de près par les médias internationaux et les supporters, la moindre contre-performance faisant l'objet d'un suivi médiatique intense. L'absence de diffusion télévisée dans certains pays comme la Chine relève souvent de choix de droits audiovisuels, de tensions géopolitiques ou de différends commerciaux entre diffuseurs et ligues sportives. Le club merengue reste engagé dans sa quête de trophées nationaux et européens."
+      "titre": "L'inquiétant essor des armes de contrefaçon",
+      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/armee-et-securite/l-inquietant-essor-des-armes-de-contrefacon_8263211.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-01T21:43:30+01:00",
+      "resume": "En France, les saisies d'armes de contrefaçon par les services de gendarmerie sont en nette augmentation depuis plusieurs années. Fabriquées à l'étranger ou créées à l'aide d'imprimantes 3D, ces armes reproduisent fidèlement l'apparence des modèles authentiques. Cette confusion avec de vraies armes complique le travail des forces de sécurité et accroît la vigilance des autorités.",
+      "contexte": "La prolifération des technologies d'impression 3D et des canaux d'approvisionnement en ligne facilite la fabrication et le trafic de ces répliques ou armes artisanales. Leur présence grandissante sur le territoire inquiète les autorités judiciaires et policières, car elles peuvent être utilisées pour des braquages, des intimidations ou même être modifiées pour tirer à balles réelles. Cette évolution pousse les services de renseignement et de gendarmerie à adapter leurs méthodes de détection."
     },
     {
       "titre": "Un sapeur-pompier gravement blessé par balle lors d'une intervention près de Marseille, un homme interpellé",
       "lien": "https://www.franceinfo.fr/faits-divers/un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-pres-de-marseille-l-assaillant-retranche_8262992.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-01T19:09:42+01:00",
-      "resume": "Un sapeur-pompier a été gravement blessé par balle lors d'une intervention menée près de Marseille, tandis qu'un autre pompier et leur véhicule ont également été touchés. Un homme a été interpellé à la suite de ces faits. Le ministre de l'Intérieur a exprimé son indignation face à cette agression violente qualifiée de gratuite sur le réseau social X.",
-      "contexte": "Les agressions contre les forces de l'ordre et les services de secours lors d'interventions dans certains quartiers font l'objet d'une attention politique et médiatique majeure en France. Ces actes de violence entraînent régulièrement des condamnations unanimes de la part du gouvernement et des appels à un renforcement de la sécurité des agents publics. Les motivations exactes de l'auteur présumé n'ont pas encore été précisées par les autorités à ce stade de l'enquête."
+      "date": "2026-11-01T21:40:59+01:00",
+      "resume": "Un sapeur-pompier a été grièvement blessé par balle lors d'une intervention à proximité de Marseille, tandis qu'un collègue et un véhicule de secours ont également été touchés. Un suspect a été rapidement interpellé après les faits, a indiqué le préfet des Bouches-du-Rhône. Le ministre de l'Intérieur a vivement réagi sur le réseau social X pour dénoncer une agression d'une violence injustifiable.",
+      "contexte": "Les agressions contre les secouristes et les forces de l'ordre constituent un sujet de préoccupation récurrent pour les pouvoirs publics en France. Même si les motifs de l'agresseur n'ont pas été précisés dans l'immédiat, ces violences conduisent souvent à des demandes de protection accrue pour les équipes de secours. Cet événement relance les discussions sur la sécurisation des interventions dans certaines zones sensibles."
     },
     {
-      "titre": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "titre": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-01T19:03:10+01:00",
-      "resume": "Une militante installée à Belfort a été assignée à résidence par le ministère de l'Intérieur au titre de la prévention du terrorisme. Cette mesure administrative l'a empêchée de participer à une mobilisation nationale prévue le 31 octobre, dont elle était l'une des organisatrices. L'intéressée a contesté la mesure en déclarant que son engagement militant ne faisait pas d'elle une terroriste.",
-      "contexte": "L'utilisation de mesures administratives restrictives de liberté, telles que les assignations à résidence prévues à l'origine dans le cadre de la lutte antiterroriste, suscite régulièrement des débats juridiques et politiques quant au respect des libertés publiques et du droit de manifester. Les autorités justifient ces décisions par la nécessité de prévenir des troubles graves à l'ordre public ou des actes de violence lors de rassemblements tendus. Les opposants à ces mesures y voient quant à eux une dérive liberticide visant à museler la contestation sociale."
+      "date": "2026-11-01T20:52:14+01:00",
+      "resume": "Le ministère de l'Intérieur a communiqué un bilan définitif de 779 interpellations sur l'ensemble du territoire à l'issue des manifestations du 31 octobre. Ce samedi de mobilisation a été marqué par une participation globale en légère baisse par rapport aux journées précédentes. Les syndicats et organisateurs prévoient toutefois de nouvelles actions dès la semaine prochaine, avec comme point d'orgue un appel à la grève nationale fixé au 5 novembre.",
+      "contexte": "Ce bilan d'interpellations témoigne de tensions persistantes lors des rassemblements récents, malgré un essoufflement apparent du nombre de manifestants. La grève nationale annoncée pour le 5 novembre sera un test crucial pour mesurer la capacité des syndicats à relancer le rapport de force. Les autorités restent vigilantes quant aux risques de débordements lors de ces prochaines journées de contestation."
     },
     {
-      "titre": "Deux hommes mis en examen et écroués après l'incendie d'un immeuble à Clermont-Ferrand ayant tué quatre personnes",
-      "lien": "https://www.franceinfo.fr/faits-divers/deux-hommes-mis-en-examen-et-ecroues-apres-l-incendie-d-un-immeuble-a-clermont-ferrand-ayant-tue-quatre-personne_8263049.html#xtor=RSS-3-[lestitres]",
+      "titre": "Edouard Philippe refuse une nouvelle fois de participer à une primaire de la droite et du centre, source de \"division\" et de \"confusion\"",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-01T18:59:07+01:00",
-      "resume": "Deux hommes ont été mis en examen et écroués à la suite de l'incendie d'un immeuble à Clermont-Ferrand qui a causé la mort de quatre personnes. Dès vendredi, le parquet avait indiqué que les premières constatations des enquêteurs laissaient entrevoir une origine criminelle possible, bien que les circonstances exactes restent à déterminer.",
-      "contexte": "Les drames liés à des incendies d'immeubles résidentiels mobilisent systématiquement d'importants moyens d'enquête pour déterminer s'il s'agit d'un accident, d'une négligence ou d'un acte criminel. La mise en examen et le placement en détention provisoire constituent des étapes procédurales majeures permettant de poursuivre les investigations sous l'autorité d'un juge d'instruction. L'émotion suscitée par un tel bilan humain est généralement très forte au niveau local et national."
+      "date": "2026-11-01T20:47:51+01:00",
+      "resume": "Dimanche soir sur TF1, Édouard Philippe a réitéré son refus de participer à une éventuelle élection primaire de la droite et du centre. Le maire du Havre a qualifié ce mécanisme de source de division et de confusion pour le camp républicain. Il a notamment fait valoir qu'un tel processus contraindrait à rassembler artificiellement des personnalités qui ne partagent pas les mêmes orientations politiques.",
+      "contexte": "La question du mode de désignation du candidat pour la future élection présidentielle divise régulièrement la droite et le centre en France. Les primaires passées ont souvent laissé des traces durables au sein des partis en exacerbant les querelles de personnes. En rejetant ce principe, Édouard Philippe cherche à préserver son autonomie politique et à tracer sa propre route sans s'enfermer dans un cadre partisan restreint."
     },
     {
-      "titre": "Mouvement lycéen : les incertitudes de la rentrée scolaire alors que la jeunesse mobilisée veut « maintenir la pression »",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-01T18:56:39+01:00",
-      "resume": "Malgré les engagements pris par le gouvernement, les organisations lycéennes et étudiantes ont appelé à maintenir la pression en bloquant les établissements scolaires à partir de lundi ou mardi. Une partie des élèves s'interroge toutefois sur l'opportunité de ces actions, alors que la pression liée aux échéances du baccalauréat et de la plateforme Parcoursup s'accroît.",
-      "contexte": "Les mouvements de contestation lycéenne et étudiante se greffent traditionnellement sur des préoccupations plus larges concernant les réformes de l'éducation, les conditions d'études ou le pouvoir d'achat. À l'approche des examens de fin d'année et des procédures d'orientation cruciales comme Parcoursup, la mobilisation se heurte souvent aux craintes des élèves de pénaliser leur scolarité. Le dialogue entre les syndicats étudiants et l'exécutif vise généralement à désamorcer ces crises pour éviter l'embrasement des campus."
+      "titre": "Route du Rhum : Violette Dorange entre en collision avec le bateau de Romain Pilliard mais continue sa route",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-violette-dorange-entre-en-collision-avec-le-bateau-de-romain-pilliard-mais-continue-sa-route_8263178.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-01T20:39:40+01:00",
+      "resume": "Lors de la course de la Route du Rhum, la navigatrice Violette Dorange a percuté le multicoque de Romain Pilliard dimanche dans la soirée. Aucun des deux skippeurs n'a été blessé lors du choc et ils se trouvent hors de danger. Malgré les dégâts matériels qui nécessiteront des réparations sur les deux embarcations, la navigatrice a choisi de poursuivre sa traversée.",
+      "contexte": "Les départs et les premières heures des courses transatlantiques en solitaire sont des moments particulièrement délicats en raison de la forte concentration de navires sur l'eau et de la fatigue précoce. Les skippeurs doivent souvent faire face à d'importants défis techniques pour réparer en mer ou décider d'une escale technique. Une collision précoce compromet généralement les ambitions de classement, mais la priorité reste la sécurité et la capacité à terminer la course."
     },
     {
-      "titre": "Allemagne : plusieurs partis condamnent les violences et appellent à écouter la \"Gen Z\"",
-      "lien": "https://www.france24.com/fr/europe/20261101-allemagne-plusieurs-partis-condamnent-violences-appellent-%C3%A9couter-gen-z",
+      "titre": "Ukraine : au dernier jour de trêve à Olechky, la population se prépare à une reprise de la guerre",
+      "lien": "https://www.france24.com/fr/europe/20261101-ukraine-au-dernier-jour-de-tr%C3%AAve-%C3%A0-olechky-la-population-se-pr%C3%A9pare-%C3%A0-une-reprise-de-la-guerre",
       "source": "France 24",
-      "date": "2026-11-01T18:19:29+01:00",
-      "resume": "Plusieurs responsables politiques allemands issus des Verts et de la gauche radicale ont exprimé leur soutien à la jeunesse tout en condamnant les violences survenues en marge des manifestations de samedi. Le gouvernement fédéral a de son côté imputé la responsabilité de ces débordements à des « groupes de gauche enclins à la violence ».",
-      "contexte": "Les mouvements de jeunesse en Allemagne, inspirés par des dynamiques de contestation similaires observées dans d'autres pays européens comme la France, expriment des revendications axées sur l'avenir, l'éducation ou la transition écologique. La survenue de violences lors de rassemblements politiques polarise traditionnellement le débat public entre ceux qui estiment légitime d'écouter les aspirations des jeunes et ceux qui exigent la fermeté face aux casseurs. Cette situation met les partis de coalition face au défi de concrétiser des réformes tout en maintenant l'ordre public."
+      "date": "2026-11-01T20:27:20+01:00",
+      "resume": "À Olechky, les résidents et les autorités locales se préparent à une fin de cessez-le-feu imminente après le rejet par Moscou d'une prolongation de la trêve. L'Ukraine avait pourtant proposé de prolonger cette accalmie exceptionnelle entamée mardi dernier. Face au refus russe, les responsables locaux anticipent une reprise immédiate et brutale des hostilités dans cette zone et ses environs.",
+      "contexte": "Les trêves temporaires sur le front ukrainien sont extrêmement rares depuis le début de l'invasion russe et servent généralement à des impératifs humanitaires ou logistiques limités. Le refus de Moscou de prolonger cet arrêt des tirs illustre la volonté de maintenir une pression militaire continue sur les lignes ukrainiennes. Pour les civils restés sur place, cette fin de répit annonce un retour immédiat aux bombardements et au danger quotidien."
+    },
+    {
+      "titre": "Présidentielle en Bulgarie : Iliana Iotova remporte l’élection, selon plusieurs sondages à la sortie des urnes",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-01T20:07:41+01:00",
+      "resume": "Selon les premiers sondages réalisés à la sortie des urnes dimanche, Iliana Iotova est donnée gagnante de l'élection présidentielle en Bulgarie. Ces premières estimations doivent encore être officiellement confirmées par le décompte des voix des autorités électorales. Les électeurs bulgares se sont rendus aux urnes dans un contexte lourd, dominé par des inquiétudes sécuritaires aux frontières et des difficultés économiques internes.",
+      "contexte": "La Bulgarie traverse depuis plusieurs années une période d'instabilité politique récurrente, marquée par de fréquentes élections et des coalitions fragiles. La fonction présidentielle, bien que dotée de pouvoirs exécutifs limités, joue un rôle important d'arbitrage institutionnel et d'incarnation internationale. Cette élection s'est déroulée sous la pression supplémentaire des tensions géopolitiques en Europe de l'Est et de la crise du coût de la vie."
     }
   ],
   "culture": [
@@ -246,108 +246,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "150c846d77",
+      "id": "89bd3715f0",
       "date": "2026-11-01",
       "type": "actu",
-      "question": "Quel pays est soupçonné d'avoir versé des fonds à deux listes arabes pour l'achat présumé de voix lors des législatives en Israël ?",
+      "question": "Quel événement dramatique s'est produit en Floride selon le ministre des Transports ?",
       "choix": [
-        "Les Émirats arabes unis",
-        "L'Égypte",
-        "Le Qatar",
-        "L'Arabie saoudite"
+        "Un carambolage impliquant plusieurs bus",
+        "Le crash d'un petit avion privé",
+        "Le déraillement d'un train de marchandises",
+        "Le naufrage d'un ferry"
       ],
-      "reponse": 2,
-      "explication": "Le camp de Benyamin Nétanyahou a relayé des soupçons selon lesquels deux partis arabes auraient bénéficié de fonds en provenance du Qatar.",
-      "lien": "https://www.franceinfo.fr/monde/israel/en-israel-les-soupcons-d-irregularites-lors-des-legislatives-ne-remettront-pas-en-cause-les-resultats-assure-le-president-de-la-commission-electorale_8263154.html#xtor=RSS-3-[lestitres]"
+      "reponse": 1,
+      "explication": "Un petit avion privé s'est écrasé en Floride, causant la mort de neuf personnes.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/01/le-crash-d-un-petit-avion-prive-en-floride-fait-neuf-morts-selon-le-ministre-des-transports_6804672_3210.html"
     },
     {
-      "id": "45a971a6dd",
+      "id": "1e4e973928",
       "date": "2026-11-01",
       "type": "actu",
-      "question": "Au large de quel pays l'armée a-t-elle secouru plus de 130 migrants se dirigeant vers les Canaries ?",
+      "question": "Quelle fonction Pierre-Olivier Costa a-t-il retrouvé à Marseille ?",
       "choix": [
-        "Le Cap-Vert",
-        "Le Maroc",
-        "La Mauritanie",
-        "Le Sénégal"
-      ],
-      "reponse": 2,
-      "explication": "L'armée mauritanienne a annoncé avoir porté secours à une embarcation transportant plus de 130 personnes au large de ses côtes.",
-      "lien": "https://www.franceinfo.fr/monde/europe/migrants/plus-de-130-migrants-en-route-vers-les-canaries-secourus-au-large-de-la-mauritanie_8263082.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "d109c722d8",
-      "date": "2026-11-01",
-      "type": "actu",
-      "question": "Quel club Arsenal a-t-il battu à l'extérieur pour s'emparer seul de la tête de la Premier League ?",
-      "choix": [
-        "Chelsea",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham"
-      ],
-      "reponse": 2,
-      "explication": "Arsenal s'est imposé sur la pelouse de Liverpool à Anfield, un stade où les Gunners n'avaient plus gagné depuis 14 ans.",
-      "lien": "https://www.franceinfo.fr/sports/foot/arsenal/vainqueur-du-choc-face-a-liverpool-arsenal-prend-seul-les-commandes-de-la-premier-league_8263145.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "441c52f7c1",
-      "date": "2026-11-01",
-      "type": "actu",
-      "question": "Près de quelle ville un sapeur-pompier a-t-il été grièvement blessé par balle lors d'une intervention ?",
-      "choix": [
-        "Lyon",
-        "Nice",
-        "Toulouse",
-        "Marseille"
+        "La mairie de secteur",
+        "La direction du théâtre national",
+        "La direction générale de l'Opéra de Marseille",
+        "La présidence du Mucem"
       ],
       "reponse": 3,
-      "explication": "Le sapeur-pompier a été blessé par balle au cours d'une intervention menée près de Marseille, déclenchant l'indignation du ministre de l'Intérieur.",
-      "lien": "https://www.franceinfo.fr/faits-divers/un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-pres-de-marseille-l-assaillant-retranche_8262992.html#xtor=RSS-3-[lestitres]"
+      "explication": "Pierre-Olivier Costa a retrouvé ses fonctions de président du Mucem à Marseille après avoir été suspendu fin juin.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/01/pierre-olivier-costa-retrouve-la-presidence-du-mucem-apres-sa-suspension_6804671_3224.html"
     },
     {
-      "id": "f50f1b5b18",
+      "id": "0c680f0e9d",
       "date": "2026-11-01",
       "type": "actu",
-      "question": "Dans quelle ville un incendie d'immeuble ayant fait quatre morts a-t-il entraîné l'incarcération de deux suspects ?",
+      "question": "Combien de personnes ont été interpellées en France lors des manifestations du 31 octobre ?",
       "choix": [
-        "Limoges",
-        "Grenoble",
-        "Saint-Étienne",
-        "Clermont-Ferrand"
+        "432 personnes",
+        "779 personnes",
+        "1205 personnes",
+        "154 personnes"
       ],
-      "reponse": 3,
-      "explication": "Deux hommes ont été mis en examen et écroués après l'incendie mortel d'un immeuble survenu à Clermont-Ferrand.",
-      "lien": "https://www.franceinfo.fr/faits-divers/deux-hommes-mis-en-examen-et-ecroues-apres-l-incendie-d-un-immeuble-a-clermont-ferrand-ayant-tue-quatre-personne_8263049.html#xtor=RSS-3-[lestitres]"
+      "reponse": 1,
+      "explication": "Le ministère de l'Intérieur a communiqué un bilan définitif de 779 interpellations sur l'ensemble du territoire.",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "95ef57eba4",
+      "id": "f3ff08ffa8",
       "date": "2026-11-01",
-      "type": "culture",
-      "question": "Selon la tradition grecque, quel soldat aurait couru depuis Marathon jusqu'à Athènes pour proclamer la victoire avant de mourir ?",
+      "type": "actu",
+      "question": "Lors de quelle course nautique Violette Dorange est-elle entrée en collision avec Romain Pilliard ?",
       "choix": [
-        "Philippidès",
-        "Miltiade",
-        "Léonidas",
-        "Thémistocle"
+        "La Route du Rhum",
+        "La Transat Jacques Vabre",
+        "Le Vendée Globe",
+        "La Solitaire du Figaro"
       ],
       "reponse": 0,
-      "explication": "La légende attribue cet exploit au soldat Philippidès, ce qui a inspiré la création de la discipline du marathon pour les Jeux olympiques modernes.",
+      "explication": "L'incident a eu lieu lors de la course de la Route du Rhum lorsque la navigatrice a percuté le multicoque de Romain Pilliard.",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-violette-dorange-entre-en-collision-avec-le-bateau-de-romain-pilliard-mais-continue-sa-route_8263178.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "c36274f130",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Qui a remporté l'élection présidentielle en Bulgarie selon les premiers sondages à la sortie des urnes ?",
+      "choix": [
+        "Bojidar Dimitrov",
+        "Ekaterina Zakharieva",
+        "Krassimir Karakatchanov",
+        "Iliana Iotova"
+      ],
+      "reponse": 3,
+      "explication": "Iliana Iotova est donnée gagnante de l'élection présidentielle en Bulgarie selon les sondages à la sortie des urnes.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html"
+    },
+    {
+      "id": "760fe27b38",
+      "date": "2026-11-01",
+      "type": "culture",
+      "question": "Lors de quel événement la distance exacte du marathon a-t-elle été fixée à sa longueur actuelle ?",
+      "choix": [
+        "Les Jeux olympiques de Paris en 1900",
+        "La bataille de Marathon dans l'Antiquité",
+        "Les Jeux olympiques d'Athènes en 1896",
+        "Le marathon de Londres"
+      ],
+      "reponse": 3,
+      "explication": "C'est lors du marathon de Londres que la distance a été portée à sa longueur actuelle pour que la famille royale puisse assister à l'arrivée.",
       "lien": ""
     },
     {
-      "id": "e06c02d3a2",
+      "id": "99fa5bba7d",
       "date": "2026-11-01",
       "type": "culture",
-      "question": "Quels sont les deux micro-États souverains entièrement enclavés à l'intérieur du territoire de l'Italie ?",
+      "question": "Quels sont les deux micro-états entièrement enclavés à l'intérieur du territoire italien ?",
       "choix": [
-        "Monaco et le Vatican",
-        "Le Liechtenstein et le Vatican",
         "Le Vatican et Saint-Marin",
-        "Saint-Marin et Andorre"
+        "Saint-Marin et Monaco",
+        "Liechtenstein et le Vatican",
+        "Monaco et Andorre"
       ],
-      "reponse": 2,
-      "explication": "L'Italie a la particularité géographique d'abriter deux enclaves souveraines sur son sol : la Cité du Vatican et la République de Saint-Marin.",
+      "reponse": 0,
+      "explication": "L'Italie abrite entièrement sur son territoire le Vatican et la République de Saint-Marin.",
       "lien": ""
     }
   ]

@@ -2474,6 +2474,111 @@
       "reponse": 2,
       "explication": "L'Italie a la particularité géographique d'abriter deux enclaves souveraines sur son sol : la Cité du Vatican et la République de Saint-Marin.",
       "lien": ""
+    },
+    {
+      "id": "89bd3715f0",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Quel événement dramatique s'est produit en Floride selon le ministre des Transports ?",
+      "choix": [
+        "Un carambolage impliquant plusieurs bus",
+        "Le crash d'un petit avion privé",
+        "Le déraillement d'un train de marchandises",
+        "Le naufrage d'un ferry"
+      ],
+      "reponse": 1,
+      "explication": "Un petit avion privé s'est écrasé en Floride, causant la mort de neuf personnes.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/01/le-crash-d-un-petit-avion-prive-en-floride-fait-neuf-morts-selon-le-ministre-des-transports_6804672_3210.html"
+    },
+    {
+      "id": "1e4e973928",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Quelle fonction Pierre-Olivier Costa a-t-il retrouvé à Marseille ?",
+      "choix": [
+        "La mairie de secteur",
+        "La direction du théâtre national",
+        "La direction générale de l'Opéra de Marseille",
+        "La présidence du Mucem"
+      ],
+      "reponse": 3,
+      "explication": "Pierre-Olivier Costa a retrouvé ses fonctions de président du Mucem à Marseille après avoir été suspendu fin juin.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/01/pierre-olivier-costa-retrouve-la-presidence-du-mucem-apres-sa-suspension_6804671_3224.html"
+    },
+    {
+      "id": "0c680f0e9d",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Combien de personnes ont été interpellées en France lors des manifestations du 31 octobre ?",
+      "choix": [
+        "432 personnes",
+        "779 personnes",
+        "1205 personnes",
+        "154 personnes"
+      ],
+      "reponse": 1,
+      "explication": "Le ministère de l'Intérieur a communiqué un bilan définitif de 779 interpellations sur l'ensemble du territoire.",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "f3ff08ffa8",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Lors de quelle course nautique Violette Dorange est-elle entrée en collision avec Romain Pilliard ?",
+      "choix": [
+        "La Route du Rhum",
+        "La Transat Jacques Vabre",
+        "Le Vendée Globe",
+        "La Solitaire du Figaro"
+      ],
+      "reponse": 0,
+      "explication": "L'incident a eu lieu lors de la course de la Route du Rhum lorsque la navigatrice a percuté le multicoque de Romain Pilliard.",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-violette-dorange-entre-en-collision-avec-le-bateau-de-romain-pilliard-mais-continue-sa-route_8263178.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "c36274f130",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Qui a remporté l'élection présidentielle en Bulgarie selon les premiers sondages à la sortie des urnes ?",
+      "choix": [
+        "Bojidar Dimitrov",
+        "Ekaterina Zakharieva",
+        "Krassimir Karakatchanov",
+        "Iliana Iotova"
+      ],
+      "reponse": 3,
+      "explication": "Iliana Iotova est donnée gagnante de l'élection présidentielle en Bulgarie selon les sondages à la sortie des urnes.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html"
+    },
+    {
+      "id": "760fe27b38",
+      "date": "2026-11-01",
+      "type": "culture",
+      "question": "Lors de quel événement la distance exacte du marathon a-t-elle été fixée à sa longueur actuelle ?",
+      "choix": [
+        "Les Jeux olympiques de Paris en 1900",
+        "La bataille de Marathon dans l'Antiquité",
+        "Les Jeux olympiques d'Athènes en 1896",
+        "Le marathon de Londres"
+      ],
+      "reponse": 3,
+      "explication": "C'est lors du marathon de Londres que la distance a été portée à sa longueur actuelle pour que la famille royale puisse assister à l'arrivée.",
+      "lien": ""
+    },
+    {
+      "id": "99fa5bba7d",
+      "date": "2026-11-01",
+      "type": "culture",
+      "question": "Quels sont les deux micro-états entièrement enclavés à l'intérieur du territoire italien ?",
+      "choix": [
+        "Le Vatican et Saint-Marin",
+        "Saint-Marin et Monaco",
+        "Liechtenstein et le Vatican",
+        "Monaco et Andorre"
+      ],
+      "reponse": 0,
+      "explication": "L'Italie abrite entièrement sur son territoire le Vatican et la République de Saint-Marin.",
+      "lien": ""
     }
   ]
 }
