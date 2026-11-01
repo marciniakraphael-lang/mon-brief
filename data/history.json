@@ -429,6 +429,83 @@
           "contexte": "La découverte de corps dans un incendie mortel déclenche systématiquement une enquête judiciaire en flagrance pour déterminer les causes exactes du drame et identifier d'éventuelles responsabilités criminelles. Les interpellations rapides permettent aux enquêteurs de vérifier des pistes liées à des différends personnels ou à des actes malveillants."
         }
       ]
+    },
+    "2026-11-01": {
+      "morning_run": "2026-11-01T11:40:33.329904+01:00",
+      "morning_items": [
+        {
+          "titre": "La plateforme de cryptomonnaies Binance annonce une reprise des retraits après avoir perdu plus de six milliards de dollars dans un piratage",
+          "lien": "https://www.franceinfo.fr/economie/bitcoin/la-plateforme-de-cryptomonnaies-binance-annonce-une-reprise-des-retraits-apres-un-piratage-commis-par-des-hackers-de-coree-du-nord-selon-les-accusations-du-fbi_8262545.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-01T11:31:36+01:00",
+          "resume": "La plateforme de cryptomonnaies Binance a annoncé la reprise des retraits après avoir subi une perte de plus de six milliards de dollars lors d'un piratage. Le FBI a attribué cette attaque à des hackers nord-coréens, bien que le président américain Donald Trump ait émis des doutes sur l'implication du régime de Kim Jong-un.",
+          "contexte": "La sécurité des plateformes d'échange de cryptomonnaies constitue un défi majeur face à la sophistication croissante des cyberattaques, parfois attribuées à des acteurs étatiques cherchant à contourner les sanctions internationales. Ces incidents majeurs entraînent souvent une suspension temporaire des services pour évaluer les dégâts et sécuriser les infrastructures."
+        },
+        {
+          "titre": "Au Liban, les dépenses du quotidien pèsent de plus en plus lourd",
+          "lien": "https://www.france24.com/fr/moyen-orient/20261101-au-liban-les-d%C3%A9penses-du-quotidien-p%C3%A8sent-de-plus-en-plus-lourd",
+          "source": "France 24",
+          "date": "2026-11-01T11:29:55+01:00",
+          "resume": "Au Liban, les dépenses du quotidien pèsent de plus en plus lourd pour les ménages qui peinent à faire face au coût de la vie. Cette situation intervient alors que le Fonds monétaire international (FMI) réclame de nouvelles réformes économiques et bancaires, dont la mise en œuvre soulève des interrogations et des risques pour la population.",
+          "contexte": "Le Liban traverse une crise économique et financière profonde depuis plusieurs années, caractérisée par une inflation galopante et la dévaluation de sa monnaie. Les exigences du FMI visent à assainir l'économie, mais leurs conséquences sociales font craindre une précarisation accrue des citoyens."
+        },
+        {
+          "titre": "Mobilisation sociale : 20 commerces ont été dégradés le 31 octobre, un chiffre en baisse par rapport aux précédents week-ends de manifestations",
+          "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-01T11:27:23+01:00",
+          "resume": "Vingt commerces ont été dégradés le 31 octobre lors de la dernière journée de mobilisation sociale, un chiffre en baisse par rapport aux précédents week-ends de manifestations. Alors que la participation globale a connu une légère baisse, de nouveaux rendez-vous sont prévus, avec en point culminant une grève nationale annoncée pour le 5 novembre.",
+          "contexte": "Les mouvements de contestation sociale en France s'accompagnent régulièrement d'incidents matériels en marge des cortèges, mobilisant les forces de l'ordre. La multiplication des appels à la grève témoigne de la persistance des revendications professionnelles et salariales."
+        },
+        {
+          "titre": "\"Les familles se confient à moi, me racontent leur histoire\" : gardien de cimetière, Sébastien se sent utile aux autres",
+          "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/portrait-les-familles-se-confient-a-moi-me-racontent-leur-histoire-gardien-de-cimetiere-sebastien-se-sent-utile-aux-autres-3440661.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-01T11:24:50+01:00",
+          "resume": "À l'occasion de la Toussaint célébrée ce dimanche 1er novembre, de nombreuses familles se rendent dans les cimetières pour rendre hommage à leurs défunts. À Grenoble, le gardien de cimetière Sébastien Roca témoigne de son rôle auprès des visiteurs pour réconforter les personnes endeuillées.",
+          "contexte": "La Toussaint est un moment de recueillement traditionnel en France, marqué par une affluence importante dans les lieux de sépulture. Le travail des agents funéraires et des gardiens prend alors une dimension particulièrement humaine pour accompagner le deuil."
+        },
+        {
+          "titre": "Comment la proximité avec le Canada pourrait influencer les midterms au Michigan",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-comment-proximit%C3%A9-avec-canada-pourrait-influencer-midterms-au-michigan-d%C3%A9troit-%C3%A9tats-unis-%C3%A9lections-mi-mandat-donald-trump",
+          "source": "France 24",
+          "date": "2026-11-01T11:23:28+01:00",
+          "resume": "La ville de Detroit, située au Michigan à proximité immédiate du Canada, fait face à des enjeux économiques particuliers en lien avec les élections de mi-mandat (midterms). Les relations transfrontalières ont été affectées par la politique douanière et la guerre commerciale menées par le président Donald Trump contre le voisin canadien.",
+          "contexte": "Les politiques protectionnistes et les différends commerciaux ont un impact direct sur les économies des États frontaliers aux États-Unis, influençant potentiellement le vote des électeurs lors des scrutins intermédiaires. Les candidats doivent composer avec ces préoccupations locales liées aux échanges internationaux."
+        },
+        {
+          "titre": "LIVE. Départ Route du Rhum. Les 115 bateaux prennent la mer au large de Saint-Malo, suivez le grand départ !",
+          "lien": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/saint-malo/live-route-du-rhum-2026-les-115-bateaux-engages-prennent-la-mer-direction-la-guadeloupe-suivez-le-grand-depart-3437001.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo · France 24",
+          "date": "2026-11-01T11:22:24+01:00",
+          "resume": "La 13e édition de la légendaire Route du Rhum - Destination Guadeloupe a débuté dimanche à 13h02, avec le départ de 115 bateaux solitaires au large de Saint-Malo. Le marin Sam Goodchild a pris la relève à bord de l'ancien bateau de Charlie Dalin pour cette course transatlantique que les plus rapides espèrent accomplir en six jours.",
+          "contexte": "La Route du Rhum est l'une des courses au large en solitaire les plus prestigieuses de la voile française, attirant un public considérable et une flotte diversifiée de multicoques et monocoques. Les conditions météorologiques au départ de Saint-Malo jouent un rôle déterminant dans la stratégie initiale des skippers."
+        },
+        {
+          "titre": "Championne WNBA et inspiration pour toute une génération : Gabby Williams, taille patronne du basket français",
+          "lien": "https://www.franceinfo.fr/sports/basket/wnba/portrait-finaliste-wnba-et-inspiration-pour-toute-une-generation-gabby-williams-taille-patronne-du-basket-francais_8240452.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-01T11:21:05+01:00",
+          "resume": "La basketteuse française Gabby Williams a mené sa franchise des Golden State Valkyries à la finale puis au titre WNBA samedi, en inscrivant 30 points lors du match décisif contre l'Atlanta Dream.",
+          "contexte": "La performance de Gabby Williams dans le championnat nord-américain de basketball féminin (WNBA) confirme son statut de joueuse majeure sur la scène internationale. Ce succès individuel et collectif met en lumière l'influence croissante des talents français dans le sport de haut niveau mondial."
+        },
+        {
+          "titre": "L'évacuation de la ville d'Olechky, un exemple réussi mais encore isolé de cessez-le-feu humanitaire entre l'Ukraine et la Russie",
+          "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-evacuation-de-la-ville-d-olechky-un-exemple-reussi-mais-encore-isole-de-cessez-le-feu-humanitaire-entre-l-ukraine-et-la-russie_8261840.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo · Le Monde",
+          "date": "2026-11-01T11:18:17+01:00",
+          "resume": "La ville d'Olechky, située en territoire ukrainien sous occupation russe, a connu une opération d'évacuation permettant à plus d'une centaine, voire plus de 200 habitants, de rejoindre le territoire ukrainien à travers un cessez-le-feu humanitaire rare. Parallèlement, le site pétrolier de Kstovo, une grande raffinerie russe dans la région de Nijni Novgorod, a été la cible d'une attaque massive de drones dans la nuit et dimanche matin, tandis que Kiev affirme avoir abattu ou neutralisé 371 drones russes.",
+          "contexte": "Le conflit en Ukraine continue d'engendrer des crises humanitaires complexes où les corridors d'évacuation restent exceptionnels et fragiles. En parallèle, la stratégie militaire des deux camps inclut des frappes de drones ciblées sur les infrastructures énergétiques et logistiques pour affaiblir l'adversaire."
+        },
+        {
+          "titre": "Les ventes de voitures neuves progressent de 7% en octobre grâce au marché de l'électrique",
+          "lien": "https://www.franceinfo.fr/economie/automobile/les-ventes-de-voitures-neuves-progressent-en-octobre-en-france-grace-au-marche-de-l-electrique-domine-par-tesla-et-le-groupe-stellantis_8262515.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-01T10:49:05+01:00",
+          "resume": "Les ventes de voitures neuves ont progressé de 7 % en octobre, portées principalement par le dynamisme du marché des véhicules électriques. Près de 150 000 immatriculations ont été enregistrées le mois dernier selon l'organisation professionnelle du secteur.",
+          "contexte": "Le marché automobile français et européen est marqué par une transition progressive vers l'électrique, soutenue par des réglementations environnementales strictes et des incitations financières. Ces chiffres traduisent l'adaptation des consommateurs et des constructeurs aux nouvelles exigences énergétiques."
+        }
+      ]
     }
   },
   "culture_seen": [
@@ -458,6 +535,9 @@
     "Les îles Diomède, la frontière du temps",
     "La lévitation magnétique",
     "Le chant des baleines",
-    "L'origine du mot « podium »"
+    "L'origine du mot « podium »",
+    "L'origine du mot « marathon »",
+    "Le mystère du roman inachevé",
+    "Le pays aux deux enclaves"
   ]
 }
