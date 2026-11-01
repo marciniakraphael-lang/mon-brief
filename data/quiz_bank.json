@@ -2264,6 +2264,111 @@
       "reponse": 1,
       "explication": "Dans l'Antiquité romaine, le podium désignait un mur ou une estrade surélevée servant à protéger les spectateurs des arènes lors des jeux du cirque.",
       "lien": ""
+    },
+    {
+      "id": "a5148646cf",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Quel pourcentage d'hommes afro-américains a voté pour Donald Trump en 2024 selon l'article ?",
+      "choix": [
+        "Environ 21 %",
+        "Environ 50 %",
+        "Environ 10 %",
+        "Environ 35 %"
+      ],
+      "reponse": 0,
+      "explication": "L'article indique explicitement qu'environ 21 % des hommes de la communauté afro-américaine ont voté pour Donald Trump en 2024.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-%C3%A9tats-unis-ces-afro-am%C3%A9ricains-s%C3%A9duits-par-donald-trump-et-ses-valeurs-conservatrices"
+    },
+    {
+      "id": "aa2c9d081f",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Combien de bateaux ont pris le départ de la 13e édition de la Route du Rhum ?",
+      "choix": [
+        "130 bateaux",
+        "115 bateaux",
+        "85 bateaux",
+        "102 bateaux"
+      ],
+      "reponse": 1,
+      "explication": "Le texte précise qu'un total de 115 bateaux, répartis en six catégories, a pris le départ de cette édition.",
+      "lien": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/saint-malo/live-route-du-rhum-2026-les-115-bateaux-engages-prennent-la-mer-direction-la-guadeloupe-suivez-le-grand-depart-3437001.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "635382bab6",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Quel a été le bilan des interpellations en France lors des manifestations du 31 octobre ?",
+      "choix": [
+        "1 200 personnes",
+        "550 personnes",
+        "890 personnes",
+        "779 personnes"
+      ],
+      "reponse": 3,
+      "explication": "Selon le bilan définitif du ministère de l'Intérieur cité dans l'article, 779 personnes ont été interpellées dans tout le pays.",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "7ba71c998b",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "À qui l'écrivain Juan Gabriel Vasquez rend-il hommage dans son nouveau roman ?",
+      "choix": [
+        "À la peintre Frida Kahlo",
+        "À la sculptrice Feliza Bursztyn",
+        "À l'écrivaine Gabriel Mistral",
+        "À la militante politique Maria Cano"
+      ],
+      "reponse": 1,
+      "explication": "Le roman « Les Noms de Feliza » est un hommage à la sculptrice colombienne Feliza Bursztyn.",
+      "lien": "https://www.lemonde.fr/livres/article/2026/11/01/le-nouveau-roman-de-juan-gabriel-vasquez-est-un-bel-hommage-a-la-sculptrice-colombienne-feliza-bursztyn-femme-libre-et-malheureuse_6804237_3260.html"
+    },
+    {
+      "id": "3c57baa779",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Dans quelles villes allemandes des émeutes et pillages ont-ils été signalés lors des manifestations de la Gen Z ?",
+      "choix": [
+        "Munich",
+        "Berlin",
+        "Hambourg",
+        "Francfort"
+      ],
+      "reponse": 3,
+      "explication": "L'article précise que si des manifestations ont eu lieu dans plusieurs villes, ce sont les rassemblements à Francfort qui ont dégénéré en émeutes et pillages.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-en-allemagne-des-manifestations-de-la-gen-z-s-inspirant-du-mouvement-fran%C3%A7ais"
+    },
+    {
+      "id": "53ab10a4c8",
+      "date": "2026-11-01",
+      "type": "culture",
+      "question": "Pourquoi la distance du marathon moderne a-t-elle été fixée à sa longueur actuelle ?",
+      "choix": [
+        "Pour correspondre exactement à la distance parcourue par Philippidès",
+        "Pour respecter les mesures des anciennes routes romaines",
+        "Pour permettre à la famille royale britannique d'assister à l'arrivée",
+        "Par décision du comité olympique grec lors des premiers jeux"
+      ],
+      "reponse": 2,
+      "explication": "Le texte explique que la distance a été fixée lors du marathon de Londres afin que la famille royale puisse suivre l'arrivée depuis sa tribune.",
+      "lien": ""
+    },
+    {
+      "id": "91a49bfb97",
+      "date": "2026-11-01",
+      "type": "culture",
+      "question": "Quels sont les deux micro-états enclavés entièrement dans le territoire italien ?",
+      "choix": [
+        "Monaco et Saint-Marin",
+        "Le Vatican et Malte",
+        "Le Vatican et Saint-Marin",
+        "Andorre et le Vatican"
+      ],
+      "reponse": 2,
+      "explication": "L'Italie abrite deux micro-états souverains enclavés : le Vatican et la République de Saint-Marin.",
+      "lien": ""
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
-  "mode": "morning",
-  "updated": "2026-11-01T11:40:33.329904+01:00",
+  "mode": "evening",
+  "updated": "2026-11-01T13:36:47.630000+01:00",
   "deja_presente": [
     {
       "titre": "Mobilisation du 31 octobre : la CGT appelle les manifestants à rejoindre le seul cortège parisien autorisé",
@@ -144,76 +144,76 @@
   ],
   "aujourdhui": [
     {
-      "titre": "La plateforme de cryptomonnaies Binance annonce une reprise des retraits après avoir perdu plus de six milliards de dollars dans un piratage",
-      "lien": "https://www.franceinfo.fr/economie/bitcoin/la-plateforme-de-cryptomonnaies-binance-annonce-une-reprise-des-retraits-apres-un-piratage-commis-par-des-hackers-de-coree-du-nord-selon-les-accusations-du-fbi_8262545.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T11:31:36+01:00",
-      "resume": "La plateforme de cryptomonnaies Binance a annoncé la reprise des retraits après avoir subi une perte de plus de six milliards de dollars lors d'un piratage. Le FBI a attribué cette attaque à des hackers nord-coréens, bien que le président américain Donald Trump ait émis des doutes sur l'implication du régime de Kim Jong-un.",
-      "contexte": "La sécurité des plateformes d'échange de cryptomonnaies constitue un défi majeur face à la sophistication croissante des cyberattaques, parfois attribuées à des acteurs étatiques cherchant à contourner les sanctions internationales. Ces incidents majeurs entraînent souvent une suspension temporaire des services pour évaluer les dégâts et sécuriser les infrastructures."
-    },
-    {
-      "titre": "Au Liban, les dépenses du quotidien pèsent de plus en plus lourd",
-      "lien": "https://www.france24.com/fr/moyen-orient/20261101-au-liban-les-d%C3%A9penses-du-quotidien-p%C3%A8sent-de-plus-en-plus-lourd",
+      "titre": "États-Unis : ces Afro-Américains séduits par Donald Trump et ses valeurs conservatrices",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-%C3%A9tats-unis-ces-afro-am%C3%A9ricains-s%C3%A9duits-par-donald-trump-et-ses-valeurs-conservatrices",
       "source": "France 24",
-      "date": "2026-11-01T11:29:55+01:00",
-      "resume": "Au Liban, les dépenses du quotidien pèsent de plus en plus lourd pour les ménages qui peinent à faire face au coût de la vie. Cette situation intervient alors que le Fonds monétaire international (FMI) réclame de nouvelles réformes économiques et bancaires, dont la mise en œuvre soulève des interrogations et des risques pour la population.",
-      "contexte": "Le Liban traverse une crise économique et financière profonde depuis plusieurs années, caractérisée par une inflation galopante et la dévaluation de sa monnaie. Les exigences du FMI visent à assainir l'économie, mais leurs conséquences sociales font craindre une précarisation accrue des citoyens."
+      "date": "2026-11-01T13:32:12+01:00",
+      "resume": "En 2024, environ 21 % des hommes de la communauté afro-américaine ont voté pour Donald Trump aux États-Unis. Certains électeurs de cette communauté affirment être des partisans convaincus séduits par ses valeurs conservatrices.",
+      "contexte": "L'évolution du vote des minorités aux États-Unis, traditionnellement ancrées à gauche, représente un enjeu électoral majeur. La percée de candidats républicains auprès d'une partie des hommes afro-américains s'explique souvent par une sensibilité aux thèmes économiques, religieux ou sécuritaires."
     },
     {
-      "titre": "Mobilisation sociale : 20 commerces ont été dégradés le 31 octobre, un chiffre en baisse par rapport aux précédents week-ends de manifestations",
-      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T11:27:23+01:00",
-      "resume": "Vingt commerces ont été dégradés le 31 octobre lors de la dernière journée de mobilisation sociale, un chiffre en baisse par rapport aux précédents week-ends de manifestations. Alors que la participation globale a connu une légère baisse, de nouveaux rendez-vous sont prévus, avec en point culminant une grève nationale annoncée pour le 5 novembre.",
-      "contexte": "Les mouvements de contestation sociale en France s'accompagnent régulièrement d'incidents matériels en marge des cortèges, mobilisant les forces de l'ordre. La multiplication des appels à la grève témoigne de la persistance des revendications professionnelles et salariales."
-    },
-    {
-      "titre": "\"Les familles se confient à moi, me racontent leur histoire\" : gardien de cimetière, Sébastien se sent utile aux autres",
-      "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/portrait-les-familles-se-confient-a-moi-me-racontent-leur-histoire-gardien-de-cimetiere-sebastien-se-sent-utile-aux-autres-3440661.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T11:24:50+01:00",
-      "resume": "À l'occasion de la Toussaint célébrée ce dimanche 1er novembre, de nombreuses familles se rendent dans les cimetières pour rendre hommage à leurs défunts. À Grenoble, le gardien de cimetière Sébastien Roca témoigne de son rôle auprès des visiteurs pour réconforter les personnes endeuillées.",
-      "contexte": "La Toussaint est un moment de recueillement traditionnel en France, marqué par une affluence importante dans les lieux de sépulture. Le travail des agents funéraires et des gardiens prend alors une dimension particulièrement humaine pour accompagner le deuil."
-    },
-    {
-      "titre": "Comment la proximité avec le Canada pourrait influencer les midterms au Michigan",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-comment-proximit%C3%A9-avec-canada-pourrait-influencer-midterms-au-michigan-d%C3%A9troit-%C3%A9tats-unis-%C3%A9lections-mi-mandat-donald-trump",
-      "source": "France 24",
-      "date": "2026-11-01T11:23:28+01:00",
-      "resume": "La ville de Detroit, située au Michigan à proximité immédiate du Canada, fait face à des enjeux économiques particuliers en lien avec les élections de mi-mandat (midterms). Les relations transfrontalières ont été affectées par la politique douanière et la guerre commerciale menées par le président Donald Trump contre le voisin canadien.",
-      "contexte": "Les politiques protectionnistes et les différends commerciaux ont un impact direct sur les économies des États frontaliers aux États-Unis, influençant potentiellement le vote des électeurs lors des scrutins intermédiaires. Les candidats doivent composer avec ces préoccupations locales liées aux échanges internationaux."
-    },
-    {
-      "titre": "LIVE. Départ Route du Rhum. Les 115 bateaux prennent la mer au large de Saint-Malo, suivez le grand départ !",
+      "titre": "Suivez le grand départ de la Route du rhum depuis Saint-Malo",
       "lien": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/saint-malo/live-route-du-rhum-2026-les-115-bateaux-engages-prennent-la-mer-direction-la-guadeloupe-suivez-le-grand-depart-3437001.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-11-01T11:22:24+01:00",
-      "resume": "La 13e édition de la légendaire Route du Rhum - Destination Guadeloupe a débuté dimanche à 13h02, avec le départ de 115 bateaux solitaires au large de Saint-Malo. Le marin Sam Goodchild a pris la relève à bord de l'ancien bateau de Charlie Dalin pour cette course transatlantique que les plus rapides espèrent accomplir en six jours.",
-      "contexte": "La Route du Rhum est l'une des courses au large en solitaire les plus prestigieuses de la voile française, attirant un public considérable et une flotte diversifiée de multicoques et monocoques. Les conditions météorologiques au départ de Saint-Malo jouent un rôle déterminant dans la stratégie initiale des skippers."
-    },
-    {
-      "titre": "Championne WNBA et inspiration pour toute une génération : Gabby Williams, taille patronne du basket français",
-      "lien": "https://www.franceinfo.fr/sports/basket/wnba/portrait-finaliste-wnba-et-inspiration-pour-toute-une-generation-gabby-williams-taille-patronne-du-basket-francais_8240452.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-01T11:21:05+01:00",
-      "resume": "La basketteuse française Gabby Williams a mené sa franchise des Golden State Valkyries à la finale puis au titre WNBA samedi, en inscrivant 30 points lors du match décisif contre l'Atlanta Dream.",
-      "contexte": "La performance de Gabby Williams dans le championnat nord-américain de basketball féminin (WNBA) confirme son statut de joueuse majeure sur la scène internationale. Ce succès individuel et collectif met en lumière l'influence croissante des talents français dans le sport de haut niveau mondial."
+      "date": "2026-11-01T13:31:01+01:00",
+      "resume": "La 13e édition de la Route du Rhum - Destination Guadeloupe a débuté à 13h02 ce dimanche. Un total de 115 bateaux répartis en six catégories ont pris le départ depuis la pointe du Grouin en Bretagne pour relier Pointe-à-Pitre.",
+      "contexte": "Cette course transatlantique en solitaire, créée en 1978 et organisée tous les quatre ans, est l'un des événements majeurs de la voile hauturière. Elle mobilise des skippers professionnels et amateurs qui affrontent les aléas climatiques de l'Atlantique Nord à l'automne."
     },
     {
-      "titre": "L'évacuation de la ville d'Olechky, un exemple réussi mais encore isolé de cessez-le-feu humanitaire entre l'Ukraine et la Russie",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-evacuation-de-la-ville-d-olechky-un-exemple-reussi-mais-encore-isole-de-cessez-le-feu-humanitaire-entre-l-ukraine-et-la-russie_8261840.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · Le Monde",
-      "date": "2026-11-01T11:18:17+01:00",
-      "resume": "La ville d'Olechky, située en territoire ukrainien sous occupation russe, a connu une opération d'évacuation permettant à plus d'une centaine, voire plus de 200 habitants, de rejoindre le territoire ukrainien à travers un cessez-le-feu humanitaire rare. Parallèlement, le site pétrolier de Kstovo, une grande raffinerie russe dans la région de Nijni Novgorod, a été la cible d'une attaque massive de drones dans la nuit et dimanche matin, tandis que Kiev affirme avoir abattu ou neutralisé 371 drones russes.",
-      "contexte": "Le conflit en Ukraine continue d'engendrer des crises humanitaires complexes où les corridors d'évacuation restent exceptionnels et fragiles. En parallèle, la stratégie militaire des deux camps inclut des frappes de drones ciblées sur les infrastructures énergétiques et logistiques pour affaiblir l'adversaire."
+      "titre": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24 · Le Monde",
+      "date": "2026-11-01T13:29:53+01:00",
+      "resume": "Un troisième acte de mobilisation sociale a eu lieu le samedi 31 octobre en France pour protester contre la vie chère et les conditions d'études, marqué par des manifestations et des affrontements. Selon un bilan définitif du ministère de l'Intérieur, 779 personnes ont été interpellées dans tout le pays, tandis qu'à Paris, un gendarme a été blessé par un cocktail Molotov. De nouveaux rendez-vous sont déjà annoncés, dont une grève nationale prévue le 5 novembre et des appels au blocus des établissements scolaires lancés par des organisations lycéennes et étudiantes.",
+      "contexte": "Les mouvements sociaux liés au pouvoir d'achat et aux conditions de la jeunesse traduisent des tensions économiques persistantes. La radicalisation de certains cortèges et les interpellations massives témoignent d'un climat social tendu, où les syndicats et organisations étudiantes tentent de maintenir la pression sur le gouvernement."
     },
     {
-      "titre": "Les ventes de voitures neuves progressent de 7% en octobre grâce au marché de l'électrique",
-      "lien": "https://www.franceinfo.fr/economie/automobile/les-ventes-de-voitures-neuves-progressent-en-octobre-en-france-grace-au-marche-de-l-electrique-domine-par-tesla-et-le-groupe-stellantis_8262515.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T10:49:05+01:00",
-      "resume": "Les ventes de voitures neuves ont progressé de 7 % en octobre, portées principalement par le dynamisme du marché des véhicules électriques. Près de 150 000 immatriculations ont été enregistrées le mois dernier selon l'organisation professionnelle du secteur.",
-      "contexte": "Le marché automobile français et européen est marqué par une transition progressive vers l'électrique, soutenue par des réglementations environnementales strictes et des incitations financières. Ces chiffres traduisent l'adaptation des consommateurs et des constructeurs aux nouvelles exigences énergétiques."
+      "titre": "Crise politique en Pologne : Bruxelles fait pression sur le président polonais",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-crise-politique-en-pologne-bruxelles-fait-pression-sur-le-pr%C3%A9sident-polonais",
+      "source": "France 24",
+      "date": "2026-11-01T13:26:23+01:00",
+      "resume": "La Commission européenne a exprimé son soutien au Premier ministre polonais Donald Tusk en demandant au président Karol Nawrocki de valider la nomination de juges. Cette intervention vise à trouver une issue à la profonde crise politique qui secoue Varsovie.",
+      "contexte": "Cette situation s'inscrit dans les tensions récurrentes entre l'exécutif national et certaines institutions judiciaires en Pologne. L'implication de Bruxelles illustre l'importance accordée par l'Union européenne au respect de l'État de droit et à la stabilité institutionnelle de ses pays membres."
+    },
+    {
+      "titre": "La « situation au Moyen-Orient » provoque le forfait de Yamaha pour une manche de MotoGP",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/01/la-situation-au-moyen-orient-provoque-le-forfait-de-yamaha-pour-une-manche-de-motogp_6804271_3242.html",
+      "source": "Le Monde",
+      "date": "2026-11-01T13:16:38+01:00",
+      "resume": "L'équipe Yamaha a annoncé dimanche qu'elle renonçait à participer au Grand Prix du Qatar de MotoGP en raison de la situation sécuritaire au Moyen-Orient. Plusieurs pilotes ont également fait part de leur réticence à se rendre dans cette région en raison de l'instabilité géopolitique.",
+      "contexte": "Les grands événements sportifs internationaux sont parfois perturbés par des crises géopolitiques régionales. Les organisateurs et les équipes doivent composer avec les impératifs de sécurité pour les sportifs et les spectateurs, ce qui peut mener à des annulations de compétitions."
+    },
+    {
+      "titre": "Le nouveau roman de Juan Gabriel Vasquez est un bel hommage à la sculptrice colombienne Feliza Bursztyn, femme libre et malheureuse",
+      "lien": "https://www.lemonde.fr/livres/article/2026/11/01/le-nouveau-roman-de-juan-gabriel-vasquez-est-un-bel-hommage-a-la-sculptrice-colombienne-feliza-bursztyn-femme-libre-et-malheureuse_6804237_3260.html",
+      "source": "Le Monde",
+      "date": "2026-11-01T13:00:03+01:00",
+      "resume": "L'écrivain colombien Juan Gabriel Vasquez publie son nouveau roman intitulé « Les Noms de Feliza ». Le livre rend hommage à la sculptrice colombienne Feliza Bursztyn, décédée en exil à Paris en 1982.",
+      "contexte": "La littérature sud-américaine aborde fréquemment les thèmes de l'exil, de la liberté artistique et des traumatismes politiques du XXe siècle. Ce type d'ouvrage met en lumière des figures artistiques parfois méconnues du grand public mais marquantes pour l'histoire culturelle de leur pays."
+    },
+    {
+      "titre": "A Gaza, des frappes israéliennes tuent huit personnes dont un enfant, selon la défense civile et les hôpitaux",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/01/a-gaza-des-frappes-israeliennes-tuent-huit-personnes-dont-un-enfant-selon-la-defense-civile-et-les-hopitaux_6804236_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-01T12:48:01+01:00",
+      "resume": "De nouvelles frappes israéliennes ont touché la bande de Gaza dimanche, faisant huit morts, dont un enfant, selon la défense civile et les hôpitaux. Plus de 1 500 Palestiniens ont péri depuis la mise en place d'un cessez-le-feu il y a un an, que le Hamas et Israël s'accusent mutuellement de violer.",
+      "contexte": "Le conflit israélo-palestinien reste caractérisé par une extrême volatilité et de fréquentes ruptures de trêve. Les accusations mutuelles de violation du cessez-le-feu illustrent la difficulté persistante à stabiliser la région et à protéger les populations civiles."
+    },
+    {
+      "titre": "Midterms aux États-Unis : les démocrates en force ?",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-midterms-aux-%C3%A9tats-unis-les-d%C3%A9mocrates-en-force",
+      "source": "France 24",
+      "date": "2026-11-01T12:12:11+01:00",
+      "resume": "À l'approche des élections de mi-mandat (« midterms ») aux États-Unis, les démocrates affichent des ambitions élevées. Ils espèrent en effet remporter la majorité à la Chambre des représentants ainsi qu'au Sénat pour s'emparer du contrôle du Congrès.",
+      "contexte": "Les élections de mi-mandat se tiennent traditionnellement au milieu du mandat présidentiel et constituent souvent un test majeur pour l'administration en place. Le parti au pouvoir cherche généralement à conserver ses majorités pour éviter la paralysie législative, tandis que l'opposition tente de s'imposer pour limiter le pouvoir exécutif."
+    },
+    {
+      "titre": "En Allemagne, des manifestations de la Gen Z s'inspirant du mouvement français",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-en-allemagne-des-manifestations-de-la-gen-z-s-inspirant-du-mouvement-fran%C3%A7ais",
+      "source": "France 24",
+      "date": "2026-11-01T12:07:23+01:00",
+      "resume": "Des dizaines de milliers de jeunes allemands, mobilisés par le collectif « GenZ regelt », ont manifesté samedi dans plusieurs villes comme Berlin, Francfort et Cologne pour réclamer de meilleures conditions pour l'éducation et protester contre la vie chère. Inspiré par le mouvement français, ce rassemblement a toutefois dégénéré en émeutes et en pillages à Francfort.",
+      "contexte": "La mobilisation de la jeunesse sur les questions climatiques, économiques et éducatives transcende les frontières en Europe, favorisée par les réseaux sociaux. L'apparition de débordements violents lors de certains rassemblements pose la question de l'encadrement des mouvements contestataires spontanés."
     }
   ],
   "culture": [
@@ -236,5 +236,111 @@
       "a_retenir": "L'Italie est l'un des rares pays au monde à enclaver deux nations souveraines distinctes sur son propre territoire."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "a5148646cf",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Quel pourcentage d'hommes afro-américains a voté pour Donald Trump en 2024 selon l'article ?",
+      "choix": [
+        "Environ 21 %",
+        "Environ 50 %",
+        "Environ 10 %",
+        "Environ 35 %"
+      ],
+      "reponse": 0,
+      "explication": "L'article indique explicitement qu'environ 21 % des hommes de la communauté afro-américaine ont voté pour Donald Trump en 2024.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-%C3%A9tats-unis-ces-afro-am%C3%A9ricains-s%C3%A9duits-par-donald-trump-et-ses-valeurs-conservatrices"
+    },
+    {
+      "id": "aa2c9d081f",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Combien de bateaux ont pris le départ de la 13e édition de la Route du Rhum ?",
+      "choix": [
+        "130 bateaux",
+        "115 bateaux",
+        "85 bateaux",
+        "102 bateaux"
+      ],
+      "reponse": 1,
+      "explication": "Le texte précise qu'un total de 115 bateaux, répartis en six catégories, a pris le départ de cette édition.",
+      "lien": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/saint-malo/live-route-du-rhum-2026-les-115-bateaux-engages-prennent-la-mer-direction-la-guadeloupe-suivez-le-grand-depart-3437001.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "635382bab6",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Quel a été le bilan des interpellations en France lors des manifestations du 31 octobre ?",
+      "choix": [
+        "1 200 personnes",
+        "550 personnes",
+        "890 personnes",
+        "779 personnes"
+      ],
+      "reponse": 3,
+      "explication": "Selon le bilan définitif du ministère de l'Intérieur cité dans l'article, 779 personnes ont été interpellées dans tout le pays.",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "7ba71c998b",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "À qui l'écrivain Juan Gabriel Vasquez rend-il hommage dans son nouveau roman ?",
+      "choix": [
+        "À la peintre Frida Kahlo",
+        "À la sculptrice Feliza Bursztyn",
+        "À l'écrivaine Gabriel Mistral",
+        "À la militante politique Maria Cano"
+      ],
+      "reponse": 1,
+      "explication": "Le roman « Les Noms de Feliza » est un hommage à la sculptrice colombienne Feliza Bursztyn.",
+      "lien": "https://www.lemonde.fr/livres/article/2026/11/01/le-nouveau-roman-de-juan-gabriel-vasquez-est-un-bel-hommage-a-la-sculptrice-colombienne-feliza-bursztyn-femme-libre-et-malheureuse_6804237_3260.html"
+    },
+    {
+      "id": "3c57baa779",
+      "date": "2026-11-01",
+      "type": "actu",
+      "question": "Dans quelles villes allemandes des émeutes et pillages ont-ils été signalés lors des manifestations de la Gen Z ?",
+      "choix": [
+        "Munich",
+        "Berlin",
+        "Hambourg",
+        "Francfort"
+      ],
+      "reponse": 3,
+      "explication": "L'article précise que si des manifestations ont eu lieu dans plusieurs villes, ce sont les rassemblements à Francfort qui ont dégénéré en émeutes et pillages.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-en-allemagne-des-manifestations-de-la-gen-z-s-inspirant-du-mouvement-fran%C3%A7ais"
+    },
+    {
+      "id": "53ab10a4c8",
+      "date": "2026-11-01",
+      "type": "culture",
+      "question": "Pourquoi la distance du marathon moderne a-t-elle été fixée à sa longueur actuelle ?",
+      "choix": [
+        "Pour correspondre exactement à la distance parcourue par Philippidès",
+        "Pour respecter les mesures des anciennes routes romaines",
+        "Pour permettre à la famille royale britannique d'assister à l'arrivée",
+        "Par décision du comité olympique grec lors des premiers jeux"
+      ],
+      "reponse": 2,
+      "explication": "Le texte explique que la distance a été fixée lors du marathon de Londres afin que la famille royale puisse suivre l'arrivée depuis sa tribune.",
+      "lien": ""
+    },
+    {
+      "id": "91a49bfb97",
+      "date": "2026-11-01",
+      "type": "culture",
+      "question": "Quels sont les deux micro-états enclavés entièrement dans le territoire italien ?",
+      "choix": [
+        "Monaco et Saint-Marin",
+        "Le Vatican et Malte",
+        "Le Vatican et Saint-Marin",
+        "Andorre et le Vatican"
+      ],
+      "reponse": 2,
+      "explication": "L'Italie abrite deux micro-états souverains enclavés : le Vatican et la République de Saint-Marin.",
+      "lien": ""
+    }
+  ]
 }
