@@ -1,354 +1,192 @@
 {
-  "date": "2026-11-01",
-  "mode": "evening",
-  "updated": "2026-11-01T22:46:35.173277+01:00",
+  "date": "2026-11-02",
+  "mode": "morning",
+  "updated": "2026-11-02T12:29:38.590804+01:00",
   "deja_presente": [
     {
-      "titre": "Mobilisation du 31 octobre : la CGT appelle les manifestants à rejoindre le seul cortège parisien autorisé",
-      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]",
+      "titre": "La plateforme de cryptomonnaies Binance annonce une reprise des retraits après avoir perdu plus de six milliards de dollars dans un piratage",
+      "lien": "https://www.franceinfo.fr/economie/bitcoin/la-plateforme-de-cryptomonnaies-binance-annonce-une-reprise-des-retraits-apres-un-piratage-commis-par-des-hackers-de-coree-du-nord-selon-les-accusations-du-fbi_8262545.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-31T10:49:43+01:00",
-      "resume": "La plus haute juridiction administrative française, le Conseil d'Etat, a donné raison à Laurent Nuñez en validant le parcours de manifestation entre les portes de Bagnolet et de Charenton pour la mobilisation du 31 octobre. Elle a ainsi désavoué le tribunal administratif qui avait autorisé un autre parcours entre Bastille et Nation voulu par les organisateurs. La CGT a par conséquent appelé les manifestants à rejoindre ce seul cortège parisien autorisé.",
-      "contexte": "Les tracés des manifestations font régulièrement l'objet de vifs désaccords juridiques et politiques entre les autorités préfectorales, soucieuses du maintien de l'ordre et de la sécurité publique, et les syndicats, attachés à la liberté de manifester dans les zones centrales. Ces arbitrages visent généralement à prévenir les risques de débordements tout en encadrant le droit de contestation."
+      "date": "2026-11-01T11:31:36+01:00",
+      "resume": "La plateforme de cryptomonnaies Binance a annoncé la reprise des retraits après avoir subi une perte de plus de six milliards de dollars lors d'un piratage. Le FBI a attribué cette attaque à des hackers nord-coréens, bien que le président américain Donald Trump ait émis des doutes sur l'implication du régime de Kim Jong-un.",
+      "contexte": "La sécurité des plateformes d'échange de cryptomonnaies constitue un défi majeur face à la sophistication croissante des cyberattaques, parfois attribuées à des acteurs étatiques cherchant à contourner les sanctions internationales. Ces incidents majeurs entraînent souvent une suspension temporaire des services pour évaluer les dégâts et sécuriser les infrastructures."
     },
     {
-      "titre": "Le président de la Pologne convoque les partis pour trouver une issue à la crise politique après l'intervention de la police au Tribunal constitutionnel",
-      "lien": "https://www.franceinfo.fr/monde/europe/le-president-de-la-pologne-convoque-les-partis-pour-trouver-une-issue-a-la-crise-politique-apres-l-intervention-de-la-police-au-tribunal-constitutionnel_8261594.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-31T10:37:34+01:00",
-      "resume": "Le président de la Pologne a convoqué les partis politiques pour tenter de trouver une issue à la crise politique déclenchée par l'intervention de la police au Tribunal constitutionnel. Les têtes de l'exécutif polonais se déchirent en effet entre membres de la droite nationaliste et centristes autour des nominations à la plus haute juridiction du pays.",
-      "contexte": "Les tensions autour du pouvoir judiciaire en Pologne reflètent des années de luttes institutionnelles sur l'indépendance de la justice et la répartition des compétences entre le gouvernement, le président et le parlement. Ces crises institutionnelles menacent fréquemment la stabilité politique du pays au sein de l'Union européenne."
-    },
-    {
-      "titre": "Attentat raciste dans les Yvelines : le maire de Trappes accuse le RN d'avoir \"inoculé la haine\" dans l'esprit de l'auteur de l'attaque",
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-31T10:33:48+01:00",
-      "resume": "Des milliers de personnes se sont rassemblées vendredi soir à Trappes, dans les Yvelines, pour participer à un événement contre le racisme et l'islamophobie et rendre hommage à Pengo Bossio Wangi, un homme noir de 26 ans, ainsi qu'aux sept autres personnes blessées, dont une fillette. Cet attentat a été commis par Kevin T., qui s'en est pris délibérément à des personnes musulmanes, africaines ou nord-africaines. Des figures de gauche comme Jean-Luc Mélenchon, Olivier Faure, Raphaël Glucksmann et Marine Tondelier ont pris part au rassemblement, tandis que le maire de Trappes a accusé le Rassemblement national d'avoir inoculé la haine dans l'esprit de l'auteur.",
-      "contexte": "Ce type de drame met en lumière les tensions identitaires et politiques persistantes dans certaines communes, ainsi que la prompte mobilisation des formations de gauche et des associations locales contre les actes racistes. Les réactions politiques illustrent la polarisation du débat public autour des questions d'intégration, de sécurité et de la montée des discours haineux."
-    },
-    {
-      "titre": "Midterms 2026, le récap : \"si les sondages ont raison\" ou l'optimisme angoissé des démocrates",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261031-midterms-2026-recap-sondages-democrates-republicains-trump-alaska-fraude-contestation-resultats-obama",
+      "titre": "Au Liban, les dépenses du quotidien pèsent de plus en plus lourd",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261101-au-liban-les-d%C3%A9penses-du-quotidien-p%C3%A8sent-de-plus-en-plus-lourd",
       "source": "France 24",
-      "date": "2026-10-31T10:33:44+01:00",
-      "resume": "À l'approche des élections de mi-mandat de 2026 aux États-Unis, démocrates et analystes affichent un optimisme angoissé face aux derniers sondages qui prédisent une vague bleue. En Alaska, un scandale impliquant la candidate démocrate au Sénat fait craindre une possible contestation des résultats, sur fond de croisade de l'administration Trump contre la supposée fraude électorale.",
-      "contexte": "Les élections de mi-mandat constituent traditionnellement un test majeur pour l'administration en place et le Congrès, influençant le rapport de force politique pour la seconde moitié du mandat présidentiel. La méfiance envers les sondages et la crainte de contestations post-électorales traduisent la forte polarisation de la vie politique américaine."
+      "date": "2026-11-01T11:29:55+01:00",
+      "resume": "Au Liban, les dépenses du quotidien pèsent de plus en plus lourd pour les ménages qui peinent à faire face au coût de la vie. Cette situation intervient alors que le Fonds monétaire international (FMI) réclame de nouvelles réformes économiques et bancaires, dont la mise en œuvre soulève des interrogations et des risques pour la population.",
+      "contexte": "Le Liban traverse une crise économique et financière profonde depuis plusieurs années, caractérisée par une inflation galopante et la dévaluation de sa monnaie. Les exigences du FMI visent à assainir l'économie, mais leurs conséquences sociales font craindre une précarisation accrue des citoyens."
     },
     {
-      "titre": "\"Les arnaques vont se multiplier\" : avant la sortie de GTA VI, les escroqueries montent en flèche",
-      "lien": "https://www.franceinfo.fr/culture/jeux-video/les-arnaques-vont-se-multiplier-avant-la-sortie-de-gta-vi-les-escroqueries-montent-en-fleche_8260514.html#xtor=RSS-3-[lestitres]",
+      "titre": "Mobilisation sociale : 20 commerces ont été dégradés le 31 octobre, un chiffre en baisse par rapport aux précédents week-ends de manifestations",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-31T10:07:36+01:00",
-      "resume": "À l'approche de la sortie du jeu vidéo \"Grand Theft Auto VI\" prévue le 19 novembre, les escroqueries en ligne montent en flèche. Les pirates profitent de l'engouement des fans pour multiplier les offres frauduleuses d'accès anticipé et les faux sites de précommande.",
-      "contexte": "Les sorties de produits culturels très attendus, comme les blockbusters du jeu vidéo, constituent des opportunités lucratives pour la cybercriminalité en raison de la forte demande et de l'impatience du public. Les autorités rappellent régulièrement la nécessité de privilégier les canaux de distribution officiels pour éviter les fraudes."
+      "date": "2026-11-01T11:27:23+01:00",
+      "resume": "Vingt commerces ont été dégradés le 31 octobre lors de la dernière journée de mobilisation sociale, un chiffre en baisse par rapport aux précédents week-ends de manifestations. Alors que la participation globale a connu une légère baisse, de nouveaux rendez-vous sont prévus, avec en point culminant une grève nationale annoncée pour le 5 novembre.",
+      "contexte": "Les mouvements de contestation sociale en France s'accompagnent régulièrement d'incidents matériels en marge des cortèges, mobilisant les forces de l'ordre. La multiplication des appels à la grève témoigne de la persistance des revendications professionnelles et salariales."
     },
     {
-      "titre": "Israël : la difficile formation d’un gouvernement avec les partis arabes",
-      "lien": "https://www.franceinfo.fr/monde/israel/israel-la-difficile-formation-d-un-gouvernement-avec-les-partis-arabes_8261597.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-31T09:50:12+01:00",
-      "resume": "À l'issue des élections législatives en Israël, aucun parti ou coalition n'est en mesure de former un gouvernement stable. Une série de tractations a ainsi débuté, devant nécessairement inclure les partis arabes, qui disposent de 19 sièges.",
-      "contexte": "La fragmentation du paysage politique israélien rend souvent la formation de coalitions majoritaires complexe et instable, nécessitant des alliances hétérogènes. L'intégration des formations politiques arabes dans les tractations constitue un enjeu institutionnel et stratégique majeur pour l'équilibre du pays."
-    },
-    {
-      "titre": "\"Affaires sensibles\". Quarante-trois ans après, un espoir de savoir enfin ce qui est arrivé au petit Mathieu Haulbert, disparu à la sortie d'un village du Verdon ?",
-      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/affaires-sensibles/video-affaires-sensibles-quarante-trois-ans-apres-un-espoir-de-savoir-enfin-ce-qui-est-arrive-au-petit-mathieu-haulbert-disparu-a-la-sortie-d-un-village-du-verdon_8260742.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Les familles se confient à moi, me racontent leur histoire\" : gardien de cimetière, Sébastien se sent utile aux autres",
+      "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/portrait-les-familles-se-confient-a-moi-me-racontent-leur-histoire-gardien-de-cimetiere-sebastien-se-sent-utile-aux-autres-3440661.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-31T09:48:55+01:00",
-      "resume": "Quarante-trois ans après la disparition du petit Mathieu Haulbert, survenue le 25 juin 1983 à la sortie d'un village du Verdon, l'affaire fait partie des dossiers repris par le pôle \"cold cases\" de Nanterre. Pour ses parents Lise et Philippe Haulbert, il s'agit d'un ultime espoir de voir aboutir une quête de quatre décennies.",
-      "contexte": "La création de pôles spécialisés dans le traitement des affaires non élucidées (cold cases) permet de relancer des enquêtes anciennes en mobilisant de nouvelles technologies scientifiques et des méthodes d'investigation actualisées. Cette démarche offre aux familles de victimes un nouvel espoir de vérité et de justice après des décennies d'attente."
+      "date": "2026-11-01T11:24:50+01:00",
+      "resume": "À l'occasion de la Toussaint célébrée ce dimanche 1er novembre, de nombreuses familles se rendent dans les cimetières pour rendre hommage à leurs défunts. À Grenoble, le gardien de cimetière Sébastien Roca témoigne de son rôle auprès des visiteurs pour réconforter les personnes endeuillées.",
+      "contexte": "La Toussaint est un moment de recueillement traditionnel en France, marqué par une affluence importante dans les lieux de sépulture. Le travail des agents funéraires et des gardiens prend alors une dimension particulièrement humaine pour accompagner le deuil."
     },
     {
-      "titre": "Jean-Claude Passeron, sociologue spécialiste de l’éducation, est mort",
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/31/jean-claude-passeron-sociologue-specialiste-de-l-education-est-mort_6803480_3224.html",
-      "source": "Le Monde",
-      "date": "2026-10-31T09:43:04+01:00",
-      "resume": "Le sociologue Jean-Claude Passeron, spécialiste de l'éducation et directeur d'études à l'EHESS ainsi que professeur à l'université de Vincennes, est mort. Il a notamment été l'auteur de plusieurs ouvrages de référence écrits avec Pierre Bourdieu, qui ont renouvelé la sociologie de l'éducation en France.",
-      "contexte": "L'œuvre de Jean-Claude Passeron, marquée par des collaborations majeures avec Pierre Bourdieu, a profondément influencé la sociologie moderne en analysant les mécanismes de reproduction sociale par le système éducatif. Ses travaux restent des références incontournables pour comprendre les inégalités scolaires et culturelles."
+      "titre": "Comment la proximité avec le Canada pourrait influencer les midterms au Michigan",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-comment-proximit%C3%A9-avec-canada-pourrait-influencer-midterms-au-michigan-d%C3%A9troit-%C3%A9tats-unis-%C3%A9lections-mi-mandat-donald-trump",
+      "source": "France 24",
+      "date": "2026-11-01T11:23:28+01:00",
+      "resume": "La ville de Detroit, située au Michigan à proximité immédiate du Canada, fait face à des enjeux économiques particuliers en lien avec les élections de mi-mandat (midterms). Les relations transfrontalières ont été affectées par la politique douanière et la guerre commerciale menées par le président Donald Trump contre le voisin canadien.",
+      "contexte": "Les politiques protectionnistes et les différends commerciaux ont un impact direct sur les économies des États frontaliers aux États-Unis, influençant potentiellement le vote des électeurs lors des scrutins intermédiaires. Les candidats doivent composer avec ces préoccupations locales liées aux échanges internationaux."
     },
     {
-      "titre": "Trois corps découverts dans les décombres d'un immeuble à Clermont-Ferrand après un incendie, une personne placée en garde à vue",
-      "lien": "https://www.franceinfo.fr/faits-divers/trois-corps-decouverts-dans-les-decombres-d-un-immeuble-a-clermont-ferrand-apres-un-incendie-une-personne-placee-en-garde-a-vue_8261585.html#xtor=RSS-3-[lestitres]",
+      "titre": "LIVE. Départ Route du Rhum. Les 115 bateaux prennent la mer au large de Saint-Malo, suivez le grand départ !",
+      "lien": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/saint-malo/live-route-du-rhum-2026-les-115-bateaux-engages-prennent-la-mer-direction-la-guadeloupe-suivez-le-grand-depart-3437001.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-11-01T11:22:24+01:00",
+      "resume": "La 13e édition de la légendaire Route du Rhum - Destination Guadeloupe a débuté dimanche à 13h02, avec le départ de 115 bateaux solitaires au large de Saint-Malo. Le marin Sam Goodchild a pris la relève à bord de l'ancien bateau de Charlie Dalin pour cette course transatlantique que les plus rapides espèrent accomplir en six jours.",
+      "contexte": "La Route du Rhum est l'une des courses au large en solitaire les plus prestigieuses de la voile française, attirant un public considérable et une flotte diversifiée de multicoques et monocoques. Les conditions météorologiques au départ de Saint-Malo jouent un rôle déterminant dans la stratégie initiale des skippers."
+    },
+    {
+      "titre": "Championne WNBA et inspiration pour toute une génération : Gabby Williams, taille patronne du basket français",
+      "lien": "https://www.franceinfo.fr/sports/basket/wnba/portrait-finaliste-wnba-et-inspiration-pour-toute-une-generation-gabby-williams-taille-patronne-du-basket-francais_8240452.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-10-31T09:38:25+01:00",
-      "resume": "Trois corps ont été découverts vendredi dans les décombres d'un immeuble à Clermont-Ferrand à la suite d'un incendie. Le parquet a évoqué une origine criminelle possible du sinistre, tandis qu'un homme a été interpellé et placé en garde à vue.",
-      "contexte": "La découverte de corps dans un incendie mortel déclenche systématiquement une enquête judiciaire en flagrance pour déterminer les causes exactes du drame et identifier d'éventuelles responsabilités criminelles. Les interpellations rapides permettent aux enquêteurs de vérifier des pistes liées à des différends personnels ou à des actes malveillants."
+      "date": "2026-11-01T11:21:05+01:00",
+      "resume": "La basketteuse française Gabby Williams a mené sa franchise des Golden State Valkyries à la finale puis au titre WNBA samedi, en inscrivant 30 points lors du match décisif contre l'Atlanta Dream.",
+      "contexte": "La performance de Gabby Williams dans le championnat nord-américain de basketball féminin (WNBA) confirme son statut de joueuse majeure sur la scène internationale. Ce succès individuel et collectif met en lumière l'influence croissante des talents français dans le sport de haut niveau mondial."
+    },
+    {
+      "titre": "L'évacuation de la ville d'Olechky, un exemple réussi mais encore isolé de cessez-le-feu humanitaire entre l'Ukraine et la Russie",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-evacuation-de-la-ville-d-olechky-un-exemple-reussi-mais-encore-isole-de-cessez-le-feu-humanitaire-entre-l-ukraine-et-la-russie_8261840.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · Le Monde",
+      "date": "2026-11-01T11:18:17+01:00",
+      "resume": "La ville d'Olechky, située en territoire ukrainien sous occupation russe, a connu une opération d'évacuation permettant à plus d'une centaine, voire plus de 200 habitants, de rejoindre le territoire ukrainien à travers un cessez-le-feu humanitaire rare. Parallèlement, le site pétrolier de Kstovo, une grande raffinerie russe dans la région de Nijni Novgorod, a été la cible d'une attaque massive de drones dans la nuit et dimanche matin, tandis que Kiev affirme avoir abattu ou neutralisé 371 drones russes.",
+      "contexte": "Le conflit en Ukraine continue d'engendrer des crises humanitaires complexes où les corridors d'évacuation restent exceptionnels et fragiles. En parallèle, la stratégie militaire des deux camps inclut des frappes de drones ciblées sur les infrastructures énergétiques et logistiques pour affaiblir l'adversaire."
+    },
+    {
+      "titre": "Les ventes de voitures neuves progressent de 7% en octobre grâce au marché de l'électrique",
+      "lien": "https://www.franceinfo.fr/economie/automobile/les-ventes-de-voitures-neuves-progressent-en-octobre-en-france-grace-au-marche-de-l-electrique-domine-par-tesla-et-le-groupe-stellantis_8262515.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-01T10:49:05+01:00",
+      "resume": "Les ventes de voitures neuves ont progressé de 7 % en octobre, portées principalement par le dynamisme du marché des véhicules électriques. Près de 150 000 immatriculations ont été enregistrées le mois dernier selon l'organisation professionnelle du secteur.",
+      "contexte": "Le marché automobile français et européen est marqué par une transition progressive vers l'électrique, soutenue par des réglementations environnementales strictes et des incitations financières. Ces chiffres traduisent l'adaptation des consommateurs et des constructeurs aux nouvelles exigences énergétiques."
     }
   ],
   "depuis_hier": [
     {
-      "titre": "Crise politique en Pologne : Bruxelles appelle le président Karol Nawrocki à valider la nomination de nouveaux juges au Tribunal constitutionnel",
-      "lien": "https://www.lemonde.fr/international/article/2026/10/31/crise-politique-en-pologne-bruxelles-appelle-le-president-karol-nawrocki-a-valider-la-nomination-de-nouveaux-juges-au-tribunal-constitutionnel_6803801_3210.html",
+      "titre": "Kimi Antonelli, sacré champion du monde de F1 à 20 ans, le pari gagnant de Mercedes",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/01/kimi-antonelli-sacre-champion-du-monde-de-f1-a-20-ans-le-pari-gagnant-de-mercedes_6804705_3242.html",
       "source": "Le Monde",
-      "date": "2026-10-31T23:57:51+01:00",
-      "resume": "Le président de la Pologne, Karol Nawrocki, a réuni samedi les représentants des partis de la majorité centriste et de l'opposition nationaliste pour tenter de résoudre la crise politique. Cette réunion fait suite à l'intervention de la police dans les locaux du Tribunal constitutionnel et à la suspension de son président controversé. Bruxelles a par ailleurs appelé le chef de l'État à valider la nomination de nouveaux juges au sein de cette institution.",
-      "contexte": "Cette crise institutionnelle reflète les tensions profondes entre les différentes factions politiques en Pologne autour du contrôle et de l'indépendance de la justice. L'intervention de l'Union européenne souligne l'importance du respect de l'État de droit et des règles démocratiques au sein des pays membres, les différends sur la composition des hautes juridictions étant un point de friction récurrent."
+      "date": "2026-11-01T23:25:01+01:00",
+      "resume": "Le pilote italien Kimi Antonelli a été sacré champion du monde de Formule 1 à l'âge de 20 ans. Issu de la filière de formation des « Flèches d’argent », il devient ainsi le plus jeune champion de l'histoire de la catégorie reine de la vitesse.",
+      "contexte": "Ce titre historique illustre la stratégie de Mercedes de miser très tôt sur de jeunes talents issus de son académie pour renouveler l'élite de la Formule 1. L'émergence de tels prodiges redéfinit les standards de précocité dans ce sport ultra-compétitif, où l'expérience a longtemps été primordiale."
     },
     {
-      "titre": "JOJ Dakar 2026 : L'escrime, une discipline qui gagne du terrain en RD Congo",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261031-joj-dakar-2026-l-escrime-une-discipline-qui-gagne-du-terrain-en-rd-congo",
-      "source": "France 24",
-      "date": "2026-10-31T22:54:20+01:00",
-      "resume": "Les Jeux olympiques de la jeunesse (JOJ) se sont officiellement ouverts au Sénégal. Parmi les disciplines suivies lors de cette compétition, l'escrime gagne du terrain en République démocratique du Congo, où de jeunes sportifs tentent de s'imposer dans cette discipline encore peu médiatisée.",
-      "contexte": "L'organisation de grands événements sportifs internationaux sur le continent africain, comme ces Jeux olympiques de la jeunesse, vise souvent à promouvoir le sport auprès de la jeunesse et à développer des infrastructures locales. La diversification des pratiques sportives dans des pays comme la RDC contribue à l'émergence de nouveaux talents dans des disciplines traditionnellement moins représentées."
-    },
-    {
-      "titre": "Dernier de Ligue 1, Le Havre ordonne la mise à pied à titre conservatoire de son entraîneur Didier Digard, le président Jean-Michel Roussier démissionne",
-      "lien": "https://www.franceinfo.fr/sports/foot/ligue-1/dernier-de-ligue-1-le-havre-ecarte-son-entraineur-didier-digard-son-president-jean-michel-roussier-demissionne_8262224.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-31T22:10:30+01:00",
-      "resume": "Le club de football du Havre, actuellement dernier de Ligue 1, a annoncé la mise à pied à titre conservatoire de son entraîneur Didier Digard, en poste depuis 2024. Le président du club, Jean-Michel Roussier, a également présenté sa démission à la suite de cette décision.",
-      "contexte": "Les mauvais résultats sportifs en début de saison entraînent fréquemment des changements au sein de l'encadrement technique et de la direction des clubs de football professionnel. Ce double départ illustre la pression exercée sur les instances dirigeantes pour tenter de provoquer un électrochoc et redresser la situation sportive de l'équipe."
-    },
-    {
-      "titre": "Allemagne : la \"Gen Z\" demande des réformes pour l’éducation, inspirée par le mouvement français",
-      "lien": "https://www.france24.com/fr/europe/20261031-allemagne-gen-z-demande-r%C3%A9formes-pour-%C3%A9ducation-inspir%C3%A9e-par-mouvement-fran%C3%A7ais-manifestations-polices-jeunesse",
-      "source": "France 24",
-      "date": "2026-10-31T21:58:38+01:00",
-      "resume": "Des dizaines de milliers de jeunes Allemands, inspirés par le mouvement français, sont descendus dans la rue samedi à l'appel du collectif \"GenZ regelt\". Les manifestants réclament davantage de moyens et des réformes pour le système éducatif.",
-      "contexte": "Les mobilisations de la jeunesse autour de l'éducation traduisent un mécontentement croissant face aux conditions d'apprentissage et au manque d'investissement public dans les services essentiels. Ce type de mouvement transfrontalier met en lumière des préoccupations communes chez les jeunes générations en Europe concernant leur avenir."
-    },
-    {
-      "titre": "Cinq Britanniques interpellés jeudi dans le Nord pour des actions anti-migrants",
-      "lien": "https://www.franceinfo.fr/monde/europe/migrants/cinq-britanniques-interpelles-jeudi-dans-le-nord-pour-des-actions-anti-migrants_8262203.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-31T21:35:01+01:00",
-      "resume": "Cinq ressortissants britanniques ont été interpellés jeudi dans le nord de la France alors qu'ils circulaient à bord d'un minibus. Ils diffusaient en direct sur un réseau social des images destinées à illustrer des actions d'intimidation à l'encontre de migrants présents sur le littoral.",
-      "contexte": "La situation migratoire sur la côte nord de la France génère régulièrement des tensions et attire des militants ou des individus radicaux aux motivations xénophobes. Les autorités surveillent de près ces actions illégales visant à cibler les populations vulnérables."
-    },
-    {
-      "titre": "E. Leclerc baisse également le prix du gazole, après TotalEnergies",
-      "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/e-leclerc-baisse-egalement-le-prix-du-gazole-apres-totalenergies_8262119.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-10-31T19:43:33+01:00",
-      "resume": "L'enseigne de grande distribution E. Leclerc a annoncé une baisse du prix du gazole de 21 centimes d'euro par litre, suivant ainsi l'initiative de TotalEnergies. Cette réduction représente une économie d'un peu plus de 10 euros sur un plein de 50 litres.",
-      "contexte": "Les baisses de prix des carburants dans la grande distribution interviennent généralement dans un contexte de fluctuations des cours mondiaux du pétrole ou de pressions politiques et sociétales sur le pouvoir d'achat. Ces mesures visent à attirer les consommateurs dans les stations-service des grandes surfaces."
-    },
-    {
-      "titre": "Haïti, sans chef de l'Etat depuis cinq ans, organisera des élections présidentielle et législatives en 2027",
-      "lien": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/haiti-sans-chef-de-l-etat-depuis-cinq-ans-organisera-des-elections-presidentielle-et-legislatives-en-2027_8241106.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-10-31T19:37:55+01:00",
-      "resume": "Les autorités de Port-au-Prince ont annoncé que Haïti organiserait des élections présidentielle et législatives en 2027. Le pays se trouve sans chef d'État depuis cinq ans, malgré une situation sécuritaire et économique particulièrement difficile.",
-      "contexte": "L'organisation de scrutins dans un contexte de crise sécuritaire majeure et d'instabilité chronique représente un défi colossal pour les institutions haïtiennes. L'objectif est généralement de restaurer une légitimité démocratique pour tenter de stabiliser le pays."
-    },
-    {
-      "titre": "Face aux spéculations de nouvelles frappes sur l'Iran, Mojtaba Khamenei menace de riposter",
-      "lien": "https://www.france24.com/fr/moyen-orient/20261031-iran-%C3%A9tats-unis-isra%C3%ABl-guere-face-aux-sp%C3%A9culations-de-nouvelles-frappes-mojtaba-khamenei-menace-d-une-riposte-imm%C3%A9diate",
-      "source": "France 24",
-      "date": "2026-10-31T18:47:09+01:00",
-      "resume": "Face aux spéculations concernant de nouvelles frappes des États-Unis et d'Israël, le guide suprême iranien Mojtaba Khamenei a menacé samedi d'une riposte immédiate, puissante et sans limite géographique.",
-      "contexte": "Les tensions géopolitiques au Moyen-Orient restent extrêmement volatiles, alimentées par la crainte d'une escalade militaire régionale. Les déclarations des dirigeants iraniens s'inscrivent dans une stratégie de dissuasion face aux actions de leurs principaux rivaux."
-    }
-  ],
-  "aujourdhui": [
-    {
-      "titre": "Le crash d’un petit avion privé en Floride fait neuf morts, selon le ministre des transports",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/01/le-crash-d-un-petit-avion-prive-en-floride-fait-neuf-morts-selon-le-ministre-des-transports_6804672_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-01T22:41:25+01:00",
-      "resume": "Un petit avion privé s'est écrasé en Floride, causant la mort de neuf personnes selon le ministre des Transports. À la suite de cet accident mortel, le régulateur aérien américain a annoncé l'ouverture d'une enquête conjointe avec l'agence fédérale de sécurité des transports. Les investigations devront faire toute la lumière sur les causes et les circonstances de ce drame.",
-      "contexte": "Les accidents impliquant l'aviation générale ou d'affaires font régulièrement l'objet d'enquêtes techniques approfondies aux États-Unis. Ces procédures visent généralement à déterminer si l'accident est dû à une défaillance mécanique, aux conditions météorologiques ou à une erreur humaine. Les conclusions permettent d'émettre des recommandations de sécurité pour prévenir de futurs incidents sur ce type d'appareils."
-    },
-    {
-      "titre": "Pierre-Olivier Costa retrouve la présidence du Mucem après sa suspension",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/01/pierre-olivier-costa-retrouve-la-presidence-du-mucem-apres-sa-suspension_6804671_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-01T22:06:15+01:00",
-      "resume": "Pierre-Olivier Costa a annoncé à l'AFP qu'il retrouvait ses fonctions de président du Mucem à Marseille et qu'il réintégrerait son bureau dès lundi. Le dirigeant avait été suspendu de son poste à la fin du mois de juin. Cette mise à l'écart s'inscrivait dans un climat de tensions sociales et faisait suite à des enquêtes portant sur des situations de mal-être au sein du musée.",
-      "contexte": "Le Mucem est l'un des grands musées nationaux décentralisés en région et un établissement culturel majeur pour Marseille. La reprise de fonction de son président intervient après plusieurs mois d'incertitude managériale liée à ces signalements internes. Ce retour pourrait raviver les débats sur le climat de travail ou nécessiter des mesures d'apaisement avec les organisations syndicales de l'institution."
-    },
-    {
-      "titre": "En Israël, les soupçons d'irrégularités lors des législatives ne remettront pas en cause les résultats, assure le président de la commission électorale",
-      "lien": "https://www.franceinfo.fr/monde/israel/en-israel-les-soupcons-d-irregularites-lors-des-legislatives-ne-remettront-pas-en-cause-les-resultats-assure-le-president-de-la-commission-electorale_8263154.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
+      "titre": "Jean-Pierre Filiu : \"Gaza est un laboratoire pour l'ensemble du système international\"",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261101-jean-pierre-filiu-gaza-est-un-laboratoire-pour-l-ensemble-du-syst%C3%A8me-international",
+      "source": "France 24 · franceinfo Monde",
       "date": "2026-11-01T22:04:00+01:00",
-      "resume": "Le président de la commission électorale israélienne a garanti que les résultats des élections législatives ne seraient pas remis en cause par les allégations d'irrégularités. Le camp de Benyamin Nétanyahou avait en effet accusé les deux listes arabes d'achat de voix via des fonds provenant du Qatar. Ce scrutin s'est tenu alors que la bande de Gaza demeure largement occupée par l'armée israélienne et soumise à des bombardements meurtriers un an après la proclamation d'un cessez-le-feu.",
-      "contexte": "Ces accusations de fraude s'inscrivent dans une stratégie courante de contestation électorale visant à délégitimer la représentation politique des partis arabes en Israël. La validation définitive du scrutin est une étape essentielle pour entamer les négociations complexes en vue de former une majorité parlementaire. Par ailleurs, ces échéances politiques se déroulent dans un climat d'instabilité régionale majeure liée à la poursuite du conflit à Gaza."
+      "resume": "Un an après la proclamation d'un cessez-le-feu, la bande de Gaza reste le théâtre d'une occupation militaire israélienne, de bombardements et de conditions de vie extrêmes, qualifiée de véritable laboratoire par l'historien Jean-Pierre Filiu. Parallèlement, Israël a tenu ses premières élections législatives depuis le 7 octobre 2023, marquées par des soupçons de fraude électorale et d'achat de voix visant des listes arabes et impliquant de prétendus fonds qataris, bien que le président de la commission électorale ait assuré que cela ne remettrait pas en cause les résultats.",
+      "contexte": "Ce scrutin israélien se déroule dans un climat politique et sécuritaire extrêmement polarisé, profondément marqué par les traumatismes et les bouleversements géopolitiques consécutifs au conflit en cours. Les accusations d'ingérence ou de fraude électorale fragilisent la légitimité des institutions dans une période de transition où la stabilité politique interne et les équilibres régionaux sont plus que jamais fragiles."
     },
     {
       "titre": "L'inquiétant essor des armes de contrefaçon",
       "lien": "https://www.franceinfo.fr/economie/emploi/metiers/armee-et-securite/l-inquietant-essor-des-armes-de-contrefacon_8263211.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
       "date": "2026-11-01T21:43:30+01:00",
-      "resume": "En France, les saisies d'armes de contrefaçon par les services de gendarmerie sont en nette augmentation depuis plusieurs années. Fabriquées à l'étranger ou créées à l'aide d'imprimantes 3D, ces armes reproduisent fidèlement l'apparence des modèles authentiques. Cette confusion avec de vraies armes complique le travail des forces de sécurité et accroît la vigilance des autorités.",
-      "contexte": "La prolifération des technologies d'impression 3D et des canaux d'approvisionnement en ligne facilite la fabrication et le trafic de ces répliques ou armes artisanales. Leur présence grandissante sur le territoire inquiète les autorités judiciaires et policières, car elles peuvent être utilisées pour des braquages, des intimidations ou même être modifiées pour tirer à balles réelles. Cette évolution pousse les services de renseignement et de gendarmerie à adapter leurs méthodes de détection."
+      "resume": "Les gendarmes français constatent une hausse des saisies d'armes de contrefaçon depuis plusieurs années sur le territoire national. Ces répliques, fabriquées à l'étranger ou directement produites à l'aide d'imprimantes 3D, se révèlent presque impossibles à distinguer des armes authentiques.",
+      "contexte": "La démocratisation de l'impression 3D et la mondialisation des circuits de fabrication illégaux facilitent l'accès à des armements non tracés, contournant ainsi les législations strictes sur le contrôle des armes à feu. Ce phénomène représente un défi sécuritaire croissant pour les forces de l'ordre, qui peinent à réguler ce nouveau marché clandestin."
     },
     {
-      "titre": "Un sapeur-pompier gravement blessé par balle lors d'une intervention près de Marseille, un homme interpellé",
-      "lien": "https://www.franceinfo.fr/faits-divers/un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-pres-de-marseille-l-assaillant-retranche_8262992.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T21:40:59+01:00",
-      "resume": "Un sapeur-pompier a été grièvement blessé par balle lors d'une intervention à proximité de Marseille, tandis qu'un collègue et un véhicule de secours ont également été touchés. Un suspect a été rapidement interpellé après les faits, a indiqué le préfet des Bouches-du-Rhône. Le ministre de l'Intérieur a vivement réagi sur le réseau social X pour dénoncer une agression d'une violence injustifiable.",
-      "contexte": "Les agressions contre les secouristes et les forces de l'ordre constituent un sujet de préoccupation récurrent pour les pouvoirs publics en France. Même si les motifs de l'agresseur n'ont pas été précisés dans l'immédiat, ces violences conduisent souvent à des demandes de protection accrue pour les équipes de secours. Cet événement relance les discussions sur la sécurisation des interventions dans certaines zones sensibles."
-    },
-    {
-      "titre": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
-      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T20:52:14+01:00",
-      "resume": "Le ministère de l'Intérieur a communiqué un bilan définitif de 779 interpellations sur l'ensemble du territoire à l'issue des manifestations du 31 octobre. Ce samedi de mobilisation a été marqué par une participation globale en légère baisse par rapport aux journées précédentes. Les syndicats et organisateurs prévoient toutefois de nouvelles actions dès la semaine prochaine, avec comme point d'orgue un appel à la grève nationale fixé au 5 novembre.",
-      "contexte": "Ce bilan d'interpellations témoigne de tensions persistantes lors des rassemblements récents, malgré un essoufflement apparent du nombre de manifestants. La grève nationale annoncée pour le 5 novembre sera un test crucial pour mesurer la capacité des syndicats à relancer le rapport de force. Les autorités restent vigilantes quant aux risques de débordements lors de ces prochaines journées de contestation."
-    },
-    {
-      "titre": "Edouard Philippe refuse une nouvelle fois de participer à une primaire de la droite et du centre, source de \"division\" et de \"confusion\"",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T20:47:51+01:00",
-      "resume": "Dimanche soir sur TF1, Édouard Philippe a réitéré son refus de participer à une éventuelle élection primaire de la droite et du centre. Le maire du Havre a qualifié ce mécanisme de source de division et de confusion pour le camp républicain. Il a notamment fait valoir qu'un tel processus contraindrait à rassembler artificiellement des personnalités qui ne partagent pas les mêmes orientations politiques.",
-      "contexte": "La question du mode de désignation du candidat pour la future élection présidentielle divise régulièrement la droite et le centre en France. Les primaires passées ont souvent laissé des traces durables au sein des partis en exacerbant les querelles de personnes. En rejetant ce principe, Édouard Philippe cherche à préserver son autonomie politique et à tracer sa propre route sans s'enfermer dans un cadre partisan restreint."
-    },
-    {
-      "titre": "Route du Rhum : Violette Dorange entre en collision avec le bateau de Romain Pilliard mais continue sa route",
-      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-violette-dorange-entre-en-collision-avec-le-bateau-de-romain-pilliard-mais-continue-sa-route_8263178.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-01T20:39:40+01:00",
-      "resume": "Lors de la course de la Route du Rhum, la navigatrice Violette Dorange a percuté le multicoque de Romain Pilliard dimanche dans la soirée. Aucun des deux skippeurs n'a été blessé lors du choc et ils se trouvent hors de danger. Malgré les dégâts matériels qui nécessiteront des réparations sur les deux embarcations, la navigatrice a choisi de poursuivre sa traversée.",
-      "contexte": "Les départs et les premières heures des courses transatlantiques en solitaire sont des moments particulièrement délicats en raison de la forte concentration de navires sur l'eau et de la fatigue précoce. Les skippeurs doivent souvent faire face à d'importants défis techniques pour réparer en mer ou décider d'une escale technique. Une collision précoce compromet généralement les ambitions de classement, mais la priorité reste la sécurité et la capacité à terminer la course."
-    },
-    {
-      "titre": "Ukraine : au dernier jour de trêve à Olechky, la population se prépare à une reprise de la guerre",
-      "lien": "https://www.france24.com/fr/europe/20261101-ukraine-au-dernier-jour-de-tr%C3%AAve-%C3%A0-olechky-la-population-se-pr%C3%A9pare-%C3%A0-une-reprise-de-la-guerre",
+      "titre": "Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de \"division\"",
+      "lien": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division",
       "source": "France 24",
-      "date": "2026-11-01T20:27:20+01:00",
-      "resume": "À Olechky, les résidents et les autorités locales se préparent à une fin de cessez-le-feu imminente après le rejet par Moscou d'une prolongation de la trêve. L'Ukraine avait pourtant proposé de prolonger cette accalmie exceptionnelle entamée mardi dernier. Face au refus russe, les responsables locaux anticipent une reprise immédiate et brutale des hostilités dans cette zone et ses environs.",
-      "contexte": "Les trêves temporaires sur le front ukrainien sont extrêmement rares depuis le début de l'invasion russe et servent généralement à des impératifs humanitaires ou logistiques limités. Le refus de Moscou de prolonger cet arrêt des tirs illustre la volonté de maintenir une pression militaire continue sur les lignes ukrainiennes. Pour les civils restés sur place, cette fin de répit annonce un retour immédiat aux bombardements et au danger quotidien."
+      "date": "2026-11-01T21:35:14+01:00",
+      "resume": "Édouard Philippe, candidat Horizons à l'élection présidentielle de 2027, a confirmé dimanche qu'il refusait de participer à une éventuelle primaire de la droite et du centre. Cette idée de « primaire des démocrates », suggérée par son concurrent Gabriel Attal, visait à éviter un second tour opposant La France Insoumise au Rassemblement National.",
+      "contexte": "À l'approche de la présidentielle, les stratégies d'alliance et de structuration des camps politiques font l'objet de vives discussions pour éviter l'élimination des modérés dès le premier tour. Le refus des primaires traduit souvent la volonté des candidats forts de préserver leur autonomie et d'éviter les dynamiques de division interne qu'engendrent traditionnellement ces scrutins préparatoires."
     },
     {
-      "titre": "Présidentielle en Bulgarie : Iliana Iotova remporte l’élection, selon plusieurs sondages à la sortie des urnes",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html",
+      "titre": "Plus de 130 migrants en route vers les Canaries secourus au large de la Mauritanie",
+      "lien": "https://www.franceinfo.fr/monde/europe/migrants/plus-de-130-migrants-en-route-vers-les-canaries-secourus-au-large-de-la-mauritanie_8263082.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-01T19:51:54+01:00",
+      "resume": "L'armée mauritanienne a procédé au sauvetage de plus de 130 migrants au large de ses côtes, alors qu'ils faisaient route vers les îles Canaries. L'embarcation secourue transportait 118 hommes, 14 femmes et deux enfants de diverses nationalités.",
+      "contexte": "La route migratoire de l'Atlantique, reliant les côtes de l'Afrique de l'Ouest aux îles Canaries espagnoles, reste l'une des plus mortelles au monde en raison des conditions de navigation périlleuses. Face à la fermeture progressive d'autres axes, de nombreux exilés continuent de tenter cette traversée au péril de leur vie, mobilisant régulièrement les secours des pays riverains."
+    }
+  ],
+  "aujourdhui": [
+    {
+      "titre": "Pourquoi le vote arabo-musulman pourrait compter au Michigan",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-pourquoi-vote-arabo-musulman-pourrait-compter-au-michigan-detroit-dearborn-warren-islam-abdul-el-sayed-donald-trump-elections-mi-mandat-midterms-2026-%C3%A9tats-unis",
+      "source": "France 24 · franceinfo Monde · franceinfo",
+      "date": "2026-11-02T12:24:09+01:00",
+      "resume": "À la veille des élections de mi-mandat (midterms) prévues le mardi 3 novembre aux États-Unis, la campagne se tend autour de plusieurs enjeux majeurs. Dans le Michigan, État indécis, le coût de la vie et le vote arabo-musulman, très critique envers la politique de Donald Trump, pèsent lourdement sur le scrutin, marqué par le ralliement d'une élue démocrate au camp républicain. Parallèlement, le Texas, bastion traditionnellement républicain, pourrait potentiellement basculer du côté démocrate, tandis que des inquiétudes subsistent face à d'éventuelles frappes sur l'Iran et un climat de fortes tensions géopolitiques.",
+      "contexte": "Les élections de mi-mandat constituent traditionnellement un test majeur pour le locataire de la Maison-Blanche, permettant de renouveler une partie du Congrès et de mesurer l'adhésion populaire à sa politique. Le basculement de « swing states » comme le Michigan ou de bastions historiques comme le Texas peut redessiner complètement l'équilibre des pouvoirs à Washington et paralyser ou faciliter les réformes de fin de mandat."
+    },
+    {
+      "titre": "Mobilisation lycéenne : le Premier ministre Sébastien Lecornu répète qu'il est prêt à rencontrer les représentants des lycéens \"la semaine prochaine\"",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24 · Le Monde",
+      "date": "2026-11-02T12:21:24+01:00",
+      "resume": "Au lendemain des vacances de la Toussaint, la mobilisation lycéenne et étudiante s'est poursuivie ce lundi 2 novembre avec 41 lycées bloqués à travers la France, soit 1 % des établissements. Malgré des interventions policières parfois musclées et l'alerte du président de l'université d'Aix-Marseille sur la dégradation de la santé mentale des étudiants face à ces perturbations, le Premier ministre Sébastien Lecornu a réitéré sa disposition à recevoir les représentants lycéens la semaine prochaine.",
+      "contexte": "Ces mouvements de contestation récurrents dans l'enseignement secondaire et supérieur traduisent un mécontentement profond face aux conditions d'études et aux réformes gouvernementales. La gestion de ces crises par l'exécutif cherche traditionnellement à concilier l'ouverture au dialogue social avec le maintien de l'ordre public et la continuité du service éducatif."
+    },
+    {
+      "titre": "Maroc : l'artiste Yasser Mounbir condamné à quatre ans de prison",
+      "lien": "https://www.france24.com/fr/afrique/20261102-maroc-artiste-yasser-mounbir-condamnation-prison-liberte-expression-delit-insulte-roi",
+      "source": "France 24",
+      "date": "2026-11-02T12:04:10+01:00",
+      "resume": "La justice marocaine a condamné à quatre ans de prison le dessinateur Yasser Mounbir pour « insulte à l'encontre du roi ». Arrêté en juin dernier, le graffeur de 22 ans, connu pour ses caricatures engagées de Mohammed VI, a vu son avocat annoncer le dépôt immédiat d'un appel.",
+      "contexte": "Au Maroc, la critique publique de la monarchie et du roi constitue un délit sévèrement réprimé par le code pénal, les lois protégeant les institutions sacrées du pays. Cette affaire relance régulièrement le débat sur les limites de la liberté d'expression et la judiciarisation des œuvres artistiques contestataires."
+    },
+    {
+      "titre": "🇸🇳 JOJ Dakar 2026 : les premières impression des jeunes athlètes",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-%F0%9F%87%B8%F0%9F%87%B3-joj-dakar-2026-les-premi%C3%A8res-impression-des-jeunes-athl%C3%A8tes",
+      "source": "France 24",
+      "date": "2026-11-02T12:03:43+01:00",
+      "resume": "Les Jeux olympiques de la jeunesse (JOJ) 2026 ont débuté au Sénégal, offrant à des athlètes âgés de 14 à 17 ans leurs premières émotions olympiques. Les compétitions de rugby à sept et de futsal se déroulent notamment sur le complexe Iba Mar Diop à Dakar.",
+      "contexte": "Organiser les JOJ sur le continent africain constitue une première historique pour le Comité international olympique, visant à promouvoir le sport de haut niveau et à inspirer la jeunesse locale. Ces événements servent souvent de vitrine pour le développement des infrastructures sportives et urbaines du pays hôte."
+    },
+    {
+      "titre": "\"Une petite fortune sur le marché noir\" : deux suspects placés en détention provisoire après le vol de 13 singes dans un zoo près de Pau",
+      "lien": "https://france3-regions.franceinfo.fr/occitanie/hautes-pyrenees/tarbes/une-petite-fortune-sur-le-marche-noir-apres-le-vol-de-treize-singes-dans-un-zoo-deux-suspects-interpelles-pres-de-tarbes-3442740.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-02T12:02:07+01:00",
+      "resume": "Deux suspects et la compagne de l'un d'eux ont été placés en détention provisoire à la suite du vol de treize ouistitis et tamarins commis dans la nuit du 26 au 27 octobre 2026 au parc zoologique Exotic Park de Lescar, dans les Pyrénées-Atlantiques. Les interpellations ont été menées dans le département voisin des Hautes-Pyrénées.",
+      "contexte": "Le vol d'animaux exotiques rares alimente généralement un marché noir international clandestin ciblant les collectionneurs peu scrupuleux ou un trafic d'animaux de compagnie. Ce type de délinquance spécialisée met en lumière la vulnérabilité des parcs zoologiques de taille modeste en matière de sécurité."
+    },
+    {
+      "titre": "Benoit Carré, compositeur : « L’IA génératrice de musique est, à l’évidence, bien meilleure que moi »",
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/02/benoit-carre-compositeur-l-ia-generatrice-de-musique-est-a-l-evidence-bien-meilleure-que-moi_6805237_3232.html",
       "source": "Le Monde",
-      "date": "2026-11-01T20:07:41+01:00",
-      "resume": "Selon les premiers sondages réalisés à la sortie des urnes dimanche, Iliana Iotova est donnée gagnante de l'élection présidentielle en Bulgarie. Ces premières estimations doivent encore être officiellement confirmées par le décompte des voix des autorités électorales. Les électeurs bulgares se sont rendus aux urnes dans un contexte lourd, dominé par des inquiétudes sécuritaires aux frontières et des difficultés économiques internes.",
-      "contexte": "La Bulgarie traverse depuis plusieurs années une période d'instabilité politique récurrente, marquée par de fréquentes élections et des coalitions fragiles. La fonction présidentielle, bien que dotée de pouvoirs exécutifs limités, joue un rôle important d'arbitrage institutionnel et d'incarnation internationale. Cette élection s'est déroulée sous la pression supplémentaire des tensions géopolitiques en Europe de l'Est et de la crise du coût de la vie."
+      "date": "2026-11-02T12:00:02+01:00",
+      "resume": "Dans une tribune publiée dans Le Monde, le compositeur Benoit Carré estime que l'intelligence artificielle génératrice de musique surpasse désormais ses propres capacités créatives. Ancien membre du groupe Lilicub, il considère que la pop peut se renouveler grâce à ces technologies à condition que l'humain en garde la pleine maîtrise.",
+      "contexte": "L'essor fulgurant des outils d'intelligence artificielle générative bouleverse en profondeur les industries culturelles et suscite de vives discussions éthiques et artistiques sur la notion de création. Si certains y voient un outil d'amplification de la créativité humaine, d'autres redoutent une standardisation de la musique et une menace pour les droits des auteurs."
     }
   ],
   "culture": [
     {
-      "theme": "sport",
-      "titre": "L'origine du mot « marathon »",
-      "texte": "Le terme marathon trouve son origine dans la Grèce antique, suite à la bataille de Marathon en l'an avant Jésus-Christ. Selon la légende, un soldat nommé Philippidès aurait couru jusqu'à Athènes sans s'arrêter pour annoncer la victoire grecque avant de s'effondrer. Cette course héroïque a inspiré la création de l'épreuve lors des premiers Jeux olympiques modernes. Contrairement à une idée reçue, la distance exacte de la course n'a pas été fixée dans l'Antiquité, mais bien plus tard lors du marathon de Londres. C'est en effet pour que la famille royale puisse assister à l'arrivée depuis sa tribune que la longueur a été portée à la distance actuelle.",
-      "a_retenir": "Le marathon célèbre une course historique, mais sa distance exacte a été standardisée pour des raisons royales britanniques."
+      "theme": "origine des grands événements ou conflits actuels",
+      "titre": "La Ligne Radcliffe et la partition des Indes",
+      "texte": "En 1947, l'Empire des Indes s'apprête à accéder à l'indépendance tout en se divisant selon des lignes religieuses. Un avocat britannique, Sir Cyril Radcliffe, est chargé de tracer en quelques semaines la frontière entre l'Inde à majorité hindoue et le nouveau Pakistan musulman. N'ayant jamais mis les pieds dans la région auparavant, il s'appuie sur des cartes obsolètes et des données démographiques imparfaites. Son trait de plume sépare brutalement des villages, des familles et des terres agricoles, provoquant l'un des plus grands exodes de l'histoire humaine. Les violences intercommunautaires qui accompagnent ce déplacement massif laissent des cicatrices profondes qui alimentent encore aujourd'hui les tensions géopolitiques dans la région, notamment au Cachemire.",
+      "a_retenir": "Tracée à la hâte par un homme ignorant des réalités locales, la frontière de 1947 a scellé le destin tragique de millions de personnes."
     },
     {
-      "theme": "arts et littérature",
-      "titre": "Le mystère du roman inachevé",
-      "texte": "Dans l'histoire littéraire, certains chefs-d'œuvre demeurent inachevés, laissant les lecteurs imaginer la fin idéale. Le célèbre roman de Franz Kafka, Le Château, s'interrompt curieusement au milieu d'une phrase. L'auteur n'a jamais eu le temps de conclure son récit fantastique avant sa disparition prématurée. Malgré son caractère fragmentaire, ce livre est devenu un pilier de la littérature moderne pour son exploration de l'absurde. Les critiques et les passionnés continuent d'analyser les notes laissées par l'écrivain pour tenter de deviner la résolution de cette quête impossible.",
-      "a_retenir": "Le Château de Kafka s'arrête en plein milieu d'une phrase, symbolisant à jamais la complexité de l'œuvre inachevée."
+      "theme": "histoire",
+      "titre": "La guerre de la muscade",
+      "texte": "Au XVIIe siècle, la muscade était l'une des épices les plus précieuses au monde, car on croyait qu'elle protégeait de la peste. Elle ne poussait alors que sur les îles Banda, un minuscule archipel volcanique d'Indonésie. Les Hollandais cherchaient à monopoliser ce commerce lucratif et n'ont pas hésité à évincer les marchands locaux et britanniques. Pour s'assurer le contrôle total de l'île de Run, la plus isolée des Banda, les Britanniques ont proposé un échange surprenant lors du traité de Breda en 1667. Ils ont cédé cette île aux Hollandais en échange d'un territoire lointain et apparemment moins stratégique en Amérique du Nord. Ce territoire était alors connu sous le nom de Nouvelle-Amsterdam, que nous appelons aujourd'hui New York.",
+      "a_retenir": "Pour une simple île productrice de muscade, les Britanniques ont troqué le site de l'actuelle ville de New York."
     },
     {
       "theme": "géographie et pays du monde",
-      "titre": "Le pays aux deux enclaves",
-      "texte": "L'Italie possède la particularité géographique d'abriter entièrement sur son territoire deux micro-états souverains indépendants. Il s'agit du Vatican, le plus petit État du monde en superficie, et de la République de Saint-Marin. Saint-Marin revendique le titre de plus ancienne république constitutionnelle encore en activité de la planète. Être une enclave signifie que ces pays sont totalement entourés par les terres d'une seule et unique nation frontalière. Cette configuration rare crée des dynamiques uniques en matière de frontières, de douanes et de coopérations diplomatiques quotidiennes.",
-      "a_retenir": "L'Italie est l'un des rares pays au monde à enclaver deux nations souveraines distinctes sur son propre territoire."
+      "titre": "Le point Némo, le lieu le plus isolé de la planète",
+      "texte": "Situé dans l'océan Pacifique Sud, le point Némo est l'endroit sur Terre le plus éloigné de toute terre émergée. Les côtes les plus proches se trouvent à plus de deux mille kilomètres, qu'il s'agisse d'atolls polynésiens ou de l'Antarctique. En raison de son immense isolement et de l'absence de vie marine notable due à des courants spécifiques, cette zone est devenue le « cimetière des vaisseaux spatiaux ». Les agences spatiales du monde entier y font retomber leurs satellites hors d'usage et leurs stations spatiales en fin de vie, comme ce fut le cas pour la station Mir. Ainsi, les fonds marins de cet endroit abritent les vestiges métalliques de notre conquête spatiale, loin de toute présence humaine.",
+      "a_retenir": "Le point Némo est si isolé que les humains les plus proches de lui se trouvent parfois à bord de la Station spatiale internationale."
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "89bd3715f0",
-      "date": "2026-11-01",
-      "type": "actu",
-      "question": "Quel événement dramatique s'est produit en Floride selon le ministre des Transports ?",
-      "choix": [
-        "Un carambolage impliquant plusieurs bus",
-        "Le crash d'un petit avion privé",
-        "Le déraillement d'un train de marchandises",
-        "Le naufrage d'un ferry"
-      ],
-      "reponse": 1,
-      "explication": "Un petit avion privé s'est écrasé en Floride, causant la mort de neuf personnes.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/01/le-crash-d-un-petit-avion-prive-en-floride-fait-neuf-morts-selon-le-ministre-des-transports_6804672_3210.html"
-    },
-    {
-      "id": "1e4e973928",
-      "date": "2026-11-01",
-      "type": "actu",
-      "question": "Quelle fonction Pierre-Olivier Costa a-t-il retrouvé à Marseille ?",
-      "choix": [
-        "La mairie de secteur",
-        "La direction du théâtre national",
-        "La direction générale de l'Opéra de Marseille",
-        "La présidence du Mucem"
-      ],
-      "reponse": 3,
-      "explication": "Pierre-Olivier Costa a retrouvé ses fonctions de président du Mucem à Marseille après avoir été suspendu fin juin.",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/01/pierre-olivier-costa-retrouve-la-presidence-du-mucem-apres-sa-suspension_6804671_3224.html"
-    },
-    {
-      "id": "0c680f0e9d",
-      "date": "2026-11-01",
-      "type": "actu",
-      "question": "Combien de personnes ont été interpellées en France lors des manifestations du 31 octobre ?",
-      "choix": [
-        "432 personnes",
-        "779 personnes",
-        "1205 personnes",
-        "154 personnes"
-      ],
-      "reponse": 1,
-      "explication": "Le ministère de l'Intérieur a communiqué un bilan définitif de 779 interpellations sur l'ensemble du territoire.",
-      "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "f3ff08ffa8",
-      "date": "2026-11-01",
-      "type": "actu",
-      "question": "Lors de quelle course nautique Violette Dorange est-elle entrée en collision avec Romain Pilliard ?",
-      "choix": [
-        "La Route du Rhum",
-        "La Transat Jacques Vabre",
-        "Le Vendée Globe",
-        "La Solitaire du Figaro"
-      ],
-      "reponse": 0,
-      "explication": "L'incident a eu lieu lors de la course de la Route du Rhum lorsque la navigatrice a percuté le multicoque de Romain Pilliard.",
-      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-violette-dorange-entre-en-collision-avec-le-bateau-de-romain-pilliard-mais-continue-sa-route_8263178.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "c36274f130",
-      "date": "2026-11-01",
-      "type": "actu",
-      "question": "Qui a remporté l'élection présidentielle en Bulgarie selon les premiers sondages à la sortie des urnes ?",
-      "choix": [
-        "Bojidar Dimitrov",
-        "Ekaterina Zakharieva",
-        "Krassimir Karakatchanov",
-        "Iliana Iotova"
-      ],
-      "reponse": 3,
-      "explication": "Iliana Iotova est donnée gagnante de l'élection présidentielle en Bulgarie selon les sondages à la sortie des urnes.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html"
-    },
-    {
-      "id": "760fe27b38",
-      "date": "2026-11-01",
-      "type": "culture",
-      "question": "Lors de quel événement la distance exacte du marathon a-t-elle été fixée à sa longueur actuelle ?",
-      "choix": [
-        "Les Jeux olympiques de Paris en 1900",
-        "La bataille de Marathon dans l'Antiquité",
-        "Les Jeux olympiques d'Athènes en 1896",
-        "Le marathon de Londres"
-      ],
-      "reponse": 3,
-      "explication": "C'est lors du marathon de Londres que la distance a été portée à sa longueur actuelle pour que la famille royale puisse assister à l'arrivée.",
-      "lien": ""
-    },
-    {
-      "id": "99fa5bba7d",
-      "date": "2026-11-01",
-      "type": "culture",
-      "question": "Quels sont les deux micro-états entièrement enclavés à l'intérieur du territoire italien ?",
-      "choix": [
-        "Le Vatican et Saint-Marin",
-        "Saint-Marin et Monaco",
-        "Liechtenstein et le Vatican",
-        "Monaco et Andorre"
-      ],
-      "reponse": 0,
-      "explication": "L'Italie abrite entièrement sur son territoire le Vatican et la République de Saint-Marin.",
-      "lien": ""
-    }
-  ]
+  "quiz_jour": []
 }

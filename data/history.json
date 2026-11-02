@@ -506,6 +506,59 @@
           "contexte": "Le marché automobile français et européen est marqué par une transition progressive vers l'électrique, soutenue par des réglementations environnementales strictes et des incitations financières. Ces chiffres traduisent l'adaptation des consommateurs et des constructeurs aux nouvelles exigences énergétiques."
         }
       ]
+    },
+    "2026-11-02": {
+      "morning_run": "2026-11-02T12:29:38.590804+01:00",
+      "morning_items": [
+        {
+          "titre": "Pourquoi le vote arabo-musulman pourrait compter au Michigan",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-pourquoi-vote-arabo-musulman-pourrait-compter-au-michigan-detroit-dearborn-warren-islam-abdul-el-sayed-donald-trump-elections-mi-mandat-midterms-2026-%C3%A9tats-unis",
+          "source": "France 24 · franceinfo Monde · franceinfo",
+          "date": "2026-11-02T12:24:09+01:00",
+          "resume": "À la veille des élections de mi-mandat (midterms) prévues le mardi 3 novembre aux États-Unis, la campagne se tend autour de plusieurs enjeux majeurs. Dans le Michigan, État indécis, le coût de la vie et le vote arabo-musulman, très critique envers la politique de Donald Trump, pèsent lourdement sur le scrutin, marqué par le ralliement d'une élue démocrate au camp républicain. Parallèlement, le Texas, bastion traditionnellement républicain, pourrait potentiellement basculer du côté démocrate, tandis que des inquiétudes subsistent face à d'éventuelles frappes sur l'Iran et un climat de fortes tensions géopolitiques.",
+          "contexte": "Les élections de mi-mandat constituent traditionnellement un test majeur pour le locataire de la Maison-Blanche, permettant de renouveler une partie du Congrès et de mesurer l'adhésion populaire à sa politique. Le basculement de « swing states » comme le Michigan ou de bastions historiques comme le Texas peut redessiner complètement l'équilibre des pouvoirs à Washington et paralyser ou faciliter les réformes de fin de mandat."
+        },
+        {
+          "titre": "Mobilisation lycéenne : le Premier ministre Sébastien Lecornu répète qu'il est prêt à rencontrer les représentants des lycéens \"la semaine prochaine\"",
+          "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo · France 24 · Le Monde",
+          "date": "2026-11-02T12:21:24+01:00",
+          "resume": "Au lendemain des vacances de la Toussaint, la mobilisation lycéenne et étudiante s'est poursuivie ce lundi 2 novembre avec 41 lycées bloqués à travers la France, soit 1 % des établissements. Malgré des interventions policières parfois musclées et l'alerte du président de l'université d'Aix-Marseille sur la dégradation de la santé mentale des étudiants face à ces perturbations, le Premier ministre Sébastien Lecornu a réitéré sa disposition à recevoir les représentants lycéens la semaine prochaine.",
+          "contexte": "Ces mouvements de contestation récurrents dans l'enseignement secondaire et supérieur traduisent un mécontentement profond face aux conditions d'études et aux réformes gouvernementales. La gestion de ces crises par l'exécutif cherche traditionnellement à concilier l'ouverture au dialogue social avec le maintien de l'ordre public et la continuité du service éducatif."
+        },
+        {
+          "titre": "Maroc : l'artiste Yasser Mounbir condamné à quatre ans de prison",
+          "lien": "https://www.france24.com/fr/afrique/20261102-maroc-artiste-yasser-mounbir-condamnation-prison-liberte-expression-delit-insulte-roi",
+          "source": "France 24",
+          "date": "2026-11-02T12:04:10+01:00",
+          "resume": "La justice marocaine a condamné à quatre ans de prison le dessinateur Yasser Mounbir pour « insulte à l'encontre du roi ». Arrêté en juin dernier, le graffeur de 22 ans, connu pour ses caricatures engagées de Mohammed VI, a vu son avocat annoncer le dépôt immédiat d'un appel.",
+          "contexte": "Au Maroc, la critique publique de la monarchie et du roi constitue un délit sévèrement réprimé par le code pénal, les lois protégeant les institutions sacrées du pays. Cette affaire relance régulièrement le débat sur les limites de la liberté d'expression et la judiciarisation des œuvres artistiques contestataires."
+        },
+        {
+          "titre": "🇸🇳 JOJ Dakar 2026 : les premières impression des jeunes athlètes",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-%F0%9F%87%B8%F0%9F%87%B3-joj-dakar-2026-les-premi%C3%A8res-impression-des-jeunes-athl%C3%A8tes",
+          "source": "France 24",
+          "date": "2026-11-02T12:03:43+01:00",
+          "resume": "Les Jeux olympiques de la jeunesse (JOJ) 2026 ont débuté au Sénégal, offrant à des athlètes âgés de 14 à 17 ans leurs premières émotions olympiques. Les compétitions de rugby à sept et de futsal se déroulent notamment sur le complexe Iba Mar Diop à Dakar.",
+          "contexte": "Organiser les JOJ sur le continent africain constitue une première historique pour le Comité international olympique, visant à promouvoir le sport de haut niveau et à inspirer la jeunesse locale. Ces événements servent souvent de vitrine pour le développement des infrastructures sportives et urbaines du pays hôte."
+        },
+        {
+          "titre": "\"Une petite fortune sur le marché noir\" : deux suspects placés en détention provisoire après le vol de 13 singes dans un zoo près de Pau",
+          "lien": "https://france3-regions.franceinfo.fr/occitanie/hautes-pyrenees/tarbes/une-petite-fortune-sur-le-marche-noir-apres-le-vol-de-treize-singes-dans-un-zoo-deux-suspects-interpelles-pres-de-tarbes-3442740.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-02T12:02:07+01:00",
+          "resume": "Deux suspects et la compagne de l'un d'eux ont été placés en détention provisoire à la suite du vol de treize ouistitis et tamarins commis dans la nuit du 26 au 27 octobre 2026 au parc zoologique Exotic Park de Lescar, dans les Pyrénées-Atlantiques. Les interpellations ont été menées dans le département voisin des Hautes-Pyrénées.",
+          "contexte": "Le vol d'animaux exotiques rares alimente généralement un marché noir international clandestin ciblant les collectionneurs peu scrupuleux ou un trafic d'animaux de compagnie. Ce type de délinquance spécialisée met en lumière la vulnérabilité des parcs zoologiques de taille modeste en matière de sécurité."
+        },
+        {
+          "titre": "Benoit Carré, compositeur : « L’IA génératrice de musique est, à l’évidence, bien meilleure que moi »",
+          "lien": "https://www.lemonde.fr/idees/article/2026/11/02/benoit-carre-compositeur-l-ia-generatrice-de-musique-est-a-l-evidence-bien-meilleure-que-moi_6805237_3232.html",
+          "source": "Le Monde",
+          "date": "2026-11-02T12:00:02+01:00",
+          "resume": "Dans une tribune publiée dans Le Monde, le compositeur Benoit Carré estime que l'intelligence artificielle génératrice de musique surpasse désormais ses propres capacités créatives. Ancien membre du groupe Lilicub, il considère que la pop peut se renouveler grâce à ces technologies à condition que l'humain en garde la pleine maîtrise.",
+          "contexte": "L'essor fulgurant des outils d'intelligence artificielle générative bouleverse en profondeur les industries culturelles et suscite de vives discussions éthiques et artistiques sur la notion de création. Si certains y voient un outil d'amplification de la créativité humaine, d'autres redoutent une standardisation de la musique et une menace pour les droits des auteurs."
+        }
+      ]
     }
   },
   "culture_seen": [
@@ -538,6 +591,9 @@
     "L'origine du mot « podium »",
     "L'origine du mot « marathon »",
     "Le mystère du roman inachevé",
-    "Le pays aux deux enclaves"
+    "Le pays aux deux enclaves",
+    "La Ligne Radcliffe et la partition des Indes",
+    "La guerre de la muscade",
+    "Le point Némo, le lieu le plus isolé de la planète"
   ]
 }
