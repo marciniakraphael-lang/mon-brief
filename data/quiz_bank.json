@@ -2669,6 +2669,111 @@
       "reponse": 1,
       "explication": "Le point Némo est l'endroit le plus isolé de la planète, choisi par les agences spatiales pour faire retomber les engins spatiaux hors d'usage.",
       "lien": ""
+    },
+    {
+      "id": "19c2f9d844",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Quelle personnalité française est revenue sur son expérience spatiale lors d'une interview télévisée ?",
+      "choix": [
+        "Jean-François Clervoy",
+        "Claudie Haigneré",
+        "Thomas Pesquet",
+        "Sophie Adenot"
+      ],
+      "reponse": 3,
+      "explication": "L'astronaute française Sophie Adenot était l'invitée du 20 Heures de France 2 pour parler de son expérience dans l'espace.",
+      "lien": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/la-premiere-fois-que-j-ai-vraiment-vu-la-terre-sous-mes-pieds-juste-la-sous-le-scaphandre-c-etait-surtout-une-joie-confie-sophie-adenot-astronaute_8264858.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "103f0330c9",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Quel taux d'inflation a été enregistré aux États-Unis pour le mois de septembre à l'approche des midterms ?",
+      "choix": [
+        "3,4%",
+        "2,1%",
+        "5,2%",
+        "3,6%"
+      ],
+      "reponse": 3,
+      "explication": "L'article indique que l'inflation atteint 3,6% en septembre aux États-Unis.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-l-%C3%A9conomie-am%C3%A9ricaine-au-coeur-des-pr%C3%A9occupations-pour-les-midterms"
+    },
+    {
+      "id": "43feaf729c",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Quel navigateur a chaviré lors de la Route du Rhum à 200 milles au sud-ouest de l'Irlande ?",
+      "choix": [
+        "Loïck Peyron",
+        "Armel Le Cléac'h",
+        "François Gabart",
+        "Francis Joyon"
+      ],
+      "reponse": 3,
+      "explication": "Le navigateur Francis Joyon a chaviré lundi à 200 milles au sud-ouest de l'Irlande.",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/francis-joyon-va-bien-dans-son-bateau-retourne-declare-le-directeur-de-la-route-du-rhum_8264834.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "220960d9d7",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "À cause de la crise du logement, de nombreux habitants de quelle grande ville dorment-ils dans leur voiture ?",
+      "choix": [
+        "New York",
+        "Miami",
+        "San Francisco",
+        "Los Angeles"
+      ],
+      "reponse": 3,
+      "explication": "L'article précise qu'à Los Angeles, la crise du logement contraint des habitants à dormir dans leur voiture.",
+      "lien": "https://www.franceinfo.fr/monde/usa/a-los-angeles-la-crise-du-logement-pousse-des-habitants-a-dormir-dans-leur-voiture_8264804.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "edb200df56",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Dans quelle région ukrainienne des frappes russes ont-elles visé une école servant de centre d'aide humanitaire ?",
+      "choix": [
+        "Donetsk",
+        "Kherson",
+        "Zaporijjia",
+        "Kharkiv"
+      ],
+      "reponse": 2,
+      "explication": "Le bombardement a eu lieu à Komyshuvakha, dans la région de Zaporijjia dans le sud-est de l'Ukraine.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-18-morts-en-ukraine-au-lendemain-de-la-fin-d-un-cessez-le-feu-a-olechky-volodymyr-zelensky-denonce-l-aneantissement-de-tout-espoir-de-progres-vers-la-paix_8264639.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "46258e1616",
+      "date": "2026-11-02",
+      "type": "culture",
+      "question": "Qui a été chargé de tracer la frontière entre l'Inde et le Pakistan en 1947 lors de la partition des Indes ?",
+      "choix": [
+        "Lord Mountbatten",
+        "Winston Churchill",
+        "Sir Cyril Radcliffe",
+        "Mahatma Gandhi"
+      ],
+      "reponse": 2,
+      "explication": "C'est l'avocat britannique Sir Cyril Radcliffe qui a tracé la frontière en quelques semaines.",
+      "lien": ""
+    },
+    {
+      "id": "652dd9f272",
+      "date": "2026-11-02",
+      "type": "culture",
+      "question": "Lors du traité de Breda en 1667, contre quel territoire les Britanniques ont-ils échangé l'île de Run (aux Moluques) ?",
+      "choix": [
+        "La Nouvelle-Orléans",
+        "La Jamaïque",
+        "Le Québec",
+        "La Nouvelle-Amsterdam (New York)"
+      ],
+      "reponse": 3,
+      "explication": "Les Britanniques ont cédé l'île de Run aux Hollandais en échange de la Nouvelle-Amsterdam, aujourd'hui appelée New York.",
+      "lien": ""
     }
   ]
 }
