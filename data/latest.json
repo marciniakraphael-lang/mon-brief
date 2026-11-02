@@ -1,7 +1,7 @@
 {
   "date": "2026-11-02",
-  "mode": "morning",
-  "updated": "2026-11-02T12:29:38.590804+01:00",
+  "mode": "evening",
+  "updated": "2026-11-02T15:39:24.759763+01:00",
   "deja_presente": [
     {
       "titre": "La plateforme de cryptomonnaies Binance annonce une reprise des retraits après avoir perdu plus de six milliards de dollars dans un piratage",
@@ -120,52 +120,84 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Pourquoi le vote arabo-musulman pourrait compter au Michigan",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-pourquoi-vote-arabo-musulman-pourrait-compter-au-michigan-detroit-dearborn-warren-islam-abdul-el-sayed-donald-trump-elections-mi-mandat-midterms-2026-%C3%A9tats-unis",
-      "source": "France 24 · franceinfo Monde · franceinfo",
-      "date": "2026-11-02T12:24:09+01:00",
-      "resume": "À la veille des élections de mi-mandat (midterms) prévues le mardi 3 novembre aux États-Unis, la campagne se tend autour de plusieurs enjeux majeurs. Dans le Michigan, État indécis, le coût de la vie et le vote arabo-musulman, très critique envers la politique de Donald Trump, pèsent lourdement sur le scrutin, marqué par le ralliement d'une élue démocrate au camp républicain. Parallèlement, le Texas, bastion traditionnellement républicain, pourrait potentiellement basculer du côté démocrate, tandis que des inquiétudes subsistent face à d'éventuelles frappes sur l'Iran et un climat de fortes tensions géopolitiques.",
-      "contexte": "Les élections de mi-mandat constituent traditionnellement un test majeur pour le locataire de la Maison-Blanche, permettant de renouveler une partie du Congrès et de mesurer l'adhésion populaire à sa politique. Le basculement de « swing states » comme le Michigan ou de bastions historiques comme le Texas peut redessiner complètement l'équilibre des pouvoirs à Washington et paralyser ou faciliter les réformes de fin de mandat."
-    },
-    {
-      "titre": "Mobilisation lycéenne : le Premier ministre Sébastien Lecornu répète qu'il est prêt à rencontrer les représentants des lycéens \"la semaine prochaine\"",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24 · Le Monde",
-      "date": "2026-11-02T12:21:24+01:00",
-      "resume": "Au lendemain des vacances de la Toussaint, la mobilisation lycéenne et étudiante s'est poursuivie ce lundi 2 novembre avec 41 lycées bloqués à travers la France, soit 1 % des établissements. Malgré des interventions policières parfois musclées et l'alerte du président de l'université d'Aix-Marseille sur la dégradation de la santé mentale des étudiants face à ces perturbations, le Premier ministre Sébastien Lecornu a réitéré sa disposition à recevoir les représentants lycéens la semaine prochaine.",
-      "contexte": "Ces mouvements de contestation récurrents dans l'enseignement secondaire et supérieur traduisent un mécontentement profond face aux conditions d'études et aux réformes gouvernementales. La gestion de ces crises par l'exécutif cherche traditionnellement à concilier l'ouverture au dialogue social avec le maintien de l'ordre public et la continuité du service éducatif."
-    },
-    {
-      "titre": "Maroc : l'artiste Yasser Mounbir condamné à quatre ans de prison",
-      "lien": "https://www.france24.com/fr/afrique/20261102-maroc-artiste-yasser-mounbir-condamnation-prison-liberte-expression-delit-insulte-roi",
-      "source": "France 24",
-      "date": "2026-11-02T12:04:10+01:00",
-      "resume": "La justice marocaine a condamné à quatre ans de prison le dessinateur Yasser Mounbir pour « insulte à l'encontre du roi ». Arrêté en juin dernier, le graffeur de 22 ans, connu pour ses caricatures engagées de Mohammed VI, a vu son avocat annoncer le dépôt immédiat d'un appel.",
-      "contexte": "Au Maroc, la critique publique de la monarchie et du roi constitue un délit sévèrement réprimé par le code pénal, les lois protégeant les institutions sacrées du pays. Cette affaire relance régulièrement le débat sur les limites de la liberté d'expression et la judiciarisation des œuvres artistiques contestataires."
-    },
-    {
-      "titre": "🇸🇳 JOJ Dakar 2026 : les premières impression des jeunes athlètes",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-%F0%9F%87%B8%F0%9F%87%B3-joj-dakar-2026-les-premi%C3%A8res-impression-des-jeunes-athl%C3%A8tes",
-      "source": "France 24",
-      "date": "2026-11-02T12:03:43+01:00",
-      "resume": "Les Jeux olympiques de la jeunesse (JOJ) 2026 ont débuté au Sénégal, offrant à des athlètes âgés de 14 à 17 ans leurs premières émotions olympiques. Les compétitions de rugby à sept et de futsal se déroulent notamment sur le complexe Iba Mar Diop à Dakar.",
-      "contexte": "Organiser les JOJ sur le continent africain constitue une première historique pour le Comité international olympique, visant à promouvoir le sport de haut niveau et à inspirer la jeunesse locale. Ces événements servent souvent de vitrine pour le développement des infrastructures sportives et urbaines du pays hôte."
-    },
-    {
-      "titre": "\"Une petite fortune sur le marché noir\" : deux suspects placés en détention provisoire après le vol de 13 singes dans un zoo près de Pau",
-      "lien": "https://france3-regions.franceinfo.fr/occitanie/hautes-pyrenees/tarbes/une-petite-fortune-sur-le-marche-noir-apres-le-vol-de-treize-singes-dans-un-zoo-deux-suspects-interpelles-pres-de-tarbes-3442740.html#xtor=RSS-3-[lestitres]",
+      "titre": "L'aventurier britannique Karl Bushby accueilli en héros dans sa ville natale de Hull, après vingt-huit ans de marche autour du monde",
+      "lien": "https://www.franceinfo.fr/monde/l-aventurier-britannique-karl-bushby-accueilli-en-heros-dans-sa-ville-natale-de-hull-apres-28-ans-de-marche-autour-du-monde_8264063.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-02T12:02:07+01:00",
-      "resume": "Deux suspects et la compagne de l'un d'eux ont été placés en détention provisoire à la suite du vol de treize ouistitis et tamarins commis dans la nuit du 26 au 27 octobre 2026 au parc zoologique Exotic Park de Lescar, dans les Pyrénées-Atlantiques. Les interpellations ont été menées dans le département voisin des Hautes-Pyrénées.",
-      "contexte": "Le vol d'animaux exotiques rares alimente généralement un marché noir international clandestin ciblant les collectionneurs peu scrupuleux ou un trafic d'animaux de compagnie. Ce type de délinquance spécialisée met en lumière la vulnérabilité des parcs zoologiques de taille modeste en matière de sécurité."
+      "date": "2026-11-02T15:13:41+01:00",
+      "resume": "L'aventurier britannique Karl Bushby a été accueilli à Hull, sa ville d'origine, au terme d'un périple pédestre de vingt-huit années autour du globe. Parti du sud du Chili en 1998, il a parcouru le monde malgré des interruptions liées à la situation géopolitique internationale et à des refus de visas.",
+      "contexte": "Ce type d'expédition extrême vise traditionnellement à accomplir un exploit d'endurance humaine sans recourir aux transports motorisés. Les difficultés rencontrées rappellent combien la traversée continue des frontières terrestres demeure tributaire des conflits armés et des régimes d'accès diplomatiques imposés par les différents États."
     },
     {
-      "titre": "Benoit Carré, compositeur : « L’IA génératrice de musique est, à l’évidence, bien meilleure que moi »",
-      "lien": "https://www.lemonde.fr/idees/article/2026/11/02/benoit-carre-compositeur-l-ia-generatrice-de-musique-est-a-l-evidence-bien-meilleure-que-moi_6805237_3232.html",
+      "titre": "Élections de mi-mandat : quel vote pour les agriculteurs de Caroline du Nord ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261102-%C3%A9lections-de-mi-mandat-quel-vote-pour-les-agriculteurs-de-caroline-du-nord",
+      "source": "France 24 · franceinfo",
+      "date": "2026-11-02T14:59:44+01:00",
+      "resume": "À l'occasion des élections de mi-mandat prévues mardi aux États-Unis, les démocrates espèrent un revirement électoral face à l'impopularité de Donald Trump. À New York, les électeurs opposés à l'ex-président se montrent confiants après des sondages favorables et un vote anticipé mobilisateur. Dans des bastions traditionnellement conservateurs comme la Caroline du Nord rurale, où un emploi sur cinq dépend de l'agriculture, plusieurs sièges républicains apparaissent également menacés.",
+      "contexte": "Ces scrutins de mi-mandat font traditionnellement office de test national et de référendum sur la politique menée à Washington. Leurs résultats sont cruciaux, car le parti qui contrôle le Congrès dispose du pouvoir d'adopter des lois ou de bloquer l'agenda présidentiel. Les hésitations du monde agricole et la mobilisation des grandes métropoles constituent souvent des facteurs décisifs pour faire basculer la majorité parlementaire."
+    },
+    {
+      "titre": "Le Premier ministre, Sébastien Lecornu, répète qu'il est prêt à rencontrer les représentants des lycéens \"la semaine prochaine\"",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-02T14:49:10+01:00",
+      "resume": "Pour la rentrée après les vacances de la Toussaint, plusieurs organisations de jeunesse ont appelé à poursuivre les actions revendicatives, entraînant le blocage de 41 lycées selon le ministère de l'Éducation nationale. En marge de ce mouvement, une infirmière scolaire et deux lycéens ont été placés en garde à vue à Montpellier pour outrage, après une tentative d'interposition entre élèves et forces de l'ordre. Face à ces tensions, le Premier ministre Sébastien Lecornu a redit sa volonté d'échanger avec les représentants lycéens la semaine suivante.",
+      "contexte": "Les blocages d'établissements scolaires traduisent régulièrement des désaccords sur les réformes éducatives ou sur les conditions d'étude. Les gardes à vue survenues sur les lieux de rassemblement illustrent la sensibilité du maintien de l'ordre autour des mineurs et du personnel éducatif. L'ouverture de discussions au sommet de l'État vise généralement à apaiser la contestation et à éviter une contagion à d'autres secteurs étudiants."
+    },
+    {
+      "titre": "Audiences \"hors normes\", nouvelles convocations... Ce qu'il faut savoir du procès en appel après les effondrements de la rue d'Aubagne",
+      "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/audiences-hors-normes-nouvelles-convocations-ce-qu-il-faut-savoir-du-proces-en-appel-apres-les-effondrements-de-la-rue-d-aubagne-3442467.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-02T14:44:42+01:00",
+      "resume": "Le procès en appel relatif aux effondrements d'immeubles survenus rue d'Aubagne à Marseille s'ouvre ce lundi 2 novembre, six ans après la mort de huit personnes. Cette procédure prévoit des audiences d'une ampleur exceptionnelle ainsi que de nouvelles convocations judiciaires. L'audience vise à réexaminer en détail l'état et la gestion de ces bâtiments dégradés après un premier jugement rendu fin 2024.",
+      "contexte": "Cette catastrophe avait mis en lumière l'ampleur du mal-logement et de l'habitat insalubre au cœur de la deuxième ville de France. Ce second procès doit clarifier le partage des responsabilités pénales entre propriétaires, experts et pouvoirs publics locaux. Ses conclusions pourraient influencer durablement les sanctions judiciaires et les politiques de lutte contre les marchands de sommeil."
+    },
+    {
+      "titre": "Des réfrigérateurs affectés par une cyberattaque dans des magasins Carrefour en Belgique, des incidents signalés dans d'autres enseignes",
+      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-refrigerateurs-affectes-par-une-cyberattaque-dans-des-magasins-carrefour-en-belgique-des-incidents-signales-dans-d-autres-enseignes_8264036.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-02T14:43:27+01:00",
+      "resume": "Des équipements réfrigérés de magasins Carrefour situés en Belgique ont subi un dysfonctionnement à la suite d'une cyberattaque. Des perturbations similaires ont été signalées auprès d'autres enseignes commerciales. Les autorités et l'entreprise qualifient pour le moment l'impact de cet incident de modéré, alors qu'un piratage comparable avait déjà été constaté en France à la mi-octobre.",
+      "contexte": "Les infrastructures techniques de la grande distribution s'appuient de plus en plus sur des dispositifs connectés pilotés à distance pour gérer la chaîne du froid et la consommation énergétique. En ciblant ces réseaux, les attaquants cherchent souvent à désorganiser la logistique alimentaire ou à réclamer des rançons financières, ce qui pousse les distributeurs à renforcer la cybersécurité de leurs équipements industriels."
+    },
+    {
+      "titre": "Voitures électriques : la troisième édition du leasing social peine à atteindre les 50 000 bénéficiaires",
+      "lien": "https://www.lemonde.fr/planete/article/2026/11/02/voitures-electriques-la-troisieme-edition-du-leasing-social-peine-a-atteindre-les-50-000-beneficiaires_6805260_3244.html",
       "source": "Le Monde",
-      "date": "2026-11-02T12:00:02+01:00",
-      "resume": "Dans une tribune publiée dans Le Monde, le compositeur Benoit Carré estime que l'intelligence artificielle génératrice de musique surpasse désormais ses propres capacités créatives. Ancien membre du groupe Lilicub, il considère que la pop peut se renouveler grâce à ces technologies à condition que l'humain en garde la pleine maîtrise.",
-      "contexte": "L'essor fulgurant des outils d'intelligence artificielle générative bouleverse en profondeur les industries culturelles et suscite de vives discussions éthiques et artistiques sur la notion de création. Si certains y voient un outil d'amplification de la créativité humaine, d'autres redoutent une standardisation de la musique et une menace pour les droits des auteurs."
+      "date": "2026-11-02T14:30:08+01:00",
+      "resume": "La troisième vague du programme de leasing social réservé aux voitures électriques enregistre des résultats en demi-teinte. À la fin du mois d'octobre, 39 000 véhicules avaient été commandés, restant en deçà du plafond de 50 000 bénéficiaires subventionnés par les pouvoirs publics. Ce dispositif avait pourtant suscité un fort engouement lors de ses précédentes sessions.",
+      "contexte": "Ce mécanisme public est conçu pour aider les ménages aux revenus modestes à abandonner les motorisations thermiques sans devoir débourser un apport financier lourd. Le ralentissement des souscriptions peut refléter une saturation temporaire de la demande, des critères d'éligibilité plus restrictifs ou des contraintes budgétaires persistantes pour les foyers concernés."
+    },
+    {
+      "titre": "Le DJ américain Juan Atkins, pionnier de la musique techno, est mort à l'âge de 64 ans",
+      "lien": "https://www.franceinfo.fr/culture/musique/le-dj-americain-juan-atkins-pionnier-de-la-musique-techno-est-mort-a-l-age-de-64-ans_8264009.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-02T14:29:42+01:00",
+      "resume": "Le musicien et DJ américain Juan Atkins s'est éteint à l'âge de 64 ans. Figure tutélaire de la musique techno, il avait contribué à inventer et populariser ce genre musical à partir des sous-sols industriels de Detroit. La maire de la ville, Mary Sheffield, a salué la mémoire d'un créateur dont le style et les compositions ont marqué les festivals et la culture club à travers le monde.",
+      "contexte": "Juan Atkins, notamment aux côtés d'autres figures de Detroit au début des années 1980, a révolutionné la musique électronique en fusionnant des sonorités de funk et des synthétiseurs industriels. Sa disparition marque la perte d'un précurseur de l'électro moderne, qui a influencé des générations entières de producteurs et a largement façonné l'identité culturelle de sa ville d'origine."
+    },
+    {
+      "titre": "En Pologne, premier exercice militaire grandeur nature pour la coalition des volontaires",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/02/en-pologne-premier-exercice-militaire-grandeur-nature-pour-la-coalition-des-volontaires_6805259_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-02T14:28:15+01:00",
+      "resume": "La Pologne accueille l'exercice militaire Koalijca du 9 au 22 novembre sur le terrain de Nowa Deba, dans le sud-est de son territoire. Cette opération rassemble près de 2 800 militaires, fournis pour la plupart par les forces armées françaises. L'objectif est d'expérimenter la réactivité opérationnelle d'une coalition de volontaires en prévision d'un éventuel cessez-le-feu en Ukraine.",
+      "contexte": "Face à la persistance du conflit ukrainien, plusieurs capitales européennes anticipent les conditions matérielles d'une surveillance ou d'une sécurisation en cas d'accord diplomatique futur. La mise en place d'une force multinationale hors du cadre strict des structures habituelles permet aux pays partenaires de tester leur interopérabilité rapide sur le flanc oriental de l'Europe."
+    },
+    {
+      "titre": "JOJ Dakar 2026 : Les jeunes kenyanes prêtes à faire vibrer le Rugby à 7",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-joj-dakar-2026-les-jeunes-kenyanes-pr%C3%AAtes-%C3%A0-faire-vibrer-le-rugby-%C3%A0-7",
+      "source": "France 24",
+      "date": "2026-11-02T14:27:53+01:00",
+      "resume": "La sélection féminine kenyane de rugby à 7 peaufine sa préparation dans la perspective des Jeux olympiques de la jeunesse de Dakar en 2026. L'équipe entend miser sur ses qualités traditionnelles de vivacité et de puissance athlétique pour briller lors de l'événement. Cette nouvelle génération sportive cherche ainsi à consolider la notoriété acquise par ses aînées sur la scène continentale et mondiale.",
+      "contexte": "Les Jeux olympiques de la jeunesse de Dakar constitueront la première compétition olympique organisée sur le sol africain, ce qui en fait un rendez-vous symbolique fort pour les délégations du continent. Le Kenya, nation reconnue dans le rugby international, compte s'appuyer sur ce tournoi pour promouvoir le sport féminin et confirmer son leadership régional."
+    },
+    {
+      "titre": "Le prix Médicis 2026 est décerné à Philippe Vasset pour son roman \"Dans les grandes lignes\"",
+      "lien": "https://www.franceinfo.fr/culture/le-prix-medicis-2026-est-decerne-a-philippe-vasset-pour-son-roman-dans-les-grandes-lignes_8263922.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-02T14:27:20+01:00",
+      "resume": "L'écrivain et journaliste Philippe Vasset a obtenu le prix Médicis 2026 pour son roman intitulé \"Dans les grandes lignes\". L'ouvrage primé retrace un parcours géographique à travers le territoire français le long du réseau des lignes électriques à haute tension. Âgé de 52 ans, l'auteur décroche sa première distinction littéraire d'envergure, succédant à Emmanuel Carrère qui avait été récompensé en 2025 pour \"Kolkhoze\".",
+      "contexte": "Les grands prix littéraires d'automne jouent un rôle majeur dans l'économie du livre en France en garantissant une visibilité médiatique et des ventes de librairie substantielles aux lauréats. Le choix du jury met ici en valeur une démarche d'investigation territoriale et littéraire singulière, centrée sur les marges et les infrastructures techniques du paysage contemporain."
     }
   ],
   "culture": [
@@ -188,5 +220,96 @@
       "a_retenir": "Le point Némo est si isolé que les humains les plus proches de lui se trouvent parfois à bord de la Station spatiale internationale."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "dec14de2f5",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Combien d'années de marche autour du monde l'aventurier britannique Karl Bushby a-t-il accomplies avant d'être accueilli à Hull ?",
+      "choix": [
+        "Quatorze ans",
+        "Trente-cinq ans",
+        "Dix ans",
+        "Vingt-huit ans"
+      ],
+      "reponse": 3,
+      "explication": "Karl Bushby a achevé un périple pédestre de vingt-huit ans autour du globe, parti du Chili en 1998.",
+      "lien": "https://www.franceinfo.fr/monde/l-aventurier-britannique-karl-bushby-accueilli-en-heros-dans-sa-ville-natale-de-hull-apres-28-ans-de-marche-autour-du-monde_8264063.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "4ccd2b59ed",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Quel responsable politique a affirmé sa volonté de rencontrer les représentants des lycéens après les blocages d'établissements ?",
+      "choix": [
+        "Le maire de Montpellier",
+        "Le président de la République",
+        "Le Premier ministre Sébastien Lecornu",
+        "Le ministre de l'Éducation nationale"
+      ],
+      "reponse": 2,
+      "explication": "Le Premier ministre Sébastien Lecornu a répété qu'il était prêt à échanger avec les représentants lycéens la semaine suivante.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "fc08a3c838",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Quel genre musical le DJ américain Juan Atkins a-t-il contribué à inventer et populariser à partir de Detroit ?",
+      "choix": [
+        "La techno",
+        "Le jazz",
+        "La house",
+        "Le hip-hop"
+      ],
+      "reponse": 0,
+      "explication": "Juan Atkins est présenté comme une figure tutélaire de la musique techno qu'il a contribué à créer à Detroit.",
+      "lien": "https://www.franceinfo.fr/culture/musique/le-dj-americain-juan-atkins-pionnier-de-la-musique-techno-est-mort-a-l-age-de-64-ans_8264009.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e7e4b52f2c",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Quel écrivain a remporté le prix Médicis 2026 pour son roman \"Dans les grandes lignes\" ?",
+      "choix": [
+        "Michel Houellebecq",
+        "Emmanuel Carrère",
+        "Philippe Vasset",
+        "kamel Daoud"
+      ],
+      "reponse": 2,
+      "explication": "C'est Philippe Vasset qui a obtenu le prix Médicis 2026 pour son roman \"Dans les grandes lignes\".",
+      "lien": "https://www.franceinfo.fr/culture/le-prix-medicis-2026-est-decerne-a-philippe-vasset-pour-son-roman-dans-les-grandes-lignes_8263922.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "cafdd4302c",
+      "date": "2026-11-02",
+      "type": "culture",
+      "question": "Lors du traité de Breda en 1667, les Britanniques ont cédé l'île de Run aux Hollandais en échange de quel territoire, qui s'appelait alors Nouvelle-Amsterdam ?",
+      "choix": [
+        "Boston",
+        "Philadelphie",
+        "Washington",
+        "New York"
+      ],
+      "reponse": 3,
+      "explication": "Les Britanniques ont échangé l'île de Run contre la Nouvelle-Amsterdam, que l'on connaît aujourd'hui sous le nom de New York.",
+      "lien": ""
+    },
+    {
+      "id": "62577ffd2f",
+      "date": "2026-11-02",
+      "type": "culture",
+      "question": "Comment appelle-t-on l'endroit de l'océan Pacifique Sud le plus éloigné de toute terre émergée, utilisé comme cimetière pour les satellites ?",
+      "choix": [
+        "La fosse des Mariannes",
+        "Le point Némo",
+        "Le détroit de Magellan",
+        "Le triangle des Bermudes"
+      ],
+      "reponse": 1,
+      "explication": "Le point Némo est l'endroit le plus isolé de la planète, choisi par les agences spatiales pour faire retomber les engins spatiaux hors d'usage.",
+      "lien": ""
+    }
+  ]
 }

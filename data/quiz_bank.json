@@ -2579,6 +2579,96 @@
       "reponse": 0,
       "explication": "L'Italie abrite entièrement sur son territoire le Vatican et la République de Saint-Marin.",
       "lien": ""
+    },
+    {
+      "id": "dec14de2f5",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Combien d'années de marche autour du monde l'aventurier britannique Karl Bushby a-t-il accomplies avant d'être accueilli à Hull ?",
+      "choix": [
+        "Quatorze ans",
+        "Trente-cinq ans",
+        "Dix ans",
+        "Vingt-huit ans"
+      ],
+      "reponse": 3,
+      "explication": "Karl Bushby a achevé un périple pédestre de vingt-huit ans autour du globe, parti du Chili en 1998.",
+      "lien": "https://www.franceinfo.fr/monde/l-aventurier-britannique-karl-bushby-accueilli-en-heros-dans-sa-ville-natale-de-hull-apres-28-ans-de-marche-autour-du-monde_8264063.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "4ccd2b59ed",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Quel responsable politique a affirmé sa volonté de rencontrer les représentants des lycéens après les blocages d'établissements ?",
+      "choix": [
+        "Le maire de Montpellier",
+        "Le président de la République",
+        "Le Premier ministre Sébastien Lecornu",
+        "Le ministre de l'Éducation nationale"
+      ],
+      "reponse": 2,
+      "explication": "Le Premier ministre Sébastien Lecornu a répété qu'il était prêt à échanger avec les représentants lycéens la semaine suivante.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "fc08a3c838",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Quel genre musical le DJ américain Juan Atkins a-t-il contribué à inventer et populariser à partir de Detroit ?",
+      "choix": [
+        "La techno",
+        "Le jazz",
+        "La house",
+        "Le hip-hop"
+      ],
+      "reponse": 0,
+      "explication": "Juan Atkins est présenté comme une figure tutélaire de la musique techno qu'il a contribué à créer à Detroit.",
+      "lien": "https://www.franceinfo.fr/culture/musique/le-dj-americain-juan-atkins-pionnier-de-la-musique-techno-est-mort-a-l-age-de-64-ans_8264009.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e7e4b52f2c",
+      "date": "2026-11-02",
+      "type": "actu",
+      "question": "Quel écrivain a remporté le prix Médicis 2026 pour son roman \"Dans les grandes lignes\" ?",
+      "choix": [
+        "Michel Houellebecq",
+        "Emmanuel Carrère",
+        "Philippe Vasset",
+        "kamel Daoud"
+      ],
+      "reponse": 2,
+      "explication": "C'est Philippe Vasset qui a obtenu le prix Médicis 2026 pour son roman \"Dans les grandes lignes\".",
+      "lien": "https://www.franceinfo.fr/culture/le-prix-medicis-2026-est-decerne-a-philippe-vasset-pour-son-roman-dans-les-grandes-lignes_8263922.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "cafdd4302c",
+      "date": "2026-11-02",
+      "type": "culture",
+      "question": "Lors du traité de Breda en 1667, les Britanniques ont cédé l'île de Run aux Hollandais en échange de quel territoire, qui s'appelait alors Nouvelle-Amsterdam ?",
+      "choix": [
+        "Boston",
+        "Philadelphie",
+        "Washington",
+        "New York"
+      ],
+      "reponse": 3,
+      "explication": "Les Britanniques ont échangé l'île de Run contre la Nouvelle-Amsterdam, que l'on connaît aujourd'hui sous le nom de New York.",
+      "lien": ""
+    },
+    {
+      "id": "62577ffd2f",
+      "date": "2026-11-02",
+      "type": "culture",
+      "question": "Comment appelle-t-on l'endroit de l'océan Pacifique Sud le plus éloigné de toute terre émergée, utilisé comme cimetière pour les satellites ?",
+      "choix": [
+        "La fosse des Mariannes",
+        "Le point Némo",
+        "Le détroit de Magellan",
+        "Le triangle des Bermudes"
+      ],
+      "reponse": 1,
+      "explication": "Le point Némo est l'endroit le plus isolé de la planète, choisi par les agences spatiales pour faire retomber les engins spatiaux hors d'usage.",
+      "lien": ""
     }
   ]
 }
