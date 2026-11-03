@@ -3014,6 +3014,111 @@
       "reponse": 1,
       "explication": "Le roman épistolaire a connu un immense succès au XVIIIe siècle, notamment grâce à des œuvres comme 'La Nouvelle Héloïse' de Jean-Jacques Rousseau.",
       "lien": ""
+    },
+    {
+      "id": "a3ef1aa099",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel joueur de football de Tenerife est décédé tragiquement à l'âge de 30 ans après une collision en plein match ?",
+      "choix": [
+        "Jesús de Miguel",
+        "Kevin Tessier",
+        "Oscar Puente",
+        "Philippe Jaenada"
+      ],
+      "reponse": 0,
+      "explication": "Jesús de Miguel est décédé à 30 ans après avoir été percuté par le gardien d'Andorre lors d'un match de deuxième division espagnole.",
+      "lien": "https://www.franceinfo.fr/sports/foot/mort-de-jesus-de-miguel-l-espagne-et-le-monde-du-football-en-deuil-apres-la-disparition-brutale-du-joueur-de-tenerife-percute-en-plein-match_8266592.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "f960be9cc5",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel est le surnom de la ville mexicaine de Los Algodones, très prisée par les Américains pour les soins dentaires ?",
+      "choix": [
+        "Coronation City",
+        "Molaire City",
+        "Dentist Town",
+        "Smile Mexico"
+      ],
+      "reponse": 1,
+      "explication": "La ville de Los Algodones est surnommée 'Molaire City' en raison de son activité florissante liée aux soins dentaires à moindre coût.",
+      "lien": "https://www.franceinfo.fr/monde/ameriques/pour-quatre-couronnes-achetees-deux-offertes-visite-de-molaire-city-la-ville-mexicaine-qui-a-fait-du-soin-dentaire-a-moindre-cout-pour-les-americains-un-business_8266604.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "f4c84bc3d0",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quelle nation a remporté le tournoi de rugby à 7 féminin aux JOJ de Dakar 2026, marquant une première historique pour l'Afrique ?",
+      "choix": [
+        "L'Afrique du Sud",
+        "L'Australie",
+        "Le Sénégal",
+        "Le Kenya"
+      ],
+      "reponse": 3,
+      "explication": "Le Kenya s'est imposé face à l'Australie, remportant la première médaille d'or olympique pour une nation africaine dans cette discipline.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-joj-dakar-2026-l-or-pour-le-kenya-une-premi%C3%A8re-olympique-pour-l-afrique-en-rugby-%C3%A0-7"
+    },
+    {
+      "id": "8f726d4300",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel écrivain a remporté le prix Goncourt 2026 pour son roman 'L'Inconnue du quai de Javel' ?",
+      "choix": [
+        "Kevin Tessier",
+        "Oscar Puente",
+        "Jean-Jacques Rousseau",
+        "Philippe Jaenada"
+      ],
+      "reponse": 3,
+      "explication": "Philippe Jaenada a été récompensé du prix Goncourt 2026 pour son treizième roman.",
+      "lien": "https://www.franceinfo.fr/culture/je-ne-peux-rien-dire-d-autre-que-c-est-joyeux-ca-fait-plaisir-philippe-jaenada-auteur-de-l-inconnue-du-quai-de-javel-reagit-a-son-prix-goncourt-2026_8266622.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "8ca1091e30",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel ministre espagnol a présenté sa démission à la suite d'une collision meurtrière entre deux trains ?",
+      "choix": [
+        "Kevin Tessier",
+        "Oscar Puente",
+        "Philippe Jaenada",
+        "Jesús de Miguel"
+      ],
+      "reponse": 1,
+      "explication": "Le ministre espagnol des Transports, Oscar Puente, a démissionné par dignité après cet accident tragique.",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-question-de-dignite-le-ministre-espagnol-des-transports-presente-sa-demission-apres-la-collision-meurtriere-entre-deux-trains_8266619.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "38c779b7be",
+      "date": "2026-11-03",
+      "type": "culture",
+      "question": "Quel concept économique popularisé par Adam Smith met en lumière le décalage entre la valeur d'utilité et la valeur d'échange d'un bien ?",
+      "choix": [
+        "Le paradoxe de l'eau et du diamant",
+        "Le principe de rareté absolue",
+        "La loi de l'offre et de la demande pure",
+        "La théorie de la valeur-travail"
+      ],
+      "reponse": 0,
+      "explication": "Ce paradoxe explique pourquoi l'eau, indispensable mais abondante, coûte peu, tandis que le diamant, inutile mais rare, coûte très cher.",
+      "lien": ""
+    },
+    {
+      "id": "7a082f8cd2",
+      "date": "2026-11-03",
+      "type": "culture",
+      "question": "Au dix-huitième siècle, quel genre littéraire constitué exclusivement de lettres échangées a été popularisé notamment par Jean-Jacques Rousseau ?",
+      "choix": [
+        "Le roman picaresque",
+        "Le roman épistolaire",
+        "Le roman historique",
+        "Le théâtre de boulevard"
+      ],
+      "reponse": 1,
+      "explication": "Le roman épistolaire, comme 'La Nouvelle Héloïse', utilise l'échange de lettres pour créer une illusion de réalité et multiplier les points de vue.",
+      "lien": ""
     }
   ]
 }

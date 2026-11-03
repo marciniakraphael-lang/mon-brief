@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
   "mode": "evening",
-  "updated": "2026-11-03T21:45:02.240650+01:00",
+  "updated": "2026-11-03T23:58:07.795964+01:00",
   "deja_presente": [
     {
       "titre": "Pourquoi le vote arabo-musulman pourrait compter au Michigan",
@@ -80,68 +80,76 @@
   ],
   "aujourdhui": [
     {
+      "titre": "Mort de Jesús de Miguel : l'Espagne et le monde du football en deuil après la disparition brutale du joueur de Tenerife, percuté en plein match",
+      "lien": "https://www.franceinfo.fr/sports/foot/mort-de-jesus-de-miguel-l-espagne-et-le-monde-du-football-en-deuil-apres-la-disparition-brutale-du-joueur-de-tenerife-percute-en-plein-match_8266592.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-03T23:44:46+01:00",
+      "resume": "L'attaquant de Tenerife Jesús de Miguel est décédé ce mardi 3 novembre à l'âge de 30 ans. Il a succombé à ses blessures après avoir été violemment percuté par le gardien d'Andorre lors d'un match de deuxième division espagnole disputé lundi soir. De nombreux hommages, notamment de la part du Real Madrid, ont été adressés à la suite de cette disparition brutale.",
+      "contexte": "Ce drame a provoqué une vive émotion dans le monde du football espagnol et au-delà, rappelant les risques liés aux collisions violentes sur les terrains. Les accidents mortels en plein match restent extrêmement rares grâce aux progrès de la médecine d'urgence, mais de tels événements relancent régulièrement les débats sur la sécurité des joueurs."
+    },
+    {
+      "titre": "\"Pour quatre couronnes achetées, deux offertes !\" : visite de \"Molaire City\", la ville mexicaine qui a fait du soin dentaire à moindre coût pour les Américains un business",
+      "lien": "https://www.franceinfo.fr/monde/ameriques/pour-quatre-couronnes-achetees-deux-offertes-visite-de-molaire-city-la-ville-mexicaine-qui-a-fait-du-soin-dentaire-a-moindre-cout-pour-les-americains-un-business_8266604.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-03T23:34:52+01:00",
+      "resume": "La ville mexicaine de Los Algodones, surnommé \"Molaire City\", est devenue une destination privilégiée pour les Américains cherchant à se faire soigner les dents à moindre coût. La question de l'accès aux soins et du coût de la santé constitue un thème central de la campagne électorale aux États-Unis.",
+      "contexte": "Le système de santé américain, caractérisé par des coûts particulièrement élevés et des couvertures d'assurance parfois insuffisantes, pousse de nombreux citoyens à recourir au tourisme médical dans les pays voisins comme le Mexique. Cette pratique met en lumière les inégalités d'accès aux soins de base aux États-Unis."
+    },
+    {
       "titre": "Midterms 2026 : suivez les résultats des élections de mi-mandat, cruciales pour Donald Trump, et les premières réactions",
       "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · franceinfo Monde · Le Monde",
-      "date": "2026-11-03T21:10:46+01:00",
-      "resume": "Près de 250 millions d'électeurs américains sont appelés aux urnes ce mardi 3 novembre pour les élections de mi-mandat (midterms) de 2026 afin de renouveler le Congrès. Le scrutin s'apparente à un référendum pour ou contre la politique du président Donald Trump, dont les démocrates espèrent briser la majorité. En plein vote, Donald Trump a par ailleurs annoncé sur Fox News que l'aide militaire annuelle de 3,8 milliards de dollars à Israël serait coupée à la fin de l'année.",
-      "contexte": "Les midterms surviennent traditionnellement à mi-parcours du mandat présidentiel et servent souvent de test national pour l'administration en place, dictant sa capacité à faire passer des lois lors des deux dernières années. La menace de supprimer l'aide à Israël intervient dans un contexte de forte polarisation et d'évolution de l'opinion publique américaine sur le sujet. Les conséquences de ces élections et de cette annonce pourraient redéfinir profondément l'équilibre du pouvoir à Washington ainsi que la politique étrangère des États-Unis."
+      "source": "franceinfo",
+      "date": "2026-11-03T23:34:22+01:00",
+      "resume": "Près de 250 millions d'électeurs américains ont été appelés aux urnes ce mardi pour les élections de mi-mandat (\"Midterms\") de 2026. Ce scrutin sert de test crucial pour l'action du président Donald Trump, avec le renouvellement de l'ensemble de la Chambre des représentants et d'une partie du Sénat.",
+      "contexte": "Les élections de mi-mandat se déroulent traditionnellement à mi-parcours de la présidence et constituent souvent un référendum sur la politique du chef de l'État en exercice. L'enjeu majeur réside dans le maintien ou la perte de la majorité au Congrès, ce qui peut bloquer ou faciliter l'action de la Maison Blanche pour la fin du mandat."
+    },
+    {
+      "titre": "JOJ Dakar 2026 : L’or pour le Kenya, une première olympique pour l’Afrique en rugby à 7",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-joj-dakar-2026-l-or-pour-le-kenya-une-premi%C3%A8re-olympique-pour-l-afrique-en-rugby-%C3%A0-7",
+      "source": "France 24",
+      "date": "2026-11-03T23:33:17+01:00",
+      "resume": "L'équipe féminine du Kenya a remporté le tournoi de rugby à 7 en s'imposant 17 à 12 face à l'Australie lors des Jeux olympiques de la jeunesse (JOJ) de Dakar 2026. Il s'agit d'une victoire historique, marquant la première médaille d'or olympique pour une nation africaine dans cette discipline, lors de la première édition des JO organisée sur le sol africain.",
+      "contexte": "L'organisation des Jeux olympiques de la jeunesse au Sénégal constitue une étape majeure pour le sport africain, offrant une vitrine internationale à la jeunesse du continent. Le développement du rugby à 7, discipline olympique depuis 2016, connaît une croissance rapide dans plusieurs pays africains, favorisé par des structures de formation de plus en plus compétitives."
     },
     {
       "titre": "À Marseille, un marin-pompier raconte comment son camion a été pris d'assaut",
       "lien": "https://www.franceinfo.fr/faits-divers/a-marseille-un-marin-pompier-raconte-comment-son-camion-a-ete-pris-d-assaut_8266499.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-03T21:04:09+01:00",
-      "resume": "Un mois après l'incendie d'un camion de pompiers en marge d'une manifestation lycéenne à Marseille, un marin-pompier de 29 ans témoigne de la violence de l'agression. Par ailleurs, 37 agents de l'Éducation nationale ont été blessés depuis lundi dans le cadre de ces mobilisations, selon Edouard Geffray, tandis qu'à Lormont, près de Bordeaux, le proviseur d'un lycée a porté plainte après avoir été poussé à terre.",
-      "contexte": "Ces incidents s'inscrivent dans un climat de tensions sociales récurrentes autour de l'école et des lycées, où les manifestations dégénèrent parfois en heurts avec les forces de l'ordre ou les services de secours. Ce type d'événements relève généralement de l'action de groupes radicaux ou d'une escalade de la contestation lors des blocus d'établissements. Cela pose des questions cruciales sur la sécurité des agents publics et des secouristes déployés sur le terrain lors des mouvements sociaux."
+      "date": "2026-11-03T23:32:15+01:00",
+      "resume": "Un mois après l'incendie d'un camion de pompiers lors d'une manifestation lycéenne à Marseille, le marin-pompier Jean, âgé de 29 ans, a témoigné de la violence de l'agression. Il est revenu sur les difficultés que cet événement engendre sur son quotidien professionnel et sur l'impact de telles violences envers les secours.",
+      "contexte": "Les agressions subies par les forces de l'ordre et les services de secours lors de manifestations urbaines constituent un sujet récurrent de préoccupation en France. Ce type d'incidents complique l'intervention des équipes d'urgence et relance le débat sur la sécurité des personnels de première ligne."
     },
     {
-      "titre": "Une série de fausses alertes à la bombe perturbe une dizaine de vols en Europe",
-      "lien": "https://www.france24.com/fr/europe/20261103-s%C3%A9rie-fausses-alertes-bombe-perturbe-dizaine-vols-europe-royaume-uni-heathrow-italie-espagne-bulgarie-hongrie",
-      "source": "France 24",
-      "date": "2026-11-03T21:00:13+01:00",
-      "resume": "Une série de fausses alertes à la bombe a perturbé le trafic aérien en Europe ce mardi, entraînant l'inspection d'avions et des opérations de déminage. En Hongrie et en Italie, plusieurs vols ont notamment dû être escortés par l'armée.",
-      "contexte": "Les fausses alertes à la bombe ciblant les transports en commun et l'aviation civile provoquent régulièrement d'importantes perturbations économiques et logistiques en Europe. Face à la menace terroriste et aux protocoles de sécurité stricts, les autorités sont contraintes de réagir immédiatement à chaque signalement, mobilisant des forces militaires et de police. Ce type d'action peut s'apparenter à des canulars malveillants ou à des tentatives coordonnées de déstabilisation dont les motifs précis restent à déterminer par les enquêtes."
+      "titre": "Ligue des champions : le résumé du festival offensif du PSG face à Villarreal et du match nul frustrant de Lille face à Bodo Glimt",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/03/ligue-des-champions-le-resume-du-festival-offensif-du-psg-face-a-villarreal-et-du-match-nul-frustrant-de-lille-face-a-bodo-glimt_6805702_3242.html",
+      "source": "Le Monde · France 24 · franceinfo",
+      "date": "2026-11-03T23:26:34+01:00",
+      "resume": "Lors de la phase de groupe de la Ligue des champions, le Paris Saint-Germain s'est largement imposé 6 à 0 face à Villarreal ce mardi, confirmant son statut de leader. De son côté, le LOSC Lille a obtenu son premier point de la compétition en faisant match nul 0 à 0 sur la pelouse des Norvégiens de Bodø/Glimt, tandis que Manchester United s'est imposé 3 à 2.",
+      "contexte": "La Ligue des champions réunit les meilleurs clubs européens dans un format exigeant où la régularité est primordiale pour atteindre la phase à élimination directe. Le parcours des clubs français illustre les écarts de niveau et d'expérience au sein de cette compétition prestigieuse, entre les ambitions des tenants du titre parisiens et la recherche de repères des Lillois."
     },
     {
-      "titre": "À la source du cuivre, un métal indispensable, prisé, volé",
-      "lien": "https://www.franceinfo.fr/monde/europe/a-la-source-du-cuivre-un-metal-indispensable-prise-vole_8266133.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-03T21:00:03+01:00",
-      "resume": "Le cuivre, qualifié d'« or rouge », est devenu un métal indispensable pour la vie quotidienne (téléphones, voitures, panneaux solaires, data centers) et fait l'objet de vols et de trafics à travers l'Europe. Un reportage de France TV s'est rendu dans une mine de l'Ouest de la Pologne pour observer son extraction à un kilomètre de profondeur.",
-      "contexte": "La transition énergétique et la numérisation croissante de l'économie mondiale font exploser la demande en matières premières critiques, dont le cuivre fait partie intégrante. Cette forte valeur sur le marché mondial entraîne mécaniquement une augmentation des vols et des trafics illégaux. L'enjeu est donc à la fois sécuritaire pour contrer les réseaux criminels et stratégique pour garantir l'approvisionnement des industries technologiques et écologiques."
-    },
-    {
-      "titre": "Ligue des champions : le PSG mène déjà 4-0, tout reste à faire pour Lille... Suivez avec nous les matchs du soir",
-      "lien": "https://www.franceinfo.fr/sports/directs/direct-ligue-des-champions-villarreal-psg-bodo-glimt-lille-suivez-la-quatrieme-journee-de-la-phase-de-ligue-avec-nous_8264123.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Je ne peux rien dire d'autre que c'est joyeux, ça fait plaisir\", réagit Philippe Jaenada, lauréat du prix Goncourt pour \"L'Inconnue du quai de Javel\", sur France 2",
+      "lien": "https://www.franceinfo.fr/culture/je-ne-peux-rien-dire-d-autre-que-c-est-joyeux-ca-fait-plaisir-philippe-jaenada-auteur-de-l-inconnue-du-quai-de-javel-reagit-a-son-prix-goncourt-2026_8266622.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-03T20:59:14+01:00",
-      "resume": "En Ligue des champions, le Paris Saint-Germain mène déjà 4-0 lors de son match du soir, tandis que tout reste à faire pour Lille. Les joueurs parisiens tentent de conserver leur place en tête de la phase de ligue après leurs succès précédents contre le Slovan Bratislava, Manchester City et le FC Barcelone.",
-      "contexte": "La nouvelle formule de la Ligue des champions intensifie la compétition dès la phase de ligue, obligeant les cadors européens à engranger rapidement des points pour s'assurer une qualification directe ou un meilleur classement. Pour les clubs français, maintenir une dynamique de victoire est essentiel pour peser sur la scène continentale. Les performances de début de saison donnent le ton des ambitions des équipes engagées pour le reste de la compétition."
+      "date": "2026-11-03T23:26:30+01:00",
+      "resume": "L'écrivain Philippe Jaenada a été récompensé du prix Goncourt 2026 pour son treizième roman intitulé \"L'Inconnue du quai de Javel\". Invité sur France 2, il a exprimé sa joie et est revenu sur son travail d'enquête autour du meurtre de Louise Cansot, survenu à Paris en 1949.",
+      "contexte": "Le prix Goncourt est la plus prestigieuse récompense de la littérature française, garantissant à son lauréat un succès de librairie considérable. Les romans s'inspirant de faits divers historiques ou de véritables enquêtes criminelles rencontrent un écho particulier auprès du public, mêlant rigueur documentaire et art du récit."
     },
     {
-      "titre": "\"Manque d'anticipation\", \"participation de l'ultragauche\", regrets sur \"les blessures graves\"… Trois déclarations à retenir de l'audition de Laurent Nuñez devant la commission d'enquête sur les violences du 17 octobre",
-      "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manque-d-anticipation-participation-de-l-ultragauche-regrets-sur-les-blessures-graves-trois-declarations-a-retenir-de-l-audition-de-laurent-nunez-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre_8266397.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · Le Monde",
-      "date": "2026-11-03T20:56:51+01:00",
-      "resume": "Le ministre de l'Intérieur, Laurent Nuñez, a été auditionné sous serment mardi après-midi par la commission d'enquête sur les violences des manifestations des 17 et 18 octobre. Il a reconnu un « échec » du bilan de la journée et un « manque d'anticipation » face à des phénomènes survenus simultanément pour briser le dispositif policier, tout en regrettant des blessures graves et la participation de l'ultragauche.",
-      "contexte": "Cette commission parlementaire a été mise en place pour faire la lumière sur les défaillances des services de l'État et des forces de l'ordre lors de manifestations particulièrement violentes. Les auditions de hauts responsables politiques et policiers visent à évaluer la chaîne de commandement et la préparation en amont face aux nouvelles formes de contestation radicale. Pour l'exécutif, l'exercice est délicat car il s'agit d'assumer d'éventuelles erreurs de gestion tout en préservant l'autorité des institutions."
-    },
-    {
-      "titre": "\"C'est une formidable nouvelle\", salue Philippe Jaenada, lauréat du prix Goncourt pour \"L'Inconnue du quai de Javel\", sur France 2",
-      "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/direct-prix-goncourt-2026-qui-succedera-a-la-maison-vide-de-laurent-mauvignier_8264468.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Une question de dignité\" : le ministre espagnol des Transports présente sa démission après la collision meurtrière entre deux trains",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-question-de-dignite-le-ministre-espagnol-des-transports-presente-sa-demission-apres-la-collision-meurtriere-entre-deux-trains_8266619.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-03T20:39:12+01:00",
-      "resume": "Philippe Jaenada a remporté le prix Goncourt pour son ouvrage \"L'Inconnue du quai de Javel\", une nouvelle saluée par l'auteur sur France 2. Simultanément, le prix Renaudot a été attribué à François-Henri Désérable pour son livre \"Le Palais\", publié aux éditions Gallimard.",
-      "contexte": "La saison automnale est traditionnellement rythmée par l'attribution des grands prix littéraires français, qui constituent des événements majeurs du paysage culturel national. Obtenir le Goncourt ou le Renaudot représente un tremplin extraordinaire pour les ventes des lauréats et consacre leur notoriété auprès du grand public. Ces distinctions continuent de jouer un rôle prescripteur puissant dans l'édition française."
+      "date": "2026-11-03T23:18:01+01:00",
+      "resume": "Le ministre espagnol des Transports, Oscar Puente, a présenté sa démission ce mardi à la suite d'une collision meurtrière entre deux trains. Il a justifié son départ par une question de dignité, évoquant la gravité de cet accident survenu au sud de Madrid fin octobre, ainsi qu'un autre incident tragique en Andalousie en janvier dernier.",
+      "contexte": "En politique, la démission d'un ministre à la suite d'une catastrophe majeure relève souvent de la responsabilité politique, même en l'absence de faute directe. Ce type de décision vise à répondre à l'émotion publique et à préserver la crédibilité du gouvernement face aux défaillances des infrastructures de transport."
     },
     {
-      "titre": "L'intersyndicale saisit la justice sur le parcours de la manifestation du 5 novembre à Paris",
-      "lien": "https://www.franceinfo.fr/economie/greve/l-intersyndicale-saisit-la-justice-sur-le-parcours-parisien-de-la-manifestation-du-5-novembre_8266493.html#xtor=RSS-3-[lestitres]",
+      "titre": "Attentat raciste dans les Yvelines : le suspect Kevin Tessier a tenté de se suicider en détention",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-le-suspect-kevin-tessier-a-tente-de-se-suicider-en-detention_8266586.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-03T20:31:12+01:00",
-      "resume": "L'intersyndicale a saisi la justice concernant le parcours de la manifestation prévue ce jeudi entre la place de la Bastille et celle de la Concorde à Paris. Les syndicats demandent que la préfecture de police publie avant mercredi à 14 heures les éventuels arrêtés d'interdiction qu'elle envisagerait de prendre sur ce tracé.",
-      "contexte": "Les tensions entre les organisations syndicales et la préfecture de police portent régulièrement sur le tracé des cortèges lors des mouvements sociaux d'envergure. Le recours croissant aux tribunaux administratifs en amont des manifestations traduit une judiciarisation des rapports sociaux et de la contestation en France. L'objectif est généralement pour les syndicats de sécuriser leur droit de manifester face aux restrictions imposées pour des motifs d'ordre public."
+      "date": "2026-11-03T22:58:29+01:00",
+      "resume": "Kevin Tessier, le suspect âgé de 39 ans mis en cause dans l'attentat raciste perpétré dans les Yvelines, a tenté de mettre fin à ses jours en détention dimanche. Après une prise en charge médicale, il a réintégré sa cellule quelques heures plus tard selon des sources proches du dossier.",
+      "contexte": "La surveillance des détenus hautement sensibles ou suicidaires constitue un défi majeur pour l'administration pénitentiaire. Les tentatives de suicide en prison entraînent généralement un renforcement des mesures de suivi psychologique et de sécurité pour garantir la tenue des futurs procès."
     }
   ],
   "culture": [
@@ -166,78 +174,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "a8e578396c",
+      "id": "a3ef1aa099",
       "date": "2026-11-03",
       "type": "actu",
-      "question": "Quel montant d'aide militaire annuelle à Israël Donald Trump a-t-il annoncé vouloir couper ?",
+      "question": "Quel joueur de football de Tenerife est décédé tragiquement à l'âge de 30 ans après une collision en plein match ?",
       "choix": [
-        "1,2 milliard de dollars",
-        "5,0 milliards de dollars",
-        "10,0 milliards de dollars",
-        "3,8 milliards de dollars"
+        "Jesús de Miguel",
+        "Kevin Tessier",
+        "Oscar Puente",
+        "Philippe Jaenada"
+      ],
+      "reponse": 0,
+      "explication": "Jesús de Miguel est décédé à 30 ans après avoir été percuté par le gardien d'Andorre lors d'un match de deuxième division espagnole.",
+      "lien": "https://www.franceinfo.fr/sports/foot/mort-de-jesus-de-miguel-l-espagne-et-le-monde-du-football-en-deuil-apres-la-disparition-brutale-du-joueur-de-tenerife-percute-en-plein-match_8266592.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "f960be9cc5",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel est le surnom de la ville mexicaine de Los Algodones, très prisée par les Américains pour les soins dentaires ?",
+      "choix": [
+        "Coronation City",
+        "Molaire City",
+        "Dentist Town",
+        "Smile Mexico"
+      ],
+      "reponse": 1,
+      "explication": "La ville de Los Algodones est surnommée 'Molaire City' en raison de son activité florissante liée aux soins dentaires à moindre coût.",
+      "lien": "https://www.franceinfo.fr/monde/ameriques/pour-quatre-couronnes-achetees-deux-offertes-visite-de-molaire-city-la-ville-mexicaine-qui-a-fait-du-soin-dentaire-a-moindre-cout-pour-les-americains-un-business_8266604.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "f4c84bc3d0",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quelle nation a remporté le tournoi de rugby à 7 féminin aux JOJ de Dakar 2026, marquant une première historique pour l'Afrique ?",
+      "choix": [
+        "L'Afrique du Sud",
+        "L'Australie",
+        "Le Sénégal",
+        "Le Kenya"
       ],
       "reponse": 3,
-      "explication": "Donald Trump a annoncé sur Fox News que l'aide militaire annuelle de 3,8 milliards de dollars à Israël serait coupée à la fin de l'année.",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html#xtor=RSS-3-[lestitres]"
+      "explication": "Le Kenya s'est imposé face à l'Australie, remportant la première médaille d'or olympique pour une nation africaine dans cette discipline.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-joj-dakar-2026-l-or-pour-le-kenya-une-premi%C3%A8re-olympique-pour-l-afrique-en-rugby-%C3%A0-7"
     },
     {
-      "id": "8ebc0e9cad",
+      "id": "8f726d4300",
       "date": "2026-11-03",
       "type": "actu",
-      "question": "Quel surnom est souvent donné au cuivre en raison de son importance et des vols dont il fait l'objet ?",
+      "question": "Quel écrivain a remporté le prix Goncourt 2026 pour son roman 'L'Inconnue du quai de Javel' ?",
       "choix": [
-        "Le métal gris",
-        "L'or rouge",
-        "La mine d'argent",
-        "Le bronze précieux"
+        "Kevin Tessier",
+        "Oscar Puente",
+        "Jean-Jacques Rousseau",
+        "Philippe Jaenada"
+      ],
+      "reponse": 3,
+      "explication": "Philippe Jaenada a été récompensé du prix Goncourt 2026 pour son treizième roman.",
+      "lien": "https://www.franceinfo.fr/culture/je-ne-peux-rien-dire-d-autre-que-c-est-joyeux-ca-fait-plaisir-philippe-jaenada-auteur-de-l-inconnue-du-quai-de-javel-reagit-a-son-prix-goncourt-2026_8266622.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "8ca1091e30",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel ministre espagnol a présenté sa démission à la suite d'une collision meurtrière entre deux trains ?",
+      "choix": [
+        "Kevin Tessier",
+        "Oscar Puente",
+        "Philippe Jaenada",
+        "Jesús de Miguel"
       ],
       "reponse": 1,
-      "explication": "Le cuivre est qualifié d'« or rouge » en raison de son rôle indispensable et de sa forte valeur qui attire les voleurs.",
-      "lien": "https://www.franceinfo.fr/monde/europe/a-la-source-du-cuivre-un-metal-indispensable-prise-vole_8266133.html#xtor=RSS-3-%5Bgeneral%5D"
+      "explication": "Le ministre espagnol des Transports, Oscar Puente, a démissionné par dignité après cet accident tragique.",
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-question-de-dignite-le-ministre-espagnol-des-transports-presente-sa-demission-apres-la-collision-meurtriere-entre-deux-trains_8266619.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "2540437c10",
-      "date": "2026-11-03",
-      "type": "actu",
-      "question": "Quel auteur a remporté le prestigieux prix Goncourt pour son ouvrage \"L'Inconnue du quai de Javel\" ?",
-      "choix": [
-        "François-Henri Désérable",
-        "Edouard Geffray",
-        "Philippe Jaenada",
-        "Laurent Nuñez"
-      ],
-      "reponse": 2,
-      "explication": "Philippe Jaenada a remporté le prix Goncourt pour son livre \"L'Inconnue du quai de Javel\".",
-      "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/direct-prix-goncourt-2026-qui-succedera-a-la-maison-vide-de-laurent-mauvignier_8264468.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "4f50bd2447",
+      "id": "38c779b7be",
       "date": "2026-11-03",
       "type": "culture",
-      "question": "Quel célèbre économiste a popularisé le « paradoxe de l'eau et du diamant » ?",
+      "question": "Quel concept économique popularisé par Adam Smith met en lumière le décalage entre la valeur d'utilité et la valeur d'échange d'un bien ?",
       "choix": [
-        "John Maynard Keynes",
-        "Adam Smith",
-        "David Ricardo",
-        "Karl Marx"
+        "Le paradoxe de l'eau et du diamant",
+        "Le principe de rareté absolue",
+        "La loi de l'offre et de la demande pure",
+        "La théorie de la valeur-travail"
       ],
-      "reponse": 1,
-      "explication": "C'est Adam Smith qui a popularisé ce concept économique pour illustrer le décalage entre la valeur d'utilité et la valeur d'échange.",
+      "reponse": 0,
+      "explication": "Ce paradoxe explique pourquoi l'eau, indispensable mais abondante, coûte peu, tandis que le diamant, inutile mais rare, coûte très cher.",
       "lien": ""
     },
     {
-      "id": "d11e390eee",
+      "id": "7a082f8cd2",
       "date": "2026-11-03",
       "type": "culture",
-      "question": "Au cours de quel siècle le roman épistolaire, constitué de lettres échangées entre personnages, a-t-il connu un immense succès ?",
+      "question": "Au dix-huitième siècle, quel genre littéraire constitué exclusivement de lettres échangées a été popularisé notamment par Jean-Jacques Rousseau ?",
       "choix": [
-        "Le XIXe siècle",
-        "Le XVIIIe siècle",
-        "Le XXe siècle",
-        "Le XVIIe siècle"
+        "Le roman picaresque",
+        "Le roman épistolaire",
+        "Le roman historique",
+        "Le théâtre de boulevard"
       ],
       "reponse": 1,
-      "explication": "Le roman épistolaire a connu un immense succès au XVIIIe siècle, notamment grâce à des œuvres comme 'La Nouvelle Héloïse' de Jean-Jacques Rousseau.",
+      "explication": "Le roman épistolaire, comme 'La Nouvelle Héloïse', utilise l'échange de lettres pour créer une illusion de réalité et multiplier les points de vue.",
       "lien": ""
     }
   ]
