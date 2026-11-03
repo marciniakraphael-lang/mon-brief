@@ -1,111 +1,168 @@
 {
   "date": "2026-11-03",
-  "mode": "evening",
-  "updated": "2026-11-03T01:40:28.248952+01:00",
-  "deja_presente": [],
-  "depuis_hier": [],
-  "aujourdhui": [
+  "mode": "morning",
+  "updated": "2026-11-03T12:08:57.098459+01:00",
+  "deja_presente": [
     {
-      "titre": "Budget 2027 : les députés remanient la TVA sur l’électricité, la télévision payante ou encore les produits de première nécessité",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html",
-      "source": "Le Monde",
-      "date": "2026-11-03T00:53:59+01:00",
-      "resume": "Dans un hémicycle clairsemé, les députés ont voté lundi des modifications concernant la TVA sur l'électricité, la télévision payante et les produits de première nécessité dans le cadre du budget 2027. Ces mesures ont été adoptées en sachant qu'elles ont peu de chances de perdurer en raison du rejet probable du budget et du possible recours au 49.3 ou aux ordonnances par l'exécutif. Un vote solennel sur l'ensemble du volet des recettes est prévu mardi.",
-      "contexte": "Ces débats budgétaires illustrent les tensions récurrentes entre l'exécutif et le Parlement dans un contexte politique fracturé où l'utilisation d'outils constitutionnels comme le 49.3 est fréquente. La modification de la TVA sur les produits de première nécessité et l'énergie est un levier politique fort pour répondre au pouvoir d'achat, bien que l'impact réel de ces votes symboliques reste limité sans l'approbation définitive du texte."
+      "titre": "Pourquoi le vote arabo-musulman pourrait compter au Michigan",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-pourquoi-vote-arabo-musulman-pourrait-compter-au-michigan-detroit-dearborn-warren-islam-abdul-el-sayed-donald-trump-elections-mi-mandat-midterms-2026-%C3%A9tats-unis",
+      "source": "France 24 · franceinfo Monde · franceinfo",
+      "date": "2026-11-02T12:24:09+01:00",
+      "resume": "À la veille des élections de mi-mandat (midterms) prévues le mardi 3 novembre aux États-Unis, la campagne se tend autour de plusieurs enjeux majeurs. Dans le Michigan, État indécis, le coût de la vie et le vote arabo-musulman, très critique envers la politique de Donald Trump, pèsent lourdement sur le scrutin, marqué par le ralliement d'une élue démocrate au camp républicain. Parallèlement, le Texas, bastion traditionnellement républicain, pourrait potentiellement basculer du côté démocrate, tandis que des inquiétudes subsistent face à d'éventuelles frappes sur l'Iran et un climat de fortes tensions géopolitiques.",
+      "contexte": "Les élections de mi-mandat constituent traditionnellement un test majeur pour le locataire de la Maison-Blanche, permettant de renouveler une partie du Congrès et de mesurer l'adhésion populaire à sa politique. Le basculement de « swing states » comme le Michigan ou de bastions historiques comme le Texas peut redessiner complètement l'équilibre des pouvoirs à Washington et paralyser ou faciliter les réformes de fin de mandat."
     },
     {
-      "titre": "EN DIRECT, guerre en Ukraine : l’émissaire américain annonce des négociations entre Moscou et Kiev la semaine prochaine à Abou Dhabi, sous médiation de Washington",
-      "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-03T00:12:24+01:00",
-      "resume": "L'émissaire américain Steve Witkoff a annoncé que des négociations entre Moscou et Kiev se tiendront la semaine prochaine, les mardi 10 et mercredi 11 novembre, à Abou Dhabi, sous la médiation de Washington. Ces discussions aborderont les dispositions de sécurité d'après-guerre, la désescalade, les efforts humanitaires et les prochaines étapes vers la paix. Parallèlement, des bombardements russes dans l'oblast de Zaporijia ont provoqué la mort d'au moins 26 personnes.",
-      "contexte": "Cette initiative diplomatique menée par les États-Unis intervient alors que le conflit en Ukraine se poursuit intensément sur le terrain, comme le rappellent les frappes meurtrières à Zaporijia. Des pourparlers sous médiation internationale visent à explorer de possibles issues politiques, bien que les divergences profondes sur la souveraineté territoriale et les garanties de sécurité rendent les compromis extrêmement difficiles à atteindre."
+      "titre": "Mobilisation lycéenne : le Premier ministre Sébastien Lecornu répète qu'il est prêt à rencontrer les représentants des lycéens \"la semaine prochaine\"",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24 · Le Monde",
+      "date": "2026-11-02T12:21:24+01:00",
+      "resume": "Au lendemain des vacances de la Toussaint, la mobilisation lycéenne et étudiante s'est poursuivie ce lundi 2 novembre avec 41 lycées bloqués à travers la France, soit 1 % des établissements. Malgré des interventions policières parfois musclées et l'alerte du président de l'université d'Aix-Marseille sur la dégradation de la santé mentale des étudiants face à ces perturbations, le Premier ministre Sébastien Lecornu a réitéré sa disposition à recevoir les représentants lycéens la semaine prochaine.",
+      "contexte": "Ces mouvements de contestation récurrents dans l'enseignement secondaire et supérieur traduisent un mécontentement profond face aux conditions d'études et aux réformes gouvernementales. La gestion de ces crises par l'exécutif cherche traditionnellement à concilier l'ouverture au dialogue social avec le maintien de l'ordre public et la continuité du service éducatif."
     },
     {
-      "titre": "Piratage de Binance : accusée, la Corée du Nord dénonce une \"grave provocation politique\"",
-      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261102-piratage-binance-coree-du-nord-qualifie-accusations-fbi-grave-provocation-politique",
+      "titre": "Maroc : l'artiste Yasser Mounbir condamné à quatre ans de prison",
+      "lien": "https://www.france24.com/fr/afrique/20261102-maroc-artiste-yasser-mounbir-condamnation-prison-liberte-expression-delit-insulte-roi",
       "source": "France 24",
-      "date": "2026-11-03T00:12:23+01:00",
-      "resume": "La Corée du Nord a qualifié mardi de « grave provocation politique » et de « rhétorique absurde » les accusations du FBI la désignant comme responsable de la cyberattaque subie la semaine dernière par la plateforme de cryptomonnaies Binance. Pyongyang a rejeté en bloc ces accusations formulées par les autorités américaines.",
-      "contexte": "Les accusations de cyberattaques massives contre des infrastructures financières et des plateformes de cryptomonnaies sont fréquemment imputées par les services occidentaux à des groupes étatiques nord-coréens, qui cherchent ainsi à contourner les lourdes sanctions internationales engrangeant des devises étrangères. Ce type d'incident exacerbe régulièrement les tensions géopolitiques entre Pyongyang et les pays occidentaux, chaque partie rejetant la responsabilité de la cyberguerre."
+      "date": "2026-11-02T12:04:10+01:00",
+      "resume": "La justice marocaine a condamné à quatre ans de prison le dessinateur Yasser Mounbir pour « insulte à l'encontre du roi ». Arrêté en juin dernier, le graffeur de 22 ans, connu pour ses caricatures engagées de Mohammed VI, a vu son avocat annoncer le dépôt immédiat d'un appel.",
+      "contexte": "Au Maroc, la critique publique de la monarchie et du roi constitue un délit sévèrement réprimé par le code pénal, les lois protégeant les institutions sacrées du pays. Cette affaire relance régulièrement le débat sur les limites de la liberté d'expression et la judiciarisation des œuvres artistiques contestataires."
+    },
+    {
+      "titre": "🇸🇳 JOJ Dakar 2026 : les premières impression des jeunes athlètes",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-%F0%9F%87%B8%F0%9F%87%B3-joj-dakar-2026-les-premi%C3%A8res-impression-des-jeunes-athl%C3%A8tes",
+      "source": "France 24",
+      "date": "2026-11-02T12:03:43+01:00",
+      "resume": "Les Jeux olympiques de la jeunesse (JOJ) 2026 ont débuté au Sénégal, offrant à des athlètes âgés de 14 à 17 ans leurs premières émotions olympiques. Les compétitions de rugby à sept et de futsal se déroulent notamment sur le complexe Iba Mar Diop à Dakar.",
+      "contexte": "Organiser les JOJ sur le continent africain constitue une première historique pour le Comité international olympique, visant à promouvoir le sport de haut niveau et à inspirer la jeunesse locale. Ces événements servent souvent de vitrine pour le développement des infrastructures sportives et urbaines du pays hôte."
+    },
+    {
+      "titre": "\"Une petite fortune sur le marché noir\" : deux suspects placés en détention provisoire après le vol de 13 singes dans un zoo près de Pau",
+      "lien": "https://france3-regions.franceinfo.fr/occitanie/hautes-pyrenees/tarbes/une-petite-fortune-sur-le-marche-noir-apres-le-vol-de-treize-singes-dans-un-zoo-deux-suspects-interpelles-pres-de-tarbes-3442740.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-02T12:02:07+01:00",
+      "resume": "Deux suspects et la compagne de l'un d'eux ont été placés en détention provisoire à la suite du vol de treize ouistitis et tamarins commis dans la nuit du 26 au 27 octobre 2026 au parc zoologique Exotic Park de Lescar, dans les Pyrénées-Atlantiques. Les interpellations ont été menées dans le département voisin des Hautes-Pyrénées.",
+      "contexte": "Le vol d'animaux exotiques rares alimente généralement un marché noir international clandestin ciblant les collectionneurs peu scrupuleux ou un trafic d'animaux de compagnie. Ce type de délinquance spécialisée met en lumière la vulnérabilité des parcs zoologiques de taille modeste en matière de sécurité."
+    },
+    {
+      "titre": "Benoit Carré, compositeur : « L’IA génératrice de musique est, à l’évidence, bien meilleure que moi »",
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/02/benoit-carre-compositeur-l-ia-generatrice-de-musique-est-a-l-evidence-bien-meilleure-que-moi_6805237_3232.html",
+      "source": "Le Monde",
+      "date": "2026-11-02T12:00:02+01:00",
+      "resume": "Dans une tribune publiée dans Le Monde, le compositeur Benoit Carré estime que l'intelligence artificielle génératrice de musique surpasse désormais ses propres capacités créatives. Ancien membre du groupe Lilicub, il considère que la pop peut se renouveler grâce à ces technologies à condition que l'humain en garde la pleine maîtrise.",
+      "contexte": "L'essor fulgurant des outils d'intelligence artificielle générative bouleverse en profondeur les industries culturelles et suscite de vives discussions éthiques et artistiques sur la notion de création. Si certains y voient un outil d'amplification de la créativité humaine, d'autres redoutent une standardisation de la musique et une menace pour les droits des auteurs."
     }
   ],
-  "culture": [],
-  "quiz_jour": [
+  "depuis_hier": [
     {
-      "id": "58f9fdd55c",
-      "date": "2026-11-03",
-      "type": "actu",
-      "question": "Dans le cadre du budget 2027 examiné par l'Assemblée nationale, quel type de vote est prévu mardi pour l'ensemble du volet des recettes ?",
-      "choix": [
-        "Un vote solennel",
-        "Un vote de censure",
-        "Un référendum",
-        "Un vote secret"
-      ],
-      "reponse": 0,
-      "explication": "L'article indique qu'un vote solennel sur l'ensemble du volet des recettes est prévu mardi.",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html"
+      "titre": "Afrique du Sud : l’ANC face au mécontentement des électeurs aux municipales",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261102-afrique-du-sud-l-anc-face-au-m%C3%A9contentement-des-%C3%A9lecteurs-aux-municipales",
+      "source": "France 24",
+      "date": "2026-11-02T23:31:41+01:00",
+      "resume": "Les électeurs en Afrique du Sud se rendent aux urnes ce mercredi pour renouveler leurs conseils municipaux, à l'image des votes observés à Mandela Bay dans la province du Cap-Oriental. Ce scrutin se déroule dans un contexte de mécontentement croissant des électeurs envers le parti au pouvoir, l'ANC.",
+      "contexte": "Les élections municipales en Afrique du Sud constituent un baromètre crucial de la popularité du Congrès national africain (ANC), le parti historique au pouvoir qui fait face à des critiques récurrentes concernant la gestion des services publics, le chômage et la corruption. Les zones urbaines et les municipalités clés sont particulièrement disputées par l'opposition."
     },
     {
-      "id": "1c06248a6b",
-      "date": "2026-11-03",
-      "type": "actu",
-      "question": "Où doivent se dérouler les négociations entre Moscou et Kiev prévues la semaine prochaine ?",
-      "choix": [
-        "À Vienne",
-        "À Istanbul",
-        "À Abou Dhabi",
-        "À Genève"
-      ],
-      "reponse": 2,
-      "explication": "L'émissaire américain a annoncé que les négociations se tiendront à Abou Dhabi sous la médiation de Washington.",
-      "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html"
+      "titre": "Pourquoi les Américains votent-ils toujours un mardi en novembre ?",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-pourquoi-am%C3%A9ricains-votent-toujours-mardi-en-novembre-%C3%A9tats-unis-%C3%A9lections-pr%C3%A9sidentielle-midterms-politique-histoire-culture-prime",
+      "source": "France 24",
+      "date": "2026-11-02T22:25:18+01:00",
+      "resume": "Aux États-Unis, les élections se tiennent traditionnellement un mardi du mois de novembre, une exception culturelle et historique par rapport à d'autres pays qui privilégient généralement le week-end.",
+      "contexte": "Ce choix du mardi au mois de novembre remonte au XIXe siècle, une époque où la société américaine était majoritairement rurale et où il fallait laisser aux électeurs le temps de voyager en calèche pour se rendre au bureau de vote après les récoltes et après avoir assisté aux offices religieux du dimanche, en évitant le jour du marché fixé au mercredi."
     },
     {
-      "id": "4fdd913a22",
-      "date": "2026-11-03",
-      "type": "actu",
-      "question": "Quel pays assure la médiation pour les négociations entre la Russie et l'Ukraine prévues à Abou Dhabi ?",
-      "choix": [
-        "La Chine",
-        "Le Royaume-Uni",
-        "Les États-Unis",
-        "La France"
-      ],
-      "reponse": 2,
-      "explication": "Les négociations se tiendront sous la médiation de Washington (les États-Unis).",
-      "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html"
-    },
-    {
-      "id": "c4d248ea6c",
-      "date": "2026-11-03",
-      "type": "actu",
-      "question": "Quelle plateforme de cryptomonnaies a subi une cyberattaque récemment, selon les accusations du FBI ?",
-      "choix": [
-        "Binance",
-        "FTX",
-        "Kraken",
-        "Coinbase"
-      ],
-      "reponse": 0,
-      "explication": "Le FBI a désigné la Corée du Nord comme responsable de la cyberattaque subie par la plateforme de cryptomonnaies Binance.",
-      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261102-piratage-binance-coree-du-nord-qualifie-accusations-fbi-grave-provocation-politique"
-    },
-    {
-      "id": "41f7e1b9f0",
-      "date": "2026-11-03",
-      "type": "actu",
-      "question": "Comment la Corée du Nord a-t-elle qualifié les accusations du FBI concernant le piratage de Binance ?",
-      "choix": [
-        "D'erreur technique",
-        "De grave provocation politique",
-        "De malentendu diplomatique",
-        "De simple rumeur infondée"
-      ],
-      "reponse": 1,
-      "explication": "Pyongyang a qualifié ces accusations de « grave provocation politique » et de « rhétorique absurde ».",
-      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261102-piratage-binance-coree-du-nord-qualifie-accusations-fbi-grave-provocation-politique"
+      "titre": "En Ukraine, des frappes russes durant une distribution d'aide humanitaire font plus de 25 morts",
+      "lien": "https://www.france24.com/fr/europe/20261102-en-ukraine-des-frappes-russes-pendant-une-distribution-d-aide-humanitaire-font-26-morts",
+      "source": "France 24",
+      "date": "2026-11-02T22:07:54+01:00",
+      "resume": "Lundi, des frappes russes ont touché une école servant à la distribution d'aide humanitaire à Komyshuvakha, dans la région de Zaporijjia, dans le sud-est de l'Ukraine, faisant au moins 29 morts. Le président ukrainien Volodymyr Zelensky a déclaré que ces bombardements anéantissaient tout espoir de progrès vers la paix.",
+      "contexte": "Les infrastructures civiles et humanitaires en Ukraine sont régulièrement la cible de bombardements dans le cadre du conflit armé qui oppose le pays à la Russie. Ces attaques aggravent la crise humanitaire dans les zones proches de la ligne de front et entraînent de vives condamnations internationales quant au respect du droit international humanitaire."
     }
-  ]
+  ],
+  "aujourdhui": [
+    {
+      "titre": "Une adolescente de 15 ans contrainte de se prostituer auprès d'environ 900 clients dans le Sud-Est",
+      "lien": "https://www.franceinfo.fr/faits-divers/info-radio-france-une-adolescente-de-15-ans-contrainte-de-se-prostituer-aupres-de-pres-de-900-clients-dans-le-sud-est_8265647.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-03T12:03:26+01:00",
+      "resume": "Deux hommes ont été interpellés et mis en examen près de Draguignan, dans le Sud-Est, soupçonnés de proxénétisme et de traite d'êtres humains. Ils sont accusés d'avoir contraint une adolescente de 15 ans à se prostituer auprès d'environ 900 clients.",
+      "contexte": "Les réseaux de proxénétisme ciblant des mineurs vulnérables font l'objet d'une attention accrue des autorités judiciaires et policières en France. L'exploitation de mineurs par la traite d'êtres humains est lourdement punie par le code pénal, et l'enquête cherche à identifier d'éventuels complices ou d'autres victimes."
+    },
+    {
+      "titre": "Prix Goncourt 2026 : quatre romans en lice pour succéder à \"La Maison vide\" de Laurent Mauvignier, le lauréat désigné à partir de 12h45",
+      "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/direct-prix-goncourt-2026-qui-succedera-a-la-maison-vide-de-laurent-mauvignier_8264468.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-03T12:00:51+01:00",
+      "resume": "Quatre romans sont en lice pour le prix Goncourt 2026 afin de succéder à 'La Maison vide' de Laurent Mauvignier. Les finalistes sont 'L'inconnue du quai de Javel' de Philippe Jaenada, 'La solitude des professeurs est infinie' de Yannick Haenel, 'Choses que je croyais perdues' de Clémentine Mélois et 'De l'autre côté du lac' de Sylvain Prudhomme, le lauréat devant être désigné à partir de 12h45.",
+      "contexte": "Le prix Goncourt est la plus prestigieuse des récompenses de la littérature française, créée au début du XXe siècle. L'attribution de ce prix garantit à l'ouvrage primé un succès de librairie considérable et un rayonnement culturel majeur pour l'année en cours."
+    },
+    {
+      "titre": "Midterms 2026 : le Texas, l’un des Etats les plus conservateurs des Etats-Unis, au bord d’un basculement historique",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-le-texas-l-un-des-etats-les-plus-conservateurs-des-etats-unis-au-bord-d-un-basculement-historique_6805571_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-03T12:00:02+01:00",
+      "resume": "Dans l'État historiquement conservateur du Texas, la baisse du pouvoir d'achat et la dénonciation de la corruption favorisent une poussée du vote démocrate à l'approche des Midterms 2026. Le candidat démocrate au Sénat, James Talarico, âgé de 37 ans, devance son adversaire républicain Ken Paxton dans les sondages, menaçant de faire basculer un État qui n'a pas élu de sénateur démocrate depuis 1988.",
+      "contexte": "Le Texas est traditionnellement un bastion imprenable du Parti républicain aux États-Unis. Toutefois, les évolutions démographiques, l'urbanisation croissante et l'arrivée de nouvelles populations modifient progressivement le paysage politique local, rendant certains scrutins plus serrés que par le passé."
+    },
+    {
+      "titre": "\"Des fois, j'ai des trous de mémoire\" : au premier jour de leur procès, l'état de santé des parents de la \"martyre de l'A10\" au cœur des débats",
+      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/des-fois-j-ai-des-trous-de-memoire-au-premier-jour-de-leur-proces-l-etat-de-sante-des-parents-de-la-martyre-de-l-a10-au-c-ur-des-debats_8264537.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-03T11:56:21+01:00",
+      "resume": "Le procès des parents de la 'martyre de l'A10', Ahmed Touloub (74 ans) et Halima El Bakhti (72 ans), s'est ouvert devant la cour d'assises du Loir-et-Cher. Près de quarante ans après la découverte du corps sans vie et mutilé de la petite Inass, les débats du premier jour se sont concentrés sur l'état de santé des accusés, la défense ayant demandé une expertise psychiatrique complémentaire pour le père.",
+      "contexte": "Cette affaire criminelle ancienne, non élucidée pendant des décennies, illustre le fonctionnement de la justice face aux 'cold cases' (affaires non résolues). Les progrès de la science médico-légale et de l'ADN permettent parfois, après de très longues années, de relancer des enquêtes et de traduire les suspects devant les juridictions compétentes."
+    },
+    {
+      "titre": "Mobilisation lycéenne et étudiante : 48 lycées bloqués ce matin selon le ministère de l'Education nationale, comme hier",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-03T11:53:20+01:00",
+      "resume": "Le ministère de l'Éducation nationale a recensé 48 lycées bloqués lundi matin, un niveau de mobilisation stable par rapport à la veille. Cette action intervient à l'appel de plusieurs syndicats étudiants et lycéens, qui se mobilisent à l'approche de la grève générale prévue jeudi.",
+      "contexte": "Les mouvements de blocage dans les lycées et universités françaises accompagnent fréquemment les grèves interprofessionnelles ou les contestations de réformes gouvernementales. Ils permettent aux organisations de jeunesse de peser dans le débat public et d'exprimer leurs revendications."
+    },
+    {
+      "titre": "Israël : l'appel de Netanyahu à un \"large gouvernement national\" sous sa direction",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-isra%C3%ABl-l-appel-de-netanyahu-%C3%A0-un-large-gouvernement-national-sous-sa-direction",
+      "source": "France 24",
+      "date": "2026-11-03T11:51:40+01:00",
+      "resume": "Le Premier ministre israélien sortant, Benjamin Netanyahu, a appelé lundi 25 novembre à la formation d'un large gouvernement national dirigé par ses soins. Fort du succès de son parti, le Likoud, lors des élections législatives, il a plaidé pour une coalition excluant les partis arabes.",
+      "contexte": "Le système politique israélien, fondé sur la proportionnelle intégrale, nécessite presque toujours la constitution de coalitions pour obtenir une majorité à la Knesset. Les équilibres politiques fragiles et les lignes rouges fixées par les différentes formations dictent les tractations complexes menées par le chef du gouvernement désigné."
+    },
+    {
+      "titre": "Donald Trump change de ton et assure qu'un accord avec l'Iran \"pourrait arriver\"",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261102-moyen-orient-donald-trump-accord-avec-l-iran-pourrait-arriver-detroit-d-ormuz-petrole",
+      "source": "France 24 · franceinfo Monde",
+      "date": "2026-11-03T11:43:20+01:00",
+      "resume": "L'administration de Donald Trump fait face à de fortes tensions économiques et géopolitiques à l'approche des élections de mi-mandat (Midterms). Alors que des frappes secrètes ont visé l'île iranienne de Qeshm et que le président américain s'est dit ouvert à un accord avec l'Iran, le conflit et le blocage du détroit d'Ormuz font exploser les prix du carburant, portant l'inflation à 3,6 % en septembre pour une croissance de 3,4 % et une dette dépassant les 40 000 milliards de dollars. Cette situation économique pèse sur le pouvoir d'achat des citoyens, impactant des secteurs comme le bûcheronnage dans le Maine en raison de la guerre commerciale avec le Canada, et cristallise les débats politiques autour de la réforme de l'aide alimentaire en Arizona et des propositions de santé publique au Michigan.",
+      "contexte": "Les élections de mi-mandat aux États-Unis surviennent traditionnellement à mi-parcours du mandat présidentiel et servent de test majeur pour l'administration en place, renouvelant une partie du Congrès. La hausse du coût de la vie et les répercussions des politiques douanières et internationales constituent des thèmes décisifs pour les électeurs soucieux de leur pouvoir d'achat. Ces scrutins permettent souvent à l'opposition de contester la politique fédérale en mobilisant les mécontentements locaux."
+    },
+    {
+      "titre": "Une enquête pour violences confiée à l'IGPN après qu'un homme a été blessé au visage à Marseille en marge des manifestations du 31 octobre",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/a-marseille-une-enquete-pour-violences-confiee-a-l-igpn-apres-qu-un-homme-a-ete-blesse-au-visage-en-marge-des-manifestations-du-31-octobre_8265575.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-03T11:37:48+01:00",
+      "resume": "Une enquête pour violences a été confiée à l'IGPN après qu'un homme de 39 ans a été blessé au visage à Marseille. Les faits se sont déroulés en marge des manifestations du 31 octobre, et la victime a déposé plainte pour des violences volontaires avec armes en réunion commises par une personne dépositaire de l'autorité publique.",
+      "contexte": "L'Inspection générale de la Police nationale (IGPN) est l'organisme saisi de manière systématique ou sur instruction de la justice pour enquêter sur les manquements ou les violences reprochés aux forces de l'ordre lors d'opérations de maintien de l'ordre ou d'interventions."
+    }
+  ],
+  "culture": [
+    {
+      "theme": "vie courante",
+      "titre": "L'origine de la date de péremption",
+      "texte": "La mention de péremption sur les denrées alimentaires est née d'un besoin de protection du consommateur et de gestion moderne des stocks. Autrefois, l'acheteur se fiait uniquement à ses sens pour juger de la fraicheur d'un produit. Avec l'essor de la grande distribution au milieu du vingtième siècle, les produits préemballés ont nécessité un repère temporel clair. C'est ainsi qu'ont été instaurées la Date de Durabilité Minimale et la Date Limite de Consommation. Ces indications permettent aujourd'hui d'éviter de nombreux gaspillages tout en garantissant la sécurité sanitaire.",
+      "a_retenir": "La date de péremption est apparue avec l'essor de la grande distribution pour encadrer la conservation des aliments préemballés."
+    },
+    {
+      "theme": "économie",
+      "titre": "Le paradoxe de l'eau et du diamant",
+      "texte": "Ce concept économique fondamental, popularisé par Adam Smith, met en lumière le décalage entre la valeur d'utilité et la valeur d'échange d'un bien. L'eau est indispensable à la vie et possède donc une utilité immense, mais elle est généralement très bon marché en raison de son abondance. À l'inverse, le diamant n'est d'aucune utilité vitale, mais sa rareté extrême lui confère un prix considérable sur le marché. C'est l'offre et la demande, combinées à la rareté, qui fixent les prix et non l'utilité réelle de l'objet pour l'être humain.",
+      "a_retenir": "Un bien vital et abondant comme l'eau coûte moins cher qu'un bien superflu mais rare comme le diamant."
+    },
+    {
+      "theme": "arts et littérature",
+      "titre": "Le mystère du roman épistolaire",
+      "texte": "Le genre du roman épistolaire, constitué exclusivement de lettres échangées entre des personnages, a connu un immense succès au dix-huitième siècle. Des auteurs comme Jean-Jacques Rousseau avec 'La Nouvelle Héloïse' ont utilisé cette forme pour créer une illusion de réalité saisissante. Le lecteur a l'impression de violer l'intimité des correspondants en découvrant leurs pensées les plus secrètes au moment où elles sont écrites. Ce procédé littéraire permet aussi de multiplier les points de vue sur une même intrigue sans faire intervenir un narrateur omniscient.",
+      "a_retenir": "Le roman épistolaire utilise l'échange de lettres fictives pour donner une impression de réalisme et d'intimité au lecteur."
+    }
+  ],
+  "quiz_jour": []
 }
