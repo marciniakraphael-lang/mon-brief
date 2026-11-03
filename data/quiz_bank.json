@@ -2774,6 +2774,81 @@
       "reponse": 3,
       "explication": "Les Britanniques ont cédé l'île de Run aux Hollandais en échange de la Nouvelle-Amsterdam, aujourd'hui appelée New York.",
       "lien": ""
+    },
+    {
+      "id": "58f9fdd55c",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Dans le cadre du budget 2027 examiné par l'Assemblée nationale, quel type de vote est prévu mardi pour l'ensemble du volet des recettes ?",
+      "choix": [
+        "Un vote solennel",
+        "Un vote de censure",
+        "Un référendum",
+        "Un vote secret"
+      ],
+      "reponse": 0,
+      "explication": "L'article indique qu'un vote solennel sur l'ensemble du volet des recettes est prévu mardi.",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html"
+    },
+    {
+      "id": "1c06248a6b",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Où doivent se dérouler les négociations entre Moscou et Kiev prévues la semaine prochaine ?",
+      "choix": [
+        "À Vienne",
+        "À Istanbul",
+        "À Abou Dhabi",
+        "À Genève"
+      ],
+      "reponse": 2,
+      "explication": "L'émissaire américain a annoncé que les négociations se tiendront à Abou Dhabi sous la médiation de Washington.",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html"
+    },
+    {
+      "id": "4fdd913a22",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel pays assure la médiation pour les négociations entre la Russie et l'Ukraine prévues à Abou Dhabi ?",
+      "choix": [
+        "La Chine",
+        "Le Royaume-Uni",
+        "Les États-Unis",
+        "La France"
+      ],
+      "reponse": 2,
+      "explication": "Les négociations se tiendront sous la médiation de Washington (les États-Unis).",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html"
+    },
+    {
+      "id": "c4d248ea6c",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quelle plateforme de cryptomonnaies a subi une cyberattaque récemment, selon les accusations du FBI ?",
+      "choix": [
+        "Binance",
+        "FTX",
+        "Kraken",
+        "Coinbase"
+      ],
+      "reponse": 0,
+      "explication": "Le FBI a désigné la Corée du Nord comme responsable de la cyberattaque subie par la plateforme de cryptomonnaies Binance.",
+      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261102-piratage-binance-coree-du-nord-qualifie-accusations-fbi-grave-provocation-politique"
+    },
+    {
+      "id": "41f7e1b9f0",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Comment la Corée du Nord a-t-elle qualifié les accusations du FBI concernant le piratage de Binance ?",
+      "choix": [
+        "D'erreur technique",
+        "De grave provocation politique",
+        "De malentendu diplomatique",
+        "De simple rumeur infondée"
+      ],
+      "reponse": 1,
+      "explication": "Pyongyang a qualifié ces accusations de « grave provocation politique » et de « rhétorique absurde ».",
+      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261102-piratage-binance-coree-du-nord-qualifie-accusations-fbi-grave-provocation-politique"
     }
   ]
 }
