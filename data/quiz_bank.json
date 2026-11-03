@@ -2849,6 +2849,111 @@
       "reponse": 1,
       "explication": "Pyongyang a qualifié ces accusations de « grave provocation politique » et de « rhétorique absurde ».",
       "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261102-piratage-binance-coree-du-nord-qualifie-accusations-fbi-grave-provocation-politique"
+    },
+    {
+      "id": "3ced651952",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quelle tempête a provoqué des inondations majeures sur l'île de Rhodes en Grèce ?",
+      "choix": [
+        "La tempête Agneta",
+        "La tempête Ciaran",
+        "La tempête Xynthia",
+        "La tempête Alex"
+      ],
+      "reponse": 0,
+      "explication": "La tempête Agneta a entraîné des pluies diluviennes sur l'île de Rhodes, emportant de nombreux véhicules.",
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-en-grece-des-voitures-emportees-par-les-eaux_8265848.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "49c23611f4",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel était le domaine de prédilection de la journaliste Vanessa Dougnac, décédée à 54 ans ?",
+      "choix": [
+        "L'Inde",
+        "Le Royaume-Uni",
+        "Les États-Unis",
+        "La Russie"
+      ],
+      "reponse": 0,
+      "explication": "Vanessa Dougnac était une grande spécialiste de l'Inde, pays qu'elle a dû quitter en 2024.",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/11/03/la-journaliste-vanessa-dougnac-grande-specialiste-de-l-inde-est-morte-a-54-ans_6805587_3382.html"
+    },
+    {
+      "id": "9d8f8bf578",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel auteur a remporté le prix Goncourt 2026 pour son roman 'L'Inconnue du quai de Javel' ?",
+      "choix": [
+        "Michel Houellebecq",
+        "Philippe Jaenada",
+        "Kamel Daoud",
+        "Jean-Paul Dubois"
+      ],
+      "reponse": 1,
+      "explication": "Philippe Jaenada a remporté le prix Goncourt 2026 en utilisant le personnage de Maigret pour élucider une affaire de 1949.",
+      "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/l-inconnue-du-quai-de-javel-prix-goncourt-2026-avec-l-aide-de-maigret-philippe-jaenada-resout-une-affaire-criminelle-vieille-de-plus-de-soixante-dix-ans_8265794.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "712b069412",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "De combien de centimes par litre la baisse des prix des carburants a-t-elle été évaluée en moyenne ?",
+      "choix": [
+        "8 centimes",
+        "12 centimes",
+        "5 centimes",
+        "20 centimes"
+      ],
+      "reponse": 1,
+      "explication": "La baisse des prix des carburants a été évaluée en moyenne à 12 centimes par litre après le déstockage des réserves stratégiques.",
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/apres-le-destockage-des-reserves-strategiques-la-baisse-des-prix-des-carburants-amorcee-dans-6-000-stations-service-selon-le-gouvernement_8265662.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "aa6462c074",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel pays a vu son Assemblée nationale, contrôlée par l'opposition, rejeter le projet de budget rectificatif 2026 ?",
+      "choix": [
+        "Le Cameroun",
+        "Le Mali",
+        "La Côte d'Ivoire",
+        "Le Sénégal"
+      ],
+      "reponse": 3,
+      "explication": "Au Sénégal, l'Assemblée nationale contrôlée par l'opposition a rejeté le projet de budget rectificatif 2026.",
+      "lien": "https://www.france24.com/fr/afrique/20261103-au-s%C3%A9n%C3%A9gal-un-budget-crucial-rejet%C3%A9-par-l-assembl%C3%A9e-nationale-pour-la-troisi%C3%A8me-fois"
+    },
+    {
+      "id": "4f50bd2447",
+      "date": "2026-11-03",
+      "type": "culture",
+      "question": "Quel célèbre économiste a popularisé le « paradoxe de l'eau et du diamant » ?",
+      "choix": [
+        "David Ricardo",
+        "John Maynard Keynes",
+        "Adam Smith",
+        "Karl Marx"
+      ],
+      "reponse": 2,
+      "explication": "Adam Smith a popularisé ce concept pour illustrer le décalage entre la valeur d'utilité et la valeur d'échange d'un bien.",
+      "lien": ""
+    },
+    {
+      "id": "733f6081e5",
+      "date": "2026-11-03",
+      "type": "culture",
+      "question": "Au cours de quel siècle le roman épistolaire a-t-il connu un immense succès ?",
+      "choix": [
+        "Le XIXe siècle",
+        "Le XVIe siècle",
+        "Le XVIIe siècle",
+        "Le XVIIIe siècle"
+      ],
+      "reponse": 3,
+      "explication": "Le roman épistolaire a connu un grand succès au XVIIIe siècle, notamment grâce à des auteurs comme Jean-Jacques Rousseau.",
+      "lien": ""
     }
   ]
 }
