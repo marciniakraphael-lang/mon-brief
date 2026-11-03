@@ -2954,6 +2954,66 @@
       "reponse": 3,
       "explication": "Le roman épistolaire a connu un grand succès au XVIIIe siècle, notamment grâce à des auteurs comme Jean-Jacques Rousseau.",
       "lien": ""
+    },
+    {
+      "id": "a8e578396c",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel montant d'aide militaire annuelle à Israël Donald Trump a-t-il annoncé vouloir couper ?",
+      "choix": [
+        "1,2 milliard de dollars",
+        "5,0 milliards de dollars",
+        "10,0 milliards de dollars",
+        "3,8 milliards de dollars"
+      ],
+      "reponse": 3,
+      "explication": "Donald Trump a annoncé sur Fox News que l'aide militaire annuelle de 3,8 milliards de dollars à Israël serait coupée à la fin de l'année.",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "8ebc0e9cad",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel surnom est souvent donné au cuivre en raison de son importance et des vols dont il fait l'objet ?",
+      "choix": [
+        "Le métal gris",
+        "L'or rouge",
+        "La mine d'argent",
+        "Le bronze précieux"
+      ],
+      "reponse": 1,
+      "explication": "Le cuivre est qualifié d'« or rouge » en raison de son rôle indispensable et de sa forte valeur qui attire les voleurs.",
+      "lien": "https://www.franceinfo.fr/monde/europe/a-la-source-du-cuivre-un-metal-indispensable-prise-vole_8266133.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "2540437c10",
+      "date": "2026-11-03",
+      "type": "actu",
+      "question": "Quel auteur a remporté le prestigieux prix Goncourt pour son ouvrage \"L'Inconnue du quai de Javel\" ?",
+      "choix": [
+        "François-Henri Désérable",
+        "Edouard Geffray",
+        "Philippe Jaenada",
+        "Laurent Nuñez"
+      ],
+      "reponse": 2,
+      "explication": "Philippe Jaenada a remporté le prix Goncourt pour son livre \"L'Inconnue du quai de Javel\".",
+      "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/direct-prix-goncourt-2026-qui-succedera-a-la-maison-vide-de-laurent-mauvignier_8264468.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "d11e390eee",
+      "date": "2026-11-03",
+      "type": "culture",
+      "question": "Au cours de quel siècle le roman épistolaire, constitué de lettres échangées entre personnages, a-t-il connu un immense succès ?",
+      "choix": [
+        "Le XIXe siècle",
+        "Le XVIIIe siècle",
+        "Le XXe siècle",
+        "Le XVIIe siècle"
+      ],
+      "reponse": 1,
+      "explication": "Le roman épistolaire a connu un immense succès au XVIIIe siècle, notamment grâce à des œuvres comme 'La Nouvelle Héloïse' de Jean-Jacques Rousseau.",
+      "lien": ""
     }
   ]
 }
