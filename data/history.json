@@ -628,6 +628,67 @@
           "contexte": "L'Inspection générale de la Police nationale (IGPN) est l'organisme saisi de manière systématique ou sur instruction de la justice pour enquêter sur les manquements ou les violences reprochés aux forces de l'ordre lors d'opérations de maintien de l'ordre ou d'interventions."
         }
       ]
+    },
+    "2026-11-04": {
+      "morning_run": "2026-11-04T12:19:10.936727+01:00",
+      "morning_items": [
+        {
+          "titre": "Treize personnes interpellées dans un braquage d’une usine de joaillerie à Besançon",
+          "lien": "https://www.franceinfo.fr/faits-divers/braquage/treize-personnes-interpellees-dans-un-braquage-d-une-usine-de-joaillerie-a-besancon_8267570.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-04T12:04:08+01:00",
+          "resume": "Treize personnes ont été interpellées à la suite du braquage d'une usine de joaillerie à Besançon. Les forces de l'ordre ont réussi à retrouver l'or dérobé, dont la quantité est estimée à plusieurs dizaines de kilos. Des bijoux, des charges explosives et des armes ont également été découverts lors des investigations menées par les enquêteurs.",
+          "contexte": "Les attaques visant des sites de fabrication ou de stockage de métaux précieux impliquent généralement des équipes criminelles organisées et lourdement armées. La rapidité des interpellations et la saisie du magot ainsi que du matériel explosif témoignent d'une mobilisation importante des services spécialisés pour endiguer ce type de grand banditisme."
+        },
+        {
+          "titre": "Au Sénégal, le débat sur les finances publiques vire au blocage institutionnel",
+          "lien": "https://www.lemonde.fr/afrique/article/2026/11/04/au-senegal-le-debat-sur-les-finances-publiques-vire-au-blocage-institutionnel_6806149_3212.html",
+          "source": "Le Monde",
+          "date": "2026-11-04T12:00:17+01:00",
+          "resume": "Le premier ministre sénégalais Ahmadou Al Aminou Mohamed Lô a essuyé un nouveau revers institutionnel mardi 3 novembre. Sa loi de finances rectificative pour 2026, conçue pour répondre aux exigences du FMI, a été rejetée par l'Assemblée nationale pour la troisième fois consécutive.",
+          "contexte": "Ce blocage institutionnel illustre les tensions entre l'exécutif et le pouvoir législatif autour de la gestion budgétaire et des réformes économiques. Les exigences des institutions financières internationales, comme le Fonds monétaire international, imposent souvent des arbitrages budgétaires difficiles qui se heurtent fréquemment aux résistances politiques locales."
+        },
+        {
+          "titre": "Midterms : des lignes de fractures persistent entre démocrates",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-des-lignes-de-fractures-persistent-entre-d%C3%A9mocrates",
+          "source": "France 24 · franceinfo Monde",
+          "date": "2026-11-04T11:57:30+01:00",
+          "resume": "Le démocrate Xavier Becerra a été élu gouverneur de Californie le mardi 3 novembre, devançant largement le républicain Steve Hilton et devenant le premier Hispanique à diriger cet État. Ces élections de mi-mandat (midterms) s'inscrivent dans un contexte de fractures persistantes chez les démocrates et de débats sur la politique anti-immigration menée par l'administration Trump. En France, la gauche y voit le signe qu'il n'y a pas de fatalité face à l'extrême droite pour 2027, tandis que le Rassemblement national rejette toute comparaison.",
+          "contexte": "Les élections de mi-mandat aux États-Unis servent traditionnellement de référendum sur la politique du président en exercice et redessinent les équilibres politiques locaux et nationaux. Les résultats et les dynamiques de ce scrutin sont scrutés à l'international, chaque camp politique y trouvant des arguments pour nourrir ses propres stratégies électorales dans la perspective des échéances à venir."
+        },
+        {
+          "titre": "Bruno Retailleau estime qu'il \"faudra une primaire\" pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle",
+          "lien": "https://www.franceinfo.fr/elections/presidentielle/pour-departager-les-quatre-principaux-candidats-de-la-droite-et-du-centre-a-l-election-presidentielle-bruno-retailleau-estime-qu-il-faudra-une-primaire_8267411.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-04T11:55:26+01:00",
+          "resume": "Bruno Retailleau a estimé qu'il sera nécessaire d'organiser une primaire en début d'année prochaine pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle. Cette proposition intervient alors qu'Edouard Philippe s'oppose à une telle consultation, qui pourrait également impliquer Gabriel Attal et David Lisnard.",
+          "contexte": "L'organisation d'une primaire au sein d'une même famille politique vise traditionnellement à désigner un candidat unique pour éviter la dispersion des voix au premier tour de l'élection présidentielle. Cependant, ce processus est souvent source de divisions internes et de désaccords stratégiques profonds entre les différents prétendants quant aux modalités du scrutin et au positionnement idéologique."
+        },
+        {
+          "titre": "L'accusé de l'assassinat terroriste du professeur Dominique Bernard renvoyé aux assises, non-lieu pour son frère et son cousin",
+          "lien": "https://www.franceinfo.fr/faits-divers/attaque-au-couteau-dans-un-lycee-a-arras/le-principal-suspect-dans-le-meurtre-du-professeur-dominique-bernard-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin_8267462.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-04T11:49:34+01:00",
+          "resume": "Mohammed Mogouchkov, principal accusé de l'assassinat terroriste du professeur Dominique Bernard, a été renvoyé aux assises par la justice. En revanche, un non-lieu a été prononcé pour son frère et son cousin, qui connaissaient sa radicalisation islamiste mais niaient toute information concernant son projet d'attentat.",
+          "contexte": "L'instruction judiciaire des affaires de terrorisme cherche à établir précisément le degré de complicité et de participation de l'entourage des auteurs présumés. La distinction opérée entre la radicalisation connue et la participation active à un projet criminel est un enjeu juridique central lors des renvois devant la cour d'assises spéciale."
+        },
+        {
+          "titre": "\"Je n'avais pas le droit de quitter Marseille\" : un enseignant raconte son assignation à résidence l'empêchant de se rendre en manifestation",
+          "lien": "https://www.franceinfo.fr/societe/manifestations/temoignage-je-n-avais-pas-le-droit-de-quitter-marseille-un-enseignant-raconte-son-assignation-a-residence-pour-l-empecher-de-manifester_8266340.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-04T11:46:57+01:00",
+          "resume": "Plusieurs dizaines de personnes ont été interdites de manifester le week-end dernier à la suite d'arrêtés pris par le ministère de l'Intérieur. Un enseignant marseillais a témoigné de son assignation à résidence l'empêchant de se rendre dans une manifestation.",
+          "contexte": "Le recours à des arrêtés d'interdiction de manifester et à des mesures d'assignation à résidence est un outil utilisé par les autorités pour maintenir l'ordre public lors de contextes contestataires tendus. Ces mesures font régulièrement l'objet de débats juridiques et politiques concernant l'équilibre entre la sécurité publique et la liberté fondamentale de manifester."
+        },
+        {
+          "titre": "Ligue des champions : le Paris Saint-Germain étrille Villarreal",
+          "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261104-ligue-des-champions-le-paris-saint-germain-%C3%A9trille-villarreal",
+          "source": "France 24",
+          "date": "2026-11-04T11:45:51+01:00",
+          "resume": "Le Paris Saint-Germain a largement battu Villarreal sur le score de 6 à 0 lors d'une rencontre de Ligue des champions. Le match était déjà largement plié après 17 minutes de jeu grâce à des buts inscrits par Neves à la 9e minute, Doué à la 12e, Mayulu à la 13e et Ruiz à la 17e.",
+          "contexte": "La Ligue des champions rassemble les meilleurs clubs européens et offre régulièrement des confrontations à forte intensité offensive. Des entames de match aussi fulgurantes permettent aux équipes de plier rapidement le suspense tactique et de gérer la suite de la rencontre en vue des prochaines échéances du calendrier."
+        }
+      ]
     }
   },
   "culture_seen": [
@@ -666,6 +727,9 @@
     "Le point Némo, le lieu le plus isolé de la planète",
     "L'origine de la date de péremption",
     "Le paradoxe de l'eau et du diamant",
-    "Le mystère du roman épistolaire"
+    "Le mystère du roman épistolaire",
+    "La stratégie collective des manchots",
+    "L'insularité inversée du Vatican",
+    "Les origines du surf moderne"
   ]
 }
