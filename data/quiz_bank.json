@@ -3119,6 +3119,111 @@
       "reponse": 1,
       "explication": "Le roman épistolaire, comme 'La Nouvelle Héloïse', utilise l'échange de lettres pour créer une illusion de réalité et multiplier les points de vue.",
       "lien": ""
+    },
+    {
+      "id": "eda18d8697",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quel homme politique Édouard Philippe a-t-il interpellé pour lui proposer un débat sur l'immigration ?",
+      "choix": [
+        "Jordan Bardella",
+        "Jean-Luc Mélenchon",
+        "François Ruffin",
+        "Emmanuel Macron"
+      ],
+      "reponse": 1,
+      "explication": "Edouard Philippe a proposé un débat sur l'immigration au leader de La France insoumise Jean-Luc Mélenchon après des accusations de calomnies racistes.",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/oui-il-y-a-un-probleme-d-integration-en-france-edouard-philippe-propose-a-jean-luc-melenchon-un-debat-sur-l-immigration_8267711.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e78f58d1e1",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quelle est la nouvelle fonction attribuée à la magistrate Valérie Delnaud ?",
+      "choix": [
+        "Garde des Sceaux et ministre de la Justice",
+        "Procureure de la République de Paris",
+        "Directrice de l'Ecole nationale de la magistrature",
+        "Présidente de l'Assemblée nationale"
+      ],
+      "reponse": 2,
+      "explication": "Valérie Delnaud a été nommée à la tête de l'Ecole nationale de la magistrature, après avoir été directrice de cabinet d'Eric Dupond-Moretti.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/04/la-magistrate-valerie-delnaud-nommee-a-la-tete-de-l-ecole-nationale-de-la-magistrature_6806232_3224.html"
+    },
+    {
+      "id": "9ba2917429",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quel parti a remporté la majorité absolue au Congrès américain lors des midterms de 2026 ?",
+      "choix": [
+        "Le parti Démocrate",
+        "Le parti Républicain",
+        "Le parti Libertarien",
+        "Le parti Vert"
+      ],
+      "reponse": 0,
+      "explication": "Les démocrates ont remporté la majorité absolue au Sénat et à la Chambre des représentants lors des élections de mi-mandat de novembre 2026.",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "821536fcda",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quels syndicats ont dénoncé les conditions d'organisation des manifestations pour la grève du 5 novembre ?",
+      "choix": [
+        "La CFE-CGC et la CFTC",
+        "UNSA et FSU",
+        "La CGT et la CFDT",
+        "FO et Solidaires"
+      ],
+      "reponse": 2,
+      "explication": "Les secrétaires généraux de la CGT (Sophie Binet) et de la CFDT ont vivement critiqué les conditions d'organisation de ces manifestations.",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/greve-du-5-novembre-cfdt-et-cgt-denoncent-les-conditions-d-organisation-des-manifestations_6806226_823448.html"
+    },
+    {
+      "id": "1da5ccdb95",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quelle institution a saisi la présidente de l'Assemblée nationale suite aux propos du député Julien Odoul ?",
+      "choix": [
+        "La CNIL",
+        "La Haute Autorité pour la transparence de la vie publique",
+        "Le Défenseur des droits",
+        "La Ciivise"
+      ],
+      "reponse": 3,
+      "explication": "La directrice de la Ciivise, Maryse Le Men-Régnier, a saisi la présidente de l'Assemblée nationale après des propos jugés inacceptables concernant les victimes de violences sexuelles.",
+      "lien": "https://www.franceinfo.fr/politique/la-ciivise-saisit-la-presidente-de-l-assemblee-nationale-apres-des-attaques-inacceptables-du-depute-rn-julien-odoul_8267735.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "218e7e7194",
+      "date": "2026-11-04",
+      "type": "culture",
+      "question": "Quel État indépendant est entièrement enclavé à l'intérieur de la ville de Rome ?",
+      "choix": [
+        "Le Vatican",
+        "Saint-Marin",
+        "Malte",
+        "Monaco"
+      ],
+      "reponse": 0,
+      "explication": "Le Vatican est l'État indépendant le plus petit du monde et possède la particularité d'être entièrement enclavé au cœur de la ville de Rome.",
+      "lien": ""
+    },
+    {
+      "id": "4d388c7203",
+      "date": "2026-11-04",
+      "type": "culture",
+      "question": "Dans quelle culture les racines profondes du surf moderne trouvent-elles principalement leur origine ?",
+      "choix": [
+        "La culture polynésienne",
+        "La culture celtique",
+        "La culture aztèque",
+        "La culture aborigène"
+      ],
+      "reponse": 0,
+      "explication": "Le surf moderne tire ses racines profondes de la culture polynésienne, et plus particulièrement d'Hawaï, où il était pratiqué comme un art royal et spirituel.",
+      "lien": ""
     }
   ]
 }

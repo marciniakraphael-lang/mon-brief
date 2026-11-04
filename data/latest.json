@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "mode": "morning",
-  "updated": "2026-11-04T12:19:10.936727+01:00",
+  "mode": "evening",
+  "updated": "2026-11-04T14:42:30.687570+01:00",
   "deja_presente": [
     {
       "titre": "Une adolescente de 15 ans contrainte de se prostituer auprès d'environ 900 clients dans le Sud-Est",
@@ -80,60 +80,76 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Treize personnes interpellées dans un braquage d’une usine de joaillerie à Besançon",
-      "lien": "https://www.franceinfo.fr/faits-divers/braquage/treize-personnes-interpellees-dans-un-braquage-d-une-usine-de-joaillerie-a-besancon_8267570.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Oui, il y a un problème d'intégration en France\", estime Edouard Philippe, qui propose à Jean-Luc Mélenchon un débat sur l'immigration",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/oui-il-y-a-un-probleme-d-integration-en-france-edouard-philippe-propose-a-jean-luc-melenchon-un-debat-sur-l-immigration_8267711.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-04T12:04:08+01:00",
-      "resume": "Treize personnes ont été interpellées à la suite du braquage d'une usine de joaillerie à Besançon. Les forces de l'ordre ont réussi à retrouver l'or dérobé, dont la quantité est estimée à plusieurs dizaines de kilos. Des bijoux, des charges explosives et des armes ont également été découverts lors des investigations menées par les enquêteurs.",
-      "contexte": "Les attaques visant des sites de fabrication ou de stockage de métaux précieux impliquent généralement des équipes criminelles organisées et lourdement armées. La rapidité des interpellations et la saisie du magot ainsi que du matériel explosif témoignent d'une mobilisation importante des services spécialisés pour endiguer ce type de grand banditisme."
+      "date": "2026-11-04T14:37:06+01:00",
+      "resume": "En déplacement à Zuydcoote dans le Nord, le candidat Horizons à la présidentielle Edouard Philippe a affirmé qu'il y avait un problème d'intégration en France. Il a également proposé un débat sur l'immigration au leader de La France insoumise Jean-Luc Mélenchon. Cette proposition intervient après des accusations de calomnies racistes formulées par ce dernier à l'encontre d'Edouard Philippe suite à son passage sur TF1.",
+      "contexte": "Le débat sur l'immigration et l'intégration occupe traditionnellement une place centrale dans le paysage politique français, particulièrement à l'approche des échéances présidentielles. Les personnalités politiques s'emparent régulièrement de ces thématiques pour marquer leurs différences idéologiques et mobiliser leurs électorats respectifs. Ces passes d'armes illustrent la polarisation des visions politiques concernant la gestion de l'immigration et la cohésion nationale."
     },
     {
-      "titre": "Au Sénégal, le débat sur les finances publiques vire au blocage institutionnel",
-      "lien": "https://www.lemonde.fr/afrique/article/2026/11/04/au-senegal-le-debat-sur-les-finances-publiques-vire-au-blocage-institutionnel_6806149_3212.html",
+      "titre": "La magistrate Valérie Delnaud nommée à la tête de l’Ecole nationale de la magistrature",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/04/la-magistrate-valerie-delnaud-nommee-a-la-tete-de-l-ecole-nationale-de-la-magistrature_6806232_3224.html",
       "source": "Le Monde",
-      "date": "2026-11-04T12:00:17+01:00",
-      "resume": "Le premier ministre sénégalais Ahmadou Al Aminou Mohamed Lô a essuyé un nouveau revers institutionnel mardi 3 novembre. Sa loi de finances rectificative pour 2026, conçue pour répondre aux exigences du FMI, a été rejetée par l'Assemblée nationale pour la troisième fois consécutive.",
-      "contexte": "Ce blocage institutionnel illustre les tensions entre l'exécutif et le pouvoir législatif autour de la gestion budgétaire et des réformes économiques. Les exigences des institutions financières internationales, comme le Fonds monétaire international, imposent souvent des arbitrages budgétaires difficiles qui se heurtent fréquemment aux résistances politiques locales."
+      "date": "2026-11-04T14:36:02+01:00",
+      "resume": "La magistrate Valérie Delnaud a été nommée à la tête de l'Ecole nationale de la magistrature. Elle occupait auparavant les fonctions de directrice de cabinet du garde des sceaux Eric Dupond-Moretti. Cette nomination marque le retour d'un profil issu du monde judiciaire à la direction de l'établissement situé à Bordeaux.",
+      "contexte": "L'École nationale de la magistrature (ENM) est l'unique institution chargée de la formation initiale des juges et des procureurs en France. Le choix de sa direction revêt un enjeu stratégique fort pour le ministère de la Justice, notamment dans un contexte de relations parfois tendues entre l'exécutif et le corps judiciaire. La nomination d'un profil doté d'une solide expérience institutionnelle vise généralement à rassurer la profession sur l'indépendance et le sérieux de la formation dispensée."
     },
     {
-      "titre": "Midterms : des lignes de fractures persistent entre démocrates",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-des-lignes-de-fractures-persistent-entre-d%C3%A9mocrates",
-      "source": "France 24 · franceinfo Monde",
-      "date": "2026-11-04T11:57:30+01:00",
-      "resume": "Le démocrate Xavier Becerra a été élu gouverneur de Californie le mardi 3 novembre, devançant largement le républicain Steve Hilton et devenant le premier Hispanique à diriger cet État. Ces élections de mi-mandat (midterms) s'inscrivent dans un contexte de fractures persistantes chez les démocrates et de débats sur la politique anti-immigration menée par l'administration Trump. En France, la gauche y voit le signe qu'il n'y a pas de fatalité face à l'extrême droite pour 2027, tandis que le Rassemblement national rejette toute comparaison.",
-      "contexte": "Les élections de mi-mandat aux États-Unis servent traditionnellement de référendum sur la politique du président en exercice et redessinent les équilibres politiques locaux et nationaux. Les résultats et les dynamiques de ce scrutin sont scrutés à l'international, chaque camp politique y trouvant des arguments pour nourrir ses propres stratégies électorales dans la perspective des échéances à venir."
+      "titre": "Les opérateurs de télécoms augmentent leurs tarifs en plein rachat de SFR",
+      "lien": "https://www.lemonde.fr/economie-francaise/article/2026/11/04/les-operateurs-de-telecoms-augmentent-leurs-tarifs-en-plein-rachat-de-sfr_6806231_1656968.html",
+      "source": "Le Monde",
+      "date": "2026-11-04T14:35:49+01:00",
+      "resume": "Les opérateurs de télécommunications Orange, SFR, Bouygues Telecom et Free ont augmenté de manière significative les tarifs de certains forfaits mobiles et abonnements Internet fixe. Cette hausse des prix intervient en plein rachat de SFR par le groupe de Patrick Drahi. L'Autorité de la concurrence examine actuellement cette situation et doit encore valider cette opération de rachat.",
+      "contexte": "Le secteur des télécommunications est soumis à une forte surveillance réglementaire afin de préserver le pouvoir d'achat des consommateurs et d'garantir une concurrence saine entre les acteurs du marché. Les opérations de concentration ou de rachat d'envergure, comme celle concernant SFR, font l'objet d'analyses approfondies pour éviter les positions dominantes injustifiées. Les hausses tarifaires en période de transition capitalistique soulèvent régulièrement des inquiétudes quant à leurs répercussions économiques sur les usagers."
     },
     {
-      "titre": "Bruno Retailleau estime qu'il \"faudra une primaire\" pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/pour-departager-les-quatre-principaux-candidats-de-la-droite-et-du-centre-a-l-election-presidentielle-bruno-retailleau-estime-qu-il-faudra-une-primaire_8267411.html#xtor=RSS-3-[lestitres]",
+      "titre": "Midterms 2026 : raz-de-marée démocrate au Congrès, les derniers résultats attendus pour la Chambre des représentants et le Sénat",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · franceinfo Monde",
+      "date": "2026-11-04T14:21:13+01:00",
+      "resume": "Les démocrates ont remporté la majorité absolue au Congrès américain lors des élections de mi-mandat (midterms) de novembre 2026, s'emparant à la fois du Sénat et de la Chambre des représentants. Cette lourde défaite pour Donald Trump fragilise sa position et fait l'objet de vives réactions, l'Iran s'étant réjoui de cette déroute électorale en affirmant que les Américains ont dit non à la guerre. Donald Trump lui-même a admis que le conflit en cours contre Téhéran engagé en février lui a probablement coûté de précieux sièges.",
+      "contexte": "Les élections de mi-mandat aux États-Unis constituent traditionnellement un test majeur pour l'administration en place et débouchent souvent sur un rééquilibrage des pouvoirs institutionnels. La perte des deux chambres du Congrès par le camp présidentiel paralyse généralement une grande partie de l'agenda politique de l'exécutif pour la seconde moitié de son mandat. En politique étrangère, l'impact des conflits armés pèse lourdement sur l'opinion publique américaine, influençant directement les arbitrages électoraux."
+    },
+    {
+      "titre": "Une cyberattaque touche des chambres froides utilisées par l'Etablissement français du sang, \"sans impact\" sur les échantillons conservés",
+      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/une-cyberattaque-touche-des-installations-frigorifiques-utilisees-par-l-etablissement-francais-du-sang-sans-impact-sur-les-echantillons-conserves_8267426.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · Le Monde",
+      "date": "2026-11-04T14:18:16+01:00",
+      "resume": "Les installations frigorifiques de l'Etablissement français du sang (EFS) ont été la cible d'une cyberattaque touchant des chambres froides gérées par un prestataire sur trois sites différents. L'incident a rapidement été maîtrisé sans entraîner de perte d'échantillons ni d'impact sanitaire. Pour l'heure, les autorités ignorent si cette attaque est liée à des actions similaires ayant visé la grande distribution en France et en Europe au cours des semaines précédentes.",
+      "contexte": "La sécurisation des infrastructures critiques et des prestataires externes est devenue un enjeu national majeur face à la multiplication des cyberattaques visant les secteurs de la santé et de l'approvisionnement. Les structures de santé, manipulant des données sensibles et des produits biologiques fragiles comme le sang, constituent des cibles privilégiées mais hautement surveillées. Ces incidents répétés rappellent la vulnérabilité des chaînes logistiques face à la cybercriminalité contemporaine."
+    },
+    {
+      "titre": "Grève du 5 novembre : CFDT et CGT dénoncent les conditions d’organisation des manifestations",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/greve-du-5-novembre-cfdt-et-cgt-denoncent-les-conditions-d-organisation-des-manifestations_6806226_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-04T14:13:21+01:00",
+      "resume": "Les secrétaires généraux de la CGT, Sophie Binet, et de la CFDT ont vivement critiqué les conditions d'organisation des manifestations prévues pour la grève du 5 novembre. La responsable de la CGT a qualifié de honte l'absence de négociation sérieuse avec la Préfecture de police concernant le parcours parisien.",
+      "contexte": "Le dialogue entre les organisations syndicales et les autorités préfectorales est une étape incontournable pour encadrer le droit de manifester tout en garantissant la sécurité publique. Les désaccords sur les tracés et les conditions de défilé sont fréquents et traduisent souvent des tensions plus larges sur le climat social et la liberté de contestation. Ces passes d'armes médiatiques visent généralement à mobiliser l'opinion avant des journées de mobilisation nationale."
+    },
+    {
+      "titre": "Finances publiques : le dérapage du déficit en 2026 officialisé",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/finances-publiques-le-derapage-du-deficit-en-2026-officialise_6806225_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-04T14:09:23+01:00",
+      "resume": "Le projet de loi de finances de fin de gestion (PLFG) pour 2026 a été présenté en conseil des ministres, officialisant un dérapage du déficit public pour cette année. Le gouvernement a néanmoins tenu à mettre en avant sa capacité à maintenir la maîtrise des dépenses tout en apportant une réponse forte face aux crises successives.",
+      "contexte": "Le suivi des finances publiques et le respect des trajectoires budgétaires font l'objet d'une surveillance étroite de la part des institutions nationales et européennes. Face à des crises économiques ou internationales répétées, les gouvernements doivent souvent arbitrer entre le soutien budgétaire d'urgence et la rigueur financière. L'officialisation d'un déficit plus élevé que prévu alimente traditionnellement les débats politiques sur la gestion des deniers publics et la fiscalité."
+    },
+    {
+      "titre": "La Ciivise saisit la présidente de l'Assemblée nationale après des \"attaques inacceptables\" du député RN Julien Odoul",
+      "lien": "https://www.franceinfo.fr/politique/la-ciivise-saisit-la-presidente-de-l-assemblee-nationale-apres-des-attaques-inacceptables-du-depute-rn-julien-odoul_8267735.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-04T11:55:26+01:00",
-      "resume": "Bruno Retailleau a estimé qu'il sera nécessaire d'organiser une primaire en début d'année prochaine pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle. Cette proposition intervient alors qu'Edouard Philippe s'oppose à une telle consultation, qui pourrait également impliquer Gabriel Attal et David Lisnard.",
-      "contexte": "L'organisation d'une primaire au sein d'une même famille politique vise traditionnellement à désigner un candidat unique pour éviter la dispersion des voix au premier tour de l'élection présidentielle. Cependant, ce processus est souvent source de divisions internes et de désaccords stratégiques profonds entre les différents prétendants quant aux modalités du scrutin et au positionnement idéologique."
+      "date": "2026-11-04T14:05:46+01:00",
+      "resume": "La directrice de la Ciivise, Maryse Le Men-Régnier, a saisi par courrier la présidente de l'Assemblée nationale après des propos tenus par le député Rassembleur national Julien Odoul. Elle qualifie ces déclarations d'inadmissibles, de propos inacceptables et d'atteinte directe à la dignité des victimes de violences sexuelles faites aux enfants.",
+      "contexte": "La Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants (Ciivise) joue un rôle central dans la protection et la reconnaissance de la parole des victimes. Les prises de position publiques des personnalités politiques concernant ses travaux ou ses membres font l'objet d'une attention médiatique soutenue en raison de la sensibilité du sujet. Les saisines de l'institution traduisent la volonté de protéger l'intégrité de la lutte contre les violences sexuelles face aux polémiques politiciennes."
     },
     {
-      "titre": "L'accusé de l'assassinat terroriste du professeur Dominique Bernard renvoyé aux assises, non-lieu pour son frère et son cousin",
-      "lien": "https://www.franceinfo.fr/faits-divers/attaque-au-couteau-dans-un-lycee-a-arras/le-principal-suspect-dans-le-meurtre-du-professeur-dominique-bernard-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin_8267462.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T11:49:34+01:00",
-      "resume": "Mohammed Mogouchkov, principal accusé de l'assassinat terroriste du professeur Dominique Bernard, a été renvoyé aux assises par la justice. En revanche, un non-lieu a été prononcé pour son frère et son cousin, qui connaissaient sa radicalisation islamiste mais niaient toute information concernant son projet d'attentat.",
-      "contexte": "L'instruction judiciaire des affaires de terrorisme cherche à établir précisément le degré de complicité et de participation de l'entourage des auteurs présumés. La distinction opérée entre la radicalisation connue et la participation active à un projet criminel est un enjeu juridique central lors des renvois devant la cour d'assises spéciale."
-    },
-    {
-      "titre": "\"Je n'avais pas le droit de quitter Marseille\" : un enseignant raconte son assignation à résidence l'empêchant de se rendre en manifestation",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/temoignage-je-n-avais-pas-le-droit-de-quitter-marseille-un-enseignant-raconte-son-assignation-a-residence-pour-l-empecher-de-manifester_8266340.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T11:46:57+01:00",
-      "resume": "Plusieurs dizaines de personnes ont été interdites de manifester le week-end dernier à la suite d'arrêtés pris par le ministère de l'Intérieur. Un enseignant marseillais a témoigné de son assignation à résidence l'empêchant de se rendre dans une manifestation.",
-      "contexte": "Le recours à des arrêtés d'interdiction de manifester et à des mesures d'assignation à résidence est un outil utilisé par les autorités pour maintenir l'ordre public lors de contextes contestataires tendus. Ces mesures font régulièrement l'objet de débats juridiques et politiques concernant l'équilibre entre la sécurité publique et la liberté fondamentale de manifester."
-    },
-    {
-      "titre": "Ligue des champions : le Paris Saint-Germain étrille Villarreal",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261104-ligue-des-champions-le-paris-saint-germain-%C3%A9trille-villarreal",
-      "source": "France 24",
-      "date": "2026-11-04T11:45:51+01:00",
-      "resume": "Le Paris Saint-Germain a largement battu Villarreal sur le score de 6 à 0 lors d'une rencontre de Ligue des champions. Le match était déjà largement plié après 17 minutes de jeu grâce à des buts inscrits par Neves à la 9e minute, Doué à la 12e, Mayulu à la 13e et Ruiz à la 17e.",
-      "contexte": "La Ligue des champions rassemble les meilleurs clubs européens et offre régulièrement des confrontations à forte intensité offensive. Des entames de match aussi fulgurantes permettent aux équipes de plier rapidement le suspense tactique et de gérer la suite de la rencontre en vue des prochaines échéances du calendrier."
+      "titre": "Au lycée Lakanal, à Sceaux, les classes préparatoires « dans le collimateur » du proviseur",
+      "lien": "https://www.lemonde.fr/campus/article/2026/11/04/au-lycee-lakanal-a-sceaux-les-classes-preparatoires-dans-le-collimateur-du-proviseur_6806224_4401467.html",
+      "source": "Le Monde",
+      "date": "2026-11-04T14:00:07+01:00",
+      "resume": "Les classes préparatoires du lycée Lakanal à Sceaux, dans les Hauts-de-Seine, se trouvent dans le collimateur de leur proviseur depuis la rentrée. L'établissement fonctionne sans proviseur adjointe attitrée et deux droits d'alerte ont été émis contre les pratiques de la direction. Le rectorat de Versailles n'a pour l'instant apporté aucune solution concrète pour sortir de cette crise.",
+      "contexte": "Les classes préparatoires aux grandes écoles (CPGE) bénéficient d'un statut prestigieux au sein du système éducatif français, rendant les tensions internes particulièrement sensibles. Les dysfonctionnements managériaux ou l'absence de dialogue entre la direction d'un établissement et les équipes pédagogiques peuvent rapidement perturber le bon fonctionnement de ces filières sélectives. L'intervention des rectorats est généralement requise pour arbitrer ces conflits et restaurer la sérénité au sein des équipes."
     }
   ],
   "culture": [
@@ -156,5 +172,111 @@
       "a_retenir": "Le surf moderne trouve ses origines dans la tradition royale et spirituelle de Hawaï."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "eda18d8697",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quel homme politique Édouard Philippe a-t-il interpellé pour lui proposer un débat sur l'immigration ?",
+      "choix": [
+        "Jordan Bardella",
+        "Jean-Luc Mélenchon",
+        "François Ruffin",
+        "Emmanuel Macron"
+      ],
+      "reponse": 1,
+      "explication": "Edouard Philippe a proposé un débat sur l'immigration au leader de La France insoumise Jean-Luc Mélenchon après des accusations de calomnies racistes.",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/oui-il-y-a-un-probleme-d-integration-en-france-edouard-philippe-propose-a-jean-luc-melenchon-un-debat-sur-l-immigration_8267711.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e78f58d1e1",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quelle est la nouvelle fonction attribuée à la magistrate Valérie Delnaud ?",
+      "choix": [
+        "Garde des Sceaux et ministre de la Justice",
+        "Procureure de la République de Paris",
+        "Directrice de l'Ecole nationale de la magistrature",
+        "Présidente de l'Assemblée nationale"
+      ],
+      "reponse": 2,
+      "explication": "Valérie Delnaud a été nommée à la tête de l'Ecole nationale de la magistrature, après avoir été directrice de cabinet d'Eric Dupond-Moretti.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/04/la-magistrate-valerie-delnaud-nommee-a-la-tete-de-l-ecole-nationale-de-la-magistrature_6806232_3224.html"
+    },
+    {
+      "id": "9ba2917429",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quel parti a remporté la majorité absolue au Congrès américain lors des midterms de 2026 ?",
+      "choix": [
+        "Le parti Démocrate",
+        "Le parti Républicain",
+        "Le parti Libertarien",
+        "Le parti Vert"
+      ],
+      "reponse": 0,
+      "explication": "Les démocrates ont remporté la majorité absolue au Sénat et à la Chambre des représentants lors des élections de mi-mandat de novembre 2026.",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "821536fcda",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quels syndicats ont dénoncé les conditions d'organisation des manifestations pour la grève du 5 novembre ?",
+      "choix": [
+        "La CFE-CGC et la CFTC",
+        "UNSA et FSU",
+        "La CGT et la CFDT",
+        "FO et Solidaires"
+      ],
+      "reponse": 2,
+      "explication": "Les secrétaires généraux de la CGT (Sophie Binet) et de la CFDT ont vivement critiqué les conditions d'organisation de ces manifestations.",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/greve-du-5-novembre-cfdt-et-cgt-denoncent-les-conditions-d-organisation-des-manifestations_6806226_823448.html"
+    },
+    {
+      "id": "1da5ccdb95",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quelle institution a saisi la présidente de l'Assemblée nationale suite aux propos du député Julien Odoul ?",
+      "choix": [
+        "La CNIL",
+        "La Haute Autorité pour la transparence de la vie publique",
+        "Le Défenseur des droits",
+        "La Ciivise"
+      ],
+      "reponse": 3,
+      "explication": "La directrice de la Ciivise, Maryse Le Men-Régnier, a saisi la présidente de l'Assemblée nationale après des propos jugés inacceptables concernant les victimes de violences sexuelles.",
+      "lien": "https://www.franceinfo.fr/politique/la-ciivise-saisit-la-presidente-de-l-assemblee-nationale-apres-des-attaques-inacceptables-du-depute-rn-julien-odoul_8267735.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "218e7e7194",
+      "date": "2026-11-04",
+      "type": "culture",
+      "question": "Quel État indépendant est entièrement enclavé à l'intérieur de la ville de Rome ?",
+      "choix": [
+        "Le Vatican",
+        "Saint-Marin",
+        "Malte",
+        "Monaco"
+      ],
+      "reponse": 0,
+      "explication": "Le Vatican est l'État indépendant le plus petit du monde et possède la particularité d'être entièrement enclavé au cœur de la ville de Rome.",
+      "lien": ""
+    },
+    {
+      "id": "4d388c7203",
+      "date": "2026-11-04",
+      "type": "culture",
+      "question": "Dans quelle culture les racines profondes du surf moderne trouvent-elles principalement leur origine ?",
+      "choix": [
+        "La culture polynésienne",
+        "La culture celtique",
+        "La culture aztèque",
+        "La culture aborigène"
+      ],
+      "reponse": 0,
+      "explication": "Le surf moderne tire ses racines profondes de la culture polynésienne, et plus particulièrement d'Hawaï, où il était pratiqué comme un art royal et spirituel.",
+      "lien": ""
+    }
+  ]
 }
