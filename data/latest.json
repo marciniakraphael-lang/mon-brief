@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "mode": "evening",
-  "updated": "2026-11-04T14:42:30.687570+01:00",
+  "updated": "2026-11-04T22:02:19.890369+01:00",
   "deja_presente": [
     {
       "titre": "Une adolescente de 15 ans contrainte de se prostituer auprès d'environ 900 clients dans le Sud-Est",
@@ -80,76 +80,60 @@
   ],
   "aujourdhui": [
     {
-      "titre": "\"Oui, il y a un problème d'intégration en France\", estime Edouard Philippe, qui propose à Jean-Luc Mélenchon un débat sur l'immigration",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/oui-il-y-a-un-probleme-d-integration-en-france-edouard-philippe-propose-a-jean-luc-melenchon-un-debat-sur-l-immigration_8267711.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T14:37:06+01:00",
-      "resume": "En déplacement à Zuydcoote dans le Nord, le candidat Horizons à la présidentielle Edouard Philippe a affirmé qu'il y avait un problème d'intégration en France. Il a également proposé un débat sur l'immigration au leader de La France insoumise Jean-Luc Mélenchon. Cette proposition intervient après des accusations de calomnies racistes formulées par ce dernier à l'encontre d'Edouard Philippe suite à son passage sur TF1.",
-      "contexte": "Le débat sur l'immigration et l'intégration occupe traditionnellement une place centrale dans le paysage politique français, particulièrement à l'approche des échéances présidentielles. Les personnalités politiques s'emparent régulièrement de ces thématiques pour marquer leurs différences idéologiques et mobiliser leurs électorats respectifs. Ces passes d'armes illustrent la polarisation des visions politiques concernant la gestion de l'immigration et la cohésion nationale."
-    },
-    {
-      "titre": "La magistrate Valérie Delnaud nommée à la tête de l’Ecole nationale de la magistrature",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/04/la-magistrate-valerie-delnaud-nommee-a-la-tete-de-l-ecole-nationale-de-la-magistrature_6806232_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-04T14:36:02+01:00",
-      "resume": "La magistrate Valérie Delnaud a été nommée à la tête de l'Ecole nationale de la magistrature. Elle occupait auparavant les fonctions de directrice de cabinet du garde des sceaux Eric Dupond-Moretti. Cette nomination marque le retour d'un profil issu du monde judiciaire à la direction de l'établissement situé à Bordeaux.",
-      "contexte": "L'École nationale de la magistrature (ENM) est l'unique institution chargée de la formation initiale des juges et des procureurs en France. Le choix de sa direction revêt un enjeu stratégique fort pour le ministère de la Justice, notamment dans un contexte de relations parfois tendues entre l'exécutif et le corps judiciaire. La nomination d'un profil doté d'une solide expérience institutionnelle vise généralement à rassurer la profession sur l'indépendance et le sérieux de la formation dispensée."
-    },
-    {
-      "titre": "Les opérateurs de télécoms augmentent leurs tarifs en plein rachat de SFR",
-      "lien": "https://www.lemonde.fr/economie-francaise/article/2026/11/04/les-operateurs-de-telecoms-augmentent-leurs-tarifs-en-plein-rachat-de-sfr_6806231_1656968.html",
-      "source": "Le Monde",
-      "date": "2026-11-04T14:35:49+01:00",
-      "resume": "Les opérateurs de télécommunications Orange, SFR, Bouygues Telecom et Free ont augmenté de manière significative les tarifs de certains forfaits mobiles et abonnements Internet fixe. Cette hausse des prix intervient en plein rachat de SFR par le groupe de Patrick Drahi. L'Autorité de la concurrence examine actuellement cette situation et doit encore valider cette opération de rachat.",
-      "contexte": "Le secteur des télécommunications est soumis à une forte surveillance réglementaire afin de préserver le pouvoir d'achat des consommateurs et d'garantir une concurrence saine entre les acteurs du marché. Les opérations de concentration ou de rachat d'envergure, comme celle concernant SFR, font l'objet d'analyses approfondies pour éviter les positions dominantes injustifiées. Les hausses tarifaires en période de transition capitalistique soulèvent régulièrement des inquiétudes quant à leurs répercussions économiques sur les usagers."
-    },
-    {
-      "titre": "Midterms 2026 : raz-de-marée démocrate au Congrès, les derniers résultats attendus pour la Chambre des représentants et le Sénat",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · franceinfo Monde",
-      "date": "2026-11-04T14:21:13+01:00",
-      "resume": "Les démocrates ont remporté la majorité absolue au Congrès américain lors des élections de mi-mandat (midterms) de novembre 2026, s'emparant à la fois du Sénat et de la Chambre des représentants. Cette lourde défaite pour Donald Trump fragilise sa position et fait l'objet de vives réactions, l'Iran s'étant réjoui de cette déroute électorale en affirmant que les Américains ont dit non à la guerre. Donald Trump lui-même a admis que le conflit en cours contre Téhéran engagé en février lui a probablement coûté de précieux sièges.",
-      "contexte": "Les élections de mi-mandat aux États-Unis constituent traditionnellement un test majeur pour l'administration en place et débouchent souvent sur un rééquilibrage des pouvoirs institutionnels. La perte des deux chambres du Congrès par le camp présidentiel paralyse généralement une grande partie de l'agenda politique de l'exécutif pour la seconde moitié de son mandat. En politique étrangère, l'impact des conflits armés pèse lourdement sur l'opinion publique américaine, influençant directement les arbitrages électoraux."
-    },
-    {
-      "titre": "Une cyberattaque touche des chambres froides utilisées par l'Etablissement français du sang, \"sans impact\" sur les échantillons conservés",
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/une-cyberattaque-touche-des-installations-frigorifiques-utilisees-par-l-etablissement-francais-du-sang-sans-impact-sur-les-echantillons-conserves_8267426.html#xtor=RSS-3-[lestitres]",
+      "titre": "La mère d'élèves suspectée d'avoir commis une agression dans une école de Nice mise en examen et placée en détention provisoire",
+      "lien": "https://www.franceinfo.fr/faits-divers/la-mere-d-eleves-suspectee-d-avoir-commis-une-agression-dans-une-ecole-de-nice-mise-en-examen-et-placee-en-detention-provisoire_8268437.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo · Le Monde",
-      "date": "2026-11-04T14:18:16+01:00",
-      "resume": "Les installations frigorifiques de l'Etablissement français du sang (EFS) ont été la cible d'une cyberattaque touchant des chambres froides gérées par un prestataire sur trois sites différents. L'incident a rapidement été maîtrisé sans entraîner de perte d'échantillons ni d'impact sanitaire. Pour l'heure, les autorités ignorent si cette attaque est liée à des actions similaires ayant visé la grande distribution en France et en Europe au cours des semaines précédentes.",
-      "contexte": "La sécurisation des infrastructures critiques et des prestataires externes est devenue un enjeu national majeur face à la multiplication des cyberattaques visant les secteurs de la santé et de l'approvisionnement. Les structures de santé, manipulant des données sensibles et des produits biologiques fragiles comme le sang, constituent des cibles privilégiées mais hautement surveillées. Ces incidents répétés rappellent la vulnérabilité des chaînes logistiques face à la cybercriminalité contemporaine."
+      "date": "2026-11-04T21:52:24+01:00",
+      "resume": "Une mère d'élèves âgée de 36 ans a été mise en examen et placée en détention provisoire à la suite d'une agression dans une école de Nice. Elle est notamment poursuivie pour \"tentatives de meurtre sur un enseignant ou tout membre du personnel travaillant dans un établissement scolaire\". Pendant sa garde à vue, elle a contesté les violences physiques tout en reconnaissant avoir actionné plusieurs fois son arme, qu'elle savait vide, et a exprimé des regrets.",
+      "contexte": "Les actes de violence au sein ou aux abords des établissements scolaires suscitent une vive émotion et appellent généralement un renforcement des mesures de sécurité pour protéger les élèves et le personnel éducatif. Cette mise en examen marque le début d'une procédure judiciaire visant à établir les responsabilités pénales exactes de la suspecte."
     },
     {
-      "titre": "Grève du 5 novembre : CFDT et CGT dénoncent les conditions d’organisation des manifestations",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/greve-du-5-novembre-cfdt-et-cgt-denoncent-les-conditions-d-organisation-des-manifestations_6806226_823448.html",
-      "source": "Le Monde",
-      "date": "2026-11-04T14:13:21+01:00",
-      "resume": "Les secrétaires généraux de la CGT, Sophie Binet, et de la CFDT ont vivement critiqué les conditions d'organisation des manifestations prévues pour la grève du 5 novembre. La responsable de la CGT a qualifié de honte l'absence de négociation sérieuse avec la Préfecture de police concernant le parcours parisien.",
-      "contexte": "Le dialogue entre les organisations syndicales et les autorités préfectorales est une étape incontournable pour encadrer le droit de manifester tout en garantissant la sécurité publique. Les désaccords sur les tracés et les conditions de défilé sont fréquents et traduisent souvent des tensions plus larges sur le climat social et la liberté de contestation. Ces passes d'armes médiatiques visent généralement à mobiliser l'opinion avant des journées de mobilisation nationale."
+      "titre": "\"Je suis tellement submergée de joie pour le futur des enfants\" : le Texas, bastion républicain historique, devient démocrate",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/je-suis-tellement-submergee-de-joie-pour-le-futur-des-enfants-le-texas-bastion-republicain-historique-devient-democrate_8268419.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde · France 24",
+      "date": "2026-11-04T21:46:38+01:00",
+      "resume": "Les élections de mi-mandat (midterms) de 2026 aux États-Unis se sont soldées par un raz-de-marée démocrate, qualifié de \"bluenami\", avec une perte de la majorité pour Donald Trump dans les deux chambres du Congrès. Le Texas, bastion républicain dirigé depuis plus de 30 ans, a basculé avec la victoire de la démocrate Gina Hinojosa face au gouverneur sortant. Donald Trump a reconnu les résultats de ce scrutin tout en réagissant sur les réseaux sociaux, tandis que son camp fait face à d'importantes divisions.",
+      "contexte": "Les élections de mi-mandat servent traditionnellement de vote sanction contre le président en exercice, permettant à l'opposition de rééquilibrer les pouvoirs institutionnels. Ce basculement historique fragilise nettement la fin du mandat de Donald Trump et pourrait fortement entraver sa capacité à faire passer ses réformes, tant sur le plan intérieur qu'international."
     },
     {
-      "titre": "Finances publiques : le dérapage du déficit en 2026 officialisé",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/finances-publiques-le-derapage-du-deficit-en-2026-officialise_6806225_823448.html",
-      "source": "Le Monde",
-      "date": "2026-11-04T14:09:23+01:00",
-      "resume": "Le projet de loi de finances de fin de gestion (PLFG) pour 2026 a été présenté en conseil des ministres, officialisant un dérapage du déficit public pour cette année. Le gouvernement a néanmoins tenu à mettre en avant sa capacité à maintenir la maîtrise des dépenses tout en apportant une réponse forte face aux crises successives.",
-      "contexte": "Le suivi des finances publiques et le respect des trajectoires budgétaires font l'objet d'une surveillance étroite de la part des institutions nationales et européennes. Face à des crises économiques ou internationales répétées, les gouvernements doivent souvent arbitrer entre le soutien budgétaire d'urgence et la rigueur financière. L'officialisation d'un déficit plus élevé que prévu alimente traditionnellement les débats politiques sur la gestion des deniers publics et la fiscalité."
-    },
-    {
-      "titre": "La Ciivise saisit la présidente de l'Assemblée nationale après des \"attaques inacceptables\" du député RN Julien Odoul",
-      "lien": "https://www.franceinfo.fr/politique/la-ciivise-saisit-la-presidente-de-l-assemblee-nationale-apres-des-attaques-inacceptables-du-depute-rn-julien-odoul_8267735.html#xtor=RSS-3-[lestitres]",
+      "titre": "Clous, aiguilles et épingles dans des bonbons d'Halloween... Des enquêtes ouvertes dans plusieurs pays d'Europe centrale, une fillette blessée en Autriche",
+      "lien": "https://www.franceinfo.fr/decouverte/halloween/clous-aiguilles-et-epingles-dans-des-bonbons-d-halloween-des-enquetes-ouvertes-dans-plusieurs-pays-d-europe-centrale-une-fillette-blessee-en-autriche_8268428.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-04T14:05:46+01:00",
-      "resume": "La directrice de la Ciivise, Maryse Le Men-Régnier, a saisi par courrier la présidente de l'Assemblée nationale après des propos tenus par le député Rassembleur national Julien Odoul. Elle qualifie ces déclarations d'inadmissibles, de propos inacceptables et d'atteinte directe à la dignité des victimes de violences sexuelles faites aux enfants.",
-      "contexte": "La Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants (Ciivise) joue un rôle central dans la protection et la reconnaissance de la parole des victimes. Les prises de position publiques des personnalités politiques concernant ses travaux ou ses membres font l'objet d'une attention médiatique soutenue en raison de la sensibilité du sujet. Les saisines de l'institution traduisent la volonté de protéger l'intégrité de la lutte contre les violences sexuelles face aux polémiques politiciennes."
+      "date": "2026-11-04T21:46:29+01:00",
+      "resume": "Des objets dangereux, tels que des clous, des aiguilles et des épingles, ont été dissimulés dans des bonbons d'Halloween distribués dans plusieurs pays d'Europe centrale. Des enquêtes ont été ouvertes en Autriche, en Allemagne, en Hongrie et en Pologne, et une fillette a notamment été blessée en Autriche. La police autrichienne souligne un mode opératoire comparable entre ces affaires, sans qu'un lien formel n'ait été établi pour le moment.",
+      "contexte": "Ce type d'incident inquiète particulièrement les autorités et les familles lors des célébrations de fin d'octobre, en raison du risque élevé pour la sécurité des enfants. Les enquêtes cherchent à déterminer s'il s'agit d'actes isolés ou d'une campagne concertée orchestrée via les réseaux sociaux."
     },
     {
-      "titre": "Au lycée Lakanal, à Sceaux, les classes préparatoires « dans le collimateur » du proviseur",
-      "lien": "https://www.lemonde.fr/campus/article/2026/11/04/au-lycee-lakanal-a-sceaux-les-classes-preparatoires-dans-le-collimateur-du-proviseur_6806224_4401467.html",
+      "titre": "Procès de « l’inconnue de l’A10 » : la mère d’Inass Touloub s’effondre après la diffusion des photos de l’autopsie de sa fille",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/04/proces-de-l-inconnue-de-l-a10-la-mere-d-inass-touloub-s-effondre-apres-la-diffusion-des-photos-de-l-autopsie-de-sa-fille_6806428_3224.html",
       "source": "Le Monde",
-      "date": "2026-11-04T14:00:07+01:00",
-      "resume": "Les classes préparatoires du lycée Lakanal à Sceaux, dans les Hauts-de-Seine, se trouvent dans le collimateur de leur proviseur depuis la rentrée. L'établissement fonctionne sans proviseur adjointe attitrée et deux droits d'alerte ont été émis contre les pratiques de la direction. Le rectorat de Versailles n'a pour l'instant apporté aucune solution concrète pour sortir de cette crise.",
-      "contexte": "Les classes préparatoires aux grandes écoles (CPGE) bénéficient d'un statut prestigieux au sein du système éducatif français, rendant les tensions internes particulièrement sensibles. Les dysfonctionnements managériaux ou l'absence de dialogue entre la direction d'un établissement et les équipes pédagogiques peuvent rapidement perturber le bon fonctionnement de ces filières sélectives. L'intervention des rectorats est généralement requise pour arbitrer ces conflits et restaurer la sérénité au sein des équipes."
+      "date": "2026-11-04T21:20:41+01:00",
+      "resume": "Le procès de l'affaire dite de l'« inconnue de l'A10 » a connu une suspension après le malaise de la mère de la victime, Halima El Balkhti, consécutif à la diffusion des photos d'autopsie. Une médecin légiste a exposé les multiples lésions, brûlures, morsures et fractures relevées sur le corps de la fillette de 4 ans, abandonnée en 1987 en bordure de l'autoroute A10, décédée à la suite d'une lente agonie.",
+      "contexte": "Ce procès de personnalités impliquées dans des affaires anciennes ravive l'intérêt public pour des cold cases emblématiques, illustrant les progrès de la médecine légale et des enquêtes criminelles pour faire éclater la vérité des décennies plus tard. Les audiences éprouvantes mettent en lumière la gravité des faits de maltraitance infantile jugés lors de ces assises."
+    },
+    {
+      "titre": "Visite exclusive de l'une des plus grandes plateformes d'extraction de gaz au monde gérée par Total",
+      "lien": "https://www.franceinfo.fr/economie/visite-exclusive-de-l-une-des-plus-grandes-plateformes-d-extraction-de-gaz-au-monde-geree-par-total_8268395.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-04T21:15:51+01:00",
+      "resume": "Une visite exclusive a permis de découvrir l'une des plus grandes plateformes d'extraction de gaz au monde, gérée par TotalEnergies au Nigeria. Ce reportage met en lumière le quotidien des employés travaillant plusieurs semaines loin de leur foyer pour alimenter les foyers en gaz naturel.",
+      "contexte": "L'exploitation des ressources énergétiques en Afrique représente un enjeu économique majeur pour les multinationales et les pays producteurs, tout en étant au cœur des débats sur l'approvisionnement énergétique mondial et la transition écologique. Ces infrastructures gigantesques nécessitent une logistique complexe et des conditions de travail très particulières pour les salariés isolés sur site."
+    },
+    {
+      "titre": "Qui est Abdul El-Sayed le premier sénateur musulman des États-Unis ?",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/qui-est-abdul-el-sayed-le-premier-senateur-musulman-des-etats-unis_8268410.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde · France 24",
+      "date": "2026-11-04T20:56:12+01:00",
+      "resume": "Abdul El-Sayed, médecin de 42 ans né aux États-Unis de parents égyptiens et membre de l'aile gauche du parti démocrate, a été élu sénateur du Michigan lors des élections de mi-mandat. Il devient ainsi le premier sénateur musulman de l'histoire des États-Unis, suscitant de fortes attentes parmi les électeurs de Détroit.",
+      "contexte": "L'élection de personnalités issues de la diversité à des postes politiques de premier plan reflète l'évolution démographique et sociologique de l'électorat américain, particulièrement dans des États industriels clés comme le Michigan. Les attentes des électeurs se portent généralement sur des politiques sociales et économiques inclusives."
+    },
+    {
+      "titre": "TGV, TER, RER... La SNCF dévoile son plan de circulation à la veille de la mobilisation du 5 novembre",
+      "lien": "https://www.franceinfo.fr/economie/greve/greve/tgv-ter-rer-la-sncf-devoile-son-plan-de-circulation-a-la-veille-de-la-mobilisation-du-5-novembre_8268011.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-04T20:51:08+01:00",
+      "resume": "À la veille de la mobilisation nationale du 5 novembre, la SNCF a dévoilé son plan de circulation prévoyant le maintien d'au moins neuf TGV sur 10, bien que certaines lignes régionales et TER connaissent des perturbations plus importantes.",
+      "contexte": "Les prévisions de trafic permettent d'anticiper l'impact des mouvements sociaux sur la mobilité des usagers et de limiter la désorganisation des transports du quotidien. Les grèves et manifestations nécessitent une coordination étroite entre les opérateurs ferroviaires et les autorités pour informer au mieux les voyageurs."
     }
   ],
   "culture": [
@@ -174,108 +158,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "eda18d8697",
+      "id": "70ce4b1232",
       "date": "2026-11-04",
       "type": "actu",
-      "question": "Quel homme politique Édouard Philippe a-t-il interpellé pour lui proposer un débat sur l'immigration ?",
+      "question": "Quelle est la principale accusation portée contre la mère d'élèves après l'agression dans une école de Nice ?",
       "choix": [
-        "Jordan Bardella",
-        "Jean-Luc Mélenchon",
-        "François Ruffin",
-        "Emmanuel Macron"
-      ],
-      "reponse": 1,
-      "explication": "Edouard Philippe a proposé un débat sur l'immigration au leader de La France insoumise Jean-Luc Mélenchon après des accusations de calomnies racistes.",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/oui-il-y-a-un-probleme-d-integration-en-france-edouard-philippe-propose-a-jean-luc-melenchon-un-debat-sur-l-immigration_8267711.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "e78f58d1e1",
-      "date": "2026-11-04",
-      "type": "actu",
-      "question": "Quelle est la nouvelle fonction attribuée à la magistrate Valérie Delnaud ?",
-      "choix": [
-        "Garde des Sceaux et ministre de la Justice",
-        "Procureure de la République de Paris",
-        "Directrice de l'Ecole nationale de la magistrature",
-        "Présidente de l'Assemblée nationale"
-      ],
-      "reponse": 2,
-      "explication": "Valérie Delnaud a été nommée à la tête de l'Ecole nationale de la magistrature, après avoir été directrice de cabinet d'Eric Dupond-Moretti.",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/04/la-magistrate-valerie-delnaud-nommee-a-la-tete-de-l-ecole-nationale-de-la-magistrature_6806232_3224.html"
-    },
-    {
-      "id": "9ba2917429",
-      "date": "2026-11-04",
-      "type": "actu",
-      "question": "Quel parti a remporté la majorité absolue au Congrès américain lors des midterms de 2026 ?",
-      "choix": [
-        "Le parti Démocrate",
-        "Le parti Républicain",
-        "Le parti Libertarien",
-        "Le parti Vert"
-      ],
-      "reponse": 0,
-      "explication": "Les démocrates ont remporté la majorité absolue au Sénat et à la Chambre des représentants lors des élections de mi-mandat de novembre 2026.",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "821536fcda",
-      "date": "2026-11-04",
-      "type": "actu",
-      "question": "Quels syndicats ont dénoncé les conditions d'organisation des manifestations pour la grève du 5 novembre ?",
-      "choix": [
-        "La CFE-CGC et la CFTC",
-        "UNSA et FSU",
-        "La CGT et la CFDT",
-        "FO et Solidaires"
-      ],
-      "reponse": 2,
-      "explication": "Les secrétaires généraux de la CGT (Sophie Binet) et de la CFDT ont vivement critiqué les conditions d'organisation de ces manifestations.",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/greve-du-5-novembre-cfdt-et-cgt-denoncent-les-conditions-d-organisation-des-manifestations_6806226_823448.html"
-    },
-    {
-      "id": "1da5ccdb95",
-      "date": "2026-11-04",
-      "type": "actu",
-      "question": "Quelle institution a saisi la présidente de l'Assemblée nationale suite aux propos du député Julien Odoul ?",
-      "choix": [
-        "La CNIL",
-        "La Haute Autorité pour la transparence de la vie publique",
-        "Le Défenseur des droits",
-        "La Ciivise"
+        "Vol à main armée dans un établissement scolaire",
+        "Menaces de mort sans usage d'arme",
+        "Dégradation de biens publics et séquestration",
+        "Tentatives de meurtre sur un enseignant ou un membre du personnel"
       ],
       "reponse": 3,
-      "explication": "La directrice de la Ciivise, Maryse Le Men-Régnier, a saisi la présidente de l'Assemblée nationale après des propos jugés inacceptables concernant les victimes de violences sexuelles.",
-      "lien": "https://www.franceinfo.fr/politique/la-ciivise-saisit-la-presidente-de-l-assemblee-nationale-apres-des-attaques-inacceptables-du-depute-rn-julien-odoul_8267735.html#xtor=RSS-3-[lestitres]"
+      "explication": "Elle est poursuivie pour tentatives de meurtre sur un enseignant ou tout membre du personnel travaillant dans un établissement scolaire.",
+      "lien": "https://www.franceinfo.fr/faits-divers/la-mere-d-eleves-suspectee-d-avoir-commis-une-agression-dans-une-ecole-de-nice-mise-en-examen-et-placee-en-detention-provisoire_8268437.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "218e7e7194",
+      "id": "8c315300a8",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quel État américain traditionnellement républicain a basculé chez les démocrates lors des élections de mi-mandat de 2026 ?",
+      "choix": [
+        "Le Michigan",
+        "L'Ohio",
+        "La Floride",
+        "Le Texas"
+      ],
+      "reponse": 3,
+      "explication": "Le Texas, bastion républicain dirigé depuis plus de 30 ans, a basculé avec la victoire de la démocrate Gina Hinojosa.",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/je-suis-tellement-submergee-de-joie-pour-le-futur-des-enfants-le-texas-bastion-republicain-historique-devient-democrate_8268419.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "e28512b342",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quels objets dangereux ont été découverts dissimulés dans des bonbons d'Halloween en Europe centrale ?",
+      "choix": [
+        "Des substances chimiques toxiques",
+        "De petites piles bouton",
+        "Des morceaux de verre pilé",
+        "Des clous, des aiguilles et des épingles"
+      ],
+      "reponse": 3,
+      "explication": "Des objets dangereux, tels que des clous, des aiguilles et des épingles, ont été dissimulés dans des bonbons d'Halloween.",
+      "lien": "https://www.franceinfo.fr/decouverte/halloween/clous-aiguilles-et-epingles-dans-des-bonbons-d-halloween-des-enquetes-ouvertes-dans-plusieurs-pays-d-europe-centrale-une-fillette-blessee-en-autriche_8268428.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "c408253915",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quelle particularité historique concerne l'élection d'Abdul El-Sayed au poste de sénateur du Michigan ?",
+      "choix": [
+        "Il a remporté l'élection avec 100% des voix",
+        "Il est le plus jeune sénateur de l'histoire du pays",
+        "Il est le premier sénateur musulman de l'histoire des États-Unis",
+        "Il est le premier médecin à siéger au Congrès"
+      ],
+      "reponse": 2,
+      "explication": "Abdul El-Sayed devient ainsi le premier sénateur musulman de l'histoire des États-Unis.",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/qui-est-abdul-el-sayed-le-premier-senateur-musulman-des-etats-unis_8268410.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "2ccca4ff02",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quel était l'objectif du plan de circulation dévoilé par la SNCF pour la mobilisation du 5 novembre ?",
+      "choix": [
+        "La suppression de l'ensemble des TER",
+        "La gratuité de tous les billets de train",
+        "Le maintien d'au moins neuf TGV sur 10",
+        "L'arrêt total du trafic ferroviaire national"
+      ],
+      "reponse": 2,
+      "explication": "La SNCF a dévoilé un plan de circulation prévoyant le maintien d'au moins neuf TGV sur 10 malgré la mobilisation.",
+      "lien": "https://www.franceinfo.fr/economie/greve/greve/tgv-ter-rer-la-sncf-devoile-son-plan-de-circulation-a-la-veille-de-la-mobilisation-du-5-novembre_8268011.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "19968cf8f7",
       "date": "2026-11-04",
       "type": "culture",
-      "question": "Quel État indépendant est entièrement enclavé à l'intérieur de la ville de Rome ?",
+      "question": "Comment s'appelle la formation en colonie très serrée adoptée par les manchots empereurs pour affronter le froid ?",
       "choix": [
-        "Le Vatican",
-        "Saint-Marin",
-        "Malte",
-        "Monaco"
+        "La phalange",
+        "Le rempart",
+        "La meute",
+        "La tortue"
       ],
-      "reponse": 0,
-      "explication": "Le Vatican est l'État indépendant le plus petit du monde et possède la particularité d'être entièrement enclavé au cœur de la ville de Rome.",
+      "reponse": 3,
+      "explication": "Au sein de cette formation, appelée la tortue, les individus se relaient constamment pour occuper le centre plus chaud.",
       "lien": ""
     },
     {
-      "id": "4d388c7203",
+      "id": "d9fad3cea9",
       "date": "2026-11-04",
       "type": "culture",
-      "question": "Dans quelle culture les racines profondes du surf moderne trouvent-elles principalement leur origine ?",
+      "question": "Quelle est la particularité géographique de l'État du Vatican ?",
       "choix": [
-        "La culture polynésienne",
-        "La culture celtique",
-        "La culture aztèque",
-        "La culture aborigène"
+        "C'est un archipel artificiel au large de l'Italie",
+        "Il est situé sur une île de la Méditerranée",
+        "Il est entièrement enclavé à l'intérieur de la ville de Rome",
+        "Il partage ses frontières uniquement avec la Suisse"
       ],
-      "reponse": 0,
-      "explication": "Le surf moderne tire ses racines profondes de la culture polynésienne, et plus particulièrement d'Hawaï, où il était pratiqué comme un art royal et spirituel.",
+      "reponse": 2,
+      "explication": "Sa particularité géographique est d'être entièrement enclavé à l'intérieur de la ville de Rome, en Italie.",
       "lien": ""
     }
   ]

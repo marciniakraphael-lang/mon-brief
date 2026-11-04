@@ -3224,6 +3224,111 @@
       "reponse": 0,
       "explication": "Le surf moderne tire ses racines profondes de la culture polynésienne, et plus particulièrement d'Hawaï, où il était pratiqué comme un art royal et spirituel.",
       "lien": ""
+    },
+    {
+      "id": "70ce4b1232",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quelle est la principale accusation portée contre la mère d'élèves après l'agression dans une école de Nice ?",
+      "choix": [
+        "Vol à main armée dans un établissement scolaire",
+        "Menaces de mort sans usage d'arme",
+        "Dégradation de biens publics et séquestration",
+        "Tentatives de meurtre sur un enseignant ou un membre du personnel"
+      ],
+      "reponse": 3,
+      "explication": "Elle est poursuivie pour tentatives de meurtre sur un enseignant ou tout membre du personnel travaillant dans un établissement scolaire.",
+      "lien": "https://www.franceinfo.fr/faits-divers/la-mere-d-eleves-suspectee-d-avoir-commis-une-agression-dans-une-ecole-de-nice-mise-en-examen-et-placee-en-detention-provisoire_8268437.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "8c315300a8",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quel État américain traditionnellement républicain a basculé chez les démocrates lors des élections de mi-mandat de 2026 ?",
+      "choix": [
+        "Le Michigan",
+        "L'Ohio",
+        "La Floride",
+        "Le Texas"
+      ],
+      "reponse": 3,
+      "explication": "Le Texas, bastion républicain dirigé depuis plus de 30 ans, a basculé avec la victoire de la démocrate Gina Hinojosa.",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/je-suis-tellement-submergee-de-joie-pour-le-futur-des-enfants-le-texas-bastion-republicain-historique-devient-democrate_8268419.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "e28512b342",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quels objets dangereux ont été découverts dissimulés dans des bonbons d'Halloween en Europe centrale ?",
+      "choix": [
+        "Des substances chimiques toxiques",
+        "De petites piles bouton",
+        "Des morceaux de verre pilé",
+        "Des clous, des aiguilles et des épingles"
+      ],
+      "reponse": 3,
+      "explication": "Des objets dangereux, tels que des clous, des aiguilles et des épingles, ont été dissimulés dans des bonbons d'Halloween.",
+      "lien": "https://www.franceinfo.fr/decouverte/halloween/clous-aiguilles-et-epingles-dans-des-bonbons-d-halloween-des-enquetes-ouvertes-dans-plusieurs-pays-d-europe-centrale-une-fillette-blessee-en-autriche_8268428.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "c408253915",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quelle particularité historique concerne l'élection d'Abdul El-Sayed au poste de sénateur du Michigan ?",
+      "choix": [
+        "Il a remporté l'élection avec 100% des voix",
+        "Il est le plus jeune sénateur de l'histoire du pays",
+        "Il est le premier sénateur musulman de l'histoire des États-Unis",
+        "Il est le premier médecin à siéger au Congrès"
+      ],
+      "reponse": 2,
+      "explication": "Abdul El-Sayed devient ainsi le premier sénateur musulman de l'histoire des États-Unis.",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/qui-est-abdul-el-sayed-le-premier-senateur-musulman-des-etats-unis_8268410.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "2ccca4ff02",
+      "date": "2026-11-04",
+      "type": "actu",
+      "question": "Quel était l'objectif du plan de circulation dévoilé par la SNCF pour la mobilisation du 5 novembre ?",
+      "choix": [
+        "La suppression de l'ensemble des TER",
+        "La gratuité de tous les billets de train",
+        "Le maintien d'au moins neuf TGV sur 10",
+        "L'arrêt total du trafic ferroviaire national"
+      ],
+      "reponse": 2,
+      "explication": "La SNCF a dévoilé un plan de circulation prévoyant le maintien d'au moins neuf TGV sur 10 malgré la mobilisation.",
+      "lien": "https://www.franceinfo.fr/economie/greve/greve/tgv-ter-rer-la-sncf-devoile-son-plan-de-circulation-a-la-veille-de-la-mobilisation-du-5-novembre_8268011.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "19968cf8f7",
+      "date": "2026-11-04",
+      "type": "culture",
+      "question": "Comment s'appelle la formation en colonie très serrée adoptée par les manchots empereurs pour affronter le froid ?",
+      "choix": [
+        "La phalange",
+        "Le rempart",
+        "La meute",
+        "La tortue"
+      ],
+      "reponse": 3,
+      "explication": "Au sein de cette formation, appelée la tortue, les individus se relaient constamment pour occuper le centre plus chaud.",
+      "lien": ""
+    },
+    {
+      "id": "d9fad3cea9",
+      "date": "2026-11-04",
+      "type": "culture",
+      "question": "Quelle est la particularité géographique de l'État du Vatican ?",
+      "choix": [
+        "C'est un archipel artificiel au large de l'Italie",
+        "Il est situé sur une île de la Méditerranée",
+        "Il est entièrement enclavé à l'intérieur de la ville de Rome",
+        "Il partage ses frontières uniquement avec la Suisse"
+      ],
+      "reponse": 2,
+      "explication": "Sa particularité géographique est d'être entièrement enclavé à l'intérieur de la ville de Rome, en Italie.",
+      "lien": ""
     }
   ]
 }
