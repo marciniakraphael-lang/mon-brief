@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "mode": "evening",
-  "updated": "2026-11-05T14:55:20.655709+01:00",
+  "updated": "2026-11-05T22:19:31.331162+01:00",
   "deja_presente": [
     {
       "titre": "Treize personnes interpellées dans un braquage d’une usine de joaillerie à Besançon",
@@ -136,60 +136,84 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Le point sur la mobilisation du 5 novembre",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-le-point-sur-la-mobilisation-du-5-novembre",
-      "source": "France 24 · franceinfo · Le Monde",
-      "date": "2026-11-05T14:42:06+01:00",
-      "resume": "Une journée de grève nationale et de manifestations s'est déroulée le 5 novembre en France, mobilisant des salariés, des fonctionnaires, des syndicats et des lycéens, avec notamment des blocages comme au lycée Le Corbusier à Aubervilliers. Le ministère de l'Intérieur a dénombré 270 000 manifestants répartis dans 180 cortèges à travers le pays, tandis que la CGT en a recensé 250 000 dans plus de 73 villes. La secrétaire générale de la CGT, Sophie Binet, a affirmé avant le départ du cortège parisien que la mobilisation ne cesserait qu'en cas de réponse aux revendications.",
-      "contexte": "Ce type de mouvement social traduit généralement un mécontentement face aux réformes gouvernementales, au pouvoir d'achat ou aux conditions de travail. Les grèves interprofessionnelles visent à peser sur les décisions politiques et à obtenir des revalorisations salariales ou des modifications de projets de loi. La confrontation des chiffres entre les autorités et les syndicats est un classique de ce genre d'événement, chaque camp cherchant à légitimer ou minimiser l'ampleur de la contestation."
-    },
-    {
-      "titre": "EN DIRECT, midterms 2026 : la guerre en Iran fracture le camp Trump, une élection qui pourrait être historique dans le Mississippi",
-      "lien": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-midterms-2026-la-guerre-en-iran-fracture-le-camp-trump-une-election-qui-pourrait-etre-historique-dans-le-mississippi_6805528_3210.html",
-      "source": "Le Monde · franceinfo Monde",
-      "date": "2026-11-05T14:35:52+01:00",
-      "resume": "À la suite de la défaite des républicains aux élections de mi-mandat (midterms), des divisions apparaissent au sein du parti, le vice-président J.D. Vance attribuant ce revers en grande partie à la guerre en Iran. Lors de sa première apparition publique depuis ce scrutin, Donald Trump a éludé la défaite politique en vantant auprès des journalistes sa nouvelle salle de bal à la Maison Blanche. Par ailleurs, dans l'État du Mississippi, le démocrate Scott Colom pourrait devenir le premier sénateur noir depuis la Reconstruction.",
-      "contexte": "Les élections de mi-mandat aux États-Unis sanctionnent souvent l'action du pouvoir en place et peuvent fracturer les majorités parlementaires à l'approche de la fin des mandats présidentiels. Les désaccords sur la politique étrangère, comme les conflits au Moyen-Orient, sont fréquemment source de tensions internes pour les partis politiques américains. L'accès possible d'un candidat démocrate afro-américain dans un État traditionnellement conservateur comme le Mississippi représente un enjeu symbolique fort lié à l'histoire électorale locale."
-    },
-    {
-      "titre": "Sabotage de câbles en mer Baltique : un capitaine russe et un membre d’équipage condamnés en Finlande",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/05/sabotage-de-cables-en-mer-baltique-un-capitaine-russe-et-un-membre-d-equipage-condamnes-en-finlande_6806868_3210.html",
+      "titre": "Le ciel européen en état d’alerte après des menaces visant une vingtaine de vols commerciaux",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/05/le-ciel-europeen-en-etat-d-alerte-apres-des-menaces-visant-une-vingtaine-de-vols-commerciaux_6807344_3234.html",
       "source": "Le Monde",
-      "date": "2026-11-05T14:01:30+01:00",
-      "resume": "Un tribunal d'Helsinki a condamné jeudi un capitaine russe et un membre d'équipage à des peines de prison pour dégradation aggravée et entrave aggravée aux télécommunications. Les marins étaient soupçonnés d'avoir endommagé deux câbles de communication sous-marins en mer Baltique en décembre 2025 en utilisant l'ancre de leur navire.",
-      "contexte": "La sécurité des infrastructures sous-marines, comme les câbles de télécommunications et les gazoducs en mer Baltique, est devenue une préoccupation majeure pour les pays européens riverains, en particulier dans un contexte de tensions accrues avec la Russie. Ce type d'incident, qu'il soit accidentel ou intentionnel, met en lumière la vulnérabilité des réseaux de communication mondiaux face au trafic maritime. Les enquêtes judiciaires et les condamnations de ce type visent à dissuader les actes de sabotage ou la négligence en zone maritime sensible."
+      "date": "2026-11-05T21:57:06+01:00",
+      "resume": "Plusieurs pays européens, dont la France, ont dû déployer leur armée de l'air pour escorter une vingtaine de vols commerciaux ciblés par des alertes à la bombe. Cette opération coordonnée a mis le ciel européen en état d'alerte, suggérant une menace organisée visant le transport aérien.",
+      "contexte": "Les alertes à la bombe contre le transport aérien sont un moyen courant pour déstabiliser le trafic et créer un sentiment d'insécurité à grande échelle. Bien que ces menaces soient souvent des canulars, elles imposent des protocoles de sécurité extrêmement coûteux et complexes pour les autorités nationales."
     },
     {
-      "titre": "Des millions d'euros volés, une attaque inédite, une enquête ouverte... Ce que l'on sait du piratage du Crédit mutuel Arkéa",
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-millions-d-euros-voles-une-attaque-inedite-et-une-enquete-ouverte-ce-que-l-on-sait-du-piratage-du-credit-mutuel-arkea_8269124.html#xtor=RSS-3-[lestitres]",
+      "titre": "L'Olympique lyonnais accroche la Real Sociedad en Ligue Europa, pour sa première sans Paulo Fonseca",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-olympique-lyonnais-accroche-la-real-sociedad-en-ligue-europa-au-bout-d-un-duel-aprement-dispute_8269802.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-05T13:51:03+01:00",
-      "resume": "Le groupe bancaire Crédit mutuel Arkéa a été la cible d'une attaque informatique sophistiquée provenant de l'extérieur, entraînant le vol de millions d'euros sans toutefois affecter les comptes de ses clients. Une enquête a été ouverte pour identifier les auteurs, mais le mode opératoire précis reste pour l'instant inconnu.",
-      "contexte": "Les cyberattaques ciblant les institutions financières se multiplient, exploitant des failles informatiques pour dérober des fonds ou paralyser des services. Les banques investissent massivement dans la cybersécurité pour protéger les données et l'argent de leurs clients, bien que certaines attaques sophistiquées parviennent parfois à contourner ces défenses. L'opacité initiale entoure souvent ces affaires le temps que les enquêteurs fassent la lumière sur l'origine et la méthode des pirates."
+      "date": "2026-11-05T21:56:04+01:00",
+      "resume": "Pour son premier match sans l'entraîneur Paulo Fonseca, l'Olympique lyonnais a obtenu un match nul contre la Real Sociedad lors d'une rencontre de Ligue Europa jeudi à San Sebastian. Le joueur Corentin Tolisso a inscrit le but égalisateur pour le club français.",
+      "contexte": "Le départ d'un entraîneur principal en cours de saison est une période délicate pour un club de football, nécessitant une réorganisation tactique rapide. Ce résultat permet à Lyon de maintenir une dynamique compétitive sur la scène européenne malgré le changement de direction technique."
     },
     {
-      "titre": "Les six gravures de Picasso volées dans un restaurant près de Cannes ont été retrouvées un mois plus tard",
-      "lien": "https://www.lemonde.fr/culture/article/2026/11/05/les-six-gravures-de-picasso-volees-dans-un-restaurant-pres-de-cannes-ont-ete-retrouvees-un-mois-plus-tard_6806863_3246.html",
+      "titre": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est \"globalement bien déroulée\", rapporte le ministère de l'Intérieur, qui fait état de 448 interpellations",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T21:53:55+01:00",
+      "resume": "La journée de mobilisation du 5 novembre en France a rassemblé entre 575 000 et 1,6 million de personnes selon les sources. Si le ministère de l'Intérieur a qualifié le déroulement des cortèges de globalement satisfaisant, des tensions ont été observées dans plusieurs villes comme Paris, Lyon et Strasbourg. À Strasbourg, le préfet a annoncé saisir la justice après qu'un mannequin représentant un CRS a été brûlé lors du défilé.",
+      "contexte": "Ces manifestations s'inscrivent dans un contexte de forte tension sociale en France, où les cortèges servent de moyen d'expression contre les politiques gouvernementales. L'usage de symboles violents, comme le brûlage d'effigies, cristallise les oppositions entre les manifestants et les forces de l'ordre, entraînant systématiquement des réponses judiciaires et politiques."
+    },
+    {
+      "titre": "\"C'est une hérésie\" : enquête sur le nouveau logiciel de l'exécutif pour surveiller les réseaux, qui peine à repérer les vidéos virales sur TikTok",
+      "lien": "https://www.franceinfo.fr/internet/c-est-une-heresie-enquete-sur-le-nouveau-logiciel-de-l-executif-pour-surveiller-les-reseaux-qui-peine-a-reperer-les-videos-virales-sur-tiktok_8269832.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T21:49:42+01:00",
+      "resume": "Le gouvernement français fait face à des critiques concernant son nouveau logiciel de surveillance des réseaux sociaux, jugé moins performant que le précédent pour détecter les vidéos virales sur TikTok. Cette faille technique complique le travail des forces de l'ordre pour anticiper les mouvements lors des périodes de contestation sociale.",
+      "contexte": "La surveillance numérique est devenue un enjeu majeur pour les États lors des crises sociales, où les réseaux sociaux servent à la fois d'outils d'organisation et de diffusion d'images de violences. L'inefficacité des outils technologiques peut retarder la réponse policière face à des événements se propageant très rapidement en ligne."
+    },
+    {
+      "titre": "Les coûts cachés des mutuelles : comment les courtiers font grimper vos cotisations",
+      "lien": "https://www.franceinfo.fr/economie/les-couts-caches-des-mutuelles-comment-les-courtiers-font-grimper-vos-cotisations_8269862.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T21:48:26+01:00",
+      "resume": "Une enquête révèle que les cotisations des mutuelles santé ont augmenté de 40% depuis 2011, une hausse en partie alimentée par les commissions versées aux courtiers. Ces intermédiaires, chargés de vendre les contrats, captent une part significative des sommes versées par les assurés au lieu qu'elles soient intégralement dédiées au remboursement des soins.",
+      "contexte": "Le coût de la santé est une préoccupation majeure pour les ménages, alors que le système de protection sociale subit des pressions budgétaires. La complexité du marché des complémentaires santé rend parfois difficile la compréhension des tarifs et des frais de gestion cachés pour les particuliers."
+    },
+    {
+      "titre": "Au Paraguay, le président Santiago Peña annonce sa démission dans la foulée d'une crise bancaire",
+      "lien": "https://www.franceinfo.fr/monde/ameriques/au-paraguay-le-president-santiago-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire_8269847.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T21:27:05+01:00",
+      "resume": "Le président du Paraguay, Santiago Peña, a annoncé sa démission dans un contexte de crise financière majeure. Cette décision survient 48 heures après que la Banque centrale a placé sous tutelle la banque Ueno, entraînant le gel temporaire des dépôts de près de 3 millions de clients.",
+      "contexte": "Les crises bancaires dans les pays émergents peuvent rapidement entraîner des déstabilisations politiques, la confiance des citoyens envers leurs institutions étant directement liée à la sécurité de leur épargne. La démission du chef de l'État illustre la pression exercée par l'opinion publique face à un risque de faillite systémique."
+    },
+    {
+      "titre": "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
+      "lien": "https://www.franceinfo.fr/monde/iran/condamnees-en-iran-l-une-a-25-ans-de-prison-l-autre-risque-l-execution_8269721.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-05T21:00:02+01:00",
+      "resume": "Deux femmes, Taraneh et Romina, ont été lourdement condamnées par la justice iranienne suite aux manifestations de janvier 2026 à Ispahan. La première a été condamnée à la peine capitale et la seconde à 25 ans de prison, des peines dénoncées par leurs familles comme étant basées sur des aveux forcés.",
+      "contexte": "L'Iran utilise régulièrement des condamnations sévères, incluant la peine de mort, pour réprimer les mouvements de contestation et dissuader toute opposition au régime. La communauté internationale dénonce fréquemment ces procès pour leur manque de transparence et le non-respect des droits humains fondamentaux."
+    },
+    {
+      "titre": "Tombeur de Lorenzo Musetti à Paris, Luca Van Assche se qualifie pour la première fois de sa carrière en quart de finale d'un Masters 1000, Arthur Fils déjà éliminé",
+      "lien": "https://www.franceinfo.fr/sports/tennis/malgre-un-gros-combat-arthur-rinderknech-s-incline-en-huitieme-de-finale-du-masters-1000-de-paris-face-a-ben-shelton_8269331.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T20:54:35+01:00",
+      "resume": "Le joueur de tennis français Luca Van Assche s'est qualifié pour les quarts de finale du Masters 1000 de Paris après sa victoire contre l'Italien Lorenzo Musetti. À l'inverse, Arthur Fils a été éliminé de la compétition.",
+      "contexte": "Le Masters 1000 de Paris est l'un des tournois les plus prestigieux du circuit ATP, attirant l'élite mondiale du tennis en fin de saison. La performance des jeunes joueurs français est particulièrement suivie par le public local et les observateurs sportifs."
+    },
+    {
+      "titre": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
       "source": "Le Monde",
-      "date": "2026-11-05T13:43:20+01:00",
-      "resume": "Six gravures de Pablo Picasso, qui avaient été dérobées dans un restaurant près de Cannes, ont été retrouvées un mois après les faits. Trois cambrioleurs présumés et quatre complices ont été interpellés le mardi 3 novembre dans le cadre de cette affaire.",
-      "contexte": "Le vol d'œuvres d'art et de biens culturels est un marché lucratif mais risqué, les objets dérobés étant souvent difficiles à revendre sur le marché légal. Ce type de délinquance touche régulièrement des lieux d'exposition ou de restauration qui possèdent des pièces de valeur sans disposer toujours de systèmes de sécurité renforcés. Les interpellations rapides témoignent de la mobilisation des services de police spécialisés dans la protection du patrimoine."
+      "date": "2026-11-05T20:35:36+01:00",
+      "resume": "L'indice Nasdaq a chuté de plus de 5 % jeudi 5 novembre suite aux résultats des élections de mi-mandat aux États-Unis. Cette baisse reflète une méfiance croissante des investisseurs vis-à-vis des valeurs liées à l'intelligence artificielle et aux infrastructures de données.",
+      "contexte": "Les marchés financiers réagissent souvent aux changements de majorité politique, craignant des modifications dans la régulation technologique ou les politiques fiscales. La correction boursière indique que la bulle spéculative autour de l'IA pourrait être fragilisée par les nouvelles orientations politiques américaines."
     },
     {
-      "titre": "EN DIRECT, guerre en Ukraine : l’importation de gazole russe aux Etats-Unis tourne court",
-      "lien": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-l-importation-de-gazole-russe-aux-etats-unis-tourne-court_6803934_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-05T13:39:31+01:00",
-      "resume": "L'importation de gazole russe aux États-Unis a connu un coup d'arrêt après que deux des trois cargaisons destinées au marché américain ont été déroutées. La gouverneure du New Jersey, Mikie Sherrill, a également demandé aux exploitants portuaires de l'État de refuser l'accès aux pétroliers transportant du carburant russe sous peine de sanctions.",
-      "contexte": "Ces blocages s'inscrivent dans le cadre des sanctions économiques internationales prises contre la Russie en réponse au conflit en Ukraine, visant à assécher les revenus énergétiques de Moscou. Le transport maritime de produits pétroliers fait l'objet d'une surveillance accrue pour contrer les tentatives de contournement des embargos occidentaux. Les autorités locales et fédérales américaines renforcent ainsi les contrôles sur les terminaux portuaires."
-    },
-    {
-      "titre": "Afrique du sud : l’ANC au pouvoir en danger lors des municipales",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-afrique-du-sud-l-anc-au-pouvoir-en-danger-lors-des-municipales",
-      "source": "France 24",
-      "date": "2026-11-05T13:20:54+01:00",
-      "resume": "Les Sud-Africains se sont rendus aux urnes mercredi pour élire leurs représentants locaux lors d'un scrutin municipal crucial pour le Congrès national africain (ANC). Au pouvoir depuis la fin de l'apartheid, le parti fait face à une érosion de sa popularité qui pourrait affaiblir sa position avant les prochaines élections générales de 2029.",
-      "contexte": "Les élections locales en Afrique du Sud servent souvent de baromètre de l'opinion publique face aux difficultés économiques persistantes, au chômage et aux scandales de corruption. L'ANC, qui a longtemps bénéficié du crédit historique de la lutte anti-apartheid, voit sa domination contestée par une population de plus en plus critique envers la gestion des services publics."
+      "titre": "Le gaz lacrymogène a-t-il des effets sur les cycles menstruels ?",
+      "lien": "https://www.franceinfo.fr/vrai-ou-fake/le-gaz-lacrymogene-a-t-il-des-effets-sur-les-cycles-menstruels_8269799.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T20:35:22+01:00",
+      "resume": "Une interrogation émerge sur les réseaux sociaux concernant un éventuel lien entre l'inhalation de gaz lacrymogène, utilisé lors des manifestations, et des perturbations du cycle menstruel. De nombreux témoignages de femmes ont suscité des questionnements sur les effets indésirables potentiels de ces produits chimiques.",
+      "contexte": "L'utilisation de gaz lacrymogène est une pratique policière courante pour disperser les foules, mais ses effets à long terme ou spécifiques sur la santé des femmes sont peu documentés médicalement. La multiplication des témoignages encourage une vigilance accrue sur les conséquences sanitaires de ces outils de maintien de l'ordre."
     }
   ],
   "culture": [
@@ -214,108 +238,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "c521e7de49",
+      "id": "66ba4c8a0a",
       "date": "2026-11-05",
       "type": "actu",
-      "question": "Quel établissement scolaire est spécifiquement cité comme ayant été bloqué lors de la mobilisation du 5 novembre ?",
+      "question": "Quel joueur a inscrit le but égalisateur de l'Olympique lyonnais contre la Real Sociedad en Ligue Europa ?",
       "choix": [
-        "Lycée Louis-le-Grand",
-        "Lycée Le Corbusier",
-        "Lycée Condorcet",
-        "Lycée Henri-IV"
+        "Rayan Cherki",
+        "Corentin Tolisso",
+        "Alexandre Lacazette",
+        "Maxence Caqueret"
       ],
       "reponse": 1,
-      "explication": "L'article mentionne explicitement des blocages, notamment au lycée Le Corbusier à Aubervilliers.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-le-point-sur-la-mobilisation-du-5-novembre"
+      "explication": "Corentin Tolisso a marqué le but égalisateur pour le club français lors de ce match nul en Ligue Europa.",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-olympique-lyonnais-accroche-la-real-sociedad-en-ligue-europa-au-bout-d-un-duel-aprement-dispute_8269802.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "d6e7292925",
+      "id": "f271280fc0",
       "date": "2026-11-05",
       "type": "actu",
-      "question": "Quel événement politique dans le Mississippi est qualifié d'historique dans l'article ?",
+      "question": "Quel incident a poussé le préfet à saisir la justice lors de la manifestation du 5 novembre à Strasbourg ?",
       "choix": [
-        "La victoire d'un candidat indépendant",
-        "La possible élection du premier sénateur noir depuis la Reconstruction",
-        "La suppression du droit de vote pour certains citoyens",
-        "L'élection d'un gouverneur républicain"
+        "L'attaque d'un commissariat",
+        "Le pillage d'une grande surface",
+        "L'incendie d'un bus municipal",
+        "Un mannequin représentant un CRS brûlé"
       ],
-      "reponse": 1,
-      "explication": "Le démocrate Scott Colom pourrait devenir le premier sénateur noir du Mississippi depuis la période de la Reconstruction.",
-      "lien": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-midterms-2026-la-guerre-en-iran-fracture-le-camp-trump-une-election-qui-pourrait-etre-historique-dans-le-mississippi_6805528_3210.html"
+      "reponse": 3,
+      "explication": "Le préfet a saisi la justice après qu'un mannequin représentant un CRS a été brûlé lors du défilé à Strasbourg.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "2dbc938c6b",
+      "id": "a726938074",
       "date": "2026-11-05",
       "type": "actu",
-      "question": "Pour quel motif des marins russes ont-ils été condamnés en Finlande ?",
+      "question": "Quelle décision le président du Paraguay, Santiago Peña, a-t-il annoncée à la suite d'une crise financière ?",
       "choix": [
-        "Transport illégal de migrants",
-        "Violation des eaux territoriales finlandaises",
-        "Dégradation et entrave aggravée aux télécommunications",
-        "Espionnage industriel"
+        "Sa démission",
+        "L'état d'urgence nationale",
+        "La dissolution du Parlement",
+        "Un référendum constitutionnel"
+      ],
+      "reponse": 0,
+      "explication": "Santiago Peña a annoncé sa démission dans la foulée d'une crise bancaire et du placement sous tutelle de la banque Ueno.",
+      "lien": "https://www.franceinfo.fr/monde/ameriques/au-paraguay-le-president-santiago-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire_8269847.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "3eecfe32f1",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Quel tennisman français s'est qualifié pour la première fois en quart de finale d'un Masters 1000 à Paris en battant Lorenzo Musetti ?",
+      "choix": [
+        "Arthur Fils",
+        "Gaël Monfils",
+        "Luca Van Assche",
+        "Ugo Humbert"
       ],
       "reponse": 2,
-      "explication": "Ils ont été condamnés pour avoir endommagé deux câbles sous-marins avec l'ancre de leur navire.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/05/sabotage-de-cables-en-mer-baltique-un-capitaine-russe-et-un-membre-d-equipage-condamnes-en-finlande_6806868_3210.html"
+      "explication": "Luca Van Assche a battu l'Italien Lorenzo Musetti pour atteindre les quarts de finale du Masters 1000 de Paris.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/malgre-un-gros-combat-arthur-rinderknech-s-incline-en-huitieme-de-finale-du-masters-1000-de-paris-face-a-ben-shelton_8269331.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "b82d68e174",
+      "id": "ff035f70bd",
       "date": "2026-11-05",
       "type": "actu",
-      "question": "Combien de gravures de Picasso ont été retrouvées un mois après leur vol ?",
+      "question": "Quel indice boursier à Wall Street a chuté de plus de 5 % suite aux élections de mi-mandat aux États-Unis ?",
       "choix": [
-        "Six",
-        "Trois",
-        "Dix",
-        "Quatre"
+        "Le Russell 2000",
+        "Le Nasdaq",
+        "Le S&P 500",
+        "Le Dow Jones"
       ],
-      "reponse": 0,
-      "explication": "Le résumé précise que six gravures ont été dérobées dans un restaurant puis retrouvées un mois plus tard.",
-      "lien": "https://www.lemonde.fr/culture/article/2026/11/05/les-six-gravures-de-picasso-volees-dans-un-restaurant-pres-de-cannes-ont-ete-retrouvees-un-mois-plus-tard_6806863_3246.html"
+      "reponse": 1,
+      "explication": "L'indice Nasdaq a chuté de plus de 5 % en raison de la méfiance des investisseurs envers les valeurs liées à l'intelligence artificielle après les midterms.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html"
     },
     {
-      "id": "021fa60823",
-      "date": "2026-11-05",
-      "type": "actu",
-      "question": "Depuis quand le parti ANC est-il au pouvoir en Afrique du Sud ?",
-      "choix": [
-        "Depuis la fin de l'apartheid",
-        "Depuis 2005",
-        "Depuis les années 1990",
-        "Depuis la fin de la Seconde Guerre mondiale"
-      ],
-      "reponse": 0,
-      "explication": "L'article indique que l'ANC est au pouvoir depuis la fin de l'apartheid.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-afrique-du-sud-l-anc-au-pouvoir-en-danger-lors-des-municipales"
-    },
-    {
-      "id": "b960956c01",
+      "id": "19e420cdba",
       "date": "2026-11-05",
       "type": "culture",
-      "question": "Selon la théorie du ruissellement, quel est l'effet attendu des avantages économiques accordés aux plus riches ?",
+      "question": "Que postule fondamentalement la théorie économique du ruissellement ?",
       "choix": [
-        "Un bénéfice pour l'ensemble de la société via la croissance et l'emploi",
-        "Une réduction immédiate des impôts pour les classes moyennes",
-        "Une augmentation des dépenses publiques de l'État",
-        "Une baisse de la consommation des ménages les plus aisés"
+        "Que l'État doit redistribuer directement les revenus par une fiscalité accrue",
+        "Que l'impôt sur la fortune réduit durablement le chômage",
+        "Que la richesse des plus riches finit par profiter à toute la société par la croissance et l'emploi",
+        "Que la croissance économique repose uniquement sur la consommation des classes moyennes"
       ],
-      "reponse": 0,
-      "explication": "La théorie stipule que la richesse générée par les plus aisés finit par profiter à tous par le biais de l'investissement et de la croissance.",
+      "reponse": 2,
+      "explication": "La théorie du ruissellement suggère que les avantages accordés aux plus aisés stimulent l'investissement et la création de richesses pour l'ensemble de la société.",
       "lien": ""
     },
     {
-      "id": "5c837a12e0",
+      "id": "c02cdf1313",
       "date": "2026-11-05",
       "type": "culture",
-      "question": "Quel est l'un des rôles majeurs du microbiote intestinal mentionné dans la fiche ?",
+      "question": "Quel est le principal événement historique à l'origine de la situation actuelle de Taïwan ?",
       "choix": [
-        "La synthèse de certaines vitamines essentielles",
-        "La régulation de la température corporelle",
-        "La filtration du sang",
-        "La production de globules rouges"
+        "Le traité de Shimonoseki",
+        "La révolution culturelle chinoise",
+        "La guerre civile chinoise de 1949",
+        "La guerre de Corée"
       ],
-      "reponse": 0,
-      "explication": "La fiche précise que les bactéries du microbiote jouent un rôle dans la digestion et la synthèse de vitamines.",
+      "reponse": 2,
+      "explication": "La situation taïwanaise trouve ses racines dans la guerre civile chinoise, après laquelle les nationalistes se sont repliés sur l'île en 1949.",
       "lien": ""
     }
   ]

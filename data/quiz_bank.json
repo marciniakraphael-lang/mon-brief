@@ -3434,6 +3434,111 @@
       "reponse": 0,
       "explication": "La fiche précise que les bactéries du microbiote jouent un rôle dans la digestion et la synthèse de vitamines.",
       "lien": ""
+    },
+    {
+      "id": "66ba4c8a0a",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Quel joueur a inscrit le but égalisateur de l'Olympique lyonnais contre la Real Sociedad en Ligue Europa ?",
+      "choix": [
+        "Rayan Cherki",
+        "Corentin Tolisso",
+        "Alexandre Lacazette",
+        "Maxence Caqueret"
+      ],
+      "reponse": 1,
+      "explication": "Corentin Tolisso a marqué le but égalisateur pour le club français lors de ce match nul en Ligue Europa.",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-olympique-lyonnais-accroche-la-real-sociedad-en-ligue-europa-au-bout-d-un-duel-aprement-dispute_8269802.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "f271280fc0",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Quel incident a poussé le préfet à saisir la justice lors de la manifestation du 5 novembre à Strasbourg ?",
+      "choix": [
+        "L'attaque d'un commissariat",
+        "Le pillage d'une grande surface",
+        "L'incendie d'un bus municipal",
+        "Un mannequin représentant un CRS brûlé"
+      ],
+      "reponse": 3,
+      "explication": "Le préfet a saisi la justice après qu'un mannequin représentant un CRS a été brûlé lors du défilé à Strasbourg.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "a726938074",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Quelle décision le président du Paraguay, Santiago Peña, a-t-il annoncée à la suite d'une crise financière ?",
+      "choix": [
+        "Sa démission",
+        "L'état d'urgence nationale",
+        "La dissolution du Parlement",
+        "Un référendum constitutionnel"
+      ],
+      "reponse": 0,
+      "explication": "Santiago Peña a annoncé sa démission dans la foulée d'une crise bancaire et du placement sous tutelle de la banque Ueno.",
+      "lien": "https://www.franceinfo.fr/monde/ameriques/au-paraguay-le-president-santiago-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire_8269847.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "3eecfe32f1",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Quel tennisman français s'est qualifié pour la première fois en quart de finale d'un Masters 1000 à Paris en battant Lorenzo Musetti ?",
+      "choix": [
+        "Arthur Fils",
+        "Gaël Monfils",
+        "Luca Van Assche",
+        "Ugo Humbert"
+      ],
+      "reponse": 2,
+      "explication": "Luca Van Assche a battu l'Italien Lorenzo Musetti pour atteindre les quarts de finale du Masters 1000 de Paris.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/malgre-un-gros-combat-arthur-rinderknech-s-incline-en-huitieme-de-finale-du-masters-1000-de-paris-face-a-ben-shelton_8269331.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "ff035f70bd",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Quel indice boursier à Wall Street a chuté de plus de 5 % suite aux élections de mi-mandat aux États-Unis ?",
+      "choix": [
+        "Le Russell 2000",
+        "Le Nasdaq",
+        "Le S&P 500",
+        "Le Dow Jones"
+      ],
+      "reponse": 1,
+      "explication": "L'indice Nasdaq a chuté de plus de 5 % en raison de la méfiance des investisseurs envers les valeurs liées à l'intelligence artificielle après les midterms.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html"
+    },
+    {
+      "id": "19e420cdba",
+      "date": "2026-11-05",
+      "type": "culture",
+      "question": "Que postule fondamentalement la théorie économique du ruissellement ?",
+      "choix": [
+        "Que l'État doit redistribuer directement les revenus par une fiscalité accrue",
+        "Que l'impôt sur la fortune réduit durablement le chômage",
+        "Que la richesse des plus riches finit par profiter à toute la société par la croissance et l'emploi",
+        "Que la croissance économique repose uniquement sur la consommation des classes moyennes"
+      ],
+      "reponse": 2,
+      "explication": "La théorie du ruissellement suggère que les avantages accordés aux plus aisés stimulent l'investissement et la création de richesses pour l'ensemble de la société.",
+      "lien": ""
+    },
+    {
+      "id": "c02cdf1313",
+      "date": "2026-11-05",
+      "type": "culture",
+      "question": "Quel est le principal événement historique à l'origine de la situation actuelle de Taïwan ?",
+      "choix": [
+        "Le traité de Shimonoseki",
+        "La révolution culturelle chinoise",
+        "La guerre civile chinoise de 1949",
+        "La guerre de Corée"
+      ],
+      "reponse": 2,
+      "explication": "La situation taïwanaise trouve ses racines dans la guerre civile chinoise, après laquelle les nationalistes se sont repliés sur l'île en 1949.",
+      "lien": ""
     }
   ]
 }
