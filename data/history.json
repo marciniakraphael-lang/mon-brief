@@ -689,6 +689,75 @@
           "contexte": "La Ligue des champions rassemble les meilleurs clubs européens et offre régulièrement des confrontations à forte intensité offensive. Des entames de match aussi fulgurantes permettent aux équipes de plier rapidement le suspense tactique et de gérer la suite de la rencontre en vue des prochaines échéances du calendrier."
         }
       ]
+    },
+    "2026-11-05": {
+      "morning_run": "2026-11-05T12:16:15.386847+01:00",
+      "morning_items": [
+        {
+          "titre": "L'Arabie saoudite affirme avoir intercepté un missile tiré par les Houthis dans la région de Médine",
+          "lien": "https://www.france24.com/fr/moyen-orient/20261105-l-arabie-saoudite-affirme-avoir-intercept%C3%A9-un-missile-tir%C3%A9-par-les-houthis-dans-la-r%C3%A9gion-de-m%C3%A9dine",
+          "source": "France 24",
+          "date": "2026-11-05T12:13:21+01:00",
+          "resume": "L'Arabie saoudite a annoncé avoir intercepté un missile tiré en direction de la région de Médine, ville sainte de l'islam. Riyad attribue cette attaque aux rebelles houthis du Yémen, qui nient régulièrement cibler les lieux saints tout en revendiquant des frappes sur des infrastructures saoudiennes.",
+          "contexte": "Ce tir s'inscrit dans le cadre du conflit complexe au Yémen, où une coalition menée par l'Arabie saoudite combat les Houthis. L'implication des lieux saints dans les tensions militaires exacerbe les enjeux géopolitiques et religieux de la région."
+        },
+        {
+          "titre": "Donald Trump est-il toujours aussi puissant après sa défaite aux midterms ?",
+          "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-est-il-toujours-aussi-puissant-apres-sa-defaite-aux-midterms_8268431.html#xtor=RSS-3-%5Bgeneral%5D",
+          "source": "franceinfo Monde · franceinfo · France 24",
+          "date": "2026-11-05T12:12:14+01:00",
+          "resume": "À l'issue des élections de mi-mandat aux États-Unis, le Parti républicain a perdu le contrôle du Congrès, cédant la majorité au Sénat et à la Chambre des représentants aux démocrates. Face à ce revers, Donald Trump fait l'objet de pressions internes pour remanier son administration et changer de stratégie. Le président a d'ailleurs qualifié de « grande partie vrai » l'argument de JD Vance attribuant la défaite à la gestion de la guerre en Iran.",
+          "contexte": "Les 'midterms' agissent traditionnellement comme un référendum sur la politique du président en exercice. La perte du Congrès limite considérablement la marge de manœuvre législative de l'administration Trump, qui devra désormais composer avec une opposition en capacité de bloquer ses nominations et d'enquêter sur son action."
+        },
+        {
+          "titre": "France : la banque Crédit mutuel Arkéa victime d’une cyberattaque",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-la-banque-cr%C3%A9dit-mutuel-ark%C3%A9a-victime-d-une-cyberattaque",
+          "source": "France 24",
+          "date": "2026-11-05T12:04:55+01:00",
+          "resume": "Le Crédit mutuel Arkéa a été la cible d'une cyberattaque importante, révélée le 4 novembre, ayant entraîné le détournement de plus de 100 millions d'euros. Les fonds volés auraient été convertis en cryptomonnaies, et le parquet de Paris a ouvert une enquête.",
+          "contexte": "Le secteur bancaire est une cible privilégiée pour les cybercriminels en raison des sommes importantes en jeu. L'utilisation de cryptomonnaies complique le traçage des fonds, rendant les enquêtes judiciaires particulièrement complexes pour les autorités."
+        },
+        {
+          "titre": "Un avion de ligne A320 reliant Dublin à Rome a été dérouté vers la base aérienne d'Evreux à la suite d'une alerte à la bombe, annonce Matignon",
+          "lien": "https://www.franceinfo.fr/france/un-avion-de-ligne-a320-reliant-dublin-a-rome-a-ete-deroute-vers-la-base-aerienne-d-evreux-a-la-suite-d-une-alerte-a-la-bombe-annonce-matignon_8268986.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-05T12:00:20+01:00",
+          "resume": "Un vol reliant Dublin à Rome a dû être dérouté vers la base aérienne d'Évreux suite à une alerte à la bombe. Cet événement s'inscrit dans une série d'alertes similaires touchant une dizaine de vols en Europe, toutes jugées fausses par les autorités.",
+          "contexte": "Les fausses alertes à la bombe perturbent gravement le trafic aérien et génèrent des coûts opérationnels importants. Elles sont souvent utilisées pour tester les protocoles de sécurité ou causer des troubles à l'ordre public."
+        },
+        {
+          "titre": "Attentat à l'explosif contre les locaux de la Corsica Linea à Ajaccio",
+          "lien": "https://france3-regions.franceinfo.fr/corse/explosion-devant-les-locaux-de-la-corsica-linea-a-ajaccio-3444660.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-05T11:52:35+01:00",
+          "resume": "Les bureaux de la compagnie maritime Corsica Linea à Ajaccio ont été endommagés par une charge explosive dans la nuit du 5 novembre 2026. Une enquête est en cours pour déterminer les circonstances de cet attentat.",
+          "contexte": "Les attaques contre des entreprises ou infrastructures sont parfois liées à des revendications politiques ou sociales locales. En Corse, ce type d'acte est souvent pris très au sérieux par les autorités judiciaires."
+        },
+        {
+          "titre": "Manifestations du 5 novembre : 81 lycées bloqués à 10 heures selon le ministère, l'Union syndicale lycéenne annonce 1 000 établissements \"à l'arrêt\"",
+          "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-05T11:51:35+01:00",
+          "resume": "Une journée de mobilisation est organisée ce jeudi 5 novembre pour protester contre la vie chère et réclamer des hausses de salaires. Le ministère de l'Éducation fait état de 81 lycées bloqués, tandis que l'Union syndicale lycéenne évoque un chiffre bien plus élevé de 1 000 établissements à l'arrêt.",
+          "contexte": "Les mouvements de contestation sociale en France se traduisent fréquemment par des blocages d'établissements scolaires pour accroître la visibilité des revendications. Ces actions témoignent d'un mécontentement persistant sur le pouvoir d'achat."
+        },
+        {
+          "titre": "Des vidéos au milieu des cadavres : la communication du nouveau président colombien fait réagir",
+          "lien": "https://www.france24.com/fr/am%C3%A9riques/20261105-videos-milieu-cadavres-communication-nouveau-president-colombien-fait-reagir-abelardo-de-la-espriella-farc",
+          "source": "France 24",
+          "date": "2026-11-05T11:43:53+01:00",
+          "resume": "La communication du nouveau président colombien, Abelardo de la Espriella, suscite de vives critiques. Le dirigeant d'extrême droite diffuse régulièrement des vidéos mettant en scène ses opérations répressives, notamment devant des corps ou des prisonniers, dans le cadre de sa lutte contre les groupes armés.",
+          "contexte": "Cette stratégie de communication choc vise à afficher une fermeté absolue contre la criminalité. Cependant, elle est dénoncée par des observateurs qui s'inquiètent de la mise en scène de la violence et du respect des droits humains."
+        },
+        {
+          "titre": "Football : Cristiano Ronaldo annonce sa retraite internationale",
+          "lien": "https://www.france24.com/fr/sports/20261105-football-cristiano-ronaldo-retraite-internationale",
+          "source": "France 24",
+          "date": "2026-11-05T11:39:42+01:00",
+          "resume": "Le footballeur Cristiano Ronaldo a officiellement annoncé sa retraite de la sélection nationale. Cette décision met fin à une carrière internationale marquée par de nombreux records et titres majeurs.",
+          "contexte": "Le départ de figures emblématiques du sport mondial marque souvent la fin d'une ère. Pour la sélection nationale concernée, cette annonce impose un renouvellement important de l'effectif et du leadership sur le terrain."
+        }
+      ]
     }
   },
   "culture_seen": [
@@ -730,6 +799,9 @@
     "Le mystère du roman épistolaire",
     "La stratégie collective des manchots",
     "L'insularité inversée du Vatican",
-    "Les origines du surf moderne"
+    "Les origines du surf moderne",
+    "La théorie du ruissellement",
+    "Le rôle du microbiote intestinal",
+    "Les racines de la question taïwanaise"
   ]
 }

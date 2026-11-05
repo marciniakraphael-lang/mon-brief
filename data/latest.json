@@ -1,10 +1,224 @@
 {
   "date": "2026-11-05",
-  "mode": "evening",
-  "updated": "2026-11-05T00:18:08.752641+01:00",
-  "deja_presente": [],
-  "depuis_hier": [],
-  "aujourdhui": [],
-  "culture": [],
+  "mode": "morning",
+  "updated": "2026-11-05T12:16:15.386847+01:00",
+  "deja_presente": [
+    {
+      "titre": "Treize personnes interpellées dans un braquage d’une usine de joaillerie à Besançon",
+      "lien": "https://www.franceinfo.fr/faits-divers/braquage/treize-personnes-interpellees-dans-un-braquage-d-une-usine-de-joaillerie-a-besancon_8267570.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-04T12:04:08+01:00",
+      "resume": "Treize personnes ont été interpellées à la suite du braquage d'une usine de joaillerie à Besançon. Les forces de l'ordre ont réussi à retrouver l'or dérobé, dont la quantité est estimée à plusieurs dizaines de kilos. Des bijoux, des charges explosives et des armes ont également été découverts lors des investigations menées par les enquêteurs.",
+      "contexte": "Les attaques visant des sites de fabrication ou de stockage de métaux précieux impliquent généralement des équipes criminelles organisées et lourdement armées. La rapidité des interpellations et la saisie du magot ainsi que du matériel explosif témoignent d'une mobilisation importante des services spécialisés pour endiguer ce type de grand banditisme."
+    },
+    {
+      "titre": "Au Sénégal, le débat sur les finances publiques vire au blocage institutionnel",
+      "lien": "https://www.lemonde.fr/afrique/article/2026/11/04/au-senegal-le-debat-sur-les-finances-publiques-vire-au-blocage-institutionnel_6806149_3212.html",
+      "source": "Le Monde",
+      "date": "2026-11-04T12:00:17+01:00",
+      "resume": "Le premier ministre sénégalais Ahmadou Al Aminou Mohamed Lô a essuyé un nouveau revers institutionnel mardi 3 novembre. Sa loi de finances rectificative pour 2026, conçue pour répondre aux exigences du FMI, a été rejetée par l'Assemblée nationale pour la troisième fois consécutive.",
+      "contexte": "Ce blocage institutionnel illustre les tensions entre l'exécutif et le pouvoir législatif autour de la gestion budgétaire et des réformes économiques. Les exigences des institutions financières internationales, comme le Fonds monétaire international, imposent souvent des arbitrages budgétaires difficiles qui se heurtent fréquemment aux résistances politiques locales."
+    },
+    {
+      "titre": "Midterms : des lignes de fractures persistent entre démocrates",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-des-lignes-de-fractures-persistent-entre-d%C3%A9mocrates",
+      "source": "France 24 · franceinfo Monde",
+      "date": "2026-11-04T11:57:30+01:00",
+      "resume": "Le démocrate Xavier Becerra a été élu gouverneur de Californie le mardi 3 novembre, devançant largement le républicain Steve Hilton et devenant le premier Hispanique à diriger cet État. Ces élections de mi-mandat (midterms) s'inscrivent dans un contexte de fractures persistantes chez les démocrates et de débats sur la politique anti-immigration menée par l'administration Trump. En France, la gauche y voit le signe qu'il n'y a pas de fatalité face à l'extrême droite pour 2027, tandis que le Rassemblement national rejette toute comparaison.",
+      "contexte": "Les élections de mi-mandat aux États-Unis servent traditionnellement de référendum sur la politique du président en exercice et redessinent les équilibres politiques locaux et nationaux. Les résultats et les dynamiques de ce scrutin sont scrutés à l'international, chaque camp politique y trouvant des arguments pour nourrir ses propres stratégies électorales dans la perspective des échéances à venir."
+    },
+    {
+      "titre": "Bruno Retailleau estime qu'il \"faudra une primaire\" pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/pour-departager-les-quatre-principaux-candidats-de-la-droite-et-du-centre-a-l-election-presidentielle-bruno-retailleau-estime-qu-il-faudra-une-primaire_8267411.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-04T11:55:26+01:00",
+      "resume": "Bruno Retailleau a estimé qu'il sera nécessaire d'organiser une primaire en début d'année prochaine pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle. Cette proposition intervient alors qu'Edouard Philippe s'oppose à une telle consultation, qui pourrait également impliquer Gabriel Attal et David Lisnard.",
+      "contexte": "L'organisation d'une primaire au sein d'une même famille politique vise traditionnellement à désigner un candidat unique pour éviter la dispersion des voix au premier tour de l'élection présidentielle. Cependant, ce processus est souvent source de divisions internes et de désaccords stratégiques profonds entre les différents prétendants quant aux modalités du scrutin et au positionnement idéologique."
+    },
+    {
+      "titre": "L'accusé de l'assassinat terroriste du professeur Dominique Bernard renvoyé aux assises, non-lieu pour son frère et son cousin",
+      "lien": "https://www.franceinfo.fr/faits-divers/attaque-au-couteau-dans-un-lycee-a-arras/le-principal-suspect-dans-le-meurtre-du-professeur-dominique-bernard-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin_8267462.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-04T11:49:34+01:00",
+      "resume": "Mohammed Mogouchkov, principal accusé de l'assassinat terroriste du professeur Dominique Bernard, a été renvoyé aux assises par la justice. En revanche, un non-lieu a été prononcé pour son frère et son cousin, qui connaissaient sa radicalisation islamiste mais niaient toute information concernant son projet d'attentat.",
+      "contexte": "L'instruction judiciaire des affaires de terrorisme cherche à établir précisément le degré de complicité et de participation de l'entourage des auteurs présumés. La distinction opérée entre la radicalisation connue et la participation active à un projet criminel est un enjeu juridique central lors des renvois devant la cour d'assises spéciale."
+    },
+    {
+      "titre": "\"Je n'avais pas le droit de quitter Marseille\" : un enseignant raconte son assignation à résidence l'empêchant de se rendre en manifestation",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/temoignage-je-n-avais-pas-le-droit-de-quitter-marseille-un-enseignant-raconte-son-assignation-a-residence-pour-l-empecher-de-manifester_8266340.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-04T11:46:57+01:00",
+      "resume": "Plusieurs dizaines de personnes ont été interdites de manifester le week-end dernier à la suite d'arrêtés pris par le ministère de l'Intérieur. Un enseignant marseillais a témoigné de son assignation à résidence l'empêchant de se rendre dans une manifestation.",
+      "contexte": "Le recours à des arrêtés d'interdiction de manifester et à des mesures d'assignation à résidence est un outil utilisé par les autorités pour maintenir l'ordre public lors de contextes contestataires tendus. Ces mesures font régulièrement l'objet de débats juridiques et politiques concernant l'équilibre entre la sécurité publique et la liberté fondamentale de manifester."
+    },
+    {
+      "titre": "Ligue des champions : le Paris Saint-Germain étrille Villarreal",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261104-ligue-des-champions-le-paris-saint-germain-%C3%A9trille-villarreal",
+      "source": "France 24",
+      "date": "2026-11-04T11:45:51+01:00",
+      "resume": "Le Paris Saint-Germain a largement battu Villarreal sur le score de 6 à 0 lors d'une rencontre de Ligue des champions. Le match était déjà largement plié après 17 minutes de jeu grâce à des buts inscrits par Neves à la 9e minute, Doué à la 12e, Mayulu à la 13e et Ruiz à la 17e.",
+      "contexte": "La Ligue des champions rassemble les meilleurs clubs européens et offre régulièrement des confrontations à forte intensité offensive. Des entames de match aussi fulgurantes permettent aux équipes de plier rapidement le suspense tactique et de gérer la suite de la rencontre en vue des prochaines échéances du calendrier."
+    }
+  ],
+  "depuis_hier": [
+    {
+      "titre": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-04T23:58:31+01:00",
+      "resume": "Emmanuel Macron appelle à la formation d'une vaste coalition au sein de l'espace central pour l'élection présidentielle de 2027. Le chef de l'État estime qu'une alliance allant de Raphaël Glucksmann à David Lisnard est nécessaire pour contrer un duel final entre Marine Le Pen et Jean-Luc Mélenchon.",
+      "contexte": "Cette stratégie vise à prévenir une polarisation extrême de la vie politique française en rassemblant les forces modérées. Elle reflète la volonté du président de structurer un bloc capable de faire barrage aux candidats des extrêmes lors d'un second tour."
+    },
+    {
+      "titre": "Les jardins secrets de la Grande Muraille de Chine",
+      "lien": "https://www.franceinfo.fr/culture/les-jardins-secrets-de-la-grande-muraille-de-chine_8268476.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-04T23:12:15+01:00",
+      "resume": "Un reportage télévisé met en lumière les multiples facettes de la Grande Muraille de Chine, un monument s'étendant sur plus de 20 000 kilomètres. Si certaines parties sont des destinations touristiques célèbres, d'autres portions sont fragilisées par le temps ou partiellement submergées.",
+      "contexte": "Ce monument, construit sur plusieurs siècles et dynasties, constitue un défi majeur de conservation pour les autorités chinoises. Son état de dégradation variable illustre les difficultés liées à la préservation d'un patrimoine architectural aussi vaste et ancien."
+    },
+    {
+      "titre": "Législatives en Israël : Benyamin Nétanyahou évoque \"de graves soupçons\" d'ingérences étrangères",
+      "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-benyamin-netanyahou-evoque-de-graves-soupcons-d-ingerences-etrangeres_8268485.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-04T23:05:26+01:00",
+      "resume": "Le Premier ministre israélien Benyamin Nétanyahou a évoqué des soupçons d'ingérences étrangères lors des récentes élections législatives du 27 octobre. Ces allégations, formulées pour la première fois par le chef du gouvernement, ne sont pour l'instant appuyées par aucune preuve publique.",
+      "contexte": "Les accusations d'ingérence étrangère dans les processus électoraux sont devenues un sujet récurrent dans de nombreuses démocraties. Elles servent souvent à justifier des tensions politiques internes ou à remettre en cause la légitimité des résultats contestés."
+    },
+    {
+      "titre": "\"C'est une peur animale, tu ne penses plus\" : le journaliste Evan Gershkovich raconte son arrestation et ses 491 jours en prison en Russie",
+      "lien": "https://www.franceinfo.fr/monde/russie/c-est-une-peur-animale-tu-ne-penses-plus-le-journaliste-evan-gershkovich-raconte-son-arrestation-et-ses-491-jours-en-prison-en-russie_8268467.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-04T23:03:26+01:00",
+      "resume": "Le journaliste américain Evan Gershkovich a témoigné pour la première fois à la télévision française de ses 491 jours de détention en Russie. Accusé d'espionnage par les autorités russes sans preuve publique, il a été libéré dans le cadre d'un échange de prisonniers.",
+      "contexte": "Cette affaire illustre les tensions diplomatiques fortes entre la Russie et les pays occidentaux, où les journalistes étrangers sont parfois utilisés comme monnaie d'échange. La libération de Gershkovich souligne l'importance des négociations de haut niveau pour résoudre ces crises humanitaires."
+    },
+    {
+      "titre": "Marathon de New York : une coureuse succombe à moins de 4 km de l'arrivée",
+      "lien": "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-une-coureuse-succombe-a-moins-de-4-km-de-l-arrivee_8268503.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-04T23:00:38+01:00",
+      "resume": "Une coureuse de 24 ans, Rachel Apa, est décédée dimanche 1er novembre lors du marathon de New York alors qu'elle se trouvait à moins de 4 kilomètres de l'arrivée. Selon les médecins, la jeune femme a succombé à une rhabdomyolyse, une pathologie rare provoquée par un effort physique intense.",
+      "contexte": "Les accidents médicaux lors d'épreuves d'endurance, bien que rares, rappellent les risques physiologiques liés à la pratique sportive extrême. Les organisateurs de telles compétitions mettent généralement en place des dispositifs de secours importants pour répondre à ces urgences."
+    },
+    {
+      "titre": "Humilié par Côme, le RC Lens encaisse la plus large défaite d'un club français en Ligue des champions",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/humilie-par-come-le-rc-lens-encaisse-la-plus-large-defaite-d-un-club-francais-en-ligue-des-champions_8268452.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-04T22:57:53+01:00",
+      "resume": "Le RC Lens a concédé une lourde défaite face au club italien de Côme lors de la troisième journée de la Ligue des champions. Ce revers marque le troisième échec consécutif du club français dans cette compétition européenne.",
+      "contexte": "Ce résultat fragilise la position du RC Lens dans sa phase de groupe. La Ligue des champions représente un niveau d'exigence très élevé où chaque erreur peut compromettre les chances de qualification pour les phases finales."
+    },
+    {
+      "titre": "Autoritaire, Arthur Fils réussit son entrée en lice au Masters 1000 de Paris et rallie les huitièmes de finale",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters-1000/autoritaire-arthur-fils-reussit-son-entree-en-lice-au-masters-1000-de-paris-et-rallie-les-huitiemes-de-finale_8268386.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-04T22:53:25+01:00",
+      "resume": "Le joueur de tennis français Arthur Fils a brillamment entamé sa compétition au Masters 1000 de Paris. Tête de série numéro 6, il a battu le Tchèque Tomas Machac en deux sets secs, se qualifiant ainsi pour les huitièmes de finale.",
+      "contexte": "Le Masters 1000 de Paris est l'un des tournois les plus prestigieux du circuit ATP. Une performance réussie dans ce contexte permet aux joueurs de confirmer leur progression au classement mondial et de gagner en confiance avant la fin de saison."
+    },
+    {
+      "titre": "\"Elle a été tout de suite frappée par les pierres\" : la mère de Cynthia, la Française décédée dans l'effondrement d'une colonne rocheuse en Turquie, témoigne",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/effondrement-d-une-colonne-rocheuse-en-turquie-elle-a-ete-tout-de-suite-frappee-par-les-pierres-raconte-la-mere-de-cynthia-houpert-la-francaise-decedee-dans-l-accident_8268494.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-04T22:48:56+01:00",
+      "resume": "Une jeune Française a perdu la vie en Cappadoce, en Turquie, après qu'une colonne rocheuse s'est effondrée sur elle la semaine dernière. La mère de la victime dénonce des négligences, affirmant que le site aurait dû être fermé en raison des fortes pluies, et exige des comptes aux autorités locales.",
+      "contexte": "Les accidents sur des sites touristiques naturels posent régulièrement la question de la sécurité et de la responsabilité des autorités locales dans la gestion des risques climatiques. La demande de justice de la famille témoigne de la détresse face à ce qui est perçu comme un manque de prévention."
+    },
+    {
+      "titre": "La mère d'élèves suspectée d'avoir commis une agression dans une école de Nice mise en examen et placée en détention provisoire",
+      "lien": "https://www.franceinfo.fr/faits-divers/la-mere-d-eleves-suspectee-d-avoir-commis-une-agression-dans-une-ecole-de-nice-mise-en-examen-et-placee-en-detention-provisoire_8268437.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-04T22:12:40+01:00",
+      "resume": "Une femme de 36 ans a été mise en examen et placée en détention provisoire suite à une agression survenue dans une école de Nice. Elle est suspectée de tentative de meurtre sur un membre du personnel de l'établissement.",
+      "contexte": "Les violences en milieu scolaire font l'objet d'une vigilance accrue des autorités françaises. La qualification de tentative de meurtre montre la gravité des faits reprochés et la volonté de la justice de protéger le personnel éducatif."
+    }
+  ],
+  "aujourdhui": [
+    {
+      "titre": "L'Arabie saoudite affirme avoir intercepté un missile tiré par les Houthis dans la région de Médine",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261105-l-arabie-saoudite-affirme-avoir-intercept%C3%A9-un-missile-tir%C3%A9-par-les-houthis-dans-la-r%C3%A9gion-de-m%C3%A9dine",
+      "source": "France 24",
+      "date": "2026-11-05T12:13:21+01:00",
+      "resume": "L'Arabie saoudite a annoncé avoir intercepté un missile tiré en direction de la région de Médine, ville sainte de l'islam. Riyad attribue cette attaque aux rebelles houthis du Yémen, qui nient régulièrement cibler les lieux saints tout en revendiquant des frappes sur des infrastructures saoudiennes.",
+      "contexte": "Ce tir s'inscrit dans le cadre du conflit complexe au Yémen, où une coalition menée par l'Arabie saoudite combat les Houthis. L'implication des lieux saints dans les tensions militaires exacerbe les enjeux géopolitiques et religieux de la région."
+    },
+    {
+      "titre": "Donald Trump est-il toujours aussi puissant après sa défaite aux midterms ?",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-est-il-toujours-aussi-puissant-apres-sa-defaite-aux-midterms_8268431.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde · franceinfo · France 24",
+      "date": "2026-11-05T12:12:14+01:00",
+      "resume": "À l'issue des élections de mi-mandat aux États-Unis, le Parti républicain a perdu le contrôle du Congrès, cédant la majorité au Sénat et à la Chambre des représentants aux démocrates. Face à ce revers, Donald Trump fait l'objet de pressions internes pour remanier son administration et changer de stratégie. Le président a d'ailleurs qualifié de « grande partie vrai » l'argument de JD Vance attribuant la défaite à la gestion de la guerre en Iran.",
+      "contexte": "Les 'midterms' agissent traditionnellement comme un référendum sur la politique du président en exercice. La perte du Congrès limite considérablement la marge de manœuvre législative de l'administration Trump, qui devra désormais composer avec une opposition en capacité de bloquer ses nominations et d'enquêter sur son action."
+    },
+    {
+      "titre": "France : la banque Crédit mutuel Arkéa victime d’une cyberattaque",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-la-banque-cr%C3%A9dit-mutuel-ark%C3%A9a-victime-d-une-cyberattaque",
+      "source": "France 24",
+      "date": "2026-11-05T12:04:55+01:00",
+      "resume": "Le Crédit mutuel Arkéa a été la cible d'une cyberattaque importante, révélée le 4 novembre, ayant entraîné le détournement de plus de 100 millions d'euros. Les fonds volés auraient été convertis en cryptomonnaies, et le parquet de Paris a ouvert une enquête.",
+      "contexte": "Le secteur bancaire est une cible privilégiée pour les cybercriminels en raison des sommes importantes en jeu. L'utilisation de cryptomonnaies complique le traçage des fonds, rendant les enquêtes judiciaires particulièrement complexes pour les autorités."
+    },
+    {
+      "titre": "Un avion de ligne A320 reliant Dublin à Rome a été dérouté vers la base aérienne d'Evreux à la suite d'une alerte à la bombe, annonce Matignon",
+      "lien": "https://www.franceinfo.fr/france/un-avion-de-ligne-a320-reliant-dublin-a-rome-a-ete-deroute-vers-la-base-aerienne-d-evreux-a-la-suite-d-une-alerte-a-la-bombe-annonce-matignon_8268986.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T12:00:20+01:00",
+      "resume": "Un vol reliant Dublin à Rome a dû être dérouté vers la base aérienne d'Évreux suite à une alerte à la bombe. Cet événement s'inscrit dans une série d'alertes similaires touchant une dizaine de vols en Europe, toutes jugées fausses par les autorités.",
+      "contexte": "Les fausses alertes à la bombe perturbent gravement le trafic aérien et génèrent des coûts opérationnels importants. Elles sont souvent utilisées pour tester les protocoles de sécurité ou causer des troubles à l'ordre public."
+    },
+    {
+      "titre": "Attentat à l'explosif contre les locaux de la Corsica Linea à Ajaccio",
+      "lien": "https://france3-regions.franceinfo.fr/corse/explosion-devant-les-locaux-de-la-corsica-linea-a-ajaccio-3444660.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T11:52:35+01:00",
+      "resume": "Les bureaux de la compagnie maritime Corsica Linea à Ajaccio ont été endommagés par une charge explosive dans la nuit du 5 novembre 2026. Une enquête est en cours pour déterminer les circonstances de cet attentat.",
+      "contexte": "Les attaques contre des entreprises ou infrastructures sont parfois liées à des revendications politiques ou sociales locales. En Corse, ce type d'acte est souvent pris très au sérieux par les autorités judiciaires."
+    },
+    {
+      "titre": "Manifestations du 5 novembre : 81 lycées bloqués à 10 heures selon le ministère, l'Union syndicale lycéenne annonce 1 000 établissements \"à l'arrêt\"",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T11:51:35+01:00",
+      "resume": "Une journée de mobilisation est organisée ce jeudi 5 novembre pour protester contre la vie chère et réclamer des hausses de salaires. Le ministère de l'Éducation fait état de 81 lycées bloqués, tandis que l'Union syndicale lycéenne évoque un chiffre bien plus élevé de 1 000 établissements à l'arrêt.",
+      "contexte": "Les mouvements de contestation sociale en France se traduisent fréquemment par des blocages d'établissements scolaires pour accroître la visibilité des revendications. Ces actions témoignent d'un mécontentement persistant sur le pouvoir d'achat."
+    },
+    {
+      "titre": "Des vidéos au milieu des cadavres : la communication du nouveau président colombien fait réagir",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261105-videos-milieu-cadavres-communication-nouveau-president-colombien-fait-reagir-abelardo-de-la-espriella-farc",
+      "source": "France 24",
+      "date": "2026-11-05T11:43:53+01:00",
+      "resume": "La communication du nouveau président colombien, Abelardo de la Espriella, suscite de vives critiques. Le dirigeant d'extrême droite diffuse régulièrement des vidéos mettant en scène ses opérations répressives, notamment devant des corps ou des prisonniers, dans le cadre de sa lutte contre les groupes armés.",
+      "contexte": "Cette stratégie de communication choc vise à afficher une fermeté absolue contre la criminalité. Cependant, elle est dénoncée par des observateurs qui s'inquiètent de la mise en scène de la violence et du respect des droits humains."
+    },
+    {
+      "titre": "Football : Cristiano Ronaldo annonce sa retraite internationale",
+      "lien": "https://www.france24.com/fr/sports/20261105-football-cristiano-ronaldo-retraite-internationale",
+      "source": "France 24",
+      "date": "2026-11-05T11:39:42+01:00",
+      "resume": "Le footballeur Cristiano Ronaldo a officiellement annoncé sa retraite de la sélection nationale. Cette décision met fin à une carrière internationale marquée par de nombreux records et titres majeurs.",
+      "contexte": "Le départ de figures emblématiques du sport mondial marque souvent la fin d'une ère. Pour la sélection nationale concernée, cette annonce impose un renouvellement important de l'effectif et du leadership sur le terrain."
+    }
+  ],
+  "culture": [
+    {
+      "theme": "économie",
+      "titre": "La théorie du ruissellement",
+      "texte": "La théorie du ruissellement suggère que les avantages économiques accordés aux plus riches finissent par profiter à l'ensemble de la société. L'idée est que l'investissement et la consommation des plus aisés stimulent la croissance globale, créant ainsi des emplois et de la richesse pour tous. Ce concept a largement influencé les politiques fiscales de plusieurs pays occidentaux au cours des dernières décennies. Cependant, de nombreux économistes débattent aujourd'hui de son efficacité réelle, soulignant une stagnation des revenus des classes moyennes. Cette approche reste un pilier central des discussions sur les inégalités et la justice sociale.",
+      "a_retenir": "La théorie du ruissellement postule que la richesse des plus favorisés finit par irriguer toute l'économie, un concept qui reste vivement contesté."
+    },
+    {
+      "theme": "santé et corps humain",
+      "titre": "Le rôle du microbiote intestinal",
+      "texte": "Le microbiote intestinal désigne l'ensemble des milliards de micro-organismes qui peuplent notre tube digestif. Loin d'être de simples passagers, ces bactéries jouent un rôle crucial dans la digestion des aliments et la synthèse de certaines vitamines essentielles. Elles agissent également comme une barrière protectrice contre les agents pathogènes et influencent directement le bon fonctionnement de notre système immunitaire. Des recherches récentes suggèrent même un lien étroit entre la santé de ce microbiote et l'équilibre de notre système nerveux. Une alimentation variée et riche en fibres est aujourd'hui recommandée pour maintenir cette flore en bonne santé.",
+      "a_retenir": "Le microbiote intestinal est un écosystème complexe indispensable à notre immunité et à notre équilibre digestif."
+    },
+    {
+      "theme": "origine des grands événements ou conflits actuels",
+      "titre": "Les racines de la question taïwanaise",
+      "texte": "La situation actuelle autour de Taïwan trouve son origine dans la guerre civile chinoise qui a opposé les nationalistes aux communistes. Après la défaite des forces nationalistes en 1949, le gouvernement de la République de Chine s'est replié sur l'île de Taïwan. Depuis lors, Pékin considère l'île comme une province rebelle destinée à être réunifiée avec le continent, tandis que Taïwan a développé un système démocratique autonome. Cette divergence politique profonde est devenue l'un des points de tension géopolitique les plus suivis au niveau international. La question cristallise des enjeux de souveraineté, d'influence régionale et de contrôle des routes maritimes stratégiques.",
+      "a_retenir": "La question de Taïwan découle de la fin de la guerre civile chinoise en 1949, créant une séparation politique entre l'île et le continent."
+    }
+  ],
   "quiz_jour": []
 }
