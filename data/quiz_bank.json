@@ -3329,6 +3329,111 @@
       "reponse": 2,
       "explication": "Sa particularité géographique est d'être entièrement enclavé à l'intérieur de la ville de Rome, en Italie.",
       "lien": ""
+    },
+    {
+      "id": "c521e7de49",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Quel établissement scolaire est spécifiquement cité comme ayant été bloqué lors de la mobilisation du 5 novembre ?",
+      "choix": [
+        "Lycée Louis-le-Grand",
+        "Lycée Le Corbusier",
+        "Lycée Condorcet",
+        "Lycée Henri-IV"
+      ],
+      "reponse": 1,
+      "explication": "L'article mentionne explicitement des blocages, notamment au lycée Le Corbusier à Aubervilliers.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-le-point-sur-la-mobilisation-du-5-novembre"
+    },
+    {
+      "id": "d6e7292925",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Quel événement politique dans le Mississippi est qualifié d'historique dans l'article ?",
+      "choix": [
+        "La victoire d'un candidat indépendant",
+        "La possible élection du premier sénateur noir depuis la Reconstruction",
+        "La suppression du droit de vote pour certains citoyens",
+        "L'élection d'un gouverneur républicain"
+      ],
+      "reponse": 1,
+      "explication": "Le démocrate Scott Colom pourrait devenir le premier sénateur noir du Mississippi depuis la période de la Reconstruction.",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-midterms-2026-la-guerre-en-iran-fracture-le-camp-trump-une-election-qui-pourrait-etre-historique-dans-le-mississippi_6805528_3210.html"
+    },
+    {
+      "id": "2dbc938c6b",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Pour quel motif des marins russes ont-ils été condamnés en Finlande ?",
+      "choix": [
+        "Transport illégal de migrants",
+        "Violation des eaux territoriales finlandaises",
+        "Dégradation et entrave aggravée aux télécommunications",
+        "Espionnage industriel"
+      ],
+      "reponse": 2,
+      "explication": "Ils ont été condamnés pour avoir endommagé deux câbles sous-marins avec l'ancre de leur navire.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/05/sabotage-de-cables-en-mer-baltique-un-capitaine-russe-et-un-membre-d-equipage-condamnes-en-finlande_6806868_3210.html"
+    },
+    {
+      "id": "b82d68e174",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Combien de gravures de Picasso ont été retrouvées un mois après leur vol ?",
+      "choix": [
+        "Six",
+        "Trois",
+        "Dix",
+        "Quatre"
+      ],
+      "reponse": 0,
+      "explication": "Le résumé précise que six gravures ont été dérobées dans un restaurant puis retrouvées un mois plus tard.",
+      "lien": "https://www.lemonde.fr/culture/article/2026/11/05/les-six-gravures-de-picasso-volees-dans-un-restaurant-pres-de-cannes-ont-ete-retrouvees-un-mois-plus-tard_6806863_3246.html"
+    },
+    {
+      "id": "021fa60823",
+      "date": "2026-11-05",
+      "type": "actu",
+      "question": "Depuis quand le parti ANC est-il au pouvoir en Afrique du Sud ?",
+      "choix": [
+        "Depuis la fin de l'apartheid",
+        "Depuis 2005",
+        "Depuis les années 1990",
+        "Depuis la fin de la Seconde Guerre mondiale"
+      ],
+      "reponse": 0,
+      "explication": "L'article indique que l'ANC est au pouvoir depuis la fin de l'apartheid.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-afrique-du-sud-l-anc-au-pouvoir-en-danger-lors-des-municipales"
+    },
+    {
+      "id": "b960956c01",
+      "date": "2026-11-05",
+      "type": "culture",
+      "question": "Selon la théorie du ruissellement, quel est l'effet attendu des avantages économiques accordés aux plus riches ?",
+      "choix": [
+        "Un bénéfice pour l'ensemble de la société via la croissance et l'emploi",
+        "Une réduction immédiate des impôts pour les classes moyennes",
+        "Une augmentation des dépenses publiques de l'État",
+        "Une baisse de la consommation des ménages les plus aisés"
+      ],
+      "reponse": 0,
+      "explication": "La théorie stipule que la richesse générée par les plus aisés finit par profiter à tous par le biais de l'investissement et de la croissance.",
+      "lien": ""
+    },
+    {
+      "id": "5c837a12e0",
+      "date": "2026-11-05",
+      "type": "culture",
+      "question": "Quel est l'un des rôles majeurs du microbiote intestinal mentionné dans la fiche ?",
+      "choix": [
+        "La synthèse de certaines vitamines essentielles",
+        "La régulation de la température corporelle",
+        "La filtration du sang",
+        "La production de globules rouges"
+      ],
+      "reponse": 0,
+      "explication": "La fiche précise que les bactéries du microbiote jouent un rôle dans la digestion et la synthèse de vitamines.",
+      "lien": ""
     }
   ]
 }
