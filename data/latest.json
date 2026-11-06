@@ -1,346 +1,224 @@
 {
-  "date": "2026-11-05",
-  "mode": "evening",
-  "updated": "2026-11-05T22:19:31.331162+01:00",
+  "date": "2026-11-06",
+  "mode": "morning",
+  "updated": "2026-11-06T12:14:40.938458+01:00",
   "deja_presente": [
     {
-      "titre": "Treize personnes interpellées dans un braquage d’une usine de joaillerie à Besançon",
-      "lien": "https://www.franceinfo.fr/faits-divers/braquage/treize-personnes-interpellees-dans-un-braquage-d-une-usine-de-joaillerie-a-besancon_8267570.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T12:04:08+01:00",
-      "resume": "Treize personnes ont été interpellées à la suite du braquage d'une usine de joaillerie à Besançon. Les forces de l'ordre ont réussi à retrouver l'or dérobé, dont la quantité est estimée à plusieurs dizaines de kilos. Des bijoux, des charges explosives et des armes ont également été découverts lors des investigations menées par les enquêteurs.",
-      "contexte": "Les attaques visant des sites de fabrication ou de stockage de métaux précieux impliquent généralement des équipes criminelles organisées et lourdement armées. La rapidité des interpellations et la saisie du magot ainsi que du matériel explosif témoignent d'une mobilisation importante des services spécialisés pour endiguer ce type de grand banditisme."
-    },
-    {
-      "titre": "Au Sénégal, le débat sur les finances publiques vire au blocage institutionnel",
-      "lien": "https://www.lemonde.fr/afrique/article/2026/11/04/au-senegal-le-debat-sur-les-finances-publiques-vire-au-blocage-institutionnel_6806149_3212.html",
-      "source": "Le Monde",
-      "date": "2026-11-04T12:00:17+01:00",
-      "resume": "Le premier ministre sénégalais Ahmadou Al Aminou Mohamed Lô a essuyé un nouveau revers institutionnel mardi 3 novembre. Sa loi de finances rectificative pour 2026, conçue pour répondre aux exigences du FMI, a été rejetée par l'Assemblée nationale pour la troisième fois consécutive.",
-      "contexte": "Ce blocage institutionnel illustre les tensions entre l'exécutif et le pouvoir législatif autour de la gestion budgétaire et des réformes économiques. Les exigences des institutions financières internationales, comme le Fonds monétaire international, imposent souvent des arbitrages budgétaires difficiles qui se heurtent fréquemment aux résistances politiques locales."
-    },
-    {
-      "titre": "Midterms : des lignes de fractures persistent entre démocrates",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-des-lignes-de-fractures-persistent-entre-d%C3%A9mocrates",
-      "source": "France 24 · franceinfo Monde",
-      "date": "2026-11-04T11:57:30+01:00",
-      "resume": "Le démocrate Xavier Becerra a été élu gouverneur de Californie le mardi 3 novembre, devançant largement le républicain Steve Hilton et devenant le premier Hispanique à diriger cet État. Ces élections de mi-mandat (midterms) s'inscrivent dans un contexte de fractures persistantes chez les démocrates et de débats sur la politique anti-immigration menée par l'administration Trump. En France, la gauche y voit le signe qu'il n'y a pas de fatalité face à l'extrême droite pour 2027, tandis que le Rassemblement national rejette toute comparaison.",
-      "contexte": "Les élections de mi-mandat aux États-Unis servent traditionnellement de référendum sur la politique du président en exercice et redessinent les équilibres politiques locaux et nationaux. Les résultats et les dynamiques de ce scrutin sont scrutés à l'international, chaque camp politique y trouvant des arguments pour nourrir ses propres stratégies électorales dans la perspective des échéances à venir."
-    },
-    {
-      "titre": "Bruno Retailleau estime qu'il \"faudra une primaire\" pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/pour-departager-les-quatre-principaux-candidats-de-la-droite-et-du-centre-a-l-election-presidentielle-bruno-retailleau-estime-qu-il-faudra-une-primaire_8267411.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T11:55:26+01:00",
-      "resume": "Bruno Retailleau a estimé qu'il sera nécessaire d'organiser une primaire en début d'année prochaine pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle. Cette proposition intervient alors qu'Edouard Philippe s'oppose à une telle consultation, qui pourrait également impliquer Gabriel Attal et David Lisnard.",
-      "contexte": "L'organisation d'une primaire au sein d'une même famille politique vise traditionnellement à désigner un candidat unique pour éviter la dispersion des voix au premier tour de l'élection présidentielle. Cependant, ce processus est souvent source de divisions internes et de désaccords stratégiques profonds entre les différents prétendants quant aux modalités du scrutin et au positionnement idéologique."
-    },
-    {
-      "titre": "L'accusé de l'assassinat terroriste du professeur Dominique Bernard renvoyé aux assises, non-lieu pour son frère et son cousin",
-      "lien": "https://www.franceinfo.fr/faits-divers/attaque-au-couteau-dans-un-lycee-a-arras/le-principal-suspect-dans-le-meurtre-du-professeur-dominique-bernard-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin_8267462.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T11:49:34+01:00",
-      "resume": "Mohammed Mogouchkov, principal accusé de l'assassinat terroriste du professeur Dominique Bernard, a été renvoyé aux assises par la justice. En revanche, un non-lieu a été prononcé pour son frère et son cousin, qui connaissaient sa radicalisation islamiste mais niaient toute information concernant son projet d'attentat.",
-      "contexte": "L'instruction judiciaire des affaires de terrorisme cherche à établir précisément le degré de complicité et de participation de l'entourage des auteurs présumés. La distinction opérée entre la radicalisation connue et la participation active à un projet criminel est un enjeu juridique central lors des renvois devant la cour d'assises spéciale."
-    },
-    {
-      "titre": "\"Je n'avais pas le droit de quitter Marseille\" : un enseignant raconte son assignation à résidence l'empêchant de se rendre en manifestation",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/temoignage-je-n-avais-pas-le-droit-de-quitter-marseille-un-enseignant-raconte-son-assignation-a-residence-pour-l-empecher-de-manifester_8266340.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T11:46:57+01:00",
-      "resume": "Plusieurs dizaines de personnes ont été interdites de manifester le week-end dernier à la suite d'arrêtés pris par le ministère de l'Intérieur. Un enseignant marseillais a témoigné de son assignation à résidence l'empêchant de se rendre dans une manifestation.",
-      "contexte": "Le recours à des arrêtés d'interdiction de manifester et à des mesures d'assignation à résidence est un outil utilisé par les autorités pour maintenir l'ordre public lors de contextes contestataires tendus. Ces mesures font régulièrement l'objet de débats juridiques et politiques concernant l'équilibre entre la sécurité publique et la liberté fondamentale de manifester."
-    },
-    {
-      "titre": "Ligue des champions : le Paris Saint-Germain étrille Villarreal",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261104-ligue-des-champions-le-paris-saint-germain-%C3%A9trille-villarreal",
+      "titre": "L'Arabie saoudite affirme avoir intercepté un missile tiré par les Houthis dans la région de Médine",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261105-l-arabie-saoudite-affirme-avoir-intercept%C3%A9-un-missile-tir%C3%A9-par-les-houthis-dans-la-r%C3%A9gion-de-m%C3%A9dine",
       "source": "France 24",
-      "date": "2026-11-04T11:45:51+01:00",
-      "resume": "Le Paris Saint-Germain a largement battu Villarreal sur le score de 6 à 0 lors d'une rencontre de Ligue des champions. Le match était déjà largement plié après 17 minutes de jeu grâce à des buts inscrits par Neves à la 9e minute, Doué à la 12e, Mayulu à la 13e et Ruiz à la 17e.",
-      "contexte": "La Ligue des champions rassemble les meilleurs clubs européens et offre régulièrement des confrontations à forte intensité offensive. Des entames de match aussi fulgurantes permettent aux équipes de plier rapidement le suspense tactique et de gérer la suite de la rencontre en vue des prochaines échéances du calendrier."
+      "date": "2026-11-05T12:13:21+01:00",
+      "resume": "L'Arabie saoudite a annoncé avoir intercepté un missile tiré en direction de la région de Médine, ville sainte de l'islam. Riyad attribue cette attaque aux rebelles houthis du Yémen, qui nient régulièrement cibler les lieux saints tout en revendiquant des frappes sur des infrastructures saoudiennes.",
+      "contexte": "Ce tir s'inscrit dans le cadre du conflit complexe au Yémen, où une coalition menée par l'Arabie saoudite combat les Houthis. L'implication des lieux saints dans les tensions militaires exacerbe les enjeux géopolitiques et religieux de la région."
+    },
+    {
+      "titre": "Donald Trump est-il toujours aussi puissant après sa défaite aux midterms ?",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-est-il-toujours-aussi-puissant-apres-sa-defaite-aux-midterms_8268431.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde · franceinfo · France 24",
+      "date": "2026-11-05T12:12:14+01:00",
+      "resume": "À l'issue des élections de mi-mandat aux États-Unis, le Parti républicain a perdu le contrôle du Congrès, cédant la majorité au Sénat et à la Chambre des représentants aux démocrates. Face à ce revers, Donald Trump fait l'objet de pressions internes pour remanier son administration et changer de stratégie. Le président a d'ailleurs qualifié de « grande partie vrai » l'argument de JD Vance attribuant la défaite à la gestion de la guerre en Iran.",
+      "contexte": "Les 'midterms' agissent traditionnellement comme un référendum sur la politique du président en exercice. La perte du Congrès limite considérablement la marge de manœuvre législative de l'administration Trump, qui devra désormais composer avec une opposition en capacité de bloquer ses nominations et d'enquêter sur son action."
+    },
+    {
+      "titre": "France : la banque Crédit mutuel Arkéa victime d’une cyberattaque",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-la-banque-cr%C3%A9dit-mutuel-ark%C3%A9a-victime-d-une-cyberattaque",
+      "source": "France 24",
+      "date": "2026-11-05T12:04:55+01:00",
+      "resume": "Le Crédit mutuel Arkéa a été la cible d'une cyberattaque importante, révélée le 4 novembre, ayant entraîné le détournement de plus de 100 millions d'euros. Les fonds volés auraient été convertis en cryptomonnaies, et le parquet de Paris a ouvert une enquête.",
+      "contexte": "Le secteur bancaire est une cible privilégiée pour les cybercriminels en raison des sommes importantes en jeu. L'utilisation de cryptomonnaies complique le traçage des fonds, rendant les enquêtes judiciaires particulièrement complexes pour les autorités."
+    },
+    {
+      "titre": "Un avion de ligne A320 reliant Dublin à Rome a été dérouté vers la base aérienne d'Evreux à la suite d'une alerte à la bombe, annonce Matignon",
+      "lien": "https://www.franceinfo.fr/france/un-avion-de-ligne-a320-reliant-dublin-a-rome-a-ete-deroute-vers-la-base-aerienne-d-evreux-a-la-suite-d-une-alerte-a-la-bombe-annonce-matignon_8268986.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T12:00:20+01:00",
+      "resume": "Un vol reliant Dublin à Rome a dû être dérouté vers la base aérienne d'Évreux suite à une alerte à la bombe. Cet événement s'inscrit dans une série d'alertes similaires touchant une dizaine de vols en Europe, toutes jugées fausses par les autorités.",
+      "contexte": "Les fausses alertes à la bombe perturbent gravement le trafic aérien et génèrent des coûts opérationnels importants. Elles sont souvent utilisées pour tester les protocoles de sécurité ou causer des troubles à l'ordre public."
+    },
+    {
+      "titre": "Attentat à l'explosif contre les locaux de la Corsica Linea à Ajaccio",
+      "lien": "https://france3-regions.franceinfo.fr/corse/explosion-devant-les-locaux-de-la-corsica-linea-a-ajaccio-3444660.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T11:52:35+01:00",
+      "resume": "Les bureaux de la compagnie maritime Corsica Linea à Ajaccio ont été endommagés par une charge explosive dans la nuit du 5 novembre 2026. Une enquête est en cours pour déterminer les circonstances de cet attentat.",
+      "contexte": "Les attaques contre des entreprises ou infrastructures sont parfois liées à des revendications politiques ou sociales locales. En Corse, ce type d'acte est souvent pris très au sérieux par les autorités judiciaires."
+    },
+    {
+      "titre": "Manifestations du 5 novembre : 81 lycées bloqués à 10 heures selon le ministère, l'Union syndicale lycéenne annonce 1 000 établissements \"à l'arrêt\"",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-05T11:51:35+01:00",
+      "resume": "Une journée de mobilisation est organisée ce jeudi 5 novembre pour protester contre la vie chère et réclamer des hausses de salaires. Le ministère de l'Éducation fait état de 81 lycées bloqués, tandis que l'Union syndicale lycéenne évoque un chiffre bien plus élevé de 1 000 établissements à l'arrêt.",
+      "contexte": "Les mouvements de contestation sociale en France se traduisent fréquemment par des blocages d'établissements scolaires pour accroître la visibilité des revendications. Ces actions témoignent d'un mécontentement persistant sur le pouvoir d'achat."
+    },
+    {
+      "titre": "Des vidéos au milieu des cadavres : la communication du nouveau président colombien fait réagir",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261105-videos-milieu-cadavres-communication-nouveau-president-colombien-fait-reagir-abelardo-de-la-espriella-farc",
+      "source": "France 24",
+      "date": "2026-11-05T11:43:53+01:00",
+      "resume": "La communication du nouveau président colombien, Abelardo de la Espriella, suscite de vives critiques. Le dirigeant d'extrême droite diffuse régulièrement des vidéos mettant en scène ses opérations répressives, notamment devant des corps ou des prisonniers, dans le cadre de sa lutte contre les groupes armés.",
+      "contexte": "Cette stratégie de communication choc vise à afficher une fermeté absolue contre la criminalité. Cependant, elle est dénoncée par des observateurs qui s'inquiètent de la mise en scène de la violence et du respect des droits humains."
+    },
+    {
+      "titre": "Football : Cristiano Ronaldo annonce sa retraite internationale",
+      "lien": "https://www.france24.com/fr/sports/20261105-football-cristiano-ronaldo-retraite-internationale",
+      "source": "France 24",
+      "date": "2026-11-05T11:39:42+01:00",
+      "resume": "Le footballeur Cristiano Ronaldo a officiellement annoncé sa retraite de la sélection nationale. Cette décision met fin à une carrière internationale marquée par de nombreux records et titres majeurs.",
+      "contexte": "Le départ de figures emblématiques du sport mondial marque souvent la fin d'une ère. Pour la sélection nationale concernée, cette annonce impose un renouvellement important de l'effectif et du leadership sur le terrain."
     }
   ],
   "depuis_hier": [
     {
-      "titre": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
-      "source": "Le Monde",
-      "date": "2026-11-04T23:58:31+01:00",
-      "resume": "Emmanuel Macron appelle à la formation d'une vaste coalition au sein de l'espace central pour l'élection présidentielle de 2027. Le chef de l'État estime qu'une alliance allant de Raphaël Glucksmann à David Lisnard est nécessaire pour contrer un duel final entre Marine Le Pen et Jean-Luc Mélenchon.",
-      "contexte": "Cette stratégie vise à prévenir une polarisation extrême de la vie politique française en rassemblant les forces modérées. Elle reflète la volonté du président de structurer un bloc capable de faire barrage aux candidats des extrêmes lors d'un second tour."
-    },
-    {
-      "titre": "Les jardins secrets de la Grande Muraille de Chine",
-      "lien": "https://www.franceinfo.fr/culture/les-jardins-secrets-de-la-grande-muraille-de-chine_8268476.html#xtor=RSS-3-%5Bgeneral%5D",
+      "titre": "Donald Trump prédit un accord avec la Russie sur l'Ukraine et même sur \"toute l'Europe\"",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-predit-un-accord-avec-la-russie-sur-l-ukraine-et-meme-sur-toute-l-europe_8269949.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
-      "date": "2026-11-04T23:12:15+01:00",
-      "resume": "Un reportage télévisé met en lumière les multiples facettes de la Grande Muraille de Chine, un monument s'étendant sur plus de 20 000 kilomètres. Si certaines parties sont des destinations touristiques célèbres, d'autres portions sont fragilisées par le temps ou partiellement submergées.",
-      "contexte": "Ce monument, construit sur plusieurs siècles et dynasties, constitue un défi majeur de conservation pour les autorités chinoises. Son état de dégradation variable illustre les difficultés liées à la préservation d'un patrimoine architectural aussi vaste et ancien."
+      "date": "2026-11-05T23:17:38+01:00",
+      "resume": "Donald Trump a exprimé son optimisme quant à la conclusion d'un accord majeur avec la Russie concernant l'Ukraine, alors que des pourparlers sont prévus les 10 et 11 novembre à Abou Dhabi. Parallèlement, la Première dame Melania Trump a appelé à un cessez-le-feu durable en Ukraine, quelques jours après une trêve humanitaire à Olechky. Elle a reçu des représentants russes et ukrainiens à la Maison Blanche pour discuter de ces perspectives de paix.",
+      "contexte": "Ces initiatives interviennent dans un contexte de tensions diplomatiques persistantes concernant le conflit ukrainien. L'objectif affiché par l'administration américaine est de stabiliser la région, bien que les détails des accords potentiels restent à définir entre les parties belligérantes."
     },
     {
-      "titre": "Législatives en Israël : Benyamin Nétanyahou évoque \"de graves soupçons\" d'ingérences étrangères",
-      "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-benyamin-netanyahou-evoque-de-graves-soupcons-d-ingerences-etrangeres_8268485.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T23:05:26+01:00",
-      "resume": "Le Premier ministre israélien Benyamin Nétanyahou a évoqué des soupçons d'ingérences étrangères lors des récentes élections législatives du 27 octobre. Ces allégations, formulées pour la première fois par le chef du gouvernement, ne sont pour l'instant appuyées par aucune preuve publique.",
-      "contexte": "Les accusations d'ingérence étrangère dans les processus électoraux sont devenues un sujet récurrent dans de nombreuses démocraties. Elles servent souvent à justifier des tensions politiques internes ou à remettre en cause la légitimité des résultats contestés."
-    },
-    {
-      "titre": "\"C'est une peur animale, tu ne penses plus\" : le journaliste Evan Gershkovich raconte son arrestation et ses 491 jours en prison en Russie",
-      "lien": "https://www.franceinfo.fr/monde/russie/c-est-une-peur-animale-tu-ne-penses-plus-le-journaliste-evan-gershkovich-raconte-son-arrestation-et-ses-491-jours-en-prison-en-russie_8268467.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-04T23:03:26+01:00",
-      "resume": "Le journaliste américain Evan Gershkovich a témoigné pour la première fois à la télévision française de ses 491 jours de détention en Russie. Accusé d'espionnage par les autorités russes sans preuve publique, il a été libéré dans le cadre d'un échange de prisonniers.",
-      "contexte": "Cette affaire illustre les tensions diplomatiques fortes entre la Russie et les pays occidentaux, où les journalistes étrangers sont parfois utilisés comme monnaie d'échange. La libération de Gershkovich souligne l'importance des négociations de haut niveau pour résoudre ces crises humanitaires."
-    },
-    {
-      "titre": "Marathon de New York : une coureuse succombe à moins de 4 km de l'arrivée",
-      "lien": "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-une-coureuse-succombe-a-moins-de-4-km-de-l-arrivee_8268503.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-04T23:00:38+01:00",
-      "resume": "Une coureuse de 24 ans, Rachel Apa, est décédée dimanche 1er novembre lors du marathon de New York alors qu'elle se trouvait à moins de 4 kilomètres de l'arrivée. Selon les médecins, la jeune femme a succombé à une rhabdomyolyse, une pathologie rare provoquée par un effort physique intense.",
-      "contexte": "Les accidents médicaux lors d'épreuves d'endurance, bien que rares, rappellent les risques physiologiques liés à la pratique sportive extrême. Les organisateurs de telles compétitions mettent généralement en place des dispositifs de secours importants pour répondre à ces urgences."
-    },
-    {
-      "titre": "Humilié par Côme, le RC Lens encaisse la plus large défaite d'un club français en Ligue des champions",
-      "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/humilie-par-come-le-rc-lens-encaisse-la-plus-large-defaite-d-un-club-francais-en-ligue-des-champions_8268452.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T22:57:53+01:00",
-      "resume": "Le RC Lens a concédé une lourde défaite face au club italien de Côme lors de la troisième journée de la Ligue des champions. Ce revers marque le troisième échec consécutif du club français dans cette compétition européenne.",
-      "contexte": "Ce résultat fragilise la position du RC Lens dans sa phase de groupe. La Ligue des champions représente un niveau d'exigence très élevé où chaque erreur peut compromettre les chances de qualification pour les phases finales."
-    },
-    {
-      "titre": "Autoritaire, Arthur Fils réussit son entrée en lice au Masters 1000 de Paris et rallie les huitièmes de finale",
-      "lien": "https://www.franceinfo.fr/sports/tennis/masters-1000/autoritaire-arthur-fils-reussit-son-entree-en-lice-au-masters-1000-de-paris-et-rallie-les-huitiemes-de-finale_8268386.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T22:53:25+01:00",
-      "resume": "Le joueur de tennis français Arthur Fils a brillamment entamé sa compétition au Masters 1000 de Paris. Tête de série numéro 6, il a battu le Tchèque Tomas Machac en deux sets secs, se qualifiant ainsi pour les huitièmes de finale.",
-      "contexte": "Le Masters 1000 de Paris est l'un des tournois les plus prestigieux du circuit ATP. Une performance réussie dans ce contexte permet aux joueurs de confirmer leur progression au classement mondial et de gagner en confiance avant la fin de saison."
-    },
-    {
-      "titre": "\"Elle a été tout de suite frappée par les pierres\" : la mère de Cynthia, la Française décédée dans l'effondrement d'une colonne rocheuse en Turquie, témoigne",
-      "lien": "https://www.franceinfo.fr/faits-divers/accident/effondrement-d-une-colonne-rocheuse-en-turquie-elle-a-ete-tout-de-suite-frappee-par-les-pierres-raconte-la-mere-de-cynthia-houpert-la-francaise-decedee-dans-l-accident_8268494.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-04T22:48:56+01:00",
-      "resume": "Une jeune Française a perdu la vie en Cappadoce, en Turquie, après qu'une colonne rocheuse s'est effondrée sur elle la semaine dernière. La mère de la victime dénonce des négligences, affirmant que le site aurait dû être fermé en raison des fortes pluies, et exige des comptes aux autorités locales.",
-      "contexte": "Les accidents sur des sites touristiques naturels posent régulièrement la question de la sécurité et de la responsabilité des autorités locales dans la gestion des risques climatiques. La demande de justice de la famille témoigne de la détresse face à ce qui est perçu comme un manque de prévention."
-    },
-    {
-      "titre": "La mère d'élèves suspectée d'avoir commis une agression dans une école de Nice mise en examen et placée en détention provisoire",
-      "lien": "https://www.franceinfo.fr/faits-divers/la-mere-d-eleves-suspectee-d-avoir-commis-une-agression-dans-une-ecole-de-nice-mise-en-examen-et-placee-en-detention-provisoire_8268437.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-04T22:12:40+01:00",
-      "resume": "Une femme de 36 ans a été mise en examen et placée en détention provisoire suite à une agression survenue dans une école de Nice. Elle est suspectée de tentative de meurtre sur un membre du personnel de l'établissement.",
-      "contexte": "Les violences en milieu scolaire font l'objet d'une vigilance accrue des autorités françaises. La qualification de tentative de meurtre montre la gravité des faits reprochés et la volonté de la justice de protéger le personnel éducatif."
-    }
-  ],
-  "aujourdhui": [
-    {
-      "titre": "Le ciel européen en état d’alerte après des menaces visant une vingtaine de vols commerciaux",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/05/le-ciel-europeen-en-etat-d-alerte-apres-des-menaces-visant-une-vingtaine-de-vols-commerciaux_6807344_3234.html",
-      "source": "Le Monde",
-      "date": "2026-11-05T21:57:06+01:00",
-      "resume": "Plusieurs pays européens, dont la France, ont dû déployer leur armée de l'air pour escorter une vingtaine de vols commerciaux ciblés par des alertes à la bombe. Cette opération coordonnée a mis le ciel européen en état d'alerte, suggérant une menace organisée visant le transport aérien.",
-      "contexte": "Les alertes à la bombe contre le transport aérien sont un moyen courant pour déstabiliser le trafic et créer un sentiment d'insécurité à grande échelle. Bien que ces menaces soient souvent des canulars, elles imposent des protocoles de sécurité extrêmement coûteux et complexes pour les autorités nationales."
-    },
-    {
-      "titre": "L'Olympique lyonnais accroche la Real Sociedad en Ligue Europa, pour sa première sans Paulo Fonseca",
-      "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-olympique-lyonnais-accroche-la-real-sociedad-en-ligue-europa-au-bout-d-un-duel-aprement-dispute_8269802.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-05T21:56:04+01:00",
-      "resume": "Pour son premier match sans l'entraîneur Paulo Fonseca, l'Olympique lyonnais a obtenu un match nul contre la Real Sociedad lors d'une rencontre de Ligue Europa jeudi à San Sebastian. Le joueur Corentin Tolisso a inscrit le but égalisateur pour le club français.",
-      "contexte": "Le départ d'un entraîneur principal en cours de saison est une période délicate pour un club de football, nécessitant une réorganisation tactique rapide. Ce résultat permet à Lyon de maintenir une dynamique compétitive sur la scène européenne malgré le changement de direction technique."
-    },
-    {
-      "titre": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est \"globalement bien déroulée\", rapporte le ministère de l'Intérieur, qui fait état de 448 interpellations",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-05T21:53:55+01:00",
-      "resume": "La journée de mobilisation du 5 novembre en France a rassemblé entre 575 000 et 1,6 million de personnes selon les sources. Si le ministère de l'Intérieur a qualifié le déroulement des cortèges de globalement satisfaisant, des tensions ont été observées dans plusieurs villes comme Paris, Lyon et Strasbourg. À Strasbourg, le préfet a annoncé saisir la justice après qu'un mannequin représentant un CRS a été brûlé lors du défilé.",
-      "contexte": "Ces manifestations s'inscrivent dans un contexte de forte tension sociale en France, où les cortèges servent de moyen d'expression contre les politiques gouvernementales. L'usage de symboles violents, comme le brûlage d'effigies, cristallise les oppositions entre les manifestants et les forces de l'ordre, entraînant systématiquement des réponses judiciaires et politiques."
-    },
-    {
-      "titre": "\"C'est une hérésie\" : enquête sur le nouveau logiciel de l'exécutif pour surveiller les réseaux, qui peine à repérer les vidéos virales sur TikTok",
+      "titre": "Comment un changement de logiciel a rendu le gouvernement aveugle sur les appels à la mobilisation sociale sur TikTok",
       "lien": "https://www.franceinfo.fr/internet/c-est-une-heresie-enquete-sur-le-nouveau-logiciel-de-l-executif-pour-surveiller-les-reseaux-qui-peine-a-reperer-les-videos-virales-sur-tiktok_8269832.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-05T21:49:42+01:00",
-      "resume": "Le gouvernement français fait face à des critiques concernant son nouveau logiciel de surveillance des réseaux sociaux, jugé moins performant que le précédent pour détecter les vidéos virales sur TikTok. Cette faille technique complique le travail des forces de l'ordre pour anticiper les mouvements lors des périodes de contestation sociale.",
-      "contexte": "La surveillance numérique est devenue un enjeu majeur pour les États lors des crises sociales, où les réseaux sociaux servent à la fois d'outils d'organisation et de diffusion d'images de violences. L'inefficacité des outils technologiques peut retarder la réponse policière face à des événements se propageant très rapidement en ligne."
+      "date": "2026-11-05T23:00:46+01:00",
+      "resume": "La police française rencontre des difficultés à surveiller les appels à la mobilisation sur TikTok en raison d'un changement de logiciel de surveillance. Bien que plus économique, ce nouvel outil s'avère moins performant pour repérer les vidéos virales liées aux mouvements sociaux ou aux activités de casseurs.",
+      "contexte": "Les réseaux sociaux sont devenus des vecteurs essentiels de communication lors des manifestations, permettant une coordination rapide des cortèges. Cette faille technique limite la capacité des forces de l'ordre à anticiper les débordements ou à comprendre l'ampleur des contestations en temps réel."
     },
     {
-      "titre": "Les coûts cachés des mutuelles : comment les courtiers font grimper vos cotisations",
-      "lien": "https://www.franceinfo.fr/economie/les-couts-caches-des-mutuelles-comment-les-courtiers-font-grimper-vos-cotisations_8269862.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-05T21:48:26+01:00",
-      "resume": "Une enquête révèle que les cotisations des mutuelles santé ont augmenté de 40% depuis 2011, une hausse en partie alimentée par les commissions versées aux courtiers. Ces intermédiaires, chargés de vendre les contrats, captent une part significative des sommes versées par les assurés au lieu qu'elles soient intégralement dédiées au remboursement des soins.",
-      "contexte": "Le coût de la santé est une préoccupation majeure pour les ménages, alors que le système de protection sociale subit des pressions budgétaires. La complexité du marché des complémentaires santé rend parfois difficile la compréhension des tarifs et des frais de gestion cachés pour les particuliers."
+      "titre": "Le gouverneur de Californie va transformer toutes les peines de mort dans l'Etat en prison à perpétuité",
+      "lien": "https://www.franceinfo.fr/monde/usa/le-gouverneur-de-californie-va-transformer-toutes-les-peines-de-mort-dans-l-etat-en-prison-a-perpetuite_8269928.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-05T22:55:01+01:00",
+      "resume": "Le gouverneur de Californie, Gavin Newsom, a annoncé sa décision de transformer toutes les peines de mort en peines de prison à perpétuité dans l'État. Il a justifié cette mesure en affirmant que la peine capitale est incompatible avec les valeurs californiennes et qu'elle fragilise le système judiciaire.",
+      "contexte": "Cette décision s'inscrit dans un débat de longue date aux États-Unis sur l'éthique et l'efficacité de la peine de mort. La Californie rejoint ainsi d'autres États ayant suspendu ou aboli les exécutions, souvent en raison de contestations juridiques ou morales sur les conditions d'application de la peine capitale."
     },
     {
-      "titre": "Au Paraguay, le président Santiago Peña annonce sa démission dans la foulée d'une crise bancaire",
-      "lien": "https://www.franceinfo.fr/monde/ameriques/au-paraguay-le-president-santiago-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire_8269847.html#xtor=RSS-3-[lestitres]",
+      "titre": "Crise au Paraguay : démission du président, Santiago Peña, après le gel des avoirs de près de la moitié de la population dans la principale banque du pays",
+      "lien": "https://www.franceinfo.fr/monde/ameriques/crise-au-paraguay-le-president-santiago-pena-demissionne-apres-le-gel-des-avoirs-de-pres-de-la-moitie-de-la-population-dans-la-principale-banque-du-pays_8269922.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-05T22:52:40+01:00",
+      "resume": "Le président du Paraguay, Santiago Peña, a démissionné de ses fonctions suite à une crise bancaire majeure qui a entraîné le gel des avoirs de près de la moitié de la population. Cette démission intervient alors que le Parlement débattait de sa destitution, dans un climat de forte instabilité sociale et économique liée à la banque dont le chef de l'État était actionnaire.",
+      "contexte": "La chute du président illustre la fragilité des systèmes financiers dans certains pays émergents où les liens entre le pouvoir politique et le secteur bancaire peuvent engendrer des conflits d'intérêts. Le gel massif des dépôts a provoqué une perte de confiance immédiate et violente de la population envers les institutions."
+    },
+    {
+      "titre": "Près de 1,6 million de personnes ont défilé en France lors de la mobilisation du 5 novembre selon la CGT, 575 000 selon le ministère de l'Intérieur",
+      "lien": "https://www.franceinfo.fr/economie/greve/greve/pres-de-1-6-million-de-personnes-ont-defile-en-france-lors-de-la-mobilisation-du-5-novembre-selon-la-cgt-575-000-selon-le-ministere-de-l-interieur_8269868.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-05T21:27:05+01:00",
-      "resume": "Le président du Paraguay, Santiago Peña, a annoncé sa démission dans un contexte de crise financière majeure. Cette décision survient 48 heures après que la Banque centrale a placé sous tutelle la banque Ueno, entraînant le gel temporaire des dépôts de près de 3 millions de clients.",
-      "contexte": "Les crises bancaires dans les pays émergents peuvent rapidement entraîner des déstabilisations politiques, la confiance des citoyens envers leurs institutions étant directement liée à la sécurité de leur épargne. La démission du chef de l'État illustre la pression exercée par l'opinion publique face à un risque de faillite systémique."
+      "date": "2026-11-05T21:44:08+01:00",
+      "resume": "La mobilisation sociale du 5 novembre a rassemblé des chiffres divergents : 1,6 million de manifestants selon la CGT, contre 575 000 selon le ministère de l'Intérieur. Les cortèges ont eu lieu dans plusieurs villes de France, avec des participants exprimant soit une volonté de poursuivre le mouvement, soit un sentiment de lassitude face à l'absence de réponse gouvernementale.",
+      "contexte": "Ces manifestations reflètent une tension sociale persistante en France, où les syndicats cherchent à maintenir la pression sur le gouvernement. Le décalage entre les chiffres des organisateurs et ceux des autorités est un phénomène récurrent qui souligne les enjeux de légitimité politique derrière chaque mouvement social."
     },
     {
       "titre": "Condamnées en Iran : l'une à 25 ans de prison, l'autre risque l'execution",
       "lien": "https://www.franceinfo.fr/monde/iran/condamnees-en-iran-l-une-a-25-ans-de-prison-l-autre-risque-l-execution_8269721.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
       "date": "2026-11-05T21:00:02+01:00",
-      "resume": "Deux femmes, Taraneh et Romina, ont été lourdement condamnées par la justice iranienne suite aux manifestations de janvier 2026 à Ispahan. La première a été condamnée à la peine capitale et la seconde à 25 ans de prison, des peines dénoncées par leurs familles comme étant basées sur des aveux forcés.",
-      "contexte": "L'Iran utilise régulièrement des condamnations sévères, incluant la peine de mort, pour réprimer les mouvements de contestation et dissuader toute opposition au régime. La communauté internationale dénonce fréquemment ces procès pour leur manque de transparence et le non-respect des droits humains fondamentaux."
+      "resume": "En Iran, deux femmes ont été condamnées suite aux manifestations de janvier 2026 à Ispahan : Taraneh a reçu une condamnation à mort, tandis que Romina a été condamnée à 25 ans de prison. Leurs familles affirment que ces décisions reposent sur des aveux obtenus sous la contrainte et dénoncent des conditions de détention indignes.",
+      "contexte": "Le système judiciaire iranien est régulièrement critiqué par les organisations internationales pour ses condamnations sévères à l'encontre des opposants politiques et des manifestants. Ces affaires illustrent la répression continue visant à étouffer toute contestation sociale dans le pays."
     },
     {
-      "titre": "Tombeur de Lorenzo Musetti à Paris, Luca Van Assche se qualifie pour la première fois de sa carrière en quart de finale d'un Masters 1000, Arthur Fils déjà éliminé",
-      "lien": "https://www.franceinfo.fr/sports/tennis/malgre-un-gros-combat-arthur-rinderknech-s-incline-en-huitieme-de-finale-du-masters-1000-de-paris-face-a-ben-shelton_8269331.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Que veut dire Habibi ?\" : pic des recherches Google après le discours de victoire de Abdul El-Sayed lors des midterms 2026",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/que-veut-dire-habibi-pic-des-recherches-google-apres-le-discours-de-victoire-de-abdul-el-sayed-lors-des-midterms-2026_8269547.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-05T17:37:02+01:00",
+      "resume": "L'élection du démocrate Abdul El-Sayed au Sénat américain dans le Michigan a suscité une curiosité inhabituelle sur Internet. Son discours de victoire, dans lequel il a utilisé le terme \"Habibi\" pour répondre aux attaques sur ses origines et sa foi, a provoqué un pic de recherches Google sur la signification du mot.",
+      "contexte": "Cette séquence souligne l'importance croissante de la diversité dans la vie politique américaine et la manière dont les réseaux sociaux peuvent transformer des moments rhétoriques en phénomènes culturels. Elle montre également comment les candidats peuvent réapproprier des attaques identitaires pour en faire des outils de communication."
+    }
+  ],
+  "aujourdhui": [
+    {
+      "titre": "Accident de car dans l'Ain : deux jeunes passagers sont morts, dont un mineur, le ministre des Transports attendu sur place",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/direct-accident-d-un-car-scolaire-dans-l-ain-deux-enfants-sont-morts-le-ministre-des-transports-attendu-sur-place_8270534.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-05T20:54:35+01:00",
-      "resume": "Le joueur de tennis français Luca Van Assche s'est qualifié pour les quarts de finale du Masters 1000 de Paris après sa victoire contre l'Italien Lorenzo Musetti. À l'inverse, Arthur Fils a été éliminé de la compétition.",
-      "contexte": "Le Masters 1000 de Paris est l'un des tournois les plus prestigieux du circuit ATP, attirant l'élite mondiale du tennis en fin de saison. La performance des jeunes joueurs français est particulièrement suivie par le public local et les observateurs sportifs."
+      "date": "2026-11-06T12:10:03+01:00",
+      "resume": "Un accident de car dans l'Ain a causé la mort de deux personnes, dont un mineur, et a fait seize blessés, dont trois dans un état grave. Le véhicule est sorti de la route pour heurter un arbre dans un fossé, et les autorités, dont le ministre des Transports, ont été dépêchées sur place.",
+      "contexte": "Des enquêtes sont généralement ouvertes pour déterminer les circonstances précises de tels accidents, incluant des vérifications techniques sur le véhicule et l'état de santé ou la vigilance du conducteur au moment des faits."
     },
     {
-      "titre": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+      "titre": "Jamais un mois d'octobre n'avait été si chaud, annonce le laboratoire Copernicus, qui ajoute que 2026 sera \"probablement\" la 2e année la plus chaude",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/jamais-un-mois-d-octobre-n-avait-ete-si-chaud-annonce-le-laboratoire-copernicus-qui-annonce-que-2026-sera-probablement-la-2e-annee-la-plus-chaude_8270567.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-06T12:02:49+01:00",
+      "resume": "Le laboratoire Copernicus a annoncé que le mois d'octobre 2026 a été le plus chaud jamais enregistré, prédisant également que l'année 2026 sera probablement la deuxième plus chaude de l'histoire. Ce record inclut les températures à la surface des océans, amplifiées par le phénomène El Niño et le changement climatique global.",
+      "contexte": "Ces données confirment la tendance au réchauffement planétaire, avec des conséquences directes sur les écosystèmes et la fréquence des événements climatiques extrêmes. Le phénomène El Niño, bien que naturel, exacerbe les effets de l'augmentation des gaz à effet de serre."
+    },
+    {
+      "titre": "A Lyon, l'entrée du lycée Edouard-Herriot incendiée, des élèves évacués",
+      "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/le-lycee-brule-avec-des-eleves-a-l-interieur-et-certains-exultent-un-incendie-allume-devant-un-lycee-de-lyon-3445323.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-06T11:54:34+01:00",
+      "resume": "L'entrée du lycée Édouard-Herriot à Lyon a été incendiée ce vendredi matin, provoquant l'embrasement de la porte principale. Les élèves ont dû être évacués en urgence suite à cet acte de vandalisme impliquant des poubelles incendiées.",
+      "contexte": "Les établissements scolaires sont parfois le théâtre d'actes de violence lors de périodes de tensions sociales ou de blocages. Les autorités enquêtent pour identifier les responsables de cet incendie criminel."
+    },
+    {
+      "titre": "Ukraine : le bilan de la frappe russe de lundi dans le Sud monte à 50 morts",
+      "lien": "https://www.france24.com/fr/europe/20261106-ukraine-le-bilan-de-la-frappe-russe-de-lundi-dans-le-sud-monte-%C3%A0-50-morts",
+      "source": "France 24",
+      "date": "2026-11-06T11:50:55+01:00",
+      "resume": "Le bilan d'une frappe russe ayant touché un centre de distribution d'aide humanitaire dans le sud de l'Ukraine lundi dernier a été porté à 50 morts. Les secours continuent de fouiller les décombres à la recherche de victimes supplémentaires.",
+      "contexte": "La frappe sur des infrastructures civiles ou humanitaires constitue une violation majeure du droit international humanitaire. Ce type d'attaque aggrave la crise humanitaire dans les zones de conflit et alimente les tensions diplomatiques entre l'Ukraine et la Russie."
+    },
+    {
+      "titre": "Les géants de l'IA s'effondrent en Bourse après la défaite des républicains aux midterms",
+      "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-ia-s-effondre-en-bourse-apres-la-defaite-des-republicains-aux-midterms_8270603.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-06T11:46:42+01:00",
+      "resume": "Les entreprises du secteur de l'intelligence artificielle ont subi une chute en Bourse suite aux résultats des élections de mi-mandat aux États-Unis. Cette réaction des marchés est attribuée au succès de candidats démocrates ayant fait campagne contre le développement intensif des data centers.",
+      "contexte": "Les investisseurs réagissent ici à une possible évolution de la réglementation environnementale et énergétique aux États-Unis. Le développement des data centers, très gourmands en électricité, est devenu un enjeu politique majeur en raison de son impact sur les réseaux électriques locaux."
+    },
+    {
+      "titre": "En Italie, une « taxe de sortie » pour les grandes fortunes",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
       "source": "Le Monde",
-      "date": "2026-11-05T20:35:36+01:00",
-      "resume": "L'indice Nasdaq a chuté de plus de 5 % jeudi 5 novembre suite aux résultats des élections de mi-mandat aux États-Unis. Cette baisse reflète une méfiance croissante des investisseurs vis-à-vis des valeurs liées à l'intelligence artificielle et aux infrastructures de données.",
-      "contexte": "Les marchés financiers réagissent souvent aux changements de majorité politique, craignant des modifications dans la régulation technologique ou les politiques fiscales. La correction boursière indique que la bulle spéculative autour de l'IA pourrait être fragilisée par les nouvelles orientations politiques américaines."
+      "date": "2026-11-06T11:45:05+01:00",
+      "resume": "Le gouvernement italien prévoit l'instauration d'une « exit tax » dans son projet de loi de finances pour 2027. Cette mesure vise à taxer les grandes fortunes qui choisiraient de quitter l'Italie, marquant un revirement par rapport aux politiques précédentes qui cherchaient à attirer les capitaux étrangers.",
+      "contexte": "Cette décision reflète une volonté de protéger la base fiscale nationale face à la mobilité des très riches. Elle marque une inflexion de la stratégie économique italienne, qui avait misé sur des incitations fiscales pour stimuler l'investissement depuis 2017."
     },
     {
-      "titre": "Le gaz lacrymogène a-t-il des effets sur les cycles menstruels ?",
-      "lien": "https://www.franceinfo.fr/vrai-ou-fake/le-gaz-lacrymogene-a-t-il-des-effets-sur-les-cycles-menstruels_8269799.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-05T20:35:22+01:00",
-      "resume": "Une interrogation émerge sur les réseaux sociaux concernant un éventuel lien entre l'inhalation de gaz lacrymogène, utilisé lors des manifestations, et des perturbations du cycle menstruel. De nombreux témoignages de femmes ont suscité des questionnements sur les effets indésirables potentiels de ces produits chimiques.",
-      "contexte": "L'utilisation de gaz lacrymogène est une pratique policière courante pour disperser les foules, mais ses effets à long terme ou spécifiques sur la santé des femmes sont peu documentés médicalement. La multiplication des témoignages encourage une vigilance accrue sur les conséquences sanitaires de ces outils de maintien de l'ordre."
+      "titre": "RD Congo : des milliers d'agents déployés pour lancer le recensement national",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-rd-congo-des-milliers-d-agents-d%C3%A9ploy%C3%A9s-pour-lancer-le-recensement-national",
+      "source": "France 24",
+      "date": "2026-11-06T11:43:34+01:00",
+      "resume": "La République démocratique du Congo a lancé une opération de recensement national, la première depuis 1984, mobilisant des milliers d'agents cartographes. L'opération, qui vise à recueillir des données démographiques précises, représente un coût de 192 millions de dollars.",
+      "contexte": "Le manque de données démographiques fiables complique la planification des services publics et la distribution des ressources dans un pays aussi vaste. Ce recensement est crucial pour moderniser l'administration et améliorer la gouvernance nationale."
+    },
+    {
+      "titre": "Municipales en Afrique du Sud : l'ANC se dirige vers son pire résultat électoral",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261105-municipales-en-afrique-du-sud-l-anc-se-dirige-vers-son-pire-r%C3%A9sultat-%C3%A9lectoral",
+      "source": "France 24",
+      "date": "2026-11-06T11:42:09+01:00",
+      "resume": "Le Congrès national africain (ANC), parti au pouvoir en Afrique du Sud depuis 1994, enregistre les pires résultats électoraux de son histoire lors des élections municipales. Le taux de participation pour ce scrutin, qui s'est tenu mercredi, s'établit à un peu plus d'un électeur sur deux.",
+      "contexte": "L'ANC fait face à une érosion de son électorat historique en raison de préoccupations croissantes concernant la corruption, la gestion des services publics et le chômage. Ce recul marque un tournant politique majeur pour le pays, qui pourrait voir une redistribution des forces locales."
+    },
+    {
+      "titre": "AGOA : les États-Unis menacent d'exclure le Rwanda et l'Afrique du Sud",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-agoa-les-%C3%A9tats-unis-menacent-d-exclure-le-rwanda-et-l-afrique-du-sud",
+      "source": "France 24",
+      "date": "2026-11-06T11:39:07+01:00",
+      "resume": "L'administration américaine menace de retirer le Rwanda et l'Afrique du Sud de l'AGOA, un accord commercial leur permettant d'exporter sans droits de douane vers les États-Unis. La décision concernant le Rwanda est liée aux tensions actuelles concernant la guerre dans l'est de la RD Congo.",
+      "contexte": "L'AGOA est un outil diplomatique et économique majeur pour les pays africains. L'utiliser comme levier de pression politique montre la volonté de Washington d'influencer les dynamiques régionales en Afrique, en particulier dans les zones de conflit actif."
     }
   ],
   "culture": [
     {
-      "theme": "économie",
-      "titre": "La théorie du ruissellement",
-      "texte": "La théorie du ruissellement suggère que les avantages économiques accordés aux plus riches finissent par profiter à l'ensemble de la société. L'idée est que l'investissement et la consommation des plus aisés stimulent la croissance globale, créant ainsi des emplois et de la richesse pour tous. Ce concept a largement influencé les politiques fiscales de plusieurs pays occidentaux au cours des dernières décennies. Cependant, de nombreux économistes débattent aujourd'hui de son efficacité réelle, soulignant une stagnation des revenus des classes moyennes. Cette approche reste un pilier central des discussions sur les inégalités et la justice sociale.",
-      "a_retenir": "La théorie du ruissellement postule que la richesse des plus favorisés finit par irriguer toute l'économie, un concept qui reste vivement contesté."
+      "theme": "vie courante (argent, droit, logement, cuisine, consommation)",
+      "titre": "L'origine du mot « poubelle »",
+      "texte": "Ce terme du langage courant tire en réalité son origine d'un homme politique français du XIXe siècle. Il s'agit d'Eugène Poubelle, préfet de la Seine, qui a rendu obligatoire en 1883 l'utilisation d'un récipient pour les ordures ménagères. Son objectif était d'améliorer l'hygiène de la ville de Paris en évitant que les déchets ne soient jetés directement dans les rues. Face à cette nouveauté, les Parisiens ont rapidement commencé à appeler ces boîtes du nom de leur inventeur. L'usage s'est ensuite généralisé dans tout le pays jusqu'à entrer officiellement dans le dictionnaire.",
+      "a_retenir": "Le mot « poubelle » vient du nom du préfet Eugène Poubelle, qui a imposé l'usage de boîtes à ordures à Paris en 1883."
     },
     {
-      "theme": "santé et corps humain",
-      "titre": "Le rôle du microbiote intestinal",
-      "texte": "Le microbiote intestinal désigne l'ensemble des milliards de micro-organismes qui peuplent notre tube digestif. Loin d'être de simples passagers, ces bactéries jouent un rôle crucial dans la digestion des aliments et la synthèse de certaines vitamines essentielles. Elles agissent également comme une barrière protectrice contre les agents pathogènes et influencent directement le bon fonctionnement de notre système immunitaire. Des recherches récentes suggèrent même un lien étroit entre la santé de ce microbiote et l'équilibre de notre système nerveux. Une alimentation variée et riche en fibres est aujourd'hui recommandée pour maintenir cette flore en bonne santé.",
-      "a_retenir": "Le microbiote intestinal est un écosystème complexe indispensable à notre immunité et à notre équilibre digestif."
+      "theme": "technologie",
+      "titre": "La naissance du format PDF",
+      "texte": "Créé par l'entreprise Adobe au début des années 1990, le format PDF a radicalement transformé notre manière de partager des documents numériques. L'idée initiale était de concevoir un format de fichier universel capable d'être lu sur n'importe quel ordinateur, quel que soit le système d'exploitation ou le logiciel utilisé. Auparavant, envoyer un document d'un traitement de texte à un autre risquait de modifier complètement sa mise en page et ses polices. Le PDF a résolu ce problème en figeant l'apparence visuelle du document, garantissant ainsi qu'il s'imprimerait et s'afficherait exactement de la même manière partout. C'est devenu le standard mondial pour l'échange de documents officiels.",
+      "a_retenir": "Le format PDF a été inventé pour permettre de lire et d'imprimer un document de la même façon sur n'importe quel appareil."
     },
     {
-      "theme": "origine des grands événements ou conflits actuels",
-      "titre": "Les racines de la question taïwanaise",
-      "texte": "La situation actuelle autour de Taïwan trouve son origine dans la guerre civile chinoise qui a opposé les nationalistes aux communistes. Après la défaite des forces nationalistes en 1949, le gouvernement de la République de Chine s'est replié sur l'île de Taïwan. Depuis lors, Pékin considère l'île comme une province rebelle destinée à être réunifiée avec le continent, tandis que Taïwan a développé un système démocratique autonome. Cette divergence politique profonde est devenue l'un des points de tension géopolitique les plus suivis au niveau international. La question cristallise des enjeux de souveraineté, d'influence régionale et de contrôle des routes maritimes stratégiques.",
-      "a_retenir": "La question de Taïwan découle de la fin de la guerre civile chinoise en 1949, créant une séparation politique entre l'île et le continent."
+      "theme": "arts et littérature",
+      "titre": "L'invention du caligramme par Apollinaire",
+      "texte": "Au début du XXe siècle, le poète Guillaume Apollinaire a popularisé un genre littéraire novateur appelé le calligramme. Ce concept consiste à disposer les mots d'un poème de manière à dessiner une silhouette en lien direct avec le sujet évoqué. Par exemple, un poème sur la tour Eiffel prendra visuellement la forme du célèbre monument parisien. Cette démarche artistique audacieuse vise à marier les arts visuels et la poésie pour solliciter à la fois la lecture et le regard. Apollinaire cherchait ainsi à libérer l'écriture des contraintes traditionnelles de la mise en page linéaire.",
+      "a_retenir": "Le calligramme, popularisé par Guillaume Apollinaire, est un poème dont les mots forment un dessin en rapport avec le texte."
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "66ba4c8a0a",
-      "date": "2026-11-05",
-      "type": "actu",
-      "question": "Quel joueur a inscrit le but égalisateur de l'Olympique lyonnais contre la Real Sociedad en Ligue Europa ?",
-      "choix": [
-        "Rayan Cherki",
-        "Corentin Tolisso",
-        "Alexandre Lacazette",
-        "Maxence Caqueret"
-      ],
-      "reponse": 1,
-      "explication": "Corentin Tolisso a marqué le but égalisateur pour le club français lors de ce match nul en Ligue Europa.",
-      "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-olympique-lyonnais-accroche-la-real-sociedad-en-ligue-europa-au-bout-d-un-duel-aprement-dispute_8269802.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "f271280fc0",
-      "date": "2026-11-05",
-      "type": "actu",
-      "question": "Quel incident a poussé le préfet à saisir la justice lors de la manifestation du 5 novembre à Strasbourg ?",
-      "choix": [
-        "L'attaque d'un commissariat",
-        "Le pillage d'une grande surface",
-        "L'incendie d'un bus municipal",
-        "Un mannequin représentant un CRS brûlé"
-      ],
-      "reponse": 3,
-      "explication": "Le préfet a saisi la justice après qu'un mannequin représentant un CRS a été brûlé lors du défilé à Strasbourg.",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "a726938074",
-      "date": "2026-11-05",
-      "type": "actu",
-      "question": "Quelle décision le président du Paraguay, Santiago Peña, a-t-il annoncée à la suite d'une crise financière ?",
-      "choix": [
-        "Sa démission",
-        "L'état d'urgence nationale",
-        "La dissolution du Parlement",
-        "Un référendum constitutionnel"
-      ],
-      "reponse": 0,
-      "explication": "Santiago Peña a annoncé sa démission dans la foulée d'une crise bancaire et du placement sous tutelle de la banque Ueno.",
-      "lien": "https://www.franceinfo.fr/monde/ameriques/au-paraguay-le-president-santiago-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire_8269847.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "3eecfe32f1",
-      "date": "2026-11-05",
-      "type": "actu",
-      "question": "Quel tennisman français s'est qualifié pour la première fois en quart de finale d'un Masters 1000 à Paris en battant Lorenzo Musetti ?",
-      "choix": [
-        "Arthur Fils",
-        "Gaël Monfils",
-        "Luca Van Assche",
-        "Ugo Humbert"
-      ],
-      "reponse": 2,
-      "explication": "Luca Van Assche a battu l'Italien Lorenzo Musetti pour atteindre les quarts de finale du Masters 1000 de Paris.",
-      "lien": "https://www.franceinfo.fr/sports/tennis/malgre-un-gros-combat-arthur-rinderknech-s-incline-en-huitieme-de-finale-du-masters-1000-de-paris-face-a-ben-shelton_8269331.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "ff035f70bd",
-      "date": "2026-11-05",
-      "type": "actu",
-      "question": "Quel indice boursier à Wall Street a chuté de plus de 5 % suite aux élections de mi-mandat aux États-Unis ?",
-      "choix": [
-        "Le Russell 2000",
-        "Le Nasdaq",
-        "Le S&P 500",
-        "Le Dow Jones"
-      ],
-      "reponse": 1,
-      "explication": "L'indice Nasdaq a chuté de plus de 5 % en raison de la méfiance des investisseurs envers les valeurs liées à l'intelligence artificielle après les midterms.",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html"
-    },
-    {
-      "id": "19e420cdba",
-      "date": "2026-11-05",
-      "type": "culture",
-      "question": "Que postule fondamentalement la théorie économique du ruissellement ?",
-      "choix": [
-        "Que l'État doit redistribuer directement les revenus par une fiscalité accrue",
-        "Que l'impôt sur la fortune réduit durablement le chômage",
-        "Que la richesse des plus riches finit par profiter à toute la société par la croissance et l'emploi",
-        "Que la croissance économique repose uniquement sur la consommation des classes moyennes"
-      ],
-      "reponse": 2,
-      "explication": "La théorie du ruissellement suggère que les avantages accordés aux plus aisés stimulent l'investissement et la création de richesses pour l'ensemble de la société.",
-      "lien": ""
-    },
-    {
-      "id": "c02cdf1313",
-      "date": "2026-11-05",
-      "type": "culture",
-      "question": "Quel est le principal événement historique à l'origine de la situation actuelle de Taïwan ?",
-      "choix": [
-        "Le traité de Shimonoseki",
-        "La révolution culturelle chinoise",
-        "La guerre civile chinoise de 1949",
-        "La guerre de Corée"
-      ],
-      "reponse": 2,
-      "explication": "La situation taïwanaise trouve ses racines dans la guerre civile chinoise, après laquelle les nationalistes se sont repliés sur l'île en 1949.",
-      "lien": ""
-    }
-  ]
+  "quiz_jour": []
 }
