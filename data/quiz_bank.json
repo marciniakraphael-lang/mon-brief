@@ -3644,6 +3644,111 @@
       "reponse": 3,
       "explication": "C'est le poète Guillaume Apollinaire qui a popularisé ce genre littéraire consistant à dessiner une silhouette avec les mots du poème.",
       "lien": ""
+    },
+    {
+      "id": "f4825a3020",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Qui Donald Trump a-t-il nommé au poste de directeur de cabinet ?",
+      "choix": [
+        "Stephen Miller",
+        "Un diplomate étranger",
+        "Un membre du parti démocrate",
+        "Chuck Schumer"
+      ],
+      "reponse": 0,
+      "explication": "Le texte indique que Donald Trump a nommé Stephen Miller, un conseiller connu pour sa ligne dure contre l'immigration, au poste de directeur de cabinet.",
+      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "ba8b1bb6e1",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quelle organisation est à l'origine de l'installation illégale aux portes de Gaza ?",
+      "choix": [
+        "L'armée israélienne",
+        "L'organisation Nachala",
+        "L'ONU",
+        "Une association humanitaire"
+      ],
+      "reponse": 1,
+      "explication": "L'article précise que l'avant-poste illégal est rattaché à l'organisation extrémiste de droite Nachala.",
+      "lien": "https://www.franceinfo.fr/monde/palestine/gaza/un-avant-poste-israelien-illegal-aux-portes-de-gaza_8271275.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "4780c0f057",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Pour quel film le réalisateur Sebastián Lelio a-t-il reçu un Oscar en 2017 ?",
+      "choix": [
+        "Une vie chilienne",
+        "Une femme fantastique",
+        "Le cinéma contemporain",
+        "Gloria"
+      ],
+      "reponse": 1,
+      "explication": "L'article mentionne explicitement que Sebastián Lelio a été oscarisé en 2017 pour son film 'Une femme fantastique'.",
+      "lien": "https://www.franceinfo.fr/culture/cinema/le-realisateur-chilien-sebastian-lelio-oscarise-pour-une-femme-fantastique-est-mort-a-l-age-de-52-ans_8271482.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "63472610f8",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quel constructeur a livré le nouveau TGV de nouvelle génération à la SNCF ?",
+      "choix": [
+        "Siemens",
+        "Bombardier",
+        "Alstom",
+        "Thales"
+      ],
+      "reponse": 2,
+      "explication": "Il est indiqué dans l'article que le train a été livré par l'entreprise Alstom.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/06/a-bord-du-tgv-nouvelle-generation-entre-paris-et-marseille-un-train-repense-de-a-a-z-a-la-capacite-accrue-et-moins-gourmand-en-energie_6807856_3234.html"
+    },
+    {
+      "id": "22e3d6e892",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quel président est à l'origine de l'intervention des forces salvadoriennes en Haïti ?",
+      "choix": [
+        "Le chef des gangs",
+        "Nayib Bukele",
+        "Un président européen",
+        "Un dirigeant local haïtien"
+      ],
+      "reponse": 1,
+      "explication": "L'article précise que le déploiement des troupes salvadoriennes est mené sous l'impulsion du président Nayib Bukele.",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261106-ha%C3%AFti-depuis-arriv%C3%A9e-forces-salvadoriennes-gangs-semblent-paniqu%C3%A9s"
+    },
+    {
+      "id": "c50af3b485",
+      "date": "2026-11-06",
+      "type": "culture",
+      "question": "Quelle est l'origine du mot « poubelle » ?",
+      "choix": [
+        "Le nom d'un préfet de la Seine du XIXe siècle",
+        "Le nom d'une ville française célèbre pour son hygiène",
+        "Une abréviation de 'pour les bennes'",
+        "Un terme latin signifiant 'déchet'"
+      ],
+      "reponse": 0,
+      "explication": "Le terme vient d'Eugène Poubelle, préfet de la Seine, qui a rendu obligatoire l'usage de récipients pour les ordures en 1883.",
+      "lien": ""
+    },
+    {
+      "id": "9a632007c8",
+      "date": "2026-11-06",
+      "type": "culture",
+      "question": "Quel est l'objectif principal de l'invention du format PDF par Adobe ?",
+      "choix": [
+        "Permettre la modification collaborative en ligne",
+        "Chiffrer les documents confidentiels",
+        "Garantir un affichage identique sur tous les systèmes",
+        "Réduire la taille des fichiers images"
+      ],
+      "reponse": 2,
+      "explication": "Le format PDF a été conçu pour être universel et figer la mise en page d'un document afin qu'il s'affiche de la même manière sur n'importe quel ordinateur.",
+      "lien": ""
     }
   ]
 }
