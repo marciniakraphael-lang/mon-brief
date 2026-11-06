@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "mode": "evening",
-  "updated": "2026-11-06T21:40:59.662938+01:00",
+  "updated": "2026-11-06T23:48:10.890135+01:00",
   "deja_presente": [
     {
       "titre": "L'Arabie saoudite affirme avoir intercepté un missile tiré par les Houthis dans la région de Médine",
@@ -128,84 +128,84 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Donald Trump promeut comme directeur de cabinet son conseiller Stephen Miller, représentant de la droite identitaire",
+      "titre": "Voyage de Léon XIV en Amérique latine : en Uruguay, le pape évoque sa maladie pour défendre des soins « accessibles à chacun »",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/06/voyage-de-leon-xiv-en-amerique-latine-en-uruguay-le-pape-evoque-sa-maladie-pour-defendre-des-soins-accessibles-a-chacun_6807867_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-06T23:02:24+01:00",
+      "resume": "Le pape Léon XIV a entamé vendredi une tournée en Amérique latine par une visite en Uruguay. Lors de son arrivée à Montevideo, le souverain pontife, récemment opéré d'un cancer du poumon en octobre, a déclaré être en bonne forme. Il a profité de l'occasion pour appeler à des soins de santé accessibles à chacun.",
+      "contexte": "Ce voyage marque une étape importante pour le chef de l'Église catholique, qui poursuit ses déplacements internationaux malgré des problèmes de santé récents. Les questions d'accès universel aux soins de santé constituent un thème récurrent de la doctrine sociale de l'Église, particulièrement résonnant dans les pays en développement."
+    },
+    {
+      "titre": "Escargots, huîtres, viandes d'exception… Les produits de fêtes déjà dans le viseur des cambrioleurs",
+      "lien": "https://www.franceinfo.fr/faits-divers/escargots-huitres-viandes-d-exception-les-produits-de-fetes-deja-dans-le-viseur-des-cambrioleurs_8271554.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-06T22:31:01+01:00",
+      "resume": "À l'approche des fêtes de fin d'année, les vols saisonniers ciblant les produits d'exception se multiplient en France. De nombreux artisans, producteurs, éleveurs, viticulteurs et ostréiculteurs doivent renforcer leur protection contre des cambriolages potentiels visant des denrées comme les escargots, les huîtres et les viandes haut de gamme.",
+      "contexte": "Ce type de délinquance saisonnière connaît traditionnellement une recrudescence à l'approche des festivités de fin d'année, en raison de la forte valeur marchande de ces produits alimentaires. Les professionnels du secteur adoptent régulièrement des mesures de sécurité préventives pour limiter les risques de vols."
+    },
+    {
+      "titre": "Cristiano Ronaldo et le Portugal, c'est fini !",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261106-cristiano-ronaldo-portugal-fini",
+      "source": "France 24",
+      "date": "2026-11-06T22:30:03+01:00",
+      "resume": "Après son départ du rassemblement juste après le match contre la Norvège, Cristiano Ronaldo a finalement décidé de prendre sa retraite internationale. Son bilan avec la sélection portugaise : 234 sélections et 146 buts. Était-il temps pour CR7 de quitter la Seleção ? Désormais, l'objectif pour la lé",
+      "contexte": "La retraite internationale d'un joueur emblématique marque souvent un tournant générationnel pour une sélection nationale. L'athlète se concentre désormais sur des objectifs de records personnels en club."
+    },
+    {
+      "titre": "Alertes à la bombe en Europe : le fondateur de l'\"Etat masculin\" en Russie dément tout lien avec les perturbations",
+      "lien": "https://www.franceinfo.fr/economie/aeronautique/alertes-a-la-bombe-en-europe-le-fondateur-de-l-etat-masculin-en-russie-dement-tout-lien-avec-les-perturbations_8271548.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-06T22:27:34+01:00",
+      "resume": "De fausses alertes à la bombe perturbent depuis plusieurs jours le trafic aérien en Europe, visant plusieurs aéroports avec des messages signés par de prétendus combattants de l'État masculin en Russie. Le fondateur de ce groupe a toutefois démenti tout lien avec ces perturbations.",
+      "contexte": "Les fausses alertes à la bombe dans les transports aériens entraînent des perturbations logistiques majeures et des coûts importants pour les compagnies et les gestionnaires d'infrastructures. L'attribution de ces actes à des groupes en ligne anonymes ou extrémistes complique souvent le travail des autorités pour identifier les véritables auteurs."
+    },
+    {
+      "titre": "JOJ Dakar 2026 : Khady Niang raconte les coulisses d'une cérémonie historique",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-joj-dakar-2026-khady-niang-raconte-les-coulisses-d-une-c%C3%A9r%C3%A9monie-historique",
+      "source": "France 24",
+      "date": "2026-11-06T22:22:31+01:00",
+      "resume": "Le 31 octobre 2026, Dakar a accueilli la cérémonie d'ouverture des premiers Jeux olympiques de la jeunesse organisés sur le continent africain. Intitulé « L'Envol de Sitoé », le spectacle a mis en avant la culture, la danse et les traditions africaines à travers le regard d'une petite fille.",
+      "contexte": "L'organisation de grands événements sportifs internationaux en Afrique représente un enjeu de visibilité et de développement économique et culturel pour le continent. Les Jeux olympiques de la jeunesse visent à promouvoir la jeunesse et le sport à l'échelle mondiale tout en mettant en valeur le patrimoine du pays hôte."
+    },
+    {
+      "titre": "\"Ce sont des conditions inacceptables\" : au cœur d'un lycée vétuste à Montpellier, qui figure parmi les 200 établissements à rénover en priorité",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ce-sont-des-conditions-inacceptables-au-c-ur-d-un-lycee-vetuste-a-montpellier-qui-figure-parmi-les-200-etablissements-a-renover-en-priorite_8271542.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-06T22:10:12+01:00",
+      "resume": "Le gouvernement français a dévoilé cette semaine une liste de 200 lycées prioritaires à rénover, sélectionnés grâce aux signalements effectués sur la plateforme Agora. Parmi eux figure l'un des plus anciens lycées de France, situé à Montpellier, dont les conditions d'accueil ont été jugées inacceptables.",
+      "contexte": "L'état de dégradation du bâti scolaire est un sujet récurrent qui suscite des mobilisations et des critiques syndicales. La création de plateformes de signalement permet d'objectiver les besoins d'investissement pour cibler en priorité les rénovations les plus urgentes."
+    },
+    {
+      "titre": "\"Trump : quand l'Amérique dit stop\" : regardez le documentaire consacré aux midterms et à leurs conséquences",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-trump-quand-l-amerique-dit-stop-regardez-le-documentaire-consacre-aux-midterms-et-a-leurs-consequences_8270936.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-11-06T22:07:06+01:00",
+      "resume": "Les élections de mi-mandat aux États-Unis se sont soldées par une lourde défaite pour Donald Trump et par une victoire nette des démocrates dans les deux chambres, qualifiée de tsunami bleu ou « Bluenami ». Ce scrutin historique est perçu comme un désaveu de la politique de l'administration américaine et du trumpisme, avec de potentielles répercussions sur la politique étrangère, de la guerre en Iran à l'aide à Israël et à l'Ukraine.",
+      "contexte": "Les élections de mi-mandat (midterms) sanctionnent traditionnellement l'action du président en exercice et modifient les équilibres du Congrès américain, restreignant ou facilitant sa marge de manœuvre législative. Un basculement des chambres complique généralement la mise en œuvre de l'agenda présidentiel, notamment sur les grands dossiers internationaux."
+    },
+    {
+      "titre": "Donald Trump promeut son conseiller Stephen Miller, représentant de la droite identitaire,comme directeur de cabinet",
       "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-06T21:27:16+01:00",
-      "resume": "Le président américain a nommé Stephen Miller, connu pour sa ligne dure contre l'immigration et son appartenance à la droite identitaire, au poste de directeur de cabinet. Ce choix a immédiatement provoqué des réactions indignées, notamment de la part du chef des démocrates au Sénat, Chuck Schumer, qui estime qu'il s'agit du pire choix possible.",
-      "contexte": "La nomination de figures radicales à des postes clés de l'administration américaine reflète souvent la volonté de verrouiller l'application de promesses de campagne axées sur la sécurité et le contrôle des frontières. Cela soulignera les divisions partisanes au Congrès et suscite l'inquiétude des opposants politiques ainsi que des associations de défense des droits humains."
+      "date": "2026-11-06T22:02:11+01:00",
+      "resume": "Le président américain a nommé Stephen Miller, représentant de la droite identitaire et partisan d'une ligne dure contre l'immigration, au poste de directeur de cabinet. Ce choix a immédiatement suscité l'indignation de responsables politiques démocrates, à l'instar du chef de la majorité au Sénat Chuck Schumer.",
+      "contexte": "Le choix des collaborateurs à des postes clés de l'exécutif reflète les orientations politiques et stratégiques de l'administration en place. Les nominations de personnalités clivantes suscitent souvent des tensions institutionnelles avec l'opposition parlementaire."
     },
     {
-      "titre": "Plusieurs avocats vont saisir la Cour de justice de la République contre Laurent Nuñez après les blessures infligées à des manifestants",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · Le Monde",
-      "date": "2026-11-06T21:06:35+01:00",
-      "resume": "Plusieurs avocats ont annoncé leur intention de saisir la Cour de justice de la République contre le ministre de l'Intérieur, Laurent Nuñez, en raison de blessures graves infligées à des manifestants par des armes de maintien de l'ordre, à l'instar de Maïssa, éborgnée à Mulhouse. Le ministre s'est dit serein face à ces actions en justice, tandis que le dispositif de sécurité est reconduit avec 70 000 policiers et gendarmes mobilisés pour de nouvelles manifestations.",
-      "contexte": "Ces tensions judiciaires et opérationnelles s'inscrivent dans un contexte récurrent de contestation des méthodes de maintien de l'ordre en France. L'utilisation d'armes intermédiaires lors des manifestations est régulièrement au cœur des débats sur la proportionnalité de la force et les libertés publiques."
-    },
-    {
-      "titre": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
-      "source": "Le Monde",
-      "date": "2026-11-06T21:03:25+01:00",
-      "resume": "L'Irlande a fait l'objet d'alertes à la bombe infondées qui ont visé plusieurs médias locaux ainsi que des vols commerciaux reliant des pays européens. Ces menaces interviennent à seulement une semaine de la tenue de deux sommets européens à Dublin, alors que l'origine et les motivations exactes des auteurs restent pour l'instant indéterminées.",
-      "contexte": "Ce type d'alerte à la minute d'événements géopolitiques majeurs met en lumière la vulnérabilité des infrastructures de transport et de communication face aux menaces hybrides. L'objectif est généralement de perturber l'ordre public ou de tester les capacités de réaction des autorités locales."
-    },
-    {
-      "titre": "Un avant-poste israélien illégal aux portes de Gaza",
-      "lien": "https://www.franceinfo.fr/monde/palestine/gaza/un-avant-poste-israelien-illegal-aux-portes-de-gaza_8271275.html#xtor=RSS-3-%5Bgeneral%5D",
+      "titre": "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida",
+      "lien": "https://www.franceinfo.fr/monde/vatican/le-vatican-pointe-du-doigt-5-pretres-accuses-de-glorifier-la-corrida_8271230.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
-      "date": "2026-11-06T21:00:02+01:00",
-      "resume": "Une vingtaine de familles de colons israéliens, rattachées à l'organisation extrémiste de droite Nachala, se sont installées depuis trois semaines dans un avant-poste illégal aux portes de la bande de Gaza. Les colons affirment leur conviction que l'enclave appartient à Israël et que les Palestiniens doivent en partir, une initiative condamnée par les habitants des kibboutz voisins touchés par les massacres du 7 octobre 2023.",
-      "contexte": "L'implantation d'avant-postes non autorisés par le gouvernement israélien aggrave les tensions locales et complexifie la situation humanitaire et sécuritaire dans la région. Cette dynamique est souvent soutenue par des mouvements radicaux qui cherchent à imposer des faits accomplis territoriaux."
+      "date": "2026-11-06T22:00:02+01:00",
+      "resume": "L'association de défense des droits des animaux PETA a porté plainte au Vatican contre cinq prêtres, qu'elle accuse de glorifier la corrida. Pour l'instant, le Saint-Siège n'a formulé aucune réaction officielle face à cette plainte.",
+      "contexte": "Les questions relatives aux traditions culturelles impliquant la mise à mort d'animaux font régulièrement l'objet de débats éthiques et de mobilisations d'associations de protection animale. L'implication d'institutions religieuses dans ces controverses met en lumière la diversité des sensibilités face aux spectacles taurins."
     },
     {
-      "titre": "Espionnage : faut-il se méfier des voitures chinoises ?",
-      "lien": "https://www.franceinfo.fr/monde/chine/espionnage-faut-il-se-mefier-des-voitures-chinoises_8271485.html#xtor=RSS-3-%5Bgeneral%5D",
+      "titre": "Les voitures chinoises sont-elles des espionnes ?",
+      "lien": "https://www.franceinfo.fr/monde/chine/les-voitures-chinoises-sont-elles-des-espionnes_8271521.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
-      "date": "2026-11-06T20:57:50+01:00",
-      "resume": "La question de l'utilisation potentielle des voitures électriques chinoises comme outils d'espionnage, notamment à travers leurs caméras embarquées, préoccupe les armées de plusieurs pays. Face à ces doutes, des mesures de protection ont été prises et un eurodéputé français a exhorté le Premier ministre à agir rapidement.",
-      "contexte": "Les craintes d'espionnage industriel et étatique s'étendent désormais aux objets connectés et aux véhicules autonomes, alimentées par la rivalité commerciale et technologique croissante entre la Chine et l'Occident. Les gouvernements cherchent à équilibrer transition écologique et impératifs de sécurité nationale."
-    },
-    {
-      "titre": "Attentat de Trappes : les obsèques de Pengo Bossio Wangi se dérouleront samedi",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/06/attentat-de-trappes-les-obseques-de-pengo-bossio-wangi-se-derouleront-samedi_6807863_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-06T20:56:22+01:00",
-      "resume": "Les obsèques de Pengo Bossio Wangi, victime de l'attentat de Trappes, se dérouleront samedi lors d'une cérémonie publique au cimetière paysager de Guyancourt dans les Yvelines. Conformément aux souhaits formulés, l'événement ne sera pas ouvert aux journalistes ni aux personnalités politiques.",
-      "contexte": "Ce type de décision vise généralement à préserver l'intimité du recueillement des proches et de la famille face à l'exposition médiatique générée par ce genre de drame. Les hommages républicains ou privés font l'objet d'un encadrement strict pour éviter les récupérations."
-    },
-    {
-      "titre": "Le réalisateur chilien Sebastián Lelio, oscarisé pour \"Une femme fantastique\", est mort à l'âge de 52 ans",
-      "lien": "https://www.franceinfo.fr/culture/cinema/le-realisateur-chilien-sebastian-lelio-oscarise-pour-une-femme-fantastique-est-mort-a-l-age-de-52-ans_8271482.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-06T20:56:12+01:00",
-      "resume": "Le réalisateur chilien Sebastián Lelio, récompensé à l'international notamment pour son film \"Gloria\" et oscarisé en 2017 pour \"Une femme fantastique\", est décédé à l'âge de 52 ans. Il s'était imposé comme une figure majeure du cinéma contemporain sud-américain.",
-      "contexte": "Sa disparition marque la perte d'un cinéaste reconnu pour ses portraits de femmes fortes et sa capacité à explorer les marges de la société chilienne. Son œuvre a contribué à porter la vitalité du cinéma hispanophone sur la scène mondiale."
-    },
-    {
-      "titre": "Mobilisation de la jeunesse : Sébastien Lecornu recevra les représentants des lycéens et des étudiants lundi",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-06T20:50:20+01:00",
-      "resume": "Le ministre Sébastien Lecornu doit recevoir lundi les représentants des lycéens et des étudiants pour aborder la mobilisation de la jeunesse. Cette rencontre précédera une réunion du comité de réforme de Parcoursup, qui formulera ses premières recommandations dans les prochaines semaines.",
-      "contexte": "L'implication des organisations de jeunesse dans le dialogue social est un passage obligé pour tenter de désamorcer les mouvements de contestation touchant les établissements scolaires. Les questions d'orientation et de sélection post-bac constituent traditionnellement des points de crispation majeurs."
-    },
-    {
-      "titre": "A bord du « TGV nouvelle génération », entre Paris et Marseille : un train repensé de A à Z, à la capacité accrue et moins gourmand en énergie",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/06/a-bord-du-tgv-nouvelle-generation-entre-paris-et-marseille-un-train-repense-de-a-a-z-a-la-capacite-accrue-et-moins-gourmand-en-energie_6807856_3234.html",
-      "source": "Le Monde",
-      "date": "2026-11-06T20:23:08+01:00",
-      "resume": "Le nouveau TGV de nouvelle génération, livré par Alstom à la SNCF avec plus de deux ans de retard, a effectué son voyage inaugural vendredi entre Paris et Marseille. Ce train repensé offre une capacité accrue tout en affichant une consommation d'énergie réduite et vocation à remplacer progressivement les rames les plus anciennes.",
-      "contexte": "Le renouvellement du matériel roulant ferroviaire répond à la double exigence d'augmenter l'offre de transport sur les grandes lignes et de réduire l'empreinte carbone du secteur. Les retards de livraison illustrent les difficultés industrielles rencontrées par les constructeurs ces dernières années."
-    },
-    {
-      "titre": "En Haïti, \"depuis l’arrivée des forces salvadoriennes, les gangs semblent paniqués\"",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261106-ha%C3%AFti-depuis-arriv%C3%A9e-forces-salvadoriennes-gangs-semblent-paniqu%C3%A9s",
-      "source": "France 24",
-      "date": "2026-11-06T20:08:05+01:00",
-      "resume": "Le déploiement de troupes salvadoriennes en Haïti pour lutter contre les gangs suscite un fort espoir au sein d'une partie de la population locale, les groupes armés semblant paniqués par cette intervention. Les bandes criminelles tentent d'empêcher toute expression de soutien public à cette opération menée sous l'impulsion du président Nayib Bukele.",
-      "contexte": "L'exportation des méthodes musclées de lutte contre la criminalité appliquées au Salvador est perçue par certains habitants comme l'ultime recours face à l'effondrement sécuritaire haïtien. Cela soulève toutefois des interrogations sur le respect des droits fondamentaux et la pérennité de telles interventions étrangères."
+      "date": "2026-11-06T22:00:02+01:00",
+      "resume": "Les véhicules connectés chinois dotés de caméras embarquées soulèvent des interrogations quant à leur usage potentiel à des fins d'espionnage. Des mesures de précaution ont déjà été prises par les armées de plusieurs pays comme les États-Unis, le Royaume-Uni, la Norvège et Israël, tandis qu'en France, un eurodéputé a interpellé le Premier ministre sur le sujet.",
+      "contexte": "Le développement rapide de l'industrie automobile chinoise et sa forte composante technologique et numérique posent de nouveaux défis en matière de cybersécurité et de souveraineté nationale. La présence de capteurs et de dispositifs de géolocalisation sur ces objets connectés alimente les craintes d'une utilisation de ces données par des puissances étrangères."
     }
   ],
   "culture": [
@@ -230,108 +230,108 @@
   ],
   "quiz_jour": [
     {
-      "id": "f4825a3020",
+      "id": "40f78b2977",
       "date": "2026-11-06",
       "type": "actu",
-      "question": "Qui Donald Trump a-t-il nommé au poste de directeur de cabinet ?",
+      "question": "Dans quel pays le pape Léon XIV a-t-il entamé sa tournée en Amérique latine ?",
       "choix": [
-        "Stephen Miller",
-        "Un diplomate étranger",
-        "Un membre du parti démocrate",
-        "Chuck Schumer"
+        "En Uruguay",
+        "En Argentine",
+        "Au Chili",
+        "Au Brésil"
       ],
       "reponse": 0,
-      "explication": "Le texte indique que Donald Trump a nommé Stephen Miller, un conseiller connu pour sa ligne dure contre l'immigration, au poste de directeur de cabinet.",
-      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html#xtor=RSS-3-[lestitres]"
+      "explication": "Le pape Léon XIV a entamé sa tournée par une visite en Uruguay, à Montevideo.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/06/voyage-de-leon-xiv-en-amerique-latine-en-uruguay-le-pape-evoque-sa-maladie-pour-defendre-des-soins-accessibles-a-chacun_6807867_3210.html"
     },
     {
-      "id": "ba8b1bb6e1",
+      "id": "bbf4a80553",
       "date": "2026-11-06",
       "type": "actu",
-      "question": "Quelle organisation est à l'origine de l'installation illégale aux portes de Gaza ?",
+      "question": "Quel est le bilan de Cristiano Ronaldo avec la sélection portugaise lors de sa retraite internationale ?",
       "choix": [
-        "L'armée israélienne",
-        "L'organisation Nachala",
-        "L'ONU",
-        "Une association humanitaire"
+        "234 sélections et 146 buts",
+        "150 sélections et 100 buts",
+        "180 sélections et 135 buts",
+        "200 sélections et 120 buts"
       ],
-      "reponse": 1,
-      "explication": "L'article précise que l'avant-poste illégal est rattaché à l'organisation extrémiste de droite Nachala.",
-      "lien": "https://www.franceinfo.fr/monde/palestine/gaza/un-avant-poste-israelien-illegal-aux-portes-de-gaza_8271275.html#xtor=RSS-3-%5Bgeneral%5D"
+      "reponse": 0,
+      "explication": "Cristiano Ronaldo quitte la sélection avec un total de 234 sélections et 146 buts.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261106-cristiano-ronaldo-portugal-fini"
     },
     {
-      "id": "4780c0f057",
+      "id": "f3bd3d43d3",
       "date": "2026-11-06",
       "type": "actu",
-      "question": "Pour quel film le réalisateur Sebastián Lelio a-t-il reçu un Oscar en 2017 ?",
+      "question": "Quel était le nom du spectacle de la cérémonie d'ouverture des JOJ de Dakar 2026 ?",
       "choix": [
-        "Une vie chilienne",
-        "Une femme fantastique",
-        "Le cinéma contemporain",
-        "Gloria"
-      ],
-      "reponse": 1,
-      "explication": "L'article mentionne explicitement que Sebastián Lelio a été oscarisé en 2017 pour son film 'Une femme fantastique'.",
-      "lien": "https://www.franceinfo.fr/culture/cinema/le-realisateur-chilien-sebastian-lelio-oscarise-pour-une-femme-fantastique-est-mort-a-l-age-de-52-ans_8271482.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "63472610f8",
-      "date": "2026-11-06",
-      "type": "actu",
-      "question": "Quel constructeur a livré le nouveau TGV de nouvelle génération à la SNCF ?",
-      "choix": [
-        "Siemens",
-        "Bombardier",
-        "Alstom",
-        "Thales"
+        "« Le Réveil de Dakar »",
+        "« Couleurs d'Afrique »",
+        "« L'Envol de Sitoé »",
+        "« Danse des Traditions »"
       ],
       "reponse": 2,
-      "explication": "Il est indiqué dans l'article que le train a été livré par l'entreprise Alstom.",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/06/a-bord-du-tgv-nouvelle-generation-entre-paris-et-marseille-un-train-repense-de-a-a-z-a-la-capacite-accrue-et-moins-gourmand-en-energie_6807856_3234.html"
+      "explication": "Le spectacle d'ouverture s'intitulait « L'Envol de Sitoé » et mettait en avant la culture africaine.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-joj-dakar-2026-khady-niang-raconte-les-coulisses-d-une-c%C3%A9r%C3%A9monie-historique"
     },
     {
-      "id": "22e3d6e892",
+      "id": "e853732696",
       "date": "2026-11-06",
       "type": "actu",
-      "question": "Quel président est à l'origine de l'intervention des forces salvadoriennes en Haïti ?",
+      "question": "Quel terme a été utilisé pour qualifier la victoire nette des démocrates lors des élections de mi-mandat aux États-Unis ?",
       "choix": [
-        "Le chef des gangs",
-        "Nayib Bukele",
-        "Un président européen",
-        "Un dirigeant local haïtien"
+        "Vague orange",
+        "Tsunami rouge",
+        "Bluenami",
+        "Raz-de-marée républicain"
       ],
-      "reponse": 1,
-      "explication": "L'article précise que le déploiement des troupes salvadoriennes est mené sous l'impulsion du président Nayib Bukele.",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261106-ha%C3%AFti-depuis-arriv%C3%A9e-forces-salvadoriennes-gangs-semblent-paniqu%C3%A9s"
+      "reponse": 2,
+      "explication": "La victoire des démocrates a été qualifiée de tsunami bleu ou de « Bluenami ».",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-trump-quand-l-amerique-dit-stop-regardez-le-documentaire-consacre-aux-midterms-et-a-leurs-consequences_8270936.html#xtor=RSS-3-[lestitres]"
     },
     {
-      "id": "c50af3b485",
+      "id": "1261a54101",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quelle association a porté plainte au Vatican contre cinq prêtres accusés de glorifier la corrida ?",
+      "choix": [
+        "WWF",
+        "Greenpeace",
+        "PETA",
+        "Fondation Brigitte Bardot"
+      ],
+      "reponse": 2,
+      "explication": "C'est l'association de défense des droits des animaux PETA qui a porté plainte au Vatican.",
+      "lien": "https://www.franceinfo.fr/monde/vatican/le-vatican-pointe-du-doigt-5-pretres-accuses-de-glorifier-la-corrida_8271230.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "44733634a4",
       "date": "2026-11-06",
       "type": "culture",
-      "question": "Quelle est l'origine du mot « poubelle » ?",
+      "question": "À qui le mot « poubelle » doit-il son origine au XIXe siècle en France ?",
       "choix": [
-        "Le nom d'un préfet de la Seine du XIXe siècle",
-        "Le nom d'une ville française célèbre pour son hygiène",
-        "Une abréviation de 'pour les bennes'",
-        "Un terme latin signifiant 'déchet'"
+        "Un ministre de l'Intérieur",
+        "Un maire de Paris",
+        "Un préfet de la Seine",
+        "Un inventeur de récipients"
       ],
-      "reponse": 0,
-      "explication": "Le terme vient d'Eugène Poubelle, préfet de la Seine, qui a rendu obligatoire l'usage de récipients pour les ordures en 1883.",
+      "reponse": 2,
+      "explication": "Le mot vient d'Eugène Poubelle, préfet de la Seine, qui a rendu obligatoire l'usage de récipients pour les ordures en 1883.",
       "lien": ""
     },
     {
-      "id": "9a632007c8",
+      "id": "f30f03e33c",
       "date": "2026-11-06",
       "type": "culture",
-      "question": "Quel est l'objectif principal de l'invention du format PDF par Adobe ?",
+      "question": "Quelle entreprise a créé le format de document PDF au début des années 1990 ?",
       "choix": [
-        "Permettre la modification collaborative en ligne",
-        "Chiffrer les documents confidentiels",
-        "Garantir un affichage identique sur tous les systèmes",
-        "Réduire la taille des fichiers images"
+        "Microsoft",
+        "Google",
+        "Apple",
+        "Adobe"
       ],
-      "reponse": 2,
-      "explication": "Le format PDF a été conçu pour être universel et figer la mise en page d'un document afin qu'il s'affiche de la même manière sur n'importe quel ordinateur.",
+      "reponse": 3,
+      "explication": "Le format PDF a été conçu par l'entreprise Adobe pour un partage universel des documents numériques.",
       "lien": ""
     }
   ]

@@ -3749,6 +3749,111 @@
       "reponse": 2,
       "explication": "Le format PDF a été conçu pour être universel et figer la mise en page d'un document afin qu'il s'affiche de la même manière sur n'importe quel ordinateur.",
       "lien": ""
+    },
+    {
+      "id": "40f78b2977",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Dans quel pays le pape Léon XIV a-t-il entamé sa tournée en Amérique latine ?",
+      "choix": [
+        "En Uruguay",
+        "En Argentine",
+        "Au Chili",
+        "Au Brésil"
+      ],
+      "reponse": 0,
+      "explication": "Le pape Léon XIV a entamé sa tournée par une visite en Uruguay, à Montevideo.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/06/voyage-de-leon-xiv-en-amerique-latine-en-uruguay-le-pape-evoque-sa-maladie-pour-defendre-des-soins-accessibles-a-chacun_6807867_3210.html"
+    },
+    {
+      "id": "bbf4a80553",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quel est le bilan de Cristiano Ronaldo avec la sélection portugaise lors de sa retraite internationale ?",
+      "choix": [
+        "234 sélections et 146 buts",
+        "150 sélections et 100 buts",
+        "180 sélections et 135 buts",
+        "200 sélections et 120 buts"
+      ],
+      "reponse": 0,
+      "explication": "Cristiano Ronaldo quitte la sélection avec un total de 234 sélections et 146 buts.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261106-cristiano-ronaldo-portugal-fini"
+    },
+    {
+      "id": "f3bd3d43d3",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quel était le nom du spectacle de la cérémonie d'ouverture des JOJ de Dakar 2026 ?",
+      "choix": [
+        "« Le Réveil de Dakar »",
+        "« Couleurs d'Afrique »",
+        "« L'Envol de Sitoé »",
+        "« Danse des Traditions »"
+      ],
+      "reponse": 2,
+      "explication": "Le spectacle d'ouverture s'intitulait « L'Envol de Sitoé » et mettait en avant la culture africaine.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-joj-dakar-2026-khady-niang-raconte-les-coulisses-d-une-c%C3%A9r%C3%A9monie-historique"
+    },
+    {
+      "id": "e853732696",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quel terme a été utilisé pour qualifier la victoire nette des démocrates lors des élections de mi-mandat aux États-Unis ?",
+      "choix": [
+        "Vague orange",
+        "Tsunami rouge",
+        "Bluenami",
+        "Raz-de-marée républicain"
+      ],
+      "reponse": 2,
+      "explication": "La victoire des démocrates a été qualifiée de tsunami bleu ou de « Bluenami ».",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-trump-quand-l-amerique-dit-stop-regardez-le-documentaire-consacre-aux-midterms-et-a-leurs-consequences_8270936.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "1261a54101",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quelle association a porté plainte au Vatican contre cinq prêtres accusés de glorifier la corrida ?",
+      "choix": [
+        "WWF",
+        "Greenpeace",
+        "PETA",
+        "Fondation Brigitte Bardot"
+      ],
+      "reponse": 2,
+      "explication": "C'est l'association de défense des droits des animaux PETA qui a porté plainte au Vatican.",
+      "lien": "https://www.franceinfo.fr/monde/vatican/le-vatican-pointe-du-doigt-5-pretres-accuses-de-glorifier-la-corrida_8271230.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "44733634a4",
+      "date": "2026-11-06",
+      "type": "culture",
+      "question": "À qui le mot « poubelle » doit-il son origine au XIXe siècle en France ?",
+      "choix": [
+        "Un ministre de l'Intérieur",
+        "Un maire de Paris",
+        "Un préfet de la Seine",
+        "Un inventeur de récipients"
+      ],
+      "reponse": 2,
+      "explication": "Le mot vient d'Eugène Poubelle, préfet de la Seine, qui a rendu obligatoire l'usage de récipients pour les ordures en 1883.",
+      "lien": ""
+    },
+    {
+      "id": "f30f03e33c",
+      "date": "2026-11-06",
+      "type": "culture",
+      "question": "Quelle entreprise a créé le format de document PDF au début des années 1990 ?",
+      "choix": [
+        "Microsoft",
+        "Google",
+        "Apple",
+        "Adobe"
+      ],
+      "reponse": 3,
+      "explication": "Le format PDF a été conçu par l'entreprise Adobe pour un partage universel des documents numériques.",
+      "lien": ""
     }
   ]
 }
