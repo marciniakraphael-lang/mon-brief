@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
-  "mode": "morning",
-  "updated": "2026-11-06T12:14:40.938458+01:00",
+  "mode": "evening",
+  "updated": "2026-11-06T14:40:57.397965+01:00",
   "deja_presente": [
     {
       "titre": "L'Arabie saoudite affirme avoir intercepté un missile tiré par les Houthis dans la région de Médine",
@@ -128,76 +128,92 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Accident de car dans l'Ain : deux jeunes passagers sont morts, dont un mineur, le ministre des Transports attendu sur place",
-      "lien": "https://www.franceinfo.fr/faits-divers/accident/direct-accident-d-un-car-scolaire-dans-l-ain-deux-enfants-sont-morts-le-ministre-des-transports-attendu-sur-place_8270534.html#xtor=RSS-3-[lestitres]",
+      "titre": "Deux morts, une enquête ouverte… Ce que l'on sait de l'accident de car près de Bourg-en-Bresse, dans l'Ain",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/deux-morts-une-enquete-ouverte-ce-que-l-on-sait-de-l-accident-de-car-pres-de-bourg-en-bresse-dans-l-ain_8270546.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-06T12:10:03+01:00",
-      "resume": "Un accident de car dans l'Ain a causé la mort de deux personnes, dont un mineur, et a fait seize blessés, dont trois dans un état grave. Le véhicule est sorti de la route pour heurter un arbre dans un fossé, et les autorités, dont le ministre des Transports, ont été dépêchées sur place.",
-      "contexte": "Des enquêtes sont généralement ouvertes pour déterminer les circonstances précises de tels accidents, incluant des vérifications techniques sur le véhicule et l'état de santé ou la vigilance du conducteur au moment des faits."
+      "date": "2026-11-06T14:35:52+01:00",
+      "resume": "Un grave accident de car s'est produit vendredi matin dans le secteur de Lent, près de Bourg-en-Bresse dans l'Ain. Le véhicule a quitté la route pour aller heurter un arbre dans le fossé. Le bilan fait état de deux morts, une fillette de sept ans et un jeune homme de 18 ans, ainsi que de seize blessés.",
+      "contexte": "Les accidents impliquant des autocars restent relativement rares en France mais ont un impact émotionnel très fort en raison du nombre de victimes potentielles. Les enquêtes techniques et judiciaires déterminent généralement si l'accident est dû à une défaillance mécanique, un malaise du conducteur, une cause externe ou une inattention."
     },
     {
-      "titre": "Jamais un mois d'octobre n'avait été si chaud, annonce le laboratoire Copernicus, qui ajoute que 2026 sera \"probablement\" la 2e année la plus chaude",
-      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/jamais-un-mois-d-octobre-n-avait-ete-si-chaud-annonce-le-laboratoire-copernicus-qui-annonce-que-2026-sera-probablement-la-2e-annee-la-plus-chaude_8270567.html#xtor=RSS-3-[lestitres]",
+      "titre": "Plusieurs avocats vont saisir la Cour de justice de la République contre le ministre de l'Intérieur Laurent Nuñez, après les blessures infligées à des manifestants",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-06T12:02:49+01:00",
-      "resume": "Le laboratoire Copernicus a annoncé que le mois d'octobre 2026 a été le plus chaud jamais enregistré, prédisant également que l'année 2026 sera probablement la deuxième plus chaude de l'histoire. Ce record inclut les températures à la surface des océans, amplifiées par le phénomène El Niño et le changement climatique global.",
-      "contexte": "Ces données confirment la tendance au réchauffement planétaire, avec des conséquences directes sur les écosystèmes et la fréquence des événements climatiques extrêmes. Le phénomène El Niño, bien que naturel, exacerbe les effets de l'augmentation des gaz à effet de serre."
+      "date": "2026-11-06T14:33:15+01:00",
+      "resume": "Plusieurs avocats ont annoncé leur intention de saisir la Cour de justice de la République contre le ministre de l'Intérieur Laurent Nuñez. Ils lui reprochent le recours à des armes jugées mutilantes lors des récentes opérations de maintien de l'ordre face aux manifestants.",
+      "contexte": "L'usage de certaines armes de force intermédiaire par les forces de l'ordre lors des manifestations est un sujet de débat récurrent en France. Les associations de défense des droits humains et les avocats dénoncent régulièrement la dangerosité de ces équipements, tandis que les autorités rappellent qu'ils sont indispensables pour assurer la sécurité des policiers et contenir les violences urbaines."
     },
     {
-      "titre": "A Lyon, l'entrée du lycée Edouard-Herriot incendiée, des élèves évacués",
-      "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/le-lycee-brule-avec-des-eleves-a-l-interieur-et-certains-exultent-un-incendie-allume-devant-un-lycee-de-lyon-3445323.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-06T11:54:34+01:00",
-      "resume": "L'entrée du lycée Édouard-Herriot à Lyon a été incendiée ce vendredi matin, provoquant l'embrasement de la porte principale. Les élèves ont dû être évacués en urgence suite à cet acte de vandalisme impliquant des poubelles incendiées.",
-      "contexte": "Les établissements scolaires sont parfois le théâtre d'actes de violence lors de périodes de tensions sociales ou de blocages. Les autorités enquêtent pour identifier les responsables de cet incendie criminel."
-    },
-    {
-      "titre": "Ukraine : le bilan de la frappe russe de lundi dans le Sud monte à 50 morts",
-      "lien": "https://www.france24.com/fr/europe/20261106-ukraine-le-bilan-de-la-frappe-russe-de-lundi-dans-le-sud-monte-%C3%A0-50-morts",
+      "titre": "La France insoumise présente un programme pour la présidentielle 2027 fidèle à sa volonté de rupture",
+      "lien": "https://www.france24.com/fr/france/20261106-france-insoumise-jean-luc-melenchon-presente-programme-presidentielle-2027-fidele-volonte-rupture-lfi",
       "source": "France 24",
-      "date": "2026-11-06T11:50:55+01:00",
-      "resume": "Le bilan d'une frappe russe ayant touché un centre de distribution d'aide humanitaire dans le sud de l'Ukraine lundi dernier a été porté à 50 morts. Les secours continuent de fouiller les décombres à la recherche de victimes supplémentaires.",
-      "contexte": "La frappe sur des infrastructures civiles ou humanitaires constitue une violation majeure du droit international humanitaire. Ce type d'attaque aggrave la crise humanitaire dans les zones de conflit et alimente les tensions diplomatiques entre l'Ukraine et la Russie."
+      "date": "2026-11-06T14:32:46+01:00",
+      "resume": "La France insoumise a publié vendredi son programme pour l'élection présidentielle de 2027, incarné par son candidat Jean-Luc Mélenchon et vendu sous forme de livre à 4,90 euros. Ce texte constitue une mise à jour de leur précédent programme 'L'Avenir en commun' et s'articule principalement autour de la planification écologique. Il contient 1 069 mesures, dont 238 nouvelles.",
+      "contexte": "À l'approche des échéances électorales, les formations politiques cherchent à structurer le débat public en présentant de nouveaux projets de société. La publication de programmes sous forme d'ouvrages accessibles au grand public est une stratégie courante pour diffuser les propositions et marquer le début de la campagne."
     },
     {
-      "titre": "Les géants de l'IA s'effondrent en Bourse après la défaite des républicains aux midterms",
-      "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-ia-s-effondre-en-bourse-apres-la-defaite-des-republicains-aux-midterms_8270603.html#xtor=RSS-3-[lestitres]",
+      "titre": "Israël : le président annoncera dimanche qui sera chargé de former le prochain gouvernement",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-isra%C3%ABl-le-pr%C3%A9sident-annoncera-dimanche-qui-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
+      "source": "France 24",
+      "date": "2026-11-06T14:30:33+01:00",
+      "resume": "Le président israélien Isaac Herzog annoncera dimanche le nom de la personne qu'il chargera de former le prochain gouvernement. Cette décision intervient à l'issue d'élections législatives particulièrement serrées et d'une série de consultations menées cette semaine avec les différents partis politiques.",
+      "contexte": "Le système politique israélien, fondé sur la proportionnelle intégrale, conduit presque toujours à la formation de gouvernements de coalition fragiles nécessitant des négociations complexes. Le rôle du président est d'arbitrer ces discussions en confiant le mandat de formation à la personnalité jugée ayant le plus de chances de réunir une majorité à la Knesset."
+    },
+    {
+      "titre": "Julie Ollivier, la première femme à avoir accusé l'animateur Cauet de viols, s'est suicidée à l'âge de 28 ans",
+      "lien": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/macon/julie-ollivier-la-premiere-femme-a-avoir-accuse-l-animateur-cauet-de-viols-s-est-suicidee-a-l-age-de-28-ans-3445449.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-06T11:46:42+01:00",
-      "resume": "Les entreprises du secteur de l'intelligence artificielle ont subi une chute en Bourse suite aux résultats des élections de mi-mandat aux États-Unis. Cette réaction des marchés est attribuée au succès de candidats démocrates ayant fait campagne contre le développement intensif des data centers.",
-      "contexte": "Les investisseurs réagissent ici à une possible évolution de la réglementation environnementale et énergétique aux États-Unis. Le développement des data centers, très gourmands en électricité, est devenu un enjeu politique majeur en raison de son impact sur les réseaux électriques locaux."
+      "date": "2026-11-06T14:29:23+01:00",
+      "resume": "Julie Ollivier, reconnue comme la première femme à avoir porté plainte pour viol contre l'animateur Sébastien Cauet, s'est suicidée à l'âge de 28 ans. Sa famille a fait savoir par la suite qu'elle comptait poursuivre le combat judiciaire engagé contre l'animateur.",
+      "contexte": "Les affaires de violences sexuelles impliquant des personnalités médiatiques soulèvent régulièrement la question de l'accompagnement des victimes et de la longueur des procédures judiciaires. Le suicide de plaignantes dans des affaires à forte exposition médiatique met en lumière la pression psychologique intense qui pèse sur les parties prenantes."
     },
     {
-      "titre": "En Italie, une « taxe de sortie » pour les grandes fortunes",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
+      "titre": "Des ONG de protection de l'environnement demandent un \"moratoire\" sur l'expansion des data centers en France et en Europe",
+      "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/des-ong-de-protection-de-l-environnement-demandent-un-moratoire-sur-l-expansion-des-data-centers-en-france-et-en-europe_8270879.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-06T14:28:06+01:00",
+      "resume": "Des ONG de protection de l'environnement se mobilisent vendredi 6 et samedi 7 novembre dans plusieurs pays européens sous le slogan 'Stop aux centres de données polluants'. Elles réclament un moratoire immédiat sur l'expansion continue de ces data centers en France et en Europe.",
+      "contexte": "La numérotation croissante de l'économie et l'essor des technologies liées à l'intelligence artificielle entraînent une demande massive en infrastructures de stockage et de traitement des données, très énergivores. Cette situation crée des tensions croissantes entre les besoins numériques de développement et les impératifs de transition écologique et de sobriété énergétique."
+    },
+    {
+      "titre": "Avion dérouté à Évreux après une alerte à la bombe : les passagers acheminés vers Roissy",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-avion-d%C3%A9rout%C3%A9-%C3%A0-%C3%A9vreux-apr%C3%A8s-une-alerte-%C3%A0-la-bombe-les-passagers-achemin%C3%A9s-vers-roissy",
+      "source": "France 24",
+      "date": "2026-11-06T14:18:31+01:00",
+      "resume": "Les passagers de l'avion d'Aer Lingus reliant Dublin à Rome qui avait été dérouté la veille vers la base aérienne d'Évreux à la suite d'une alerte à la bombe ont pu reprendre leur voyage. Ils ont été acheminés jeudi soir par autocars vers l'aéroport de Roissy pour embarquer vers leur destination initiale.",
+      "contexte": "Les alertes à la bombe dans le secteur aérien déclenchent systématiquement des protocoles de sécurité stricts, obligeant les autorités à dérouter les appareils vers les pistes ou bases militaires les plus proches pour effectuer des fouilles approfondies. Ces incidents, bien que souvent infondés, entraînent d'importantes perturbations logistiques et des retards pour les passagers."
+    },
+    {
+      "titre": "France : le nouveau TGV d'Alstom est enfin sur les rails",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-france-le-nouveau-tgv-d-alstom-est-enfin-sur-les-rails",
+      "source": "France 24",
+      "date": "2026-11-06T14:16:12+01:00",
+      "resume": "Le nouveau TGV d'Alstom a effectué son tout premier service commercial vendredi, s'élançant à 9h56 de Paris à destination de Marseille. Le train est parti avec un retard de deux ans et demi sur le calendrier initial, mais intègre de nombreuses innovations techniques destinées à moderniser le transport à grande vitesse.",
+      "contexte": "Le renouvellement et la modernisation du matériel roulant sont des enjeux majeurs pour la SNCF, qui cherche à accroître la capacité, le confort et l'efficacité énergétique de ses lignes à grande vitesse. Les retards dans la livraison de tels projets industriels complexes s'expliquent généralement par des difficultés techniques et des exigences de certification strictes."
+    },
+    {
+      "titre": "Coup de froid entre l’Azerbaïdjan et la Turquie sur fond d’« affaire du voile » et d’ambitions régionales contrariées",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/06/coup-de-froid-entre-l-azerbaidjan-et-la-turquie-sur-fond-d-affaire-du-voile-et-d-ambitions-regionales-contrariees_6807789_3210.html",
       "source": "Le Monde",
-      "date": "2026-11-06T11:45:05+01:00",
-      "resume": "Le gouvernement italien prévoit l'instauration d'une « exit tax » dans son projet de loi de finances pour 2027. Cette mesure vise à taxer les grandes fortunes qui choisiraient de quitter l'Italie, marquant un revirement par rapport aux politiques précédentes qui cherchaient à attirer les capitaux étrangers.",
-      "contexte": "Cette décision reflète une volonté de protéger la base fiscale nationale face à la mobilité des très riches. Elle marque une inflexion de la stratégie économique italienne, qui avait misé sur des incitations fiscales pour stimuler l'investissement depuis 2017."
+      "date": "2026-11-06T14:00:19+01:00",
+      "resume": "Un désaccord diplomatique est apparu entre l'Azerbaïdjan et la Turquie, qualifiés traditionnellement d'alliés proches. Cette querelle trouve son origine dans une décision de Bakou d'interdire le port du hijab dans ses établissements scolaires, mettant en lumière des rivalités d'influence et des ambitions régionales contrariées.",
+      "contexte": "Les relations entre les pays de la région turcophone et du Caucase sont souvent traversées par des dynamiques complexes oscillant entre solidarité culturelle et divergences géopolitiques nationales. La question des symboles religieux et des choix sociétaux constitue parfois un révélateur des tensions diplomatiques sous-jacentes."
     },
     {
-      "titre": "RD Congo : des milliers d'agents déployés pour lancer le recensement national",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-rd-congo-des-milliers-d-agents-d%C3%A9ploy%C3%A9s-pour-lancer-le-recensement-national",
-      "source": "France 24",
-      "date": "2026-11-06T11:43:34+01:00",
-      "resume": "La République démocratique du Congo a lancé une opération de recensement national, la première depuis 1984, mobilisant des milliers d'agents cartographes. L'opération, qui vise à recueillir des données démographiques précises, représente un coût de 192 millions de dollars.",
-      "contexte": "Le manque de données démographiques fiables complique la planification des services publics et la distribution des ressources dans un pays aussi vaste. Ce recensement est crucial pour moderniser l'administration et améliorer la gouvernance nationale."
+      "titre": "Midterms 2026 : l’espoir ravivé des gauches latino-américaines après la victoire des démocrates",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/06/midterms-2026-l-espoir-ravive-des-gauches-latino-americaines-apres-la-victoire-des-democrates_6807788_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-06T14:00:07+01:00",
+      "resume": "La réélection du président brésilien Luiz Inacio Lula da Silva et la victoire des démocrates au Congrès américain sont perçues comme un espoir pour les gauches latino-américaines. Ces succès politiques constituent à l'inverse un revers important pour les dirigeants de la région qui s'étaient alignés sans réserve sur l'ancien président américain Donald Trump.",
+      "contexte": "La géopolitique de l'Amérique latine est traditionnellement marquée par des balanciers idéologiques entre gouvernements de gauche et de droite. Les victoires électorales aux États-Unis ou dans les grands pays de la région modifient les équilibres diplomatiques et influencent les politiques économiques locales."
     },
     {
-      "titre": "Municipales en Afrique du Sud : l'ANC se dirige vers son pire résultat électoral",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261105-municipales-en-afrique-du-sud-l-anc-se-dirige-vers-son-pire-r%C3%A9sultat-%C3%A9lectoral",
-      "source": "France 24",
-      "date": "2026-11-06T11:42:09+01:00",
-      "resume": "Le Congrès national africain (ANC), parti au pouvoir en Afrique du Sud depuis 1994, enregistre les pires résultats électoraux de son histoire lors des élections municipales. Le taux de participation pour ce scrutin, qui s'est tenu mercredi, s'établit à un peu plus d'un électeur sur deux.",
-      "contexte": "L'ANC fait face à une érosion de son électorat historique en raison de préoccupations croissantes concernant la corruption, la gestion des services publics et le chômage. Ce recul marque un tournant politique majeur pour le pays, qui pourrait voir une redistribution des forces locales."
-    },
-    {
-      "titre": "AGOA : les États-Unis menacent d'exclure le Rwanda et l'Afrique du Sud",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-agoa-les-%C3%A9tats-unis-menacent-d-exclure-le-rwanda-et-l-afrique-du-sud",
-      "source": "France 24",
-      "date": "2026-11-06T11:39:07+01:00",
-      "resume": "L'administration américaine menace de retirer le Rwanda et l'Afrique du Sud de l'AGOA, un accord commercial leur permettant d'exporter sans droits de douane vers les États-Unis. La décision concernant le Rwanda est liée aux tensions actuelles concernant la guerre dans l'est de la RD Congo.",
-      "contexte": "L'AGOA est un outil diplomatique et économique majeur pour les pays africains. L'utiliser comme levier de pression politique montre la volonté de Washington d'influencer les dynamiques régionales en Afrique, en particulier dans les zones de conflit actif."
+      "titre": "\"Un pays de propriétaires\" : pourquoi y a-t-il si peu de logements sociaux en Espagne ?",
+      "lien": "https://www.franceinfo.fr/monde/espagne/un-pays-de-proprietaires-pourquoi-y-a-t-il-si-peu-de-logements-sociaux-en-espagne_8270816.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-06T13:59:31+01:00",
+      "resume": "L'Espagne se caractérise par un taux particulièrement faible de logements sociaux en comparaison des autres pays européens, disposant de l'un des parcs locatifs sociaux les plus réduits du continent. Cette situation est la conséquence de plusieurs décennies de politiques publiques qui ont systématiquement favorisé l'accession à la propriété privée au détriment de la location sociale.",
+      "contexte": "La crise du logement en Espagne et dans de nombreuses métropoles européennes est aggravée par la pénurie de biens abordables et la pression du marché immobilier. Les choix politiques passés axés sur la propriété ont laissé de nombreuses populations vulnérables sans alternatives viables face à la hausse des loyers."
     }
   ],
   "culture": [
@@ -220,5 +236,111 @@
       "a_retenir": "Le calligramme, popularisé par Guillaume Apollinaire, est un poème dont les mots forment un dessin en rapport avec le texte."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "0060eca79d",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quel a été le bilan humain de l'accident de car survenu près de Bourg-en-Bresse ?",
+      "choix": [
+        "Une dizaine de morts",
+        "Aucun blessé grave",
+        "Cinq morts et dix blessés",
+        "Deux morts et seize blessés"
+      ],
+      "reponse": 3,
+      "explication": "L'accident a fait deux morts (une fillette de sept ans et un jeune homme de 18 ans) ainsi que seize blessés.",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/deux-morts-une-enquete-ouverte-ce-que-l-on-sait-de-l-accident-de-car-pres-de-bourg-en-bresse-dans-l-ain_8270546.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e9508d90e2",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quel est le sujet principal du programme pour la présidentielle 2027 présenté par La France insoumise ?",
+      "choix": [
+        "La sortie de l'Union européenne",
+        "La planification écologique",
+        "La nationalisation des banques",
+        "La baisse massive des impôts"
+      ],
+      "reponse": 1,
+      "explication": "Le programme s'articule principalement autour de la planification écologique et contient 1 069 mesures.",
+      "lien": "https://www.france24.com/fr/france/20261106-france-insoumise-jean-luc-melenchon-presente-programme-presidentielle-2027-fidele-volonte-rupture-lfi"
+    },
+    {
+      "id": "9febd29915",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Qui était Julie Ollivier, décédée à l'âge de 28 ans ?",
+      "choix": [
+        "La première femme à avoir porté plainte pour viol contre l'animateur Cauet",
+        "Une avocate spécialisée dans les droits des femmes",
+        "Une journaliste d'investigation",
+        "Une ministre française"
+      ],
+      "reponse": 0,
+      "explication": "Julie Ollivier était reconnue comme la première femme à avoir porté plainte pour viol contre l'animateur Sébastien Cauet.",
+      "lien": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/macon/julie-ollivier-la-premiere-femme-a-avoir-accuse-l-animateur-cauet-de-viols-s-est-suicidee-a-l-age-de-28-ans-3445449.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "fa3f86f04f",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Pour quelle raison un avion reliant Dublin à Rome a-t-il été dérouté vers Évreux ?",
+      "choix": [
+        "Un problème de carburant",
+        "Des conditions météorologiques extrêmes",
+        "Une panne de moteur",
+        "Une alerte à la bombe"
+      ],
+      "reponse": 3,
+      "explication": "L'avion a été dérouté vers la base aérienne d'Évreux à la suite d'une alerte à la bombe.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-avion-d%C3%A9rout%C3%A9-%C3%A0-%C3%A9vreux-apr%C3%A8s-une-alerte-%C3%A0-la-bombe-les-passagers-achemin%C3%A9s-vers-roissy"
+    },
+    {
+      "id": "9296d27368",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quelle ville était la destination du tout premier service commercial du nouveau TGV d'Alstom ?",
+      "choix": [
+        "Marseille",
+        "Bordeaux",
+        "Lille",
+        "Lyon"
+      ],
+      "reponse": 0,
+      "explication": "Le train est parti de Paris à destination de Marseille.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-france-le-nouveau-tgv-d-alstom-est-enfin-sur-les-rails"
+    },
+    {
+      "id": "b31492b00a",
+      "date": "2026-11-06",
+      "type": "culture",
+      "question": "À quel personnage historique doit-on l'origine du mot « poubelle » en France ?",
+      "choix": [
+        "Eugène Poubelle, préfet de la Seine au XIXe siècle",
+        "Le maire de Paris en 1900",
+        "Un ministre de la Propreté sous Napoléon III",
+        "Un inventeur nommé Jean-Baptiste Poubelle"
+      ],
+      "reponse": 0,
+      "explication": "Le terme vient d'Eugène Poubelle, préfet de la Seine, qui a rendu obligatoire en 1883 l'utilisation d'un récipient pour les ordures ménagères.",
+      "lien": ""
+    },
+    {
+      "id": "8cb19db87d",
+      "date": "2026-11-06",
+      "type": "culture",
+      "question": "Quel poète a popularisé le concept du « calligramme » au début du XXe siècle ?",
+      "choix": [
+        "Arthur Rimbaud",
+        "Victor Hugo",
+        "Charles Baudelaire",
+        "Guillaume Apollinaire"
+      ],
+      "reponse": 3,
+      "explication": "C'est le poète Guillaume Apollinaire qui a popularisé ce genre littéraire consistant à dessiner une silhouette avec les mots du poème.",
+      "lien": ""
+    }
+  ]
 }

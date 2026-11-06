@@ -3539,6 +3539,111 @@
       "reponse": 2,
       "explication": "La situation taïwanaise trouve ses racines dans la guerre civile chinoise, après laquelle les nationalistes se sont repliés sur l'île en 1949.",
       "lien": ""
+    },
+    {
+      "id": "0060eca79d",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quel a été le bilan humain de l'accident de car survenu près de Bourg-en-Bresse ?",
+      "choix": [
+        "Une dizaine de morts",
+        "Aucun blessé grave",
+        "Cinq morts et dix blessés",
+        "Deux morts et seize blessés"
+      ],
+      "reponse": 3,
+      "explication": "L'accident a fait deux morts (une fillette de sept ans et un jeune homme de 18 ans) ainsi que seize blessés.",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/deux-morts-une-enquete-ouverte-ce-que-l-on-sait-de-l-accident-de-car-pres-de-bourg-en-bresse-dans-l-ain_8270546.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "e9508d90e2",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quel est le sujet principal du programme pour la présidentielle 2027 présenté par La France insoumise ?",
+      "choix": [
+        "La sortie de l'Union européenne",
+        "La planification écologique",
+        "La nationalisation des banques",
+        "La baisse massive des impôts"
+      ],
+      "reponse": 1,
+      "explication": "Le programme s'articule principalement autour de la planification écologique et contient 1 069 mesures.",
+      "lien": "https://www.france24.com/fr/france/20261106-france-insoumise-jean-luc-melenchon-presente-programme-presidentielle-2027-fidele-volonte-rupture-lfi"
+    },
+    {
+      "id": "9febd29915",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Qui était Julie Ollivier, décédée à l'âge de 28 ans ?",
+      "choix": [
+        "La première femme à avoir porté plainte pour viol contre l'animateur Cauet",
+        "Une avocate spécialisée dans les droits des femmes",
+        "Une journaliste d'investigation",
+        "Une ministre française"
+      ],
+      "reponse": 0,
+      "explication": "Julie Ollivier était reconnue comme la première femme à avoir porté plainte pour viol contre l'animateur Sébastien Cauet.",
+      "lien": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/macon/julie-ollivier-la-premiere-femme-a-avoir-accuse-l-animateur-cauet-de-viols-s-est-suicidee-a-l-age-de-28-ans-3445449.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "fa3f86f04f",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Pour quelle raison un avion reliant Dublin à Rome a-t-il été dérouté vers Évreux ?",
+      "choix": [
+        "Un problème de carburant",
+        "Des conditions météorologiques extrêmes",
+        "Une panne de moteur",
+        "Une alerte à la bombe"
+      ],
+      "reponse": 3,
+      "explication": "L'avion a été dérouté vers la base aérienne d'Évreux à la suite d'une alerte à la bombe.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-avion-d%C3%A9rout%C3%A9-%C3%A0-%C3%A9vreux-apr%C3%A8s-une-alerte-%C3%A0-la-bombe-les-passagers-achemin%C3%A9s-vers-roissy"
+    },
+    {
+      "id": "9296d27368",
+      "date": "2026-11-06",
+      "type": "actu",
+      "question": "Quelle ville était la destination du tout premier service commercial du nouveau TGV d'Alstom ?",
+      "choix": [
+        "Marseille",
+        "Bordeaux",
+        "Lille",
+        "Lyon"
+      ],
+      "reponse": 0,
+      "explication": "Le train est parti de Paris à destination de Marseille.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-france-le-nouveau-tgv-d-alstom-est-enfin-sur-les-rails"
+    },
+    {
+      "id": "b31492b00a",
+      "date": "2026-11-06",
+      "type": "culture",
+      "question": "À quel personnage historique doit-on l'origine du mot « poubelle » en France ?",
+      "choix": [
+        "Eugène Poubelle, préfet de la Seine au XIXe siècle",
+        "Le maire de Paris en 1900",
+        "Un ministre de la Propreté sous Napoléon III",
+        "Un inventeur nommé Jean-Baptiste Poubelle"
+      ],
+      "reponse": 0,
+      "explication": "Le terme vient d'Eugène Poubelle, préfet de la Seine, qui a rendu obligatoire en 1883 l'utilisation d'un récipient pour les ordures ménagères.",
+      "lien": ""
+    },
+    {
+      "id": "8cb19db87d",
+      "date": "2026-11-06",
+      "type": "culture",
+      "question": "Quel poète a popularisé le concept du « calligramme » au début du XXe siècle ?",
+      "choix": [
+        "Arthur Rimbaud",
+        "Victor Hugo",
+        "Charles Baudelaire",
+        "Guillaume Apollinaire"
+      ],
+      "reponse": 3,
+      "explication": "C'est le poète Guillaume Apollinaire qui a popularisé ce genre littéraire consistant à dessiner une silhouette avec les mots du poème.",
+      "lien": ""
     }
   ]
 }
