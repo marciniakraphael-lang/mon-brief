@@ -10,7 +10,8 @@ set:'<path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><ci
 rnd:'<path d="M3 7h4l10 10h4M3 17h4l3-3M14 10l3-3h4M18 4l3 3-3 3M18 14l3 3-3 3"/>',
 day:'<rect x="4" y="5" width="16" height="15" rx="3"/><path d="M4 10h16M9 3v4M15 3v4"/>',
 rev:'<path d="M4 12a8 8 0 1 0 3-6.2M4 4v4h4"/>',
-rf:'<path d="M20 12a8 8 0 1 1-2.5-5.8M20 4v4h-4"/>'
+rf:'<path d="M20 12a8 8 0 1 1-2.5-5.8M20 4v4h-4"/>',
+chev:'<path d="M6 9l6 6 6-6"/>'
 };
 const ic = n => '<svg class="i" viewBox="0 0 24 24">' + I[n] + '</svg>';
 const store = {
@@ -29,7 +30,38 @@ const hm = s => {
     return new Date(s).toLocaleTimeString('fr-FR', {hour:'2-digit', minute:'2-digit'});
   } catch (e) { return ''; }
 };
-let D = null, B = [], tab = 'actus', tok = 0, queue = [];
+const hash = s => {
+  s = String(s);
+  let n = 0;
+  for (let i = 0; i < s.length; i++) n = (n * 31 + s.charCodeAt(i)) | 0;
+  return Math.abs(n);
+};
+let D = null, B = [], tab = 'actus', tok = 0, queue = [], O = {};
+
+/* ---- Images d'illustration (gratuit, généré à partir du titre) ---- */
+const illSrc = txt => 'https://image.pollinations.ai/prompt/'
+  + encodeURIComponent('minimal flat editorial illustration, soft dark colors, no text, no letters, no logos: ' + String(txt).replace(/[\/?#]/g, ' '))
+  + '?width=640&height=360&nologo=true&seed=' + (hash(txt) % 100000);
+const ill = (txt, img) => '<div class="ill" data-src="' + esc(img || illSrc(txt)) + '"></div>';
+function fillImgs(root) {
+  root.querySelectorAll('.ill:not(.ld)').forEach(d => {
+    const f = d.closest('.fold');
+    if (f && !f.classList.contains('open')) return;
+    d.classList.add('ld');
+    const im = new Image();
+    im.alt = '';
+    im.onload = () => d.classList.add('ok');
+    im.onerror = () => d.remove();
+    im.src = d.dataset.src;
+    d.appendChild(im);
+  });
+}
+function toggleFold(el) {
+  if (!el) return;
+  const on = el.classList.toggle('open');
+  if (el.dataset.id) O[el.dataset.id] = on;
+  if (on) fillImgs(el);
+}
 
 const frVoices = () => {
   const all = ('speechSynthesis' in window) ? speechSynthesis.getVoices() : [];
@@ -111,10 +143,13 @@ function statsHTML() {
     + ' · ' + g.correct + '/' + g.answered + ' bonnes réponses</span></div></div>';
 }
 
-function card(a) {
+function card(a, k) {
+  const id = 'a' + hash(k + '|' + a.titre);
   const t = [a.titre, a.resume, a.contexte ? 'Pourquoi : ' + a.contexte : ''].filter(Boolean).join('. ');
-  let h = '<article class="card"><div class="meta">' + esc(a.source) + ' · ' + hm(a.date) + '</div>';
-  h += '<h3>' + esc(a.titre) + '</h3><p>' + esc(a.resume) + '</p>';
+  let h = '<article class="card fold' + (O[id] ? ' open' : '') + '" data-id="' + id + '">';
+  h += '<button class="fh" data-fold="1"><div><div class="meta">' + esc(a.source) + ' · ' + hm(a.date) + '</div>';
+  h += '<h3>' + esc(a.titre) + '</h3></div>' + ic('chev') + '</button>';
+  h += '<div class="body">' + ill(a.titre, a.image) + '<p>' + esc(a.resume) + '</p>';
   if (a.contexte) {
     h += '<div class="ctx"><b>Pourquoi c\'est important</b>' + esc(a.contexte) + '</div>';
   }
@@ -122,10 +157,15 @@ function card(a) {
   if (a.lien) {
     h += '<a href="' + esc(a.lien) + '" target="_blank" rel="noopener">' + ic('lnk') + 'Lire</a>';
   }
-  return h + '</div></article>';
+  return h + '</div></div></article>';
 }
-function sec(t, l) {
-  return l && l.length ? '<h2>' + t + '</h2>' + l.map(card).join('') : '';
+function sec(id, t, l, defOpen) {
+  if (!l || !l.length) return '';
+  const o = (id in O) ? O[id] : defOpen;
+  let h = '<section class="fold sec' + (o ? ' open' : '') + '" data-id="' + id + '">';
+  h += '<button class="fh" data-fold="1"><h2>' + t + '<span class="cnt">' + l.length + '</span></h2>' + ic('chev') + '</button>';
+  h += '<div class="body">' + l.map(a => card(a, id)).join('') + '</div></section>';
+  return h;
 }
 function vActus() {
   if (!D) return '<div class="empty">Pas encore de données. Lance le workflow dans GitHub (onglet Actions).</div>';
@@ -135,11 +175,9 @@ function vActus() {
   if (auj.length) {
     h += '<div class="acts" style="margin:12px 4px 0"><button class="say" data-t="' + esc(all) + '">' + ic('spk') + 'Tout écouter</button></div>';
   }
-  h += sec('Depuis hier', D.depuis_hier) + sec("Aujourd'hui", D.aujourdhui);
-  const dj = D.deja_presente || [];
-  if (dj.length) {
-    h += '<details><summary>Déjà présenté (' + dj.length + ')</summary>' + dj.map(card).join('') + '</details>';
-  }
+  h += sec('depuis', 'Depuis hier', D.depuis_hier, true);
+  h += sec('auj', "Aujourd'hui", D.aujourdhui, true);
+  h += sec('deja', 'Déjà présenté', D.deja_presente, false);
   return h || '<div class="empty">Aucune actu pour le moment.</div>';
 }
 function fiche(c) {
@@ -152,7 +190,7 @@ function fiche(c) {
   if (c.a_retenir) parts.push('À retenir : ' + c.a_retenir);
   const t = parts.filter(Boolean).join('. ');
   let h = '<article class="card"><span class="chip ' + (tu ? 'tuto' : '') + '">' + esc(c.theme) + '</span>';
-  h += '<h3 style="margin-top:10px">' + esc(c.titre) + '</h3><p>' + esc(c.texte) + '</p>';
+  h += '<h3 style="margin-top:10px">' + esc(c.titre) + '</h3>' + ill(c.titre, c.image) + '<p>' + esc(c.texte) + '</p>';
   if (et.length) {
     h += '<ol class="steps">' + et.map(e => '<li>' + esc(e) + '</li>').join('') + '</ol>';
   }
@@ -236,7 +274,7 @@ function vQuiz() {
   let h = '<div class="meta" style="display:flex;justify-content:space-between"><span>' + esc(S.title) + ' · ' + (S.i + 1) + '/' + L.length + ' · ' + (q.type === 'actu' ? 'Actu' : 'Culture') + '</span>';
   h += '<button data-a="menu" class="sm">Quitter</button></div>';
   h += '<div class="prog"><i style="width:' + (S.i / L.length * 100) + '%"></i></div>';
-  h += '<div class="q">' + esc(q.question) + '</div>';
+  h += '<div class="q">' + esc(q.question) + '</div>' + ill(q.question, q.image);
   q.choix.forEach((c, k) => {
     let cls = '';
     if (ans) cls = k === q.reponse ? 'ok' : (k === ch ? 'bad' : '');
@@ -277,10 +315,13 @@ function render() {
   else if (tab === 'quiz') v = vQuiz();
   else v = vSet();
   $('#m').innerHTML = v;
+  fillImgs($('#m'));
 }
 
 document.addEventListener('click', e => {
   if (e.target.closest('#rf')) { load(); return; }
+  const f = e.target.closest('[data-fold]');
+  if (f) { toggleFold(f.closest('.fold')); return; }
   const s = e.target.closest('.say');
   if (s && s.dataset.t) { say(s.dataset.t, s); return; }
   const t = e.target.closest('[data-tab]');
