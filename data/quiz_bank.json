@@ -3854,6 +3854,96 @@
       "reponse": 3,
       "explication": "Le format PDF a été conçu par l'entreprise Adobe pour un partage universel des documents numériques.",
       "lien": ""
+    },
+    {
+      "id": "a42d4858ed",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Quelle série a été récompensée lors de la deuxième édition des prix MeTooMedia pour sa mise en lumière des violences faites aux femmes ?",
+      "choix": [
+        "Dossier non classé",
+        "Les Secrets de l'enquête",
+        "L'Affaire Laura Stern",
+        "Justice pour toutes"
+      ],
+      "reponse": 2,
+      "explication": "La série \"L'Affaire Laura Stern\" a été récompensée aux prix MeTooMedia pour sa contribution à la compréhension des violences sexistes et sexuelles.",
+      "lien": "https://www.franceinfo.fr/culture/series/la-serie-l-affaire-laura-stern-recompensee-aux-prix-metoomedia-pour-sa-mise-en-lumiere-des-violences-faites-aux-femmes_8272211.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "8eb3d89d86",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Quel écrivain, prix Goncourt, a défendu son utilisation de l'intelligence artificielle dans son livre \"L'Inconnue du quai de Javel\" ?",
+      "choix": [
+        "Philippe Jaenada",
+        "Michel Houellebecq",
+        "Emmanuel Carrère",
+        "Kamel Daoud"
+      ],
+      "reponse": 0,
+      "explication": "Philippe Jaenada a reconnu dans une lettre à l'AFP avoir utilisé l'intelligence artificielle à trois reprises pour son livre \"L'Inconnue du quai de Javel\".",
+      "lien": "https://www.franceinfo.fr/culture/livres/le-prix-goncourt-philippe-jaenada-defend-son-utilisation-amusee-et-ironique-de-l-ia-dans-une-lettre-transmise-a-l-afp_8272133.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "bfc938cb09",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Qui a été nommé nouveau capitaine de l'équipe de France de Coupe Davis de tennis ?",
+      "choix": [
+        "Richard Gasquet",
+        "Gilles Simon",
+        "Jo-Wilfried Tsonga",
+        "Gaël Monfils"
+      ],
+      "reponse": 3,
+      "explication": "Gaël Monfils a été nommé capitaine de l'équipe de France de Coupe Davis, succédant ainsi à Paul-Henri Mathieu.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/gael-monfils-nomme-nouveau-capitaine-de-l-equipe-de-france-de-coupe-davis-de-tennis_8272202.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "47c35f82fc",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Dans quelle ville européenne des militants ont-ils occupé le chantier d'un centre de données Microsoft ?",
+      "choix": [
+        "Berlin",
+        "Amsterdam",
+        "Bruxelles",
+        "Dublin"
+      ],
+      "reponse": 1,
+      "explication": "L'occupation du chantier du centre de données Microsoft a eu lieu à Amsterdam par des militants opposés au projet.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-des-militants-occupent-le-chantier-d-un-centre-de-donn%C3%A9es-microsoft-%C3%A0-amsterdam"
+    },
+    {
+      "id": "2883060818",
+      "date": "2026-11-07",
+      "type": "culture",
+      "question": "Quel auteur britannique célèbre est décédé subitement en laissant son roman policier \"Le Mystère d'Edwin Drood\" inachevé ?",
+      "choix": [
+        "Charles Dickens",
+        "Robert Louis Stevenson",
+        "Oscar Wilde",
+        "Arthur Conan Doyle"
+      ],
+      "reponse": 0,
+      "explication": "Charles Dickens est mort avant d'avoir pu écrire la fin du \"Mystère d'Edwin Drood\", laissant derrière lui l'un des plus grands suspense irrésolus de la littérature.",
+      "lien": ""
+    },
+    {
+      "id": "7331950a02",
+      "date": "2026-11-07",
+      "type": "culture",
+      "question": "Dans la mythologie grecque, quel est le châtiment infligé à Sisyphe aux enfers ?",
+      "choix": [
+        "Pousser un immense rocher au sommet d'une montagne d'où il retombe sans cesse",
+        "Être attaché à une roue de feu qui tourne sans fin dans le ciel",
+        "Subir une faim et une soif éternelles au milieu de l'eau et des fruits",
+        "Porter le monde sur ses épaules pour l'éternité"
+      ],
+      "reponse": 0,
+      "explication": "Sisyphe est condamné à pousser éternellement un rocher au sommet d'une montagne, un effort absurde qui recommence sans cesse.",
+      "lien": ""
     }
   ]
 }

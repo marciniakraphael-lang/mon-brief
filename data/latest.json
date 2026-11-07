@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
-  "mode": "morning",
-  "updated": "2026-11-07T11:30:13.763093+01:00",
+  "mode": "evening",
+  "updated": "2026-11-07T13:22:30.638481+01:00",
   "deja_presente": [
     {
       "titre": "Accident de car dans l'Ain : deux jeunes passagers sont morts, dont un mineur, le ministre des Transports attendu sur place",
@@ -160,76 +160,100 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Attentat raciste de Trappes : obsèques de Pengo Bossio Wangi samedi à Guyancourt",
-      "lien": "https://www.france24.com/fr/france/20261107-attentat-racisme-trappes-obs%C3%A8ques-pengo-bossio-wangi-samedi-guyancourt",
+      "titre": "Résultats des Midterms, conséquences sur la politique étrangère US et mobilisation sociale en France",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261107-r%C3%A9sultats-des-midterms-cons%C3%A9quences-sur-la-politique-%C3%A9trang%C3%A8re-us-et-mobilisation-sociale-en-france",
       "source": "France 24",
-      "date": "2026-11-07T11:14:21+01:00",
-      "resume": "Les obsèques de Pengo Bossio Wangi, tué lors de l'attentat raciste du 23 octobre à Trappes, seront célébrées samedi au cimetière de Guyancourt. Le jeune homme de 26 ans avait été ciblé en raison de sa couleur de peau par le suspect, Kevin T., qui qualifiait la commune des Yvelines de repaire d'islamistes.",
-      "contexte": "Ce drame relance le débat public sur la montée des actes racistes et la radicalisation de certains individus armés. Les cérémonies d'hommage permettent aux familles et aux habitants de manifester leur solidarité face à des violences motivées par la haine."
+      "date": "2026-11-07T13:04:38+01:00",
+      "resume": "L'émission revient sur la défaite de Donald Trump aux élections de mi-mandat, marquée par une victoire historique des démocrates qui remportent les deux chambres. Les répercussions de ce scrutin sur la politique étrangère des États-Unis, de l'Ukraine au Moyen-Orient en passant par Israël, sont analysées.",
+      "contexte": "Les élections de mi-mandat (midterms) aux États-Unis surviennent traditionnellement à mi-parcours du mandat présidentiel et servent souvent de test pour l'exécutif en place. Un basculement du Congrès limite généralement la capacité du président à faire passer son programme législatif et redéfinit les équilibres en matière de diplomatie et de budget."
     },
     {
-      "titre": "\"Godzilla Minus Zero\", \"L'Affaire Marie-Claire\", \"L'Arabe\", \"Kwibuka, se souvenir\" : quels sont les films à voir (ou pas) cette semaine au cinéma ?",
-      "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/godzilla-minus-zero-l-affaire-marie-claire-l-arabe-kwibuka-se-souvenir-quels-sont-les-films-a-voir-ou-pas-cette-semaine-au-cinema_8270942.html#xtor=RSS-3-[lestitres]",
+      "titre": "La série \"L'Affaire Laura Stern\" récompensée aux prix MeTooMedia pour sa mise en lumière des violences faites aux femmes",
+      "lien": "https://www.franceinfo.fr/culture/series/la-serie-l-affaire-laura-stern-recompensee-aux-prix-metoomedia-pour-sa-mise-en-lumiere-des-violences-faites-aux-femmes_8272211.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-07T11:12:44+01:00",
-      "resume": "La sélection des nouveaux films sortis en salles le mercredi 4 novembre 2026 comprend notamment \"Godzilla Minus Zero\", \"L'Affaire Marie-Claire\", \"L'Arabe\" et \"Kwibuka, se souvenir\".",
-      "contexte": "La critique cinématographique hebdomadaire offre un aperçu de la diversité des œuvres proposées au public, entre blockbusters internationaux, drames historiques et documentaires mémoriels."
+      "date": "2026-11-07T12:55:22+01:00",
+      "resume": "La deuxième édition des prix MeTooMedia a récompensé dix travaux, dont la série \"L'Affaire Laura Stern\". Ces distinctions saluent des productions qui contribuent à une meilleure compréhension des violences sexistes et sexuelles.",
+      "contexte": "Ces prix s'inscrivent dans le sillage du mouvement #MeToo libérant la parole sur les violences faites aux femmes. La mise en lumière de ces sujets par les médias et la fiction joue un rôle éducatif et préventif majeur dans la prise de conscience sociétale."
     },
     {
-      "titre": "Pour 2027, LFI présente un programme fidèle à sa volonté de rupture",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-pour-2027-lfi-pr%C3%A9sente-un-programme-fid%C3%A8le-%C3%A0-sa-volont%C3%A9-de-rupture",
-      "source": "France 24 · franceinfo",
-      "date": "2026-11-07T11:08:09+01:00",
-      "resume": "La France insoumise a présenté vendredi son programme présidentiel pour 2027, fidèle à sa ligne de rupture et plaçant l'écologie au centre de ses priorités, à la veille d'un grand meeting en région parisienne et d'une présentation au Bourget par Jean-Luc Mélenchon. Au même moment, d'autres personnalités politiques comme Édouard Philippe et Bruno Retailleau se déplacent en province pour aborder l'échéance de 2027.",
-      "contexte": "À l'approche d'une élection présidentielle, les formations politiques cherchent à structurer le débat public en dévoilant leurs propositions programmatiques et en occupant le terrain médiatique. Cette phase de pré-campagne permet de tester l'accueil des mesures phares auprès de l'électorat."
+      "titre": "\"On ne va pas tenir encore beaucoup de samedis\", prévient un délégué national Unsa Police alors que les manifestations de \"l'acte IV\" commencent",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/on-ne-va-pas-tenir-encore-beaucoup-de-samedis-previent-un-delegue-national-unsa-police-alors-que-les-manifestations-de-l-acte-iv-commencent_8272283.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-07T12:52:08+01:00",
+      "resume": "Une nouvelle journée de mobilisation contre la vie chère et pour la jeunesse se tient ce samedi, conduisant à la mobilisation de 70 000 policiers et gendarmes. Un délégué national d'Unsa Police exprime des inquiétudes quant à la capacité à tenir face à la répétition de ces samedis de manifestations.",
+      "contexte": "Les mouvements sociaux récurrents sur les questions de pouvoir d'achat mettent à rude épreuve les forces de l'ordre, mobilisées chaque fin de semaine pour encadrer les cortèges. La gestion de ces manifestations de grande ampleur représente un coût logistique et humain important pour l'État."
     },
     {
-      "titre": "Israël : Eisenkot bien placé pour former le prochain gouvernement",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-isra%C3%ABl-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement",
-      "source": "France 24",
-      "date": "2026-11-07T11:06:14+01:00",
-      "resume": "D'après l'analyse de correspondants locaux, Eisenkot est actuellement bien placé pour former le prochain gouvernement en Israël.",
-      "contexte": "Le paysage politique israélien, marqué par des équilibres parlementaires souvent fragiles, nécessite des tractations intenses et des alliances complexes pour aboutir à la constitution d'une coalition gouvernementale stable."
+      "titre": "Sébastien Chenu estime que la Ciivise a les oreilles \"fragiles\", après les propos de Julien Odoul qualifiant cette commission de \"service sanitaire du Hamas\"",
+      "lien": "https://www.franceinfo.fr/politique/front-national/sebastien-chenu-estime-que-la-ciivise-a-les-oreilles-fragiles-apres-les-propos-de-julien-odoul-qualifiant-cette-commission-de-service-sanitaire-du-hamas_8272253.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-07T12:42:38+01:00",
+      "resume": "La directrice de la Ciivise, Maryse Le Men-Régnier, a saisi la présidente de l'Assemblée nationale après des propos de Julien Odoul qualifiant la commission de \"service sanitaire du Hamas\". Sébastien Chenu a réagi en estimant que la Ciivise avait les oreilles \"fragiles\".",
+      "contexte": "La Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants (Ciivise) est une institution centrale de protection de l'enfance. Les polémiques politiques impliquant des responsables publics autour de ses missions illustrent la sensibilité des débats liés à la protection des mineurs et à l'actualité internationale."
     },
     {
-      "titre": "Le prix Goncourt Philippe Jaenada défend son utilisation \"amusée\" et \"ironique\" de l'IA dans une lettre transmise à l'AFP",
+      "titre": "L'armée iranienne assure être \"plus forte\" qu'au début de la guerre au Moyen-Orient",
+      "lien": "https://www.franceinfo.fr/monde/iran/l-armee-iranienne-assure-etre-plus-forte-qu-au-debut-de-la-guerre-de-la-guerre-au-moyen-orient_8272088.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-07T12:23:31+01:00",
+      "resume": "L'armée iranienne affirme être \"plus forte\" qu'au début de la guerre au Moyen-Orient, tandis que la télévision d'État et l'agence Tasnim ont fait état de deux explosions et de missiles ayant frappé l'île de Qeshm dans la nuit de vendredi à samedi.",
+      "contexte": "Ces tensions s'inscrivent dans un contexte de conflit régional persistant au Moyen-Orient, impliquant l'Iran et ses opposants. Les annonces des autorités militaires visent souvent à afficher de la fermeté et une capacité de résistance face aux frappes attribuées à des puissances adverses."
+    },
+    {
+      "titre": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-pont-et-des-infrastructures-energetiques-endommages-par-des-frappes-russes-dans-la-region-de-kiev_8272043.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-07T12:20:41+01:00",
+      "resume": "L'Ukraine a subi des bombardements nocturnes russes massifs ciblant ses infrastructures énergétiques et touchant une dizaine de régions. Selon Volodymyr Zelensky, au moins neuf personnes, dont un enfant, ont été blessées lors de ces attaques.",
+      "contexte": "Le ciblage des infrastructures énergétiques est une stratégie récurrente en période de conflit hivernal, visant à affaiblir la résistance de la population civile et à perturber l'économie du pays. Les frappes massives aggravent la crise humanitaire et nécessitent une aide internationale accrue pour les réparations."
+    },
+    {
+      "titre": "Le prix Goncourt Philippe Jaenada défend son utilisation \"amusée\" et \"ironique\" de l'IA, dans une lettre transmise à l'AFP",
       "lien": "https://www.franceinfo.fr/culture/livres/le-prix-goncourt-philippe-jaenada-defend-son-utilisation-amusee-et-ironique-de-l-ia-dans-une-lettre-transmise-a-l-afp_8272133.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-07T11:04:38+01:00",
-      "resume": "L'écrivain et prix Goncourt Philippe Jaenada a défendu dans une lettre transmise à l'AFP son usage « ironique » de l'intelligence artificielle. Il affirme n'avoir eu recours à cet outil qu'à trois reprises dans son roman \"L'Inconnue du quai de Javel\", notamment pour dissimuler une phrase de dix mots, relançant le débat sur l'IA dans la littérature.",
-      "contexte": "L'irruption des intelligences génératives dans le champ de la création littéraire soulève des interrogations éthiques et juridiques sur la paternité des œuvres et l'authenticité artistique. Les auteurs doivent composer avec l'inquiétude grandissante du milieu culturel face aux dérives possibles de ces technologies."
+      "date": "2026-11-07T12:18:19+01:00",
+      "resume": "L'écrivain et prix Goncourt Philippe Jaenada a défendu dans une lettre à l'AFP son utilisation \"amusée\" et \"ironique\" de l'intelligence artificielle. Il précise n'avoir eu recours à cette technologie qu'à trois reprises dans son livre \"L'Inconnue du quai de Javel\", notamment pour dissimuler une phrase de dix mots.",
+      "contexte": "L'utilisation de l'intelligence artificielle dans la création littéraire suscite de nombreux débats éthiques et juridiques sur la création originale et la transparence. Ces polémiques relancent la question des limites de l'usage des outils numériques par les auteurs contemporains."
     },
     {
-      "titre": "En tête de la Route du Rhum, Tom Laperche attendu dans la nuit de samedi à dimanche à Pointe-à-Pitre",
-      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/en-tete-de-la-route-du-rhum-tom-laperche-attendu-dans-la-nuit-de-samedi-a-dimanche-a-pointe-a-pitre_8272064.html#xtor=RSS-3-[lestitres]",
+      "titre": "Policiers blessés par des tirs de mortier devant un lycée à Pau : quatre mineurs mis en examen, une information judiciaire ouverte",
+      "lien": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/policiers-blesses-par-des-tirs-de-mortier-devant-un-lycee-a-pau-quatre-mineurs-mis-en-examen-une-information-judiciaire-ouverte-3445929.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-07T11:02:43+01:00",
-      "resume": "En tête de la Route du Rhum, le skippeur Tom Laperche se rapproche de l'arrivée en Guadeloupe et est attendu dans la nuit de samedi à dimanche à Pointe-à-Pitre. Il ne lui restait plus que 251 milles nautiques à parcourir selon le pointage de samedi matin.",
-      "contexte": "La Route du Rhum est l'une des courses transatlantiques en solitaire les plus prestigieuses au monde, mettant à rude épreuve la résistance des marins et la fiabilité de leurs bateaux. Le suspense final dépend souvent de la gestion des derniers milles et des conditions météorologiques à l'approche des Antilles."
+      "date": "2026-11-07T12:10:50+01:00",
+      "resume": "Le procureur de Pau a annoncé l'ouverture d'une information judiciaire contre quatre mineurs après des manifestations le 5 novembre, suite à des tirs de mortier ayant blessé quatre policiers. Le parquet demande le placement en détention d'un adolescent de 16 ans soupçonné d'avoir allumé l'engin pyrotechnique.",
+      "contexte": "L'usage d'engins pyrotechniques, tels que des mortiers d'artifice, contre les forces de l'ordre lors de manifestations est sévèrement puni par la loi en raison de la dangerosité de ces armes par destination. La mise en cause de mineurs pose la question de l'encadrement de la jeunesse et de la responsabilité pénale."
     },
     {
-      "titre": "Lee Chang-dong, cinéaste sud-coréen : « Les gens vivent avec un sentiment de vide. C’est pour ça qu’il y a une colère qui s’exprime »",
-      "lien": "https://www.lemonde.fr/culture/article/2026/11/07/lee-chang-dong-cineaste-sud-coreen-les-gens-vivent-avec-un-sentiment-de-vide-c-est-pour-ca-qu-il-y-a-une-colere-qui-s-exprime_6808264_3246.html",
-      "source": "Le Monde",
-      "date": "2026-11-07T11:01:35+01:00",
-      "resume": "À l'occasion de l'arrivée sur Netflix de son film \"Possible Love\" – couronné du Grand Prix du jury à la dernière Mostra de Venise –, le cinéaste sud-coréen Lee Chang-dong analyse le sentiment de vide et la colère qui traversent la société contemporaine.",
-      "contexte": "Le cinéma d'auteur sud-coréen s'attache souvent à ausculter les traumatismes et les mutations rapides d'une société hyper-développée mais en proie à des crises existentielles. La diffusion sur les plateformes mondiales permet à ces œuvres exigeantes de toucher un public international élargi."
-    },
-    {
-      "titre": "\"J'aimerais bien savoir pourquoi c'était comme ça entre ma fille et moi\" : la mère d'Inass, \"la petite martyre de l'A10\", s'enfonce dans le déni",
-      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/j-aimerais-bien-savoir-pourquoi-c-etait-comme-ca-entre-ma-fille-et-moi-la-mere-de-la-petite-martyre-de-l-a10-s-enfonce-dans-le-deni_8271575.html#xtor=RSS-3-[lestitres]",
+      "titre": "Gaël Monfils nommé nouveau capitaine de l'équipe de France de Coupe Davis de tennis",
+      "lien": "https://www.franceinfo.fr/sports/tennis/gael-monfils-nomme-nouveau-capitaine-de-l-equipe-de-france-de-coupe-davis-de-tennis_8272202.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-07T10:57:01+01:00",
-      "resume": "Interrogée pendant trois heures vendredi par la cour d'assises du Loir-et-Cher, Halima El Bakhti, la mère d'Inass, dite « la petite martyre de l'A10 », s'est enfoncée dans le déni. Elle n'a reconnu qu'une partie des sévices subis par sa fille en 1987.",
-      "contexte": "Ce procès de faits criminels anciens illustre la persévérance de la justice et des enquêteurs pour élucider des affaires non élucidées (cold cases) de longue date. L'instruction s'appuie sur la reconstitution de parcours familiaux complexes et sur l'évolution des expertises médico-légales."
+      "date": "2026-11-07T12:09:32+01:00",
+      "resume": "Gaël Monfils, tout juste retraité de sa carrière de joueur à 40 ans et honoré au Masters 1000 de Paris, a été nommé nouveau capitaine de l'équipe de France de Coupe Davis. Il succède ainsi à Paul-Henri Mathieu.",
+      "contexte": "La transition des joueurs de tennis professionnels vers des rôles d'encadrement ou de capitanat est fréquente, permettant de transmettre leur expérience internationale aux nouvelles générations. La Coupe Davis reste une compétition historique du tennis par équipe, très suivie en France."
     },
     {
-      "titre": "\"Il faut faire des choix financiers\" : au salon Paris pour l'emploi, la hausse du coût de la vie et le niveau du salaire au centre des préoccupations",
-      "lien": "https://www.franceinfo.fr/economie/emploi/reportage-il-faut-faire-des-choix-financiers-au-salon-paris-pour-l-emploi-des-demandeurs-d-emploi-face-a-la-hausse-du-cout-de-la-vie_8272046.html#xtor=RSS-3-[lestitres]",
+      "titre": "Un nouvel appel à la grève mardi dans l'Éducation nationale",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-nouvel-appel-a-la-greve-mardi-dans-l-education-nationale_8272193.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-07T10:46:10+01:00",
-      "resume": "La hausse du coût de la vie et le niveau des salaires ont été au cœur des préoccupations des demandeurs d'emploi lors du salon Paris pour l'emploi, organisé vendredi dans le centre de la capitale.",
-      "contexte": "L'inflation et la stagnation du pouvoir d'achat constituent des préoccupations économiques majeures pour les ménages, impactant directement les négociations salariales et la recherche d'emploi. Ce type de salon met en relief les difficultés quotidiennes des travailleurs face à la cherté de la vie."
+      "date": "2026-11-07T12:08:04+01:00",
+      "resume": "L'intersyndicale des personnels de l'Éducation nationale et celle de la jeunesse ont lancé un nouvel appel à la grève pour mardi prochain afin d'amplifier la mobilisation.",
+      "contexte": "Les appels à la grève dans l'Éducation nationale s'inscrivent généralement dans un climat de contestation sociale plus large concernant les conditions de travail, les réformes des programmes ou les moyens alloués au service public."
+    },
+    {
+      "titre": "Présidentielle 2027 : le programme de LFI est un \"projet de démantèlement de la France\", fustige Marine Le Pen",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jean-luc-melenchon-va-presenter-son-programme-au-bourget_8272022.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-07T11:49:49+01:00",
+      "resume": "À six mois de l'élection présidentielle, Marine Le Pen a qualifié le programme de La France insoumise de \"projet de démantèlement de la France\". Pendant ce temps, Jean-Luc Mélenchon tient un meeting au Bourget, Édouard Philippe se rend aux Rencontres de l'avenir à Saint-Raphaël et Bruno Retailleau est à Brive-la-Gaillarde.",
+      "contexte": "À l'approche d'une élection présidentielle, les personnalités politiques multiplient les déplacements en région et les prises de position pour structurer leur campagne et occuper l'espace médiatique. Les critiques mutuelles entre partis permettent de marquer les divergences idéologiques face aux électeurs."
+    },
+    {
+      "titre": "Des militants occupent le chantier d'un centre de données Microsoft à Amsterdam",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-des-militants-occupent-le-chantier-d-un-centre-de-donn%C3%A9es-microsoft-%C3%A0-amsterdam",
+      "source": "France 24",
+      "date": "2026-11-07T11:35:58+01:00",
+      "resume": "Plusieurs centaines de militants opposés à la construction d'un centre de données Microsoft ont occupé le chantier de ce dernier à Amsterdam vendredi. Cette action s'inscrit dans le cadre d'un appel à manifester sur deux jours à travers l'Europe.",
+      "contexte": "Les grands centres de données (datacenters) font régulièrement l'objet de contestations en raison de leur forte consommation en énergie et en eau, ainsi que de leur impact environnemental. Ces mobilisations traduisent les inquiétudes croissantes face à l'expansion des infrastructures numériques."
     }
   ],
   "culture": [
@@ -252,5 +276,96 @@
       "a_retenir": "Sisyphe est condamné pour l'éternité à pousser un rocher qui retombe sans cesse au bas de la montagne."
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "a42d4858ed",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Quelle série a été récompensée lors de la deuxième édition des prix MeTooMedia pour sa mise en lumière des violences faites aux femmes ?",
+      "choix": [
+        "Dossier non classé",
+        "Les Secrets de l'enquête",
+        "L'Affaire Laura Stern",
+        "Justice pour toutes"
+      ],
+      "reponse": 2,
+      "explication": "La série \"L'Affaire Laura Stern\" a été récompensée aux prix MeTooMedia pour sa contribution à la compréhension des violences sexistes et sexuelles.",
+      "lien": "https://www.franceinfo.fr/culture/series/la-serie-l-affaire-laura-stern-recompensee-aux-prix-metoomedia-pour-sa-mise-en-lumiere-des-violences-faites-aux-femmes_8272211.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "8eb3d89d86",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Quel écrivain, prix Goncourt, a défendu son utilisation de l'intelligence artificielle dans son livre \"L'Inconnue du quai de Javel\" ?",
+      "choix": [
+        "Philippe Jaenada",
+        "Michel Houellebecq",
+        "Emmanuel Carrère",
+        "Kamel Daoud"
+      ],
+      "reponse": 0,
+      "explication": "Philippe Jaenada a reconnu dans une lettre à l'AFP avoir utilisé l'intelligence artificielle à trois reprises pour son livre \"L'Inconnue du quai de Javel\".",
+      "lien": "https://www.franceinfo.fr/culture/livres/le-prix-goncourt-philippe-jaenada-defend-son-utilisation-amusee-et-ironique-de-l-ia-dans-une-lettre-transmise-a-l-afp_8272133.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "bfc938cb09",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Qui a été nommé nouveau capitaine de l'équipe de France de Coupe Davis de tennis ?",
+      "choix": [
+        "Richard Gasquet",
+        "Gilles Simon",
+        "Jo-Wilfried Tsonga",
+        "Gaël Monfils"
+      ],
+      "reponse": 3,
+      "explication": "Gaël Monfils a été nommé capitaine de l'équipe de France de Coupe Davis, succédant ainsi à Paul-Henri Mathieu.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/gael-monfils-nomme-nouveau-capitaine-de-l-equipe-de-france-de-coupe-davis-de-tennis_8272202.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "47c35f82fc",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Dans quelle ville européenne des militants ont-ils occupé le chantier d'un centre de données Microsoft ?",
+      "choix": [
+        "Berlin",
+        "Amsterdam",
+        "Bruxelles",
+        "Dublin"
+      ],
+      "reponse": 1,
+      "explication": "L'occupation du chantier du centre de données Microsoft a eu lieu à Amsterdam par des militants opposés au projet.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-des-militants-occupent-le-chantier-d-un-centre-de-donn%C3%A9es-microsoft-%C3%A0-amsterdam"
+    },
+    {
+      "id": "2883060818",
+      "date": "2026-11-07",
+      "type": "culture",
+      "question": "Quel auteur britannique célèbre est décédé subitement en laissant son roman policier \"Le Mystère d'Edwin Drood\" inachevé ?",
+      "choix": [
+        "Charles Dickens",
+        "Robert Louis Stevenson",
+        "Oscar Wilde",
+        "Arthur Conan Doyle"
+      ],
+      "reponse": 0,
+      "explication": "Charles Dickens est mort avant d'avoir pu écrire la fin du \"Mystère d'Edwin Drood\", laissant derrière lui l'un des plus grands suspense irrésolus de la littérature.",
+      "lien": ""
+    },
+    {
+      "id": "7331950a02",
+      "date": "2026-11-07",
+      "type": "culture",
+      "question": "Dans la mythologie grecque, quel est le châtiment infligé à Sisyphe aux enfers ?",
+      "choix": [
+        "Pousser un immense rocher au sommet d'une montagne d'où il retombe sans cesse",
+        "Être attaché à une roue de feu qui tourne sans fin dans le ciel",
+        "Subir une faim et une soif éternelles au milieu de l'eau et des fruits",
+        "Porter le monde sur ses épaules pour l'éternité"
+      ],
+      "reponse": 0,
+      "explication": "Sisyphe est condamné à pousser éternellement un rocher au sommet d'une montagne, un effort absurde qui recommence sans cesse.",
+      "lien": ""
+    }
+  ]
 }
