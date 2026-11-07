@@ -4049,6 +4049,111 @@
       "reponse": 2,
       "explication": "George Psalmanazar s'est fait passer auprès des intellectuels britanniques pour un natif de l'île de Formose (l'actuelle Taïwan), inventant sa propre langue et ses coutumes.",
       "lien": ""
+    },
+    {
+      "id": "1603cfd0a0",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Quel skipper a été secouru et déclaré sain et sauf lors de la Route du Rhum après le déclenchement de sa balise de détresse ?",
+      "choix": [
+        "Benoît Sineau",
+        "Armel Le Cléac'h",
+        "François Gabart",
+        "Thomas Coville"
+      ],
+      "reponse": 0,
+      "explication": "Benoît Sineau, à la barre du voilier Ekinox-Rhétores, a activé sa balise de détresse en mer avant d'être secouru avec succès.",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/benoit-sineau-a-active-sa-balise-de-detresse-sur-la-route-du-rhum-des-concurrents-deroutes-pour-le-secourir_8272628.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "798a32fe08",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Quel sommet international sur le climat la Turquie s'apprête-t-elle à accueillir ?",
+      "choix": [
+        "La COP 28",
+        "La COP 31",
+        "Le One Ocean Summit",
+        "La COP 30"
+      ],
+      "reponse": 1,
+      "explication": "La Turquie doit accueillir la COP 31, qui a pour objectif d'unir la communauté internationale face à l'urgence climatique.",
+      "lien": "https://www.franceinfo.fr/monde/turquie/tout-a-penetre-le-sol-c-est-devenu-l-enfer-quand-nos-dechets-inondent-la-turquie_8272700.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "id": "c956a59663",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "En Israël, quelle figure de l'opposition a été chargée par la présidence de former le nouveau gouvernement ?",
+      "choix": [
+        "Naftali Bennett",
+        "Yaïr Lapid",
+        "Benny Gantz",
+        "Gadi Eisenkot"
+      ],
+      "reponse": 3,
+      "explication": "Gadi Eisenkot, ancien chef d'état-major et opposant à Benyamin Nétanyahou, a été formellement chargé de réunir une majorité à la Knesset.",
+      "lien": "https://www.franceinfo.fr/monde/israel/en-israel-le-chef-de-l-opposition-a-benyamin-netanyahou-gadi-eisenkot-sera-charge-dimanche-de-former-le-prochain-gouvernement-annonce-la-presidence_8272685.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "88d8d84208",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "À quelle personnalité du monde du sport Donald Trump a-t-il proposé le poste de porte-parole de la Maison Blanche ?",
+      "choix": [
+        "Conor McGregor",
+        "Joe Rogan",
+        "Dana White",
+        "Vince McMahon"
+      ],
+      "reponse": 2,
+      "explication": "Donald Trump a proposé ce rôle stratégique de communication à Dana White, l'actuel dirigeant de l'organisation de MMA Ultimate Fighting Championship (UFC).",
+      "lien": "https://www.franceinfo.fr/monde/usa/donald-trump-propose-le-poste-de-porte-parole-de-la-maison-blanche-a-dana-white-patron-d-une-federation-de-mma_8272667.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "ce8a3687cc",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Quel type de matériel a été dérobé sur plus de 500 kilomètres dans des centrales photovoltaïques du Sud-Ouest de la France ?",
+      "choix": [
+        "Des panneaux de silicium",
+        "Des batteries de stockage",
+        "Des câbles de cuivre",
+        "Des structures en aluminium"
+      ],
+      "reponse": 2,
+      "explication": "Le réseau criminel démantelé ciblait les câbles de cuivre des parcs solaires, causant un préjudice d'environ un million d'euros.",
+      "lien": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/cette-recrudescence-des-vols-impacte-la-production-des-parcs-500-km-de-cables-de-cuivre-derobes-dans-une-centrale-photovoltaique_8272673.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "fb9764823a",
+      "date": "2026-11-07",
+      "type": "culture",
+      "question": "Quel roman policier de Charles Dickens est resté inachevé en raison de la mort soudaine de l'auteur ?",
+      "choix": [
+        "Le Mystère d'Edwin Drood",
+        "Un chant de Noël",
+        "De grandes espérances",
+        "La Maison d'Âpre-Vent"
+      ],
+      "reponse": 0,
+      "explication": "Charles Dickens est mort avant d'achever « Le Mystère d'Edwin Drood », laissant l'intrigue et l'identité du coupable à jamais irrésolues.",
+      "lien": ""
+    },
+    {
+      "id": "3b7e6215da",
+      "date": "2026-11-07",
+      "type": "culture",
+      "question": "De quel territoire l'imposteur George Psalmanazar s'est-il fait passer pour un autochtone au début du XVIIIe siècle ?",
+      "choix": [
+        "Madagascar",
+        "L'île de Java",
+        "L'île de Formose",
+        "L'île de Pâques"
+      ],
+      "reponse": 2,
+      "explication": "George Psalmanazar a trompé les intellectuels britanniques en prétendant venir de l'île de Formose (l'actuelle Taïwan) et en inventant sa propre langue et ses coutumes.",
+      "lien": ""
     }
   ]
 }
