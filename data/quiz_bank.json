@@ -3944,6 +3944,111 @@
       "reponse": 0,
       "explication": "Sisyphe est condamné à pousser éternellement un rocher au sommet d'une montagne, un effort absurde qui recommence sans cesse.",
       "lien": ""
+    },
+    {
+      "id": "9b87b4254e",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Quel est le nom du programme présidentiel de Jean-Luc Mélenchon dont une nouvelle version a récemment été publiée en librairie ?",
+      "choix": [
+        "L'Aube nouvelle",
+        "L'Ère du peuple",
+        "La France en commun",
+        "L'Avenir en commun"
+      ],
+      "reponse": 3,
+      "explication": "Le programme présidentiel de Jean-Luc Mélenchon, comprenant 1 069 propositions, s'intitule « L'Avenir en commun ».",
+      "lien": "https://www.franceinfo.fr/politique/melenchon/depuis-son-meeting-au-bourget-jean-luc-melenchon-refuse-de-mettre-de-l-eau-dans-son-vin-pour-seduire-et-etre-moins-clivant_8272640.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "7eb06a42dc",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Dans quelle course au large le skipper Benoît Sineau a-t-il été contraint d'activer sa balise de détresse ?",
+      "choix": [
+        "Le Vendée Globe",
+        "La Solitaire du Figaro",
+        "La Route du Rhum",
+        "La Transat Jacques Vabre"
+      ],
+      "reponse": 2,
+      "explication": "Benoît Sineau participait à la Route du Rhum à la barre d'Ekinox-Rhétores lorsqu'il a déclenché sa balise de détresse.",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/benoit-sineau-a-active-sa-balise-de-detresse-sur-la-route-du-rhum-des-concurrents-deroutes-pour-le-secourir_8272628.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "0359449ac1",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Dans quelle ville de Pologne une attaque armée contre des passants a-t-elle fait six morts ?",
+      "choix": [
+        "Cracovie",
+        "Varsovie",
+        "Gdańsk",
+        "Wrocław"
+      ],
+      "reponse": 0,
+      "explication": "L'attaque armée, au cours de laquelle un homme a foncé en voiture avant de tirer sur des passants, a eu lieu sur une place de Cracovie.",
+      "lien": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "cb47a48f09",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Quelle position le Parti communiste français (PCF) a-t-il adoptée à l'égard de ses députés soutenant Jean-Luc Mélenchon ?",
+      "choix": [
+        "Il a gelé leurs indemnités parlementaires",
+        "Il leur a retiré leur mandat d'élu national",
+        "Il a validé une alliance stratégique officielle",
+        "Il a estimé qu'ils se sont mis « en dehors du parti »"
+      ],
+      "reponse": 3,
+      "explication": "Le PCF a déclaré que les députés communistes soutenant publiquement La France insoumise s'étaient de fait mis « en dehors du parti ».",
+      "lien": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "35e91e571b",
+      "date": "2026-11-07",
+      "type": "actu",
+      "question": "Quel adversaire Carlos Alcaraz affronte-t-il en finale du Masters 1000 de Paris après sa victoire contre Casper Ruud ?",
+      "choix": [
+        "Alexander Zverev",
+        "Ben Shelton",
+        "Jannik Sinner",
+        "Daniil Medvedev"
+      ],
+      "reponse": 1,
+      "explication": "Après avoir éliminé Casper Ruud en demi-finales, Carlos Alcaraz s'est qualifié pour la finale face à l'Américain Ben Shelton.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters-1000/solide-carlos-alcaraz-rejoint-ben-shelton-en-finale-du-masters-1000-de-paris_8272580.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+      "id": "8166d8ad4a",
+      "date": "2026-11-07",
+      "type": "culture",
+      "question": "Quel roman inachevé de Charles Dickens est réputé pour son mystère policier demeuré sans résolution officielle ?",
+      "choix": [
+        "De grandes espérances",
+        "Le Mystère d'Edwin Drood",
+        "Les Grandes Espérances",
+        "David Copperfield"
+      ],
+      "reponse": 1,
+      "explication": "Charles Dickens est mort avant d'achever « Le Mystère d'Edwin Drood », laissant l'intrigue et l'identité du coupable ouvertes aux spéculations.",
+      "lien": ""
+    },
+    {
+      "id": "dff6f62568",
+      "date": "2026-11-07",
+      "type": "culture",
+      "question": "De quelle région ou île l'aventurier George Psalmanazar prétendait-il être originaire lors de sa célèbre supercherie au XVIIIe siècle ?",
+      "choix": [
+        "Madagascar",
+        "L'île de Pâques",
+        "L'île de Formose",
+        "Ceylan"
+      ],
+      "reponse": 2,
+      "explication": "George Psalmanazar s'est fait passer auprès des intellectuels britanniques pour un natif de l'île de Formose (l'actuelle Taïwan), inventant sa propre langue et ses coutumes.",
+      "lien": ""
     }
   ]
 }
