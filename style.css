@@ -50,3 +50,24 @@ nav button.on{color:var(--ac)}
 select,input[type=range]{width:100%;margin:8px 0;background:#1c1c25;color:var(--tx);border:1px solid var(--line);border-radius:10px;padding:10px;font:inherit}
 details summary{color:var(--mu);font-size:13px;margin:20px 4px 10px;cursor:pointer}
 .sm{color:var(--mu);font-size:13px}
+
+/* ---- Sections et infos dépliables ---- */
+.fh{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;text-align:left}
+.fh .i{color:var(--mu);transition:transform .2s}
+.fold.open>.fh .i{transform:rotate(180deg)}
+.fold>.body{display:none}
+.fold.open>.body{display:block}
+.sec>.fh{margin:22px 0 10px;padding:0 4px}
+.sec>.fh h2{margin:0;justify-content:flex-start}
+.cnt{background:#1c1c25;color:var(--tx);border-radius:999px;padding:1px 8px;font-size:11px;letter-spacing:0;margin-left:8px}
+.card>.fh h3{margin:4px 0 0}
+.card>.body{padding-top:12px}
+
+/* ---- Images d'illustration ---- */
+.ill{position:relative;aspect-ratio:16/9;margin:12px 0;border-radius:12px;overflow:hidden;background:linear-gradient(110deg,#1c1c25 30%,#23232c 50%,#1c1c25 70%);background-size:200% 100%;animation:sh 1.4s linear infinite}
+.ill.ok{animation:none;background:#1c1c25}
+.ill img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity .4s}
+.ill.ok img{opacity:1}
+.card>.body>.ill:first-child{margin-top:0}
+.q+.ill{margin:-6px 0 18px}
+@keyframes sh{to{background-position:-200% 0}}
