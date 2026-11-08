@@ -70,6 +70,7 @@ BROWSER_UA = (
     "(KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
 )
 IMG_CACHE = {}
+FENCE = chr(96) * 3
 
 
 # ---------- Outils ----------
@@ -188,78 +189,3 @@ def add_images(entries):
 
 
 # ---------- Actualités (flux RSS) ----------
-def fetch_feed(name, url):
-    items = []
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (mon-brief)"})
-        with urllib.request.urlopen(req, timeout=25) as r:
-            root = ET.fromstring(r.read())
-        for it in root.iter("item"):
-            title = clean_text(it.findtext("title"))
-            link = (it.findtext("link") or "").strip()
-            desc = clean_text(it.findtext("description"))
-            pub = it.findtext("pubDate")
-            if not title or not pub:
-                continue
-            try:
-                d = parsedate_to_datetime(pub)
-            except Exception:
-                continue
-            if d.tzinfo is None:
-                d = d.replace(tzinfo=timezone.utc)
-            items.append({
-                "titre": title,
-                "lien": link,
-                "extrait": desc,
-                "source": name,
-                "date": d.astimezone(PARIS),
-                "image": rss_image(it),
-            })
-    except Exception as e:
-        print("[!] Flux ignoré (" + name + ") : " + str(e))
-    return items
-
-
-def collect_items():
-    seen = set()
-    out = []
-    for name, url in FEEDS:
-        got = fetch_feed(name, url)
-        print(name + " : " + str(len(got)) + " articles")
-        for it in got:
-            key = re.sub(r"\W+", "", it["titre"].lower())[:60]
-            if key in seen:
-                continue
-            if any(similar(it["titre"], o["titre"]) for o in out):
-                continue
-            seen.add(key)
-            out.append(it)
-    out.sort(key=lambda x: x["date"], reverse=True)
-    return out
-
-
-# ---------- Gemini ----------
-def gemini(prompt):
-    body = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.7},
-    }
-    headers = {
-        "Content-Type": "application/json",
-        "x-goog-api-key": os.environ["GEMINI_API_KEY"],
-    }
-    # Un essai par modèle, puis un second tour sur les 2 premiers
-    plan = MODELS + MODELS[:2]
-    last_error = None
-    for attempt, model in enumerate(plan):
-        is_last = attempt == len(plan) - 1
-        url = "https://generativelanguage.googleapis.com/v1beta/models/" + model + ":generateContent"
-        try:
-            req = urllib.request.Request(
-                url, data=json.dumps(body).encode("utf-8"), headers=headers, method="POST"
-            )
-            with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-                data = json.loads(r.read().decode("utf-8"))
-            parts = data["candidates"][0]["content"]["parts"]
-            text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
-            text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip())
