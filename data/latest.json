@@ -1,378 +1,251 @@
 {
-  "date": "2026-11-07",
-  "mode": "evening",
-  "updated": "2026-11-07T22:32:08.461020+01:00",
+  "date": "2026-11-08",
+  "mode": "morning",
+  "updated": "2026-11-08T09:25:58.372682+01:00",
   "deja_presente": [
     {
-      "titre": "Accident de car dans l'Ain : deux jeunes passagers sont morts, dont un mineur, le ministre des Transports attendu sur place",
-      "lien": "https://www.franceinfo.fr/faits-divers/accident/direct-accident-d-un-car-scolaire-dans-l-ain-deux-enfants-sont-morts-le-ministre-des-transports-attendu-sur-place_8270534.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-06T12:10:03+01:00",
-      "resume": "Un accident de car dans l'Ain a causé la mort de deux personnes, dont un mineur, et a fait seize blessés, dont trois dans un état grave. Le véhicule est sorti de la route pour heurter un arbre dans un fossé, et les autorités, dont le ministre des Transports, ont été dépêchées sur place.",
-      "contexte": "Des enquêtes sont généralement ouvertes pour déterminer les circonstances précises de tels accidents, incluant des vérifications techniques sur le véhicule et l'état de santé ou la vigilance du conducteur au moment des faits."
-    },
-    {
-      "titre": "Jamais un mois d'octobre n'avait été si chaud, annonce le laboratoire Copernicus, qui ajoute que 2026 sera \"probablement\" la 2e année la plus chaude",
-      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/jamais-un-mois-d-octobre-n-avait-ete-si-chaud-annonce-le-laboratoire-copernicus-qui-annonce-que-2026-sera-probablement-la-2e-annee-la-plus-chaude_8270567.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-06T12:02:49+01:00",
-      "resume": "Le laboratoire Copernicus a annoncé que le mois d'octobre 2026 a été le plus chaud jamais enregistré, prédisant également que l'année 2026 sera probablement la deuxième plus chaude de l'histoire. Ce record inclut les températures à la surface des océans, amplifiées par le phénomène El Niño et le changement climatique global.",
-      "contexte": "Ces données confirment la tendance au réchauffement planétaire, avec des conséquences directes sur les écosystèmes et la fréquence des événements climatiques extrêmes. Le phénomène El Niño, bien que naturel, exacerbe les effets de l'augmentation des gaz à effet de serre."
-    },
-    {
-      "titre": "A Lyon, l'entrée du lycée Edouard-Herriot incendiée, des élèves évacués",
-      "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/le-lycee-brule-avec-des-eleves-a-l-interieur-et-certains-exultent-un-incendie-allume-devant-un-lycee-de-lyon-3445323.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-06T11:54:34+01:00",
-      "resume": "L'entrée du lycée Édouard-Herriot à Lyon a été incendiée ce vendredi matin, provoquant l'embrasement de la porte principale. Les élèves ont dû être évacués en urgence suite à cet acte de vandalisme impliquant des poubelles incendiées.",
-      "contexte": "Les établissements scolaires sont parfois le théâtre d'actes de violence lors de périodes de tensions sociales ou de blocages. Les autorités enquêtent pour identifier les responsables de cet incendie criminel."
-    },
-    {
-      "titre": "Ukraine : le bilan de la frappe russe de lundi dans le Sud monte à 50 morts",
-      "lien": "https://www.france24.com/fr/europe/20261106-ukraine-le-bilan-de-la-frappe-russe-de-lundi-dans-le-sud-monte-%C3%A0-50-morts",
+      "titre": "Attentat raciste de Trappes : obsèques de Pengo Bossio Wangi samedi à Guyancourt",
+      "lien": "https://www.france24.com/fr/france/20261107-attentat-racisme-trappes-obs%C3%A8ques-pengo-bossio-wangi-samedi-guyancourt",
       "source": "France 24",
-      "date": "2026-11-06T11:50:55+01:00",
-      "resume": "Le bilan d'une frappe russe ayant touché un centre de distribution d'aide humanitaire dans le sud de l'Ukraine lundi dernier a été porté à 50 morts. Les secours continuent de fouiller les décombres à la recherche de victimes supplémentaires.",
-      "contexte": "La frappe sur des infrastructures civiles ou humanitaires constitue une violation majeure du droit international humanitaire. Ce type d'attaque aggrave la crise humanitaire dans les zones de conflit et alimente les tensions diplomatiques entre l'Ukraine et la Russie."
+      "date": "2026-11-07T11:14:21+01:00",
+      "resume": "Les obsèques de Pengo Bossio Wangi, tué lors de l'attentat raciste du 23 octobre à Trappes, seront célébrées samedi au cimetière de Guyancourt. Le jeune homme de 26 ans avait été ciblé en raison de sa couleur de peau par le suspect, Kevin T., qui qualifiait la commune des Yvelines de repaire d'islamistes.",
+      "contexte": "Ce drame relance le débat public sur la montée des actes racistes et la radicalisation de certains individus armés. Les cérémonies d'hommage permettent aux familles et aux habitants de manifester leur solidarité face à des violences motivées par la haine.",
+      "image": ""
     },
     {
-      "titre": "Les géants de l'IA s'effondrent en Bourse après la défaite des républicains aux midterms",
-      "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-ia-s-effondre-en-bourse-apres-la-defaite-des-republicains-aux-midterms_8270603.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Godzilla Minus Zero\", \"L'Affaire Marie-Claire\", \"L'Arabe\", \"Kwibuka, se souvenir\" : quels sont les films à voir (ou pas) cette semaine au cinéma ?",
+      "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/godzilla-minus-zero-l-affaire-marie-claire-l-arabe-kwibuka-se-souvenir-quels-sont-les-films-a-voir-ou-pas-cette-semaine-au-cinema_8270942.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-06T11:46:42+01:00",
-      "resume": "Les entreprises du secteur de l'intelligence artificielle ont subi une chute en Bourse suite aux résultats des élections de mi-mandat aux États-Unis. Cette réaction des marchés est attribuée au succès de candidats démocrates ayant fait campagne contre le développement intensif des data centers.",
-      "contexte": "Les investisseurs réagissent ici à une possible évolution de la réglementation environnementale et énergétique aux États-Unis. Le développement des data centers, très gourmands en électricité, est devenu un enjeu politique majeur en raison de son impact sur les réseaux électriques locaux."
+      "date": "2026-11-07T11:12:44+01:00",
+      "resume": "La sélection des nouveaux films sortis en salles le mercredi 4 novembre 2026 comprend notamment \"Godzilla Minus Zero\", \"L'Affaire Marie-Claire\", \"L'Arabe\" et \"Kwibuka, se souvenir\".",
+      "contexte": "La critique cinématographique hebdomadaire offre un aperçu de la diversité des œuvres proposées au public, entre blockbusters internationaux, drames historiques et documentaires mémoriels.",
+      "image": "https://www.franceinfo.fr/pictures/OSvyQ_NYXUraekGJLj3Wk-LCwAs/0x0:1070x602/1500x843/2026/11/06/6aedec577af4d349833902.jpeg"
     },
     {
-      "titre": "En Italie, une « taxe de sortie » pour les grandes fortunes",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
+      "titre": "Pour 2027, LFI présente un programme fidèle à sa volonté de rupture",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-pour-2027-lfi-pr%C3%A9sente-un-programme-fid%C3%A8le-%C3%A0-sa-volont%C3%A9-de-rupture",
+      "source": "France 24 · franceinfo",
+      "date": "2026-11-07T11:08:09+01:00",
+      "resume": "La France insoumise a présenté vendredi son programme présidentiel pour 2027, fidèle à sa ligne de rupture et plaçant l'écologie au centre de ses priorités, à la veille d'un grand meeting en région parisienne et d'une présentation au Bourget par Jean-Luc Mélenchon. Au même moment, d'autres personnalités politiques comme Édouard Philippe et Bruno Retailleau se déplacent en province pour aborder l'échéance de 2027.",
+      "contexte": "À l'approche d'une élection présidentielle, les formations politiques cherchent à structurer le débat public en dévoilant leurs propositions programmatiques et en occupant le terrain médiatique. Cette phase de pré-campagne permet de tester l'accueil des mesures phares auprès de l'électorat.",
+      "image": ""
+    },
+    {
+      "titre": "Israël : Eisenkot bien placé pour former le prochain gouvernement",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-isra%C3%ABl-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement",
+      "source": "France 24",
+      "date": "2026-11-07T11:06:14+01:00",
+      "resume": "D'après l'analyse de correspondants locaux, Eisenkot est actuellement bien placé pour former le prochain gouvernement en Israël.",
+      "contexte": "Le paysage politique israélien, marqué par des équilibres parlementaires souvent fragiles, nécessite des tractations intenses et des alliances complexes pour aboutir à la constitution d'une coalition gouvernementale stable.",
+      "image": ""
+    },
+    {
+      "titre": "Le prix Goncourt Philippe Jaenada défend son utilisation \"amusée\" et \"ironique\" de l'IA dans une lettre transmise à l'AFP",
+      "lien": "https://www.franceinfo.fr/culture/livres/le-prix-goncourt-philippe-jaenada-defend-son-utilisation-amusee-et-ironique-de-l-ia-dans-une-lettre-transmise-a-l-afp_8272133.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-07T11:04:38+01:00",
+      "resume": "L'écrivain et prix Goncourt Philippe Jaenada a défendu dans une lettre transmise à l'AFP son usage « ironique » de l'intelligence artificielle. Il affirme n'avoir eu recours à cet outil qu'à trois reprises dans son roman \"L'Inconnue du quai de Javel\", notamment pour dissimuler une phrase de dix mots, relançant le débat sur l'IA dans la littérature.",
+      "contexte": "L'irruption des intelligences génératives dans le champ de la création littéraire soulève des interrogations éthiques et juridiques sur la paternité des œuvres et l'authenticité artistique. Les auteurs doivent composer avec l'inquiétude grandissante du milieu culturel face aux dérives possibles de ces technologies.",
+      "image": "https://www.franceinfo.fr/pictures/puPwM_yQxqZW4GasGd6HAhhDze4/0x0:7200x4050/1500x843/2026/11/07/6aeef5a179572266127290.jpg"
+    },
+    {
+      "titre": "En tête de la Route du Rhum, Tom Laperche attendu dans la nuit de samedi à dimanche à Pointe-à-Pitre",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/en-tete-de-la-route-du-rhum-tom-laperche-attendu-dans-la-nuit-de-samedi-a-dimanche-a-pointe-a-pitre_8272064.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-07T11:02:43+01:00",
+      "resume": "En tête de la Route du Rhum, le skippeur Tom Laperche se rapproche de l'arrivée en Guadeloupe et est attendu dans la nuit de samedi à dimanche à Pointe-à-Pitre. Il ne lui restait plus que 251 milles nautiques à parcourir selon le pointage de samedi matin.",
+      "contexte": "La Route du Rhum est l'une des courses transatlantiques en solitaire les plus prestigieuses au monde, mettant à rude épreuve la résistance des marins et la fiabilité de leurs bateaux. Le suspense final dépend souvent de la gestion des derniers milles et des conditions météorologiques à l'approche des Antilles.",
+      "image": "https://www.franceinfo.fr/pictures/5X7Ddpi1i8qyXBnzq_JK5tfBo8A/0x573:5510x3673/1500x843/2026/11/07/6aeedf6c7f957901005500.jpg"
+    },
+    {
+      "titre": "Lee Chang-dong, cinéaste sud-coréen : « Les gens vivent avec un sentiment de vide. C’est pour ça qu’il y a une colère qui s’exprime »",
+      "lien": "https://www.lemonde.fr/culture/article/2026/11/07/lee-chang-dong-cineaste-sud-coreen-les-gens-vivent-avec-un-sentiment-de-vide-c-est-pour-ca-qu-il-y-a-une-colere-qui-s-exprime_6808264_3246.html",
       "source": "Le Monde",
-      "date": "2026-11-06T11:45:05+01:00",
-      "resume": "Le gouvernement italien prévoit l'instauration d'une « exit tax » dans son projet de loi de finances pour 2027. Cette mesure vise à taxer les grandes fortunes qui choisiraient de quitter l'Italie, marquant un revirement par rapport aux politiques précédentes qui cherchaient à attirer les capitaux étrangers.",
-      "contexte": "Cette décision reflète une volonté de protéger la base fiscale nationale face à la mobilité des très riches. Elle marque une inflexion de la stratégie économique italienne, qui avait misé sur des incitations fiscales pour stimuler l'investissement depuis 2017."
+      "date": "2026-11-07T11:01:35+01:00",
+      "resume": "À l'occasion de l'arrivée sur Netflix de son film \"Possible Love\" – couronné du Grand Prix du jury à la dernière Mostra de Venise –, le cinéaste sud-coréen Lee Chang-dong analyse le sentiment de vide et la colère qui traversent la société contemporaine.",
+      "contexte": "Le cinéma d'auteur sud-coréen s'attache souvent à ausculter les traumatismes et les mutations rapides d'une société hyper-développée mais en proie à des crises existentielles. La diffusion sur les plateformes mondiales permet à ces œuvres exigeantes de toucher un public international élargi.",
+      "image": ""
     },
     {
-      "titre": "RD Congo : des milliers d'agents déployés pour lancer le recensement national",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-rd-congo-des-milliers-d-agents-d%C3%A9ploy%C3%A9s-pour-lancer-le-recensement-national",
-      "source": "France 24",
-      "date": "2026-11-06T11:43:34+01:00",
-      "resume": "La République démocratique du Congo a lancé une opération de recensement national, la première depuis 1984, mobilisant des milliers d'agents cartographes. L'opération, qui vise à recueillir des données démographiques précises, représente un coût de 192 millions de dollars.",
-      "contexte": "Le manque de données démographiques fiables complique la planification des services publics et la distribution des ressources dans un pays aussi vaste. Ce recensement est crucial pour moderniser l'administration et améliorer la gouvernance nationale."
+      "titre": "\"J'aimerais bien savoir pourquoi c'était comme ça entre ma fille et moi\" : la mère d'Inass, \"la petite martyre de l'A10\", s'enfonce dans le déni",
+      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/j-aimerais-bien-savoir-pourquoi-c-etait-comme-ca-entre-ma-fille-et-moi-la-mere-de-la-petite-martyre-de-l-a10-s-enfonce-dans-le-deni_8271575.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-07T10:57:01+01:00",
+      "resume": "Interrogée pendant trois heures vendredi par la cour d'assises du Loir-et-Cher, Halima El Bakhti, la mère d'Inass, dite « la petite martyre de l'A10 », s'est enfoncée dans le déni. Elle n'a reconnu qu'une partie des sévices subis par sa fille en 1987.",
+      "contexte": "Ce procès de faits criminels anciens illustre la persévérance de la justice et des enquêteurs pour élucider des affaires non élucidées (cold cases) de longue date. L'instruction s'appuie sur la reconstitution de parcours familiaux complexes et sur l'évolution des expertises médico-légales.",
+      "image": "https://www.franceinfo.fr/pictures/_0uZ2Q3CVOKA-hWmrA_c-0QBihQ/0x150:1600x1050/1500x843/2026/11/06/6aee46dd46cdf805928884.jpg"
     },
     {
-      "titre": "Municipales en Afrique du Sud : l'ANC se dirige vers son pire résultat électoral",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261105-municipales-en-afrique-du-sud-l-anc-se-dirige-vers-son-pire-r%C3%A9sultat-%C3%A9lectoral",
-      "source": "France 24",
-      "date": "2026-11-06T11:42:09+01:00",
-      "resume": "Le Congrès national africain (ANC), parti au pouvoir en Afrique du Sud depuis 1994, enregistre les pires résultats électoraux de son histoire lors des élections municipales. Le taux de participation pour ce scrutin, qui s'est tenu mercredi, s'établit à un peu plus d'un électeur sur deux.",
-      "contexte": "L'ANC fait face à une érosion de son électorat historique en raison de préoccupations croissantes concernant la corruption, la gestion des services publics et le chômage. Ce recul marque un tournant politique majeur pour le pays, qui pourrait voir une redistribution des forces locales."
-    },
-    {
-      "titre": "AGOA : les États-Unis menacent d'exclure le Rwanda et l'Afrique du Sud",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-agoa-les-%C3%A9tats-unis-menacent-d-exclure-le-rwanda-et-l-afrique-du-sud",
-      "source": "France 24",
-      "date": "2026-11-06T11:39:07+01:00",
-      "resume": "L'administration américaine menace de retirer le Rwanda et l'Afrique du Sud de l'AGOA, un accord commercial leur permettant d'exporter sans droits de douane vers les États-Unis. La décision concernant le Rwanda est liée aux tensions actuelles concernant la guerre dans l'est de la RD Congo.",
-      "contexte": "L'AGOA est un outil diplomatique et économique majeur pour les pays africains. L'utiliser comme levier de pression politique montre la volonté de Washington d'influencer les dynamiques régionales en Afrique, en particulier dans les zones de conflit actif."
+      "titre": "\"Il faut faire des choix financiers\" : au salon Paris pour l'emploi, la hausse du coût de la vie et le niveau du salaire au centre des préoccupations",
+      "lien": "https://www.franceinfo.fr/economie/emploi/reportage-il-faut-faire-des-choix-financiers-au-salon-paris-pour-l-emploi-des-demandeurs-d-emploi-face-a-la-hausse-du-cout-de-la-vie_8272046.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-07T10:46:10+01:00",
+      "resume": "La hausse du coût de la vie et le niveau des salaires ont été au cœur des préoccupations des demandeurs d'emploi lors du salon Paris pour l'emploi, organisé vendredi dans le centre de la capitale.",
+      "contexte": "L'inflation et la stagnation du pouvoir d'achat constituent des préoccupations économiques majeures pour les ménages, impactant directement les négociations salariales et la recherche d'emploi. Ce type de salon met en relief les difficultés quotidiennes des travailleurs face à la cherté de la vie.",
+      "image": "https://www.franceinfo.fr/pictures/8PEWlDgZ30RHCBqhjbWwGVk9fsc/0x350:6720x4130/1500x843/2026/11/07/6aeed9c9d52fa751073804.jpg"
     }
   ],
   "depuis_hier": [
     {
-      "titre": "Tournée d'Assimi Goïta dans l'AES : la lutte contre le terrorisme au cœur des échanges",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261106-tourn%C3%A9e-d-assimi-go%C3%AFta-dans-l-aes-la-lutte-contre-le-terrorisme-au-c%C5%93ur-des-%C3%A9changes",
+      "titre": "Championnat des nations : une victoire au prix fort pour le XV de France contre les Fidji",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/07/une-victoire-au-prix-fort-pour-le-xv-de-france-contre-les-fidji_6808318_3242.html",
+      "source": "Le Monde · France 24 · franceinfo",
+      "date": "2026-11-07T23:50:47+01:00",
+      "resume": "Le XV de France a battu l'équipe des Fidji sur le score de 54 à 17 lors de son premier match d'automne disputé samedi au Groupama Stadium de Décines-Charpieu, près de Lyon. Cette large victoire a toutefois un coût élevé pour les Bleus en raison de la blessure à l'épaule gauche de leur ouvreur Romain Ntamack, survenue à six jours d'un match important contre l'Afrique du Sud.",
+      "contexte": "Ce type de test-match d'automne permet aux sélections nationales de préparer les grandes échéances internationales et de tester leur profondeur d'effectif face à des nations du sud ou du Pacifique. La perte de joueurs cadres comme Romain Ntamack constitue un coup dur majeur pour le staff tricolore, qui doit composer avec des pépins physiques récurrents à des postes clés à l'approche des compétitions majeures.",
+      "image": "https://img.lemde.fr/2026/11/07/755/0/4525/2262/644/322/60/0/a4b9200_ftp-1-hph9hahd6b0c-afp-d6t36aj.jpg"
+    },
+    {
+      "titre": "JOJ Dakar 2026 : Elisabeth Diatta offre au Sénégal sa première médaille d'or",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-joj-dakar-2026-elisabeth-diatta-offre-au-s%C3%A9n%C3%A9gal-sa-premi%C3%A8re-m%C3%A9daille-d-or",
       "source": "France 24",
-      "date": "2026-11-06T23:37:31+01:00",
-      "resume": "Le général Assimi Goïta s'est rendu jeudi au Niger et au Burkina Faso. Cette tournée officielle avait principalement pour objectif de renforcer la lutte contre le terrorisme dans l'espace commun aux trois pays membres de l'Alliance des Etats du Sahel.",
-      "contexte": "L'Alliance des Etats du Sahel regroupe des régimes militaires qui cherchent à mutualiser leurs forces sécuritaires après s'être éloignés de leurs partenaires occidentaux traditionnels. Cette coopération renforcée vise à répondre aux défis sécuritaires majeurs qui touchent la région frontalière dite des trois frontières."
+      "date": "2026-11-07T23:47:30+01:00",
+      "resume": "Élisabeth Diatta a remporté la médaille d'or en lutte de plage lors des Jeux olympiques de la jeunesse (JOJ) de Dakar 2026, ce samedi. Il s'agit de la toute première médaille d'or de l'histoire du Sénégal dans cette compétition, une performance saluée par sa coach Isabelle Sambou.",
+      "contexte": "L'organisation des Jeux olympiques de la jeunesse sur le continent africain, et particulièrement au Sénégal, représente un moment historique pour le sport national et la jeunesse locale. Ces compétitions servent de tremplin pour repérer les futurs talents olympiques et développent la pratique sportive de haut niveau dans la région.",
+      "image": "https://s.france24.com/media/display/757a2f1c-dafb-11f1-aefd-d18c5759e759/w:1024/p:16x9/Elisabeth-DIATTA-00-00-00-00-Still001.jpg"
     },
     {
-      "titre": "La propriétaire du gîte touché par un incendie meurtrier en 2023 à Wintzenheim sera jugée pour homicides et blessures involontaires",
-      "lien": "https://www.franceinfo.fr/faits-divers/incendie-meurtrier-a-wintzenheim/la-proprietaire-du-gite-touche-par-un-incendie-meurtrier-en-2023-a-wintzenheim-sera-jugee-pour-homicides-et-blessures-involontaires_8271611.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-06T23:24:16+01:00",
-      "resume": "La propriétaire du gîte de Wintzenheim, touché par un incendie meurtrier en août 2023, sera jugée pour homicides et blessures involontaires. Le drame avait coûté la vie à onze personnes, dont dix vacanciers en situation de handicap léger, dans cet établissement situé dans le Haut-Rhin.",
-      "contexte": "Ce type de dossier met en lumière la question cruciale de la sécurité et des normes incendie applicables aux établissements accueillant du public vulnérable. L'instruction judiciaire cherche à déterminer les éventuelles responsabilités pénales et les manquements aux règles de sécurité en vigueur."
-    },
-    {
-      "titre": "Voyage de Léon XIV en Amérique latine : en Uruguay, le pape évoque sa maladie pour défendre des soins « accessibles à chacun »",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/06/voyage-de-leon-xiv-en-amerique-latine-en-uruguay-le-pape-evoque-sa-maladie-pour-defendre-des-soins-accessibles-a-chacun_6807867_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-06T23:02:24+01:00",
-      "resume": "Le pape Léon XIV a entamé une tournée en Amérique latine en se rendant en Uruguay, première étape de son voyage. Dans l'avion l'emmenant à Montevideo, le souverain pontife a évoqué son opération d'un cancer du poumon subie en octobre, se disant « plutôt en bonne forme » et défendant des soins accessibles à tous.",
-      "contexte": "Les voyages papaux constituent des moments clés pour porter des messages géopolitiques, sociaux ou sanitaires à l'international. En abordant publiquement sa maladie, le pape s'inscrit dans un plaidoyer universel en faveur de l'accès aux soins pour les populations les plus fragiles."
-    },
-    {
-      "titre": "Cristiano Ronaldo et le Portugal, c'est fini !",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261106-cristiano-ronaldo-portugal-fini",
+      "titre": "Surf : l'incroyable expédition des \"Lost in the Swell\" au cercle arctique",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-surf-l-incroyable-exp%C3%A9dition-des-lost-in-the-swell-au-cercle-arctique",
       "source": "France 24",
-      "date": "2026-11-06T22:30:03+01:00",
-      "resume": "Cristiano Ronaldo a officialisé sa retraite internationale avec la sélection portugaise après son départ du rassemblement suivant le match contre la Norvège. Il termine son parcours avec un bilan de 234 sélections et 146 buts, l'attaquant visant désormais la barre des 1 000 buts inscrits en carrière.",
-      "contexte": "Cette décision marque la fin d'une ère historique pour le football portugais et mondial, le joueur ayant dominé la scène internationale pendant près de deux décennies. La gestion de la fin de carrière des légendes du sport pose traditionnellement la question du renouvellement générationnel au sein des sélections nationales."
+      "date": "2026-11-07T23:40:11+01:00",
+      "resume": "Le trio de l'expédition \"Lost in the Swell\" a mené un voyage d'un mois et demi dans le cercle arctique à partir de mars 2026. Ils ont affronté des conditions extrêmes, avec des températures ressenties jusqu'à -15 °C et une eau à 3 °C, pour tenter de découvrir des vagues vierges.",
+      "contexte": "Ce type d'exploration extrême illustre une tendance de plus en plus marquée dans les sports de glisse, qui cherchent à repousser les limites géographiques face à la sur fréquentation des spots traditionnels. L'objectif est généralement de documenter la préservation de zones sauvages et de sensibiliser aux environnements polaires.",
+      "image": "https://s.france24.com/media/display/d0241216-dafb-11f1-9fa5-bf1914cabd52/w:1024/p:16x9/FRA-NEWS-07-11-2026-19-59-ING10-CLEAN-N2.jpg"
     },
     {
-      "titre": "Alertes à la bombe en Europe : le fondateur de l'\"Etat masculin\" en Russie dément tout lien avec les perturbations",
-      "lien": "https://www.franceinfo.fr/economie/aeronautique/alertes-a-la-bombe-en-europe-le-fondateur-de-l-etat-masculin-en-russie-dement-tout-lien-avec-les-perturbations_8271548.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-06T22:27:34+01:00",
-      "resume": "De fausses alertes à la bombe perturbent depuis plusieurs jours le trafic aérien de plusieurs aéroports en Europe. Des messages de menace ont été envoyés sous la signature de prétendus « combattants de l'Etat masculin », un groupe dont le fondateur en Russie a formellement démenti tout lien avec ces perturbations.",
-      "contexte": "Les menaces hybrides et les fausses alertes ciblant les infrastructures de transport critique entraînent régulièrement d'importants retards et des coûts économiques considérables pour les compagnies aériennes. Ce type d'événement met à l'épreuve la réactivité des autorités de sécurité européenne face à des groupes agissant souvent en ligne."
-    },
-    {
-      "titre": "JOJ Dakar 2026 : Khady Niang raconte les coulisses d'une cérémonie historique",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-joj-dakar-2026-khady-niang-raconte-les-coulisses-d-une-c%C3%A9r%C3%A9monie-historique",
+      "titre": "Espagne : pluie d'hommages au joueur Jesus de Miguel, décédé après un choc violent sur le terrain",
+      "lien": "https://www.france24.com/fr/sports/20261107-espagne-pluie-d-hommages-au-joueur-jesus-de-miguel-d%C3%A9c%C3%A9d%C3%A9-apr%C3%A8s-un-choc-violent-sur-le-terrain",
       "source": "France 24",
-      "date": "2026-11-06T22:22:31+01:00",
-      "resume": "Dakar a accueilli le 31 octobre 2026 l'ouverture des premiers Jeux olympiques de la jeunesse organisés sur le continent africain. La cérémonie s'est articulée autour du spectacle « L'Envol de Sitoé », mêlant danse, musique et traditions pour célébrer l'histoire et l'avenir de l'Afrique.",
-      "contexte": "L'organisation d'événements sportifs internationaux majeurs sur le continent africain représente un enjeu fort de représentation et de développement pour les jeunesses locales. C'est l'occasion de valoriser les talents artistiques et culturels locaux à l'échelle planétaire."
-    },
-    {
-      "titre": "REPLAY. \"Trump : quand l'Amérique dit stop\" : regardez le documentaire consacré aux midterms et à leurs conséquences",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-trump-quand-l-amerique-dit-stop-regardez-le-documentaire-consacre-aux-midterms-et-a-leurs-consequences_8270936.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-06T22:07:06+01:00",
-      "resume": "Un documentaire diffusé par franceinfo revient sur les élections de mi-mandat aux États-Unis et analyse la lourde défaite infligée à Donald Trump, deux ans après son retour à la Maison-Blanche.",
-      "contexte": "Les élections de mi-mandat (midterms) servent traditionnellement de référendum national sur la politique du président en exercice. Un revers électoral de cette ampleur redessine l'équilibre des pouvoirs au Congrès et complique la mise en œuvre de l'agenda politique de l'exécutif."
-    },
-    {
-      "titre": "Donald Trump promeut son conseiller Stephen Miller, représentant de la droite identitaire,comme directeur de cabinet",
-      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-06T22:02:11+01:00",
-      "resume": "Le président américain Donald Trump a nommé Stephen Miller, figure de la droite identitaire et partisan d'une ligne très dure contre l'immigration, au poste de directeur de cabinet. Cette nomination a immédiatement suscité de vives critiques, notamment de la part du chef des démocrates au Sénat, Chuck Schumer.",
-      "contexte": "Ce choix illustre la volonté de l'administration américaine de consolider son cap politique sur les questions régaliennes et migratoires en s'entourant de conseillers aux positions tranchées. Les nominations à des postes clés de la Maison-Blanche font régulièrement l'objet de vifs affrontements partisans au Congrès."
-    },
-    {
-      "titre": "Les voitures chinoises sont-elles des espionnes ?",
-      "lien": "https://www.franceinfo.fr/monde/chine/les-voitures-chinoises-sont-elles-des-espionnes_8271521.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-06T22:00:02+01:00",
-      "resume": "La question de l'utilisation potentielle des voitures chinoises comme outils d'espionnage via leurs caméras embarquées préoccupe plusieurs pays. Des mesures de protection ont été prises par les armées des États-Unis, du Royaume-Uni, d'Israël et de la Norvège, tandis qu'en France, un eurodéputé interpelle le Premier ministre pour agir.",
-      "contexte": "Avec la montée en puissance des véhicules connectés et électriques, les questions de cybersécurité et de souveraineté numérique deviennent cruciales pour les États. L'utilisation de technologies étrangères dans des secteurs sensibles soulève régulièrement des craintes d'exfiltration de données stratégiques."
-    },
-    {
-      "titre": "Le Vatican pointé du doigt : 5 prêtres accusés de glorifier la corrida",
-      "lien": "https://www.franceinfo.fr/monde/vatican/le-vatican-pointe-du-doigt-5-pretres-accuses-de-glorifier-la-corrida_8271230.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-06T22:00:02+01:00",
-      "resume": "L'association de défense des droits des animaux PETA a porté plainte au Vatican contre cinq prêtres qu'elle accuse de glorifier la corrida. Pour l'heure, le Saint-Siège n'a formulé aucune réaction officielle face à cette démarche.",
-      "contexte": "La question de la corrida et de la condition animale suscite de Debats éthiques et culturels profonds, y compris au sein des institutions religieuses. Les interpellations d'ONG visent souvent à bousculer la posture morale d'autorités traditionnelles sur des sujets de société controversés."
-    }
-  ],
-  "aujourdhui": [
-    {
-      "titre": "Aux obsèques de Pengo Bossio Wangi, à Guyancourt : « Mon fils n’est pas une couleur de peau, mon fils est un être humain »",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-a-guyancourt-mon-fils-n-est-pas-une-couleur-de-peau-mon-fils-est-un-etre-humain_6808317_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-07T22:09:53+01:00",
-      "resume": "Des centaines de personnes, rassemblant proches et citoyens anonymes, se sont réunies à Guyancourt pour assister aux obsèques de Pengo Bossio Wangi. Ce jeune homme de 26 ans avait perdu la vie le 23 octobre lors d'une attaque à caractère raciste perpétrée à Trappes. Sa famille a délivré un message de dignité humaine lors de cet hommage public très émouvant.",
-      "contexte": "Ce drame a provoqué une vive émotion et des tensions dans les Yvelines, ravivant les inquiétudes concernant les violences racistes en France. L'événement souligne les fractures persistantes et les craintes des communautés ciblées face à l'hostilité xénophobe. Les rassemblements d'hommage permettent à la fois d'exprimer la solidarité envers les victimes et d'appeler les autorités à une fermeté accrue contre les crimes haineux."
-    },
-    {
-      "titre": "Benoît Sineau secouru et \"sain et sauf\" après avoir activé sa balise de détresse sur la Route du Rhum",
-      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/benoit-sineau-a-active-sa-balise-de-detresse-sur-la-route-du-rhum-des-concurrents-deroutes-pour-le-secourir_8272628.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-07T22:02:40+01:00",
-      "resume": "Le skipper Benoît Sineau a été secouru et déclaré sain et sauf après avoir déclenché sa balise de détresse en pleine course sur la Route du Rhum. L'organisation de la compétition transatlantique a coordonné l'opération samedi en déroutant plusieurs navires présents dans la zone pour lui porter assistance. Le marin naviguait sur le voilier Ekinox-Rhétores avant cet incident de mer.",
-      "contexte": "La Route du Rhum, course en solitaire reliant Saint-Malo à la Guadeloupe, confronte les marins à des conditions météorologiques souvent éprouvantes au large de l'Atlantique nord. Les avaries matérielles et les risques de chavirage y sont fréquents lors des premiers jours de navigation. Le déploiement rapide des secours en mer repose sur la solidarité entre concurrents et sur des systèmes de géolocalisation d'urgence rigoureusement éprouvés."
-    },
-    {
-      "titre": "Colère sociale : malgré une mobilisation en baisse, la rue veut \"maintenir la pression\"",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-col%C3%A8re-sociale-malgr%C3%A9-une-mobilisation-en-baisse-la-rue-veut-maintenir-la-pression",
-      "source": "France 24",
-      "date": "2026-11-07T21:38:31+01:00",
-      "resume": "Des dizaines de milliers de manifestants se sont réunis samedi dans plusieurs villes françaises pour le quatrième samedi consécutif de contestation contre la vie chère. Salariés, lycéens, étudiants et gilets jaunes ont défilé dans le calme afin de maintenir la pression sur l'exécutif, malgré une mobilisation globalement en baisse. Ce mouvement social intervient juste avant des réunions prévues lundi avec le gouvernement, notamment une conférence sociale à Matignon.",
-      "contexte": "Cette fronde est principalement motivée par la baisse perçue du pouvoir d'achat et un sentiment de précarité largement partagé par la jeunesse. Les syndicats et collectifs cherchent à créer un rapport de force favorable avant d'entamer des négociations cruciales avec le gouvernement. Les observateurs relèvent que cette colère fait écho à des mouvements similaires chez plusieurs voisins européens, traduisant un malaise générationnel plus large."
+      "date": "2026-11-07T23:14:06+01:00",
+      "resume": "Le CD Tenerife et les supporters aux Canaries ont rendu un vibrant hommage, samedi, au footballeur Jesus de Miguel. L'attaquant est décédé mardi à la suite d'une crise cardiaque consécutive à un choc violent sur le terrain avec le gardien d'Andorre, Jesus Owono.",
+      "contexte": "Les drames liés à des arrêts cardiaques ou à des chocs violents sur les terrains de football rappellent les risques inhérents au sport de compétition. Ces événements relancent régulièrement le débat sur la sécurité des joueurs, l'obligation d'un suivi médical renforcé et la présence de protocoles de réanimation d'urgence.",
+      "image": "https://s.france24.com/media/display/1ae98524-db42-11f1-bfaf-695cb59fade5/w:1024/p:16x9/2026-11-07T184028Z-1029588642-UP1EMB71FVEU6-RTRMADP-3-SOCCER-SPAIN.jpg"
     },
     {
       "titre": "\"Tout a pénétré le sol, c'est devenu l'enfer\" : quand nos déchets inondent la Turquie",
       "lien": "https://www.franceinfo.fr/monde/turquie/tout-a-penetre-le-sol-c-est-devenu-l-enfer-quand-nos-dechets-inondent-la-turquie_8272700.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
-      "date": "2026-11-07T21:07:44+01:00",
-      "resume": "Une importante part des déchets plastiques produits par les pays européens est envoyée vers la Turquie, où leur accumulation engendre d'importantes contaminations des sols locaux. Cette situation environnementale préoccupante est mise en lumière à l'approche de l'ouverture de la COP 31, prévue lundi 9 novembre en Turquie. Le sommet devra tenter d'unir la communauté internationale face à l'urgence de la crise écologique planétaire.",
-      "contexte": "Depuis que la Chine a fermé ses frontières à l'importation de déchets étrangers en 2018, la Turquie est devenue l'une des principales destinations des plastiques européens destinés au recyclage. Les infrastructures locales se révèlent souvent insuffisantes pour traiter ces volumes, menant à des rejets illégaux et à des pollutions durables. L'accueil de la conférence climatique met le gouvernement turc sous pression pour durcir sa réglementation sur ces transferts transfrontaliers."
+      "date": "2026-11-07T22:58:27+01:00",
+      "resume": "À l'approche de l'ouverture de la COP 31 lundi 9 novembre en Turquie, la question du traitement des déchets plastiques européens envoyés et accumulés sur le sol turc est mise en avant. Le pays fait face à des impacts environnementaux majeurs liés à cette gestion problématique des déchets.",
+      "contexte": "La gestion internationale des déchets est un enjeu central des négociations climatiques mondiales, de nombreux pays développés ayant longtemps exporté leurs rebuts vers des États en développement ou émergents. Cette situation met en lumière les failles de l'économie circulaire globale et la nécessité pour les sommets internationaux de fixer des règles plus strictes sur le commerce des matières plastiques.",
+      "image": "https://www.franceinfo.fr/pictures/_BdBF7cTPg7OMMFLd1l7tEumi4c/0x92:1506x939/432x243/filters:format(jpg)/2026/11/07/6aef84f42bf55343864057.png"
     },
     {
-      "titre": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, 16 autres sont hospitalisées",
-      "lien": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "titre": "Le PSG assure le service minimum contre Troyes et signe un septième succès d'affilée en Ligue 1",
+      "lien": "https://www.franceinfo.fr/sports/foot/psg/le-psg-assure-le-service-minimum-contre-troyes-et-signe-un-septieme-succes-d-affilee-en-ligue-1_8272742.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-07T20:59:55+01:00",
-      "resume": "À Cracovie, en Pologne, un assaillant a ouvert le feu sur des passants, tuant six personnes et en blessant seize autres qui ont été hospitalisées, dont cinq ressortissants étrangers. Selon les déclarations faites samedi soir par le ministre de l'Intérieur, les premiers éléments suggèrent une fascination du suspect pour des idéologies d'extrême droite. Ces motivations politiques doivent encore faire l'objet de vérifications approfondies par les enquêteurs.",
-      "contexte": "Cette fusillade suscite une vive émotion en Pologne, pays d'Europe centrale traditionnellement peu habitué à des tueries de masse dans l'espace public. Les services de sécurité européens surveillent de près la montée des radicalisations d'extrême droite, souvent nourries par des mouvances suprémacistes en ligne. L'enquête devra déterminer si le tireur a agi de manière isolée ou s'il était affilié à un réseau terroriste structuré."
+      "date": "2026-11-07T22:56:29+01:00",
+      "resume": "Le Paris Saint-Germain s'est imposé face à Troyes sur le score du service minimum, enregistrant ainsi son septième succès d'affilée en Ligue 1. Cette victoire garantit au club parisien de conserver la première place du championnat à l'issue de la 10e journée.",
+      "contexte": "Le PSG confirme sa domination sur la scène nationale en ce début de saison, porté par un effectif taillé pour enchaîner les victoires malgré un calendrier chargé. Pour les équipes adverses, l'enjeu est de trouver des failles tactiques pour rivaliser avec la régularité du leader parisien.",
+      "image": "https://www.franceinfo.fr/pictures/cWbQ5xlxlet4EcVX_b__ibXIu0w/0x128:2458x1510/432x243/filters:format(jpg)/2026/11/07/6aef98b5559f2928373786.jpg"
+    }
+  ],
+  "aujourdhui": [
+    {
+      "titre": "\"On entend beaucoup de revendications mais pas de réponses concrètes\" : à Paris, la mobilisation se poursuit malgré les annonces du gouvernement",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/reportage-on-entend-beaucoup-de-revendications-mais-pas-de-reponses-concretes-a-paris-la-mobilisation-se-poursuit-malgre-les-annonces-du-gouvernement_8272733.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T09:05:40+01:00",
+      "resume": "Des milliers d'étudiants, de lycéens et de manifestants ont défilé samedi à Paris, de la place de la République à celle de la Nation, pour exprimer leur colère contre la vie chère, la précarité et le manque de moyens dans l'Éducation nationale. Malgré de récentes annonces gouvernementales qu'ils jugent insuffisantes, les protestataires prévoient de poursuivre leur mobilisation avec de nouvelles manifestations prévues mardi.",
+      "contexte": "Les mouvements de jeunesse et interprofessionnels traduisent un mécontentement social persistant face à l'inflation et au pouvoir d'achat. L'objectif des manifestants est de maintenir la pression sur l'exécutif pour obtenir des mesures concrètes sur les conditions de vie et d'études, dans un climat de tension autour des réformes publiques.",
+      "image": "https://www.franceinfo.fr/pictures/wr_L-Sl0MVJgYx_iiyymbPqfjj8/0x135:7239x4207/432x243/filters:format(jpg)/2026/11/07/6aef9b7862ac2172949076.jpg"
     },
     {
-      "titre": "Investissements accrus dans des domaines stratégiques, rapprochement avec l'UE... Comment le Canada de Mark Carney continue à s'éloigner du voisin américain",
-      "lien": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/investissements-accrus-dans-des-domaines-strategiques-rapprochement-avec-l-ue-comment-le-canada-de-mark-carney-continue-a-s-eloigner-du-voisin-americain_8251738.html#xtor=RSS-3-%5Bgeneral%5D",
+      "titre": "\"L'ambition indienne\", la naissance d'un géant très fragile",
+      "lien": "https://www.franceinfo.fr/replay-radio/livre-actu/l-ambition-indienne-la-naissance-d-un-geant-tres-fragile_8232049.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
-      "date": "2026-11-07T20:55:04+01:00",
-      "resume": "Le Canada, sous l'impulsion de Mark Carney, accélère une politique d'investissements massifs dans ses secteurs économiques stratégiques tout en amorçant un rapprochement diplomatique et commercial avec l'Union européenne. Ottawa poursuit cette trajectoire d'émancipation économique vis-à-vis des États-Unis en dépit des récents résultats des élections américaines de mi-mandat. Cette ligne directrice vise à sécuriser la souveraineté industrielle du pays face à son voisin du sud.",
-      "contexte": "L'économie canadienne dépend historiquement de façon écrasante de ses échanges commerciaux avec les États-Unis, ce qui l'expose directement aux fluctuations des politiques douanières américaines. Afin de limiter cette vulnérabilité, le Canada cherche à diversifier ses alliances internationales et à protéger ses filières critiques comme l'énergie ou les minéraux rares. Cette stratégie d'autonomie témoigne d'une volonté de bâtir des chaînes d'approvisionnement plus résilientes face aux tensions protectionnistes mondiales."
+      "date": "2026-11-08T09:00:02+01:00",
+      "resume": "Une analyse publiée cette semaine met en lumière la situation de l'Inde, présentée comme un nouveau géant économique mondial mais fragilisé en interne par des divisions et des tensions croissantes.",
+      "contexte": "L'émergence économique de l'Inde s'accompagne de défis sociaux, politiques et religieux complexes, exacerbés par les disparités de richesse et les clivages communautaires. Le pays cherche à s'imposer sur la scène internationale tout en gérant une forte instabilité interne.",
+      "image": "https://www.franceinfo.fr/pictures/VEYH1uONBr1awIUJRH1a5FZgPAg/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/05/6aec332ab1614102890412.jpg"
     },
     {
-      "titre": "En Israël, le chef de l'opposition à Benyamin Nétanyahou, Gadi Eisenkot, sera chargé dimanche de former le prochain gouvernement, annonce la présidence",
-      "lien": "https://www.franceinfo.fr/monde/israel/en-israel-le-chef-de-l-opposition-a-benyamin-netanyahou-gadi-eisenkot-sera-charge-dimanche-de-former-le-prochain-gouvernement-annonce-la-presidence_8272685.html#xtor=RSS-3-[lestitres]",
+      "titre": "En vue de la présidentielle, plus de soixante parlementaires appellent à une primaire contre les \"extrêmes\"",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/en-vue-de-la-presidentielle-plus-de-soixante-parlementaires-appellent-a-une-primaire-contre-les-extremes_8273075.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-07T20:52:36+01:00",
-      "resume": "La présidence israélienne a annoncé que Gadi Eisenkot, figure de l'opposition à Benyamin Nétanyahou, sera formellement chargé dimanche de former le nouveau gouvernement. L'ancien chef d'état-major doit réunir une majorité parlementaire d'au moins 61 députés à la Knesset. Sa mission s'annonce particulièrement ardue au regard des divisions profondes qui traversent l'hémicycle et la société israélienne.",
-      "contexte": "Israël traverse une crise politique prolongée, marquée par une succession d'élections et une forte polarisation autour de la gouvernance de Benyamin Nétanyahou. La tâche de bâtir une coalition exige de trouver des compromis entre des formations politiques aux idéologies très divergentes, allant du centre gauche aux partis nationalistes et religieux. Si Gadi Eisenkot échoue à former une majorité stable, le pays pourrait être contraint d'organiser un nouveau scrutin anticipé."
+      "date": "2026-11-08T08:55:39+01:00",
+      "resume": "Soixante-six parlementaires ont publié une tribune dans \"La Tribune Dimanche\" pour appeler à l'organisation d'une primaire en vue de l'élection présidentielle. Les signataires souhaitent ainsi éviter l'hypothèse d'un second tour opposant La France insoumise au Rassemblement national.",
+      "contexte": "À l'approche des échéances présidentielles, les formations politiques modérées et les élus cherchant à se positionner en dehors des blocs d'extrême ou de la gauche radicale tentent de restructurer le paysage politique. L'idée d'une primaire vise traditionnellement à rassembler un électorat éclaté derrière un candidat unique.",
+      "image": "https://www.franceinfo.fr/pictures/l6PL23g8ufvheXRmNzq_8d9eqVo/0x12:1024x588/432x243/filters:format(jpg)/2026/11/08/6af02a48d5e7c465580613.jpg"
     },
     {
-      "titre": "Donald Trump propose le poste de porte-parole de la Maison Blanche à Dana White, patron d'une fédération de MMA",
-      "lien": "https://www.franceinfo.fr/monde/usa/donald-trump-propose-le-poste-de-porte-parole-de-la-maison-blanche-a-dana-white-patron-d-une-federation-de-mma_8272667.html#xtor=RSS-3-[lestitres]",
+      "titre": "Guerre en Ukraine : Kiev visée par 172 drones et 36 missiles",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-visee-par-172-drones-et-36-missiles_8273060.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde · Le Monde",
+      "date": "2026-11-08T08:16:14+01:00",
+      "resume": "Dans la nuit du vendredi 6 au samedi 7 novembre, la capitale ukrainienne Kiev a été la cible d'une importante attaque aérienne combinant 172 drones et 36 missiles russes, touchant les installations énergétiques et les réseaux de transport. Dans l'oblast de Dnipropetrovsk, plus de 600 000 personnes ont été privées d'électricité, contraignant les hôpitaux et infrastructures critiques à fonctionner sur générateurs.",
+      "contexte": "Ces frappes répétées contre les infrastructures civiles et énergétiques de l'Ukraine s'inscrivent dans une stratégie militaire récurrente visant à affaiblir la résistance ukrainienne et à miner le moral de la population à l'approche de l'hiver. Elles interviennent également dans un contexte diplomatique tendu, à quelques jours d'une rencontre prévue entre Kiev, Moscou et Washington.",
+      "image": "https://www.franceinfo.fr/pictures/c2L2TSQe8n0a4X6svqjSYpA5D9k/30x0:1505x830/432x243/filters:format(jpg)/2026/11/08/6af0213cdaf28716358702.jpg"
+    },
+    {
+      "titre": "Le ministre de l'Education nationale refuse de modifier le calendrier du bac, en dépit des heures perdues dans les lycées bloqués",
+      "lien": "https://www.franceinfo.fr/societe/education/le-ministre-de-l-education-nationale-refuse-de-modifier-le-calendrier-du-bac-en-depit-des-heures-perdues-dans-les-lycees-bloques_8273054.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-07T20:28:31+01:00",
-      "resume": "Donald Trump a proposé à Dana White, actuel patron de la ligue d'arts martiaux mixtes Ultimate Fighting Championship, d'occuper la fonction de porte-parole de la Maison Blanche. Ce rôle stratégique de communication présidentielle était devenu vacant après l'éviction de Katie Zacharia le 16 octobre dernier, congédiée une semaine seulement après sa prise de fonction. La décision finale concernant cette nomination n'a pas encore été officialisée.",
-      "contexte": "Dana White est un allié et soutien de longue date de Donald Trump, ayant notamment pris la parole lors de plusieurs conventions républicaines. Le choix potentiel d'un dirigeant sportif issu du divertissement, sans expérience préalable des arcanes politiques traditionnelles, s'inscrirait dans la volonté de Trump de bousculer les codes établis de la communication institutionnelle. Cette démarche vise généralement à toucher directement un électorat populaire et masculin tout en privilégiant une loyauté personnelle totale."
+      "date": "2026-11-08T08:03:29+01:00",
+      "resume": "Dans une interview accordée au \"Parisien\" samedi, le ministre de l'Éducation nationale Édouard Geffray a rejeté toute modification du calendrier du baccalauréat, malgré les heures de cours perdues dans les lycées bloqués. Il a en revanche réaffirmé sa volonté d'apporter davantage de transparence sur la plateforme d'admission Parcoursup.",
+      "contexte": "La gestion des perturbations dans les établissements scolaires et le calendrier des examens nationaux sont des sujets politiquement sensibles qui opposent régulièrement les syndicats étudiants, les enseignants et le gouvernement. Maintenir les épreuves à date fixe permet de respecter le calendrier universitaire national, mais suscite des critiques quant à l'équité des apprentissages.",
+      "image": "https://www.franceinfo.fr/pictures/pbZAOodxXSs5g4W-MdDghCAsswI/0x32:1024x608/432x243/filters:format(jpg)/2026/11/08/6af01be437e08548306750.jpg"
     },
     {
-      "titre": "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-      "lien": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/cette-recrudescence-des-vols-impacte-la-production-des-parcs-500-km-de-cables-de-cuivre-derobes-dans-une-centrale-photovoltaique_8272673.html#xtor=RSS-3-[lestitres]",
+      "titre": "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés",
+      "lien": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-7-dans-le-centre-du-japon-fait-plusieurs-blesses_8273036.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-07T20:22:19+01:00",
-      "resume": "Plus de 500 kilomètres de câbles de cuivre ont été dérobés dans des centrales photovoltaïques situées dans le Sud-Ouest de la France, causant un préjudice financier estimé à un million d'euros. L'opération a mobilisé plus d'une centaine de gendarmes pour mettre fin aux agissements de cette filière. Six personnes ont été arrêtées et placées en détention dans le cadre du démantèlement du réseau.",
-      "contexte": "Ces actes de vandalisme sont principalement motivés par la hausse soutenue des cours des métaux sur les marchés internationaux, qui rend le cuivre très lucratif à la revente illégale. Les parcs solaires, souvent isolés sur de vastes surfaces en zone rurale, constituent des cibles vulnérables pour les réseaux criminels organisés. Ces vols à grande échelle entraînent de lourdes pertes de production pour le secteur de l'énergie et forcent les opérateurs à renforcer drastiquement leur surveillance."
+      "date": "2026-11-08T07:45:47+01:00",
+      "resume": "Un séisme d'une magnitude de 5,7 s'est produit dans le centre du Japon, faisant plusieurs blessés. Le pays est particulièrement exposé à ce type de catastrophe en raison de sa position géographique à la jonction de quatre grandes plaques tectoniques, subissant environ 18 % des séismes mondiaux.",
+      "contexte": "En raison de sa forte sismicité, le Japon dispose de normes de construction parmi les plus strictes au monde et d'une culture de prévention très développée, ce qui limite généralement le bilan humain des séismes majeurs malgré leur puissance.",
+      "image": "https://www.franceinfo.fr/pictures/ZPK5SItvy6TseTpUB0upYadBow0/0x30:1024x606/432x243/filters:format(jpg)/2026/11/08/6af018e7aa39f072621171.jpg"
     },
     {
-      "titre": "Depuis son meeting au Bourget, Jean-Luc Mélenchon refuse de mettre \"de l'eau dans\" son \"vin pour séduire et être moins clivant\"",
-      "lien": "https://www.franceinfo.fr/politique/melenchon/depuis-son-meeting-au-bourget-jean-luc-melenchon-refuse-de-mettre-de-l-eau-dans-son-vin-pour-seduire-et-etre-moins-clivant_8272640.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-07T19:58:40+01:00",
-      "resume": "Jean-Luc Mélenchon s'est exprimé samedi lors d'un grand meeting politique organisé au Bourget, en Seine-Saint-Denis, devant de nombreux sympathisants de La France insoumise. Le dirigeant politique y a affirmé qu'il refusait d'adoucir son discours dans le but de séduire ou d'apparaître moins clivant. Ce rassemblement faisait suite à la parution en librairie d'une nouvelle version de son programme présidentiel 'L'Avenir en commun', comprenant 1 069 propositions.",
-      "contexte": "Le mouvement insoumis privilégie une stratégie de conflictualisation du débat public pour mobiliser les classes populaires et les abstentionnistes plutôt que de chercher un consensus au centre. Cette posture radicale suscite régulièrement des désaccords au sein de la gauche parlementaire sur la méthode pour accéder au pouvoir. La présentation d'un programme très détaillé sert à poser les bases idéologiques du parti en vue des futures échéances électorales nationales."
+      "titre": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "lien": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · franceinfo Monde",
+      "date": "2026-11-08T07:41:58+01:00",
+      "resume": "Une fusillade perpétrée samedi dans le centre-ville de Cracovie, en Pologne, a fait six morts et quinze blessés, dont cinq étrangers hospitalisés, selon le ministère de l'Intérieur. Trois autres corps ont également été retrouvés au domicile du suspect, dont les premiers éléments de l'enquête indiquent qu'il était fasciné par des idéologies d'extrême droite. Le Premier ministre Donald Tusk a qualifié cet acte de terrorisme.",
+      "contexte": "La montée de la violence armée et l'influence d'idéologies radicales extrémistes posent des défis sécuritaires majeurs aux autorités européennes. Ce type d'attaque indiscriminée renforce les appels à une surveillance accrue des individus radicalisés et soulève des questions sur la régulation de l'accès aux armes.",
+      "image": "https://www.franceinfo.fr/pictures/QNOOq7XAUw7mVHpRcNL0b6EMxas/0x60:1024x636/432x243/filters:format(jpg)/2026/11/07/6aef76bd1aa73040905605.jpg"
     },
     {
-      "titre": "EN DIRECT, guerre en Ukraine : les dernières informations",
-      "lien": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+      "titre": "Pape en Uruguay : mariage, pauvreté, IA et maté… Léon XIV achève la première étape de son voyage en Amérique latine avant de s’envoler pour l’Argentine",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/08/leon-xiv-en-uruguay-mariage-pauvrete-ia-et-mate-le-pape-clot-la-premiere-etape-de-son-voyage-en-amerique-latine_6808409_3210.html",
       "source": "Le Monde",
-      "date": "2026-11-07T19:24:37+01:00",
-      "resume": "L'armée russe a mené dans la nuit une série de frappes ciblées contre des infrastructures énergétiques ukrainiennes. Le ministère de l'Énergie ukrainien a indiqué que ces bombardements ont provoqué d'importantes coupures d'électricité à travers le pays. Les régions de Dnipropetrovsk, Donetsk, Kiev, Jytomyr et Kharkiv sont directement affectées par ces pannes.",
-      "contexte": "La Russie applique régulièrement une tactique visant à détruire les réseaux électriques et de chauffage ukrainiens, en particulier à l'approche de l'hiver. L'objectif stratégique est d'affaiblir l'économie ukrainienne et d'épuiser le moral des populations civiles en les privant d'énergie. Ces attaques répétées compliquent également la logistique militaire de l'Ukraine et accentuent la pression sur ses alliés pour la fourniture de systèmes de défense antiaérienne."
+      "date": "2026-11-08T07:39:46+01:00",
+      "resume": "Le pape Léon XIV a achevé la première étape de sa tournée en Amérique latine en visitant l'Uruguay, où il a abordé des thèmes tels que le mariage, la pauvreté, l'intelligence artificielle et le maté. Il a notamment arpenté à pied le quartier de Montevideo de Casavalle, connu pour son taux d'homicides élevé et les affrontements liés au narcotrafic, avant de s'envoler pour l'Argentine.",
+      "contexte": "Les voyages pontifiques en Amérique latine combinent traditionnellement des messages de paix sociale, de lutte contre la pauvreté et de soutien aux populations marginalisées face à la violence des cartels. Cette visite permet au Vatican d'ancrer son influence spirituelle sur un continent confronté à de fortes inégalités économiques et sécuritaires.",
+      "image": "https://img.lemde.fr/2026/11/08/720/0/8640/4320/644/322/60/0/06a171d_ftp-1-eylbqlsogfc3-3cbd076f67f6465981cbaa1c694fc6b8-1-c47a263bf189475b967b77c2dc61644b.jpg"
+    },
+    {
+      "titre": "\"La Route du Rhum, j'en rêve depuis tout petit\" : les premiers mots de Tom Laperche, vainqueur de l'édition 2026",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/la-route-du-rhum-j-en-reve-depuis-tout-petit-les-premiers-mots-de-tom-laperche-vainqueur-de-l-edition-2026_8273033.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T07:34:35+01:00",
+      "resume": "Le skippeur Tom Laperche a remporté l'édition 2026 de la Route du Rhum en arrivant le premier à Pointe-à-Pitre (Guadeloupe) dans la nuit de samedi à dimanche. Pour sa première participation à cette course transatlantique, il a franchi la ligne en établissant un nouveau record de la traversée.",
+      "contexte": "La Route du Rhum est l'une des courses en solitaire les plus prestigieuses de la voile, reliant Saint-Malo à la Guadeloupe à travers l'Atlantique. Remporter cette épreuve dès sa première tentative et battre le record confirme l'émergence d'une nouvelle génération de marins hauturiers extrêmement performants sur des bateaux à foils.",
+      "image": "https://www.franceinfo.fr/pictures/7dYzzYpH22Qufa9XxxY5NJW_dYg/0x0:7558x4251/432x243/filters:format(jpg)/2026/11/08/6af017e65ba66922883021.jpg"
     }
   ],
   "culture": [
     {
-      "theme": "arts et littérature",
-      "titre": "Le mystère du roman inachevé de Dickens",
-      "texte": "Charles Dickens a entamé l'écriture du « Mystère d'Edwin Drood » en pensant révolutionner le genre du roman policier. Malheureusement, l'auteur est décédé subitement avant d'avoir pu achever les derniers chapitres de son œuvre. Cette fin manquante a donné naissance à des décennies de spéculations, de procès littéraires fictifs et de suites imaginées par d'admirables plumes. Le lecteur se trouve ainsi privé à jamais de la résolution officielle de l'intrigue. C'est l'un des plus grands suspense irrésolus de toute l'histoire de la littérature britannique.",
-      "a_retenir": "Le mystère d'Edwin Drood est resté à jamais sans fin suite au décès de Charles Dickens."
+      "theme": "économie",
+      "titre": "La main invisible",
+      "texte": "Le concept de la main invisible a été popularisé par l'économiste Adam Smith au XVIIIe siècle. Il suggère que chaque individu, en poursuivant son propre intérêt personnel, contribue involontairement au bien-être de la collectivité. Selon cette théorie, le marché s'autorégule naturellement sans avoir besoin d'une intervention étatique constante. Cette idée est devenue l'un des fondements intellectuels du libéralisme économique moderne. Elle illustre comment des actions égoïstes peuvent, par le mécanisme des prix, mener à une allocation efficace des ressources.",
+      "a_retenir": "L'intérêt individuel peut mener, comme par une main invisible, à une prospérité collective générale.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/AdamSmith.jpg/960px-AdamSmith.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
-      "theme": "histoire",
-      "titre": "L'incroyable imposture de George Psalmanazar",
-      "texte": "Au début du dix-huitième siècle, un aventurier européen s'est fait passer pour un indigène de l'île de Formose, l'actuelle Taïwan. Pour rendre son mensonge crédible, il a inventé de toutes pièces une langue complexe, un alphabet inédit et des traditions religieuses extravagantes. Il a même publié un livre à succès décrivant cette culture imaginaire, fascinant les intellectuels britanniques de l'époque. Sa supercherie a duré plusieurs années avant qu'il ne finisse par avouer publiquement la vérité. Cet épisode demeure l'un des canulars anthropologiques les plus audacieux de l'époque moderne.",
-      "a_retenir": "George Psalmanazar a du inventer une langue et des traditions pour se faire passer pour un insulaire de Taïwan."
+      "theme": "vie courante (argent, droit, logement, cuisine, consommation)",
+      "titre": "Le droit de rétractation",
+      "texte": "Le droit de rétractation est une protection juridique accordée au consommateur lors d'un achat à distance ou hors établissement. Il permet à l'acheteur de changer d'avis et de renvoyer le produit sans avoir à se justifier ni à payer de pénalités. Ce délai est généralement fixé à quatorze jours calendaires à compter de la réception du bien. Cette mesure vise à équilibrer le rapport de force entre le professionnel et le client, souvent désavantagé par l'absence d'examen direct du produit. Il existe cependant des exceptions notables, comme pour les produits périssables ou les biens personnalisés.",
+      "a_retenir": "Le droit de rétractation offre un délai de réflexion pour annuler une commande effectuée en ligne.",
+      "image": ""
     },
     {
-      "theme": "mythologie grecque",
-      "titre": "Le mythe de Sisyphe et son rocher",
-      "texte": "Condamné par les dieux pour son arrogance et ses tromperies, Sisyphe subit l'un des châtiments les plus célèbres des enfers grecs. Sa peine consiste à pousser un immense rocher au sommet d'une montagne escarpée. À chaque fois qu'il approche du but, la pierre lourde lui échappe et redescend inexorablement vers la vallée. Ce recommencement éternel et absurde symbolise la condition humaine face à l'effort sans fin. La philosophie moderne, notamment avec Albert Camus, a fait de ce personnage l'emblème de la résilience humaine.",
-      "a_retenir": "Sisyphe est condamné pour l'éternité à pousser un rocher qui retombe sans cesse au bas de la montagne."
+      "theme": "science",
+      "titre": "La photosynthèse",
+      "texte": "La photosynthèse est le processus biologique par lequel les plantes, les algues et certaines bactéries transforment l'énergie lumineuse en énergie chimique. Grâce à la chlorophylle, les végétaux captent la lumière du soleil pour transformer l'eau et le dioxyde de carbone en glucides. Ce mécanisme produit également du dioxygène, indispensable à la respiration de la plupart des êtres vivants sur Terre. C'est le socle fondamental de la chaîne alimentaire mondiale, car il permet de produire la matière organique nécessaire à la vie. Sans ce phénomène, l'atmosphère terrestre ne contiendrait pas suffisamment d'oxygène pour soutenir les espèces animales.",
+      "a_retenir": "La photosynthèse transforme la lumière du soleil en nourriture pour les plantes tout en rejetant de l'oxygène.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Photosynth%C3%A8se_fr.svg/960px-Photosynth%C3%A8se_fr.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "1603cfd0a0",
-      "date": "2026-11-07",
-      "type": "actu",
-      "question": "Quel skipper a été secouru et déclaré sain et sauf lors de la Route du Rhum après le déclenchement de sa balise de détresse ?",
-      "choix": [
-        "Benoît Sineau",
-        "Armel Le Cléac'h",
-        "François Gabart",
-        "Thomas Coville"
-      ],
-      "reponse": 0,
-      "explication": "Benoît Sineau, à la barre du voilier Ekinox-Rhétores, a activé sa balise de détresse en mer avant d'être secouru avec succès.",
-      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/benoit-sineau-a-active-sa-balise-de-detresse-sur-la-route-du-rhum-des-concurrents-deroutes-pour-le-secourir_8272628.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "798a32fe08",
-      "date": "2026-11-07",
-      "type": "actu",
-      "question": "Quel sommet international sur le climat la Turquie s'apprête-t-elle à accueillir ?",
-      "choix": [
-        "La COP 28",
-        "La COP 31",
-        "Le One Ocean Summit",
-        "La COP 30"
-      ],
-      "reponse": 1,
-      "explication": "La Turquie doit accueillir la COP 31, qui a pour objectif d'unir la communauté internationale face à l'urgence climatique.",
-      "lien": "https://www.franceinfo.fr/monde/turquie/tout-a-penetre-le-sol-c-est-devenu-l-enfer-quand-nos-dechets-inondent-la-turquie_8272700.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "id": "c956a59663",
-      "date": "2026-11-07",
-      "type": "actu",
-      "question": "En Israël, quelle figure de l'opposition a été chargée par la présidence de former le nouveau gouvernement ?",
-      "choix": [
-        "Naftali Bennett",
-        "Yaïr Lapid",
-        "Benny Gantz",
-        "Gadi Eisenkot"
-      ],
-      "reponse": 3,
-      "explication": "Gadi Eisenkot, ancien chef d'état-major et opposant à Benyamin Nétanyahou, a été formellement chargé de réunir une majorité à la Knesset.",
-      "lien": "https://www.franceinfo.fr/monde/israel/en-israel-le-chef-de-l-opposition-a-benyamin-netanyahou-gadi-eisenkot-sera-charge-dimanche-de-former-le-prochain-gouvernement-annonce-la-presidence_8272685.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "88d8d84208",
-      "date": "2026-11-07",
-      "type": "actu",
-      "question": "À quelle personnalité du monde du sport Donald Trump a-t-il proposé le poste de porte-parole de la Maison Blanche ?",
-      "choix": [
-        "Conor McGregor",
-        "Joe Rogan",
-        "Dana White",
-        "Vince McMahon"
-      ],
-      "reponse": 2,
-      "explication": "Donald Trump a proposé ce rôle stratégique de communication à Dana White, l'actuel dirigeant de l'organisation de MMA Ultimate Fighting Championship (UFC).",
-      "lien": "https://www.franceinfo.fr/monde/usa/donald-trump-propose-le-poste-de-porte-parole-de-la-maison-blanche-a-dana-white-patron-d-une-federation-de-mma_8272667.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "ce8a3687cc",
-      "date": "2026-11-07",
-      "type": "actu",
-      "question": "Quel type de matériel a été dérobé sur plus de 500 kilomètres dans des centrales photovoltaïques du Sud-Ouest de la France ?",
-      "choix": [
-        "Des panneaux de silicium",
-        "Des batteries de stockage",
-        "Des câbles de cuivre",
-        "Des structures en aluminium"
-      ],
-      "reponse": 2,
-      "explication": "Le réseau criminel démantelé ciblait les câbles de cuivre des parcs solaires, causant un préjudice d'environ un million d'euros.",
-      "lien": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/cette-recrudescence-des-vols-impacte-la-production-des-parcs-500-km-de-cables-de-cuivre-derobes-dans-une-centrale-photovoltaique_8272673.html#xtor=RSS-3-[lestitres]"
-    },
-    {
-      "id": "fb9764823a",
-      "date": "2026-11-07",
-      "type": "culture",
-      "question": "Quel roman policier de Charles Dickens est resté inachevé en raison de la mort soudaine de l'auteur ?",
-      "choix": [
-        "Le Mystère d'Edwin Drood",
-        "Un chant de Noël",
-        "De grandes espérances",
-        "La Maison d'Âpre-Vent"
-      ],
-      "reponse": 0,
-      "explication": "Charles Dickens est mort avant d'achever « Le Mystère d'Edwin Drood », laissant l'intrigue et l'identité du coupable à jamais irrésolues.",
-      "lien": ""
-    },
-    {
-      "id": "3b7e6215da",
-      "date": "2026-11-07",
-      "type": "culture",
-      "question": "De quel territoire l'imposteur George Psalmanazar s'est-il fait passer pour un autochtone au début du XVIIIe siècle ?",
-      "choix": [
-        "Madagascar",
-        "L'île de Java",
-        "L'île de Formose",
-        "L'île de Pâques"
-      ],
-      "reponse": 2,
-      "explication": "George Psalmanazar a trompé les intellectuels britanniques en prétendant venir de l'île de Formose (l'actuelle Taïwan) et en inventant sa propre langue et ses coutumes.",
-      "lien": ""
-    }
-  ]
+  "quiz_jour": []
 }
