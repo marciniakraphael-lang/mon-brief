@@ -4154,6 +4154,118 @@
       "reponse": 2,
       "explication": "George Psalmanazar a trompé les intellectuels britanniques en prétendant venir de l'île de Formose (l'actuelle Taïwan) et en inventant sa propre langue et ses coutumes.",
       "lien": ""
+    },
+    {
+      "id": "cac62b43c5",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quel navigateur a remporté la Route du Rhum 2026 en s'emparant du record de l'épreuve ?",
+      "choix": [
+        "Armel Le Cléac'h",
+        "François Gabart",
+        "Charles Caudrelier",
+        "Tom Laperche"
+      ],
+      "reponse": 3,
+      "explication": "À 29 ans, Tom Laperche a remporté la Route du Rhum 2026 à bord de son trimaran SVR-Lazartigue, battant le record de Charles Caudrelier.",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/tom-laperche-remporte-la-route-du-rhum-2026-et-s-empare-du-record-de-l-epreuve_8272415.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/7V2hpGeXz0jDmSd4eSD5dlfS3lM/0x32:1024x608/432x243/filters:format(jpg)/2026/11/08/6af011b4b9beb688787247.jpg"
+    },
+    {
+      "id": "0a7c878c7d",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quelle est la position du ministre de l'Éducation nationale Édouard Geffray face aux contestations des lycéens et étudiants ?",
+      "choix": [
+        "Il a annulé les épreuves du baccalauréat.",
+        "Il a supprimé la plateforme Parcoursup.",
+        "Il a démissionné de ses fonctions.",
+        "Il a exclu de modifier le calendrier des épreuves du baccalauréat."
+      ],
+      "reponse": 3,
+      "explication": "Malgré les mobilisations et les blocages, le ministre a exclu de modifier le calendrier du bac tout en promettant plus de transparence sur Parcoursup.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-faut-appuyer-encore-jusqu-a-ce-qu-on-obtienne-gain-de-cause-dans-l-attente-de-reponses-du-gouvernement-les-jeunes-prets-a-poursuivre-les-mobilisations_8273057.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/XPv58ayo9H6YjCQa4xT7-8__DqM/0x270:5201x3196/432x243/filters:format(jpg)/2026/11/08/6af020eb91a63870350574.jpg"
+    },
+    {
+      "id": "ca05e5dabe",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Combien de drones et de missiles ont visé Kiev lors de la vaste vague de frappes russes de début novembre ?",
+      "choix": [
+        "100 drones et 20 missiles",
+        "172 drones et 36 missiles",
+        "250 drones et 50 missiles",
+        "72 drones et 16 missiles"
+      ],
+      "reponse": 1,
+      "explication": "La capitale ukrainienne a été la cible de 172 drones et 36 missiles, endommageant gravement les installations énergétiques.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-visee-par-172-drones-et-36-missiles_8273060.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/c2L2TSQe8n0a4X6svqjSYpA5D9k/30x0:1505x830/432x243/filters:format(jpg)/2026/11/08/6af0213cdaf28716358702.jpg"
+    },
+    {
+      "id": "0bf4408655",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Comment le Premier ministre Donald Tusk a-t-il qualifié la fusillade survenue à Cracovie en novembre ?",
+      "choix": [
+        "Une mutinerie armée",
+        "Un règlement de comptes entre gangs",
+        "Un accident tragique",
+        "Un acte de terrorisme"
+      ],
+      "reponse": 3,
+      "explication": "Le Premier ministre polonais Donald Tusk a qualifié cette fusillade meurtrière d'acte de terrorisme, le tireur présentant une fascination pour l'extrême droite.",
+      "lien": "https://www.franceinfo.fr/faits-divers/police/fusillade-a-cracovie-donald-tusk-denonce-un-acte-de-terrorisme_8273030.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/yK8qx1Nubele5p4_DfAUPPEP2fI/37x0:1498x822/432x243/filters:format(jpg)/2026/11/08/6af019b0435cf840035193.jpg"
+    },
+    {
+      "id": "072ac40a87",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Dans quel pays d'Amérique latine le pape Léon XIV a-t-il achevé la première étape de son voyage avant de s'envoler pour l'Argentine ?",
+      "choix": [
+        "L'Uruguay",
+        "Le Paraguay",
+        "Le Chili",
+        "Le Brésil"
+      ],
+      "reponse": 0,
+      "explication": "Le pape Léon XIV a conclu la première étape de sa tournée sud-américaine en Uruguay, notamment en visitant un quartier de Montevideo.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/08/leon-xiv-en-uruguay-mariage-pauvrete-ia-et-mate-le-pape-clot-la-premiere-etape-de-son-voyage-en-amerique-latine_6808409_3210.html",
+      "image": "https://img.lemde.fr/2026/11/08/720/0/8640/4320/644/322/60/0/06a171d_ftp-1-eylbqlsogfc3-3cbd076f67f6465981cbaa1c694fc6b8-1-c47a263bf189475b967b77c2dc61644b.jpg"
+    },
+    {
+      "id": "7a892e4dd3",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Quel économiste du XVIIIe siècle a popularisé le concept de la « main invisible » ?",
+      "choix": [
+        "David Ricardo",
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Adam Smith"
+      ],
+      "reponse": 3,
+      "explication": "Adam Smith a popularisé la main invisible pour illustrer comment l'intérêt personnel peut involontairement contribuer au bien-être de la collectivité.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "dc4f297a95",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Quelle est la durée générale du délai de rétractation pour un achat à distance en France ?",
+      "choix": [
+        "14 jours",
+        "48 heures",
+        "30 jours",
+        "7 jours"
+      ],
+      "reponse": 0,
+      "explication": "Le droit de rétractation pour les achats à distance ou hors établissement est généralement fixé à quatorze jours calendaires.",
+      "lien": "",
+      "image": ""
     }
   ]
 }

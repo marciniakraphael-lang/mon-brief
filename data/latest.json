@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
-  "mode": "morning",
-  "updated": "2026-11-08T09:25:58.372682+01:00",
+  "mode": "evening",
+  "updated": "2026-11-08T09:46:37.050964+01:00",
   "deja_presente": [
     {
       "titre": "Attentat raciste de Trappes : obsèques de Pengo Bossio Wangi samedi à Guyancourt",
@@ -143,21 +143,39 @@
   ],
   "aujourdhui": [
     {
-      "titre": "\"On entend beaucoup de revendications mais pas de réponses concrètes\" : à Paris, la mobilisation se poursuit malgré les annonces du gouvernement",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/reportage-on-entend-beaucoup-de-revendications-mais-pas-de-reponses-concretes-a-paris-la-mobilisation-se-poursuit-malgre-les-annonces-du-gouvernement_8272733.html#xtor=RSS-3-[lestitres]",
+      "titre": "Tom Laperche remporte la Route du Rhum 2026 et s'empare du record de l'épreuve",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/tom-laperche-remporte-la-route-du-rhum-2026-et-s-empare-du-record-de-l-epreuve_8272415.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T09:41:59+01:00",
+      "resume": "À 29 ans, Tom Laperche a remporté la Route du Rhum 2026 dès sa première participation à bord de son trimaran SVR-Lazartigue. Il a franchi la ligne d'arrivée à Pointe-à-Pitre dans la nuit de samedi à dimanche, à 3h34 heure de Paris. Le navigateur s'empare également du record de l'épreuve en devançant le temps de référence de Charles Caudrelier d'environ six heures.",
+      "contexte": "Cette performance consacre l'un des plus grands espoirs de la course au large, formé auprès de marins réputés comme François Gabart et Franck Cammas. La Route du Rhum est une transatlantique en solitaire particulièrement exigeante qui se court tous les quatre ans entre Saint-Malo et la Guadeloupe. Ce succès confirme l'évolution technique des trimarans géants de la classe Ultime, capables d'atteindre des vitesses record lors des traversées océaniques.",
+      "image": "https://www.franceinfo.fr/pictures/7V2hpGeXz0jDmSd4eSD5dlfS3lM/0x32:1024x608/432x243/filters:format(jpg)/2026/11/08/6af011b4b9beb688787247.jpg"
+    },
+    {
+      "titre": "En Iran, trois hommes soupçonnés d'avoir agi pour Israël et les Etats-Unis vont être exécutés",
+      "lien": "https://www.franceinfo.fr/monde/iran/en-iran-trois-hommes-soupconnes-d-avoir-agi-pour-israel-et-les-etats-unis-vont-etre-executes_8273084.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T09:23:52+01:00",
+      "resume": "La justice iranienne a annoncé l'exécution prochaine de trois hommes accusés d'avoir mené des activités pour le compte des services d'espionnage d'Israël et des États-Unis. Les autorités de Téhéran n'ont pas fourni de calendrier précis pour la mise à mort de ces détenus. Les arrestations et les exécutions de suspects poursuivis pour atteinte à la sécurité de l'État connaissent une forte hausse dans le pays depuis le début de l'année.",
+      "contexte": "Cette décision s'inscrit dans un climat de répression judiciaire continue en Iran depuis les grandes manifestations antigouvernementales et les récentes confrontations directes ou indirectes au Proche-Orient. Le pouvoir iranien accuse très fréquemment ses opposants ou les personnes arrêtées de collusion avec des puissances étrangères ennemies. Les organisations de défense des droits humains dénoncent régulièrement le recours massif à la peine capitale par Téhéran comme un outil de dissuasion politique interne.",
+      "image": "https://www.franceinfo.fr/pictures/iJNR6jDr_HfoqC77mJmU2dtaQkI/0x33:1024x609/432x243/filters:format(jpg)/2026/11/08/6af030fb4ef43844991253.jpg"
+    },
+    {
+      "titre": "\"Il faut appuyer encore, jusqu'à ce qu'on obtienne gain de cause\" : dans l'attente de réponses du gouvernement, les jeunes prêts à poursuivre les mobilisations",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-faut-appuyer-encore-jusqu-a-ce-qu-on-obtienne-gain-de-cause-dans-l-attente-de-reponses-du-gouvernement-les-jeunes-prets-a-poursuivre-les-mobilisations_8273057.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-11-08T09:05:40+01:00",
-      "resume": "Des milliers d'étudiants, de lycéens et de manifestants ont défilé samedi à Paris, de la place de la République à celle de la Nation, pour exprimer leur colère contre la vie chère, la précarité et le manque de moyens dans l'Éducation nationale. Malgré de récentes annonces gouvernementales qu'ils jugent insuffisantes, les protestataires prévoient de poursuivre leur mobilisation avec de nouvelles manifestations prévues mardi.",
-      "contexte": "Les mouvements de jeunesse et interprofessionnels traduisent un mécontentement social persistant face à l'inflation et au pouvoir d'achat. L'objectif des manifestants est de maintenir la pression sur l'exécutif pour obtenir des mesures concrètes sur les conditions de vie et d'études, dans un climat de tension autour des réformes publiques.",
-      "image": "https://www.franceinfo.fr/pictures/wr_L-Sl0MVJgYx_iiyymbPqfjj8/0x135:7239x4207/432x243/filters:format(jpg)/2026/11/07/6aef9b7862ac2172949076.jpg"
+      "resume": "À Paris, des lycéens et des étudiants se sont rassemblés samedi pour dénoncer la précarité, la hausse du coût de la vie et le manque de moyens alloués à l'Éducation nationale, en promettant une nouvelle mobilisation mardi. Face à ces tensions et aux blocages dans plusieurs établissements, le ministre de l'Éducation nationale Édouard Geffray a toutefois exclu de modifier le calendrier des épreuves du baccalauréat. Dans un entretien accordé au Parisien, il a également affirmé son intention de renforcer la transparence de la plateforme Parcoursup.",
+      "contexte": "Les mouvements de contestation de la jeunesse mettent régulièrement sous pression le ministère de l'Éducation, particulièrement lors des périodes d'examen. Les syndicats et collectifs étudiants alertent fréquemment sur l'impact de l'inflation sur les bourses et le logement, tandis que les enseignants déplorent le manque de postes. Le gouvernement cherche généralement à éviter des perturbations majeures dans le calendrier scolaire tout en tentant d'apaiser les craintes liées à l'orientation dans l'enseignement supérieur.",
+      "image": "https://www.franceinfo.fr/pictures/XPv58ayo9H6YjCQa4xT7-8__DqM/0x270:5201x3196/432x243/filters:format(jpg)/2026/11/08/6af020eb91a63870350574.jpg"
     },
     {
       "titre": "\"L'ambition indienne\", la naissance d'un géant très fragile",
       "lien": "https://www.franceinfo.fr/replay-radio/livre-actu/l-ambition-indienne-la-naissance-d-un-geant-tres-fragile_8232049.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
       "date": "2026-11-08T09:00:02+01:00",
-      "resume": "Une analyse publiée cette semaine met en lumière la situation de l'Inde, présentée comme un nouveau géant économique mondial mais fragilisé en interne par des divisions et des tensions croissantes.",
-      "contexte": "L'émergence économique de l'Inde s'accompagne de défis sociaux, politiques et religieux complexes, exacerbés par les disparités de richesse et les clivages communautaires. Le pays cherche à s'imposer sur la scène internationale tout en gérant une forte instabilité interne.",
+      "resume": "Une analyse publiée cette semaine examine l'ambition géopolitique et économique de l'Inde face à ses fragilités internes. Selon un spécialiste du pays, l'émergence rapide de cette puissance sur l'échiquier économique mondial masque de profondes divisions sociales et des colères populaires persistantes. L'ouvrage met en lumière le contraste entre le statut de géant revendiqué par New Delhi et ses faiblesses structurelles.",
+      "contexte": "L'Inde affiche depuis plusieurs années une des plus fortes croissances parmi les grandes économies et s'impose comme un acteur diplomatique central du Sud global. Toutefois, le pays reste confronté à d'importantes inégalités de revenus, à des tensions communautaires et à des difficultés pour créer suffisamment d'emplois pour sa nombreuse jeunesse. La gestion de ces fractures internes demeure l'un des principaux défis pour pérenniser son influence à long terme sur la scène internationale.",
       "image": "https://www.franceinfo.fr/pictures/VEYH1uONBr1awIUJRH1a5FZgPAg/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/05/6aec332ab1614102890412.jpg"
     },
     {
@@ -165,8 +183,8 @@
       "lien": "https://www.franceinfo.fr/elections/presidentielle/en-vue-de-la-presidentielle-plus-de-soixante-parlementaires-appellent-a-une-primaire-contre-les-extremes_8273075.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-11-08T08:55:39+01:00",
-      "resume": "Soixante-six parlementaires ont publié une tribune dans \"La Tribune Dimanche\" pour appeler à l'organisation d'une primaire en vue de l'élection présidentielle. Les signataires souhaitent ainsi éviter l'hypothèse d'un second tour opposant La France insoumise au Rassemblement national.",
-      "contexte": "À l'approche des échéances présidentielles, les formations politiques modérées et les élus cherchant à se positionner en dehors des blocs d'extrême ou de la gauche radicale tentent de restructurer le paysage politique. L'idée d'une primaire vise traditionnellement à rassembler un électorat éclaté derrière un candidat unique.",
+      "resume": "Soixante-six parlementaires ont publié une tribune dans La Tribune Dimanche pour demander l'organisation d'une primaire en vue de la prochaine élection présidentielle. Les signataires affirment vouloir construire une alternative politique afin d'empêcher un duel final opposant le Rassemblement national à La France insoumise. Ils décrivent cette perspective comme un affrontement entre les extrêmes qu'il est indispensable d'éviter.",
+      "contexte": "Cette prise de position reflète les inquiétudes récurrentes des forces politiques modérées et centrales face à la bipolarisation du paysage politique français. L'organisation d'une primaire est souvent envisagée pour départager des prétendants multiples et dégager une candidature unique crédible. L'initiative vise à susciter une dynamique électorale unifiée, mais sa réussite dépend généralement de la volonté réelle des dirigeants de partis de dépasser leurs rivalités internes.",
       "image": "https://www.franceinfo.fr/pictures/l6PL23g8ufvheXRmNzq_8d9eqVo/0x12:1024x588/432x243/filters:format(jpg)/2026/11/08/6af02a48d5e7c465580613.jpg"
     },
     {
@@ -174,54 +192,36 @@
       "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-visee-par-172-drones-et-36-missiles_8273060.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde · Le Monde",
       "date": "2026-11-08T08:16:14+01:00",
-      "resume": "Dans la nuit du vendredi 6 au samedi 7 novembre, la capitale ukrainienne Kiev a été la cible d'une importante attaque aérienne combinant 172 drones et 36 missiles russes, touchant les installations énergétiques et les réseaux de transport. Dans l'oblast de Dnipropetrovsk, plus de 600 000 personnes ont été privées d'électricité, contraignant les hôpitaux et infrastructures critiques à fonctionner sur générateurs.",
-      "contexte": "Ces frappes répétées contre les infrastructures civiles et énergétiques de l'Ukraine s'inscrivent dans une stratégie militaire récurrente visant à affaiblir la résistance ukrainienne et à miner le moral de la population à l'approche de l'hiver. Elles interviennent également dans un contexte diplomatique tendu, à quelques jours d'une rencontre prévue entre Kiev, Moscou et Washington.",
+      "resume": "La Russie a mené une vaste vague de frappes aériennes contre plusieurs régions ukrainiennes dans la nuit du vendredi 6 au samedi 7 novembre. La capitale Kiev a été visée par 172 drones et 36 missiles qui ont particulièrement endommagé les installations énergétiques ainsi que les réseaux de transport. Dans l'oblast de Dnipropetrovsk, les bombardements ont privé d'électricité plus de 600 000 personnes, forçant les hôpitaux et les infrastructures critiques à basculer sur des générateurs de secours.",
+      "contexte": "Ces attaques s'inscrivent dans une stratégie russe récurrente consistant à pilonner le réseau énergétique ukrainien à l'approche des grands froids pour affaiblir le pays. Elles surviennent également à quelques jours d'une rencontre diplomatique prévue entre des représentants de Kiev, Moscou et Washington. La vulnérabilité des réseaux électriques face aux salves massives de drones et de missiles met sous forte pression les systèmes de défense antiaérienne fournis à l'Ukraine.",
       "image": "https://www.franceinfo.fr/pictures/c2L2TSQe8n0a4X6svqjSYpA5D9k/30x0:1505x830/432x243/filters:format(jpg)/2026/11/08/6af0213cdaf28716358702.jpg"
-    },
-    {
-      "titre": "Le ministre de l'Education nationale refuse de modifier le calendrier du bac, en dépit des heures perdues dans les lycées bloqués",
-      "lien": "https://www.franceinfo.fr/societe/education/le-ministre-de-l-education-nationale-refuse-de-modifier-le-calendrier-du-bac-en-depit-des-heures-perdues-dans-les-lycees-bloques_8273054.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T08:03:29+01:00",
-      "resume": "Dans une interview accordée au \"Parisien\" samedi, le ministre de l'Éducation nationale Édouard Geffray a rejeté toute modification du calendrier du baccalauréat, malgré les heures de cours perdues dans les lycées bloqués. Il a en revanche réaffirmé sa volonté d'apporter davantage de transparence sur la plateforme d'admission Parcoursup.",
-      "contexte": "La gestion des perturbations dans les établissements scolaires et le calendrier des examens nationaux sont des sujets politiquement sensibles qui opposent régulièrement les syndicats étudiants, les enseignants et le gouvernement. Maintenir les épreuves à date fixe permet de respecter le calendrier universitaire national, mais suscite des critiques quant à l'équité des apprentissages.",
-      "image": "https://www.franceinfo.fr/pictures/pbZAOodxXSs5g4W-MdDghCAsswI/0x32:1024x608/432x243/filters:format(jpg)/2026/11/08/6af01be437e08548306750.jpg"
     },
     {
       "titre": "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés",
       "lien": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-7-dans-le-centre-du-japon-fait-plusieurs-blesses_8273036.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-11-08T07:45:47+01:00",
-      "resume": "Un séisme d'une magnitude de 5,7 s'est produit dans le centre du Japon, faisant plusieurs blessés. Le pays est particulièrement exposé à ce type de catastrophe en raison de sa position géographique à la jonction de quatre grandes plaques tectoniques, subissant environ 18 % des séismes mondiaux.",
-      "contexte": "En raison de sa forte sismicité, le Japon dispose de normes de construction parmi les plus strictes au monde et d'une culture de prévention très développée, ce qui limite généralement le bilan humain des séismes majeurs malgré leur puissance.",
+      "resume": "Un tremblement de terre de magnitude 5,7 a secoué le centre du Japon, causant des blessures à plusieurs personnes selon les premières informations des autorités locales. La secousse a été ressentie dans plusieurs localités, mais aucune alerte majeure au tsunami n'a été signalée dans l'immédiat. Le bilan matériel reste en cours d'évaluation dans les zones les plus proches de l'épicentre.",
+      "contexte": "Le Japon est l'une des nations les plus exposées aux risques telluriques au monde, concentrant près de 18 % des séismes mondiaux en raison de sa situation au confluent de quatre plaques tectoniques majeures. Pour limiter le nombre de victimes, le pays a développé des normes antisismiques particulièrement rigoureuses pour ses bâtiments et infrastructures. Les autorités maintiennent en permanence des dispositifs d'alerte rapide et des protocoles d'évacuation stricts face au risque de répliques.",
       "image": "https://www.franceinfo.fr/pictures/ZPK5SItvy6TseTpUB0upYadBow0/0x30:1024x606/432x243/filters:format(jpg)/2026/11/08/6af018e7aa39f072621171.jpg"
     },
     {
-      "titre": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
-      "lien": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · franceinfo Monde",
+      "titre": "Fusillade à Cracovie : Donald Tusk dénonce un acte de \"terrorisme\"",
+      "lien": "https://www.franceinfo.fr/faits-divers/police/fusillade-a-cracovie-donald-tusk-denonce-un-acte-de-terrorisme_8273030.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
       "date": "2026-11-08T07:41:58+01:00",
-      "resume": "Une fusillade perpétrée samedi dans le centre-ville de Cracovie, en Pologne, a fait six morts et quinze blessés, dont cinq étrangers hospitalisés, selon le ministère de l'Intérieur. Trois autres corps ont également été retrouvés au domicile du suspect, dont les premiers éléments de l'enquête indiquent qu'il était fasciné par des idéologies d'extrême droite. Le Premier ministre Donald Tusk a qualifié cet acte de terrorisme.",
-      "contexte": "La montée de la violence armée et l'influence d'idéologies radicales extrémistes posent des défis sécuritaires majeurs aux autorités européennes. Ce type d'attaque indiscriminée renforce les appels à une surveillance accrue des individus radicalisés et soulève des questions sur la régulation de l'accès aux armes.",
-      "image": "https://www.franceinfo.fr/pictures/QNOOq7XAUw7mVHpRcNL0b6EMxas/0x60:1024x636/432x243/filters:format(jpg)/2026/11/07/6aef76bd1aa73040905605.jpg"
+      "resume": "Une fusillade survenue samedi 7 novembre dans le centre-ville de Cracovie, en Pologne, a fait au moins six morts et une quinzaine de blessés. Le Premier ministre Donald Tusk a qualifié cette tuerie d'acte de terrorisme. Selon les premiers éléments de l'enquête communiqués par les autorités, le tireur présumé présentait une fascination pour les idéologies d'extrême droite.",
+      "contexte": "Les attaques par arme à feu et les attentats de masse restent particulièrement rares en Pologne, où la législation sur la possession d'armes est très stricte. Cet événement suscite une vive émotion dans le pays et relance les débats sur la surveillance des réseaux radicaux et de la menace extrémiste en Europe centrale. L'enquête devra déterminer si le tireur a bénéficié de complicités au sein de cellules organisées ou s'il s'agit d'un passage à l'acte solitaire inspiré par la propagande extrémiste en ligne.",
+      "image": "https://www.franceinfo.fr/pictures/yK8qx1Nubele5p4_DfAUPPEP2fI/37x0:1498x822/432x243/filters:format(jpg)/2026/11/08/6af019b0435cf840035193.jpg"
     },
     {
       "titre": "Pape en Uruguay : mariage, pauvreté, IA et maté… Léon XIV achève la première étape de son voyage en Amérique latine avant de s’envoler pour l’Argentine",
       "lien": "https://www.lemonde.fr/international/article/2026/11/08/leon-xiv-en-uruguay-mariage-pauvrete-ia-et-mate-le-pape-clot-la-premiere-etape-de-son-voyage-en-amerique-latine_6808409_3210.html",
       "source": "Le Monde",
       "date": "2026-11-08T07:39:46+01:00",
-      "resume": "Le pape Léon XIV a achevé la première étape de sa tournée en Amérique latine en visitant l'Uruguay, où il a abordé des thèmes tels que le mariage, la pauvreté, l'intelligence artificielle et le maté. Il a notamment arpenté à pied le quartier de Montevideo de Casavalle, connu pour son taux d'homicides élevé et les affrontements liés au narcotrafic, avant de s'envoler pour l'Argentine.",
-      "contexte": "Les voyages pontifiques en Amérique latine combinent traditionnellement des messages de paix sociale, de lutte contre la pauvreté et de soutien aux populations marginalisées face à la violence des cartels. Cette visite permet au Vatican d'ancrer son influence spirituelle sur un continent confronté à de fortes inégalités économiques et sécuritaires.",
+      "resume": "Le pape Léon XIV a conclu en Uruguay la première étape de sa tournée sur le continent sud-américain, avant de reprendre l'avion en direction de l'Argentine. Âgé de 71 ans, le souverain pontife s'est notamment rendu à pied dans le quartier de Casavalle, à Montevideo, une zone frappée par des violences meurtrières entre bandes rivales liées au narcotrafic. Durant cette visite, plusieurs sujets de société tels que le mariage, la lutte contre la pauvreté et l'intelligence artificielle ont été abordés.",
+      "contexte": "Ce déplacement papal accorde une place centrale aux populations marginalisées, une priorité pastorale traditionnelle du Vatican en Amérique latine. La criminalité liée au trafic de drogue et la précarité économique constituent des défis croissants pour plusieurs métropoles sud-américaines auparavant jugées relativement stables. L'étape suivante en Argentine revêt une dimension politique et symbolique majeure pour l'Église catholique sur le continent.",
       "image": "https://img.lemde.fr/2026/11/08/720/0/8640/4320/644/322/60/0/06a171d_ftp-1-eylbqlsogfc3-3cbd076f67f6465981cbaa1c694fc6b8-1-c47a263bf189475b967b77c2dc61644b.jpg"
-    },
-    {
-      "titre": "\"La Route du Rhum, j'en rêve depuis tout petit\" : les premiers mots de Tom Laperche, vainqueur de l'édition 2026",
-      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/la-route-du-rhum-j-en-reve-depuis-tout-petit-les-premiers-mots-de-tom-laperche-vainqueur-de-l-edition-2026_8273033.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T07:34:35+01:00",
-      "resume": "Le skippeur Tom Laperche a remporté l'édition 2026 de la Route du Rhum en arrivant le premier à Pointe-à-Pitre (Guadeloupe) dans la nuit de samedi à dimanche. Pour sa première participation à cette course transatlantique, il a franchi la ligne en établissant un nouveau record de la traversée.",
-      "contexte": "La Route du Rhum est l'une des courses en solitaire les plus prestigieuses de la voile, reliant Saint-Malo à la Guadeloupe à travers l'Atlantique. Remporter cette épreuve dès sa première tentative et battre le record confirme l'émergence d'une nouvelle génération de marins hauturiers extrêmement performants sur des bateaux à foils.",
-      "image": "https://www.franceinfo.fr/pictures/7dYzzYpH22Qufa9XxxY5NJW_dYg/0x0:7558x4251/432x243/filters:format(jpg)/2026/11/08/6af017e65ba66922883021.jpg"
     }
   ],
   "culture": [
@@ -247,5 +247,118 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Photosynth%C3%A8se_fr.svg/960px-Photosynth%C3%A8se_fr.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "cac62b43c5",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quel navigateur a remporté la Route du Rhum 2026 en s'emparant du record de l'épreuve ?",
+      "choix": [
+        "Armel Le Cléac'h",
+        "François Gabart",
+        "Charles Caudrelier",
+        "Tom Laperche"
+      ],
+      "reponse": 3,
+      "explication": "À 29 ans, Tom Laperche a remporté la Route du Rhum 2026 à bord de son trimaran SVR-Lazartigue, battant le record de Charles Caudrelier.",
+      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/tom-laperche-remporte-la-route-du-rhum-2026-et-s-empare-du-record-de-l-epreuve_8272415.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/7V2hpGeXz0jDmSd4eSD5dlfS3lM/0x32:1024x608/432x243/filters:format(jpg)/2026/11/08/6af011b4b9beb688787247.jpg"
+    },
+    {
+      "id": "0a7c878c7d",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quelle est la position du ministre de l'Éducation nationale Édouard Geffray face aux contestations des lycéens et étudiants ?",
+      "choix": [
+        "Il a annulé les épreuves du baccalauréat.",
+        "Il a supprimé la plateforme Parcoursup.",
+        "Il a démissionné de ses fonctions.",
+        "Il a exclu de modifier le calendrier des épreuves du baccalauréat."
+      ],
+      "reponse": 3,
+      "explication": "Malgré les mobilisations et les blocages, le ministre a exclu de modifier le calendrier du bac tout en promettant plus de transparence sur Parcoursup.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-faut-appuyer-encore-jusqu-a-ce-qu-on-obtienne-gain-de-cause-dans-l-attente-de-reponses-du-gouvernement-les-jeunes-prets-a-poursuivre-les-mobilisations_8273057.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/XPv58ayo9H6YjCQa4xT7-8__DqM/0x270:5201x3196/432x243/filters:format(jpg)/2026/11/08/6af020eb91a63870350574.jpg"
+    },
+    {
+      "id": "ca05e5dabe",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Combien de drones et de missiles ont visé Kiev lors de la vaste vague de frappes russes de début novembre ?",
+      "choix": [
+        "100 drones et 20 missiles",
+        "172 drones et 36 missiles",
+        "250 drones et 50 missiles",
+        "72 drones et 16 missiles"
+      ],
+      "reponse": 1,
+      "explication": "La capitale ukrainienne a été la cible de 172 drones et 36 missiles, endommageant gravement les installations énergétiques.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-visee-par-172-drones-et-36-missiles_8273060.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/c2L2TSQe8n0a4X6svqjSYpA5D9k/30x0:1505x830/432x243/filters:format(jpg)/2026/11/08/6af0213cdaf28716358702.jpg"
+    },
+    {
+      "id": "0bf4408655",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Comment le Premier ministre Donald Tusk a-t-il qualifié la fusillade survenue à Cracovie en novembre ?",
+      "choix": [
+        "Une mutinerie armée",
+        "Un règlement de comptes entre gangs",
+        "Un accident tragique",
+        "Un acte de terrorisme"
+      ],
+      "reponse": 3,
+      "explication": "Le Premier ministre polonais Donald Tusk a qualifié cette fusillade meurtrière d'acte de terrorisme, le tireur présentant une fascination pour l'extrême droite.",
+      "lien": "https://www.franceinfo.fr/faits-divers/police/fusillade-a-cracovie-donald-tusk-denonce-un-acte-de-terrorisme_8273030.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/yK8qx1Nubele5p4_DfAUPPEP2fI/37x0:1498x822/432x243/filters:format(jpg)/2026/11/08/6af019b0435cf840035193.jpg"
+    },
+    {
+      "id": "072ac40a87",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Dans quel pays d'Amérique latine le pape Léon XIV a-t-il achevé la première étape de son voyage avant de s'envoler pour l'Argentine ?",
+      "choix": [
+        "L'Uruguay",
+        "Le Paraguay",
+        "Le Chili",
+        "Le Brésil"
+      ],
+      "reponse": 0,
+      "explication": "Le pape Léon XIV a conclu la première étape de sa tournée sud-américaine en Uruguay, notamment en visitant un quartier de Montevideo.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/08/leon-xiv-en-uruguay-mariage-pauvrete-ia-et-mate-le-pape-clot-la-premiere-etape-de-son-voyage-en-amerique-latine_6808409_3210.html",
+      "image": "https://img.lemde.fr/2026/11/08/720/0/8640/4320/644/322/60/0/06a171d_ftp-1-eylbqlsogfc3-3cbd076f67f6465981cbaa1c694fc6b8-1-c47a263bf189475b967b77c2dc61644b.jpg"
+    },
+    {
+      "id": "7a892e4dd3",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Quel économiste du XVIIIe siècle a popularisé le concept de la « main invisible » ?",
+      "choix": [
+        "David Ricardo",
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Adam Smith"
+      ],
+      "reponse": 3,
+      "explication": "Adam Smith a popularisé la main invisible pour illustrer comment l'intérêt personnel peut involontairement contribuer au bien-être de la collectivité.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "dc4f297a95",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Quelle est la durée générale du délai de rétractation pour un achat à distance en France ?",
+      "choix": [
+        "14 jours",
+        "48 heures",
+        "30 jours",
+        "7 jours"
+      ],
+      "reponse": 0,
+      "explication": "Le droit de rétractation pour les achats à distance ou hors établissement est généralement fixé à quatorze jours calendaires.",
+      "lien": "",
+      "image": ""
+    }
+  ]
 }
