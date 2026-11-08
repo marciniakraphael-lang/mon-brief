@@ -4490,6 +4490,118 @@
       "explication": "Au début du XVe siècle à Florence, Brunelleschi a développé les principes géométriques de la perspective linéaire.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "093305a586",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quel dirigeant congolais dirige désormais une alliance politico-militaire intégrant la rébellion de l'AFC/M23 ?",
+      "choix": [
+        "Fabien Roussel",
+        "Félix Tshisekedi",
+        "Joseph Kabila",
+        "Bally Bagayoko"
+      ],
+      "reponse": 2,
+      "explication": "L'ancien président Joseph Kabila dirige une alliance politico-militaire intégrant la rébellion de l'AFC/M23.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-rdc-dialogue-impossible-entre-tshisekedi-kabila-et-l-opposition",
+      "image": "https://s.france24.com/media/display/c5b7da0a-dbba-11f1-9ad4-695cb59fade5/w:1024/p:16x9/FR-20261108-214131-215019-CS.jpg"
+    },
+    {
+      "id": "6a6ef2d9bd",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quel parti politique Fabien Roussel représente-t-il ?",
+      "choix": [
+        "Le Rassemblement national",
+        "La France insoumise",
+        "Le Parti communiste français",
+        "Les Républicains"
+      ],
+      "reponse": 2,
+      "explication": "Fabien Roussel est le secrétaire national du Parti communiste français.",
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html",
+      "image": "https://img.lemde.fr/2026/11/07/0/0/5240/2620/644/322/60/0/34e43bf_upload-1-i1tcpv9eqevt-000-d43u7dg.jpg"
+    },
+    {
+      "id": "3b37769818",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quelle chaîne de télévision fait l'objet d'une pétition ayant recueilli plus d'un million de signatures sur le site de l'Assemblée nationale ?",
+      "choix": [
+        "CNews",
+        "TF1",
+        "BFMTV",
+        "LCI"
+      ],
+      "reponse": 0,
+      "explication": "La pétition réclamant la fermeture de la chaîne de télévision CNews a dépassé le million de signatures.",
+      "lien": "https://www.franceinfo.fr/economie/medias/la-petition-appelant-a-fermer-la-chaine-cnews-a-recueilli-plus-d-un-million-de-signatures-sur-le-site-de-l-assemblee-nationale_8273738.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/lWT5ct2HHPMNygFkDlamT4Uw5S0/0x53:1024x629/432x243/filters:format(jpg)/2026/11/08/6af0da45af8b2997217327.jpg"
+    },
+    {
+      "id": "ada87759da",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quel pourcentage approximatif des flux mondiaux de télécommunications est assuré par les câbles sous-marins ?",
+      "choix": [
+        "Environ 99 %",
+        "Environ 50 %",
+        "Environ 75 %",
+        "Environ 90 %"
+      ],
+      "reponse": 0,
+      "explication": "Les infrastructures critiques des câbles sous-marins assurent à elles seules le transit d'environ 99 % des flux mondiaux de télécommunications.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-guerre-des-cables-sous-marins-les-premieres-etapes-d-une-attaque-de-plus-grande-ampleur_8273729.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Frxyyjy0yuBtQjK4Awngi9HAtj0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af0d70a0859e430600611.jpg"
+    },
+    {
+      "id": "326e7a0d42",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Dans quel département français des habitants ont-ils sauvé un cerf poursuivi par des chasseurs ?",
+      "choix": [
+        "La Somme",
+        "L'Oise",
+        "L'Aisne",
+        "La Seine-Maritime"
+      ],
+      "reponse": 1,
+      "explication": "Le cerf s'est réfugié dans une propriété en bordure de la forêt de Compiègne, située dans l'Oise.",
+      "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/il-etait-apeure-il-etait-trempe-tellement-il-avait-couru-dans-l-oise-des-habitants-sauvent-un-cerf-poursuivi-par-des-chasseurs_8273693.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/MiH-n-xj0uZmcDKSMRSxyE9fJxo/0x43:1178x706/432x243/filters:format(jpg)/2026/11/08/6af0cd5c725a9203526713.png"
+    },
+    {
+      "id": "02298ccf7d",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Dans quelles années les neurones miroirs ont-ils été découverts chez le macaque ?",
+      "choix": [
+        "Dans les années 1980",
+        "Dans les années 1990",
+        "Dans les années 2000",
+        "Dans les années 1970"
+      ],
+      "reponse": 1,
+      "explication": "Les neurones miroirs ont été découverts dans les années 1990 par une équipe de chercheurs italiens chez le macaque.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "3c1d3a48f9",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Au début de quel siècle la perspective linéaire a-t-elle été mise au point à Florence par Filippo Brunelleschi ?",
+      "choix": [
+        "Le XIVe siècle",
+        "Le XVIe siècle",
+        "Le XIIIe siècle",
+        "Le XVe siècle"
+      ],
+      "reponse": 3,
+      "explication": "C'est au début du XVe siècle à Florence que l'architecte Filippo Brunelleschi met au point les principes géométriques de la perspective linéaire.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
