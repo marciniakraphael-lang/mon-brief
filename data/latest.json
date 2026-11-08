@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
-  "mode": "morning",
-  "updated": "2026-11-08T11:37:28.370193+01:00",
+  "mode": "evening",
+  "updated": "2026-11-08T13:40:41.126286+01:00",
   "deja_presente": [
     {
       "titre": "Attentat raciste de Trappes : obsèques de Pengo Bossio Wangi samedi à Guyancourt",
@@ -152,76 +152,112 @@
   ],
   "aujourdhui": [
     {
+      "titre": "La mission d'Israël en Iran n'est \"pas terminée\", prévient le ministre de la Défense de l'Etat hébreu",
+      "lien": "https://www.franceinfo.fr/monde/conflit-israel-iran/la-mission-d-israel-en-iran-n-est-pas-terminee-previent-le-ministre-de-la-defense_8273243.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T13:34:58+01:00",
+      "resume": "Le ministre de la Défense israélien Israël Katz a affirmé que la mission d'Israël en Iran n'était pas terminée. Cette déclaration coïncide avec la mise en place de Gadi Eisenkot à la tête de l'opposition pour former un gouvernement.",
+      "contexte": "Ces mouvements politiques et militaires s'inscrivent dans un climat de tensions persistantes au Proche-Orient. L'objectif potentiel est de redéfinir la stratégie sécuritaire et gouvernementale d'Israël face aux menaces régionales.",
+      "image": "https://www.franceinfo.fr/pictures/KuEnpB1ediVr8O2w5b_ZvRZEbPE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/08/6af05f009906d039604152.jpg"
+    },
+    {
+      "titre": "Guerre en Ukraine : les Européens, dont la France, seront \"représentés\" lors des négociations à Abu Dhabi, rapporte le ministre des Affaires étrangères",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T13:25:46+01:00",
+      "resume": "Le ministre des Affaires étrangères Jean-Noël Barrot a annoncé dimanche sur RTL et Public Sénat que les Européens, dont la France, seront représentés aux négociations prévues les 10 et 11 novembre à Abu Dhabi concernant la guerre en Ukraine. Les noms des représentants français n'ont pas encore été officialisés.",
+      "contexte": "Ces pourparlers visent à trouver une issue diplomatique au conflit russo-ukrainien en impliquant des acteurs internationaux. La participation européenne est cruciale pour garantir la sécurité du continent et peser sur les conditions d'un éventuel accord de paix.",
+      "image": "https://www.franceinfo.fr/pictures/cLHfqOPnuiXvg-ANankJP-DF-2Q/0x73:1024x649/432x243/filters:format(jpg)/2026/11/08/6af06889d78f8298228587.jpg"
+    },
+    {
+      "titre": "Politique : Jean-Luc Mélenchon \"s'est fait le porte-parole du Kremlin\", critique le ministre des Affaires étrangères",
+      "lien": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T13:22:15+01:00",
+      "resume": "Le ministre des Affaires étrangères Jean-Noël Barrot a vivement critiqué Jean-Luc Mélenchon, l'accusant de s'être fait le porte-parole du Kremlin. Pour le ministre, cette position disqualifie définitivement le candidat insoumis pour briguer la fonction présidentielle.",
+      "contexte": "Les prises de position sur le conflit en Ukraine constituent un sujet de clivage majeur dans le paysage politique français. Les critiques visent régulièrement à délégitimer les adversaires en les accusant de compromission avec la Russie.",
+      "image": "https://www.franceinfo.fr/pictures/B1FpsPNq9Pyr15fcxGcma4OEptU/0x18:1024x594/432x243/filters:format(jpg)/2026/11/08/6af0673340ab8431293770.jpg"
+    },
+    {
+      "titre": "25 000 euros pour arrêter de conduire",
+      "lien": "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-08T13:00:02+01:00",
+      "resume": "Face à la saturation des routes, le gouvernement maltais propose une aide financière de 25 000 euros aux automobilistes qui abandonnent leur voiture pour une durée minimale de cinq ans. Pour le moment, cette mesure incitative ne produit pas encore les résultats escomptés.",
+      "contexte": "De nombreuses métropoles et gouvernements cherchent des solutions drastiques pour réduire la pollution et la congestion automobile. Ce type de subvention directe vise à encourager le passage aux mobilités douces ou aux transports en commun, bien que modifier les habitudes de déplacement reste difficile.",
+      "image": "https://www.franceinfo.fr/pictures/ERZYncExAKHGuqwnNVwIB8VqhMQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6aea14af0dd84213448250.png"
+    },
+    {
+      "titre": "Le lycéen de La Courneuve soupçonné d'avoir poignardé son camarade a été mis en examen et placé sous contrôle judiciaire",
+      "lien": "https://www.franceinfo.fr/france/ile-de-france/seine-saint-denis/le-lyceen-de-la-courneuve-soupconne-d-avoir-poignarde-son-camarade-a-ete-mis-en-examen-et-place-sous-controle-judiciaire_8273318.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T12:55:01+01:00",
+      "resume": "Le lycéen de La Courneuve soupçonné d'avoir poignardé un camarade a été mis en examen et placé sous contrôle judiciaire. Le procureur de Bobigny a précisé que ce contrôle comporte notamment une interdiction de paraître en Seine-Saint-Denis.",
+      "contexte": "Ce placement sous contrôle judiciaire strict intervient dans l'attente du jugement pour des faits de violence grave en milieu scolaire. La question de la sécurité aux abords et à l'intérieur des établissements scolaires demeure un enjeu de société récurrent.",
+      "image": "https://www.franceinfo.fr/pictures/v0wv0MDSZ7-234kMpgSRsnwFsBw/0x106:1024x682/432x243/filters:format(jpg)/2026/11/08/6af063047e81f648369763.jpg"
+    },
+    {
       "titre": "\"Un acte criminel\": le domicile d'un policier incendié en raison de sa profession selon le ministre de l'intérieur Laurent Nuñez",
       "lien": "https://france3-regions.franceinfo.fr/occitanie/gers/auch/un-acte-criminel-le-domicile-d-un-policier-incendie-en-raison-de-sa-profession-selon-le-ministre-de-l-interieur-laurent-nunez-3446172.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-08T11:31:08+01:00",
-      "resume": "Deux incendies d'origine criminelle ont été signalés ce week-end en France. À Auch, la maison d'un policier a été détruite, un acte lié à sa profession selon le ministre de l'Intérieur Laurent Nuñez. Par ailleurs, des locaux du Conseil départemental de la Charente ont été incendiés à Angoulême.",
-      "contexte": "Ces actes soulèvent des inquiétudes sur la sécurité des agents de l'État et des bâtiments publics. Les enquêtes en cours visent à identifier les auteurs et à déterminer si ces événements isolés reflètent une montée des tensions contre les institutions.",
+      "date": "2026-11-08T12:08:43+01:00",
+      "resume": "Le domicile d'un policier situé à Auch, dans le Gers, a été détruit par un incendie dans la nuit du samedi 7 novembre. Le ministre de l'Intérieur Laurent Nuñez a qualifié cet acte de criminel et a affirmé qu'il était directement lié à la profession de la victime.",
+      "contexte": "Les attaques ciblant les forces de l'ordre dans leur cadre privé suscitent une vive émotion et de nombreuses condamnations politiques. Cela met en lumière l'exposition croissante des professionnels de la sécurité aux représailles.",
       "image": "https://www.franceinfo.fr/pictures/Dwsh9FdyeZ7AyNnVDPQh4jNaEKg/432x243/filters:format(jpg)/2026/11/08/6af037b717a10637139622.jpg"
     },
     {
-      "titre": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale",
-      "lien": "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html#xtor=RSS-3-[lestitres]",
+      "titre": "Accident mortel dans l'Ain : quelles sont les obligations des conducteurs et des passagers à bord des autocars ?",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/accident-mortel-dans-l-ain-quelles-sont-les-obligations-des-conducteurs-et-des-passagers-a-bord-des-autocars_8272445.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-08T11:22:23+01:00",
-      "resume": "À l'approche de l'élection présidentielle, l'expert Nicolas Hubé rappelle les précautions nécessaires pour interpréter les sondages d'opinion. Il souligne qu'il est essentiel pour les citoyens de savoir lire les chiffres et de comprendre la méthodologie pour éviter les mauvaises interprétations.",
-      "contexte": "En période électorale, la multiplication des sondages peut influencer le débat public et la perception des candidats. La compréhension des marges d'erreur et des échantillons est jugée cruciale par les spécialistes pour garantir une information éclairée.",
-      "image": "https://www.franceinfo.fr/pictures/NgdX-9M3zydTtnbjuioqwcKqGKs/0x478:9186x5645/432x243/filters:format(jpg)/2026/11/06/6aee40116c20a280238590.jpg"
+      "date": "2026-11-08T12:07:04+01:00",
+      "resume": "À la suite d'un accident mortel dans l'Ain, un rappel a été fait sur les règles encadrant le transport en autocar. Parmi elles, l'interdiction pour les conducteurs de rouler plus de quatre heures et demie sans pause vise spécifiquement à limiter les risques liés à la somnolence.",
+      "contexte": "La réglementation des temps de conduite et de repos est stricte dans le secteur du transport routier pour garantir la sécurité des passagers. Le respect de ces normes fait l'objet de contrôles réguliers de la part des autorités.",
+      "image": "https://www.franceinfo.fr/pictures/bbobLbfk0tpDkFMpJrgJsvzq8QE/0x208:4000x2458/432x243/filters:format(jpg)/2026/11/07/6aef590f9119e648169524.jpg"
     },
     {
-      "titre": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
-      "lien": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-11-08T11:17:11+01:00",
-      "resume": "Un homme a ouvert le feu sur des passants à Cracovie, en Pologne, samedi, tuant six personnes et faisant 16 blessés. Le ministre de l'Intérieur a indiqué que le suspect, dont trois autres corps ont été découverts au domicile, était vraisemblablement fasciné par des idéologies d'extrême droite. Le Premier ministre Donald Tusk a qualifié l'attaque d'acte terroriste.",
-      "contexte": "La montée de l'extrémisme est un sujet de vigilance accrue pour les autorités européennes. Cet événement tragique dans une ville touristique majeure de Pologne interroge sur la prévention de la radicalisation et la sécurité publique face à des profils isolés.",
-      "image": "https://www.franceinfo.fr/pictures/QNOOq7XAUw7mVHpRcNL0b6EMxas/0x60:1024x636/432x243/filters:format(jpg)/2026/11/07/6aef76bd1aa73040905605.jpg"
+      "titre": "Après l’attentat de Cracovie, la Pologne en état de choc",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-08T12:03:01+01:00",
+      "resume": "Un attentat survenu samedi dans le centre historique de Cracovie, en Pologne, a fait six morts et quinze blessés. L'auteur présumé est un Polonais de 24 ans décrit par le ministère de l'Intérieur comme fasciné par l'extrême droite, et le parquet a ouvert une enquête pour acte terroriste.",
+      "contexte": "Cette attaque plonge le pays dans l'effroi et relance le débat sur la menace terroriste d'extrême droite en Europe. Les autorités renforcent généralement la surveillance et les mesures de sécurité après de tels drames.",
+      "image": "https://img.lemde.fr/2026/11/08/348/0/4208/2104/644/322/60/0/6861549_ftp-1-kssg5bfr6fu0-2026-11-08t070518z-727863256-rc2ijoak2exr-rtrmadp-3-poland-shooting.JPG"
     },
     {
-      "titre": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T11:13:48+01:00",
-      "resume": "Des frappes russes ont ciblé les infrastructures énergétiques des régions de Dnipropetrovsk et de Kharkiv en Ukraine, dans la nuit de samedi à dimanche. Ces attaques, qui font suite à une offensive similaire la veille, privent des centaines de milliers d'habitants d'électricité.",
-      "contexte": "Le ciblage des réseaux électriques est une stratégie récurrente dans le conflit ukrainien, visant à affaiblir la résilience de la population civile et les capacités logistiques du pays à l'approche de l'hiver.",
-      "image": "https://www.franceinfo.fr/pictures/rLP8iNV9y9dvjTuFBb1SNzNh8Ds/0x105:1024x681/432x243/filters:format(jpg)/2026/11/08/6af04afd9ed6b794206062.jpg"
-    },
-    {
-      "titre": "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés",
-      "lien": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-7-dans-le-centre-du-japon-fait-plusieurs-blesses_8273036.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T11:03:07+01:00",
-      "resume": "Un séisme de magnitude 5,7 a frappé le centre du Japon, causant plusieurs blessés. Le pays, situé à la jonction de quatre plaques tectoniques, est régulièrement exposé aux secousses sismiques et concentre près de 18 % des séismes mondiaux annuels.",
-      "contexte": "La sismicité élevée du Japon a conduit le pays à adopter des normes de construction antisismiques parmi les plus strictes au monde. Malgré ces mesures, les secousses de moyenne et forte magnitude restent un risque constant pour la population et les infrastructures.",
-      "image": "https://www.franceinfo.fr/pictures/ZPK5SItvy6TseTpUB0upYadBow0/0x30:1024x606/432x243/filters:format(jpg)/2026/11/08/6af018e7aa39f072621171.jpg"
-    },
-    {
-      "titre": "Au large du Sénégal, 21 personnes sont mortes dans le naufrage d'une pirogue de migrants",
-      "lien": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T11:01:52+01:00",
-      "resume": "Le naufrage d'une pirogue de migrants au large du Sénégal a causé la mort de 21 personnes, selon un bilan provisoire annoncé samedi. Un seul rescapé a été retrouvé par les autorités locales.",
-      "contexte": "Le Sénégal est un point de départ fréquent pour les migrants tentant de rejoindre l'Europe par la mer. Ces traversées sont extrêmement périlleuses, et le nombre de naufrages reste élevé malgré les dispositifs de surveillance et les politiques migratoires en place.",
-      "image": "https://www.franceinfo.fr/pictures/tCpkSLAY-3nPXW6wKHgNZ1r8i2c/0x437:4200x2800/432x243/filters:format(jpg)/2026/11/08/6af046d6379ea647615467.jpg"
-    },
-    {
-      "titre": "Paraguay: le président destitué Santiago Peña placé en détention préventive",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-paraguay-le-pr%C3%A9sident-destitu%C3%A9-santiago-pe%C3%B1a-plac%C3%A9-en-d%C3%A9tention-pr%C3%A9ventive",
+      "titre": "\"Non au data-center de Rantigny\" : manifestation contre le développement de l'IA",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-non-au-data-center-de-rantigny-manifestation-contre-le-d%C3%A9veloppement-de-l-ia",
       "source": "France 24",
-      "date": "2026-11-08T11:00:11+01:00",
-      "resume": "Le président destitué du Paraguay, Santiago Peña, a été placé en détention préventive samedi. Il est inculpé dans le cadre de la faillite de l'Ueno Bank, une débâcle financière ayant affecté des millions d'épargnants au cours de la semaine.",
-      "contexte": "Cette affaire illustre une crise politique et économique majeure au Paraguay. La destitution et l'inculpation d'un chef d'État marquent une instabilité institutionnelle qui, couplée à une crise bancaire, pèse lourdement sur la confiance des citoyens envers leurs dirigeants.",
-      "image": "https://s.france24.com/media/display/99a9ad2e-db58-11f1-8036-695cb59fade5/w:1024/p:16x9/FR-20261108-081835-082015-CS.jpg"
+      "date": "2026-11-08T11:55:31+01:00",
+      "resume": "Une manifestation a réuni des riverains et des élus d'opposition ce samedi 7 novembre 2026 à Rantigny, dans l'Oise, pour protester contre le projet d'implantation d'un data center. Les opposants refusent la construction de cette infrastructure technologique sur leur territoire.",
+      "contexte": "L'expansion rapide de l'intelligence artificielle entraîne une multiplication des centres de données, particulièrement gourmands en électricité et en eau. Ces projets suscitent souvent des résistances locales en raison de leurs impacts environnementaux et paysagers.",
+      "image": "https://s.france24.com/media/display/87960ca4-db62-11f1-a08a-d18c5759e759/w:1024/p:16x9/capture-7ab7b7be.jpg"
     },
     {
-      "titre": "Robi Morder : \"ce qu'il s'est passé en Serbie encourage cette idée du possible chez les jeunes\"",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261107-robi-morder-ce-qu-il-s-est-pass%C3%A9-en-serbie-encourage-cette-id%C3%A9e-du-possible-chez-les-jeunes",
+      "titre": "Budget pharaonique, révolution graphique... Cinq raisons qui font de \"GTA VI\" le jeu du siècle",
+      "lien": "https://www.france24.com/fr/culture/20261108-budget-pharaonique-r%C3%A9volution-graphique-pourquoi-gta-vi-peut-devenir-jeu-si%C3%A8cle-jeux-vid%C3%A9o-rockstar",
       "source": "France 24",
-      "date": "2026-11-08T10:58:11+01:00",
-      "resume": "Une nouvelle journée de mobilisation a eu lieu samedi en France, rassemblant 146 000 manifestants selon le ministère de l'Intérieur, dont 46 000 à Paris. Ce mouvement, qui proteste contre la vie chère et porte des revendications pour la jeunesse, a donné lieu à au moins 360 interpellations. Ce rassemblement survient à deux jours d'une conférence sociale prévue à Matignon.",
-      "contexte": "Le contexte social en France est marqué par une inflation persistante et des revendications sur le pouvoir d'achat. Ces mobilisations, portées par divers acteurs sociaux, visent à faire pression sur le gouvernement avant des échéances de concertation nationale.",
-      "image": "https://s.france24.com/media/display/e5187432-dae7-11f1-9ee0-d18c5759e759/w:1024/p:16x9/Francais-2026-11-07T19-07-02-746Z.jpg"
+      "date": "2026-11-08T11:53:44+01:00",
+      "resume": "Le jeu vidéo \"Grand Theft Auto VI\", développé par le studio Rockstar, sort le 19 novembre sur Playstation et Xbox Series. Bénéficiant d'un budget très important et très attendu par les joueurs, il est présenté comme un phénomène culturel majeur de l'industrie vidéoludique.",
+      "contexte": "La franchise GTA pèse lourdement sur l'économie du divertissement mondial, chaque nouvel opus générant des milliards de dollars de recettes. Son lancement est un événement médiatique planétaire qui mobilise des millions de consommateurs dès le premier jour.",
+      "image": "https://s.france24.com/media/display/8b187bf8-d9ed-11f1-9fe5-d18c5759e759/w:1024/p:16x9/Jason-and-Lucia-15.jpg"
+    },
+    {
+      "titre": "K-pop, chansons d'amour et beatboxing : l'Eurovision lance sa première édition en Asie",
+      "lien": "https://www.franceinfo.fr/culture/musique/k-pop-chansons-d-amour-et-beatboxing-l-eurovision-lance-sa-premiere-edition-en-asie_8273135.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T11:52:04+01:00",
+      "resume": "La première édition du Concours Eurovision Asie de la chanson se déroule à Bangkok, avec la participation de 11 pays allant du Laos à la Mongolie et aux Philippines. Les candidats en lice ont été préalablement sélectionnés à travers des concours nationaux.",
+      "contexte": "Inspiré du célèbre format européen, cet événement vise à capitaliser sur le rayonnement culturel de la région, notamment le succès mondial de la K-pop et de la pop asiatique. C'est une vitrine pour promouvoir la diversité musicale de ces pays à l'international.",
+      "image": "https://www.franceinfo.fr/pictures/-vuITUAJv6dFd82fPFafDk6w774/96x0:933x471/432x243/filters:format(jpg)/2026/11/08/6af0518888ba5043109275.jpg"
+    },
+    {
+      "titre": "Jeux olympiques de la jeunesse de Dakar 2026 : doublé doré pour le Sénégal",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261108-jeux-olympiques-jeunesse-dakar-2026-doubl%C3%A9-dor%C3%A9-pour-s%C3%A9n%C3%A9gal",
+      "source": "France 24",
+      "date": "2026-11-08T11:50:18+01:00",
+      "resume": "Le Sénégal a remporté deux médailles d'or en lutte de plage lors des Jeux olympiques de la jeunesse de Dakar. Elisabeth Diatta s'est imposée dans la catégorie des -55 kg, offrant ainsi au pays hôte sa toute première médaille d'or, suivie par son compatriote Maguette Diop vainqueur chez les -80 kg.",
+      "contexte": "L'organisation de grands événements sportifs internationaux offre aux pays hôtes l'opportunité de briller sur la scène sportive et de développer la pratique chez les jeunes. Pour le Sénégal, ce doublé historique marque un moment fort de ces Jeux olympiques de la jeunesse.",
+      "image": "https://s.france24.com/media/display/ed16cfe6-db62-11f1-971d-a575454bc579/w:1024/p:16x9/JOJ-DAKAR-2026.jpg"
     }
   ],
   "culture": [
@@ -247,5 +283,118 @@
       "image": ""
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "e874ae1d37",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quelle mesure incitative le gouvernement maltais propose-t-il pour réduire la saturation des routes ?",
+      "choix": [
+        "Un accès gratuit aux transports en commun",
+        "Une taxe sur les nouveaux véhicules",
+        "La suppression des places de parking en centre-ville",
+        "Une aide financière de 25 000 euros"
+      ],
+      "reponse": 3,
+      "explication": "Le gouvernement maltais propose 25 000 euros aux automobilistes qui acceptent d'abandonner leur voiture pour au moins cinq ans.",
+      "lien": "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ERZYncExAKHGuqwnNVwIB8VqhMQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6aea14af0dd84213448250.png"
+    },
+    {
+      "id": "b9ea4428bc",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quelle règle est rappelée pour les conducteurs d'autocars afin de limiter les risques liés à la somnolence ?",
+      "choix": [
+        "Interdiction de rouler après 22h",
+        "Interdiction de rouler plus de 4h30 sans pause",
+        "Limitation de vitesse stricte à 80 km/h",
+        "Obligation d'avoir un second conducteur à bord"
+      ],
+      "reponse": 1,
+      "explication": "Le texte précise qu'il est interdit aux conducteurs de rouler plus de quatre heures et demie sans pause pour limiter la somnolence.",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/accident-mortel-dans-l-ain-quelles-sont-les-obligations-des-conducteurs-et-des-passagers-a-bord-des-autocars_8272445.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/bbobLbfk0tpDkFMpJrgJsvzq8QE/0x208:4000x2458/432x243/filters:format(jpg)/2026/11/07/6aef590f9119e648169524.jpg"
+    },
+    {
+      "id": "42b241dcd1",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quel est le bilan humain de l'attentat survenu à Cracovie ?",
+      "choix": [
+        "Six morts et quinze blessés",
+        "Dix morts et vingt blessés",
+        "Douze morts et trente blessés",
+        "Deux morts et cinq blessés"
+      ],
+      "reponse": 0,
+      "explication": "L'article indique que l'attentat a fait six morts et quinze blessés.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html",
+      "image": "https://img.lemde.fr/2026/11/08/348/0/4208/2104/644/322/60/0/6861549_ftp-1-kssg5bfr6fu0-2026-11-08t070518z-727863256-rc2ijoak2exr-rtrmadp-3-poland-shooting.JPG"
+    },
+    {
+      "id": "79fdcd3f70",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Dans quelle ville se déroule la première édition du Concours Eurovision Asie de la chanson ?",
+      "choix": [
+        "Séoul",
+        "Manille",
+        "Bangkok",
+        "Singapour"
+      ],
+      "reponse": 2,
+      "explication": "La première édition du concours se tient à Bangkok.",
+      "lien": "https://www.franceinfo.fr/culture/musique/k-pop-chansons-d-amour-et-beatboxing-l-eurovision-lance-sa-premiere-edition-en-asie_8273135.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/-vuITUAJv6dFd82fPFafDk6w774/96x0:933x471/432x243/filters:format(jpg)/2026/11/08/6af0518888ba5043109275.jpg"
+    },
+    {
+      "id": "52faed1c13",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quelle discipline a permis au Sénégal de remporter ses premières médailles d'or aux JO de la jeunesse 2026 ?",
+      "choix": [
+        "Natation",
+        "Lutte de plage",
+        "Athlétisme",
+        "Judo"
+      ],
+      "reponse": 1,
+      "explication": "Le Sénégal a décroché ses médailles d'or en lutte de plage avec Elisabeth Diatta et Maguette Diop.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261108-jeux-olympiques-jeunesse-dakar-2026-doubl%C3%A9-dor%C3%A9-pour-s%C3%A9n%C3%A9gal",
+      "image": "https://s.france24.com/media/display/ed16cfe6-db62-11f1-971d-a575454bc579/w:1024/p:16x9/JOJ-DAKAR-2026.jpg"
+    },
+    {
+      "id": "399983b83a",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Quelle est la fonction principale attribuée aux neurones miroirs chez l'être humain ?",
+      "choix": [
+        "L'apprentissage par imitation et la base de l'empathie",
+        "Le contrôle des fonctions vitales automatiques",
+        "La régulation de la mémoire à court terme",
+        "La perception des couleurs et de la lumière"
+      ],
+      "reponse": 0,
+      "explication": "Le texte explique que ces neurones jouent un rôle déterminant dans l'apprentissage par imitation et forment la base biologique de l'empathie.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "adbf3e27f8",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Qui a mis au point les principes géométriques de la perspective linéaire au XVe siècle ?",
+      "choix": [
+        "Donatello",
+        "Léonard de Vinci",
+        "Michel-Ange",
+        "Filippo Brunelleschi"
+      ],
+      "reponse": 3,
+      "explication": "L'architecte Filippo Brunelleschi est l'inventeur des principes géométriques de la perspective linéaire.",
+      "lien": "",
+      "image": ""
+    }
+  ]
 }

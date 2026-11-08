@@ -4266,6 +4266,118 @@
       "explication": "Le droit de rétractation pour les achats à distance ou hors établissement est généralement fixé à quatorze jours calendaires.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "e874ae1d37",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quelle mesure incitative le gouvernement maltais propose-t-il pour réduire la saturation des routes ?",
+      "choix": [
+        "Un accès gratuit aux transports en commun",
+        "Une taxe sur les nouveaux véhicules",
+        "La suppression des places de parking en centre-ville",
+        "Une aide financière de 25 000 euros"
+      ],
+      "reponse": 3,
+      "explication": "Le gouvernement maltais propose 25 000 euros aux automobilistes qui acceptent d'abandonner leur voiture pour au moins cinq ans.",
+      "lien": "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ERZYncExAKHGuqwnNVwIB8VqhMQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6aea14af0dd84213448250.png"
+    },
+    {
+      "id": "b9ea4428bc",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quelle règle est rappelée pour les conducteurs d'autocars afin de limiter les risques liés à la somnolence ?",
+      "choix": [
+        "Interdiction de rouler après 22h",
+        "Interdiction de rouler plus de 4h30 sans pause",
+        "Limitation de vitesse stricte à 80 km/h",
+        "Obligation d'avoir un second conducteur à bord"
+      ],
+      "reponse": 1,
+      "explication": "Le texte précise qu'il est interdit aux conducteurs de rouler plus de quatre heures et demie sans pause pour limiter la somnolence.",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/accident-mortel-dans-l-ain-quelles-sont-les-obligations-des-conducteurs-et-des-passagers-a-bord-des-autocars_8272445.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/bbobLbfk0tpDkFMpJrgJsvzq8QE/0x208:4000x2458/432x243/filters:format(jpg)/2026/11/07/6aef590f9119e648169524.jpg"
+    },
+    {
+      "id": "42b241dcd1",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quel est le bilan humain de l'attentat survenu à Cracovie ?",
+      "choix": [
+        "Six morts et quinze blessés",
+        "Dix morts et vingt blessés",
+        "Douze morts et trente blessés",
+        "Deux morts et cinq blessés"
+      ],
+      "reponse": 0,
+      "explication": "L'article indique que l'attentat a fait six morts et quinze blessés.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html",
+      "image": "https://img.lemde.fr/2026/11/08/348/0/4208/2104/644/322/60/0/6861549_ftp-1-kssg5bfr6fu0-2026-11-08t070518z-727863256-rc2ijoak2exr-rtrmadp-3-poland-shooting.JPG"
+    },
+    {
+      "id": "79fdcd3f70",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Dans quelle ville se déroule la première édition du Concours Eurovision Asie de la chanson ?",
+      "choix": [
+        "Séoul",
+        "Manille",
+        "Bangkok",
+        "Singapour"
+      ],
+      "reponse": 2,
+      "explication": "La première édition du concours se tient à Bangkok.",
+      "lien": "https://www.franceinfo.fr/culture/musique/k-pop-chansons-d-amour-et-beatboxing-l-eurovision-lance-sa-premiere-edition-en-asie_8273135.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/-vuITUAJv6dFd82fPFafDk6w774/96x0:933x471/432x243/filters:format(jpg)/2026/11/08/6af0518888ba5043109275.jpg"
+    },
+    {
+      "id": "52faed1c13",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quelle discipline a permis au Sénégal de remporter ses premières médailles d'or aux JO de la jeunesse 2026 ?",
+      "choix": [
+        "Natation",
+        "Lutte de plage",
+        "Athlétisme",
+        "Judo"
+      ],
+      "reponse": 1,
+      "explication": "Le Sénégal a décroché ses médailles d'or en lutte de plage avec Elisabeth Diatta et Maguette Diop.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261108-jeux-olympiques-jeunesse-dakar-2026-doubl%C3%A9-dor%C3%A9-pour-s%C3%A9n%C3%A9gal",
+      "image": "https://s.france24.com/media/display/ed16cfe6-db62-11f1-971d-a575454bc579/w:1024/p:16x9/JOJ-DAKAR-2026.jpg"
+    },
+    {
+      "id": "399983b83a",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Quelle est la fonction principale attribuée aux neurones miroirs chez l'être humain ?",
+      "choix": [
+        "L'apprentissage par imitation et la base de l'empathie",
+        "Le contrôle des fonctions vitales automatiques",
+        "La régulation de la mémoire à court terme",
+        "La perception des couleurs et de la lumière"
+      ],
+      "reponse": 0,
+      "explication": "Le texte explique que ces neurones jouent un rôle déterminant dans l'apprentissage par imitation et forment la base biologique de l'empathie.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "adbf3e27f8",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Qui a mis au point les principes géométriques de la perspective linéaire au XVe siècle ?",
+      "choix": [
+        "Donatello",
+        "Léonard de Vinci",
+        "Michel-Ange",
+        "Filippo Brunelleschi"
+      ],
+      "reponse": 3,
+      "explication": "L'architecte Filippo Brunelleschi est l'inventeur des principes géométriques de la perspective linéaire.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
