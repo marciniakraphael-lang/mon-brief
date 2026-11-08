@@ -4378,6 +4378,118 @@
       "explication": "L'architecte Filippo Brunelleschi est l'inventeur des principes géométriques de la perspective linéaire.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "cc61e97a98",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quelle piste est privilégiée par les enquêteurs concernant l'incendie de locaux du Conseil départemental de la Charente à Angoulême ?",
+      "choix": [
+        "La piste criminelle",
+        "Une défaillance électrique",
+        "Une explosion de gaz",
+        "La piste accidentelle"
+      ],
+      "reponse": 0,
+      "explication": "Des foyers d'incendie ont été découverts dans la maison des solidarités et la piste criminelle est privilégiée par les enquêteurs.",
+      "lien": "https://www.franceinfo.fr/faits-divers/incendie/des-locaux-du-conseil-departemental-de-la-charente-incendies-a-angouleme-la-piste-criminelle-privilegiee_8273189.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/-11V95utVWLm49IlcfsED19wxZg/432x243/filters:format(jpg)/2026/11/07/6aeeb9c757c2f711628004.jpg"
+    },
+    {
+      "id": "09d7beac91",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Qui a remporté le Grand Prix du Brésil sous la pluie après être parti en pole position ?",
+      "choix": [
+        "Lando Norris",
+        "Max Verstappen",
+        "Charles Leclerc",
+        "Isack Hadjar"
+      ],
+      "reponse": 0,
+      "explication": "Lando Norris a remporté le Grand Prix du Brésil en s'imposant sous la pluie et devant Max Verstappen et Isack Hadjar.",
+      "lien": "https://www.franceinfo.fr/sports/auto-moto/formule-1/sous-la-pluie-lando-norris-remporte-le-grand-prix-du-bresil-devant-max-verstappen-et-isack-hadjar_8273651.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/xuQnATFBnfpEfHnp032NP8mSFz8/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/08/6af0c101495e5409846931.jpg"
+    },
+    {
+      "id": "a7355cb132",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Pour quel motif le chauffeur du car impliqué dans l'accident mortel dans l'Ain a-t-il été mis en examen ?",
+      "choix": [
+        "Homicide involontaire",
+        "Non-assistance à personne en danger",
+        "Conduite en état d'ivresse",
+        "Excès de vitesse aggravé"
+      ],
+      "reponse": 0,
+      "explication": "Le chauffeur de 26 ans, qui avait déclaré s'être assoupi au volant, a été mis en examen pour homicide involontaire.",
+      "lien": "https://www.franceinfo.fr/faits-divers/apres-l-accident-de-car-ayant-cause-la-mort-de-deux-personnes-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_8273654.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/ahpVGbJt_vC9XFkm66JEo6LCNH8/0x0:1024x576/432x243/filters:format(jpg)/2026/11/08/6af0c15085a10631137588.jpg"
+    },
+    {
+      "id": "fbe31ed401",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quel est l'objectif principal de la proposition de loi socialiste portée par le député Paul Christophle ?",
+      "choix": [
+        "Interdire l'immigration professionnelle",
+        "Expulser les étrangers en situation irrégulière",
+        "Régulariser 300 000 travailleurs sans-papiers",
+        "Réduire le nombre de titres de séjour"
+      ],
+      "reponse": 2,
+      "explication": "Le texte vise à régulariser 300 000 travailleurs sans-papiers en s'inspirant du modèle espagnol.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/08/immigration-une-proposition-de-loi-socialiste-veut-regulariser-300-000-travailleurs-sans-papiers_6808461_3224.html",
+      "image": "https://img.lemde.fr/2026/11/06/223/0/8256/4128/644/322/60/0/2a371ba_upload-1-g5eym2hvqakg-000-34g83wt.jpg"
+    },
+    {
+      "id": "c67ad69705",
+      "date": "2026-11-08",
+      "type": "actu",
+      "question": "Quel joueur de tennis a remporté le Masters 1000 de Paris en battant Ben Shelton en finale ?",
+      "choix": [
+        "Carlos Alcaraz",
+        "Novak Djokovic",
+        "Daniil Medvedev",
+        "Rafael Nadal"
+      ],
+      "reponse": 0,
+      "explication": "L'Espagnol Carlos Alcaraz a remporté le tournoi en s'imposant en finale face à l'Américain Ben Shelton.",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/08/vainqueur-du-masters-1000-de-paris-carlos-alcaraz-trouve-dans-le-plaisir-de-jouer-la-force-de-vaincre_6808458_3242.html",
+      "image": "https://img.lemde.fr/2026/11/08/500/0/6000/3000/644/322/60/0/8fe9349_ftp-1-wje3xwdt6srw-2026-11-08t162513z-912258524-up1emb819lz07-rtrmadp-3-tennis-paris.JPG"
+    },
+    {
+      "id": "99903e2356",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "Dans quel domaine les neurones miroirs jouent-ils un rôle fondamental selon les neurosciences ?",
+      "choix": [
+        "Le contrôle de la vision nocturne",
+        "La régulation de la température corporelle",
+        "La mémorisation à long terme des chiffres",
+        "L'apprentissage par imitation et l'empathie"
+      ],
+      "reponse": 3,
+      "explication": "Les neurones miroirs jouent un rôle déterminant dans l'apprentissage par imitation et forment la base biologique de l'empathie.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "a09a983da9",
+      "date": "2026-11-08",
+      "type": "culture",
+      "question": "À quelle époque Filippo Brunelleschi a-t-il mis au point la perspective linéaire à Florence ?",
+      "choix": [
+        "Au XVIIe siècle",
+        "Au XVIe siècle",
+        "Au début du XVe siècle",
+        "À la fin du Moyen Âge"
+      ],
+      "reponse": 2,
+      "explication": "Au début du XVe siècle à Florence, Brunelleschi a développé les principes géométriques de la perspective linéaire.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
