@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
-  "mode": "morning",
-  "updated": "2026-11-09T12:53:58.196240+01:00",
+  "mode": "evening",
+  "updated": "2026-11-09T16:01:41.491014+01:00",
   "deja_presente": [
     {
       "titre": "\"Un acte criminel\": le domicile d'un policier incendié en raison de sa profession selon le ministre de l'intérieur Laurent Nuñez",
@@ -152,67 +152,76 @@
   ],
   "aujourdhui": [
     {
-      "titre": "\"On ne peut pas tout faire non plus\" : les locataires satisfaits de l'allègement des tâches de ménage dans les logements",
-      "lien": "https://www.franceinfo.fr/internet/airbnb/reportage-on-ne-peut-pas-tout-faire-non-plus-airbnb-allege-les-obligations-de-menage-demandees-aux-locataires_8274107.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-09T12:51:18+01:00",
-      "resume": "Une plateforme américaine de location de logements entre particuliers s'apprête à appliquer de nouvelles règles à partir du 20 novembre, limitant les exigences de ménage imposées aux voyageurs. Les propriétaires hébergeurs ne pourront plus exiger de leurs clients des tâches d'entretien et de rangement aussi lourdes qu'auparavant. Cette évolution a été accueillie positivement par les locataires utilisateurs du service.",
-      "contexte": "Depuis plusieurs années, les utilisateurs de plateformes de type meublés de tourisme exprimaient leur mécontentement face au cumul de frais de ménage élevés et de listes contraignantes de tâches à accomplir avant le départ. Ces critiques ont pesé sur l'attractivité du service face à l'hôtellerie traditionnelle, où ces prestations sont incluses sans contrainte pour le client. La plateforme cherche ainsi à homogénéiser ses standards d'accueil et à améliorer la satisfaction des consommateurs.",
-      "image": "https://www.franceinfo.fr/pictures/tu-boSauSAEyjBsUluewm0HGKpw/0x520:5000x3333/432x243/filters:format(jpg)/2026/11/09/6af1855c34c9c252045875.jpg"
-    },
-    {
-      "titre": "Conférence sociale : le gouvernement annonce une augmentation du smic de 1,6% pour le porter à 1502 euros net au 1er décembre",
+      "titre": "Conférence sociale : \"Le compte n'y est pas\", déplore Olivier Faure après les annonces du gouvernement",
       "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo · France 24",
-      "date": "2026-11-09T12:47:51+01:00",
-      "resume": "À l'occasion d'une conférence sociale réunissant syndicats et patronat, le gouvernement dirigé par Sébastien Lecornu a annoncé une revalorisation du Smic de 1,6 % au 1er décembre, portant le salaire minimum à 1 502 euros net. Cette réunion visait à apporter une réponse à la contestation sociale portée par les organisations syndicales et la jeunesse ces dernières semaines. Le gouvernement a par ailleurs reçu les représentants des lycéens et des étudiants, tout en maintenant le calendrier des épreuves du baccalauréat sans modification.",
-      "contexte": "Cette initiative intervient dans un climat de fortes tensions sur le pouvoir d'achat, accentuées par l'inflation persistante sur les dépenses courantes comme l'énergie et l'alimentation. La revalorisation du Smic sert traditionnellement à amortir l'érosion des bas salaires face au coût de la vie, mais les syndicats réclament souvent des hausses plus substantielles pour relancer la consommation. Pour l'exécutif, l'enjeu consiste à désamorcer la colère populaire et étudiante tout en évitant d'alourdir excessivement les charges financières des entreprises.",
-      "image": "https://www.franceinfo.fr/pictures/etdZ07N9jDqeyoa4wksTcRNbbIw/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af1ae5a52d55541339030.jpg"
+      "date": "2026-11-09T15:59:43+01:00",
+      "resume": "Face à la colère sociale exprimée depuis plusieurs semaines, Sébastien Lecornu a reçu les partenaires sociaux lundi et a annoncé une hausse de 1,6 % du smic au 1er décembre ainsi que des exonérations de charges conditionnées. Ces annonces n'ont toutefois pas convaincu les syndicats et l'opposition, à l'image d'Olivier Faure qui estime que \"le compte n'y est pas\". Par ailleurs, une intersyndicale de la fonction publique a annoncé une grève pour le 17 novembre, tandis que la CGT appelle à une mobilisation générale des salariés, retraités et jeunes.",
+      "contexte": "Ces mouvements sociaux traduisent un mécontentement persistant face au pouvoir d'achat et aux réformes gouvernementales, dans un climat économique marqué par l'inflation. Les revalorisations salariales et les grèves sont des outils traditionnels pour peser sur les arbitrages budgétaires et sociaux de l'exécutif.",
+      "image": "https://www.franceinfo.fr/pictures/-AR2ChzLPKXYhUWa89hiU6cs0Yg/0x66:1024x642/432x243/filters:format(jpg)/2026/11/09/6af1dafe36635895263103.jpg"
     },
     {
-      "titre": "Un match solidaire organisé pour les 500 jours de détention du journaliste Christophe Gleizes en Algérie",
-      "lien": "https://www.franceinfo.fr/sports/foot/un-match-solidaire-organise-pour-les-500-jours-de-detention-du-journaliste-christophe-gleizes-en-algerie_8274302.html#xtor=RSS-3-[lestitres]",
+      "titre": "Procès des parents de la \"petite martyre de l'A10\" : leurs expertises psychologique et psychiatriques au cœur du sixième jour d'audience à Blois",
+      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/direct-proces-des-parents-de-la-petite-martyre-de-l-a10-la-personnalite-des-deux-accuses-au-c-ur-du-sixieme-jour-d-audience_8274377.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-09T11:56:39+01:00",
-      "resume": "Un match de football solidaire est organisé ce mercredi à Paris à l'initiative de l'association Reporters sans frontières et de la mairie de la capitale. Cet événement marque les 500 jours de détention en Algérie du journaliste français Christophe Gleizes. La manifestation a pour but d'alerter l'opinion publique et de réclamer officiellement sa libération.",
-      "contexte": "L'exercice du journalisme indépendant en Algérie fait face à une surveillance accrue et à des poursuites régulières contre les professionnels des médias depuis plusieurs années. La situation des ressortissants ou journalistes étrangers détenus complique également les relations diplomatiques souvent sensibles entre Paris et Alger. Les organisations de défense de la presse multiplient traditionnellement ce type d'événements publics pour empêcher l'oubli médiatique et faire pression sur les autorités politiques.",
-      "image": "https://www.franceinfo.fr/pictures/1ouPUWkSbodeo70gZBJYYCvY0Pk/0x72:6000x3447/432x243/filters:format(jpg)/2026/11/09/6af199cd37365671220129.jpg"
+      "date": "2026-11-09T15:57:16+01:00",
+      "resume": "Le sixième jour d'audience du procès des parents de la \"petite martyre de l'A10\" s'est ouvert à Blois, avec pour principal objet l'examen de leurs expertises psychologiques et psychiatriques. Les parents d'Inass Touloub, retrouvée morte à l'âge de 4 ans le 11 août 1987 le long de l'autoroute A10, sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\" et \"complicité\". Ils encourent tous les deux la réclusion criminelle à perpétuité.",
+      "contexte": "Ce dossier est l'un des cold cases les plus emblématiques de l'histoire judiciaire française, l'identification de la victime n'avoir été possible que decades après les faits grâce à l'ADN. Les expertises psychologiques et psychiatriques sont déterminantes pour comprendre la dynamique familiale et établir les responsabilités pénales dans ce type de drame infanticide.",
+      "image": "https://www.franceinfo.fr/pictures/A8bJr4VV_JuuFkRFGE_JrphLCQE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1a5358914e798453992.jpg"
     },
     {
-      "titre": "\"La résignation n'est pas une option\" : Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-09T11:55:03+01:00",
-      "resume": "Teddy Riner a annoncé lundi sur le réseau social X son intention de se présenter à l'élection présidentielle de 2027. Le champion olympique de judo a justifié sa démarche en déclarant que « la résignation n'est pas une option ». Cette prise de parole officialise l'entrée de l'athlète dans le champ politique pour le prochain scrutin national.",
-      "contexte": "Il est rare en France qu'une figure sportive de tout premier plan se lance directement dans une course à l'Élysée sans parcours politique ou mandat local préalable. Cette démarche intervient alors que le paysage électoral se recompose en vue de 2027, après deux mandats d'Emmanuel Macron qui ne pourra pas se représenter. L'annonce s'inscrit dans une tendance où des personnalités de la société civile misent sur leur forte notoriété pour tenter de dépasser la défiance envers les partis traditionnels.",
-      "image": "https://www.franceinfo.fr/pictures/FRY-75n0axq7SJRzxnouXFrOx0M/0x100:1024x676/432x243/filters:format(jpg)/2026/11/09/6af1a3c5c0258314024129.jpg"
-    },
-    {
-      "titre": "La Cour des comptes repart à la charge contre les niches fiscales",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/09/la-cour-des-comptes-repart-a-la-charge-contre-les-niches-fiscales_6808640_823448.html",
-      "source": "Le Monde",
-      "date": "2026-11-09T11:48:06+01:00",
-      "resume": "La Cour des comptes a publié un nouveau rapport critique sur les niches et exonérations fiscales en France, constatant que leur coût global a progressé de 42 % en vingt ans en euros constants. Le pays compte à ce jour 459 dispositifs dérogatoires de ce type. Les magistrats financiers ont averti que cette prolifération de régimes particuliers fragilise désormais la notion même de norme fiscale.",
-      "contexte": "Les niches fiscales sont traditionnellement créées pour encourager certains comportements économiques, comme l'investissement locatif, l'emploi à domicile ou la transition écologique. Cependant, elles représentent un manque à gagner considérable pour le budget de l'État et sont souvent accusées de profiter principalement aux contribuables les plus aisés. Dans une période où les finances publiques subissent de fortes contraintes pour résorber le déficit public, ces dérogations constituent une cible récurrente pour dégager des économies.",
-      "image": "https://img.lemde.fr/2023/04/17/154/0/3000/1500/644/322/60/0/c430bdb_1681717636668-ghr.jpg"
-    },
-    {
-      "titre": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
-      "source": "Le Monde",
-      "date": "2026-11-09T11:47:04+01:00",
-      "resume": "Lors d'une interview accordée à la chaîne américaine CBS, la candidate du Rassemblement national Marine Le Pen a soutenu que la France était « le pays le moins raciste du monde ». Elle a également affirmé que les flux migratoires déstabilisaient la société française, mettant en avant un taux de chômage des immigrés qu'elle décrit comme deux fois plus élevé. Ces déclarations contrastent toutefois avec les constats dressés par une étude officielle du Défenseur des droits.",
-      "contexte": "Marine Le Pen cherche régulièrement à soigner son image auprès des médias internationaux tout en maintenant les thématiques identitaires et migratoires au centre de son discours politique. La question des discriminations à l'embauche et au logement reste pourtant régulièrement documentée par les institutions républicaines indépendantes en France. L'argument économique lié au travail sert fréquemment au RN pour justifier sa volonté de restreindre drastiquement l'immigration légale.",
-      "image": "https://img.lemde.fr/2026/11/05/394/0/5638/2819/644/322/60/0/b5660ec_ftp-1-ygbclvh5nhdh-afp-d6ju6pv.jpg"
-    },
-    {
-      "titre": "Climat, déforestation, orpaillage... l'Amazonie lutte pour sa survie",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-climat-d%C3%A9forestation-orpaillage-l-amazonie-lutte-pour-sa-survie",
+      "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+      "lien": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
       "source": "France 24",
-      "date": "2026-11-09T11:42:56+01:00",
-      "resume": "La forêt amazonienne demeure gravement menacée par les effets du dérèglement climatique, l'avancée de la déforestation et les activités d'orpaillage illégal. Ces pressions multiples mettent en péril un écosystème déterminant pour la régulation climatique de la planète. Les populations locales et autochtones se retrouvent en première ligne face à ces dégradations environnementales croissantes.",
-      "contexte": "Le bassin amazonien constitue l'un des plus grands réservoirs de biodiversité et l'un des principaux puits de carbone au monde, essentiel pour absorber les émissions de gaz à effet de serre. L'exploitation forestière clandestine, l'élevage extensif et l'extraction d'or polluent les cours d'eau au mercure et provoquent des conflits territoriaux récurrents. La protection de cette zone représente un enjeu environnemental mondial majeur tout en constituant un sujet de souveraineté sensible pour les pays d'Amérique du Sud.",
-      "image": "https://s.france24.com/media/display/d15420fc-dc29-11f1-9e0b-d18c5759e759/w:1024/p:16x9/FR-20261109-093259-094053-CS.jpg"
+      "date": "2026-11-09T15:52:58+01:00",
+      "resume": "Le candidat de la gauche sociale-démocrate à l'élection présidentielle, Raphaël Glucksmann, a promis lundi de proclamer un \"état d'urgence écologique\" s'il est élu. Il a également annoncé un plan d'investissements publics de 200 milliards d'euros sur le quinquennat pour sortir des énergies fossiles et atteindre la neutralité carbone en 2050.",
+      "contexte": "À l'approche des échéances électorales, les candidats positionnent l'écologie et la transition énergétique au cœur de leur programme pour séduire un electorat préoccupé par le changement climatique. Les plans d'investissement massifs visent à accélérer le développement des énergies renouvelables et à réduire la dépendance au pétrole, au gaz et au charbon.",
+      "image": "https://s.france24.com/media/display/45c7d71e-dc4b-11f1-99df-a575454bc579/w:1024/p:16x9/000-D6K38DA.jpg"
+    },
+    {
+      "titre": "Le procès de trois policiers accusés d'avoir roué de coups Michel Zecler s'ouvre à Paris",
+      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/le-proces-de-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler-s-ouvre-a-paris_8274458.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T15:50:28+01:00",
+      "resume": "Le procès de trois policiers accusés d'avoir roué de coups le producteur de musique Michel Zecler en 2020 s'est ouvert lundi matin à Paris. L'audience a débuté dans une ambiance confuse en raison d'une salle trop exiguë pour accueillir l'ensemble des soutiens de la victime.",
+      "contexte": "Cette affaire, révélée par des images de vidéosurveillance qui avaient provoqué un émoi national, relance le débat sur les violences policières, le contrôle des forces de l'ordre et l'exemplarité au sein de l'institution judiciaire. Les procès de ce type cristallisent les tensions entre les syndicats de police et les mouvements militant pour la justice sociale.",
+      "image": "https://www.franceinfo.fr/pictures/WKpr8A6r7B7-ucqc7ly_h9ki3hY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1c070b75e7793673030.jpg"
+    },
+    {
+      "titre": "Inde : nouveau pic de pollution atmosphérique à New Delhi",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-inde-nouveau-pic-de-pollution-atmosph%C3%A9rique-%C3%A0-new-delhi",
+      "source": "France 24",
+      "date": "2026-11-09T15:43:44+01:00",
+      "resume": "La capitale indienne, New Delhi, a été enveloppée lundi dans un épais brouillard de pollution atmosphérique. Ce phénomène récurrent à l'automne a été particulièrement aggravé par les retombées des pétards et des feux d'artifice tirés au lendemain des festivités de Diwali.",
+      "contexte": "New Delhi est régulièrement classée parmi les villes les plus polluées au monde, en raison de la combinaison des emissions industrielles, du trafic routier, des brûlages agricoles saisonniers et des célébrations religieuses. La situation sanitaire y est critique pour des millions d'habitants à l'approche de la saison hivernale.",
+      "image": "https://s.france24.com/media/display/81e6ef8c-dc4b-11f1-b363-695cb59fade5/w:1024/p:16x9/FR-20261109-152257-152443-CS.jpg"
+    },
+    {
+      "titre": "\"Sa place est dans un musée\" : la France stoppe la vente aux enchères d'un spécimen de dinosaure unique au monde",
+      "lien": "https://www.franceinfo.fr/sciences/dinosaures/sa-place-est-dans-un-musee-la-france-stoppe-la-vente-aux-encheres-d-un-specimen-de-dinosaure-unique-au-monde_8274545.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T15:34:27+01:00",
+      "resume": "Le gouvernement français a annoncé l'arrêt de la vente aux enchères d'un squelette de dinosaure unique au monde, le \"Dubreuillosaurus valesdunensis\". Prévue initialement à la mi-novembre, la vente a été stoppée afin que le spécimen rejoigne les collections du Muséum national d'histoire naturelle.",
+      "contexte": "La protection du patrimoine scientifique et paléontologique fait l'objet d'une attention accrue des autorités pour éviter la dispersion de spécimens rares dans des collections privées internationales. Les fossiles d'importance majeure sont ainsi sanctuarisés pour permettre la recherche publique et l'exposition au grand public.",
+      "image": "https://www.franceinfo.fr/pictures/TbAaA0GXJqtVomzl1SxnH-h7Nro/0x43:823x505/432x243/filters:format(jpg)/2026/11/09/6af1cb7209600176860351.png"
+    },
+    {
+      "titre": "Russie : le journal Novaïa Gazeta ferme officiellement sa rédaction",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-russie-le-journal-nova%C3%AFa-gazeta-ferme-officiellement-sa-r%C3%A9daction",
+      "source": "France 24",
+      "date": "2026-11-09T15:30:18+01:00",
+      "resume": "Le journal russe Novaïa Gazeta a tenu lundi sa dernière conférence de rédaction et a vidé ses locaux, officialisant ainsi la fermeture définitive de sa rédaction. Le média, bastion historique de la presse indépendante en Russie, avait annoncé le mois dernier sa cessation d'activités sous la pression exercée par le Kremlin.",
+      "contexte": "La disparition de Novaïa Gazeta, dont le rédacteur en chef Dmitri Muratov a reçu le prix Nobel de la paix, illustre la réduction drastique de l'espace médiatique indépendant en Russie depuis le début de l'offensive en Ukraine. Les voix critiques y sont progressivement réduites au silence ou poussées à l'exil.",
+      "image": "https://s.france24.com/media/display/da59591a-dc47-11f1-8098-a575454bc579/w:1024/p:16x9/FR-20261109-135113-135257-CS-01.jpg"
+    },
+    {
+      "titre": "L'auteur de l'attentat en Pologne, qui a tué au moins six personnes à Cracovie, est mort",
+      "lien": "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T15:27:49+01:00",
+      "resume": "Le jeune Polonais de 24 ans soupçonné d'avoir tué au moins six personnes lors d'une fusillade à Cracovie est décédé des suites de ses blessures, après avoir été grièvement touché par la police samedi. Il est également suspecté d'être l'auteur du meurtre de ses parents et de sa sœur, dont les corps ont été retrouvés à leur domicile, portant le bilan total à neuf morts.",
+      "contexte": "Ce type de tuerie de masse reste relativement rare en Pologne mais provoque une onde de choc nationale, relançant les débats sur la sécurité publique, l'accès aux armes et la santé mentale. L'enquête se poursuit pour déterminer les motivations exactes de l'assaillant.",
+      "image": "https://www.franceinfo.fr/pictures/5u-uNMAmjWmt4E2oyI-Pp5WGg0E/0x117:1024x693/432x243/filters:format(jpg)/2026/11/09/6af1685e8d9fa862201665.jpg"
     }
   ],
   "culture": [
@@ -238,5 +247,118 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/E-ink-display-detail.jpg/960px-E-ink-display-detail.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "91f544e64f",
+      "date": "2026-11-09",
+      "type": "actu",
+      "question": "Quelle mesure concernant le smic a été annoncée par Sébastien Lecornu lors de la conférence sociale ?",
+      "choix": [
+        "Une revalorisation exceptionnelle de 5 %",
+        "Une hausse de 1,6 % au 1er décembre",
+        "Un gel du smic jusqu'à l'année prochaine",
+        "Une hausse indexée sur l'inflation réelle"
+      ],
+      "reponse": 1,
+      "explication": "Sébastien Lecornu a annoncé une hausse de 1,6 % du smic au 1er décembre lors de la réunion avec les partenaires sociaux.",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/-AR2ChzLPKXYhUWa89hiU6cs0Yg/0x66:1024x642/432x243/filters:format(jpg)/2026/11/09/6af1dafe36635895263103.jpg"
+    },
+    {
+      "id": "48c4e14ff5",
+      "date": "2026-11-09",
+      "type": "actu",
+      "question": "Quel est l'âge de la victime, Inass Touloub, dite la \"petite martyre de l'A10\", au moment de sa mort en 1987 ?",
+      "choix": [
+        "2 ans",
+        "6 ans",
+        "4 ans",
+        "8 ans"
+      ],
+      "reponse": 2,
+      "explication": "Inass Touloub a été retrouvée morte à l'âge de 4 ans le 11 août 1987 le long de l'autoroute A10.",
+      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/direct-proces-des-parents-de-la-petite-martyre-de-l-a10-la-personnalite-des-deux-accuses-au-c-ur-du-sixieme-jour-d-audience_8274377.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/A8bJr4VV_JuuFkRFGE_JrphLCQE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1a5358914e798453992.jpg"
+    },
+    {
+      "id": "bd10b9c65f",
+      "date": "2026-11-09",
+      "type": "actu",
+      "question": "Quel montant Raphaël Glucksmann a-t-il promis pour sortir des énergies fossiles s'il est élu président ?",
+      "choix": [
+        "50 milliards d'euros",
+        "100 milliards d'euros",
+        "200 milliards d'euros",
+        "500 milliards d'euros"
+      ],
+      "reponse": 2,
+      "explication": "Le candidat a promis un plan d'investissements publics de 200 milliards d'euros sur le quinquennat pour atteindre la neutralité carbone.",
+      "lien": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+      "image": "https://s.france24.com/media/display/45c7d71e-dc4b-11f1-99df-a575454bc579/w:1024/p:16x9/000-D6K38DA.jpg"
+    },
+    {
+      "id": "774a7125a4",
+      "date": "2026-11-09",
+      "type": "actu",
+      "question": "Quel dinosaure dont la vente aux enchères a été stoppée par la France doit rejoindre le Muséum national d'histoire naturelle ?",
+      "choix": [
+        "Un Diplodocus",
+        "Un Tyrannosaurus rex",
+        "Un Triceratops",
+        "Un Dubreuillosaurus valesdunensis"
+      ],
+      "reponse": 3,
+      "explication": "Le gouvernement a arrêté la vente du squelette \"Dubreuillosaurus valesdunensis\" pour qu'il rejoigne les collections du Muséum national d'histoire naturelle.",
+      "lien": "https://www.franceinfo.fr/sciences/dinosaures/sa-place-est-dans-un-musee-la-france-stoppe-la-vente-aux-encheres-d-un-specimen-de-dinosaure-unique-au-monde_8274545.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/TbAaA0GXJqtVomzl1SxnH-h7Nro/0x43:823x505/432x243/filters:format(jpg)/2026/11/09/6af1cb7209600176860351.png"
+    },
+    {
+      "id": "d6abe4bf09",
+      "date": "2026-11-09",
+      "type": "actu",
+      "question": "Combien de victimes au total sont recensées dans l'affaire impliquant le jeune Polonais de 24 ans à Cracovie ?",
+      "choix": [
+        "12 morts",
+        "9 morts",
+        "3 morts",
+        "6 morts"
+      ],
+      "reponse": 1,
+      "explication": "Le suspect a tué au moins six personnes lors d'une fusillade et est également soupçonné du meurtre de trois membres de sa famille, soit un total de neuf morts.",
+      "lien": "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/5u-uNMAmjWmt4E2oyI-Pp5WGg0E/0x117:1024x693/432x243/filters:format(jpg)/2026/11/09/6af1685e8d9fa862201665.jpg"
+    },
+    {
+      "id": "48ca97f921",
+      "date": "2026-11-09",
+      "type": "culture",
+      "question": "Que décrit le concept de \"la tragédie des biens communs\" en économie et en écologie ?",
+      "choix": [
+        "L'enrichissement mutuel grâce au partage des richesses",
+        "La privatisation systématique de toutes les terres agricoles",
+        "L'épuisement d'une ressource partagée par l'intérêt personnel individuel",
+        "La diminution de la population mondiale face aux crises"
+      ],
+      "reponse": 2,
+      "explication": "Ce concept décrit comment des individus agissant dans leur seul intérêt personnel finissent par épuiser une ressource partagée et limitée.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "09bf8031ac",
+      "date": "2026-11-09",
+      "type": "culture",
+      "question": "Quelle est la principale caractéristique de la technologie du papier (ou encre) électronique ?",
+      "choix": [
+        "Elle émet une forte lumière bleue pour la nuit",
+        "Elle consomme de l'énergie uniquement lors du changement d'affichage de la page",
+        "Elle nécessite un rétroéclairage permanent pour fonctionner",
+        "Elle ne peut afficher que des images en couleur"
+      ],
+      "reponse": 1,
+      "explication": "Le courant électrique n'est nécessaire que lors du changement de page, l'écran pouvant conserver le texte indéfiniment sans alimentation.",
+      "lien": "",
+      "image": ""
+    }
+  ]
 }
