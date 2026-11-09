@@ -1,391 +1,242 @@
 {
-  "date": "2026-11-08",
-  "mode": "evening",
-  "updated": "2026-11-08T22:46:41.285323+01:00",
+  "date": "2026-11-09",
+  "mode": "morning",
+  "updated": "2026-11-09T12:53:58.196240+01:00",
   "deja_presente": [
     {
-      "titre": "Attentat raciste de Trappes : obsèques de Pengo Bossio Wangi samedi à Guyancourt",
-      "lien": "https://www.france24.com/fr/france/20261107-attentat-racisme-trappes-obs%C3%A8ques-pengo-bossio-wangi-samedi-guyancourt",
+      "titre": "\"Un acte criminel\": le domicile d'un policier incendié en raison de sa profession selon le ministre de l'intérieur Laurent Nuñez",
+      "lien": "https://france3-regions.franceinfo.fr/occitanie/gers/auch/un-acte-criminel-le-domicile-d-un-policier-incendie-en-raison-de-sa-profession-selon-le-ministre-de-l-interieur-laurent-nunez-3446172.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T11:31:08+01:00",
+      "resume": "Deux incendies d'origine criminelle ont été signalés ce week-end en France. À Auch, la maison d'un policier a été détruite, un acte lié à sa profession selon le ministre de l'Intérieur Laurent Nuñez. Par ailleurs, des locaux du Conseil départemental de la Charente ont été incendiés à Angoulême.",
+      "contexte": "Ces actes soulèvent des inquiétudes sur la sécurité des agents de l'État et des bâtiments publics. Les enquêtes en cours visent à identifier les auteurs et à déterminer si ces événements isolés reflètent une montée des tensions contre les institutions.",
+      "image": "https://www.franceinfo.fr/pictures/Dwsh9FdyeZ7AyNnVDPQh4jNaEKg/432x243/filters:format(jpg)/2026/11/08/6af037b717a10637139622.jpg"
+    },
+    {
+      "titre": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale",
+      "lien": "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T11:22:23+01:00",
+      "resume": "À l'approche de l'élection présidentielle, l'expert Nicolas Hubé rappelle les précautions nécessaires pour interpréter les sondages d'opinion. Il souligne qu'il est essentiel pour les citoyens de savoir lire les chiffres et de comprendre la méthodologie pour éviter les mauvaises interprétations.",
+      "contexte": "En période électorale, la multiplication des sondages peut influencer le débat public et la perception des candidats. La compréhension des marges d'erreur et des échantillons est jugée cruciale par les spécialistes pour garantir une information éclairée.",
+      "image": "https://www.franceinfo.fr/pictures/NgdX-9M3zydTtnbjuioqwcKqGKs/0x478:9186x5645/432x243/filters:format(jpg)/2026/11/06/6aee40116c20a280238590.jpg"
+    },
+    {
+      "titre": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "lien": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-11-08T11:17:11+01:00",
+      "resume": "Un homme a ouvert le feu sur des passants à Cracovie, en Pologne, samedi, tuant six personnes et faisant 16 blessés. Le ministre de l'Intérieur a indiqué que le suspect, dont trois autres corps ont été découverts au domicile, était vraisemblablement fasciné par des idéologies d'extrême droite. Le Premier ministre Donald Tusk a qualifié l'attaque d'acte terroriste.",
+      "contexte": "La montée de l'extrémisme est un sujet de vigilance accrue pour les autorités européennes. Cet événement tragique dans une ville touristique majeure de Pologne interroge sur la prévention de la radicalisation et la sécurité publique face à des profils isolés.",
+      "image": "https://www.franceinfo.fr/pictures/QNOOq7XAUw7mVHpRcNL0b6EMxas/0x60:1024x636/432x243/filters:format(jpg)/2026/11/07/6aef76bd1aa73040905605.jpg"
+    },
+    {
+      "titre": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T11:13:48+01:00",
+      "resume": "Des frappes russes ont ciblé les infrastructures énergétiques des régions de Dnipropetrovsk et de Kharkiv en Ukraine, dans la nuit de samedi à dimanche. Ces attaques, qui font suite à une offensive similaire la veille, privent des centaines de milliers d'habitants d'électricité.",
+      "contexte": "Le ciblage des réseaux électriques est une stratégie récurrente dans le conflit ukrainien, visant à affaiblir la résilience de la population civile et les capacités logistiques du pays à l'approche de l'hiver.",
+      "image": "https://www.franceinfo.fr/pictures/rLP8iNV9y9dvjTuFBb1SNzNh8Ds/0x105:1024x681/432x243/filters:format(jpg)/2026/11/08/6af04afd9ed6b794206062.jpg"
+    },
+    {
+      "titre": "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés",
+      "lien": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-7-dans-le-centre-du-japon-fait-plusieurs-blesses_8273036.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T11:03:07+01:00",
+      "resume": "Un séisme de magnitude 5,7 a frappé le centre du Japon, causant plusieurs blessés. Le pays, situé à la jonction de quatre plaques tectoniques, est régulièrement exposé aux secousses sismiques et concentre près de 18 % des séismes mondiaux annuels.",
+      "contexte": "La sismicité élevée du Japon a conduit le pays à adopter des normes de construction antisismiques parmi les plus strictes au monde. Malgré ces mesures, les secousses de moyenne et forte magnitude restent un risque constant pour la population et les infrastructures.",
+      "image": "https://www.franceinfo.fr/pictures/ZPK5SItvy6TseTpUB0upYadBow0/0x30:1024x606/432x243/filters:format(jpg)/2026/11/08/6af018e7aa39f072621171.jpg"
+    },
+    {
+      "titre": "Au large du Sénégal, 21 personnes sont mortes dans le naufrage d'une pirogue de migrants",
+      "lien": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-08T11:01:52+01:00",
+      "resume": "Le naufrage d'une pirogue de migrants au large du Sénégal a causé la mort de 21 personnes, selon un bilan provisoire annoncé samedi. Un seul rescapé a été retrouvé par les autorités locales.",
+      "contexte": "Le Sénégal est un point de départ fréquent pour les migrants tentant de rejoindre l'Europe par la mer. Ces traversées sont extrêmement périlleuses, et le nombre de naufrages reste élevé malgré les dispositifs de surveillance et les politiques migratoires en place.",
+      "image": "https://www.franceinfo.fr/pictures/tCpkSLAY-3nPXW6wKHgNZ1r8i2c/0x437:4200x2800/432x243/filters:format(jpg)/2026/11/08/6af046d6379ea647615467.jpg"
+    },
+    {
+      "titre": "Paraguay: le président destitué Santiago Peña placé en détention préventive",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-paraguay-le-pr%C3%A9sident-destitu%C3%A9-santiago-pe%C3%B1a-plac%C3%A9-en-d%C3%A9tention-pr%C3%A9ventive",
       "source": "France 24",
-      "date": "2026-11-07T11:14:21+01:00",
-      "resume": "Les obsèques de Pengo Bossio Wangi, tué lors de l'attentat raciste du 23 octobre à Trappes, seront célébrées samedi au cimetière de Guyancourt. Le jeune homme de 26 ans avait été ciblé en raison de sa couleur de peau par le suspect, Kevin T., qui qualifiait la commune des Yvelines de repaire d'islamistes.",
-      "contexte": "Ce drame relance le débat public sur la montée des actes racistes et la radicalisation de certains individus armés. Les cérémonies d'hommage permettent aux familles et aux habitants de manifester leur solidarité face à des violences motivées par la haine.",
-      "image": ""
+      "date": "2026-11-08T11:00:11+01:00",
+      "resume": "Le président destitué du Paraguay, Santiago Peña, a été placé en détention préventive samedi. Il est inculpé dans le cadre de la faillite de l'Ueno Bank, une débâcle financière ayant affecté des millions d'épargnants au cours de la semaine.",
+      "contexte": "Cette affaire illustre une crise politique et économique majeure au Paraguay. La destitution et l'inculpation d'un chef d'État marquent une instabilité institutionnelle qui, couplée à une crise bancaire, pèse lourdement sur la confiance des citoyens envers leurs dirigeants.",
+      "image": "https://s.france24.com/media/display/99a9ad2e-db58-11f1-8036-695cb59fade5/w:1024/p:16x9/FR-20261108-081835-082015-CS.jpg"
     },
     {
-      "titre": "\"Godzilla Minus Zero\", \"L'Affaire Marie-Claire\", \"L'Arabe\", \"Kwibuka, se souvenir\" : quels sont les films à voir (ou pas) cette semaine au cinéma ?",
-      "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/godzilla-minus-zero-l-affaire-marie-claire-l-arabe-kwibuka-se-souvenir-quels-sont-les-films-a-voir-ou-pas-cette-semaine-au-cinema_8270942.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-07T11:12:44+01:00",
-      "resume": "La sélection des nouveaux films sortis en salles le mercredi 4 novembre 2026 comprend notamment \"Godzilla Minus Zero\", \"L'Affaire Marie-Claire\", \"L'Arabe\" et \"Kwibuka, se souvenir\".",
-      "contexte": "La critique cinématographique hebdomadaire offre un aperçu de la diversité des œuvres proposées au public, entre blockbusters internationaux, drames historiques et documentaires mémoriels.",
-      "image": "https://www.franceinfo.fr/pictures/OSvyQ_NYXUraekGJLj3Wk-LCwAs/0x0:1070x602/1500x843/2026/11/06/6aedec577af4d349833902.jpeg"
-    },
-    {
-      "titre": "Pour 2027, LFI présente un programme fidèle à sa volonté de rupture",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-pour-2027-lfi-pr%C3%A9sente-un-programme-fid%C3%A8le-%C3%A0-sa-volont%C3%A9-de-rupture",
-      "source": "France 24 · franceinfo",
-      "date": "2026-11-07T11:08:09+01:00",
-      "resume": "La France insoumise a présenté vendredi son programme présidentiel pour 2027, fidèle à sa ligne de rupture et plaçant l'écologie au centre de ses priorités, à la veille d'un grand meeting en région parisienne et d'une présentation au Bourget par Jean-Luc Mélenchon. Au même moment, d'autres personnalités politiques comme Édouard Philippe et Bruno Retailleau se déplacent en province pour aborder l'échéance de 2027.",
-      "contexte": "À l'approche d'une élection présidentielle, les formations politiques cherchent à structurer le débat public en dévoilant leurs propositions programmatiques et en occupant le terrain médiatique. Cette phase de pré-campagne permet de tester l'accueil des mesures phares auprès de l'électorat.",
-      "image": ""
-    },
-    {
-      "titre": "Israël : Eisenkot bien placé pour former le prochain gouvernement",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-isra%C3%ABl-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement",
+      "titre": "Robi Morder : \"ce qu'il s'est passé en Serbie encourage cette idée du possible chez les jeunes\"",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261107-robi-morder-ce-qu-il-s-est-pass%C3%A9-en-serbie-encourage-cette-id%C3%A9e-du-possible-chez-les-jeunes",
       "source": "France 24",
-      "date": "2026-11-07T11:06:14+01:00",
-      "resume": "D'après l'analyse de correspondants locaux, Eisenkot est actuellement bien placé pour former le prochain gouvernement en Israël.",
-      "contexte": "Le paysage politique israélien, marqué par des équilibres parlementaires souvent fragiles, nécessite des tractations intenses et des alliances complexes pour aboutir à la constitution d'une coalition gouvernementale stable.",
-      "image": ""
-    },
-    {
-      "titre": "Le prix Goncourt Philippe Jaenada défend son utilisation \"amusée\" et \"ironique\" de l'IA dans une lettre transmise à l'AFP",
-      "lien": "https://www.franceinfo.fr/culture/livres/le-prix-goncourt-philippe-jaenada-defend-son-utilisation-amusee-et-ironique-de-l-ia-dans-une-lettre-transmise-a-l-afp_8272133.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-07T11:04:38+01:00",
-      "resume": "L'écrivain et prix Goncourt Philippe Jaenada a défendu dans une lettre transmise à l'AFP son usage « ironique » de l'intelligence artificielle. Il affirme n'avoir eu recours à cet outil qu'à trois reprises dans son roman \"L'Inconnue du quai de Javel\", notamment pour dissimuler une phrase de dix mots, relançant le débat sur l'IA dans la littérature.",
-      "contexte": "L'irruption des intelligences génératives dans le champ de la création littéraire soulève des interrogations éthiques et juridiques sur la paternité des œuvres et l'authenticité artistique. Les auteurs doivent composer avec l'inquiétude grandissante du milieu culturel face aux dérives possibles de ces technologies.",
-      "image": "https://www.franceinfo.fr/pictures/puPwM_yQxqZW4GasGd6HAhhDze4/0x0:7200x4050/1500x843/2026/11/07/6aeef5a179572266127290.jpg"
-    },
-    {
-      "titre": "En tête de la Route du Rhum, Tom Laperche attendu dans la nuit de samedi à dimanche à Pointe-à-Pitre",
-      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/en-tete-de-la-route-du-rhum-tom-laperche-attendu-dans-la-nuit-de-samedi-a-dimanche-a-pointe-a-pitre_8272064.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-07T11:02:43+01:00",
-      "resume": "En tête de la Route du Rhum, le skippeur Tom Laperche se rapproche de l'arrivée en Guadeloupe et est attendu dans la nuit de samedi à dimanche à Pointe-à-Pitre. Il ne lui restait plus que 251 milles nautiques à parcourir selon le pointage de samedi matin.",
-      "contexte": "La Route du Rhum est l'une des courses transatlantiques en solitaire les plus prestigieuses au monde, mettant à rude épreuve la résistance des marins et la fiabilité de leurs bateaux. Le suspense final dépend souvent de la gestion des derniers milles et des conditions météorologiques à l'approche des Antilles.",
-      "image": "https://www.franceinfo.fr/pictures/5X7Ddpi1i8qyXBnzq_JK5tfBo8A/0x573:5510x3673/1500x843/2026/11/07/6aeedf6c7f957901005500.jpg"
-    },
-    {
-      "titre": "Lee Chang-dong, cinéaste sud-coréen : « Les gens vivent avec un sentiment de vide. C’est pour ça qu’il y a une colère qui s’exprime »",
-      "lien": "https://www.lemonde.fr/culture/article/2026/11/07/lee-chang-dong-cineaste-sud-coreen-les-gens-vivent-avec-un-sentiment-de-vide-c-est-pour-ca-qu-il-y-a-une-colere-qui-s-exprime_6808264_3246.html",
-      "source": "Le Monde",
-      "date": "2026-11-07T11:01:35+01:00",
-      "resume": "À l'occasion de l'arrivée sur Netflix de son film \"Possible Love\" – couronné du Grand Prix du jury à la dernière Mostra de Venise –, le cinéaste sud-coréen Lee Chang-dong analyse le sentiment de vide et la colère qui traversent la société contemporaine.",
-      "contexte": "Le cinéma d'auteur sud-coréen s'attache souvent à ausculter les traumatismes et les mutations rapides d'une société hyper-développée mais en proie à des crises existentielles. La diffusion sur les plateformes mondiales permet à ces œuvres exigeantes de toucher un public international élargi.",
-      "image": ""
-    },
-    {
-      "titre": "\"J'aimerais bien savoir pourquoi c'était comme ça entre ma fille et moi\" : la mère d'Inass, \"la petite martyre de l'A10\", s'enfonce dans le déni",
-      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/j-aimerais-bien-savoir-pourquoi-c-etait-comme-ca-entre-ma-fille-et-moi-la-mere-de-la-petite-martyre-de-l-a10-s-enfonce-dans-le-deni_8271575.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-07T10:57:01+01:00",
-      "resume": "Interrogée pendant trois heures vendredi par la cour d'assises du Loir-et-Cher, Halima El Bakhti, la mère d'Inass, dite « la petite martyre de l'A10 », s'est enfoncée dans le déni. Elle n'a reconnu qu'une partie des sévices subis par sa fille en 1987.",
-      "contexte": "Ce procès de faits criminels anciens illustre la persévérance de la justice et des enquêteurs pour élucider des affaires non élucidées (cold cases) de longue date. L'instruction s'appuie sur la reconstitution de parcours familiaux complexes et sur l'évolution des expertises médico-légales.",
-      "image": "https://www.franceinfo.fr/pictures/_0uZ2Q3CVOKA-hWmrA_c-0QBihQ/0x150:1600x1050/1500x843/2026/11/06/6aee46dd46cdf805928884.jpg"
-    },
-    {
-      "titre": "\"Il faut faire des choix financiers\" : au salon Paris pour l'emploi, la hausse du coût de la vie et le niveau du salaire au centre des préoccupations",
-      "lien": "https://www.franceinfo.fr/economie/emploi/reportage-il-faut-faire-des-choix-financiers-au-salon-paris-pour-l-emploi-des-demandeurs-d-emploi-face-a-la-hausse-du-cout-de-la-vie_8272046.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-07T10:46:10+01:00",
-      "resume": "La hausse du coût de la vie et le niveau des salaires ont été au cœur des préoccupations des demandeurs d'emploi lors du salon Paris pour l'emploi, organisé vendredi dans le centre de la capitale.",
-      "contexte": "L'inflation et la stagnation du pouvoir d'achat constituent des préoccupations économiques majeures pour les ménages, impactant directement les négociations salariales et la recherche d'emploi. Ce type de salon met en relief les difficultés quotidiennes des travailleurs face à la cherté de la vie.",
-      "image": "https://www.franceinfo.fr/pictures/8PEWlDgZ30RHCBqhjbWwGVk9fsc/0x350:6720x4130/1500x843/2026/11/07/6aeed9c9d52fa751073804.jpg"
+      "date": "2026-11-08T10:58:11+01:00",
+      "resume": "Une nouvelle journée de mobilisation a eu lieu samedi en France, rassemblant 146 000 manifestants selon le ministère de l'Intérieur, dont 46 000 à Paris. Ce mouvement, qui proteste contre la vie chère et porte des revendications pour la jeunesse, a donné lieu à au moins 360 interpellations. Ce rassemblement survient à deux jours d'une conférence sociale prévue à Matignon.",
+      "contexte": "Le contexte social en France est marqué par une inflation persistante et des revendications sur le pouvoir d'achat. Ces mobilisations, portées par divers acteurs sociaux, visent à faire pression sur le gouvernement avant des échéances de concertation nationale.",
+      "image": "https://s.france24.com/media/display/e5187432-dae7-11f1-9ee0-d18c5759e759/w:1024/p:16x9/Francais-2026-11-07T19-07-02-746Z.jpg"
     }
   ],
   "depuis_hier": [
     {
-      "titre": "Championnat des nations : une victoire au prix fort pour le XV de France contre les Fidji",
-      "lien": "https://www.lemonde.fr/sport/article/2026/11/07/une-victoire-au-prix-fort-pour-le-xv-de-france-contre-les-fidji_6808318_3242.html",
-      "source": "Le Monde · France 24 · franceinfo",
-      "date": "2026-11-07T23:50:47+01:00",
-      "resume": "Le XV de France a largement battu les Fidji 54-17 lors de son premier match d'automne, samedi soir au Groupama Stadium de Décines-Charpieu. Malgré cette victoire, les Bleus ont perdu leur ouvreur Romain Ntamack, sorti sur blessure à l'épaule gauche. Cette absence intervient à seulement six jours d'un match important contre l'Afrique du Sud.",
-      "contexte": "Le Championnat des nations est une compétition internationale majeure de rugby, souvent utilisée par les équipes pour se préparer aux échéances mondiales ou confirmer leur rang. La blessure d'un cadre comme Ntamack représente un coup dur pour le sélectionneur Fabien Galthié, qui doit réorganiser sa charnière en urgence avant d'affronter les champions du monde sud-africains.",
-      "image": "https://img.lemde.fr/2026/11/07/755/0/4525/2262/644/322/60/0/a4b9200_ftp-1-hph9hahd6b0c-afp-d6t36aj.jpg"
-    },
-    {
-      "titre": "JOJ Dakar 2026 : Elisabeth Diatta offre au Sénégal sa première médaille d'or",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-joj-dakar-2026-elisabeth-diatta-offre-au-s%C3%A9n%C3%A9gal-sa-premi%C3%A8re-m%C3%A9daille-d-or",
+      "titre": "Paracyclisme : le triplé fou de Tifany Huot-Marchand aux Mondiaux sur piste",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-paracyclisme-le-tripl%C3%A9-fou-de-tifany-huot-marchand-aux-mondiaux-sur-piste",
       "source": "France 24",
-      "date": "2026-11-07T23:47:30+01:00",
-      "resume": "Élisabeth Diatta a remporté la première médaille d'or du Sénégal aux Jeux Olympiques de la Jeunesse (JOJ) ce samedi. Elle s'est imposée lors de la finale de lutte de plage. Ce succès représente une fierté particulière pour sa coach, Isabelle Sambou, ancienne athlète olympique sénégalaise.",
-      "contexte": "Les JOJ sont une compétition multisport internationale destinée aux jeunes athlètes. Cette victoire marque une étape historique pour le sport sénégalais, qui cherche à développer ses disciplines nationales comme la lutte sur la scène mondiale.",
-      "image": "https://s.france24.com/media/display/757a2f1c-dafb-11f1-aefd-d18c5759e759/w:1024/p:16x9/Elisabeth-DIATTA-00-00-00-00-Still001.jpg"
+      "date": "2026-11-08T23:49:10+01:00",
+      "resume": "Tifany Huot-Marchand a remporté trois médailles d'or lors des Championnats du monde de paracyclisme sur piste. Âgée de 32 ans, la sportive française avait été victime en 2022 d'un très grave accident lors d'une compétition de patinage de vitesse, après lequel les médecins estimaient qu'elle risquait de ne plus pouvoir marcher. Après une phase de rééducation, elle s'est imposée parmi l'élite internationale et vise désormais les Jeux paralympiques de Los Angeles en 2028.",
+      "contexte": "Cette trajectoire illustre la capacité de reconversion sportive de haut niveau permise par les structures paralympiques après un accident invalidant. Le paracyclisme sur piste exige des qualités d'explosivité et d'endurance très proches de celles du patinage de vitesse sur courte piste. Ce succès renforce la position de l'équipe de France sur la scène internationale dans l'optique du cycle préparatoire aux prochains Jeux.",
+      "image": "https://s.france24.com/media/display/1850aa0c-dbc6-11f1-8d80-d18c5759e759/w:1024/p:16x9/FRA-NEWS-08-11-2026-19-59-ING10-CLEAN-N2.jpg"
     },
     {
-      "titre": "Surf : l'incroyable expédition des \"Lost in the Swell\" au cercle arctique",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-surf-l-incroyable-exp%C3%A9dition-des-lost-in-the-swell-au-cercle-arctique",
+      "titre": "Dialogue nationale en RD Congo : comment sortir de l'impasse ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261108-dialogue-nationale-en-rd-congo-comment-sortir-de-l-impasse",
       "source": "France 24",
-      "date": "2026-11-07T23:40:11+01:00",
-      "resume": "Le trio de surfeurs \"Lost in the Swell\" a mené une expédition au cercle arctique, débutée en mars 2026, pour découvrir des vagues inexplorées. Durant un mois et demi, ils ont affronté des conditions extrêmes avec des températures ressenties allant jusqu'à -15 °C et une eau à 3 °C. Il s'agit de la dernière aventure en date de ce groupe qui parcourt le monde depuis 15 ans.",
-      "contexte": "Ces expéditions visent à repousser les limites de la discipline en cherchant des lieux vierges. Elles témoignent d'une tendance croissante dans le surf d'aventure, où la recherche de la performance sportive se double d'une quête d'exploration dans des zones géographiques difficilement accessibles.",
-      "image": "https://s.france24.com/media/display/d0241216-dafb-11f1-9fa5-bf1914cabd52/w:1024/p:16x9/FRA-NEWS-07-11-2026-19-59-ING10-CLEAN-N2.jpg"
-    },
-    {
-      "titre": "Espagne : pluie d'hommages au joueur Jesus de Miguel, décédé après un choc violent sur le terrain",
-      "lien": "https://www.france24.com/fr/sports/20261107-espagne-pluie-d-hommages-au-joueur-jesus-de-miguel-d%C3%A9c%C3%A9d%C3%A9-apr%C3%A8s-un-choc-violent-sur-le-terrain",
-      "source": "France 24",
-      "date": "2026-11-07T23:14:06+01:00",
-      "resume": "Le club de football du CD Tenerife, aux Canaries, a rendu hommage samedi à son joueur Jesus de Miguel. L'attaquant est décédé mardi dernier des suites d'une crise cardiaque survenue après un choc violent avec le gardien de l'équipe d'Andorre, Jesus Owono.",
-      "contexte": "Ce drame a provoqué une vive émotion dans le milieu du football espagnol. Les chocs violents lors des rencontres sportives posent régulièrement la question de la sécurité des joueurs et de la prise en charge médicale immédiate sur le terrain.",
-      "image": "https://s.france24.com/media/display/1ae98524-db42-11f1-bfaf-695cb59fade5/w:1024/p:16x9/2026-11-07T184028Z-1029588642-UP1EMB71FVEU6-RTRMADP-3-SOCCER-SPAIN.jpg"
-    },
-    {
-      "titre": "\"Tout a pénétré le sol, c'est devenu l'enfer\" : quand nos déchets inondent la Turquie",
-      "lien": "https://www.franceinfo.fr/monde/turquie/tout-a-penetre-le-sol-c-est-devenu-l-enfer-quand-nos-dechets-inondent-la-turquie_8272700.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-07T22:58:27+01:00",
-      "resume": "À l'approche de la COP 31 qui s'ouvre lundi 9 novembre en Turquie, la question du traitement des déchets plastiques est mise en lumière. Une part importante des déchets européens est acheminée vers la Turquie, causant une pollution visible des sols et des écosystèmes locaux.",
-      "contexte": "La gestion des déchets et les exportations de matériaux recyclables ou non sont des enjeux environnementaux majeurs discutés lors des sommets climatiques. La Turquie fait face à une pression croissante pour réguler ces importations qui dépassent souvent ses capacités de traitement.",
-      "image": "https://www.franceinfo.fr/pictures/_BdBF7cTPg7OMMFLd1l7tEumi4c/0x92:1506x939/432x243/filters:format(jpg)/2026/11/07/6aef84f42bf55343864057.png"
-    },
-    {
-      "titre": "Municipales en Afrique du Sud: déroute historique de l'ANC qui passe à peine les 30%",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261107-municipales-en-afrique-du-sud-d%C3%A9route-historique-de-l-anc-qui-passe-%C3%A0-peine-les-30",
-      "source": "France 24",
-      "date": "2026-11-07T22:30:18+01:00",
-      "resume": "Lors des élections municipales en Afrique du Sud, le parti historique ANC a subi une déroute, recueillant à peine 30 % des suffrages après le dépouillement de 99 % des bulletins. L'Alliance démocratique, menée par le maire du Cap, Geordin Hill-Lewis, s'impose comme la deuxième force politique avec 24,6 %. Les résultats officiels sont attendus après vérification des contestations.",
-      "contexte": "L'ANC domine la vie politique sud-africaine depuis la fin de l'apartheid. Ce recul historique reflète un mécontentement croissant de la population face aux problèmes économiques et à la gestion du pays, marquant un tournant potentiel dans le paysage politique national.",
-      "image": "https://s.france24.com/media/display/59367a78-daf0-11f1-beae-695cb59fade5/w:1024/p:16x9/WB285009-O-01-20261107-01.jpg"
-    },
-    {
-      "titre": "Benoît Sineau secouru et \"sain et sauf\" après avoir activé sa balise de détresse sur la Route du Rhum",
-      "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/benoit-sineau-a-active-sa-balise-de-detresse-sur-la-route-du-rhum-des-concurrents-deroutes-pour-le-secourir_8272628.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-07T22:02:40+01:00",
-      "resume": "Le skippeur Benoît Sineau, engagé sur la Route du Rhum, a été secouru samedi après avoir activé sa balise de détresse. L'organisation de la course a coordonné l'intervention en demandant à plusieurs bateaux à proximité de lui porter assistance, et le marin est désormais sain et sauf.",
-      "contexte": "La Route du Rhum est une course transatlantique en solitaire exigeante où les avaries techniques sont fréquentes. La sécurité des skippeurs est une priorité absolue pour les organisateurs, qui s'appuient sur une solidarité entre marins en cas d'urgence en haute mer.",
-      "image": "https://www.franceinfo.fr/pictures/oHpZD_bgRL5Th9MqzLL4YNkF_dc/0x105:4252x2497/432x243/filters:format(jpg)/2026/11/07/6aef704b5bb76951709703.jpg"
-    }
-  ],
-  "aujourdhui": [
-    {
-      "titre": "RDC : dialogue impossible entre Tshisekedi, Kabila et l'opposition ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-rdc-dialogue-impossible-entre-tshisekedi-kabila-et-l-opposition",
-      "source": "France 24",
-      "date": "2026-11-08T22:30:57+01:00",
-      "resume": "La coalition d'opposition C64 cherche à organiser une rencontre avec le président congolais Félix Tshisekedi et son prédécesseur Joseph Kabila pour préparer un dialogue national. Le gouvernement de Kinshasa a toutefois menacé de poursuites les opposants qui se rendraient à Goma pour s'entretenir avec l'ancien président. Ce dernier dirige désormais une alliance politico-militaire intégrant la rébellion de l'AFC/M23, alors que le pays fait face à une guerre continue dans l'Est et à des débats autour de la Constitution.",
-      "contexte": "Les tensions entre le pouvoir actuel et les partisans de l'ancien président Kabila n'ont cessé de croître depuis la rupture de leur alliance initiale. La situation sécuritaire dans la province du Nord-Kivu, où opère le M23 soutenu par le Rwanda selon l'ONU, aggrave la méfiance politique et paralyse toute tentative de réconciliation nationale. Les perspectives électorales prévues pour 2028 et d'éventuelles réformes constitutionnelles cristallisent encore davantage les rivalités entre factions politiques.",
-      "image": "https://s.france24.com/media/display/c5b7da0a-dbba-11f1-9ad4-695cb59fade5/w:1024/p:16x9/FR-20261108-214131-215019-CS.jpg"
-    },
-    {
-      "titre": "Patronat et syndicats reçus lundi à Matignon : la colère va-t-elle retomber ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-patronat-et-syndicats-re%C3%A7us-lundi-%C3%A0-matignon-la-col%C3%A8re-va-t-elle-retomber",
-      "source": "France 24",
-      "date": "2026-11-08T22:18:42+01:00",
-      "resume": "Le gouvernement réunit les organisations syndicales et patronales ce lundi à Matignon à l'occasion d'une conférence sociale. Cette rencontre au sommet vise à désamorcer les tensions sociales persistantes et à ouvrir des discussions économiques avec les partenaires sociaux. L'événement s'inscrit dans un climat marqué par de vives divisions politiques tant au centre, à droite qu'à gauche.",
-      "contexte": "L'exécutif cherche régulièrement par ce type de sommet à renouer un dialogue direct avec les syndicats après des épisodes de contestation ou des réformes contestées, telles que celle des retraites. Pour Matignon, l'objectif est généralement d'apaiser le front social tout en abordant des thèmes comme le pouvoir d'achat, les salaires et les conditions de travail. En toile de fond, les différentes forces politiques se positionnent déjà pour les échéances électorales de 2027 en exploitant les revendications des salariés.",
-      "image": "https://s.france24.com/media/display/f29c8008-dbb9-11f1-b2c7-a575454bc579/w:1024/p:16x9/Francais-2026-11-08T20-13-07-122Z.jpg"
-    },
-    {
-      "titre": "Présidentielle 2027 : Fabien Roussel ira « jusqu’au bout », malgré le ralliement de députés communistes à Mélenchon",
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html",
-      "source": "Le Monde",
-      "date": "2026-11-08T22:00:53+01:00",
-      "resume": "Le secrétaire national du Parti communiste français, Fabien Roussel, a réaffirmé qu'il maintiendrait sa candidature pour l'élection présidentielle de 2027 jusqu'au bout. Cette déclaration intervient après le ralliement de neuf députés de son groupe parlementaire à Jean-Luc Mélenchon. Malgré des intentions de vote oscillant entre 2 % et 3 %, le responsable communiste a déploré ce choix et affirmé que le chef de file de La France insoumise ne parviendrait pas à l'emporter.",
-      "contexte": "La gauche française demeure profondément fragmentée depuis l'éclatement de la Nouvelle Union populaire écologique et sociale (Nupes). Alors que La France insoumise entend imposer son statut de première force de l'opposition de gauche, le PCF tente de préserver une ligne autonome et de peser face aux autres composantes progressistes. Ces défections internes soulignent les tensions stratégiques au sein du camp communiste entre partisans de l'union sous la bannière insoumise et défenseurs d'une candidature indépendante.",
-      "image": "https://img.lemde.fr/2026/11/07/0/0/5240/2620/644/322/60/0/34e43bf_upload-1-i1tcpv9eqevt-000-d43u7dg.jpg"
-    },
-    {
-      "titre": "La pétition appelant à fermer la chaîne CNews a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale",
-      "lien": "https://www.franceinfo.fr/economie/medias/la-petition-appelant-a-fermer-la-chaine-cnews-a-recueilli-plus-d-un-million-de-signatures-sur-le-site-de-l-assemblee-nationale_8273738.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T21:57:47+01:00",
-      "resume": "Une pétition réclamant la fermeture de la chaîne de télévision CNews a dépassé le million de signatures sur le site de l'Assemblée nationale. Il s'agit de la deuxième initiative à franchir ce palier symbolique depuis la mise en place de cet outil citoyen en 2020. Auparavant, seul le texte contestant la loi Duplomb avait suscité un niveau d'adhésion comparable sur cette plateforme.",
-      "contexte": "Mise en service après le grand débat consécutif à la crise des gilets jaunes, cette plateforme parlementaire permet aux citoyens d'alerter les députés sur des sujets de société. Le dépassement de seuils élevés facilite l'examen en commission ou la tenue d'un débat à l'Assemblée, bien qu'il n'entraîne aucune obligation juridique d'adopter les demandes formulées. Le groupe Canal+, propriétaire de la chaîne, fait régulièrement l'objet de vives contestations politiques concernant le pluralisme et la ligne éditoriale de ses antennes.",
-      "image": "https://www.franceinfo.fr/pictures/lWT5ct2HHPMNygFkDlamT4Uw5S0/0x53:1024x629/432x243/filters:format(jpg)/2026/11/08/6af0da45af8b2997217327.jpg"
-    },
-    {
-      "titre": "Saint-Denis : rassemblement contre la « répression » au lycée Paul-Eluard, épicentre de la mobilisation lycéenne",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/08/saint-denis-rassemblement-contre-la-repression-au-lycee-paul-eluard-epicentre-de-la-mobilisation-lyceenne_6808470_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-08T21:49:14+01:00",
-      "resume": "Quelques centaines de personnes se sont rassemblées devant le lycée Paul-Éluard de Saint-Denis pour dénoncer des mesures répressives au sein de l'établissement. Les manifestants, soutenus par le maire local Bally Bagayoko, réclament le départ du chef d'établissement et l'abandon d'une enquête administrative visant des professeurs. Il est notamment reproché au proviseur d'avoir fait intervenir les forces de l'ordre au cours de la mobilisation lycéenne.",
-      "contexte": "Le lycée Paul-Éluard est régulièrement au cœur de mobilisations sociales et de contestations lycéennes en Seine-Saint-Denis, portant souvent sur les conditions d'enseignement et le climat scolaire. Le recours aux forces de l'ordre à l'intérieur ou aux abords des enceintes scolaires constitue une question très sensible en France, opposant impératifs de maintien de l'ordre et préservation du dialogue éducatif. La présence d'élus locaux accentue la dimension politique de cette crise locale.",
-      "image": "https://img.lemde.fr/2026/10/13/691/0/1890/945/644/322/60/0/9d7a63d_upload-1-tdmqy7tgjtn6-imgp7948.jpg"
+      "date": "2026-11-08T22:37:48+01:00",
+      "resume": "En République démocratique du Congo, cinq personnalités de l'opposition réunies dans la coalition C64 cherchent à organiser des entrevues avec le président Félix Tshisekedi et son prédécesseur Joseph Kabila afin d'instaurer un dialogue national. De son côté, le pouvoir en place a menacé d'engager des poursuites judiciaires contre quiconque irait rencontrer l'ancien chef de l'État à Goma. Cette initiative intervient alors que le conflit armé persiste dans l'est du territoire et que l'horizon politique pointe vers l'élection de 2028.",
+      "contexte": "L'est de la RDC est en proie à des affrontements armés récurrents impliquant divers groupes rebelles, ce qui déstabilise profondément l'autorité étatique et aggrave la crise humanitaire. Les tensions entre Félix Tshisekedi et son prédécesseur Joseph Kabila compliquent tout consensus politique interne, le gouvernement soupçonnant régulièrement des collusions avec des forces hostiles. La tenue d'un dialogue inclusif est généralement vue par l'opposition comme un moyen d'éviter l'implosion sécuritaire et d'assurer un cadre électoral transparent.",
+      "image": "https://s.france24.com/media/display/1d2fef02-dbbb-11f1-876c-bf1914cabd52/w:1024/p:16x9/NW285664-O-01-20261108-01.jpg"
     },
     {
       "titre": "La guerre des câbles sous-marins : \"les premières étapes d'une attaque de plus grande ampleur\"",
       "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-guerre-des-cables-sous-marins-les-premieres-etapes-d-une-attaque-de-plus-grande-ampleur_8273729.html#xtor=RSS-3-%5Bgeneral%5D",
       "source": "franceinfo Monde",
       "date": "2026-11-08T21:15:58+01:00",
-      "resume": "Les pays européens et la France subissent chaque semaine une recrudescence d'attaques informatiques dans le cadre d'affrontements hybrides. Cette menace s'étend désormais aux fonds marins, où les câbles sous-marins font l'objet d'un ciblage accru. Ces infrastructures critiques assurent à elles seules le transit d'environ 99 % des flux mondiaux de télécommunications.",
-      "contexte": "Dans un contexte de rivalités géopolitiques exacerbées, notamment avec la Russie, la protection des infrastructures sous-marines est devenue une priorité sécuritaire majeure pour l'OTAN et l'Union européenne. Une rupture ou un sabotage concerté de ces liaisons pourrait paralyser les échanges financiers, les communications gouvernementales et l'accès global à Internet. Les États cherchent en conséquence à renforcer la surveillance de leurs eaux territoriales et de leurs fonds marins pour anticiper d'éventuelles attaques de grande ampleur.",
+      "resume": "La France et l'Europe font face à des vagues hebdomadaires de cyberattaques s'inscrivant dans le cadre d'une guerre hybride globale. Cette confrontation s'étend désormais aux fonds marins, où les câbles sous-marins qui transportent 99 % des télécommunications mondiales sont de plus en plus ciblés. Des spécialistes mettent en garde contre le risque que ces perturbations sous-marines constituent les prémices d'une opération d'ampleur bien plus vaste.",
+      "contexte": "Les câbles sous-marins forment la véritable colonne vertébrale d'Internet et des transactions financières internationales, reliant les continents sous des milliers de kilomètres d'eau. Leur vulnérabilité physique attire l'attention des puissances rivales qui peuvent chercher à collecter des données ou à menacer de coupures massives en cas de conflit géopolitique ouvert. Les marines occidentales ont ainsi renforcé la surveillance de ces zones pour prévenir des sabotages similaires à ceux observés sur d'autres infrastructures énergétiques européennes.",
       "image": "https://www.franceinfo.fr/pictures/Frxyyjy0yuBtQjK4Awngi9HAtj0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af0d70a0859e430600611.jpg"
     },
     {
-      "titre": "Attentat en Pologne : \"J'ai vu des personnes tomber à un mètre de moi\", une témoin raconte",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-en-pologne-j-ai-vu-des-personnes-tomber-a-un-metre-de-moi-une-temoin-raconte_8273690.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Je dois me priver\" : ces Français qui retardent l'ouverture du chauffage à tout prix",
+      "lien": "https://www.franceinfo.fr/economie/je-n-ai-pas-chaud-du-tout-heureusement-que-je-m-active-pour-certains-francais-retarder-l-ouverture-du-chauffage-a-tout-prix_8273726.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-08T20:59:01+01:00",
-      "resume": "Un homme a ouvert le feu à Cracovie, en Pologne, le samedi 7 novembre. L'attaque a fait six morts et quinze blessés, parmi lesquels figurent plusieurs touristes étrangers. Les enquêteurs ont déjà mis au jour plusieurs éléments concernant le parcours de l'assaillant.",
-      "contexte": "Ce type d'attaque armée reste exceptionnel en Pologne, pays d'Europe centrale réputé pour son faible niveau de criminalité par armes à feu. Les autorités locales cherchent désormais à établir précisément les motivations du tireur, notamment pour déterminer s'il s'agit d'un acte terroriste ou du geste isolé d'une personne déséquilibrée. L'événement suscite une vive émotion dans une ville qui compte parmi les destinations touristiques majeures du pays.",
-      "image": "https://www.franceinfo.fr/pictures/eyhFt2XWoVAwlBvSCLbsWYUmPV4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af0cdf89f6b8111463247.jpg"
+      "date": "2026-11-08T21:04:24+01:00",
+      "resume": "Face à la hausse continue des prix de l'électricité, du gaz et du fioul, une enquête récente indique que 72 % des ménages français affirment restreindre leur consommation énergétique. À l'approche de la baisse des températures, de nombreux particuliers expliquent retarder autant que possible la mise en route de leur système de chauffage. Cette démarche contrainte a pour principal objectif de limiter le montant des factures d'énergie à venir.",
+      "contexte": "Depuis la crise énergétique européenne déclenchée en 2022, les tarifs de l'énergie ont subi des ajustements à la hausse malgré les dispositifs d'amortissement tarifaire mis en place par les pouvoirs publics. Le poste de dépenses consacré à l'énergie pèse de manière disproportionnée sur le budget des foyers modestes et de ceux vivant dans des logements mal isolés. Cette précarité énergétique hivernale a également des répercussions sanitaires directes en favorisant l'humidité et les affections respiratoires.",
+      "image": "https://www.franceinfo.fr/pictures/aW3mMpA1RQQGt3BoTKpEQEdTCZM/0x428:997x990/432x243/filters:format(jpg)/2026/11/08/6af0d54d34ec4236304984.png"
     },
     {
-      "titre": "En Egypte, une collision de deux trains fait au moins sept morts et une centaine de blessés",
-      "lien": "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-une-collision-de-deux-trains-fait-au-moins-sept-morts-et-une-centaine-de-blesses_8273720.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T20:57:25+01:00",
-      "resume": "Une violente collision ferroviaire est survenue en Égypte, faisant au moins sept morts et une centaine de blessés. L'accident s'est produit lorsqu'un train reliant Gizeh à Fayoum a percuté par l'arrière un autre convoi qui se dirigeait vers le sud, en direction d'Assouan. Les autorités ferroviaires ont confirmé le bilan et les circonstances préliminaires de l'impact.",
-      "contexte": "Le réseau ferré égyptien souffre de longue date de défaillances techniques, d'un matériel vieillissant et de problèmes récurrents de signalisation, souvent pointés du doigt lors de catastrophes similaires. Malgré des plans d'investissement annoncés ces dernières années pour moderniser les voies et les équipements, les accidents restent fréquents dans le pays. Cette nouvelle tragédie devrait relancer les débats sur la sécurité des transports publics et la responsabilité des opérateurs étatiques.",
-      "image": "https://www.franceinfo.fr/pictures/53eAt83vk7Oa-KwnpV1gSbEQ0_Q/0x46:1024x622/432x243/filters:format(jpg)/2026/11/08/6af0d3c61cf6e580341440.jpg"
-    },
-    {
-      "titre": "Présidentielle 2027 : Christine Lagarde tentée par l’Élysée ?",
+      "titre": "Présidentielle 2027 : Christine Lagarde tentée par l'Elysée après son départ de la Banque centrale europeénne ?",
       "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-christine-lagarde-tentee-par-l-elysee_8273705.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-11-08T20:44:42+01:00",
-      "resume": "L'hypothèse d'une candidature de Christine Lagarde à l'élection présidentielle de 2027 fait l'objet de spéculations croissantes au sein de la classe politique française. Ces interrogations se multiplient à la suite de l'annonce de son départ anticipé de la présidence de la Banque centrale européenne. Les mouvements de droite et du centre restent actuellement en quête d'une figure de premier plan pour mener leur camp.",
-      "contexte": "Après deux mandats d'Emmanuel Macron, le bloc central ne dispose pas de successeur évident et fait face à une concurrence accrue des formations de droite républicaine. Forte de son expérience passée au gouvernement français, au Fonds monétaire international puis à la BCE, Christine Lagarde bénéficie d'une forte notoriété internationale et d'un profil technocratique rassurant pour l'électorat modéré. Néanmoins, une transition du monde bancaire international vers une campagne électorale nationale comporte traditionnellement des défis politiques majeurs.",
+      "resume": "L'annonce de la démission anticipée de Christine Lagarde de la présidence de la Banque centrale européenne suscite des spéculations sur une éventuelle candidature à l'élection présidentielle française de 2027. Les familles politiques du centre et de la droite se trouvent actuellement en quête d'une figure capable d'assurer leur leadership. Le profil de l'ancienne ministre de l'Économie est ainsi évoqué comme une option potentielle pour ces mouvements.",
+      "contexte": "À l'approche de la fin du second mandat d'Emmanuel Macron, le bloc central cherche des figures d'envergure pour maintenir son assise face à la gauche et au Rassemblement national. Christine Lagarde bénéficie d'une stature internationale forgée au FMI puis à la BCE, ainsi que d'une expérience gouvernementale sous la présidence de Nicolas Sarkozy. Sa candidature dépendrait toutefois de sa volonté réelle de réintégrer l'arène électorale partisane après des années passées à la tête d'institutions indépendantes.",
       "image": "https://www.franceinfo.fr/pictures/h2rpNg4HRnDQUJLUu93LgSwH9Ew/0x97:1254x802/432x243/filters:format(jpg)/2026/11/08/6af0d10b09d6f550682482.png"
     },
     {
-      "titre": "Donald Trump juge \"très improbable\" une reprise de la guerre contre l'Iran pour le moment",
-      "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-juge-tres-improbable-une-reprise-de-la-guerre-contre-l-iran-pour-le-moment_8273696.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T20:39:40+01:00",
-      "resume": "Donald Trump a qualifié de « très improbable » une reprise des hostilités militaires contre l'Iran dans la période actuelle. S'exprimant lors d'un entretien accordé à CNN, le président américain a néanmoins précisé que cette issue dépendrait de la signature ou non d'un accord solide par Téhéran. Ses propos interviennent dans un contexte de fortes tensions géopolitiques au Moyen-Orient.",
-      "contexte": "Les relations entre Washington et Téhéran restent dominées par les désaccords profonds sur le programme nucléaire iranien et sur l'influence régionale de la République islamique. Lors de son premier mandat, Donald Trump avait adopté une politique de pression maximale en retirant les États-Unis de l'accord sur le nucléaire de 2015. L'évocation d'un nouveau texte contraignant illustre la volonté américaine de combiner menaces de représailles et diplomatie transactionnelle pour encadrer les ambitions militaires de Téhéran.",
-      "image": "https://www.franceinfo.fr/pictures/AzTVw6lug4MdK3EfgTDe21KHXlY/0x63:1024x639/432x243/filters:format(jpg)/2026/11/08/6af0cfda284d3322669044.jpg"
+      "titre": "\"Ce n'est pas une vie\" : la détresse des réfugiés de Gaza inondés par les pluies",
+      "lien": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ce-n-est-pas-une-vie-la-detresse-des-refugies-de-gaza-inondes-par-les-pluies_8273663.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-08T19:23:36+01:00",
+      "resume": "De violentes pluies torrentielles ont submergé et anéanti les campements de fortune des réfugiés dans la bande de Gaza. Selon les alertes émises par l'ONU dès le mois d'octobre, près de deux millions de personnes, soit la quasi-totalité des habitants du territoire, se trouvent encore dépourvues d'abris adaptés face aux intempéries. Les familles déplacées doivent désormais faire face à l'arrivée de l'hiver dans des conditions de précarité extrême.",
+      "contexte": "Les destructions massives causées par les opérations militaires israéliennes ont anéanti une grande partie des logements et des infrastructures de base, contraignant la population à vivre sous des toiles de tente. L'arrivée de la saison des pluies aggrave brutalement le risque d'épidémies, de froid et d'insalubrité pour des civils déjà confrontés à des pénuries de nourriture et de soins. L'acheminement de matériel d'urgence et d'abris pérennes reste par ailleurs fortement entravé par les restrictions aux frontières.",
+      "image": "https://www.franceinfo.fr/pictures/fG3coCildvAGGfmJ4s89XHLMaiI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/08/6af0bdedc626a528303466.jpg"
     },
     {
-      "titre": "\"Il était apeuré, il était trempé tellement il avait couru\" : dans l'Oise, des habitants sauvent un cerf poursuivi par des chasseurs",
-      "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/il-etait-apeure-il-etait-trempe-tellement-il-avait-couru-dans-l-oise-des-habitants-sauvent-un-cerf-poursuivi-par-des-chasseurs_8273693.html#xtor=RSS-3-[lestitres]",
+      "titre": "Après la victoire démocrate, le \"tout pétrole\" va-t-il être remis en cause aux États-Unis ?",
+      "lien": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/apres-la-victoire-democrate-le-tout-petrole-va-t-il-etre-remis-en-cause-aux-etats-unis_8232076.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-08T17:23:40+01:00",
+      "resume": "À la suite de la victoire démocrate au Congrès américain, des interrogations émergent quant à l'avenir de la politique énergétique fondée sur les hydrocarbures aux États-Unis. La précédente gestion sous la présidence de Donald Trump avait largement favorisé les compagnies pétrolières et gazières. Les nouveaux équilibres parlementaires pourraient réorienter les priorités législatives en matière d'énergie et de régulation environnementale.",
+      "contexte": "Les États-Unis sont devenus l'un des premiers producteurs mondiaux de pétrole brut et de gaz naturel liquéfié, ce qui renforce leur indépendance stratégique mais complique leurs engagements de réduction des émissions de carbone. Les démocrates privilégient généralement les subventions aux énergies renouvelables et un encadrement plus strict des forages, tandis que les républicains défendent la rentabilité et l'emploi liés aux énergies fossiles. Le contrôle du Congrès détermine directement la politique fiscale et les autorisations d'infrastructures accordées au secteur énergétique.",
+      "image": "https://www.franceinfo.fr/pictures/NeqlRGwjBh25MG8CurBvi2RVGj8/0x15:5182x2930/432x243/filters:format(jpg)/2026/11/08/6af056612401e828923368.jpg"
+    },
+    {
+      "titre": "En Israël, Gadi Eisenkot affirme que le Likoud, parti de Benyamin Nétanyahou, est bienvenu pour former une coalition gouvernementale",
+      "lien": "https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-affirme-que-le-likoud-parti-de-benyamin-netanyahou-est-bienvenu-pour-former-une-coalition-gouvernementale_8273507.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-08T20:28:50+01:00",
-      "resume": "Un cerf traqué lors d'une chasse à courre s'est réfugié dans le jardin d'une propriété privée en bordure de la forêt de Compiègne, dans l'Oise. Épuisé et trempé par sa fuite, l'animal a été protégé par plusieurs riverains qui se sont interposés face aux veneurs. La gendarmerie a dû intervenir sur place pour calmer les esprits et trancher la situation.",
-      "contexte": "La chasse à courre suscite de vives controverses en France, particulièrement dans les zones périurbaines où les limites entre massifs forestiers et espaces habités se chevauchent. Plusieurs collectifs et associations réclament l'interdiction de cette pratique traditionnelle, mettant en avant le bien-être animal et les risques d'incidents près des habitations. La législation actuelle encadre strictement la présence des chiens et des chasseurs sur les terrains privés sans l'accord des propriétaires.",
-      "image": "https://www.franceinfo.fr/pictures/MiH-n-xj0uZmcDKSMRSxyE9fJxo/0x43:1178x706/432x243/filters:format(jpg)/2026/11/08/6af0cd5c725a9203526713.png"
+      "date": "2026-11-08T17:00:51+01:00",
+      "resume": "Le président israélien a officiellement confié à Gadi Eisenkot, chef du principal bloc d'opposition, la tâche de former le prochain gouvernement. Dans la foulée, ce dernier a déclaré que le Likoud, la formation politique de Benyamin Nétanyahou, était le bienvenu pour participer à une coalition. En parallèle, les citoyens arabes et notamment les Bédouins du Néguev, qui dénoncent des discriminations et des expulsions après quatre années dominées par la droite et l'extrême droite, réclament une représentation au sein d'un exécutif orienté à gauche.",
+      "contexte": "Le système électoral israélien, caractérisé par une proportionnelle intégrale, oblige presque systématiquement à de complexes négociations de coalition pour obtenir une majorité à la Knesset. L'ouverture envers le Likoud montre la volonté de constituer un attelage politique stable après plusieurs scrutins disputés, bien que les divergences programmatiques soient profondes. La question de l'intégration des partis représentant la minorité arabe demeure quant à elle un sujet hautement polarisant dans la vie politique du pays.",
+      "image": "https://www.franceinfo.fr/pictures/cJKpS-vA0jbWlRmFqUlQVmhe9Fo/0x46:1024x622/432x243/filters:format(jpg)/2026/11/08/6af09a12d797a775922896.jpg"
+    }
+  ],
+  "aujourdhui": [
+    {
+      "titre": "\"On ne peut pas tout faire non plus\" : les locataires satisfaits de l'allègement des tâches de ménage dans les logements",
+      "lien": "https://www.franceinfo.fr/internet/airbnb/reportage-on-ne-peut-pas-tout-faire-non-plus-airbnb-allege-les-obligations-de-menage-demandees-aux-locataires_8274107.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T12:51:18+01:00",
+      "resume": "Une plateforme américaine de location de logements entre particuliers s'apprête à appliquer de nouvelles règles à partir du 20 novembre, limitant les exigences de ménage imposées aux voyageurs. Les propriétaires hébergeurs ne pourront plus exiger de leurs clients des tâches d'entretien et de rangement aussi lourdes qu'auparavant. Cette évolution a été accueillie positivement par les locataires utilisateurs du service.",
+      "contexte": "Depuis plusieurs années, les utilisateurs de plateformes de type meublés de tourisme exprimaient leur mécontentement face au cumul de frais de ménage élevés et de listes contraignantes de tâches à accomplir avant le départ. Ces critiques ont pesé sur l'attractivité du service face à l'hôtellerie traditionnelle, où ces prestations sont incluses sans contrainte pour le client. La plateforme cherche ainsi à homogénéiser ses standards d'accueil et à améliorer la satisfaction des consommateurs.",
+      "image": "https://www.franceinfo.fr/pictures/tu-boSauSAEyjBsUluewm0HGKpw/0x520:5000x3333/432x243/filters:format(jpg)/2026/11/09/6af1855c34c9c252045875.jpg"
+    },
+    {
+      "titre": "Conférence sociale : le gouvernement annonce une augmentation du smic de 1,6% pour le porter à 1502 euros net au 1er décembre",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-11-09T12:47:51+01:00",
+      "resume": "À l'occasion d'une conférence sociale réunissant syndicats et patronat, le gouvernement dirigé par Sébastien Lecornu a annoncé une revalorisation du Smic de 1,6 % au 1er décembre, portant le salaire minimum à 1 502 euros net. Cette réunion visait à apporter une réponse à la contestation sociale portée par les organisations syndicales et la jeunesse ces dernières semaines. Le gouvernement a par ailleurs reçu les représentants des lycéens et des étudiants, tout en maintenant le calendrier des épreuves du baccalauréat sans modification.",
+      "contexte": "Cette initiative intervient dans un climat de fortes tensions sur le pouvoir d'achat, accentuées par l'inflation persistante sur les dépenses courantes comme l'énergie et l'alimentation. La revalorisation du Smic sert traditionnellement à amortir l'érosion des bas salaires face au coût de la vie, mais les syndicats réclament souvent des hausses plus substantielles pour relancer la consommation. Pour l'exécutif, l'enjeu consiste à désamorcer la colère populaire et étudiante tout en évitant d'alourdir excessivement les charges financières des entreprises.",
+      "image": "https://www.franceinfo.fr/pictures/etdZ07N9jDqeyoa4wksTcRNbbIw/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af1ae5a52d55541339030.jpg"
+    },
+    {
+      "titre": "Un match solidaire organisé pour les 500 jours de détention du journaliste Christophe Gleizes en Algérie",
+      "lien": "https://www.franceinfo.fr/sports/foot/un-match-solidaire-organise-pour-les-500-jours-de-detention-du-journaliste-christophe-gleizes-en-algerie_8274302.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T11:56:39+01:00",
+      "resume": "Un match de football solidaire est organisé ce mercredi à Paris à l'initiative de l'association Reporters sans frontières et de la mairie de la capitale. Cet événement marque les 500 jours de détention en Algérie du journaliste français Christophe Gleizes. La manifestation a pour but d'alerter l'opinion publique et de réclamer officiellement sa libération.",
+      "contexte": "L'exercice du journalisme indépendant en Algérie fait face à une surveillance accrue et à des poursuites régulières contre les professionnels des médias depuis plusieurs années. La situation des ressortissants ou journalistes étrangers détenus complique également les relations diplomatiques souvent sensibles entre Paris et Alger. Les organisations de défense de la presse multiplient traditionnellement ce type d'événements publics pour empêcher l'oubli médiatique et faire pression sur les autorités politiques.",
+      "image": "https://www.franceinfo.fr/pictures/1ouPUWkSbodeo70gZBJYYCvY0Pk/0x72:6000x3447/432x243/filters:format(jpg)/2026/11/09/6af199cd37365671220129.jpg"
+    },
+    {
+      "titre": "\"La résignation n'est pas une option\" : Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T11:55:03+01:00",
+      "resume": "Teddy Riner a annoncé lundi sur le réseau social X son intention de se présenter à l'élection présidentielle de 2027. Le champion olympique de judo a justifié sa démarche en déclarant que « la résignation n'est pas une option ». Cette prise de parole officialise l'entrée de l'athlète dans le champ politique pour le prochain scrutin national.",
+      "contexte": "Il est rare en France qu'une figure sportive de tout premier plan se lance directement dans une course à l'Élysée sans parcours politique ou mandat local préalable. Cette démarche intervient alors que le paysage électoral se recompose en vue de 2027, après deux mandats d'Emmanuel Macron qui ne pourra pas se représenter. L'annonce s'inscrit dans une tendance où des personnalités de la société civile misent sur leur forte notoriété pour tenter de dépasser la défiance envers les partis traditionnels.",
+      "image": "https://www.franceinfo.fr/pictures/FRY-75n0axq7SJRzxnouXFrOx0M/0x100:1024x676/432x243/filters:format(jpg)/2026/11/09/6af1a3c5c0258314024129.jpg"
+    },
+    {
+      "titre": "La Cour des comptes repart à la charge contre les niches fiscales",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/09/la-cour-des-comptes-repart-a-la-charge-contre-les-niches-fiscales_6808640_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-09T11:48:06+01:00",
+      "resume": "La Cour des comptes a publié un nouveau rapport critique sur les niches et exonérations fiscales en France, constatant que leur coût global a progressé de 42 % en vingt ans en euros constants. Le pays compte à ce jour 459 dispositifs dérogatoires de ce type. Les magistrats financiers ont averti que cette prolifération de régimes particuliers fragilise désormais la notion même de norme fiscale.",
+      "contexte": "Les niches fiscales sont traditionnellement créées pour encourager certains comportements économiques, comme l'investissement locatif, l'emploi à domicile ou la transition écologique. Cependant, elles représentent un manque à gagner considérable pour le budget de l'État et sont souvent accusées de profiter principalement aux contribuables les plus aisés. Dans une période où les finances publiques subissent de fortes contraintes pour résorber le déficit public, ces dérogations constituent une cible récurrente pour dégager des économies.",
+      "image": "https://img.lemde.fr/2023/04/17/154/0/3000/1500/644/322/60/0/c430bdb_1681717636668-ghr.jpg"
+    },
+    {
+      "titre": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-09T11:47:04+01:00",
+      "resume": "Lors d'une interview accordée à la chaîne américaine CBS, la candidate du Rassemblement national Marine Le Pen a soutenu que la France était « le pays le moins raciste du monde ». Elle a également affirmé que les flux migratoires déstabilisaient la société française, mettant en avant un taux de chômage des immigrés qu'elle décrit comme deux fois plus élevé. Ces déclarations contrastent toutefois avec les constats dressés par une étude officielle du Défenseur des droits.",
+      "contexte": "Marine Le Pen cherche régulièrement à soigner son image auprès des médias internationaux tout en maintenant les thématiques identitaires et migratoires au centre de son discours politique. La question des discriminations à l'embauche et au logement reste pourtant régulièrement documentée par les institutions républicaines indépendantes en France. L'argument économique lié au travail sert fréquemment au RN pour justifier sa volonté de restreindre drastiquement l'immigration légale.",
+      "image": "https://img.lemde.fr/2026/11/05/394/0/5638/2819/644/322/60/0/b5660ec_ftp-1-ygbclvh5nhdh-afp-d6ju6pv.jpg"
+    },
+    {
+      "titre": "Climat, déforestation, orpaillage... l'Amazonie lutte pour sa survie",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-climat-d%C3%A9forestation-orpaillage-l-amazonie-lutte-pour-sa-survie",
+      "source": "France 24",
+      "date": "2026-11-09T11:42:56+01:00",
+      "resume": "La forêt amazonienne demeure gravement menacée par les effets du dérèglement climatique, l'avancée de la déforestation et les activités d'orpaillage illégal. Ces pressions multiples mettent en péril un écosystème déterminant pour la régulation climatique de la planète. Les populations locales et autochtones se retrouvent en première ligne face à ces dégradations environnementales croissantes.",
+      "contexte": "Le bassin amazonien constitue l'un des plus grands réservoirs de biodiversité et l'un des principaux puits de carbone au monde, essentiel pour absorber les émissions de gaz à effet de serre. L'exploitation forestière clandestine, l'élevage extensif et l'extraction d'or polluent les cours d'eau au mercure et provoquent des conflits territoriaux récurrents. La protection de cette zone représente un enjeu environnemental mondial majeur tout en constituant un sujet de souveraineté sensible pour les pays d'Amérique du Sud.",
+      "image": "https://s.france24.com/media/display/d15420fc-dc29-11f1-9e0b-d18c5759e759/w:1024/p:16x9/FR-20261109-093259-094053-CS.jpg"
     }
   ],
   "culture": [
     {
-      "theme": "science",
-      "titre": "Le rôle des neurones miroirs",
-      "texte": "Découverts dans les années 1990 par une équipe de chercheurs italiens chez le macaque, les neurones miroirs constituent une avancée majeure en neurosciences. Ces cellules cérébrales particulières s'activent aussi bien lorsqu'un individu accomplit une action que lorsqu'il observe un congénère réaliser cette même action. En d'autres termes, le cerveau simule intérieurement les gestes perçus sans nécessairement déclencher de mouvement physique. Chez l'être humain, ce réseau neuronal jouerait un rôle déterminant dans l'apprentissage par imitation dès la petite enfance. De nombreux scientifiques estiment également qu'il forme la base biologique de l'empathie, en facilitant la compréhension immédiate des émotions d'autrui.",
-      "a_retenir": "Les neurones miroirs s'activent aussi bien lors de l'exécution d'une action que lors de sa simple observation, favorisant l'apprentissage et l'empathie.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mirror-box-comic.jpg/960px-Mirror-box-comic.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    {
-      "theme": "vie courante (argent, droit, logement, cuisine, consommation)",
-      "titre": "L'Appellation d'origine contrôlée",
-      "texte": "L'Appellation d'origine contrôlée, couramment abrégée en AOC, est un label officiel français garantissant qu'un produit provient d'un terroir spécifique. Créé initialement dans les années 1930 pour encadrer le marché viticole, ce statut juridique lie intimement la qualité d'une denrée à son lieu géographique et à des savoir-faire traditionnels. Pour obtenir et conserver cette reconnaissance, les producteurs doivent respecter un cahier des charges rigoureux validé par l'État. Ce système protège les exploitants contre les contrefaçons commerciales tout en offrant aux consommateurs une garantie de traçabilité. À l'échelle européenne, l'AOC est aujourd'hui relayée par l'Appellation d'origine protégée (AOP).",
-      "a_retenir": "L'AOC garantit qu'un produit a été élaboré selon un savoir-faire reconnu dans une zone géographique déterminée.",
-      "image": "https://thumb.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_AOC.jpg/960px-Logo_AOC.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    {
-      "theme": "arts et littérature",
-      "titre": "L'invention de la perspective linéaire",
-      "texte": "Au début du XVe siècle à Florence, l'architecte Filippo Brunelleschi met au point les principes géométriques de la perspective linéaire. Cette méthode optique révolutionnaire permet de représenter fidèlement un espace en trois dimensions sur une surface parfaitement plane. Elle repose sur le tracé de lignes convergentes, appelées fuyantes, qui se rejoignent en un unique point de fuite situé sur la ligne d'horizon. Théorisée peu après par Leon Battista Alberti dans son traité sur la peinture, cette technique a profondément transformé l'art de la Renaissance. Les peintres ont ainsi pu offrir au regard une illusion saisissante de profondeur et d'harmonie spatiale.",
-      "a_retenir": "Mise au point à la Renaissance par Brunelleschi, la perspective linéaire a permis de recréer mathématiquement l'illusion de la profondeur en peinture.",
+      "theme": "économie",
+      "titre": "La tragédie des biens communs",
+      "texte": "Ce concept économique et écologique décrit comment des individus, agissant de manière rationnelle et dans leur seul intérêt personnel, finissent par épuiser une ressource partagée et limitée. L'exemple historique souvent cité est celui de pâturages ouverts à tous, où chaque éleveur a intérêt à ajouter des animaux pour maximiser son profit individuel. Cependant, l'accumulation de ces décisions mène inévitablement à la surexploitation et à la ruine collective du pâturage. Cette théorie met en lumière la nécessité d'une régulation ou d'une gestion collective pour préserver les ressources vitales. Elle s'applique aujourd'hui à des enjeux majeurs comme la surpêche ou le réchauffement climatique.",
+      "a_retenir": "L'intérêt individuel non régulé peut détruire des ressources partagées indispensables à tous.",
       "image": ""
+    },
+    {
+      "theme": "santé et corps humain",
+      "titre": "La plasticité cérébrale",
+      "texte": "Le cerveau humain possède une capacité extraordinaire à se modifier et à s'adapter tout au long de la vie, que ce soit suite à des apprentissages ou à une lésion. Contrairement à une idée reçue, nos neurones ne font pas que dépérir avec l'âge ; ils créent constamment de nouvelles connexions synaptiques. Lorsqu'une zone du cerveau est endommagée, d'autres régions peuvent parfois reprendre ses fonctions initiales. C'est grâce à cette plasticité que nous pouvons acquérir de nouvelles compétences, comme jouer d'un instrument ou apprendre une langue. Cette découverte majeure a profondément transformé les méthodes de rééducation en neurologie.",
+      "a_retenir": "Le cerveau se réorganise en permanence pour s'adapter à nos expériences et à nos apprentissages.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Brain_neuroplasticity_after_practice.png/960px-Brain_neuroplasticity_after_practice.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "theme": "technologie",
+      "titre": "Le papier électronique",
+      "texte": "Aussi connu sous le nom d'encre électronique, ce dispositif d'affichage imite l'apparence de l'encre sur une feuille de papier ordinaire. Contrairement aux écrans de smartphones ou de téléviseurs, il ne émet pas de lumière propre mais réfléchit la lumière ambiante, ce qui réduit considérablement la fatigue oculaire. Sa caractéristique la plus remarquable est sa très faible consommation d'énergie : le courant électrique n'est nécessaire que lors du changement d'affichage de la page. Une fois l'image fixée, l'écran peut conserver le texte affiché indéfiniment sans aucune alimentation. Cette technologie est devenue le cœur des liseuses numériques modernes.",
+      "a_retenir": "Le papier électronique ne consomme de l'énergie que lors du changement d'image, imitant parfaitement le papier.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/E-ink-display-detail.jpg/960px-E-ink-display-detail.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "093305a586",
-      "date": "2026-11-08",
-      "type": "actu",
-      "question": "Quel dirigeant congolais dirige désormais une alliance politico-militaire intégrant la rébellion de l'AFC/M23 ?",
-      "choix": [
-        "Fabien Roussel",
-        "Félix Tshisekedi",
-        "Joseph Kabila",
-        "Bally Bagayoko"
-      ],
-      "reponse": 2,
-      "explication": "L'ancien président Joseph Kabila dirige une alliance politico-militaire intégrant la rébellion de l'AFC/M23.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-rdc-dialogue-impossible-entre-tshisekedi-kabila-et-l-opposition",
-      "image": "https://s.france24.com/media/display/c5b7da0a-dbba-11f1-9ad4-695cb59fade5/w:1024/p:16x9/FR-20261108-214131-215019-CS.jpg"
-    },
-    {
-      "id": "6a6ef2d9bd",
-      "date": "2026-11-08",
-      "type": "actu",
-      "question": "Quel parti politique Fabien Roussel représente-t-il ?",
-      "choix": [
-        "Le Rassemblement national",
-        "La France insoumise",
-        "Le Parti communiste français",
-        "Les Républicains"
-      ],
-      "reponse": 2,
-      "explication": "Fabien Roussel est le secrétaire national du Parti communiste français.",
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html",
-      "image": "https://img.lemde.fr/2026/11/07/0/0/5240/2620/644/322/60/0/34e43bf_upload-1-i1tcpv9eqevt-000-d43u7dg.jpg"
-    },
-    {
-      "id": "3b37769818",
-      "date": "2026-11-08",
-      "type": "actu",
-      "question": "Quelle chaîne de télévision fait l'objet d'une pétition ayant recueilli plus d'un million de signatures sur le site de l'Assemblée nationale ?",
-      "choix": [
-        "CNews",
-        "TF1",
-        "BFMTV",
-        "LCI"
-      ],
-      "reponse": 0,
-      "explication": "La pétition réclamant la fermeture de la chaîne de télévision CNews a dépassé le million de signatures.",
-      "lien": "https://www.franceinfo.fr/economie/medias/la-petition-appelant-a-fermer-la-chaine-cnews-a-recueilli-plus-d-un-million-de-signatures-sur-le-site-de-l-assemblee-nationale_8273738.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/lWT5ct2HHPMNygFkDlamT4Uw5S0/0x53:1024x629/432x243/filters:format(jpg)/2026/11/08/6af0da45af8b2997217327.jpg"
-    },
-    {
-      "id": "ada87759da",
-      "date": "2026-11-08",
-      "type": "actu",
-      "question": "Quel pourcentage approximatif des flux mondiaux de télécommunications est assuré par les câbles sous-marins ?",
-      "choix": [
-        "Environ 99 %",
-        "Environ 50 %",
-        "Environ 75 %",
-        "Environ 90 %"
-      ],
-      "reponse": 0,
-      "explication": "Les infrastructures critiques des câbles sous-marins assurent à elles seules le transit d'environ 99 % des flux mondiaux de télécommunications.",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-guerre-des-cables-sous-marins-les-premieres-etapes-d-une-attaque-de-plus-grande-ampleur_8273729.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Frxyyjy0yuBtQjK4Awngi9HAtj0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af0d70a0859e430600611.jpg"
-    },
-    {
-      "id": "326e7a0d42",
-      "date": "2026-11-08",
-      "type": "actu",
-      "question": "Dans quel département français des habitants ont-ils sauvé un cerf poursuivi par des chasseurs ?",
-      "choix": [
-        "La Somme",
-        "L'Oise",
-        "L'Aisne",
-        "La Seine-Maritime"
-      ],
-      "reponse": 1,
-      "explication": "Le cerf s'est réfugié dans une propriété en bordure de la forêt de Compiègne, située dans l'Oise.",
-      "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/il-etait-apeure-il-etait-trempe-tellement-il-avait-couru-dans-l-oise-des-habitants-sauvent-un-cerf-poursuivi-par-des-chasseurs_8273693.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/MiH-n-xj0uZmcDKSMRSxyE9fJxo/0x43:1178x706/432x243/filters:format(jpg)/2026/11/08/6af0cd5c725a9203526713.png"
-    },
-    {
-      "id": "02298ccf7d",
-      "date": "2026-11-08",
-      "type": "culture",
-      "question": "Dans quelles années les neurones miroirs ont-ils été découverts chez le macaque ?",
-      "choix": [
-        "Dans les années 1980",
-        "Dans les années 1990",
-        "Dans les années 2000",
-        "Dans les années 1970"
-      ],
-      "reponse": 1,
-      "explication": "Les neurones miroirs ont été découverts dans les années 1990 par une équipe de chercheurs italiens chez le macaque.",
-      "lien": "",
-      "image": ""
-    },
-    {
-      "id": "3c1d3a48f9",
-      "date": "2026-11-08",
-      "type": "culture",
-      "question": "Au début de quel siècle la perspective linéaire a-t-elle été mise au point à Florence par Filippo Brunelleschi ?",
-      "choix": [
-        "Le XIVe siècle",
-        "Le XVIe siècle",
-        "Le XIIIe siècle",
-        "Le XVe siècle"
-      ],
-      "reponse": 3,
-      "explication": "C'est au début du XVe siècle à Florence que l'architecte Filippo Brunelleschi met au point les principes géométriques de la perspective linéaire.",
-      "lien": "",
-      "image": ""
-    }
-  ]
+  "quiz_jour": []
 }
