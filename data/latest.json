@@ -1,87 +1,224 @@
 {
   "date": "2026-11-10",
-  "mode": "evening",
-  "updated": "2026-11-10T02:15:49.322920+01:00",
-  "deja_presente": [],
-  "depuis_hier": [],
-  "aujourdhui": [
+  "mode": "morning",
+  "updated": "2026-11-10T09:13:28.158788+01:00",
+  "deja_presente": [
     {
-      "titre": "Donald Trump évoque un « élan positif » vers un accord de paix avec l’Iran après sa rencontre avec le premier ministre du Qatar",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-evoque-un-elan-positif-vers-un-accord-de-paix-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-10T00:26:10+01:00",
-      "resume": "Le président américain Donald Trump a déclaré qu'il existait un « élan positif » vers un accord de paix avec l'Iran, à la suite d'une rencontre avec le premier ministre du Qatar. Sur son réseau social Truth Social, il a précisé qu'une reprise des frappes contre l'Iran était « peu probable », tout en affirmant que les États-Unis restaient « prêts à intervenir ».",
-      "contexte": "Cette déclaration intervient dans un contexte de tensions persistantes au Moyen-Orient, où les relations entre Washington et Téhéran font l'objet d'une surveillance internationale accrue. Le Qatar joue fréquemment un rôle de médiateur diplomatique dans les crises régionales impliquant les États-Unis et leurs adversaires. Ce type d'échange vise généralement à apaiser les conflits potentiels, bien que la menace d'une intervention militaire reste un outil de dissuasion classique pour l'administration américaine.",
-      "image": "https://img.lemde.fr/2026/11/09/92/0/3687/1843/644/322/60/0/b3213bf_ftp-1-mpd4h4jxtjle-878a7da22e6e44ed8d7605f9458f6cc5-0-2ba1d10be21b45c293ffe8b219cb886b.jpg"
+      "titre": "\"On ne peut pas tout faire non plus\" : les locataires satisfaits de l'allègement des tâches de ménage dans les logements",
+      "lien": "https://www.franceinfo.fr/internet/airbnb/reportage-on-ne-peut-pas-tout-faire-non-plus-airbnb-allege-les-obligations-de-menage-demandees-aux-locataires_8274107.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T12:51:18+01:00",
+      "resume": "Une plateforme américaine de location de logements entre particuliers s'apprête à appliquer de nouvelles règles à partir du 20 novembre, limitant les exigences de ménage imposées aux voyageurs. Les propriétaires hébergeurs ne pourront plus exiger de leurs clients des tâches d'entretien et de rangement aussi lourdes qu'auparavant. Cette évolution a été accueillie positivement par les locataires utilisateurs du service.",
+      "contexte": "Depuis plusieurs années, les utilisateurs de plateformes de type meublés de tourisme exprimaient leur mécontentement face au cumul de frais de ménage élevés et de listes contraignantes de tâches à accomplir avant le départ. Ces critiques ont pesé sur l'attractivité du service face à l'hôtellerie traditionnelle, où ces prestations sont incluses sans contrainte pour le client. La plateforme cherche ainsi à homogénéiser ses standards d'accueil et à améliorer la satisfaction des consommateurs.",
+      "image": "https://www.franceinfo.fr/pictures/tu-boSauSAEyjBsUluewm0HGKpw/0x520:5000x3333/432x243/filters:format(jpg)/2026/11/09/6af1855c34c9c252045875.jpg"
     },
     {
-      "titre": "Heures creuses d’électricité : Enedis adapte les plages horaires selon les saisons pour 9,3 millions de clients",
-      "lien": "https://www.lemonde.fr/planete/article/2026/11/10/heures-creuses-d-electricite-enedis-adapte-les-plages-horaires-selon-les-saisons-pour-9-3-millions-de-clients_6808707_3244.html",
-      "source": "Le Monde",
-      "date": "2026-11-10T00:16:16+01:00",
-      "resume": "À partir du 1er décembre, Enedis va déployer la deuxième phase de sa réforme des heures creuses pour 9,3 millions de clients en adaptant les plages horaires selon les saisons. Cette mesure, lancée il y a un an par le gestionnaire du réseau de distribution d'électricité, vise à déplacer la consommation des foyers vers les moments où la production d'énergie est la plus abondante et la moins coûteuse.",
-      "contexte": "La transition énergétique et le développement des énergies renouvelables, comme le solaire et l'éolien, entraînent des fluctuations importantes de la production d'électricité selon les heures de la journée et les saisons. Adapter les tarifs incitatifs permet d'éviter les surcharges du réseau électrique lors des pics de consommation et de mieux intégrer les productions intermittentes. C'est une stratégie courante pour optimiser le mix énergétique national et limiter le recours aux énergies fossiles d'appoint plus polluantes et onéreuses.",
-      "image": "https://img.lemde.fr/2026/11/09/356/0/2969/1484/644/322/60/0/a01382d_upload-1-tyuy5m9n2vrl-000-32jc9kf.jpg"
+      "titre": "Conférence sociale : le gouvernement annonce une augmentation du smic de 1,6% pour le porter à 1502 euros net au 1er décembre",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-11-09T12:47:51+01:00",
+      "resume": "À l'occasion d'une conférence sociale réunissant syndicats et patronat, le gouvernement dirigé par Sébastien Lecornu a annoncé une revalorisation du Smic de 1,6 % au 1er décembre, portant le salaire minimum à 1 502 euros net. Cette réunion visait à apporter une réponse à la contestation sociale portée par les organisations syndicales et la jeunesse ces dernières semaines. Le gouvernement a par ailleurs reçu les représentants des lycéens et des étudiants, tout en maintenant le calendrier des épreuves du baccalauréat sans modification.",
+      "contexte": "Cette initiative intervient dans un climat de fortes tensions sur le pouvoir d'achat, accentuées par l'inflation persistante sur les dépenses courantes comme l'énergie et l'alimentation. La revalorisation du Smic sert traditionnellement à amortir l'érosion des bas salaires face au coût de la vie, mais les syndicats réclament souvent des hausses plus substantielles pour relancer la consommation. Pour l'exécutif, l'enjeu consiste à désamorcer la colère populaire et étudiante tout en évitant d'alourdir excessivement les charges financières des entreprises.",
+      "image": "https://www.franceinfo.fr/pictures/etdZ07N9jDqeyoa4wksTcRNbbIw/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af1ae5a52d55541339030.jpg"
     },
     {
-      "titre": "Ni la guerre, ni une pandémie : en France, le dérèglement climatique perçue comme la première menace",
-      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261109-ni-la-guerre-ni-une-pand%C3%A9mie-en-france-le-d%C3%A9r%C3%A8glement-climatique-per%C3%A7ue-comme-la-premi%C3%A8re-menace",
+      "titre": "Un match solidaire organisé pour les 500 jours de détention du journaliste Christophe Gleizes en Algérie",
+      "lien": "https://www.franceinfo.fr/sports/foot/un-match-solidaire-organise-pour-les-500-jours-de-detention-du-journaliste-christophe-gleizes-en-algerie_8274302.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T11:56:39+01:00",
+      "resume": "Un match de football solidaire est organisé ce mercredi à Paris à l'initiative de l'association Reporters sans frontières et de la mairie de la capitale. Cet événement marque les 500 jours de détention en Algérie du journaliste français Christophe Gleizes. La manifestation a pour but d'alerter l'opinion publique et de réclamer officiellement sa libération.",
+      "contexte": "L'exercice du journalisme indépendant en Algérie fait face à une surveillance accrue et à des poursuites régulières contre les professionnels des médias depuis plusieurs années. La situation des ressortissants ou journalistes étrangers détenus complique également les relations diplomatiques souvent sensibles entre Paris et Alger. Les organisations de défense de la presse multiplient traditionnellement ce type d'événements publics pour empêcher l'oubli médiatique et faire pression sur les autorités politiques.",
+      "image": "https://www.franceinfo.fr/pictures/1ouPUWkSbodeo70gZBJYYCvY0Pk/0x72:6000x3447/432x243/filters:format(jpg)/2026/11/09/6af199cd37365671220129.jpg"
+    },
+    {
+      "titre": "\"La résignation n'est pas une option\" : Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T11:55:03+01:00",
+      "resume": "Teddy Riner a annoncé lundi sur le réseau social X son intention de se présenter à l'élection présidentielle de 2027. Le champion olympique de judo a justifié sa démarche en déclarant que « la résignation n'est pas une option ». Cette prise de parole officialise l'entrée de l'athlète dans le champ politique pour le prochain scrutin national.",
+      "contexte": "Il est rare en France qu'une figure sportive de tout premier plan se lance directement dans une course à l'Élysée sans parcours politique ou mandat local préalable. Cette démarche intervient alors que le paysage électoral se recompose en vue de 2027, après deux mandats d'Emmanuel Macron qui ne pourra pas se représenter. L'annonce s'inscrit dans une tendance où des personnalités de la société civile misent sur leur forte notoriété pour tenter de dépasser la défiance envers les partis traditionnels.",
+      "image": "https://www.franceinfo.fr/pictures/FRY-75n0axq7SJRzxnouXFrOx0M/0x100:1024x676/432x243/filters:format(jpg)/2026/11/09/6af1a3c5c0258314024129.jpg"
+    },
+    {
+      "titre": "La Cour des comptes repart à la charge contre les niches fiscales",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/09/la-cour-des-comptes-repart-a-la-charge-contre-les-niches-fiscales_6808640_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-09T11:48:06+01:00",
+      "resume": "La Cour des comptes a publié un nouveau rapport critique sur les niches et exonérations fiscales en France, constatant que leur coût global a progressé de 42 % en vingt ans en euros constants. Le pays compte à ce jour 459 dispositifs dérogatoires de ce type. Les magistrats financiers ont averti que cette prolifération de régimes particuliers fragilise désormais la notion même de norme fiscale.",
+      "contexte": "Les niches fiscales sont traditionnellement créées pour encourager certains comportements économiques, comme l'investissement locatif, l'emploi à domicile ou la transition écologique. Cependant, elles représentent un manque à gagner considérable pour le budget de l'État et sont souvent accusées de profiter principalement aux contribuables les plus aisés. Dans une période où les finances publiques subissent de fortes contraintes pour résorber le déficit public, ces dérogations constituent une cible récurrente pour dégager des économies.",
+      "image": "https://img.lemde.fr/2023/04/17/154/0/3000/1500/644/322/60/0/c430bdb_1681717636668-ghr.jpg"
+    },
+    {
+      "titre": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-09T11:47:04+01:00",
+      "resume": "Lors d'une interview accordée à la chaîne américaine CBS, la candidate du Rassemblement national Marine Le Pen a soutenu que la France était « le pays le moins raciste du monde ». Elle a également affirmé que les flux migratoires déstabilisaient la société française, mettant en avant un taux de chômage des immigrés qu'elle décrit comme deux fois plus élevé. Ces déclarations contrastent toutefois avec les constats dressés par une étude officielle du Défenseur des droits.",
+      "contexte": "Marine Le Pen cherche régulièrement à soigner son image auprès des médias internationaux tout en maintenant les thématiques identitaires et migratoires au centre de son discours politique. La question des discriminations à l'embauche et au logement reste pourtant régulièrement documentée par les institutions républicaines indépendantes en France. L'argument économique lié au travail sert fréquemment au RN pour justifier sa volonté de restreindre drastiquement l'immigration légale.",
+      "image": "https://img.lemde.fr/2026/11/05/394/0/5638/2819/644/322/60/0/b5660ec_ftp-1-ygbclvh5nhdh-afp-d6ju6pv.jpg"
+    },
+    {
+      "titre": "Climat, déforestation, orpaillage... l'Amazonie lutte pour sa survie",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-climat-d%C3%A9forestation-orpaillage-l-amazonie-lutte-pour-sa-survie",
       "source": "France 24",
-      "date": "2026-11-10T00:02:51+01:00",
-      "resume": "Une étude du laboratoire d'idées Destin Commun indique que le dérèglement climatique est perçu par les Français comme la première menace extérieure, devançant le terrorisme, la crise économique ou les conflits armés. Cette perception fait suite à un été 2026 marqué par des canicules, des sécheresses et des incendies à répétition.",
-      "contexte": "La prise de conscience des enjeux climatiques s'accélère à mesure que les phénomènes météorologiques extrêmes se multiplient et touchent directement le territoire européen. Ce changement dans l'opinion publique reflète une inquiétude grandissante face aux impacts concrets du réchauffement global sur la sécurité, la santé et l'économie. Les autorités politiques font ainsi face à une pression accrue des citoyens pour intensifier les politiques d'atténuation et d'adaptation au changement climatique.",
-      "image": "https://s.france24.com/media/display/9e45da44-dc5f-11f1-9055-1beafce15fea/w:1024/p:16x9/000-C3HD7CU.jpg"
+      "date": "2026-11-09T11:42:56+01:00",
+      "resume": "La forêt amazonienne demeure gravement menacée par les effets du dérèglement climatique, l'avancée de la déforestation et les activités d'orpaillage illégal. Ces pressions multiples mettent en péril un écosystème déterminant pour la régulation climatique de la planète. Les populations locales et autochtones se retrouvent en première ligne face à ces dégradations environnementales croissantes.",
+      "contexte": "Le bassin amazonien constitue l'un des plus grands réservoirs de biodiversité et l'un des principaux puits de carbone au monde, essentiel pour absorber les émissions de gaz à effet de serre. L'exploitation forestière clandestine, l'élevage extensif et l'extraction d'or polluent les cours d'eau au mercure et provoquent des conflits territoriaux récurrents. La protection de cette zone représente un enjeu environnemental mondial majeur tout en constituant un sujet de souveraineté sensible pour les pays d'Amérique du Sud.",
+      "image": "https://s.france24.com/media/display/d15420fc-dc29-11f1-9e0b-d18c5759e759/w:1024/p:16x9/FR-20261109-093259-094053-CS.jpg"
     }
   ],
-  "culture": [],
-  "quiz_jour": [
+  "depuis_hier": [
     {
-      "id": "e1aad9fa6f",
-      "date": "2026-11-10",
-      "type": "actu",
-      "question": "Avec quel dirigeant Donald Trump s'est-il entretenu avant d'évoquer un « élan positif » vers un accord de paix avec l'Iran ?",
-      "choix": [
-        "Le premier ministre du Qatar",
-        "Le secrétaire général de l'ONU",
-        "Le président iranien",
-        "Le premier ministre israélien"
-      ],
-      "reponse": 0,
-      "explication": "Donald Trump a fait cette déclaration à la suite d'une rencontre avec le premier ministre du Qatar.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-evoque-un-elan-positif-vers-un-accord-de-paix-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3210.html",
-      "image": "https://img.lemde.fr/2026/11/09/92/0/3687/1843/644/322/60/0/b3213bf_ftp-1-mpd4h4jxtjle-878a7da22e6e44ed8d7605f9458f6cc5-0-2ba1d10be21b45c293ffe8b219cb886b.jpg"
+      "titre": "\"L'endroit s'est transformé, il y a de la boue partout chez nous\" : le quotidien de Burundais envahis par les eaux du lac Tanganyika, une conséquence du réchauffement climatique",
+      "lien": "https://www.franceinfo.fr/monde/afrique/burundi/l-endroit-s-est-transforme-il-y-a-de-la-boue-partout-chez-nous-le-quotidien-de-burundais-envahis-par-les-eaux-du-lac-tanganyika-une-consequence-du-rechauffement-climatique_8275232.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-09T23:44:38+01:00",
+      "resume": "La COP31 s'est ouverte ce lundi 9 novembre à Antalya, en Turquie, pour aborder les enjeux du réchauffement climatique et la protection des populations vulnérables. Un premier exemple a été mis en avant au Burundi, en Afrique de l'Est, où les eaux du lac Tanganyika envahissent des quartiers entiers. Cette situation pousse des familles à partir tandis que d'autres vivent au milieu des eaux, s'exposant ainsi à diverses maladies.",
+      "contexte": "Les conférences sur le climat réunissent chaque année les dirigeants mondiaux pour tenter de fixer des objectifs de réduction des émissions de gaz à effet de serre et de solidarité financière. Dans des régions fragiles comme l'Afrique de l'Est, la montée des eaux et les dérèglements météorologiques accentuent l'insécurité alimentaire et les déplacements de populations. Ces crises environnementales soulignent l'urgence pour les pays industrialisés de soutenir les nations du Sud face aux impacts directs du changement climatique.",
+      "image": "https://www.franceinfo.fr/pictures/Jtu51qqKgrfGxtK8kfJg8MMMmE4/115x0:1315x675/432x243/filters:format(jpg)/2026/11/09/6af24cbdd4776895047529.jpg"
     },
     {
-      "id": "a2451d719a",
-      "date": "2026-11-10",
-      "type": "actu",
-      "question": "Quelle entreprise gère la réforme des heures creuses d'électricité qui adapte les plages horaires selon les saisons en France ?",
-      "choix": [
-        "EDF",
-        "Enedis",
-        "Engie",
-        "RTE"
-      ],
-      "reponse": 1,
-      "explication": "C'est le gestionnaire du réseau de distribution d'électricité Enedis qui déploie cette réforme pour 9,3 millions de clients.",
-      "lien": "https://www.lemonde.fr/planete/article/2026/11/10/heures-creuses-d-electricite-enedis-adapte-les-plages-horaires-selon-les-saisons-pour-9-3-millions-de-clients_6808707_3244.html",
-      "image": "https://img.lemde.fr/2026/11/09/356/0/2969/1484/644/322/60/0/a01382d_upload-1-tyuy5m9n2vrl-000-32jc9kf.jpg"
+      "titre": "Afrique du Sud : la déroute de l'ANC, parti de Nelson Mandela, aux municipales",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261109-afrique-du-sud-la-d%C3%A9route-de-l-anc-parti-de-nelson-mandela-aux-municipales",
+      "source": "France 24",
+      "date": "2026-11-09T23:20:53+01:00",
+      "resume": "Le Congrès national africain (ANC), parti dominant en Afrique du Sud depuis la fin de l'apartheid, a obtenu 30,76 % des voix aux élections municipales. Il s'agit du pire score de l'histoire du parti, selon les résultats définitifs annoncés dimanche par la commission électorale. Aucun parti n'ayant remporté la majorité absolue dans de nombreuses municipalités, ces résultats ouvrent la voie à des négociations ardues pour former des coalitions dans plusieurs grandes villes.",
+      "contexte": "Cette déroute historique reflète l'usure du pouvoir de l'ANC, souvent critiqué pour la persistance des inégalités socio-économiques, le chômage élevé et les scandales de corruption dans le pays. Le paysage politique sud-africain se fragmente de plus en plus, obligeant les formations politiques à multiplier les alliances locales. Cette instabilité municipale pourrait compliquer la gestion des services publics dans les grands centres urbains.",
+      "image": "https://s.france24.com/media/display/8c3f209e-dc82-11f1-aee4-a575454bc579/w:1024/p:16x9/FRAN261109-2141-Live-01.jpg"
     },
     {
-      "id": "1a96c79ec3",
-      "date": "2026-11-10",
-      "type": "actu",
-      "question": "Selon une étude du laboratoire d'idées Destin Commun, quel est le principal danger perçu par les Français parmi les menaces extérieures ?",
-      "choix": [
-        "Le terrorisme",
-        "La crise économique",
-        "Les conflits armés",
-        "Le dérèglement climatique"
-      ],
-      "reponse": 3,
-      "explication": "Le dérèglement climatique est perçu par les Français comme la première menace extérieure, devançant notamment le terrorisme et la crise économique.",
-      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261109-ni-la-guerre-ni-une-pand%C3%A9mie-en-france-le-d%C3%A9r%C3%A8glement-climatique-per%C3%A7ue-comme-la-premi%C3%A8re-menace",
-      "image": "https://s.france24.com/media/display/9e45da44-dc5f-11f1-9055-1beafce15fea/w:1024/p:16x9/000-C3HD7CU.jpg"
+      "titre": "Jérôme Banctel élu \"cuisinier de l'année 2027\" par le guide Gault et Millau",
+      "lien": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/jerome-banctel-elu-cuisinier-de-l-annee-2027-par-le-guide-gault-et-millau_8275241.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T23:13:28+01:00",
+      "resume": "Le chef du restaurant Gabriel à Paris, Jérôme Banctel, a été élu \"cuisinier de l'année 2027\" par le guide Gault et Millau ce lundi. Il remporte ainsi une distinction qui lui avait échappé de peu en novembre 2023.",
+      "contexte": "Le guide Gault et Millau est l'une des références majeures de la gastronomie française et internationale, récompensant chaque année l'excellence, la créativité et la régularité des chefs. Obtenir ce titre renforce la visibilité et la réputation des tables étoilées ou de renom. C'est souvent un accélérateur pour la fréquentation des établissements et la reconnaissance de la haute cuisine française.",
+      "image": "https://www.franceinfo.fr/pictures/9yhyCPm5mA8ZoiPKHMRSMo7o87g/0x72:1024x648/432x243/filters:format(jpg)/2026/11/09/6af24531f0e87735591904.jpg"
+    },
+    {
+      "titre": "Torture en Ukraine : que dit la photo de cet adolescent ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261109-torture-en-ukraine-que-dit-la-photo-de-cet-adolescent",
+      "source": "France 24",
+      "date": "2026-11-09T23:08:24+01:00",
+      "resume": "Les sphères pro-russes ont relayé une photo et des vidéos devenues virales montrant un adolescent ukrainien terrifié et escorté, présenté à tort comme la victime d'un centre de torture ukrainien. Or, ces images sont trompeuses et aucune preuve de torture n'a pu être apportée.",
+      "contexte": "Dans le cadre de la guerre en information qui accompagne le conflit en Ukraine, la désinformation est fréquemment utilisée pour discréditer l'adversaire ou manipuler l'opinion publique internationale. La publication de fausses accusations de crimes de guerre vise généralement à susciter l'indignation et à brouiller la perception des réalités du terrain. La vérification par les faits (fact-checking) est devenue un outil indispensable pour démonter ces campagnes de propagande.",
+      "image": "https://s.france24.com/media/display/3dcbd7ca-dc89-11f1-8209-d18c5759e759/w:1024/p:16x9/FRAN261109-2115-Live-CS2115.jpg"
+    },
+    {
+      "titre": "Au Cameroun, le président Paul Biya convoque des législatives et municipales le 7 février",
+      "lien": "https://www.franceinfo.fr/monde/afrique/cameroun/au-cameroun-le-president-paul-biya-convoque-des-legislatives-et-municipales-le-7-fevrier_8275235.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-09T23:01:07+01:00",
+      "resume": "Le président du Cameroun, Paul Biya, a convoqué des élections législatives et municipales pour le 7 février. Ce rendez-vous électoral sera le premier depuis sa réélection en octobre 2025, un résultat qui avait été contesté par l'opposition et une partie de la population.",
+      "contexte": "Au pouvoir depuis des décennies, Paul Biya fait face à des contestations récurrentes sur la transparence démocratique et l'alternance politique au Cameroun. L'organisation de scrutins locaux et législatifs constitue un test important pour mesurer le poids de l'opposition dans les différentes régions du pays. Ces élections se déroulent dans un climat social et politique souvent tendu, marqué par des revendications sécuritaires et institutionnelles.",
+      "image": "https://www.franceinfo.fr/pictures/CUVTFnUBg265OpfOJqbnSA1oF7w/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af24125e0c7a695709795.jpg"
+    },
+    {
+      "titre": "Aux Etats-Unis, une procédure de destitution contre le ministre de la Défense a été lancée au Congrès",
+      "lien": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-procedure-de-destitution-contre-le-ministre-de-la-defense-a-ete-lancee-au-congres_8275211.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T22:46:43+01:00",
+      "resume": "Aux États-Unis, le député Thomas Massie a lancé une procédure de destitution contre le ministre de la Défense, Pete Hegseth, au Congrès. Il dénonce notamment la guerre en Iran et la manière dont ce dernier l'a menée.",
+      "contexte": "La procédure de destitution (ou impeachment) est un outil constitutionnel rare aux États-Unis, utilisé par le Congrès pour contester les actions ou la légitimité de membres de l'exécutif. Les désaccords sur la gestion des conflits armés internationaux et l'engagement militaire à l'étranger provoquent fréquemment des tensions entre l'administration et certains parlementaires. Cela illustre les divisions politiques profondes sur la doctrine de défense américaine.",
+      "image": "https://www.franceinfo.fr/pictures/rBmc5RhY1wHaSmqjF1UxNytpWYI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af23f3350360823775239.jpg"
+    },
+    {
+      "titre": "Plus de 200 défenseurs de l’environnement tués aux Philippines ces dernières années",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/plus-de-200-defenseurs-de-l-environnement-tues-aux-philippines-ces-dernieres-annees_8275223.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-09T22:43:05+01:00",
+      "resume": "Aux Philippines, plus de 200 défenseurs de l'environnement ont été tués ces dernières années. Des habitants s'opposent aux compagnies minières pour défendre leurs terres ainsi qu'à l'abattage illégal d'arbres, subissant des intimidations, des menaces de mort et la peur constante d'être les prochains ciblés dans cet archipel.",
+      "contexte": "Les Philippines figurent parmi les pays les plus dangereux au monde pour les militantes et militants écologistes, en raison de la puissance des intérêts industriels liés à l'exploitation minière et forestière. L'impunité relative et la corruption locale compliquent la protection de ces défenseurs des droits humains. Ces violences soulignent le coût humain dramatique de l'exploitation des ressources naturelles dans les zones sensibles.",
+      "image": "https://www.franceinfo.fr/pictures/TpYaE6P09B7sq-Ux99CF0B59GYw/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af23cf838e2f955323049.jpg"
+    },
+    {
+      "titre": "Deux ans de prison avec sursis ont été requis contre le navigateur Kevin Escoffier, jugé pour agressions sexuelles",
+      "lien": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/deux-ans-de-prison-avec-sursis-ont-ete-requis-contre-le-navigateur-kevin-escoffier-juge-pour-agressions-sexuelles_8275199.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-09T22:21:46+01:00",
+      "resume": "Deux ans de prison avec sursis ont été requis contre le navigateur Kevin Escoffier, jugé pour agressions sexuelles. Le ministère public a également demandé une obligation de soins et une interdiction d'exercer sa profession pour une durée de deux ans à son encontre.",
+      "contexte": "Les affaires de violences sexuelles et sexistes dans le milieu sportif et nautique font l'objet d'une attention judiciaire et médiatique accrue depuis plusieurs années, dans le sillage du mouvement #MeToo. Les procureurs s'attachent à prononcer des peines d'inéligibilité ou d'interdiction d'exercer pour protéger les environnements professionnels. Le jugement définitif permettra de statuer sur la culpabilité et la sanction applicable.",
+      "image": "https://www.franceinfo.fr/pictures/HXFkHephK-3Q1hIgc6eEt09NF78/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af235cd40164542438199.jpg"
     }
-  ]
+  ],
+  "aujourdhui": [
+    {
+      "titre": "\"Ça ne représente pas mes valeurs\" : les trois policiers jugés pour l'agression de Michel Zecler rejettent tout racisme au premier jour de leur procès",
+      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/ca-ne-represente-pas-mes-valeurs-les-trois-policiers-juges-pour-l-agression-de-michel-zecler-rejettent-tout-racisme-au-premier-jour-de-leur-proces_8275163.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-10T09:06:03+01:00",
+      "resume": "Le procès de trois policiers jugés pour l'agression de Michel Zecler s'est ouvert ce lundi, les précusés rejetant tout racisme en affirmant que cela ne représente pas leurs valeurs et en s'efforçant de présenter une image lisse.",
+      "contexte": "Cette affaire, qui découle d'un contrôle violent filmé et largement diffusé, avait provoqué une vive émotion nationale et relancé le débat sur les violences policières et le contrôle des forces de l'ordre en France. Les procès de ce type mettent en lumière la question du racisme systémique et de la déontologie au sein de la police. Les débats judiciaires doivent établir précisément les responsabilités individuelles des agents impliqués.",
+      "image": "https://www.franceinfo.fr/pictures/IttV-Q2djH0MTQ-7HWDemJcXUVM/0x11:1962x1114/432x243/filters:format(jpg)/2026/11/09/6af231d17c8a6728727138.jpg"
+    },
+    {
+      "titre": "Le couple présidentiel a déposé une nouvelle plainte en diffamation contre l'influenceuse complotiste Candace Owens",
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/brigitte-macron/le-couple-presidentiel-a-depose-une-nouvelle-plainte-en-diffamation-contre-l-influenceuse-complotiste-candace-owens_8275838.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-11-10T09:02:30+01:00",
+      "resume": "Le couple présidentiel français a déposé une nouvelle plainte en diffamation contre l'influenceuse complotiste américaine Candace Owens, résidant dans le Tennessee. Cette démarche fait suite à un premier revers procédural aux États-Unis et vise à sanctionner la diffusion de fausses informations affirmant que Brigitte Macron serait une personne transgenre.",
+      "contexte": "La propagation de théories du complot et de fausses informations transphobes visant des personnalités publiques s'est intensifiée avec l'essor des réseaux sociaux à l'échelle internationale. Face à l'impact de ces rumeurs transfrontalières, les personnalités concernées choisissent de plus en plus de mener des batailles juridiques sur plusieurs continents pour protéger leur réputation. Ces procédures visent à responsabiliser les créateurs de contenus et les plateformes face à la diffamation en ligne.",
+      "image": "https://www.franceinfo.fr/pictures/h4eWvLh_n4VpE1fjRuxTss6ui8I/0x66:1024x642/432x243/filters:format(jpg)/2026/11/10/6af2bb5be31ca060945686.jpg"
+    },
+    {
+      "titre": "Manifestations du 10 novembre : étudiants, lycéens et enseignants appellent à une nouvelle journée d'action mardi",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-10T09:01:35+01:00",
+      "resume": "Près de deux mois après le début du mouvement de contestation de la jeunesse, les discussions avec l'exécutif sont dans l'impasse, ce qui a motivé un appel à une nouvelle journée d'action ce mardi par des étudiants, lycéens et enseignants. En parallèle, la première réunion du comité de réforme de Parcoursup organisée lundi soir à Matignon autour du Premier ministre a tourné court, plusieurs représentants de l'intersyndicale lycéenne et étudiante l'ayant quittée en affirmant ne jamais vouloir entrer dans une salle avec l'extrême droite.",
+      "contexte": "La contestation lycéenne et étudiante s'articule souvent autour des conditions d'études, des réformes des examens ou de l'orientation post-bac, des sujets particulièrement sensibles en France. Les tensions liées à la composition des instances de concertation ou à la présence de certains mouvements politiques peuvent bloquer le dialogue social. L'objectif gouvernemental est généralement de désamorcer la crise par le compromis, tandis que les syndicats maintiennent la pression par la rue.",
+      "image": "https://www.franceinfo.fr/pictures/dzByEQVo5Hi1CYaw-f1uo-t19vQ/0x18:1024x594/432x243/filters:format(jpg)/2026/11/10/6af2a6c845dc6543367963.jpg"
+    },
+    {
+      "titre": "Emmanuel Macron estime qu'il faut \"interdire\" l'IA là où elle comporte un \"risque\" pour les enfants",
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-estime-qu-il-faut-interdire-l-ia-la-ou-elle-comporte-un-risque-pour-les-enfants_8275799.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-10T08:37:35+01:00",
+      "resume": "Le président français Emmanuel Macron a estimé qu'il fallait interdire l'intelligence artificielle là où elle comporte un risque pour les enfants. Cette déclaration, relayée par le quotidien Les Échos, intervient à la veille de l'adoption d'une charte sur le sujet au Forum de Paris sur la paix.",
+      "contexte": "L'encadrement de l'intelligence artificielle, en particulier pour la protection des mineurs face aux contenus inadaptés, à la désinformation ou aux risques pour la santé mentale, est devenu un enjeu prioritaire pour les régulateurs mondiaux. L'Union européenne et la France cherchent à imposer des garde-fous stricts aux géants de la tech. Ces initiatives visent à anticiper les dérives technologiques tout en favorisant l'innovation éthique.",
+      "image": "https://www.franceinfo.fr/pictures/0xNaAe0Tpdc8fH_zvi47tl0Npxc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af2b7a25d9f4313988542.jpg"
+    },
+    {
+      "titre": "\"Le marché du travail tient bien\", note Jean-Pierre Farandou qui parle d'une baisse \"satisfaisante\" du chômage",
+      "lien": "https://www.franceinfo.fr/economie/emploi/chomage/chomage-le-marche-du-travail-tient-bien-note-jean-pierre-farandou-qui-parle-d-une-baisse-satisfaisante_8275784.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-10T08:37:14+01:00",
+      "resume": "Le ministre du Travail Jean-Pierre Farandou a jugé que le marché du travail tenait bien et a salué une baisse satisfaisante du chômage, réagissant ainsi aux données de l'Insee publiées mardi montrant que le taux de chômage en France reste quasiment stable au troisième trimestre, à 8,2%. Toutefois, sur un an, il enregistre une hausse de 0,4 point par rapport au troisième trimestre 2025. Le ministre est également revenu sur la revalorisation du smic lors de son intervention.",
+      "contexte": "L'évolution du taux de chômage est un indicateur économique et politique crucial pour mesurer la santé d'un pays et l'efficacité des politiques de l'emploi. Malgré des fluctuations conjoncturelles, les gouvernements tentent de rassurer sur la résilience du marché du travail face aux incertitudes économiques. Les chiffres de l'Insee servent de base aux débats sur le pouvoir d'achat et la fiscalité.",
+      "image": "https://www.franceinfo.fr/pictures/DVW5cVjoq_nN2Z_EDQzwssywqRA/14x0:1677x935/432x243/filters:format(jpg)/2026/11/10/6af2c44e5f271824123615.png"
+    },
+    {
+      "titre": "Donald Trump dit voir \"un élan positif\" vers un accord avec l'Iran, après sa rencontre avec le Premier ministre qatarien",
+      "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-dit-voir-un-elan-positif-vers-un-accord-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-qatari_8275775.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-10T08:33:20+01:00",
+      "resume": "Donald Trump a déclaré voir un élan positif vers un accord avec l'Iran à la suite de sa rencontre avec le Premier ministre qatarien, tandis que le secrétaire du Conseil suprême de sécurité nationale iranien a rétorqué en appelant à arrêter de fabriquer de fausses informations à propos de discussions imaginaires. En parallèle, la France a affirmé qu'elle ne s'interdisait rien dans sa riposte contre l'Iran, accusé d'être à l'origine d'une cyberattaque contre des frigos connectés en octobre. Le ministre des Affaires étrangères Jean-Noël Barrot a promis des sanctions contre les Gardiens de la Révolution, évoquant des interdictions d'entrer sur le territoire européen, des gels d'avoirs et des immobilisations d'actifs financiers.",
+      "contexte": "Les relations géopolitiques avec l'Iran restent extrêmement tendues, oscillant entre tentatives de médiation diplomatique internationale et menaces de sanctions directes en raison d'activités cybernétiques malveillantes ou de programmes nucléaires. Les déclarations de dirigeants étrangers suscitent souvent des démentis véhéments de Téhéran, illustrant la complexité du dialogue. De leur côté, les pays européens cherchent à se protéger des ingérences et des cyberattaques par des mesures de rétorsion ciblées.",
+      "image": "https://www.franceinfo.fr/pictures/ZG9yYeO537lvlgSQbbhcx4QSfPE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af2b23a773b2066536974.jpg"
+    }
+  ],
+  "culture": [
+    {
+      "theme": "origine des grands événements ou conflits actuels",
+      "titre": "La question du Sahara occidental",
+      "texte": "Le conflit au Sahara occidental trouve ses racines dans la décolonisation de l'Afrique par l'Espagne à partir de 1975. À cette période, le Maroc a revendiqué la souveraineté sur ce territoire riche en phosphates, tandis que le Front Polisario réclamait l'indépendance totale. Un cessez-le-feu a été instauré sous l'égide des Nations unies en 1991, prévoyant initialement un référendum d'autodétermination qui n'a jamais eu lieu. Aujourd'hui, la zone reste divisée par un mur de sable et demeure un point de tension diplomatique majeur en Afrique du Nord. La communauté internationale continue de chercher une solution politique durable à ce différend territorial.",
+      "a_retenir": "Le conflit oppose le Maroc au Front Polisario depuis le départ de l'administration coloniale espagnole dans les années 1970.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Western_Sahara_%28orthographic_projection%29.svg/960px-Western_Sahara_%28orthographic_projection%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "theme": "histoire",
+      "titre": "La chute de Constantinople",
+      "texte": "En 1453, la ville de Constantinople, capitale de l'Empire byzantin, est tombée entre les mains des troupes ottomanes dirigées par le sultan Mehmed II. Cet événement marque la fin symbolique du Moyen Âge et la disparition définitive de l'Empire romain d'Orient après plus d'un millénaire d'existence. La prise de la cité a provoqué l'exode de nombreux savants grecs vers l'Italie, contribuant ainsi à l'essor de la Renaissance européenne. Elle a également poussé les puissances occidentales à chercher de nouvelles routes maritimes vers les Indes, favorisant les grandes découvertes. Cette transition historique a profondément modifié l'équilibre géopolitique entre l'Orient et l'Occident.",
+      "a_retenir": "La chute de Constantinople en 1453 est considérée comme l'événement charnière marquant la fin du Moyen Âge.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Benjamin-Constant-The_Entry_of_Mahomet_II_into_Constantinople-1876.jpg/960px-Benjamin-Constant-The_Entry_of_Mahomet_II_into_Constantinople-1876.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "theme": "économie",
+      "titre": "Le concept de la destruction créatrice",
+      "texte": "Théorisée par l'économiste Joseph Schumpeter, la destruction créatrice décrit le processus par lequel l'innovation technologique transforme l'économie. Lorsqu'une nouvelle invention apparaît, elle rend souvent obsolètes les anciennes méthodes de production et les entreprises traditionnelles. Ce phénomène entraîne inévitablement la disparition de certains secteurs, mais génère simultanément de nouvelles activités plus productives. C'est un moteur essentiel de la croissance économique à long terme, bien qu'il puisse causer des perturbations sociales temporaires. En somme, le capitalisme se régénère en détruisant ce qui est dépassé pour bâtir ce qui est nouveau.",
+      "a_retenir": "La destruction créatrice est le mécanisme par lequel l'innovation renouvelle en permanence le tissu productif en éliminant les secteurs obsolètes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Joseph_Schumpeter_ekonomialaria.jpg/960px-Joseph_Schumpeter_ekonomialaria.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "quiz_jour": []
 }
