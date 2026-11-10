@@ -4714,6 +4714,54 @@
       "explication": "Le courant électrique n'est nécessaire que lors du changement de page, l'écran pouvant conserver le texte indéfiniment sans alimentation.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "e1aad9fa6f",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Avec quel dirigeant Donald Trump s'est-il entretenu avant d'évoquer un « élan positif » vers un accord de paix avec l'Iran ?",
+      "choix": [
+        "Le premier ministre du Qatar",
+        "Le secrétaire général de l'ONU",
+        "Le président iranien",
+        "Le premier ministre israélien"
+      ],
+      "reponse": 0,
+      "explication": "Donald Trump a fait cette déclaration à la suite d'une rencontre avec le premier ministre du Qatar.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-evoque-un-elan-positif-vers-un-accord-de-paix-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3210.html",
+      "image": "https://img.lemde.fr/2026/11/09/92/0/3687/1843/644/322/60/0/b3213bf_ftp-1-mpd4h4jxtjle-878a7da22e6e44ed8d7605f9458f6cc5-0-2ba1d10be21b45c293ffe8b219cb886b.jpg"
+    },
+    {
+      "id": "a2451d719a",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quelle entreprise gère la réforme des heures creuses d'électricité qui adapte les plages horaires selon les saisons en France ?",
+      "choix": [
+        "EDF",
+        "Enedis",
+        "Engie",
+        "RTE"
+      ],
+      "reponse": 1,
+      "explication": "C'est le gestionnaire du réseau de distribution d'électricité Enedis qui déploie cette réforme pour 9,3 millions de clients.",
+      "lien": "https://www.lemonde.fr/planete/article/2026/11/10/heures-creuses-d-electricite-enedis-adapte-les-plages-horaires-selon-les-saisons-pour-9-3-millions-de-clients_6808707_3244.html",
+      "image": "https://img.lemde.fr/2026/11/09/356/0/2969/1484/644/322/60/0/a01382d_upload-1-tyuy5m9n2vrl-000-32jc9kf.jpg"
+    },
+    {
+      "id": "1a96c79ec3",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Selon une étude du laboratoire d'idées Destin Commun, quel est le principal danger perçu par les Français parmi les menaces extérieures ?",
+      "choix": [
+        "Le terrorisme",
+        "La crise économique",
+        "Les conflits armés",
+        "Le dérèglement climatique"
+      ],
+      "reponse": 3,
+      "explication": "Le dérèglement climatique est perçu par les Français comme la première menace extérieure, devançant notamment le terrorisme et la crise économique.",
+      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261109-ni-la-guerre-ni-une-pand%C3%A9mie-en-france-le-d%C3%A9r%C3%A8glement-climatique-per%C3%A7ue-comme-la-premi%C3%A8re-menace",
+      "image": "https://s.france24.com/media/display/9e45da44-dc5f-11f1-9055-1beafce15fea/w:1024/p:16x9/000-C3HD7CU.jpg"
     }
   ]
 }

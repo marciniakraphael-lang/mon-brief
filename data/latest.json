@@ -1,364 +1,87 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "mode": "evening",
-  "updated": "2026-11-09T16:01:41.491014+01:00",
-  "deja_presente": [
-    {
-      "titre": "\"Un acte criminel\": le domicile d'un policier incendié en raison de sa profession selon le ministre de l'intérieur Laurent Nuñez",
-      "lien": "https://france3-regions.franceinfo.fr/occitanie/gers/auch/un-acte-criminel-le-domicile-d-un-policier-incendie-en-raison-de-sa-profession-selon-le-ministre-de-l-interieur-laurent-nunez-3446172.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T11:31:08+01:00",
-      "resume": "Deux incendies d'origine criminelle ont été signalés ce week-end en France. À Auch, la maison d'un policier a été détruite, un acte lié à sa profession selon le ministre de l'Intérieur Laurent Nuñez. Par ailleurs, des locaux du Conseil départemental de la Charente ont été incendiés à Angoulême.",
-      "contexte": "Ces actes soulèvent des inquiétudes sur la sécurité des agents de l'État et des bâtiments publics. Les enquêtes en cours visent à identifier les auteurs et à déterminer si ces événements isolés reflètent une montée des tensions contre les institutions.",
-      "image": "https://www.franceinfo.fr/pictures/Dwsh9FdyeZ7AyNnVDPQh4jNaEKg/432x243/filters:format(jpg)/2026/11/08/6af037b717a10637139622.jpg"
-    },
-    {
-      "titre": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale",
-      "lien": "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T11:22:23+01:00",
-      "resume": "À l'approche de l'élection présidentielle, l'expert Nicolas Hubé rappelle les précautions nécessaires pour interpréter les sondages d'opinion. Il souligne qu'il est essentiel pour les citoyens de savoir lire les chiffres et de comprendre la méthodologie pour éviter les mauvaises interprétations.",
-      "contexte": "En période électorale, la multiplication des sondages peut influencer le débat public et la perception des candidats. La compréhension des marges d'erreur et des échantillons est jugée cruciale par les spécialistes pour garantir une information éclairée.",
-      "image": "https://www.franceinfo.fr/pictures/NgdX-9M3zydTtnbjuioqwcKqGKs/0x478:9186x5645/432x243/filters:format(jpg)/2026/11/06/6aee40116c20a280238590.jpg"
-    },
-    {
-      "titre": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
-      "lien": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-11-08T11:17:11+01:00",
-      "resume": "Un homme a ouvert le feu sur des passants à Cracovie, en Pologne, samedi, tuant six personnes et faisant 16 blessés. Le ministre de l'Intérieur a indiqué que le suspect, dont trois autres corps ont été découverts au domicile, était vraisemblablement fasciné par des idéologies d'extrême droite. Le Premier ministre Donald Tusk a qualifié l'attaque d'acte terroriste.",
-      "contexte": "La montée de l'extrémisme est un sujet de vigilance accrue pour les autorités européennes. Cet événement tragique dans une ville touristique majeure de Pologne interroge sur la prévention de la radicalisation et la sécurité publique face à des profils isolés.",
-      "image": "https://www.franceinfo.fr/pictures/QNOOq7XAUw7mVHpRcNL0b6EMxas/0x60:1024x636/432x243/filters:format(jpg)/2026/11/07/6aef76bd1aa73040905605.jpg"
-    },
-    {
-      "titre": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T11:13:48+01:00",
-      "resume": "Des frappes russes ont ciblé les infrastructures énergétiques des régions de Dnipropetrovsk et de Kharkiv en Ukraine, dans la nuit de samedi à dimanche. Ces attaques, qui font suite à une offensive similaire la veille, privent des centaines de milliers d'habitants d'électricité.",
-      "contexte": "Le ciblage des réseaux électriques est une stratégie récurrente dans le conflit ukrainien, visant à affaiblir la résilience de la population civile et les capacités logistiques du pays à l'approche de l'hiver.",
-      "image": "https://www.franceinfo.fr/pictures/rLP8iNV9y9dvjTuFBb1SNzNh8Ds/0x105:1024x681/432x243/filters:format(jpg)/2026/11/08/6af04afd9ed6b794206062.jpg"
-    },
-    {
-      "titre": "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés",
-      "lien": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-7-dans-le-centre-du-japon-fait-plusieurs-blesses_8273036.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T11:03:07+01:00",
-      "resume": "Un séisme de magnitude 5,7 a frappé le centre du Japon, causant plusieurs blessés. Le pays, situé à la jonction de quatre plaques tectoniques, est régulièrement exposé aux secousses sismiques et concentre près de 18 % des séismes mondiaux annuels.",
-      "contexte": "La sismicité élevée du Japon a conduit le pays à adopter des normes de construction antisismiques parmi les plus strictes au monde. Malgré ces mesures, les secousses de moyenne et forte magnitude restent un risque constant pour la population et les infrastructures.",
-      "image": "https://www.franceinfo.fr/pictures/ZPK5SItvy6TseTpUB0upYadBow0/0x30:1024x606/432x243/filters:format(jpg)/2026/11/08/6af018e7aa39f072621171.jpg"
-    },
-    {
-      "titre": "Au large du Sénégal, 21 personnes sont mortes dans le naufrage d'une pirogue de migrants",
-      "lien": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T11:01:52+01:00",
-      "resume": "Le naufrage d'une pirogue de migrants au large du Sénégal a causé la mort de 21 personnes, selon un bilan provisoire annoncé samedi. Un seul rescapé a été retrouvé par les autorités locales.",
-      "contexte": "Le Sénégal est un point de départ fréquent pour les migrants tentant de rejoindre l'Europe par la mer. Ces traversées sont extrêmement périlleuses, et le nombre de naufrages reste élevé malgré les dispositifs de surveillance et les politiques migratoires en place.",
-      "image": "https://www.franceinfo.fr/pictures/tCpkSLAY-3nPXW6wKHgNZ1r8i2c/0x437:4200x2800/432x243/filters:format(jpg)/2026/11/08/6af046d6379ea647615467.jpg"
-    },
-    {
-      "titre": "Paraguay: le président destitué Santiago Peña placé en détention préventive",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-paraguay-le-pr%C3%A9sident-destitu%C3%A9-santiago-pe%C3%B1a-plac%C3%A9-en-d%C3%A9tention-pr%C3%A9ventive",
-      "source": "France 24",
-      "date": "2026-11-08T11:00:11+01:00",
-      "resume": "Le président destitué du Paraguay, Santiago Peña, a été placé en détention préventive samedi. Il est inculpé dans le cadre de la faillite de l'Ueno Bank, une débâcle financière ayant affecté des millions d'épargnants au cours de la semaine.",
-      "contexte": "Cette affaire illustre une crise politique et économique majeure au Paraguay. La destitution et l'inculpation d'un chef d'État marquent une instabilité institutionnelle qui, couplée à une crise bancaire, pèse lourdement sur la confiance des citoyens envers leurs dirigeants.",
-      "image": "https://s.france24.com/media/display/99a9ad2e-db58-11f1-8036-695cb59fade5/w:1024/p:16x9/FR-20261108-081835-082015-CS.jpg"
-    },
-    {
-      "titre": "Robi Morder : \"ce qu'il s'est passé en Serbie encourage cette idée du possible chez les jeunes\"",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261107-robi-morder-ce-qu-il-s-est-pass%C3%A9-en-serbie-encourage-cette-id%C3%A9e-du-possible-chez-les-jeunes",
-      "source": "France 24",
-      "date": "2026-11-08T10:58:11+01:00",
-      "resume": "Une nouvelle journée de mobilisation a eu lieu samedi en France, rassemblant 146 000 manifestants selon le ministère de l'Intérieur, dont 46 000 à Paris. Ce mouvement, qui proteste contre la vie chère et porte des revendications pour la jeunesse, a donné lieu à au moins 360 interpellations. Ce rassemblement survient à deux jours d'une conférence sociale prévue à Matignon.",
-      "contexte": "Le contexte social en France est marqué par une inflation persistante et des revendications sur le pouvoir d'achat. Ces mobilisations, portées par divers acteurs sociaux, visent à faire pression sur le gouvernement avant des échéances de concertation nationale.",
-      "image": "https://s.france24.com/media/display/e5187432-dae7-11f1-9ee0-d18c5759e759/w:1024/p:16x9/Francais-2026-11-07T19-07-02-746Z.jpg"
-    }
-  ],
-  "depuis_hier": [
-    {
-      "titre": "Paracyclisme : le triplé fou de Tifany Huot-Marchand aux Mondiaux sur piste",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-paracyclisme-le-tripl%C3%A9-fou-de-tifany-huot-marchand-aux-mondiaux-sur-piste",
-      "source": "France 24",
-      "date": "2026-11-08T23:49:10+01:00",
-      "resume": "Tifany Huot-Marchand a remporté trois médailles d'or lors des Championnats du monde de paracyclisme sur piste. Âgée de 32 ans, la sportive française avait été victime en 2022 d'un très grave accident lors d'une compétition de patinage de vitesse, après lequel les médecins estimaient qu'elle risquait de ne plus pouvoir marcher. Après une phase de rééducation, elle s'est imposée parmi l'élite internationale et vise désormais les Jeux paralympiques de Los Angeles en 2028.",
-      "contexte": "Cette trajectoire illustre la capacité de reconversion sportive de haut niveau permise par les structures paralympiques après un accident invalidant. Le paracyclisme sur piste exige des qualités d'explosivité et d'endurance très proches de celles du patinage de vitesse sur courte piste. Ce succès renforce la position de l'équipe de France sur la scène internationale dans l'optique du cycle préparatoire aux prochains Jeux.",
-      "image": "https://s.france24.com/media/display/1850aa0c-dbc6-11f1-8d80-d18c5759e759/w:1024/p:16x9/FRA-NEWS-08-11-2026-19-59-ING10-CLEAN-N2.jpg"
-    },
-    {
-      "titre": "Dialogue nationale en RD Congo : comment sortir de l'impasse ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261108-dialogue-nationale-en-rd-congo-comment-sortir-de-l-impasse",
-      "source": "France 24",
-      "date": "2026-11-08T22:37:48+01:00",
-      "resume": "En République démocratique du Congo, cinq personnalités de l'opposition réunies dans la coalition C64 cherchent à organiser des entrevues avec le président Félix Tshisekedi et son prédécesseur Joseph Kabila afin d'instaurer un dialogue national. De son côté, le pouvoir en place a menacé d'engager des poursuites judiciaires contre quiconque irait rencontrer l'ancien chef de l'État à Goma. Cette initiative intervient alors que le conflit armé persiste dans l'est du territoire et que l'horizon politique pointe vers l'élection de 2028.",
-      "contexte": "L'est de la RDC est en proie à des affrontements armés récurrents impliquant divers groupes rebelles, ce qui déstabilise profondément l'autorité étatique et aggrave la crise humanitaire. Les tensions entre Félix Tshisekedi et son prédécesseur Joseph Kabila compliquent tout consensus politique interne, le gouvernement soupçonnant régulièrement des collusions avec des forces hostiles. La tenue d'un dialogue inclusif est généralement vue par l'opposition comme un moyen d'éviter l'implosion sécuritaire et d'assurer un cadre électoral transparent.",
-      "image": "https://s.france24.com/media/display/1d2fef02-dbbb-11f1-876c-bf1914cabd52/w:1024/p:16x9/NW285664-O-01-20261108-01.jpg"
-    },
-    {
-      "titre": "La guerre des câbles sous-marins : \"les premières étapes d'une attaque de plus grande ampleur\"",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-guerre-des-cables-sous-marins-les-premieres-etapes-d-une-attaque-de-plus-grande-ampleur_8273729.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-08T21:15:58+01:00",
-      "resume": "La France et l'Europe font face à des vagues hebdomadaires de cyberattaques s'inscrivant dans le cadre d'une guerre hybride globale. Cette confrontation s'étend désormais aux fonds marins, où les câbles sous-marins qui transportent 99 % des télécommunications mondiales sont de plus en plus ciblés. Des spécialistes mettent en garde contre le risque que ces perturbations sous-marines constituent les prémices d'une opération d'ampleur bien plus vaste.",
-      "contexte": "Les câbles sous-marins forment la véritable colonne vertébrale d'Internet et des transactions financières internationales, reliant les continents sous des milliers de kilomètres d'eau. Leur vulnérabilité physique attire l'attention des puissances rivales qui peuvent chercher à collecter des données ou à menacer de coupures massives en cas de conflit géopolitique ouvert. Les marines occidentales ont ainsi renforcé la surveillance de ces zones pour prévenir des sabotages similaires à ceux observés sur d'autres infrastructures énergétiques européennes.",
-      "image": "https://www.franceinfo.fr/pictures/Frxyyjy0yuBtQjK4Awngi9HAtj0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af0d70a0859e430600611.jpg"
-    },
-    {
-      "titre": "\"Je dois me priver\" : ces Français qui retardent l'ouverture du chauffage à tout prix",
-      "lien": "https://www.franceinfo.fr/economie/je-n-ai-pas-chaud-du-tout-heureusement-que-je-m-active-pour-certains-francais-retarder-l-ouverture-du-chauffage-a-tout-prix_8273726.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T21:04:24+01:00",
-      "resume": "Face à la hausse continue des prix de l'électricité, du gaz et du fioul, une enquête récente indique que 72 % des ménages français affirment restreindre leur consommation énergétique. À l'approche de la baisse des températures, de nombreux particuliers expliquent retarder autant que possible la mise en route de leur système de chauffage. Cette démarche contrainte a pour principal objectif de limiter le montant des factures d'énergie à venir.",
-      "contexte": "Depuis la crise énergétique européenne déclenchée en 2022, les tarifs de l'énergie ont subi des ajustements à la hausse malgré les dispositifs d'amortissement tarifaire mis en place par les pouvoirs publics. Le poste de dépenses consacré à l'énergie pèse de manière disproportionnée sur le budget des foyers modestes et de ceux vivant dans des logements mal isolés. Cette précarité énergétique hivernale a également des répercussions sanitaires directes en favorisant l'humidité et les affections respiratoires.",
-      "image": "https://www.franceinfo.fr/pictures/aW3mMpA1RQQGt3BoTKpEQEdTCZM/0x428:997x990/432x243/filters:format(jpg)/2026/11/08/6af0d54d34ec4236304984.png"
-    },
-    {
-      "titre": "Présidentielle 2027 : Christine Lagarde tentée par l'Elysée après son départ de la Banque centrale europeénne ?",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-christine-lagarde-tentee-par-l-elysee_8273705.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T20:44:42+01:00",
-      "resume": "L'annonce de la démission anticipée de Christine Lagarde de la présidence de la Banque centrale européenne suscite des spéculations sur une éventuelle candidature à l'élection présidentielle française de 2027. Les familles politiques du centre et de la droite se trouvent actuellement en quête d'une figure capable d'assurer leur leadership. Le profil de l'ancienne ministre de l'Économie est ainsi évoqué comme une option potentielle pour ces mouvements.",
-      "contexte": "À l'approche de la fin du second mandat d'Emmanuel Macron, le bloc central cherche des figures d'envergure pour maintenir son assise face à la gauche et au Rassemblement national. Christine Lagarde bénéficie d'une stature internationale forgée au FMI puis à la BCE, ainsi que d'une expérience gouvernementale sous la présidence de Nicolas Sarkozy. Sa candidature dépendrait toutefois de sa volonté réelle de réintégrer l'arène électorale partisane après des années passées à la tête d'institutions indépendantes.",
-      "image": "https://www.franceinfo.fr/pictures/h2rpNg4HRnDQUJLUu93LgSwH9Ew/0x97:1254x802/432x243/filters:format(jpg)/2026/11/08/6af0d10b09d6f550682482.png"
-    },
-    {
-      "titre": "\"Ce n'est pas une vie\" : la détresse des réfugiés de Gaza inondés par les pluies",
-      "lien": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ce-n-est-pas-une-vie-la-detresse-des-refugies-de-gaza-inondes-par-les-pluies_8273663.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-08T19:23:36+01:00",
-      "resume": "De violentes pluies torrentielles ont submergé et anéanti les campements de fortune des réfugiés dans la bande de Gaza. Selon les alertes émises par l'ONU dès le mois d'octobre, près de deux millions de personnes, soit la quasi-totalité des habitants du territoire, se trouvent encore dépourvues d'abris adaptés face aux intempéries. Les familles déplacées doivent désormais faire face à l'arrivée de l'hiver dans des conditions de précarité extrême.",
-      "contexte": "Les destructions massives causées par les opérations militaires israéliennes ont anéanti une grande partie des logements et des infrastructures de base, contraignant la population à vivre sous des toiles de tente. L'arrivée de la saison des pluies aggrave brutalement le risque d'épidémies, de froid et d'insalubrité pour des civils déjà confrontés à des pénuries de nourriture et de soins. L'acheminement de matériel d'urgence et d'abris pérennes reste par ailleurs fortement entravé par les restrictions aux frontières.",
-      "image": "https://www.franceinfo.fr/pictures/fG3coCildvAGGfmJ4s89XHLMaiI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/08/6af0bdedc626a528303466.jpg"
-    },
-    {
-      "titre": "Après la victoire démocrate, le \"tout pétrole\" va-t-il être remis en cause aux États-Unis ?",
-      "lien": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/apres-la-victoire-democrate-le-tout-petrole-va-t-il-etre-remis-en-cause-aux-etats-unis_8232076.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-08T17:23:40+01:00",
-      "resume": "À la suite de la victoire démocrate au Congrès américain, des interrogations émergent quant à l'avenir de la politique énergétique fondée sur les hydrocarbures aux États-Unis. La précédente gestion sous la présidence de Donald Trump avait largement favorisé les compagnies pétrolières et gazières. Les nouveaux équilibres parlementaires pourraient réorienter les priorités législatives en matière d'énergie et de régulation environnementale.",
-      "contexte": "Les États-Unis sont devenus l'un des premiers producteurs mondiaux de pétrole brut et de gaz naturel liquéfié, ce qui renforce leur indépendance stratégique mais complique leurs engagements de réduction des émissions de carbone. Les démocrates privilégient généralement les subventions aux énergies renouvelables et un encadrement plus strict des forages, tandis que les républicains défendent la rentabilité et l'emploi liés aux énergies fossiles. Le contrôle du Congrès détermine directement la politique fiscale et les autorisations d'infrastructures accordées au secteur énergétique.",
-      "image": "https://www.franceinfo.fr/pictures/NeqlRGwjBh25MG8CurBvi2RVGj8/0x15:5182x2930/432x243/filters:format(jpg)/2026/11/08/6af056612401e828923368.jpg"
-    },
-    {
-      "titre": "En Israël, Gadi Eisenkot affirme que le Likoud, parti de Benyamin Nétanyahou, est bienvenu pour former une coalition gouvernementale",
-      "lien": "https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-affirme-que-le-likoud-parti-de-benyamin-netanyahou-est-bienvenu-pour-former-une-coalition-gouvernementale_8273507.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-08T17:00:51+01:00",
-      "resume": "Le président israélien a officiellement confié à Gadi Eisenkot, chef du principal bloc d'opposition, la tâche de former le prochain gouvernement. Dans la foulée, ce dernier a déclaré que le Likoud, la formation politique de Benyamin Nétanyahou, était le bienvenu pour participer à une coalition. En parallèle, les citoyens arabes et notamment les Bédouins du Néguev, qui dénoncent des discriminations et des expulsions après quatre années dominées par la droite et l'extrême droite, réclament une représentation au sein d'un exécutif orienté à gauche.",
-      "contexte": "Le système électoral israélien, caractérisé par une proportionnelle intégrale, oblige presque systématiquement à de complexes négociations de coalition pour obtenir une majorité à la Knesset. L'ouverture envers le Likoud montre la volonté de constituer un attelage politique stable après plusieurs scrutins disputés, bien que les divergences programmatiques soient profondes. La question de l'intégration des partis représentant la minorité arabe demeure quant à elle un sujet hautement polarisant dans la vie politique du pays.",
-      "image": "https://www.franceinfo.fr/pictures/cJKpS-vA0jbWlRmFqUlQVmhe9Fo/0x46:1024x622/432x243/filters:format(jpg)/2026/11/08/6af09a12d797a775922896.jpg"
-    }
-  ],
+  "updated": "2026-11-10T02:15:49.322920+01:00",
+  "deja_presente": [],
+  "depuis_hier": [],
   "aujourdhui": [
     {
-      "titre": "Conférence sociale : \"Le compte n'y est pas\", déplore Olivier Faure après les annonces du gouvernement",
-      "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-11-09T15:59:43+01:00",
-      "resume": "Face à la colère sociale exprimée depuis plusieurs semaines, Sébastien Lecornu a reçu les partenaires sociaux lundi et a annoncé une hausse de 1,6 % du smic au 1er décembre ainsi que des exonérations de charges conditionnées. Ces annonces n'ont toutefois pas convaincu les syndicats et l'opposition, à l'image d'Olivier Faure qui estime que \"le compte n'y est pas\". Par ailleurs, une intersyndicale de la fonction publique a annoncé une grève pour le 17 novembre, tandis que la CGT appelle à une mobilisation générale des salariés, retraités et jeunes.",
-      "contexte": "Ces mouvements sociaux traduisent un mécontentement persistant face au pouvoir d'achat et aux réformes gouvernementales, dans un climat économique marqué par l'inflation. Les revalorisations salariales et les grèves sont des outils traditionnels pour peser sur les arbitrages budgétaires et sociaux de l'exécutif.",
-      "image": "https://www.franceinfo.fr/pictures/-AR2ChzLPKXYhUWa89hiU6cs0Yg/0x66:1024x642/432x243/filters:format(jpg)/2026/11/09/6af1dafe36635895263103.jpg"
+      "titre": "Donald Trump évoque un « élan positif » vers un accord de paix avec l’Iran après sa rencontre avec le premier ministre du Qatar",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-evoque-un-elan-positif-vers-un-accord-de-paix-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-10T00:26:10+01:00",
+      "resume": "Le président américain Donald Trump a déclaré qu'il existait un « élan positif » vers un accord de paix avec l'Iran, à la suite d'une rencontre avec le premier ministre du Qatar. Sur son réseau social Truth Social, il a précisé qu'une reprise des frappes contre l'Iran était « peu probable », tout en affirmant que les États-Unis restaient « prêts à intervenir ».",
+      "contexte": "Cette déclaration intervient dans un contexte de tensions persistantes au Moyen-Orient, où les relations entre Washington et Téhéran font l'objet d'une surveillance internationale accrue. Le Qatar joue fréquemment un rôle de médiateur diplomatique dans les crises régionales impliquant les États-Unis et leurs adversaires. Ce type d'échange vise généralement à apaiser les conflits potentiels, bien que la menace d'une intervention militaire reste un outil de dissuasion classique pour l'administration américaine.",
+      "image": "https://img.lemde.fr/2026/11/09/92/0/3687/1843/644/322/60/0/b3213bf_ftp-1-mpd4h4jxtjle-878a7da22e6e44ed8d7605f9458f6cc5-0-2ba1d10be21b45c293ffe8b219cb886b.jpg"
     },
     {
-      "titre": "Procès des parents de la \"petite martyre de l'A10\" : leurs expertises psychologique et psychiatriques au cœur du sixième jour d'audience à Blois",
-      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/direct-proces-des-parents-de-la-petite-martyre-de-l-a10-la-personnalite-des-deux-accuses-au-c-ur-du-sixieme-jour-d-audience_8274377.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-09T15:57:16+01:00",
-      "resume": "Le sixième jour d'audience du procès des parents de la \"petite martyre de l'A10\" s'est ouvert à Blois, avec pour principal objet l'examen de leurs expertises psychologiques et psychiatriques. Les parents d'Inass Touloub, retrouvée morte à l'âge de 4 ans le 11 août 1987 le long de l'autoroute A10, sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\" et \"complicité\". Ils encourent tous les deux la réclusion criminelle à perpétuité.",
-      "contexte": "Ce dossier est l'un des cold cases les plus emblématiques de l'histoire judiciaire française, l'identification de la victime n'avoir été possible que decades après les faits grâce à l'ADN. Les expertises psychologiques et psychiatriques sont déterminantes pour comprendre la dynamique familiale et établir les responsabilités pénales dans ce type de drame infanticide.",
-      "image": "https://www.franceinfo.fr/pictures/A8bJr4VV_JuuFkRFGE_JrphLCQE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1a5358914e798453992.jpg"
+      "titre": "Heures creuses d’électricité : Enedis adapte les plages horaires selon les saisons pour 9,3 millions de clients",
+      "lien": "https://www.lemonde.fr/planete/article/2026/11/10/heures-creuses-d-electricite-enedis-adapte-les-plages-horaires-selon-les-saisons-pour-9-3-millions-de-clients_6808707_3244.html",
+      "source": "Le Monde",
+      "date": "2026-11-10T00:16:16+01:00",
+      "resume": "À partir du 1er décembre, Enedis va déployer la deuxième phase de sa réforme des heures creuses pour 9,3 millions de clients en adaptant les plages horaires selon les saisons. Cette mesure, lancée il y a un an par le gestionnaire du réseau de distribution d'électricité, vise à déplacer la consommation des foyers vers les moments où la production d'énergie est la plus abondante et la moins coûteuse.",
+      "contexte": "La transition énergétique et le développement des énergies renouvelables, comme le solaire et l'éolien, entraînent des fluctuations importantes de la production d'électricité selon les heures de la journée et les saisons. Adapter les tarifs incitatifs permet d'éviter les surcharges du réseau électrique lors des pics de consommation et de mieux intégrer les productions intermittentes. C'est une stratégie courante pour optimiser le mix énergétique national et limiter le recours aux énergies fossiles d'appoint plus polluantes et onéreuses.",
+      "image": "https://img.lemde.fr/2026/11/09/356/0/2969/1484/644/322/60/0/a01382d_upload-1-tyuy5m9n2vrl-000-32jc9kf.jpg"
     },
     {
-      "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
-      "lien": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+      "titre": "Ni la guerre, ni une pandémie : en France, le dérèglement climatique perçue comme la première menace",
+      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261109-ni-la-guerre-ni-une-pand%C3%A9mie-en-france-le-d%C3%A9r%C3%A8glement-climatique-per%C3%A7ue-comme-la-premi%C3%A8re-menace",
       "source": "France 24",
-      "date": "2026-11-09T15:52:58+01:00",
-      "resume": "Le candidat de la gauche sociale-démocrate à l'élection présidentielle, Raphaël Glucksmann, a promis lundi de proclamer un \"état d'urgence écologique\" s'il est élu. Il a également annoncé un plan d'investissements publics de 200 milliards d'euros sur le quinquennat pour sortir des énergies fossiles et atteindre la neutralité carbone en 2050.",
-      "contexte": "À l'approche des échéances électorales, les candidats positionnent l'écologie et la transition énergétique au cœur de leur programme pour séduire un electorat préoccupé par le changement climatique. Les plans d'investissement massifs visent à accélérer le développement des énergies renouvelables et à réduire la dépendance au pétrole, au gaz et au charbon.",
-      "image": "https://s.france24.com/media/display/45c7d71e-dc4b-11f1-99df-a575454bc579/w:1024/p:16x9/000-D6K38DA.jpg"
-    },
-    {
-      "titre": "Le procès de trois policiers accusés d'avoir roué de coups Michel Zecler s'ouvre à Paris",
-      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/le-proces-de-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler-s-ouvre-a-paris_8274458.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-09T15:50:28+01:00",
-      "resume": "Le procès de trois policiers accusés d'avoir roué de coups le producteur de musique Michel Zecler en 2020 s'est ouvert lundi matin à Paris. L'audience a débuté dans une ambiance confuse en raison d'une salle trop exiguë pour accueillir l'ensemble des soutiens de la victime.",
-      "contexte": "Cette affaire, révélée par des images de vidéosurveillance qui avaient provoqué un émoi national, relance le débat sur les violences policières, le contrôle des forces de l'ordre et l'exemplarité au sein de l'institution judiciaire. Les procès de ce type cristallisent les tensions entre les syndicats de police et les mouvements militant pour la justice sociale.",
-      "image": "https://www.franceinfo.fr/pictures/WKpr8A6r7B7-ucqc7ly_h9ki3hY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1c070b75e7793673030.jpg"
-    },
-    {
-      "titre": "Inde : nouveau pic de pollution atmosphérique à New Delhi",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-inde-nouveau-pic-de-pollution-atmosph%C3%A9rique-%C3%A0-new-delhi",
-      "source": "France 24",
-      "date": "2026-11-09T15:43:44+01:00",
-      "resume": "La capitale indienne, New Delhi, a été enveloppée lundi dans un épais brouillard de pollution atmosphérique. Ce phénomène récurrent à l'automne a été particulièrement aggravé par les retombées des pétards et des feux d'artifice tirés au lendemain des festivités de Diwali.",
-      "contexte": "New Delhi est régulièrement classée parmi les villes les plus polluées au monde, en raison de la combinaison des emissions industrielles, du trafic routier, des brûlages agricoles saisonniers et des célébrations religieuses. La situation sanitaire y est critique pour des millions d'habitants à l'approche de la saison hivernale.",
-      "image": "https://s.france24.com/media/display/81e6ef8c-dc4b-11f1-b363-695cb59fade5/w:1024/p:16x9/FR-20261109-152257-152443-CS.jpg"
-    },
-    {
-      "titre": "\"Sa place est dans un musée\" : la France stoppe la vente aux enchères d'un spécimen de dinosaure unique au monde",
-      "lien": "https://www.franceinfo.fr/sciences/dinosaures/sa-place-est-dans-un-musee-la-france-stoppe-la-vente-aux-encheres-d-un-specimen-de-dinosaure-unique-au-monde_8274545.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-09T15:34:27+01:00",
-      "resume": "Le gouvernement français a annoncé l'arrêt de la vente aux enchères d'un squelette de dinosaure unique au monde, le \"Dubreuillosaurus valesdunensis\". Prévue initialement à la mi-novembre, la vente a été stoppée afin que le spécimen rejoigne les collections du Muséum national d'histoire naturelle.",
-      "contexte": "La protection du patrimoine scientifique et paléontologique fait l'objet d'une attention accrue des autorités pour éviter la dispersion de spécimens rares dans des collections privées internationales. Les fossiles d'importance majeure sont ainsi sanctuarisés pour permettre la recherche publique et l'exposition au grand public.",
-      "image": "https://www.franceinfo.fr/pictures/TbAaA0GXJqtVomzl1SxnH-h7Nro/0x43:823x505/432x243/filters:format(jpg)/2026/11/09/6af1cb7209600176860351.png"
-    },
-    {
-      "titre": "Russie : le journal Novaïa Gazeta ferme officiellement sa rédaction",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-russie-le-journal-nova%C3%AFa-gazeta-ferme-officiellement-sa-r%C3%A9daction",
-      "source": "France 24",
-      "date": "2026-11-09T15:30:18+01:00",
-      "resume": "Le journal russe Novaïa Gazeta a tenu lundi sa dernière conférence de rédaction et a vidé ses locaux, officialisant ainsi la fermeture définitive de sa rédaction. Le média, bastion historique de la presse indépendante en Russie, avait annoncé le mois dernier sa cessation d'activités sous la pression exercée par le Kremlin.",
-      "contexte": "La disparition de Novaïa Gazeta, dont le rédacteur en chef Dmitri Muratov a reçu le prix Nobel de la paix, illustre la réduction drastique de l'espace médiatique indépendant en Russie depuis le début de l'offensive en Ukraine. Les voix critiques y sont progressivement réduites au silence ou poussées à l'exil.",
-      "image": "https://s.france24.com/media/display/da59591a-dc47-11f1-8098-a575454bc579/w:1024/p:16x9/FR-20261109-135113-135257-CS-01.jpg"
-    },
-    {
-      "titre": "L'auteur de l'attentat en Pologne, qui a tué au moins six personnes à Cracovie, est mort",
-      "lien": "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-09T15:27:49+01:00",
-      "resume": "Le jeune Polonais de 24 ans soupçonné d'avoir tué au moins six personnes lors d'une fusillade à Cracovie est décédé des suites de ses blessures, après avoir été grièvement touché par la police samedi. Il est également suspecté d'être l'auteur du meurtre de ses parents et de sa sœur, dont les corps ont été retrouvés à leur domicile, portant le bilan total à neuf morts.",
-      "contexte": "Ce type de tuerie de masse reste relativement rare en Pologne mais provoque une onde de choc nationale, relançant les débats sur la sécurité publique, l'accès aux armes et la santé mentale. L'enquête se poursuit pour déterminer les motivations exactes de l'assaillant.",
-      "image": "https://www.franceinfo.fr/pictures/5u-uNMAmjWmt4E2oyI-Pp5WGg0E/0x117:1024x693/432x243/filters:format(jpg)/2026/11/09/6af1685e8d9fa862201665.jpg"
+      "date": "2026-11-10T00:02:51+01:00",
+      "resume": "Une étude du laboratoire d'idées Destin Commun indique que le dérèglement climatique est perçu par les Français comme la première menace extérieure, devançant le terrorisme, la crise économique ou les conflits armés. Cette perception fait suite à un été 2026 marqué par des canicules, des sécheresses et des incendies à répétition.",
+      "contexte": "La prise de conscience des enjeux climatiques s'accélère à mesure que les phénomènes météorologiques extrêmes se multiplient et touchent directement le territoire européen. Ce changement dans l'opinion publique reflète une inquiétude grandissante face aux impacts concrets du réchauffement global sur la sécurité, la santé et l'économie. Les autorités politiques font ainsi face à une pression accrue des citoyens pour intensifier les politiques d'atténuation et d'adaptation au changement climatique.",
+      "image": "https://s.france24.com/media/display/9e45da44-dc5f-11f1-9055-1beafce15fea/w:1024/p:16x9/000-C3HD7CU.jpg"
     }
   ],
-  "culture": [
-    {
-      "theme": "économie",
-      "titre": "La tragédie des biens communs",
-      "texte": "Ce concept économique et écologique décrit comment des individus, agissant de manière rationnelle et dans leur seul intérêt personnel, finissent par épuiser une ressource partagée et limitée. L'exemple historique souvent cité est celui de pâturages ouverts à tous, où chaque éleveur a intérêt à ajouter des animaux pour maximiser son profit individuel. Cependant, l'accumulation de ces décisions mène inévitablement à la surexploitation et à la ruine collective du pâturage. Cette théorie met en lumière la nécessité d'une régulation ou d'une gestion collective pour préserver les ressources vitales. Elle s'applique aujourd'hui à des enjeux majeurs comme la surpêche ou le réchauffement climatique.",
-      "a_retenir": "L'intérêt individuel non régulé peut détruire des ressources partagées indispensables à tous.",
-      "image": ""
-    },
-    {
-      "theme": "santé et corps humain",
-      "titre": "La plasticité cérébrale",
-      "texte": "Le cerveau humain possède une capacité extraordinaire à se modifier et à s'adapter tout au long de la vie, que ce soit suite à des apprentissages ou à une lésion. Contrairement à une idée reçue, nos neurones ne font pas que dépérir avec l'âge ; ils créent constamment de nouvelles connexions synaptiques. Lorsqu'une zone du cerveau est endommagée, d'autres régions peuvent parfois reprendre ses fonctions initiales. C'est grâce à cette plasticité que nous pouvons acquérir de nouvelles compétences, comme jouer d'un instrument ou apprendre une langue. Cette découverte majeure a profondément transformé les méthodes de rééducation en neurologie.",
-      "a_retenir": "Le cerveau se réorganise en permanence pour s'adapter à nos expériences et à nos apprentissages.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Brain_neuroplasticity_after_practice.png/960px-Brain_neuroplasticity_after_practice.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    {
-      "theme": "technologie",
-      "titre": "Le papier électronique",
-      "texte": "Aussi connu sous le nom d'encre électronique, ce dispositif d'affichage imite l'apparence de l'encre sur une feuille de papier ordinaire. Contrairement aux écrans de smartphones ou de téléviseurs, il ne émet pas de lumière propre mais réfléchit la lumière ambiante, ce qui réduit considérablement la fatigue oculaire. Sa caractéristique la plus remarquable est sa très faible consommation d'énergie : le courant électrique n'est nécessaire que lors du changement d'affichage de la page. Une fois l'image fixée, l'écran peut conserver le texte affiché indéfiniment sans aucune alimentation. Cette technologie est devenue le cœur des liseuses numériques modernes.",
-      "a_retenir": "Le papier électronique ne consomme de l'énergie que lors du changement d'image, imitant parfaitement le papier.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/E-ink-display-detail.jpg/960px-E-ink-display-detail.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    }
-  ],
+  "culture": [],
   "quiz_jour": [
     {
-      "id": "91f544e64f",
-      "date": "2026-11-09",
+      "id": "e1aad9fa6f",
+      "date": "2026-11-10",
       "type": "actu",
-      "question": "Quelle mesure concernant le smic a été annoncée par Sébastien Lecornu lors de la conférence sociale ?",
+      "question": "Avec quel dirigeant Donald Trump s'est-il entretenu avant d'évoquer un « élan positif » vers un accord de paix avec l'Iran ?",
       "choix": [
-        "Une revalorisation exceptionnelle de 5 %",
-        "Une hausse de 1,6 % au 1er décembre",
-        "Un gel du smic jusqu'à l'année prochaine",
-        "Une hausse indexée sur l'inflation réelle"
+        "Le premier ministre du Qatar",
+        "Le secrétaire général de l'ONU",
+        "Le président iranien",
+        "Le premier ministre israélien"
+      ],
+      "reponse": 0,
+      "explication": "Donald Trump a fait cette déclaration à la suite d'une rencontre avec le premier ministre du Qatar.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-evoque-un-elan-positif-vers-un-accord-de-paix-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3210.html",
+      "image": "https://img.lemde.fr/2026/11/09/92/0/3687/1843/644/322/60/0/b3213bf_ftp-1-mpd4h4jxtjle-878a7da22e6e44ed8d7605f9458f6cc5-0-2ba1d10be21b45c293ffe8b219cb886b.jpg"
+    },
+    {
+      "id": "a2451d719a",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quelle entreprise gère la réforme des heures creuses d'électricité qui adapte les plages horaires selon les saisons en France ?",
+      "choix": [
+        "EDF",
+        "Enedis",
+        "Engie",
+        "RTE"
       ],
       "reponse": 1,
-      "explication": "Sébastien Lecornu a annoncé une hausse de 1,6 % du smic au 1er décembre lors de la réunion avec les partenaires sociaux.",
-      "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/-AR2ChzLPKXYhUWa89hiU6cs0Yg/0x66:1024x642/432x243/filters:format(jpg)/2026/11/09/6af1dafe36635895263103.jpg"
+      "explication": "C'est le gestionnaire du réseau de distribution d'électricité Enedis qui déploie cette réforme pour 9,3 millions de clients.",
+      "lien": "https://www.lemonde.fr/planete/article/2026/11/10/heures-creuses-d-electricite-enedis-adapte-les-plages-horaires-selon-les-saisons-pour-9-3-millions-de-clients_6808707_3244.html",
+      "image": "https://img.lemde.fr/2026/11/09/356/0/2969/1484/644/322/60/0/a01382d_upload-1-tyuy5m9n2vrl-000-32jc9kf.jpg"
     },
     {
-      "id": "48c4e14ff5",
-      "date": "2026-11-09",
+      "id": "1a96c79ec3",
+      "date": "2026-11-10",
       "type": "actu",
-      "question": "Quel est l'âge de la victime, Inass Touloub, dite la \"petite martyre de l'A10\", au moment de sa mort en 1987 ?",
+      "question": "Selon une étude du laboratoire d'idées Destin Commun, quel est le principal danger perçu par les Français parmi les menaces extérieures ?",
       "choix": [
-        "2 ans",
-        "6 ans",
-        "4 ans",
-        "8 ans"
-      ],
-      "reponse": 2,
-      "explication": "Inass Touloub a été retrouvée morte à l'âge de 4 ans le 11 août 1987 le long de l'autoroute A10.",
-      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/direct-proces-des-parents-de-la-petite-martyre-de-l-a10-la-personnalite-des-deux-accuses-au-c-ur-du-sixieme-jour-d-audience_8274377.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/A8bJr4VV_JuuFkRFGE_JrphLCQE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1a5358914e798453992.jpg"
-    },
-    {
-      "id": "bd10b9c65f",
-      "date": "2026-11-09",
-      "type": "actu",
-      "question": "Quel montant Raphaël Glucksmann a-t-il promis pour sortir des énergies fossiles s'il est élu président ?",
-      "choix": [
-        "50 milliards d'euros",
-        "100 milliards d'euros",
-        "200 milliards d'euros",
-        "500 milliards d'euros"
-      ],
-      "reponse": 2,
-      "explication": "Le candidat a promis un plan d'investissements publics de 200 milliards d'euros sur le quinquennat pour atteindre la neutralité carbone.",
-      "lien": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
-      "image": "https://s.france24.com/media/display/45c7d71e-dc4b-11f1-99df-a575454bc579/w:1024/p:16x9/000-D6K38DA.jpg"
-    },
-    {
-      "id": "774a7125a4",
-      "date": "2026-11-09",
-      "type": "actu",
-      "question": "Quel dinosaure dont la vente aux enchères a été stoppée par la France doit rejoindre le Muséum national d'histoire naturelle ?",
-      "choix": [
-        "Un Diplodocus",
-        "Un Tyrannosaurus rex",
-        "Un Triceratops",
-        "Un Dubreuillosaurus valesdunensis"
+        "Le terrorisme",
+        "La crise économique",
+        "Les conflits armés",
+        "Le dérèglement climatique"
       ],
       "reponse": 3,
-      "explication": "Le gouvernement a arrêté la vente du squelette \"Dubreuillosaurus valesdunensis\" pour qu'il rejoigne les collections du Muséum national d'histoire naturelle.",
-      "lien": "https://www.franceinfo.fr/sciences/dinosaures/sa-place-est-dans-un-musee-la-france-stoppe-la-vente-aux-encheres-d-un-specimen-de-dinosaure-unique-au-monde_8274545.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/TbAaA0GXJqtVomzl1SxnH-h7Nro/0x43:823x505/432x243/filters:format(jpg)/2026/11/09/6af1cb7209600176860351.png"
-    },
-    {
-      "id": "d6abe4bf09",
-      "date": "2026-11-09",
-      "type": "actu",
-      "question": "Combien de victimes au total sont recensées dans l'affaire impliquant le jeune Polonais de 24 ans à Cracovie ?",
-      "choix": [
-        "12 morts",
-        "9 morts",
-        "3 morts",
-        "6 morts"
-      ],
-      "reponse": 1,
-      "explication": "Le suspect a tué au moins six personnes lors d'une fusillade et est également soupçonné du meurtre de trois membres de sa famille, soit un total de neuf morts.",
-      "lien": "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/5u-uNMAmjWmt4E2oyI-Pp5WGg0E/0x117:1024x693/432x243/filters:format(jpg)/2026/11/09/6af1685e8d9fa862201665.jpg"
-    },
-    {
-      "id": "48ca97f921",
-      "date": "2026-11-09",
-      "type": "culture",
-      "question": "Que décrit le concept de \"la tragédie des biens communs\" en économie et en écologie ?",
-      "choix": [
-        "L'enrichissement mutuel grâce au partage des richesses",
-        "La privatisation systématique de toutes les terres agricoles",
-        "L'épuisement d'une ressource partagée par l'intérêt personnel individuel",
-        "La diminution de la population mondiale face aux crises"
-      ],
-      "reponse": 2,
-      "explication": "Ce concept décrit comment des individus agissant dans leur seul intérêt personnel finissent par épuiser une ressource partagée et limitée.",
-      "lien": "",
-      "image": ""
-    },
-    {
-      "id": "09bf8031ac",
-      "date": "2026-11-09",
-      "type": "culture",
-      "question": "Quelle est la principale caractéristique de la technologie du papier (ou encre) électronique ?",
-      "choix": [
-        "Elle émet une forte lumière bleue pour la nuit",
-        "Elle consomme de l'énergie uniquement lors du changement d'affichage de la page",
-        "Elle nécessite un rétroéclairage permanent pour fonctionner",
-        "Elle ne peut afficher que des images en couleur"
-      ],
-      "reponse": 1,
-      "explication": "Le courant électrique n'est nécessaire que lors du changement de page, l'écran pouvant conserver le texte indéfiniment sans alimentation.",
-      "lien": "",
-      "image": ""
+      "explication": "Le dérèglement climatique est perçu par les Français comme la première menace extérieure, devançant notamment le terrorisme et la crise économique.",
+      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261109-ni-la-guerre-ni-une-pand%C3%A9mie-en-france-le-d%C3%A9r%C3%A8glement-climatique-per%C3%A7ue-comme-la-premi%C3%A8re-menace",
+      "image": "https://s.france24.com/media/display/9e45da44-dc5f-11f1-9055-1beafce15fea/w:1024/p:16x9/000-C3HD7CU.jpg"
     }
   ]
 }
