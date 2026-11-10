@@ -4762,6 +4762,118 @@
       "explication": "Le dérèglement climatique est perçu par les Français comme la première menace extérieure, devançant notamment le terrorisme et la crise économique.",
       "lien": "https://www.france24.com/fr/plan%C3%A8te/20261109-ni-la-guerre-ni-une-pand%C3%A9mie-en-france-le-d%C3%A9r%C3%A8glement-climatique-per%C3%A7ue-comme-la-premi%C3%A8re-menace",
       "image": "https://s.france24.com/media/display/9e45da44-dc5f-11f1-9055-1beafce15fea/w:1024/p:16x9/000-C3HD7CU.jpg"
+    },
+    {
+      "id": "f59b4d6754",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quel a été le point de départ du cortège parisien lors de la mobilisation dans l'Éducation nationale le 10 novembre ?",
+      "choix": [
+        "La place de la République",
+        "Le Panthéon",
+        "La place de la Bastille",
+        "La Sorbonne"
+      ],
+      "reponse": 1,
+      "explication": "Le cortège parisien de la mobilisation du 10 novembre s'est élancé depuis le Panthéon.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/xSf3aeeoA8ngPhnDNHMC5hbNWAE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af302608ee41595642295.jpg"
+    },
+    {
+      "id": "83a55c30b7",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Dans quelle ville des enseignants ont-ils exercé leur droit de retrait après la découverte d'éléments pour des cocktails Molotov ?",
+      "choix": [
+        "Tours",
+        "Lyon",
+        "Chelles",
+        "Paris"
+      ],
+      "reponse": 0,
+      "explication": "C'est à Tours que des enseignants ont exercé leur droit de retrait suite à des menaces et à la découverte d'éléments permettant de fabriquer des cocktails Molotov.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/VaN9d19WfNDALSMw_9Szfq35q4U/210x0:1294x610/432x243/filters:format(jpg)/2026/11/10/6af317fe6eb5f952536032.png"
+    },
+    {
+      "id": "81b940e98e",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quelle pétition a été classée en commission à l'Assemblée nationale après avoir recueilli plus d'un million de signatures ?",
+      "choix": [
+        "Contre la hausse des prix de l'énergie",
+        "Pour la suppression de CNews de l'audiovisuel français",
+        "Pour la semaine de quatre jours",
+        "Pour l'interdiction des trottinettes électriques"
+      ],
+      "reponse": 1,
+      "explication": "La pétition demandant la suppression de CNews de l'audiovisuel français a été classée en commission après avoir récolté plus d'un million de signatures.",
+      "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/T9vUVyI6PQcWRsL_M6YDOTK690A/0x4:1024x580/432x243/filters:format(jpg)/2026/11/10/6af30a9dd820f631326094.jpg"
+    },
+    {
+      "id": "068b6aafcd",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Qui a qualifié de 'mise en scène politique' la procédure de destitution lancée contre lui au Congrès américain ?",
+      "choix": [
+        "Donald Trump",
+        "Le secrétaire d'État américain",
+        "Le Premier ministre du Qatar",
+        "Pete Hegseth"
+      ],
+      "reponse": 3,
+      "explication": "Pete Hegseth, ministre américain de la Défense, a qualifié la procédure de destitution à son encontre de mise en scène politique.",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261110-%C3%A9tats-unis-proc%C3%A9dure-destitution-pete-hegseth-fustige-mise-en-sc%C3%A8ne-politique",
+      "image": "https://s.france24.com/media/display/52a6cec0-dcf2-11f1-b362-5f54d898a954/w:1024/p:16x9/2026-11-06T012421Z-163758692-RC20IOALR7O5-RTRMADP-3-USA-TRUMP-HEGSETH.jpg"
+    },
+    {
+      "id": "96e073bdce",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Pourquoi les centres de données (data centers) font-ils l'objet de mobilisations de la part de certaines associations ?",
+      "choix": [
+        "Ils menacent la sécurité des données personnelles",
+        "Ils génèrent trop de bruit en zone urbaine",
+        "Ils remplacent les espaces verts",
+        "Ils consomment fortement de l'eau et de l'électricité"
+      ],
+      "reponse": 3,
+      "explication": "Les centres de données sont pointés du doigt pour leur forte consommation en eau et en électricité.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261110-centres-de-donn%C3%A9es-le-coup-de-chaud",
+      "image": "https://s.france24.com/media/display/ad0b65ce-dcf7-11f1-8052-f71d22e7fea9/w:1024/p:16x9/FRAN261110-1000-Live-CS1000.jpg"
+    },
+    {
+      "id": "06e67dfcb4",
+      "date": "2026-11-10",
+      "type": "culture",
+      "question": "Par qui le judo a-t-il été fondé au Japon à la fin du XIXe siècle ?",
+      "choix": [
+        "Mas Oyama",
+        "Morihei Ueshiba",
+        "Jigoro Kano",
+        "Gichin Funakoshi"
+      ],
+      "reponse": 2,
+      "explication": "Le judo a été fondé au Japon par Jigoro Kano afin de transformer le jujitsu en une méthode éducative et physique globale.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "0658f97813",
+      "date": "2026-11-10",
+      "type": "culture",
+      "question": "Quel économiste a développé la théorie de l'avantage comparatif fondant le libre-échange mondial ?",
+      "choix": [
+        "John Maynard Keynes",
+        "Adam Smith",
+        "David Ricardo",
+        "Karl Marx"
+      ],
+      "reponse": 2,
+      "explication": "C'est David Ricardo qui a développé la théorie de l'avantage comparatif, expliquant les bienfaits de la spécialisation dans le commerce international.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
