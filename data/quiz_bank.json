@@ -4874,6 +4874,118 @@
       "explication": "C'est David Ricardo qui a développé la théorie de l'avantage comparatif, expliquant les bienfaits de la spécialisation dans le commerce international.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "a341956fb7",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quel stratagème a utilisé un fonctionnaire britannique pour frauder l'administration de 400 000 euros ?",
+      "choix": [
+        "Il a créé de fausses entreprises pour facturer des services fictifs aux ministères.",
+        "Il a détourné des fonds de pension publics.",
+        "Il a falsifié des diplômes pour obtenir des postes à haute responsabilité.",
+        "Il a cumulé huit emplois simultanés en se faisant passer pour un salarié invisible."
+      ],
+      "reponse": 3,
+      "explication": "Le fonctionnaire a profité de la période de pandémie pour cumuler huit emplois en étant un 'salarié invisible'.",
+      "lien": "https://www.franceinfo.fr/monde/royaume-uni/un-fonctionnaire-britannique-fraude-en-cumulant-8-salaires_8276792.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/LKdgVhCSsrVcN4QwcqVp5UY6y48/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/10/6af358dc916a8648592519.png"
+    },
+    {
+      "id": "aa9def8fb1",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quel incident a marqué la journée de mobilisation lycéenne à Chelles ?",
+      "choix": [
+        "L'incendie volontaire d'un lycée.",
+        "L'agression d'une élue qui a été aspergée d'essence.",
+        "La démission collective des représentants des parents d'élèves.",
+        "Le blocage total des accès à la ville par les élèves."
+      ],
+      "reponse": 1,
+      "explication": "Le résumé mentionne explicitement qu'une élue a été aspergée d'essence lors de cette journée.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/9OSG0G6pghHcW3pPIUx_8Mq2Ofo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af3635396875123315625.jpg"
+    },
+    {
+      "id": "7cf5071cee",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quels facteurs expliquent la baisse du prix du carburant en France selon l'article ?",
+      "choix": [
+        "La découverte de nouveaux gisements de pétrole en Europe.",
+        "La chute du cours du pétrole et la mise en vente des réserves stratégiques.",
+        "La baisse des taxes gouvernementales sur les produits pétroliers.",
+        "La baisse de la demande mondiale due à une récession globale."
+      ],
+      "reponse": 1,
+      "explication": "La baisse est attribuée au cours du pétrole repassé sous les 90 dollars et à l'utilisation des réserves stratégiques.",
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/si-l-on-garde-les-memes-tendances-l-essence-repasse-enfin-sous-la-barre-des-deux-euros-mais-pour-combien-de-temps_8276915.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/GTBu4YIOl8jUf1EtgW5KRKU-vwo/76x0:1156x607/432x243/filters:format(jpg)/2026/11/10/6af3825bc8f18695828604.jpg"
+    },
+    {
+      "id": "ef2d261a92",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quelle est la cause principale avancée pour le carambolage mortel en Bulgarie ?",
+      "choix": [
+        "Des conditions météorologiques difficiles marquées par un épais brouillard.",
+        "Une manifestation qui a bloqué l'autoroute.",
+        "Un problème de signalisation routière défectueuse.",
+        "Une défaillance technique sur un poids lourd."
+      ],
+      "reponse": 0,
+      "explication": "L'article précise que l'accident a eu lieu dans des conditions météorologiques marquées par un épais brouillard.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/un-carambolage-fait-au-moins-11-morts-et-51-blesses-en-bulgarie_8276918.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/FNZ0bqpaMI4SMcc_Em0FL2_vvTE/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/10/6af380b8d7aeb629220783.jpg"
+    },
+    {
+      "id": "deef31914b",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quel est l'objectif principal affiché par Éric Zemmour en officialisant sa candidature ?",
+      "choix": [
+        "Renforcer les liens diplomatiques avec les pays voisins.",
+        "Enrayer le déclin de la France et préserver son identité.",
+        "Réformer le système éducatif national.",
+        "Augmenter le pouvoir d'achat des classes moyennes."
+      ],
+      "reponse": 1,
+      "explication": "Éric Zemmour a déclaré vouloir 'enrayer le déclin' de la France et préserver son identité.",
+      "lien": "https://www.france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+      "image": "https://s.france24.com/media/display/60ba3c06-dd40-11f1-8771-3f371022a770/w:1024/p:16x9/AP21339640501013.jpg"
+    },
+    {
+      "id": "1432542302",
+      "date": "2026-11-10",
+      "type": "culture",
+      "question": "Quel est le principe fondamental du judo selon Jigoro Kano ?",
+      "choix": [
+        "La maîtrise exclusive des techniques de frappe à mains nues.",
+        "La force physique brute et la vitesse d'exécution.",
+        "Le combat systématique au sol sans aucune projection.",
+        "L'utilisation de la force de l'adversaire pour le déséquilibrer."
+      ],
+      "reponse": 3,
+      "explication": "Le judo repose sur l'utilisation de la force de l'adversaire plutôt que sur la confrontation brute.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "fdd16d625b",
+      "date": "2026-11-10",
+      "type": "culture",
+      "question": "Quelle est la caractéristique principale d'un haïku ?",
+      "choix": [
+        "C'est un long poème narratif racontant une légende.",
+        "Il est composé de cinq segments de phrases complexes.",
+        "Il doit obligatoirement rimer avec le vers suivant.",
+        "C'est une forme poétique très courte invitant à la contemplation."
+      ],
+      "reponse": 3,
+      "explication": "Le haïku est une forme poétique japonaise extrêmement courte invitant à la contemplation immédiate.",
+      "lien": "",
+      "image": ""
     }
   ]
 }

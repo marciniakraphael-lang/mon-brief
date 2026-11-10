@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "mode": "evening",
-  "updated": "2026-11-10T15:14:38.516109+01:00",
+  "updated": "2026-11-10T22:10:38.690602+01:00",
   "deja_presente": [
     {
       "titre": "\"On ne peut pas tout faire non plus\" : les locataires satisfaits de l'allègement des tâches de ménage dans les logements",
@@ -152,67 +152,85 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Manifestations du 10 novembre : le cortège parisien s'est élancé depuis le Panthéon",
+      "titre": "Un fonctionnaire britannique fraude en cumulant 8 salaires",
+      "lien": "https://www.franceinfo.fr/monde/royaume-uni/un-fonctionnaire-britannique-fraude-en-cumulant-8-salaires_8276792.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-10T22:05:01+01:00",
+      "resume": "Un fonctionnaire britannique est actuellement jugé pour avoir fraudé l'administration en cumulant secrètement huit emplois simultanés. Profitant de la période de la pandémie et prétextant des problèmes de santé pour devenir un \"salarié invisible\", il a empoché 400 000 euros de salaires au sein de plusieurs ministères, dont ceux de la Santé et de l'Intérieur. Il risque désormais une lourde peine de prison.",
+      "contexte": "Cette affaire met en lumière des failles dans les systèmes de contrôle et de gestion des ressources humaines au sein de la fonction publique, exacerbées par le passage au télétravail durant la crise sanitaire. De tels cas soulignent les enjeux de transparence et de responsabilité dans les administrations publiques face à la multiplication des structures et des contrats.",
+      "image": "https://www.franceinfo.fr/pictures/LKdgVhCSsrVcN4QwcqVp5UY6y48/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/10/6af358dc916a8648592519.png"
+    },
+    {
+      "titre": "\"C'est aux Ukrainiens de décider\" : La France insoumise répond à la polémique sur les propos de Jean-Luc Mélenchon évoquant le Donbass",
+      "lien": "https://www.franceinfo.fr/politique/melenchon/c-est-aux-ukrainiens-de-decider-la-france-insoumise-repond-a-la-polemique-sur-les-propos-de-jean-luc-melenchon-evoquant-le-donbass_8276936.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-10T22:04:25+01:00",
+      "resume": "Jean-Luc Mélenchon est au cœur d'une polémique après avoir suggéré que les habitants du Donbass devraient avoir le droit de choisir entre l'Ukraine et la Russie. La diplomatie ukrainienne a vivement réagi en rappelant le vote pour l'indépendance de 1991, tandis que La France insoumise dénonce une déformation des propos de son candidat à la présidentielle.",
+      "contexte": "La question du statut des territoires ukrainiens occupés ou contestés est un sujet hautement sensible qui divise la classe politique française. Ces déclarations s'inscrivent dans un contexte de débats intenses sur la position de la France vis-à-vis du conflit russo-ukrainien et sur les modalités d'une éventuelle résolution diplomatique.",
+      "image": "https://www.franceinfo.fr/pictures/tKkMfKCvUR_x3vxJFdi8iC0UZnI/0x25:1244x725/432x243/filters:format(jpg)/2026/11/10/6af386c678ce0628969355.jpg"
+    },
+    {
+      "titre": "Mobilisation des lycéens : \"La violence n'a pas sa place en démocratie\", condamne Emmanuel Macron après l'agression d'une élue à Chelles",
       "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-10T15:11:16+01:00",
-      "resume": "Une mobilisation dans l'Éducation nationale a eu lieu le 10 novembre, avec un cortège s'élançant depuis le Panthéon à Paris. Parallèlement, le gouvernement a annoncé que le mouvement lycéen a causé des blessures à environ 240 membres de l'institution, un chiffre en hausse par rapport aux 200 précédemment déclarés.",
-      "contexte": "Ces mouvements sociaux reflètent des tensions persistantes au sein du système scolaire français. L'objectif des manifestants est généralement de dénoncer les conditions de travail ou les réformes en cours, tandis que les autorités tentent de maintenir l'ordre public face à des épisodes de violence parfois associés aux mobilisations.",
-      "image": "https://www.franceinfo.fr/pictures/xSf3aeeoA8ngPhnDNHMC5hbNWAE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af302608ee41595642295.jpg"
-    },
-    {
-      "titre": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-10T15:04:25+01:00",
-      "resume": "Une conseillère régionale a été agressée à Chelles par le jet d'une bouteille d'essence alors qu'elle tentait de négocier le retour en classe des élèves. À Tours, des enseignants d'un lycée ont exercé leur droit de retrait suite à des menaces contre leur proviseure et à la découverte d'éléments permettant la fabrication de cocktails Molotov.",
-      "contexte": "Ces événements illustrent une montée des violences et des menaces visant le personnel des établissements scolaires. Ces situations entraînent souvent une paralysie temporaire des activités éducatives et soulignent les enjeux de sécurité auxquels sont confrontés les chefs d'établissement et les élus locaux.",
-      "image": "https://www.franceinfo.fr/pictures/VaN9d19WfNDALSMw_9Szfq35q4U/210x0:1294x610/432x243/filters:format(jpg)/2026/11/10/6af317fe6eb5f952536032.png"
-    },
-    {
-      "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
-      "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-10T15:02:17+01:00",
-      "resume": "La commission des affaires culturelles et de l'éducation de l'Assemblée nationale a décidé de classer une pétition demandant la suppression de CNews. Ce texte, qui avait recueilli plus d'un million de signatures, ne fera pas l'objet d'un débat dans l'hémicycle après un vote serré des députés.",
-      "contexte": "Cette décision s'inscrit dans un débat récurrent sur le pluralisme et la régulation des médias audiovisuels en France. La question de la liberté d'expression et des responsabilités des chaînes d'information est un sujet sensible qui oppose régulièrement les partisans d'une régulation accrue aux défenseurs de la liberté éditoriale.",
-      "image": "https://www.franceinfo.fr/pictures/T9vUVyI6PQcWRsL_M6YDOTK690A/0x4:1024x580/432x243/filters:format(jpg)/2026/11/10/6af30a9dd820f631326094.jpg"
-    },
-    {
-      "titre": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo · France 24",
-      "date": "2026-11-10T14:51:41+01:00",
-      "resume": "La guerre en Ukraine reste au centre des préoccupations internationales, avec des pourparlers menés à Abou Dhabi sous médiation américaine pour explorer un cadre de sécurité européen. Jean-Luc Mélenchon a suscité une polémique en suggérant une consultation des populations du Donbass, tandis que les ministres du G7, réunis à Paris, ont placé le conflit au cœur de leurs échanges.",
-      "contexte": "La recherche d'une issue diplomatique au conflit ukrainien se heurte à des divergences fondamentales sur le statut des territoires occupés et la souveraineté nationale. Les médiations internationales cherchent à éviter une escalade tout en essayant de stabiliser la sécurité régionale face à l'agression russe.",
-      "image": "https://www.franceinfo.fr/pictures/4pJWV6LjlZ_f9QY0FX7A7BzM8tY/0x79:1024x655/432x243/filters:format(jpg)/2026/11/10/6af307e08b15a792970968.jpg"
+      "date": "2026-11-10T21:58:23+01:00",
+      "resume": "Une nouvelle journée de mobilisation dans le monde de l'éducation a eu lieu mardi, avec des blocages recensés dans 49 lycées français, soit 1,3 % des établissements. La journée a été marquée par l'agression d'une élue à Chelles, en Seine-et-Marne, qui a été aspergée d'essence. Emmanuel Macron a condamné ces violences et apporté son soutien aux agents de l'Éducation nationale.",
+      "contexte": "Les mouvements de contestation lycéens et enseignants sont fréquents en France lorsqu'il s'agit de protester contre des réformes du système éducatif ou des conditions de travail. La radicalisation de certaines manifestations soulève des inquiétudes sur la sécurité des représentants de l'État et le respect du cadre démocratique lors des revendications sociales.",
+      "image": "https://www.franceinfo.fr/pictures/9OSG0G6pghHcW3pPIUx_8Mq2Ofo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af3635396875123315625.jpg"
     },
     {
-      "titre": "Procédure de destitution aux États-Unis : Pete Hegseth fustige une \"mise en scène politique\"",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261110-%C3%A9tats-unis-proc%C3%A9dure-destitution-pete-hegseth-fustige-mise-en-sc%C3%A8ne-politique",
-      "source": "France 24 · Le Monde",
-      "date": "2026-11-10T14:44:15+01:00",
-      "resume": "Le ministre américain de la Défense, Pete Hegseth, a qualifié de 'mise en scène politique' la procédure de destitution lancée contre lui au Congrès en raison de sa gestion de la guerre contre l'Iran. De son côté, Donald Trump a déclaré que le conflit était 'militairement terminé' après un échange avec le Premier ministre du Qatar, tout en affirmant que les États-Unis restent prêts à intervenir si nécessaire.",
-      "contexte": "La gestion des conflits au Moyen-Orient par l'administration américaine est un sujet de confrontation intense entre la Maison-Blanche et le Congrès. Ces tensions illustrent les enjeux de contrôle parlementaire sur l'exécutif en période de crise militaire internationale.",
-      "image": "https://s.france24.com/media/display/52a6cec0-dcf2-11f1-b362-5f54d898a954/w:1024/p:16x9/2026-11-06T012421Z-163758692-RC20IOALR7O5-RTRMADP-3-USA-TRUMP-HEGSETH.jpg"
-    },
-    {
-      "titre": "Centres de données : le coup de chaud ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261110-centres-de-donn%C3%A9es-le-coup-de-chaud",
-      "source": "France 24",
-      "date": "2026-11-10T14:31:12+01:00",
-      "resume": "Des associations en Europe et aux États-Unis multiplient les mobilisations contre l'implantation de centres de données (data centers). Ces infrastructures sont pointées du doigt pour leur forte consommation d'eau et d'électricité, alors que leur déploiement s'accélère pour soutenir le développement de l'intelligence artificielle.",
-      "contexte": "Le développement rapide du numérique et de l'IA nécessite des capacités de stockage et de calcul massives, posant des défis environnementaux majeurs. Le débat porte sur la conciliation entre transition numérique et sobriété écologique, les retombées économiques locales étant jugées insuffisantes par les opposants.",
-      "image": "https://s.france24.com/media/display/ad0b65ce-dcf7-11f1-8052-f71d22e7fea9/w:1024/p:16x9/FRAN261110-1000-Live-CS1000.jpg"
-    },
-    {
-      "titre": "L'auteur de la tuerie de Cracovie en Pologne a \"consulté des sites\" sur le néonazi Anders Behring Breivik",
-      "lien": "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Si je n'avais pas les vidéos, je ne serais pas là en tant que victime\", témoigne Michel Zecler au procès des policiers accusés de l'avoir roué de coups",
+      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/si-je-n-avais-pas-les-videos-je-ne-serais-pas-la-en-tant-que-victime-temoigne-michel-zecler-au-proces-des-policiers-accuses-de-l-avoir-roue-de-coups_8276522.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-10T14:25:14+01:00",
-      "resume": "L'enquête sur la tuerie de Cracovie en Pologne révèle que l'auteur avait consulté des sites liés au terroriste néonazi Anders Behring Breivik. Ce dernier est tristement célèbre pour ses attentats de 2011 en Norvège qui avaient fait 77 victimes.",
-      "contexte": "La radicalisation via Internet et l'influence des figures du terrorisme d'extrême droite sont des préoccupations majeures pour les services de renseignement européens. L'étude de ces parcours permet de mieux comprendre comment les idéologies extrémistes se propagent au-delà des frontières.",
-      "image": "https://www.franceinfo.fr/pictures/3fpGnZUzu5BmvxWu_nkwW0lkqQE/0x80:1024x656/432x243/filters:format(jpg)/2026/11/10/6af31ac835f43833710189.jpg"
+      "date": "2026-11-10T21:56:00+01:00",
+      "resume": "Le producteur de musique Michel Zecler a témoigné mardi devant la cour criminelle de Paris lors du procès des policiers accusés de l'avoir roué de coups. Ce procès fait suite à la diffusion d'images de vidéosurveillance montrant l'agression, une preuve que la victime juge essentielle pour sa reconnaissance en tant que victime.",
+      "contexte": "Cette affaire est emblématique du débat sur les violences policières et l'importance cruciale des preuves visuelles pour établir la vérité judiciaire. Elle illustre les tensions persistantes entre une partie de la population et les forces de l'ordre, ainsi que le rôle de la vidéo dans la transparence de l'action publique.",
+      "image": "https://www.franceinfo.fr/pictures/97AyOi_JJ6b1T_jGR50pN287ISM/0x0:1644x924/432x243/filters:format(jpg)/2026/11/10/6af3771bb57db117414177.jpg"
+    },
+    {
+      "titre": "\"Si l'on garde les mêmes tendances…\" : L'essence repasse enfin sous la barre des deux euros, mais pour combien de temps ?",
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/si-l-on-garde-les-memes-tendances-l-essence-repasse-enfin-sous-la-barre-des-deux-euros-mais-pour-combien-de-temps_8276915.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-10T21:45:32+01:00",
+      "resume": "Le prix du carburant diminue en France, le litre de gazole ayant baissé en moyenne de 20 centimes en dix jours. Cette tendance s'explique par le cours du pétrole repassé sous les 90 dollars le baril et par la mise en vente des réserves stratégiques françaises.",
+      "contexte": "Le coût de l'énergie est un facteur majeur de l'inflation et pèse directement sur le pouvoir d'achat des ménages. La volatilité des prix à la pompe dépend étroitement des marchés mondiaux et des décisions géopolitiques des pays producteurs, rendant les perspectives d'évolution des prix incertaines.",
+      "image": "https://www.franceinfo.fr/pictures/GTBu4YIOl8jUf1EtgW5KRKU-vwo/76x0:1156x607/432x243/filters:format(jpg)/2026/11/10/6af3825bc8f18695828604.jpg"
+    },
+    {
+      "titre": "Un carambolage fait au moins 11 morts et 51 blessés en Bulgarie",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/un-carambolage-fait-au-moins-11-morts-et-51-blesses-en-bulgarie_8276918.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-10T21:41:44+01:00",
+      "resume": "Un carambolage majeur a causé la mort de 11 personnes et fait 51 blessés mardi 10 novembre en Bulgarie. L'accident a impliqué des dizaines de véhicules dans les deux sens de circulation, dans des conditions météorologiques difficiles marquées par un épais brouillard.",
+      "contexte": "Les accidents de la route de grande ampleur sont souvent le résultat de conditions climatiques dégradées combinées à une vitesse inadaptée ou à une forte densité de trafic. Ces événements dramatiques rappellent l'importance de la vigilance routière et de l'adaptation de la conduite lors de phénomènes météorologiques extrêmes.",
+      "image": "https://www.franceinfo.fr/pictures/FNZ0bqpaMI4SMcc_Em0FL2_vvTE/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/10/6af380b8d7aeb629220783.jpg"
+    },
+    {
+      "titre": "Ukraine : négocier sur quoi, avec qui ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261110-ukraine-n%C3%A9gocier-sur-quoi-avec-qui",
+      "source": "France 24",
+      "date": "2026-11-10T21:30:28+01:00",
+      "resume": "Des discussions trilatérales entre les délégations ukrainienne, russe et américaine se tiennent à Abu Dhabi, aux Émirats arabes unis. L'émissaire américain Jared Kushner a plaidé pour l'établissement d'un nouveau cadre de sécurité visant à garantir une paix durable dans la région.",
+      "contexte": "La recherche d'une solution diplomatique au conflit en Ukraine implique de nombreux acteurs internationaux aux intérêts divergents. Ces pourparlers soulignent l'implication active des États-Unis et la recherche de médiateurs neutres pour tenter de mettre fin à une guerre qui impacte la stabilité de l'Europe entière.",
+      "image": "https://s.france24.com/media/display/6f4e976a-dd10-11f1-9ed6-3f371022a770/w:1024/p:16x9/AP26314354614659.jpg"
+    },
+    {
+      "titre": "A Gaza, au moins sept personnes sont mortes dans des frappes israéliennes, dont un jeune de 13 ans, rapporte la Défense civile",
+      "lien": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-au-moins-sept-personnes-sont-mortes-dans-des-frappes-israeliennes-dont-un-jeune-de-13-ans-rapporte-la-defense-civile_8276867.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-10T21:18:04+01:00",
+      "resume": "Au moins sept personnes, dont un adolescent de 13 ans, ont été tuées lors de frappes israéliennes dans la bande de Gaza ce mardi. L'armée israélienne a justifié ces opérations en déclarant avoir visé des agents militaires dans plusieurs secteurs.",
+      "contexte": "Le conflit dans la bande de Gaza est marqué par une escalade récurrente de violences et des pertes civiles importantes. La situation humanitaire et les enjeux de sécurité restent au cœur des tensions, avec des appels internationaux fréquents à un cessez-le-feu qui se heurtent souvent aux impératifs militaires des parties en conflit.",
+      "image": "https://www.franceinfo.fr/pictures/QPWQS4Npsi_7BK9PPhqTW7_8Vcs/0x106:1024x682/432x243/filters:format(jpg)/2026/11/10/6af37bb889174075867598.jpg"
+    },
+    {
+      "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
+      "lien": "https://www.france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+      "source": "France 24 · franceinfo",
+      "date": "2026-11-10T21:15:17+01:00",
+      "resume": "Éric Zemmour a officiellement confirmé sa candidature à l'élection présidentielle de 2027 lors d'une intervention sur TF1. Le président du parti Reconquête! dit vouloir \"enrayer le déclin\" de la France et préserver son identité, après avoir déjà participé à l'élection de 2022 où il avait récolté 7 % des voix au premier tour.",
+      "contexte": "L'officialisation précoce d'une candidature pour 2027 témoigne de la volonté de l'extrême droite de s'installer durablement dans le paysage politique français. Cette stratégie vise à mobiliser l'électorat sur des thèmes identitaires et sécuritaires tout en se positionnant comme une alternative aux partis traditionnels.",
+      "image": "https://s.france24.com/media/display/60ba3c06-dd40-11f1-8771-3f371022a770/w:1024/p:16x9/AP21339640501013.jpg"
     }
   ],
   "culture": [
@@ -240,114 +258,114 @@
   ],
   "quiz_jour": [
     {
-      "id": "f59b4d6754",
+      "id": "a341956fb7",
       "date": "2026-11-10",
       "type": "actu",
-      "question": "Quel a été le point de départ du cortège parisien lors de la mobilisation dans l'Éducation nationale le 10 novembre ?",
+      "question": "Quel stratagème a utilisé un fonctionnaire britannique pour frauder l'administration de 400 000 euros ?",
       "choix": [
-        "La place de la République",
-        "Le Panthéon",
-        "La place de la Bastille",
-        "La Sorbonne"
+        "Il a créé de fausses entreprises pour facturer des services fictifs aux ministères.",
+        "Il a détourné des fonds de pension publics.",
+        "Il a falsifié des diplômes pour obtenir des postes à haute responsabilité.",
+        "Il a cumulé huit emplois simultanés en se faisant passer pour un salarié invisible."
       ],
-      "reponse": 1,
-      "explication": "Le cortège parisien de la mobilisation du 10 novembre s'est élancé depuis le Panthéon.",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/xSf3aeeoA8ngPhnDNHMC5hbNWAE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af302608ee41595642295.jpg"
+      "reponse": 3,
+      "explication": "Le fonctionnaire a profité de la période de pandémie pour cumuler huit emplois en étant un 'salarié invisible'.",
+      "lien": "https://www.franceinfo.fr/monde/royaume-uni/un-fonctionnaire-britannique-fraude-en-cumulant-8-salaires_8276792.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/LKdgVhCSsrVcN4QwcqVp5UY6y48/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/10/6af358dc916a8648592519.png"
     },
     {
-      "id": "83a55c30b7",
+      "id": "aa9def8fb1",
       "date": "2026-11-10",
       "type": "actu",
-      "question": "Dans quelle ville des enseignants ont-ils exercé leur droit de retrait après la découverte d'éléments pour des cocktails Molotov ?",
+      "question": "Quel incident a marqué la journée de mobilisation lycéenne à Chelles ?",
       "choix": [
-        "Tours",
-        "Lyon",
-        "Chelles",
-        "Paris"
+        "L'incendie volontaire d'un lycée.",
+        "L'agression d'une élue qui a été aspergée d'essence.",
+        "La démission collective des représentants des parents d'élèves.",
+        "Le blocage total des accès à la ville par les élèves."
+      ],
+      "reponse": 1,
+      "explication": "Le résumé mentionne explicitement qu'une élue a été aspergée d'essence lors de cette journée.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/9OSG0G6pghHcW3pPIUx_8Mq2Ofo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af3635396875123315625.jpg"
+    },
+    {
+      "id": "7cf5071cee",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quels facteurs expliquent la baisse du prix du carburant en France selon l'article ?",
+      "choix": [
+        "La découverte de nouveaux gisements de pétrole en Europe.",
+        "La chute du cours du pétrole et la mise en vente des réserves stratégiques.",
+        "La baisse des taxes gouvernementales sur les produits pétroliers.",
+        "La baisse de la demande mondiale due à une récession globale."
+      ],
+      "reponse": 1,
+      "explication": "La baisse est attribuée au cours du pétrole repassé sous les 90 dollars et à l'utilisation des réserves stratégiques.",
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/si-l-on-garde-les-memes-tendances-l-essence-repasse-enfin-sous-la-barre-des-deux-euros-mais-pour-combien-de-temps_8276915.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/GTBu4YIOl8jUf1EtgW5KRKU-vwo/76x0:1156x607/432x243/filters:format(jpg)/2026/11/10/6af3825bc8f18695828604.jpg"
+    },
+    {
+      "id": "ef2d261a92",
+      "date": "2026-11-10",
+      "type": "actu",
+      "question": "Quelle est la cause principale avancée pour le carambolage mortel en Bulgarie ?",
+      "choix": [
+        "Des conditions météorologiques difficiles marquées par un épais brouillard.",
+        "Une manifestation qui a bloqué l'autoroute.",
+        "Un problème de signalisation routière défectueuse.",
+        "Une défaillance technique sur un poids lourd."
       ],
       "reponse": 0,
-      "explication": "C'est à Tours que des enseignants ont exercé leur droit de retrait suite à des menaces et à la découverte d'éléments permettant de fabriquer des cocktails Molotov.",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/VaN9d19WfNDALSMw_9Szfq35q4U/210x0:1294x610/432x243/filters:format(jpg)/2026/11/10/6af317fe6eb5f952536032.png"
+      "explication": "L'article précise que l'accident a eu lieu dans des conditions météorologiques marquées par un épais brouillard.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/un-carambolage-fait-au-moins-11-morts-et-51-blesses-en-bulgarie_8276918.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/FNZ0bqpaMI4SMcc_Em0FL2_vvTE/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/10/6af380b8d7aeb629220783.jpg"
     },
     {
-      "id": "81b940e98e",
+      "id": "deef31914b",
       "date": "2026-11-10",
       "type": "actu",
-      "question": "Quelle pétition a été classée en commission à l'Assemblée nationale après avoir recueilli plus d'un million de signatures ?",
+      "question": "Quel est l'objectif principal affiché par Éric Zemmour en officialisant sa candidature ?",
       "choix": [
-        "Contre la hausse des prix de l'énergie",
-        "Pour la suppression de CNews de l'audiovisuel français",
-        "Pour la semaine de quatre jours",
-        "Pour l'interdiction des trottinettes électriques"
+        "Renforcer les liens diplomatiques avec les pays voisins.",
+        "Enrayer le déclin de la France et préserver son identité.",
+        "Réformer le système éducatif national.",
+        "Augmenter le pouvoir d'achat des classes moyennes."
       ],
       "reponse": 1,
-      "explication": "La pétition demandant la suppression de CNews de l'audiovisuel français a été classée en commission après avoir récolté plus d'un million de signatures.",
-      "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/T9vUVyI6PQcWRsL_M6YDOTK690A/0x4:1024x580/432x243/filters:format(jpg)/2026/11/10/6af30a9dd820f631326094.jpg"
+      "explication": "Éric Zemmour a déclaré vouloir 'enrayer le déclin' de la France et préserver son identité.",
+      "lien": "https://www.france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+      "image": "https://s.france24.com/media/display/60ba3c06-dd40-11f1-8771-3f371022a770/w:1024/p:16x9/AP21339640501013.jpg"
     },
     {
-      "id": "068b6aafcd",
-      "date": "2026-11-10",
-      "type": "actu",
-      "question": "Qui a qualifié de 'mise en scène politique' la procédure de destitution lancée contre lui au Congrès américain ?",
-      "choix": [
-        "Donald Trump",
-        "Le secrétaire d'État américain",
-        "Le Premier ministre du Qatar",
-        "Pete Hegseth"
-      ],
-      "reponse": 3,
-      "explication": "Pete Hegseth, ministre américain de la Défense, a qualifié la procédure de destitution à son encontre de mise en scène politique.",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261110-%C3%A9tats-unis-proc%C3%A9dure-destitution-pete-hegseth-fustige-mise-en-sc%C3%A8ne-politique",
-      "image": "https://s.france24.com/media/display/52a6cec0-dcf2-11f1-b362-5f54d898a954/w:1024/p:16x9/2026-11-06T012421Z-163758692-RC20IOALR7O5-RTRMADP-3-USA-TRUMP-HEGSETH.jpg"
-    },
-    {
-      "id": "96e073bdce",
-      "date": "2026-11-10",
-      "type": "actu",
-      "question": "Pourquoi les centres de données (data centers) font-ils l'objet de mobilisations de la part de certaines associations ?",
-      "choix": [
-        "Ils menacent la sécurité des données personnelles",
-        "Ils génèrent trop de bruit en zone urbaine",
-        "Ils remplacent les espaces verts",
-        "Ils consomment fortement de l'eau et de l'électricité"
-      ],
-      "reponse": 3,
-      "explication": "Les centres de données sont pointés du doigt pour leur forte consommation en eau et en électricité.",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261110-centres-de-donn%C3%A9es-le-coup-de-chaud",
-      "image": "https://s.france24.com/media/display/ad0b65ce-dcf7-11f1-8052-f71d22e7fea9/w:1024/p:16x9/FRAN261110-1000-Live-CS1000.jpg"
-    },
-    {
-      "id": "06e67dfcb4",
+      "id": "1432542302",
       "date": "2026-11-10",
       "type": "culture",
-      "question": "Par qui le judo a-t-il été fondé au Japon à la fin du XIXe siècle ?",
+      "question": "Quel est le principe fondamental du judo selon Jigoro Kano ?",
       "choix": [
-        "Mas Oyama",
-        "Morihei Ueshiba",
-        "Jigoro Kano",
-        "Gichin Funakoshi"
+        "La maîtrise exclusive des techniques de frappe à mains nues.",
+        "La force physique brute et la vitesse d'exécution.",
+        "Le combat systématique au sol sans aucune projection.",
+        "L'utilisation de la force de l'adversaire pour le déséquilibrer."
       ],
-      "reponse": 2,
-      "explication": "Le judo a été fondé au Japon par Jigoro Kano afin de transformer le jujitsu en une méthode éducative et physique globale.",
+      "reponse": 3,
+      "explication": "Le judo repose sur l'utilisation de la force de l'adversaire plutôt que sur la confrontation brute.",
       "lien": "",
       "image": ""
     },
     {
-      "id": "0658f97813",
+      "id": "fdd16d625b",
       "date": "2026-11-10",
       "type": "culture",
-      "question": "Quel économiste a développé la théorie de l'avantage comparatif fondant le libre-échange mondial ?",
+      "question": "Quelle est la caractéristique principale d'un haïku ?",
       "choix": [
-        "John Maynard Keynes",
-        "Adam Smith",
-        "David Ricardo",
-        "Karl Marx"
+        "C'est un long poème narratif racontant une légende.",
+        "Il est composé de cinq segments de phrases complexes.",
+        "Il doit obligatoirement rimer avec le vers suivant.",
+        "C'est une forme poétique très courte invitant à la contemplation."
       ],
-      "reponse": 2,
-      "explication": "C'est David Ricardo qui a développé la théorie de l'avantage comparatif, expliquant les bienfaits de la spécialisation dans le commerce international.",
+      "reponse": 3,
+      "explication": "Le haïku est une forme poétique japonaise extrêmement courte invitant à la contemplation immédiate.",
       "lien": "",
       "image": ""
     }
