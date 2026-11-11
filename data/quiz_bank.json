@@ -5098,6 +5098,118 @@
       "explication": "Le blob est un être vivant fascinant classé parmi les amibozoaires, constitué d'une seule cellule géante dotée de millions de noyaux.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "d218c2b78d",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Combien de temps le journaliste français Christophe Gleizes a-t-il passé en détention en Algérie ?",
+      "choix": [
+        "250 jours",
+        "100 jours",
+        "1 an",
+        "500 jours"
+      ],
+      "reponse": 3,
+      "explication": "Christophe Gleizes est détenu depuis 500 jours en Algérie, selon l'article.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
+      "image": "https://s.france24.com/media/display/6ad85d10-de14-11f1-9cb3-695cb59fade5/w:1024/p:16x9/FRAN261111-2141-Live-01.jpg"
+    },
+    {
+      "id": "add7838826",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Pourquoi le gouvernement français a-t-il annulé la réunion sur l'autonomie de la Corse prévue à Paris ?",
+      "choix": [
+        "Suite à un désaccord budgétaire avec l'Union européenne",
+        "En raison de conditions météorologiques défavorables",
+        "En raison du désistement des nationalistes corses",
+        "À cause d'une grève des transports aériens"
+      ],
+      "reponse": 2,
+      "explication": "La réunion a été annulée suite au désistement des nationalistes corses.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/11/autonomie-de-la-corse-le-gouvernement-annule-une-reunion-prevue-jeudi-a-paris-apres-le-desistement-des-nationalistes_6809032_3224.html",
+      "image": "https://img.lemde.fr/2026/05/04/472/0/5662/2831/644/322/60/0/d514545_ftp-1-pikin32rqkca-5940555-01-06.jpg"
+    },
+    {
+      "id": "38c4d42542",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Qui est Yossi Dagan, qui a été refoulé à son arrivée en France ?",
+      "choix": [
+        "Un ministre israélien des Affaires étrangères",
+        "Un diplomate américain en poste au Moyen-Orient",
+        "Un ancien ambassadeur d'Israël en France",
+        "Un responsable des colons israéliens dirigeant une structure représentant les colonies en Samarie"
+      ],
+      "reponse": 3,
+      "explication": "Yossi Dagan dirige une structure représentant les colonies en Samarie (Cisjordanie occupée).",
+      "lien": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france",
+      "image": "https://s.france24.com/media/display/00bc1290-de10-11f1-ab90-3f371022a770/w:1024/p:16x9/000-A8BM2T9.jpg"
+    },
+    {
+      "id": "c2253db55f",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Quel événement récent a amplifié la crise du logement en Espagne avant les manifestations massives ?",
+      "choix": [
+        "La hausse subite de 50 % des taux d'intérêt bancaires",
+        "L'expulsion d'une Madrilène de 87 ans",
+        "L'effondrement d'un immeuble vétuste à Barcelone",
+        "Une grève générale des agences immobilières"
+      ],
+      "reponse": 1,
+      "explication": "La crise du logement a été amplifiée fin septembre par l'expulsion d'une Madrilène de 87 ans.",
+      "lien": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-greve-generale-pour-defendre-l-acces-au-logement-et-le-pouvoir-d-achat_8277731.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/rmusmBNPkgQZZ2AOgt7qbKPlBFM/0x5:1024x581/432x243/filters:format(jpg)/2026/11/11/6af450b0765a3646814030.jpg"
+    },
+    {
+      "id": "6563f36048",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Combien d'emplois ce fonctionnaire britannique cumulait-il simultanément à l'insu de ses employeurs ?",
+      "choix": [
+        "Cinq",
+        "Trois",
+        "Deux",
+        "Quatre"
+      ],
+      "reponse": 0,
+      "explication": "Le fonctionnaire cumulait cinq emplois en même temps, ce qui représentait virtuellement 183 heures de travail par semaine.",
+      "lien": "https://www.franceinfo.fr/monde/royaume-uni/183-heures-de-travail-par-semaine-ce-fonctionnaire-britannique-cumulait-cinq-emplois-a-l-insu-de-ses-employeurs_8278319.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/xqLyPNiJgKS2Ob_X8L8Pyahlj68/18x0:1123x622/432x243/filters:format(jpg)/2026/11/11/6af4d4f03435c487560417.jpg"
+    },
+    {
+      "id": "8ef932465d",
+      "date": "2026-11-11",
+      "type": "culture",
+      "question": "Quelle innovation Dick Fosbury a-t-il apportée au saut en hauteur lors des Jeux olympiques de 1968 ?",
+      "choix": [
+        "Il a utilisé une perche flexible en fibre de verre",
+        "Il a supprimé la course d'élan pour sauter sur place",
+        "Il a franchi la barre en effectuant un salto avant",
+        "Il s'est élancé le dos tourné vers l'obstacle"
+      ],
+      "reponse": 3,
+      "explication": "Dick Fosbury a surpris le public en s'élançant le dos tourné vers l'obstacle, révolutionnant la discipline.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "91422925ea",
+      "date": "2026-11-11",
+      "type": "culture",
+      "question": "Comment le blob est-il classé biologiquement ?",
+      "choix": [
+        "Parmi les champignons vénéneux",
+        "Parmi les plantes aquatiques",
+        "Parmi les amibozoaires",
+        "Parmi les mollusques unicellulaires"
+      ],
+      "reponse": 2,
+      "explication": "Le blob est un être vivant fascinant classé parmi les amibozoaires.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
