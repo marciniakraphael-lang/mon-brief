@@ -1,373 +1,224 @@
 {
-  "date": "2026-11-10",
-  "mode": "evening",
-  "updated": "2026-11-10T22:10:38.690602+01:00",
+  "date": "2026-11-11",
+  "mode": "morning",
+  "updated": "2026-11-11T12:16:24.821850+01:00",
   "deja_presente": [
     {
-      "titre": "\"On ne peut pas tout faire non plus\" : les locataires satisfaits de l'allègement des tâches de ménage dans les logements",
-      "lien": "https://www.franceinfo.fr/internet/airbnb/reportage-on-ne-peut-pas-tout-faire-non-plus-airbnb-allege-les-obligations-de-menage-demandees-aux-locataires_8274107.html#xtor=RSS-3-[lestitres]",
+      "titre": "Manifestations du 10 novembre : une conseillère régionale porte plainte après avoir été visée par un jet de bouteille d'essence en banlieue parisienne",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-09T12:51:18+01:00",
-      "resume": "Une plateforme américaine de location de logements entre particuliers s'apprête à appliquer de nouvelles règles à partir du 20 novembre, limitant les exigences de ménage imposées aux voyageurs. Les propriétaires hébergeurs ne pourront plus exiger de leurs clients des tâches d'entretien et de rangement aussi lourdes qu'auparavant. Cette évolution a été accueillie positivement par les locataires utilisateurs du service.",
-      "contexte": "Depuis plusieurs années, les utilisateurs de plateformes de type meublés de tourisme exprimaient leur mécontentement face au cumul de frais de ménage élevés et de listes contraignantes de tâches à accomplir avant le départ. Ces critiques ont pesé sur l'attractivité du service face à l'hôtellerie traditionnelle, où ces prestations sont incluses sans contrainte pour le client. La plateforme cherche ainsi à homogénéiser ses standards d'accueil et à améliorer la satisfaction des consommateurs.",
-      "image": "https://www.franceinfo.fr/pictures/tu-boSauSAEyjBsUluewm0HGKpw/0x520:5000x3333/432x243/filters:format(jpg)/2026/11/09/6af1855c34c9c252045875.jpg"
+      "date": "2026-11-10T12:19:11+01:00",
+      "resume": "Une conseillère régionale a déposé plainte après avoir été visée par un jet de bouteille d'essence lors des manifestations du 10 novembre en banlieue parisienne. L'incident s'est produit devant un lycée de Chelles, en Seine-et-Marne, alors qu'elle se trouvait aux côtés de parents d'élèves mobilisés pour la reprise des cours.",
+      "contexte": "Les abords des établissements scolaires lors de mouvements de contestation ou de tensions sociales sont parfois le théâtre d'incidents violents impliquant des manifestants extérieurs ou des individus cherchant à perturber l'ordre public. La présence d'élus locaux sur le terrain vise généralement à apaiser la situation et à soutenir les revendications locales, mais les expose parfois directement aux débordements. Ce type d'agression envers des représentants de la République suscite régulièrement une réprobation unanime de la classe politique.",
+      "image": "https://www.franceinfo.fr/pictures/5qUAkHdZ5KhGyAjNl9dSrNJ4_zo/0x29:934x555/432x243/filters:format(jpg)/2026/11/10/6af2f271b9c85390132804.png"
     },
     {
-      "titre": "Conférence sociale : le gouvernement annonce une augmentation du smic de 1,6% pour le porter à 1502 euros net au 1er décembre",
-      "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-11-09T12:47:51+01:00",
-      "resume": "À l'occasion d'une conférence sociale réunissant syndicats et patronat, le gouvernement dirigé par Sébastien Lecornu a annoncé une revalorisation du Smic de 1,6 % au 1er décembre, portant le salaire minimum à 1 502 euros net. Cette réunion visait à apporter une réponse à la contestation sociale portée par les organisations syndicales et la jeunesse ces dernières semaines. Le gouvernement a par ailleurs reçu les représentants des lycéens et des étudiants, tout en maintenant le calendrier des épreuves du baccalauréat sans modification.",
-      "contexte": "Cette initiative intervient dans un climat de fortes tensions sur le pouvoir d'achat, accentuées par l'inflation persistante sur les dépenses courantes comme l'énergie et l'alimentation. La revalorisation du Smic sert traditionnellement à amortir l'érosion des bas salaires face au coût de la vie, mais les syndicats réclament souvent des hausses plus substantielles pour relancer la consommation. Pour l'exécutif, l'enjeu consiste à désamorcer la colère populaire et étudiante tout en évitant d'alourdir excessivement les charges financières des entreprises.",
-      "image": "https://www.franceinfo.fr/pictures/etdZ07N9jDqeyoa4wksTcRNbbIw/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af1ae5a52d55541339030.jpg"
-    },
-    {
-      "titre": "Un match solidaire organisé pour les 500 jours de détention du journaliste Christophe Gleizes en Algérie",
-      "lien": "https://www.franceinfo.fr/sports/foot/un-match-solidaire-organise-pour-les-500-jours-de-detention-du-journaliste-christophe-gleizes-en-algerie_8274302.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-09T11:56:39+01:00",
-      "resume": "Un match de football solidaire est organisé ce mercredi à Paris à l'initiative de l'association Reporters sans frontières et de la mairie de la capitale. Cet événement marque les 500 jours de détention en Algérie du journaliste français Christophe Gleizes. La manifestation a pour but d'alerter l'opinion publique et de réclamer officiellement sa libération.",
-      "contexte": "L'exercice du journalisme indépendant en Algérie fait face à une surveillance accrue et à des poursuites régulières contre les professionnels des médias depuis plusieurs années. La situation des ressortissants ou journalistes étrangers détenus complique également les relations diplomatiques souvent sensibles entre Paris et Alger. Les organisations de défense de la presse multiplient traditionnellement ce type d'événements publics pour empêcher l'oubli médiatique et faire pression sur les autorités politiques.",
-      "image": "https://www.franceinfo.fr/pictures/1ouPUWkSbodeo70gZBJYYCvY0Pk/0x72:6000x3447/432x243/filters:format(jpg)/2026/11/09/6af199cd37365671220129.jpg"
-    },
-    {
-      "titre": "\"La résignation n'est pas une option\" : Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-09T11:55:03+01:00",
-      "resume": "Teddy Riner a annoncé lundi sur le réseau social X son intention de se présenter à l'élection présidentielle de 2027. Le champion olympique de judo a justifié sa démarche en déclarant que « la résignation n'est pas une option ». Cette prise de parole officialise l'entrée de l'athlète dans le champ politique pour le prochain scrutin national.",
-      "contexte": "Il est rare en France qu'une figure sportive de tout premier plan se lance directement dans une course à l'Élysée sans parcours politique ou mandat local préalable. Cette démarche intervient alors que le paysage électoral se recompose en vue de 2027, après deux mandats d'Emmanuel Macron qui ne pourra pas se représenter. L'annonce s'inscrit dans une tendance où des personnalités de la société civile misent sur leur forte notoriété pour tenter de dépasser la défiance envers les partis traditionnels.",
-      "image": "https://www.franceinfo.fr/pictures/FRY-75n0axq7SJRzxnouXFrOx0M/0x100:1024x676/432x243/filters:format(jpg)/2026/11/09/6af1a3c5c0258314024129.jpg"
-    },
-    {
-      "titre": "La Cour des comptes repart à la charge contre les niches fiscales",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/09/la-cour-des-comptes-repart-a-la-charge-contre-les-niches-fiscales_6808640_823448.html",
+      "titre": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, dans le sillage du conflit au Moyen-Orient",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/10/gaz-nouvelle-hausse-de-5-8-a-venir-pour-les-foyers-francais-dans-le-sillage-du-conflit-au-moyen-orient_6808828_3234.html",
       "source": "Le Monde",
-      "date": "2026-11-09T11:48:06+01:00",
-      "resume": "La Cour des comptes a publié un nouveau rapport critique sur les niches et exonérations fiscales en France, constatant que leur coût global a progressé de 42 % en vingt ans en euros constants. Le pays compte à ce jour 459 dispositifs dérogatoires de ce type. Les magistrats financiers ont averti que cette prolifération de régimes particuliers fragilise désormais la notion même de norme fiscale.",
-      "contexte": "Les niches fiscales sont traditionnellement créées pour encourager certains comportements économiques, comme l'investissement locatif, l'emploi à domicile ou la transition écologique. Cependant, elles représentent un manque à gagner considérable pour le budget de l'État et sont souvent accusées de profiter principalement aux contribuables les plus aisés. Dans une période où les finances publiques subissent de fortes contraintes pour résorber le déficit public, ces dérogations constituent une cible récurrente pour dégager des économies.",
-      "image": "https://img.lemde.fr/2023/04/17/154/0/3000/1500/644/322/60/0/c430bdb_1681717636668-ghr.jpg"
+      "date": "2026-11-10T12:16:22+01:00",
+      "resume": "Les foyers français devront faire face à une nouvelle hausse de 5,8 % des tarifs du gaz, s'inscrivant dans le prolongement des répercussions du conflit au Moyen-Orient. Selon les calculs de la Commission de régulation de l'énergie, l'augmentation moyenne de la facture énergétique pour l'année 2026 devrait atteindre un total de 11,8 %, représentant un surcoût d'environ 143 euros.",
+      "contexte": "Les prix de l'énergie en Europe sont extrêmement sensibles aux crises géopolitiques internationales, en particulier dans les régions productrices de hydrocarbures comme le Moyen-Orient. Les tensions sur ces marchés se traduisent quasi mécaniquement par une hausse des coûts d'approvisionnement pour les fournisseurs, répercutée ensuite sur les consommateurs finaux. Cette inflation énergétique pèse lourdement sur le pouvoir d'achat des ménages et contraint les gouvernements à envisarguer des mesures de bouclier tarifaire ou d'accompagnement financier.",
+      "image": "https://img.lemde.fr/2026/11/10/125/0/5948/2974/644/322/60/0/bcaec47_upload-1-oh3ub0qv4qcp-000-32vm72j.jpg"
     },
     {
-      "titre": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
+      "titre": "L’ONU appelle l’Egypte à mettre fin au « harcèlement » des journalistes et médias nationaux",
+      "lien": "https://www.lemonde.fr/afrique/article/2026/11/10/l-onu-appelle-l-egypte-a-mettre-fin-au-harcelement-des-journalistes-et-medias-nationaux_6808827_3212.html",
       "source": "Le Monde",
-      "date": "2026-11-09T11:47:04+01:00",
-      "resume": "Lors d'une interview accordée à la chaîne américaine CBS, la candidate du Rassemblement national Marine Le Pen a soutenu que la France était « le pays le moins raciste du monde ». Elle a également affirmé que les flux migratoires déstabilisaient la société française, mettant en avant un taux de chômage des immigrés qu'elle décrit comme deux fois plus élevé. Ces déclarations contrastent toutefois avec les constats dressés par une étude officielle du Défenseur des droits.",
-      "contexte": "Marine Le Pen cherche régulièrement à soigner son image auprès des médias internationaux tout en maintenant les thématiques identitaires et migratoires au centre de son discours politique. La question des discriminations à l'embauche et au logement reste pourtant régulièrement documentée par les institutions républicaines indépendantes en France. L'argument économique lié au travail sert fréquemment au RN pour justifier sa volonté de restreindre drastiquement l'immigration légale.",
-      "image": "https://img.lemde.fr/2026/11/05/394/0/5638/2819/644/322/60/0/b5660ec_ftp-1-ygbclvh5nhdh-afp-d6ju6pv.jpg"
+      "date": "2026-11-10T12:14:39+01:00",
+      "resume": "L'Organisation des Nations unies a publiquement exhorté l'Égypte à mettre un terme au « harcèlement » exercé à l'encontre des journalistes et des médias nationaux. Le porte-parole du Haut-Commissariat aux droits de l’homme, Thameen Al-Kheetan, a rappelé depuis Genève que la population égyptienne a le droit légitime de s'informer et d'accéder à différents points de vue sur des questions d'intérêt public.",
+      "contexte": "La liberté de la presse en Égypte fait l'objet de préoccupations constantes de la part des organisations internationales de défense des droits humains, qui dénoncent régulièrement la censure, le blocage de sites d'information et l'arrestation de journalistes. L'objectif des interpellations onusiennes est de maintenir une pression diplomatique pour inciter les autorités à respecter les standards internationaux en matière de liberté d'expression. Le pouvoir égyptien, de son côté, invoque généralement des impératifs de sécurité nationale pour justifier le contrôle strict des flux d'information.",
+      "image": "https://img.lemde.fr/2026/11/10/1440/0/8640/4320/644/322/60/0/bcbb16f_ftp-1-umw4nn42auog-9f5e84056581426283816f6b08eda935-3-a3c8f2cccb9b44a1a0d3ec317ae38b30.jpg"
     },
     {
-      "titre": "Climat, déforestation, orpaillage... l'Amazonie lutte pour sa survie",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-climat-d%C3%A9forestation-orpaillage-l-amazonie-lutte-pour-sa-survie",
+      "titre": "Aux États-Unis, la politique migratoire favorise l'essor des restaurants indiens",
+      "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-la-politique-migratoire-favorise-l-essor-des-restaurants-indiens_8254996.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-10T12:14:38+01:00",
+      "resume": "La politique migratoire restrictive menée par l'administration de Donald Trump a indirectement favorisé l'essor de la cuisine indienne aux États-Unis. Sur le bord des routes californiennes, on observe ainsi une multiplication notable des restaurants proposant des spécialités de ce pays.",
+      "contexte": "Les évolutions de la législation sur l'immigration aux États-Unis modifient profondément la démographie et l'entrepreneuriat au sein des différentes communautés étrangères. Les restrictions imposées à certaines nationalités ou profils poussent souvent les diasporas déjà établies à adapter leurs modèles économiques et à investir dans des secteurs de services ou de restauration accessibles. Cet essor illustre la capacité d'adaptation des populations immigrées face aux mutations réglementaires de leur pays d'accueil.",
+      "image": "https://www.franceinfo.fr/pictures/tOrO5omuOp1OewvbIWrwjuqG2zI/0x311:6048x3713/432x243/filters:format(jpg)/2026/11/10/6af2f1ce8be9d616790241.jpg"
+    },
+    {
+      "titre": "Jensen Huang, patron de Nvidia, admet une liaison avec une espionne chinoise",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/jensen-huang-patron-de-nvidia-admet-une-liaison-avec-une-espionne-chinoise_8275190.html#xtor=RSS-3-%5Bgeneral%5D",
+      "source": "franceinfo Monde · France 24",
+      "date": "2026-11-10T12:02:53+01:00",
+      "resume": "Jensen Huang, le patron du géant technologique américain Nvidia, a reconnu une liaison amoureuse avec une partenaire soupçonnée par le renseignement américain de travailler pour les services secrets chinois. Cette affaire d'espionnage présumée fait peser des soupçons sur la sécurité des secrets industriels de l'entreprise, poussant le groupe à ouvrir une enquête interne. L'avenir du dirigeant et les répercussions de ce scandale sur l'industrie de l'intelligence artificielle devraient se jouer à Washington.",
+      "contexte": "Ce type d'affaire met en lumière la vulnérabilité des figures clés de la tech face aux stratégies d'ingérence et d'espionnage industriel menées par de grandes potences, dans un contexte de rivalité technologique acharnée entre les États-Unis et la Chine. Nvidia, en tant que leader mondial des puces électroniques dédiées à l'intelligence artificielle, détient des informations stratégiques hautement sensibles pour la sécurité nationale américaine. La révélation de telles relations personnelles soulève des questions cruciales sur la sécurité des données et le profilage des dirigeants par les services de renseignement étrangers.",
+      "image": "https://www.franceinfo.fr/pictures/suYZEmcvWjVShaGE0QaTEmKf8-w/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af2362fb80d0873248590.jpg"
+    },
+    {
+      "titre": "La désintégration extrêmement rare d’une particule suscite l’espoir de découvrir une nouvelle physique",
+      "lien": "https://www.lemonde.fr/sciences/article/2026/11/10/la-desintegration-extremement-rare-d-une-particule-suscite-l-espoir-de-decouvrir-une-nouvelle-physique_6808823_1650684.html",
+      "source": "Le Monde",
+      "date": "2026-11-10T12:00:04+01:00",
+      "resume": "L'une des expériences menées au sein de l'accélérateur géant de particules du CERN a permis d'observer la désintégration extrêmement rare d'une particule. Ce phénomène physique particulier ne se produit, en moyenne, qu'une seule fois sur dix milliards de particules analysées.",
+      "contexte": "L'observation de phénomènes physiques rarissimes constitue l'un des principaux objectifs des grands collisionneurs de particules comme celui du CERN, qui cherchent à sonder les limites du modèle standard de la physique des particules. La mise en évidence de telles anomalies ou processus peu communs suscute l'espoir des chercheurs de découvrir une « nouvelle physique », c'est-à-dire des lois fondamentales de l'univers encore ignorées. Ces avancées scientifiques fondamentales nécessitent des années d'expérimentation et d'analyse de données massives.",
+      "image": "https://img.lemde.fr/2026/11/09/376/0/2560/1280/644/322/60/0/fae57e1_upload-1-csxks13wpyck-201802-025-01-scaled-1.jpg"
+    },
+    {
+      "titre": "Crise bancaire au Paraguay : près de la moitié de la population privée de son argent",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-crise-bancaire-au-paraguay-pr%C3%A8s-de-la-moiti%C3%A9-de-la-population-priv%C3%A9e-de-son-argent",
       "source": "France 24",
-      "date": "2026-11-09T11:42:56+01:00",
-      "resume": "La forêt amazonienne demeure gravement menacée par les effets du dérèglement climatique, l'avancée de la déforestation et les activités d'orpaillage illégal. Ces pressions multiples mettent en péril un écosystème déterminant pour la régulation climatique de la planète. Les populations locales et autochtones se retrouvent en première ligne face à ces dégradations environnementales croissantes.",
-      "contexte": "Le bassin amazonien constitue l'un des plus grands réservoirs de biodiversité et l'un des principaux puits de carbone au monde, essentiel pour absorber les émissions de gaz à effet de serre. L'exploitation forestière clandestine, l'élevage extensif et l'extraction d'or polluent les cours d'eau au mercure et provoquent des conflits territoriaux récurrents. La protection de cette zone représente un enjeu environnemental mondial majeur tout en constituant un sujet de souveraineté sensible pour les pays d'Amérique du Sud.",
-      "image": "https://s.france24.com/media/display/d15420fc-dc29-11f1-9e0b-d18c5759e759/w:1024/p:16x9/FR-20261109-093259-094053-CS.jpg"
+      "date": "2026-11-10T11:59:03+01:00",
+      "resume": "Le Paraguay traverse une grave crise bancaire qui prive près de la moitié de la population de l'accès à son argent, suite à un vaste scandale financier ayant entraîné la destitution du président Santiago Peña. Le nouveau dirigeant, Pedro Alliana, a demandé la démission de l'ensemble de ses ministres et hauts fonctionnaires pour mener un remaniement d'envergure. Parallèlement, le pays a entamé des démarches diplomatiques et judiciaires avec les États-Unis, le Luxembourg et l'Argentine afin de localiser et de récupérer les fonds détournés.",
+      "contexte": "Les scandales de corruption et les détournements de fonds publics à grande échelle peuvent déstabiliser durablement l'économie des pays émergents et provoquer des crises politiques majeures, allant jusqu'à la chute des gouvernements. Le recours à la coopération internationale est indispensable dans ces situations pour tracer l'argent placé dans des paradis fiscaux ou des systèmes bancaires étrangers. Cette transition politique au Paraguay vise à restaurer la confiance des citoyens et des marchés financiers internationaux.",
+      "image": "https://s.france24.com/media/display/cdb0cf80-daf9-11f1-9509-a575454bc579/w:1024/p:16x9/2026-11-07T153653Z-181768230-RC23JOAS4CY2-RTRMADP-3-PARAGUAY-POLITICS.jpg"
+    },
+    {
+      "titre": "Israël: Eisenkot pour tourner la page Netanyahu ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261110-isra%C3%ABl-eisenkot-pour-tourner-la-page-netanyahu",
+      "source": "France 24",
+      "date": "2026-11-10T11:58:08+01:00",
+      "resume": "Le président israélien Isaac Herzog a confié à Gadi Eisenkot la mission de tenter de rassembler une majorité à la Knesset. Cette initiative politique est perçue comme une tentative potentielle de tourner la page de dix-neuf années de pouvoir cumulées exercées par Benyamin Netanyahu.",
+      "contexte": "Le système politique israélien, fondé sur un scrutin proportionnel, nécessite la formation de coalitions complexes pour gouverner, ce qui rend les équilibres parlementaires très fragiles. Confirmer un mandat exploratoire à une alternative politique crédible traduit la volonté de surmonter les blocages institutionnels et les crises de gouvernance à répétition. La fin potentielle de l'ère Netanyahu marquerait un tournant géopolitique et intérieur majeur pour Israël.",
+      "image": "https://s.france24.com/media/display/da1961ea-dcf4-11f1-b50e-3f371022a770/w:1024/p:16x9/capture-a705de73.jpg"
+    },
+    {
+      "titre": "Négociations Ukraine-Russie : Européens et Américains affirment leur engagement commun en faveur d'une sécurité européenne \"forte\" pour l'après-guerre",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-10T11:57:17+01:00",
+      "resume": "Les représentants européens et américains ont réaffirmé leur engagement commun en faveur de la construction d'une sécurité européenne « forte » pour l'après-guerre en Ukraine. Ces discussions diplomatiques reprennent après avoir été temporairement suspendues fin février, suite aux frappes israélo-américaines en Iran et à l'ouverture du conflit au Moyen-Orient.",
+      "contexte": "La coordination entre les alliés occidentaux est primordiale pour définir les garanties de sécurité à long terme sur le continent européen face aux conséquences du conflit ukrainien. Les soubresauts géopolitiques mondiaux, notamment les crises simultanées au Moyen-Orient, ont tendance à éclipser temporairement ou à complexifier l'agenda diplomatique transatlantique. L'objectif affiché de ces pourparlers est de pérenniser une architecture de défense dissuasive et solidaire pour la stabilité régionale future.",
+      "image": "https://www.franceinfo.fr/pictures/l4DtoJ-ljMIOaC0t6urw7RC_l2c/0x106:1024x682/432x243/filters:format(jpg)/2026/11/10/6af2e18949179112917421.jpg"
+    },
+    {
+      "titre": "Éthiopie : construction d'un nouveau barrage pour renforcer son indépendance énergétique",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-%C3%A9thiopie-construction-d-un-nouveau-barrage-pour-renforcer-son-ind%C3%A9pendance-%C3%A9nerg%C3%A9tique",
+      "source": "France 24",
+      "date": "2026-11-10T11:54:46+01:00",
+      "resume": "Dans le cadre de la COP31 qui se tient en Turquie, l'Éthiopie poursuit le développement de grands projets hydroélectriques, notamment avec la construction d'un nouveau barrage sur la rivière Omo pour renforcer son indépendance énergétique et exporter de l'électricité dans la région. Parallèlement, le projet du Grand Barrage de la Renaissance continue de susciter des tensions, Donald Trump ayant relancé la polémique en accusant Addis-Abeba de s'approprier unilatéralement les eaux du Nil.",
+      "contexte": "Le développement des infrastructures hydrauliques en Afrique de l'Est est un enjeu crucial pour l'accès à l'électricité et le développement économique, mais il est également source de vives tensions géopolitiques entre les pays amont et aval, comme l'Égypte et le Soudan, qui dépendent fortement du fleuve Nil. Les projets de barrages soulignent le dilemme entre la transition énergétique nationale et la gestion équitable des ressources en eau partagées. Les réactions internationales illustrent la sensibilité diplomatique de ces grands chantiers fluviaux.",
+      "image": "https://s.france24.com/media/display/5f7491ea-dcee-11f1-87a7-5f54d898a954/w:1024/p:16x9/FR-20261110-093354-093545-CS.jpg"
     }
   ],
   "depuis_hier": [
     {
-      "titre": "\"L'endroit s'est transformé, il y a de la boue partout chez nous\" : le quotidien de Burundais envahis par les eaux du lac Tanganyika, une conséquence du réchauffement climatique",
-      "lien": "https://www.franceinfo.fr/monde/afrique/burundi/l-endroit-s-est-transforme-il-y-a-de-la-boue-partout-chez-nous-le-quotidien-de-burundais-envahis-par-les-eaux-du-lac-tanganyika-une-consequence-du-rechauffement-climatique_8275232.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-09T23:44:38+01:00",
-      "resume": "La COP31 s’est ouverte ce lundi 9 novembre à Antalya, en Turquie, plaçant au centre des discussions la lutte contre le réchauffement climatique et la protection des populations vulnérables. Un premier exemple a été mis en avant au Burundi, où les habitants de la région du lac Tanganyika subissent des inondations majeures qui transforment leurs quartiers en zones marécageuses. De nombreuses familles se retrouvent contraintes de fuir ou de vivre au milieu des eaux, s'exposant ainsi directement à des risques sanitaires accrus.",
-      "contexte": "Les conférences climatiques annuelles de l'ONU visent à inciter les États à rehausser leurs engagements de réduction des gaz à effet de serre et à financer l'adaptation des pays du Sud. Le cas du Burundi illustre la vulnérabilité accrue des nations d'Afrique de l'Est face aux dérèglements hydrologiques et à la montée des eaux. Ces situations de crise humanitaire et climatique soulèvent régulièrement la question de la justice climatique et de l'aide financière internationale due aux populations les plus touchées malgré leur faible contribution historique aux émissions mondiales.",
-      "image": "https://www.franceinfo.fr/pictures/Jtu51qqKgrfGxtK8kfJg8MMMmE4/115x0:1315x675/432x243/filters:format(jpg)/2026/11/09/6af24cbdd4776895047529.jpg"
-    },
-    {
-      "titre": "Afrique du Sud : la déroute de l'ANC, parti de Nelson Mandela, aux municipales",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261109-afrique-du-sud-la-d%C3%A9route-de-l-anc-parti-de-nelson-mandela-aux-municipales",
-      "source": "France 24",
-      "date": "2026-11-09T23:20:53+01:00",
-      "resume": "Le Congrès national africain (ANC), qui dominait la vie politique sud-africaine depuis la fin de l'apartheid, a enregistré le pire score de son histoire en obtenant 30,76 % des voix aux élections municipales. Les résultats définitifs annoncés dimanche par la commission électorale montrent qu'aucun parti n'a réussi à s'emparer de la majorité absolue dans de nombreuses municipalités. Cette situation inédite contraint les formations politiques à engager des négociations ardues afin de former des coalitions pour diriger plusieurs grandes villes du pays.",
-      "contexte": "Cette érosion historique de l'ANC s'inscrit dans un contexte de mécontentement populaire persistant face aux difficultés économiques, au chômage élevé et aux scandales de corruption qui entachent l'image du parti historique de Nelson Mandela. La nécessité de former des coalitions locales témoigne d'une recomposition profonde du paysage politique sud-africain, où l'hégémonie d'un parti unique cède la place à un système plus fragmenté. Cela pourrait complexifier la gouvernance des grandes métropoles tout en stimulant le pluralisme démocratique.",
-      "image": "https://s.france24.com/media/display/8c3f209e-dc82-11f1-aee4-a575454bc579/w:1024/p:16x9/FRAN261109-2141-Live-01.jpg"
-    },
-    {
-      "titre": "Torture en Ukraine : que dit la photo de cet adolescent ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261109-torture-en-ukraine-que-dit-la-photo-de-cet-adolescent",
-      "source": "France 24",
-      "date": "2026-11-09T23:08:24+01:00",
-      "resume": "Des sphères pro-russes ont relayé de manière virale une photo et des vidéos montrant un adolescent ukrainien à l'air terrifié et escorté, présenté comme la victime d'un centre de torture ukrainien. Des vérifications ont toutefois permis d'établir que ces images sont trompeuses et qu'aucune preuve de torture n'a pu être apportée pour étayer ces accusations.",
-      "contexte": "Ce type de publication s'inscrit dans le cadre de la guerre informationnelle et des opérations de propagande menées en parallèle du conflit armé en Ukraine. L'utilisation d'images sorties de leur contexte ou manipulées vise généralement à discréditer l'adversaire auprès de l'opinion internationale et à influencer le soutien aux différentes parties. La vérification des faits est devenue un outil central pour contrer la prolifération de fausses informations en temps de crise.",
-      "image": "https://s.france24.com/media/display/3dcbd7ca-dc89-11f1-8209-d18c5759e759/w:1024/p:16x9/FRAN261109-2115-Live-CS2115.jpg"
-    },
-    {
-      "titre": "Hausse du Smic : l'exécutif se félicite, les syndicats râlent, le patronat se désole",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261109-hausse-du-smic-l-ex%C3%A9cutif-se-f%C3%A9licite-les-syndicats-r%C3%A2lent-le-patronat-se-d%C3%A9sole",
-      "source": "France 24",
-      "date": "2026-11-09T23:03:45+01:00",
-      "resume": "Le gouvernement a officialisé une revalorisation du Smic de 1,6 %, portant le salaire minimum à 1 501,90 euros net dès le 1er décembre. Cette décision suscrit des réactions contrastées : l'exécutif se félicite de cette hausse, tandis que les syndicats la jugent insuffisante face à la perte de pouvoir d'achat des derniers mois. De leur côté, les organisations patronales expriment de vives inquiétudes quant à l'alourdissement des charges pour les entreprises, notamment en raison de la limitation des allègements de cotisations.",
-      "contexte": "L'ajustement du salaire minimum est un sujet récurrent d'affrontement social et économique en France, particulièrement dans un contexte d'inflation où les arbitrages budgétaires peinent à satisfaire à la fois les revendications salariales et la compétitivité des entreprises. L'objectif est généralement de protéger les foyers les plus modestes sans pour autant peser excessivement sur les marges des petites et moyennes entreprises. Les débats autour de ces mesures illustrent la difficulté permanente de concilier justice sociale et équilibre macroéconomique.",
-      "image": "https://s.france24.com/media/display/ad99ec78-dc88-11f1-b1f4-a575454bc579/w:1024/p:16x9/XX-NW-HDL-MATIGNON-CONFERENCE-SOCIALE-18H-BERG-Valentin-transfer.png"
-    },
-    {
-      "titre": "Au Cameroun, le président Paul Biya convoque des législatives et municipales le 7 février",
-      "lien": "https://www.franceinfo.fr/monde/afrique/cameroun/au-cameroun-le-president-paul-biya-convoque-des-legislatives-et-municipales-le-7-fevrier_8275235.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-09T23:01:07+01:00",
-      "resume": "Le président camerounais Paul Biya a convoqué des élections législatives et municipales pour le 7 février. Ce scrutin constituera le premier rendez-vous électoral dans le pays depuis la réélection de Paul Biya en octobre 2025, un résultat qui avait alors suscité de vives contestations de la part de l'opposition et d'une frange de la population.",
-      "contexte": "Ces élections se déroulent dans un climat politique traditionnellement tendu, marqué par la longue présidence de Paul Biya, au pouvoir depuis plusieurs décennies. Les scrutins locaux et législatifs sont souvent l'occasion pour l'opposition de tenter de regagner des espaces d'expression institutionnelle dans un système très centralisé. Les autorités cherchent généralement à légitimer leur pouvoir par les urnes, tandis que les critiques pointent régulièrement des conditions d'organisation perfectibles.",
-      "image": "https://www.franceinfo.fr/pictures/CUVTFnUBg265OpfOJqbnSA1oF7w/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af24125e0c7a695709795.jpg"
-    },
-    {
-      "titre": "Aux Etats-Unis, une procédure de destitution contre le ministre de la Défense a été lancée au Congrès",
-      "lien": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-procedure-de-destitution-contre-le-ministre-de-la-defense-a-ete-lancee-au-congres_8275211.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-09T22:46:43+01:00",
-      "resume": "Aux États-Unis, le député Thomas Massie a lancé une procédure de destitution à l'encontre du ministre de la Défense, Pete Hegseth, devant le Congrès. Cette initiative politique est motivée par les critiques du parlementaire concernant la gestion du dossier iranien et la manière dont les opérations militaires ont été conduites.",
-      "contexte": "La procédure de destitution, ou impeachment, est un mécanisme constitutionnel américain rare qui permet au Congrès de contrôler les plus hauts responsables de l'exécutif en cas de faute grave ou d'abus de pouvoir. L'objectif est généralement d'exercer un contre-pouvoir fort, bien que l'aboutissement de telles procédures dépende fortement des équilibres partisans au sein des chambres. Ce type de fronde parlementaire met en lumière les divisions profondes sur la politique étrangère et l'usage de la force militaire par l'administration en place.",
-      "image": "https://www.franceinfo.fr/pictures/rBmc5RhY1wHaSmqjF1UxNytpWYI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af23f3350360823775239.jpg"
-    },
-    {
-      "titre": "Comment le nombre dérogations pour l'utilisation de pesticides s'est envolé en France",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pesticides-des-derogations-qui-deviennent-la-regle_8275121.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-09T22:45:11+01:00",
-      "resume": "En France, le nombre de dérogations accordées par l'État pour l'utilisation de pesticides pourtant interdits a fortement augmenté. Ces permissions temporaires permettent aux agriculteurs de continuer à employer certains produits chimiques dans leurs champs, une pratique qui se renouvelle parfois d'une année sur l'autre malgré les interdictions en vigueur.",
-      "contexte": "L'utilisation de dérogations pour les pesticides illustre la tension constante entre les impératifs de protection de l'environnement et de la santé publique d'une part, et la défense de la productivité agricole d'autre part. L'objectif officiel des autorités est généralement de parer à des situations d'urgence ou de pénurie pour les récoltes, mais cela suscite régulièrement les critiques des associations écologistes qui dénoncent une exception devenant la règle. Ces arbitrages politiques traduisent la difficulté d'appliquer une transition écologique rapide dans un secteur soumis à de fortes pressions économiques.",
-      "image": "https://www.franceinfo.fr/pictures/EKajj4tHB7TWAYcGNpuIrB4eIQc/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af22712da1c0491010676.jpg"
-    },
-    {
-      "titre": "Plus de 200 défenseurs de l’environnement tués aux Philippines ces dernières années",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/plus-de-200-defenseurs-de-l-environnement-tues-aux-philippines-ces-dernieres-annees_8275223.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-09T22:43:05+01:00",
-      "resume": "Aux Philippines, plus de 200 défenseurs de l’environnement ont été tués au cours des dernières années. Les habitants locaux témoignent d'intimidations, de menaces de mort et de la peur constante de représailles en raison de leur opposition aux compagnies minières et à l'abattage illégal d'arbres sur leurs terres.",
-      "contexte": "Les Philippines figurent traditionnellement parmi les pays les plus dangereux au monde pour les militants écologistes et les défenseurs des droits humains. Cet archipel, riche en ressources naturelles, fait l'objet de convoitises intenses de la part d'industries extractives, ce qui génère de graves conflits fonciers et sociaux. L'impunité relative dont jouissent souvent les auteurs de violences contre ces militants s'explique généralement par la faiblesse de l'État de droit dans certaines régions isolées et par la puissance des intérêts économiques en jeu.",
-      "image": "https://www.franceinfo.fr/pictures/TpYaE6P09B7sq-Ux99CF0B59GYw/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af23cf838e2f955323049.jpg"
-    },
-    {
-      "titre": "Donald Trump classe le Bureau ovale comme \"monument historique\"",
-      "lien": "https://www.franceinfo.fr/monde/usa/donald-trump-classe-le-bureau-ovale-comme-monument-historique_8275175.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-09T21:45:07+01:00",
-      "resume": "Donald Trump a signé un décret présidentiel classant le Bureau ovale comme « monument historique ». Par cette décision, le président américain entend sanctuariser et préserver toutes les modifications de décoration qu'il a apportées à cette pièce emblématique de la Maison Blanche.",
-      "contexte": "La décoration et l'aménagement du Bureau ovale font traditionnellement l'objet d'une personnalisation par chaque nouveau locataire de la Maison Blanche, reflétant ses goûts ou sa vision politique. En le classant par décret, Donald Trump cherche à figer son empreinte esthétique et historique de manière pérenne. Ce type de mesure administrative, bien qu'insolite, s'inscrit dans une volonté récurrente de marquer durablement les symboles du pouvoir exécutif américain.",
-      "image": "https://www.franceinfo.fr/pictures/WovQ8weaLXjLLrbIbvqi3yPT7uU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af230a670da0546200632.png"
+      "titre": "Dans « 15/18 », le cinéaste Cédric Kahn s’empare de la détresse adolescente au sein d’un service psychiatrique",
+      "lien": "https://www.lemonde.fr/culture/article/2026/11/10/dans-15-18-le-cineaste-cedric-khan-s-empare-de-la-detresse-adolescente-au-sein-d-un-service-psychiatrique_6808878_3246.html",
+      "source": "Le Monde",
+      "date": "2026-11-10T18:00:05+01:00",
+      "resume": "Le réalisateur Cédric Kahn sort son nouveau long-métrage intitulé « 15/18 », consacré à la détresse adolescente. L'intrigue du film se déroule en grande partie dans l'enceinte d'un service de psychiatrie d'un hôpital parisien. Présentée comme une œuvre hybride au sein de la filmographie du cinéaste, la production suscite des réserves critiques et peine à convaincre.",
+      "contexte": "La santé mentale des adolescents fait l'objet d'une attention accrue dans le débat public depuis plusieurs années, notamment en raison de la saturation des structures pédopsychiatriques. Cédric Kahn, cinéaste habitué à explorer les tensions humaines et sociétales, s'empare ici d'un sujet clinique délicat. Le traitement fictionnel en milieu hospitalier fermé représente un exercice artistique complexe entre réalisme documentaire et dramaturgie.",
+      "image": "https://img.lemde.fr/2026/11/02/305/0/3100/1550/644/322/60/0/e5960ba_upload-1-ajjnngbtsxro-photo-2-15-18-ad-vitam-films.jpg"
     }
   ],
   "aujourdhui": [
     {
-      "titre": "Un fonctionnaire britannique fraude en cumulant 8 salaires",
-      "lien": "https://www.franceinfo.fr/monde/royaume-uni/un-fonctionnaire-britannique-fraude-en-cumulant-8-salaires_8276792.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-10T22:05:01+01:00",
-      "resume": "Un fonctionnaire britannique est actuellement jugé pour avoir fraudé l'administration en cumulant secrètement huit emplois simultanés. Profitant de la période de la pandémie et prétextant des problèmes de santé pour devenir un \"salarié invisible\", il a empoché 400 000 euros de salaires au sein de plusieurs ministères, dont ceux de la Santé et de l'Intérieur. Il risque désormais une lourde peine de prison.",
-      "contexte": "Cette affaire met en lumière des failles dans les systèmes de contrôle et de gestion des ressources humaines au sein de la fonction publique, exacerbées par le passage au télétravail durant la crise sanitaire. De tels cas soulignent les enjeux de transparence et de responsabilité dans les administrations publiques face à la multiplication des structures et des contrats.",
-      "image": "https://www.franceinfo.fr/pictures/LKdgVhCSsrVcN4QwcqVp5UY6y48/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/10/6af358dc916a8648592519.png"
-    },
-    {
-      "titre": "\"C'est aux Ukrainiens de décider\" : La France insoumise répond à la polémique sur les propos de Jean-Luc Mélenchon évoquant le Donbass",
-      "lien": "https://www.franceinfo.fr/politique/melenchon/c-est-aux-ukrainiens-de-decider-la-france-insoumise-repond-a-la-polemique-sur-les-propos-de-jean-luc-melenchon-evoquant-le-donbass_8276936.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-10T22:04:25+01:00",
-      "resume": "Jean-Luc Mélenchon est au cœur d'une polémique après avoir suggéré que les habitants du Donbass devraient avoir le droit de choisir entre l'Ukraine et la Russie. La diplomatie ukrainienne a vivement réagi en rappelant le vote pour l'indépendance de 1991, tandis que La France insoumise dénonce une déformation des propos de son candidat à la présidentielle.",
-      "contexte": "La question du statut des territoires ukrainiens occupés ou contestés est un sujet hautement sensible qui divise la classe politique française. Ces déclarations s'inscrivent dans un contexte de débats intenses sur la position de la France vis-à-vis du conflit russo-ukrainien et sur les modalités d'une éventuelle résolution diplomatique.",
-      "image": "https://www.franceinfo.fr/pictures/tKkMfKCvUR_x3vxJFdi8iC0UZnI/0x25:1244x725/432x243/filters:format(jpg)/2026/11/10/6af386c678ce0628969355.jpg"
-    },
-    {
-      "titre": "Mobilisation des lycéens : \"La violence n'a pas sa place en démocratie\", condamne Emmanuel Macron après l'agression d'une élue à Chelles",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-11-10T21:58:23+01:00",
-      "resume": "Une nouvelle journée de mobilisation dans le monde de l'éducation a eu lieu mardi, avec des blocages recensés dans 49 lycées français, soit 1,3 % des établissements. La journée a été marquée par l'agression d'une élue à Chelles, en Seine-et-Marne, qui a été aspergée d'essence. Emmanuel Macron a condamné ces violences et apporté son soutien aux agents de l'Éducation nationale.",
-      "contexte": "Les mouvements de contestation lycéens et enseignants sont fréquents en France lorsqu'il s'agit de protester contre des réformes du système éducatif ou des conditions de travail. La radicalisation de certaines manifestations soulève des inquiétudes sur la sécurité des représentants de l'État et le respect du cadre démocratique lors des revendications sociales.",
-      "image": "https://www.franceinfo.fr/pictures/9OSG0G6pghHcW3pPIUx_8Mq2Ofo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af3635396875123315625.jpg"
-    },
-    {
-      "titre": "\"Si je n'avais pas les vidéos, je ne serais pas là en tant que victime\", témoigne Michel Zecler au procès des policiers accusés de l'avoir roué de coups",
-      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/si-je-n-avais-pas-les-videos-je-ne-serais-pas-la-en-tant-que-victime-temoigne-michel-zecler-au-proces-des-policiers-accuses-de-l-avoir-roue-de-coups_8276522.html#xtor=RSS-3-[lestitres]",
+      "titre": "Cérémonie du 11-Novembre : Emmanuel Macron a rendu hommage à Georges Clemenceau et au soldat inconnu",
+      "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-10T21:56:00+01:00",
-      "resume": "Le producteur de musique Michel Zecler a témoigné mardi devant la cour criminelle de Paris lors du procès des policiers accusés de l'avoir roué de coups. Ce procès fait suite à la diffusion d'images de vidéosurveillance montrant l'agression, une preuve que la victime juge essentielle pour sa reconnaissance en tant que victime.",
-      "contexte": "Cette affaire est emblématique du débat sur les violences policières et l'importance cruciale des preuves visuelles pour établir la vérité judiciaire. Elle illustre les tensions persistantes entre une partie de la population et les forces de l'ordre, ainsi que le rôle de la vidéo dans la transparence de l'action publique.",
-      "image": "https://www.franceinfo.fr/pictures/97AyOi_JJ6b1T_jGR50pN287ISM/0x0:1644x924/432x243/filters:format(jpg)/2026/11/10/6af3771bb57db117414177.jpg"
+      "date": "2026-11-11T12:08:48+01:00",
+      "resume": "Emmanuel Macron a présidé les commémorations du 11-Novembre, marquant sa dernière participation à cette cérémonie en tant que chef de l'État. Le président de la République s'est recueilli sur la tombe du soldat inconnu sous l'Arc de Triomphe et a rendu hommage à Georges Clemenceau. Pour cette édition, les hommages officiels ont mis un accent particulier sur la figure du maréchal Foch.",
+      "contexte": "Ces commémorations annuelles marquent la signature de l'armistice de 1918 mettant fin aux combats de la Première Guerre mondiale. Elles célèbrent le souvenir de tous les morts pour la France et rappellent les figures politiques et militaires ayant conduit à la victoire alliée. Cette cérémonie revêtait une dimension symbolique pour le chef de l'État, qui effectuait ce rituel républicain pour l'ultime fois de son mandat.",
+      "image": "https://www.franceinfo.fr/pictures/0RAgI1FaMiJ8AmyUmQXmyM9k5rg/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/11/6af4451d1cac5863874379.jpg"
     },
     {
-      "titre": "\"Si l'on garde les mêmes tendances…\" : L'essence repasse enfin sous la barre des deux euros, mais pour combien de temps ?",
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/si-l-on-garde-les-memes-tendances-l-essence-repasse-enfin-sous-la-barre-des-deux-euros-mais-pour-combien-de-temps_8276915.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-10T21:45:32+01:00",
-      "resume": "Le prix du carburant diminue en France, le litre de gazole ayant baissé en moyenne de 20 centimes en dix jours. Cette tendance s'explique par le cours du pétrole repassé sous les 90 dollars le baril et par la mise en vente des réserves stratégiques françaises.",
-      "contexte": "Le coût de l'énergie est un facteur majeur de l'inflation et pèse directement sur le pouvoir d'achat des ménages. La volatilité des prix à la pompe dépend étroitement des marchés mondiaux et des décisions géopolitiques des pays producteurs, rendant les perspectives d'évolution des prix incertaines.",
-      "image": "https://www.franceinfo.fr/pictures/GTBu4YIOl8jUf1EtgW5KRKU-vwo/76x0:1156x607/432x243/filters:format(jpg)/2026/11/10/6af3825bc8f18695828604.jpg"
+      "titre": "Après la reprise des pourparlers entre l'Ukraine et la Russie, Volodymyr Zelensky juge que les échanges ont été \"constructifs\"",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-la-reprise-des-pourparlers-entre-l-ukraine-et-la-russie-volodymyr-zelensky-juge-que-les-echanges-ont-ete-constructifs_8276978.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde · franceinfo",
+      "date": "2026-11-11T12:08:34+01:00",
+      "resume": "Les discussions diplomatiques directes entre l'Ukraine et la Russie ont repris pour la première fois depuis février. À l'issue de cette session visant à progresser vers un règlement du conflit déclenché par l'invasion russe en 2022, le président ukrainien Volodymyr Zelensky a qualifié les échanges de constructifs. Devant la presse, il a également salué l'inclusion des Européens dans ces négociations, estimant impossible de mettre fin à la guerre et d'assurer la sécurité ou la reconstruction sans leur participation.",
+      "contexte": "Depuis l'interruption des pourparlers au printemps 2022, la diplomatie était restée largement bloquée en raison des revendications territoriales et sécuritaires inconciliables des deux belligérants. L'intégration formelle des partenaires européens répond à la volonté de Kiev d'obtenir de solides garanties de sécurité collectives face à Moscou. L'enjeu de ces discussions préliminaires est d'explorer un cadre d'apaisement après plusieurs années d'un conflit d'usure aux lourdes conséquences économiques et humaines.",
+      "image": "https://www.franceinfo.fr/pictures/68qjwsmgcjIQTFu71532E8P40wQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af3942e83702581528099.jpg"
     },
     {
-      "titre": "Un carambolage fait au moins 11 morts et 51 blessés en Bulgarie",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/un-carambolage-fait-au-moins-11-morts-et-51-blesses-en-bulgarie_8276918.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-10T21:41:44+01:00",
-      "resume": "Un carambolage majeur a causé la mort de 11 personnes et fait 51 blessés mardi 10 novembre en Bulgarie. L'accident a impliqué des dizaines de véhicules dans les deux sens de circulation, dans des conditions météorologiques difficiles marquées par un épais brouillard.",
-      "contexte": "Les accidents de la route de grande ampleur sont souvent le résultat de conditions climatiques dégradées combinées à une vitesse inadaptée ou à une forte densité de trafic. Ces événements dramatiques rappellent l'importance de la vigilance routière et de l'adaptation de la conduite lors de phénomènes météorologiques extrêmes.",
-      "image": "https://www.franceinfo.fr/pictures/FNZ0bqpaMI4SMcc_Em0FL2_vvTE/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/10/6af380b8d7aeb629220783.jpg"
-    },
-    {
-      "titre": "Ukraine : négocier sur quoi, avec qui ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261110-ukraine-n%C3%A9gocier-sur-quoi-avec-qui",
+      "titre": "🔴 Italie : au moins 300 écoles évacuées à la suite d'alertes à la bombe par e-mail",
+      "lien": "https://www.france24.com/fr/europe/20261111-italie-au-moins-300-etablissements-scolaires-evacues-a-la-suite-alertes-%C3%A0-la-bombe-par-email",
       "source": "France 24",
-      "date": "2026-11-10T21:30:28+01:00",
-      "resume": "Des discussions trilatérales entre les délégations ukrainienne, russe et américaine se tiennent à Abu Dhabi, aux Émirats arabes unis. L'émissaire américain Jared Kushner a plaidé pour l'établissement d'un nouveau cadre de sécurité visant à garantir une paix durable dans la région.",
-      "contexte": "La recherche d'une solution diplomatique au conflit en Ukraine implique de nombreux acteurs internationaux aux intérêts divergents. Ces pourparlers soulignent l'implication active des États-Unis et la recherche de médiateurs neutres pour tenter de mettre fin à une guerre qui impacte la stabilité de l'Europe entière.",
-      "image": "https://s.france24.com/media/display/6f4e976a-dd10-11f1-9ed6-3f371022a770/w:1024/p:16x9/AP26314354614659.jpg"
+      "date": "2026-11-11T12:00:05+01:00",
+      "resume": "Au moins 300 établissements scolaires ont été évacués en Italie à la suite de menaces d'attentat. Ces perturbations massives ont été déclenchées par l'envoi d'alertes à la bombe transmises par courrier électronique. Les autorités locales ont pris des mesures de sécurité pour sécuriser les lieux et vérifier les bâtiments.",
+      "contexte": "Les vagues d'alertes coordonnées par voie numérique visent généralement à désorganiser les services publics et à susciter un sentiment d'insécurité. Face à ce type de menace, même anonyme, les protocoles de sécurité imposent l'évacuation systématique pour garantir l'intégrité des élèves et du personnel. Des investigations sont couramment menées par les services de cybercriminalité afin de tracer l'origine des serveurs et d'identifier les auteurs de ces canulars malveillants.",
+      "image": ""
     },
     {
-      "titre": "A Gaza, au moins sept personnes sont mortes dans des frappes israéliennes, dont un jeune de 13 ans, rapporte la Défense civile",
-      "lien": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-au-moins-sept-personnes-sont-mortes-dans-des-frappes-israeliennes-dont-un-jeune-de-13-ans-rapporte-la-defense-civile_8276867.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Vivre la plus grande aventure de l'humanité\" : la Nasa recrute des astronautes pour aller \"travailler\" sur la Lune",
+      "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/vivre-la-plus-grande-aventure-de-l-humanite-la-nasa-recrute-des-astronautes-pour-aller-travailler-sur-la-lune_8277341.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-11T11:59:53+01:00",
+      "resume": "La Nasa a lancé un appel à candidatures inédit réservé exclusivement aux citoyens américains pour recruter des astronautes. L'objectif officiel de l'agence spatiale est d'envoyer une première colonie d'astronautes vivre et travailler sur la Lune d'ici 2036. Ces missions doivent servir d'étape préparatoire essentielle en vue de futures expéditions habitées vers la planète Mars.",
+      "contexte": "Cette démarche s'inscrit dans la continuité du programme spatial américain visant à réinstaller une présence humaine durable sur le sol lunaire. L'installation d'une base permanente permet de tester les technologies de survie, d'extraction de ressources et de propulsion en milieu hostile. Ces étapes techniques sont jugées indispensables par les scientifiques avant d'envisager des voyages spatiaux beaucoup plus longs et risqués vers la planète rouge.",
+      "image": "https://www.franceinfo.fr/pictures/w9D9axEaeHPFlKX0ULQuk-OT2KI/136x0:2312x1224/432x243/filters:format(jpg)/2026/11/11/6af4495e6327d714447849.jpg"
+    },
+    {
+      "titre": "Intelligence artificielle : la nouvelle règle du CNC en matière de doublage est \"une première étape\" selon le secteur",
+      "lien": "https://www.franceinfo.fr/culture/intelligence-artificielle-la-nouvelle-regle-du-cnc-en-matiere-de-doublage-est-une-premiere-etape-selon-le-secteur_8277566.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-10T21:18:04+01:00",
-      "resume": "Au moins sept personnes, dont un adolescent de 13 ans, ont été tuées lors de frappes israéliennes dans la bande de Gaza ce mardi. L'armée israélienne a justifié ces opérations en déclarant avoir visé des agents militaires dans plusieurs secteurs.",
-      "contexte": "Le conflit dans la bande de Gaza est marqué par une escalade récurrente de violences et des pertes civiles importantes. La situation humanitaire et les enjeux de sécurité restent au cœur des tensions, avec des appels internationaux fréquents à un cessez-le-feu qui se heurtent souvent aux impératifs militaires des parties en conflit.",
-      "image": "https://www.franceinfo.fr/pictures/QPWQS4Npsi_7BK9PPhqTW7_8Vcs/0x106:1024x682/432x243/filters:format(jpg)/2026/11/10/6af37bb889174075867598.jpg"
+      "date": "2026-11-11T11:43:41+01:00",
+      "resume": "Le Centre national du cinéma et de l'image animée (CNC) a instauré une nouvelle règle encadrant les aides au doublage face à l'essor de l'intelligence artificielle. Cette mesure prévoit désormais que les subventions du CNC contribuent exclusivement à la rémunération des auteurs des textes et des artistes-interprètes. Réclamée depuis quatre ans par les professionnels du doublage, cette décision est qualifiée de première étape par le secteur.",
+      "contexte": "Le secteur audiovisuel s'inquiète du déploiement croissant d'outils d'intelligence artificielle générative capables de cloner ou de synthétiser des voix à bas coût. Les syndicats et comédiens craignent une précarisation de leurs métiers et la disparition progressive des interprètes humains. En conditionnant ses aides financières aux personnes physiques, l'institution publique cherche à préserver l'emploi artistique et les droits d'auteur dans la création française.",
+      "image": "https://www.franceinfo.fr/pictures/ARtS6ON269x5cvTbIiaZbpyo8dE/0x53:1024x629/432x243/filters:format(jpg)/2026/11/11/6af440d82d1d4412277566.jpg"
     },
     {
-      "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
-      "lien": "https://www.france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
-      "source": "France 24 · franceinfo",
-      "date": "2026-11-10T21:15:17+01:00",
-      "resume": "Éric Zemmour a officiellement confirmé sa candidature à l'élection présidentielle de 2027 lors d'une intervention sur TF1. Le président du parti Reconquête! dit vouloir \"enrayer le déclin\" de la France et préserver son identité, après avoir déjà participé à l'élection de 2022 où il avait récolté 7 % des voix au premier tour.",
-      "contexte": "L'officialisation précoce d'une candidature pour 2027 témoigne de la volonté de l'extrême droite de s'installer durablement dans le paysage politique français. Cette stratégie vise à mobiliser l'électorat sur des thèmes identitaires et sécuritaires tout en se positionnant comme une alternative aux partis traditionnels.",
-      "image": "https://s.france24.com/media/display/60ba3c06-dd40-11f1-8771-3f371022a770/w:1024/p:16x9/AP21339640501013.jpg"
+      "titre": "La famille Kennedy porte plainte contre le projet d'arc de triomphe de Donald Trump",
+      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-famille-kennedy-porte-plainte-contre-le-projet-d-arc-de-triomphe-de-donald-trump_8277659.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T11:39:39+01:00",
+      "resume": "La famille Kennedy a déposé plainte contre un projet de construction d'un arc de triomphe porté par Donald Trump. Selon le document judiciaire enregistré lundi, les plaignants affirment que l'édifice projeté jettera en permanence une ombre sur les monuments et sépultures de la famille érigés au cimetière national d'Arlington. Aucun commentaire officiel supplémentaire n'a été précisé dans le recours.",
+      "contexte": "Le cimetière militaire d'Arlington est l'un des lieux de mémoire les plus emblématiques des États-Unis, abritant notamment la tombe de l'ancien président John F. Kennedy et sa flamme éternelle. Les projets architecturaux ou mémoriels portés par Donald Trump font régulièrement l'objet de vives contestations politiques et patrimoniales. Cette démarche judiciaire vise à faire bloquer ou modifier le projet pour préserver la visibilité et la solennité des monuments familiaux.",
+      "image": "https://www.franceinfo.fr/pictures/xHM73Pf_pYdcnrWRWsXlxsNFr78/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af445bacb2eb247286805.jpg"
+    },
+    {
+      "titre": "Entre la France et l'Algérie, la crise est passée mais les relations diplomatiques restent amorphes",
+      "lien": "https://www.franceinfo.fr/monde/afrique/algerie/la-relation-franco-algerienne-est-elle-en-train-de-s-enliser_8277509.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-11T11:17:23+01:00",
+      "resume": "Les relations diplomatiques entre la France et l'Algérie sont actuellement décrites comme amorphes et sans véritable dynamique. Si la crise diplomatique ouverte entre Paris et Alger semble avoir été surmontée, les échanges bilatéraux restent atones. Aucune avancée majeure n'est constatée dans le dialogue entre les deux capitales.",
+      "contexte": "Les rapports franco-algériens sont historiquement marqués par des cycles de rapprochements suivis de tensions autour de la mémoire de la colonisation, des visas ou de la politique régionale. Les désaccords récents sur des dossiers géopolitiques sensibles ont freiné la volonté de refondation pourtant affichée par les dirigeants des deux rives. Cet enlisement empêche pour l'instant la relance de coopérations économiques et sécuritaires approfondies en Méditerranée.",
+      "image": "https://www.franceinfo.fr/pictures/pnbOcs5pBPDs9t481ws6UjhC6DA/0x62:5225x3002/432x243/filters:format(jpg)/2026/11/11/6af4311865ec6552640982.jpg"
+    },
+    {
+      "titre": "Un juge américain refuse de rejeter la plainte pour diffamation de Donald Trump contre la BBC",
+      "lien": "https://www.franceinfo.fr/economie/medias/un-juge-americain-refuse-de-rejeter-la-plainte-pour-diffamation-de-donald-trump-contre-la-bbc_8277491.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-11T11:14:30+01:00",
+      "resume": "Un juge américain a rejeté la requête du groupe audiovisuel britannique BBC, qui demandait le classement d'une plainte pour diffamation déposée par Donald Trump. L'ancien président des États-Unis reproche à la chaîne publique d'avoir diffusé un montage vidéo trompeur de ses déclarations faites lors des événements du Capitole. La procédure judiciaire va donc pouvoir se poursuivre devant les tribunaux.",
+      "contexte": "Donald Trump utilise fréquemment la voie judiciaire contre les grands médias nationaux et internationaux qu'il accuse de partialité éditoriale à son égard. Aux États-Unis, le premier amendement protège très largement la liberté de la presse, rendant les condamnations pour diffamation de personnalités publiques particulièrement difficiles à obtenir. La décision du juge permet néanmoins à la défense et à l'accusation d'entamer une phase d'examen plus détaillée des pièces du dossier.",
+      "image": "https://www.franceinfo.fr/pictures/YlVI0rrJZR9tG_04Hrm0K6VmGZw/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af43fef32c3a481720859.jpg"
+    },
+    {
+      "titre": "Sans les vidéos, Michel Zecler \"ne serait pas devant la cour en tant que victime, mais en tant qu'auteur\", déclare son avocat",
+      "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/sans-les-videos-michel-zecler-ne-serait-pas-devant-la-cour-en-tant-que-victime-mais-en-tant-qu-auteur-declare-son-avocat_8277623.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T11:14:07+01:00",
+      "resume": "Le procès des policiers accusés d'avoir passé à tabac le producteur de musique Michel Zecler s'est ouvert devant la justice. Lors d'une intervention sur franceinfo, son avocat a qualifié cette audience d'historique, affirmant que sans les enregistrements vidéo, son client aurait comparu comme auteur et non comme victime. Il a exprimé son souhait que ce statut de victime soit officiellement et définitivement reconnu par la cour.",
+      "contexte": "L'affaire remonte à la diffusion d'images de vidéosurveillance montrant plusieurs policiers rouer de coups Michel Zecler dans son studio parisien, ce qui avait suscité une vive indignation publique. L'enregistrement avait contredit les premières versions rédigées dans le procès-verbal des fonctionnaires de police. L'enjeu de ce procès porte sur l'usage illégitime de la force par les forces de l'ordre et le rôle décisif des images dans la manifestation de la vérité judiciaire.",
+      "image": "https://www.franceinfo.fr/pictures/7D7Ri7U4fbValJNayaB8BumPWk0/0x0:1280x720/432x243/filters:format(jpg)/2026/11/11/6af43ee82c9d7211743793.jpg"
+    },
+    {
+      "titre": "Les solutions pour apaiser les étudiants \"sont dans les mains du gouvernement\" estime la présidente de la Fage, qui appelle à continuer à manifester",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-solutions-pour-apaiser-les-etudiants-sont-dans-les-mains-du-gouvernement-estime-la-presidente-de-la-f-qui-appelle-a-continuer-a-manifester_8277413.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T11:10:15+01:00",
+      "resume": "La présidente du syndicat étudiant Fage a affirmé que les solutions pour désamorcer la colère des jeunes sont désormais dans les mains du gouvernement, appelant à maintenir la mobilisation. Malgré des cortèges plus clairsemés constatés mardi, le mouvement de protestation des lycéens et étudiants se poursuit. De nouveaux appels à manifester ont été lancés conjointement par l'intersyndicale de la jeunesse et celle de la Fonction publique.",
+      "contexte": "Cette mobilisation reflète un mécontentement récurrent de la jeunesse autour de la précarité étudiante, des conditions de vie et des réformes de l'enseignement. La convergence avec des syndicats de fonctionnaires vise à peser plus fortement sur les arbitrages budgétaires et sociaux de l'exécutif. Le gouvernement cherche généralement à éviter l'ancrage de tels mouvements qui peuvent rapidement s'étendre aux campus universitaires.",
+      "image": "https://www.franceinfo.fr/pictures/NntwyzP2OGMfn2wvrRMSNuMbqiw/0x416:8001x4917/432x243/filters:format(jpg)/2026/11/11/6af42c0218382005022065.jpg"
     }
   ],
   "culture": [
     {
       "theme": "sport",
-      "titre": "L'invention du judo",
-      "texte": "Le judo a été fondé au Japon par Jigoro Kano à la fin du XIXe siècle. Il souhaitait transformer les anciennes techniques de combat des samouraïs, le jujitsu, en une méthode éducative et physique globale. Le principe fondamental repose sur l'utilisation de la force de l'adversaire pour le déséquilibrer plutôt que sur la confrontation brute. Cette discipline est devenue un sport olympique officiel lors des Jeux de Tokyo en 1964. Elle met l'accent sur le respect mutuel et la maîtrise de soi.",
-      "a_retenir": "Le judo signifie littéralement la voie de la souplesse, privilégiant l'agilité à la force pure.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Uchimata-illustration.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "titre": "La révolution du Fosbury-flop",
+      "texte": "Jusqu'aux Jeux olympiques de 1968 à Mexico, les spécialistes du saut en hauteur franchissaient la barre face à elle, le plus souvent selon la méthode du rouleau ventral. L'athlète américain Dick Fosbury a surpris le public en s'élançant le dos tourné vers l'obstacle. Cette technique inédite permettait de faire passer le corps au-dessus de la barre tout en maintenant son centre de gravité plus bas. Longtemps critiqué et moqué pour un style jugé inélégant ou périlleux, Fosbury a fait taire ses détracteurs en décrochant la médaille d'or olympique. Son saut dorsal a rapidement transformé la discipline au point de devenir la norme mondiale incontestée.",
+      "a_retenir": "En choisissant de sauter sur le dos, Dick Fosbury a révolutionné le saut en hauteur en optimisant la mécanique du centre de gravité.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bundesarchiv_Bild_183-H0801-0020-001%2C_Burglinde_Pollak.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "theme": "nature et animaux",
+      "titre": "Le mystère biologique du blob",
+      "texte": "Ni plante, ni animal, ni champignon, le blob est un être vivant fascinant classé parmi les amibozoaires. Bien qu'il soit constitué d'une seule cellule géante dotée de millions de noyaux, cet organisme peut s'étendre sur plusieurs mètres carrés. Dépourvu de cerveau et de système nerveux, le blob est pourtant capable de mémoriser des chemins, de résoudre des labyrinthes et d'adapter son comportement à son environnement. Il a également la faculté de fusionner avec d'autres congénères pour leur transmettre les connaissances qu'il a acquises. Pratiquement immortel en milieu naturel, il se met en dormance lorsque la nourriture vient à manquer et reprend vie dès que l'humidité réapparaît.",
+      "a_retenir": "Bien qu'il soit formé d'une unique cellule sans système nerveux, le blob possède de stupéfiantes capacités d'apprentissage et de mémoire.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Physarum_polycephalum_plasmodium.jpg/960px-Physarum_polycephalum_plasmodium.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "theme": "arts et littérature",
-      "titre": "La naissance du haïku",
-      "texte": "Le haïku est une forme poétique japonaise extrêmement courte qui célèbre l'instant présent. Traditionnellement, il se compose de trois segments de phrases évoquant souvent une saison ou un phénomène naturel. Contrairement à la poésie occidentale classique, le haïku ne cherche pas à raconter une histoire longue ou complexe. Il invite le lecteur à une contemplation immédiate et sensorielle du monde qui l'entoure. Cette structure minimaliste laisse une grande part à l'imagination et au silence.",
-      "a_retenir": "Le haïku est un poème bref qui capture une émotion ou une image fugace de la nature.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Rakushisha_-_stone_with_haiku.jpg/960px-Rakushisha_-_stone_with_haiku.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    {
-      "theme": "économie",
-      "titre": "La théorie de l'avantage comparatif",
-      "texte": "Développée par David Ricardo, cette théorie économique explique pourquoi le commerce international est bénéfique pour tous les pays. Elle démontre qu'une nation a intérêt à se spécialiser dans la production où elle est la plus efficace, même si elle est moins productive que ses partenaires. En échangeant ses surplus contre d'autres biens, chaque pays augmente sa consommation globale. Ce concept constitue encore aujourd'hui le fondement intellectuel du libre-échange mondial. Il montre que la spécialisation permet d'optimiser les ressources à l'échelle planétaire.",
-      "a_retenir": "L'avantage comparatif prouve que le commerce est mutuellement avantageux grâce à la spécialisation.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Avantage_comparatif.svg/960px-Avantage_comparatif.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "titre": "L'art japonais du kintsugi",
+      "texte": "Apparu au Japon à la fin du XVe siècle, le kintsugi est une technique artisanale destinée à réparer les céramiques et les porcelaines cassées. Au lieu de dissimuler les cassures, l'artisan assemble les morceaux à l'aide d'une laque naturelle saupoudrée d'or ou d'argent. Cette pratique s'inspire du concept philosophique du wabi-sabi, qui invite à reconnaître et célébrer la beauté des imperfections et de l'éphémère. La pièce ainsi restaurée ne retrouve pas son apparence originelle, mais s'enrichit d'une identité propre et d'une valeur artistique décuplée. Les lignes d'or mettent en valeur les accidents de l'objet, transformant ses fêlures en une marque de noblesse.",
+      "a_retenir": "Le kintsugi sublime la vaisselle brisée en scellant ses éclats avec de la poudre d'or, transformant les failles d'un objet en une œuvre d'art.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Glass_Bowl%2C_Kofun_period%2C_6th_century%2C_perhaps_from_the_tomb_of_Emperor_Ankan%2C_Habikino-shi%2C_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG/960px-Glass_Bowl%2C_Kofun_period%2C_6th_century%2C_perhaps_from_the_tomb_of_Emperor_Ankan%2C_Habikino-shi%2C_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "a341956fb7",
-      "date": "2026-11-10",
-      "type": "actu",
-      "question": "Quel stratagème a utilisé un fonctionnaire britannique pour frauder l'administration de 400 000 euros ?",
-      "choix": [
-        "Il a créé de fausses entreprises pour facturer des services fictifs aux ministères.",
-        "Il a détourné des fonds de pension publics.",
-        "Il a falsifié des diplômes pour obtenir des postes à haute responsabilité.",
-        "Il a cumulé huit emplois simultanés en se faisant passer pour un salarié invisible."
-      ],
-      "reponse": 3,
-      "explication": "Le fonctionnaire a profité de la période de pandémie pour cumuler huit emplois en étant un 'salarié invisible'.",
-      "lien": "https://www.franceinfo.fr/monde/royaume-uni/un-fonctionnaire-britannique-fraude-en-cumulant-8-salaires_8276792.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/LKdgVhCSsrVcN4QwcqVp5UY6y48/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/10/6af358dc916a8648592519.png"
-    },
-    {
-      "id": "aa9def8fb1",
-      "date": "2026-11-10",
-      "type": "actu",
-      "question": "Quel incident a marqué la journée de mobilisation lycéenne à Chelles ?",
-      "choix": [
-        "L'incendie volontaire d'un lycée.",
-        "L'agression d'une élue qui a été aspergée d'essence.",
-        "La démission collective des représentants des parents d'élèves.",
-        "Le blocage total des accès à la ville par les élèves."
-      ],
-      "reponse": 1,
-      "explication": "Le résumé mentionne explicitement qu'une élue a été aspergée d'essence lors de cette journée.",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/9OSG0G6pghHcW3pPIUx_8Mq2Ofo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af3635396875123315625.jpg"
-    },
-    {
-      "id": "7cf5071cee",
-      "date": "2026-11-10",
-      "type": "actu",
-      "question": "Quels facteurs expliquent la baisse du prix du carburant en France selon l'article ?",
-      "choix": [
-        "La découverte de nouveaux gisements de pétrole en Europe.",
-        "La chute du cours du pétrole et la mise en vente des réserves stratégiques.",
-        "La baisse des taxes gouvernementales sur les produits pétroliers.",
-        "La baisse de la demande mondiale due à une récession globale."
-      ],
-      "reponse": 1,
-      "explication": "La baisse est attribuée au cours du pétrole repassé sous les 90 dollars et à l'utilisation des réserves stratégiques.",
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/si-l-on-garde-les-memes-tendances-l-essence-repasse-enfin-sous-la-barre-des-deux-euros-mais-pour-combien-de-temps_8276915.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/GTBu4YIOl8jUf1EtgW5KRKU-vwo/76x0:1156x607/432x243/filters:format(jpg)/2026/11/10/6af3825bc8f18695828604.jpg"
-    },
-    {
-      "id": "ef2d261a92",
-      "date": "2026-11-10",
-      "type": "actu",
-      "question": "Quelle est la cause principale avancée pour le carambolage mortel en Bulgarie ?",
-      "choix": [
-        "Des conditions météorologiques difficiles marquées par un épais brouillard.",
-        "Une manifestation qui a bloqué l'autoroute.",
-        "Un problème de signalisation routière défectueuse.",
-        "Une défaillance technique sur un poids lourd."
-      ],
-      "reponse": 0,
-      "explication": "L'article précise que l'accident a eu lieu dans des conditions météorologiques marquées par un épais brouillard.",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/un-carambolage-fait-au-moins-11-morts-et-51-blesses-en-bulgarie_8276918.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/FNZ0bqpaMI4SMcc_Em0FL2_vvTE/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/10/6af380b8d7aeb629220783.jpg"
-    },
-    {
-      "id": "deef31914b",
-      "date": "2026-11-10",
-      "type": "actu",
-      "question": "Quel est l'objectif principal affiché par Éric Zemmour en officialisant sa candidature ?",
-      "choix": [
-        "Renforcer les liens diplomatiques avec les pays voisins.",
-        "Enrayer le déclin de la France et préserver son identité.",
-        "Réformer le système éducatif national.",
-        "Augmenter le pouvoir d'achat des classes moyennes."
-      ],
-      "reponse": 1,
-      "explication": "Éric Zemmour a déclaré vouloir 'enrayer le déclin' de la France et préserver son identité.",
-      "lien": "https://www.france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
-      "image": "https://s.france24.com/media/display/60ba3c06-dd40-11f1-8771-3f371022a770/w:1024/p:16x9/AP21339640501013.jpg"
-    },
-    {
-      "id": "1432542302",
-      "date": "2026-11-10",
-      "type": "culture",
-      "question": "Quel est le principe fondamental du judo selon Jigoro Kano ?",
-      "choix": [
-        "La maîtrise exclusive des techniques de frappe à mains nues.",
-        "La force physique brute et la vitesse d'exécution.",
-        "Le combat systématique au sol sans aucune projection.",
-        "L'utilisation de la force de l'adversaire pour le déséquilibrer."
-      ],
-      "reponse": 3,
-      "explication": "Le judo repose sur l'utilisation de la force de l'adversaire plutôt que sur la confrontation brute.",
-      "lien": "",
-      "image": ""
-    },
-    {
-      "id": "fdd16d625b",
-      "date": "2026-11-10",
-      "type": "culture",
-      "question": "Quelle est la caractéristique principale d'un haïku ?",
-      "choix": [
-        "C'est un long poème narratif racontant une légende.",
-        "Il est composé de cinq segments de phrases complexes.",
-        "Il doit obligatoirement rimer avec le vers suivant.",
-        "C'est une forme poétique très courte invitant à la contemplation."
-      ],
-      "reponse": 3,
-      "explication": "Le haïku est une forme poétique japonaise extrêmement courte invitant à la contemplation immédiate.",
-      "lien": "",
-      "image": ""
-    }
-  ]
+  "quiz_jour": []
 }
