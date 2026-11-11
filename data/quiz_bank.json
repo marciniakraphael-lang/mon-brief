@@ -4986,6 +4986,118 @@
       "explication": "Le haïku est une forme poétique japonaise extrêmement courte invitant à la contemplation immédiate.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "153385af19",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Quelle entreprise a été condamnée à une amende par la justice brésilienne pour traitement inégal lors de la présidentielle ?",
+      "choix": [
+        "TikTok",
+        "Google",
+        "Meta",
+        "X (anciennement Twitter)"
+      ],
+      "reponse": 2,
+      "explication": "La justice brésilienne a infligé une amende à Meta pour un traitement jugé inégal entre les candidats lors de la campagne présidentielle.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/la-justice-bresilienne-a-inflige-une-amende-a-meta-pour-traitement-inegal-entre-lula-et-flavio-bolsonaro-lors-de-la-presidentielle_8277806.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/f7MJlWKvt1OTyIfD-Al1e3oK-qM/0x106:1024x682/432x243/filters:format(jpg)/2026/11/11/6af466bb4cbf8101869230.jpg"
+    },
+    {
+      "id": "0da2fa797b",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Quel pays a vu environ 300 écoles évacuées à la suite d'alertes à la bombe ?",
+      "choix": [
+        "L'Allemagne",
+        "L'Espagne",
+        "L'Italie",
+        "La France"
+      ],
+      "reponse": 2,
+      "explication": "Rien qu'en Italie, environ 300 établissements scolaires ont reçu des courriels menaçants, entraînant des évacuations massives.",
+      "lien": "https://www.franceinfo.fr/monde/europe/direct-des-centaines-d-ecoles-visees-par-des-alertes-a-la-bombe-en-italie-en-irlande-et-au-royaume-uni-de-nombreux-etablissements-evacues_8277773.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/VeG_EeE9ZBT_7sHHd0bylctedS4/0x0:7166x4030/432x243/filters:format(jpg)/2026/11/11/6af45c991c7c7560617729.jpg"
+    },
+    {
+      "id": "dceba96dfb",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Quelle armée étrangère a frappé le quartier général d'un des principaux gangs en Haïti ?",
+      "choix": [
+        "L'armée américaine",
+        "L'armée salvadorienne",
+        "L'armée canadienne",
+        "L'armée française"
+      ],
+      "reponse": 1,
+      "explication": "L'armée salvadorienne a mené une opération pour détruire le QG d'un des principaux gangs en Haïti, une intervention saluée par les autorités locales.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-ha%C3%AFti-l-arm%C3%A9e-salvadorienne-frappe-le-qg-d-un-des-principaux-gangs-du-pays",
+      "image": "https://s.france24.com/media/display/c6f97ce6-ddc9-11f1-af32-f71d22e7fea9/w:1024/p:16x9/Haiti-Bukele-10.png"
+    },
+    {
+      "id": "3acbe71e78",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Par qui l'auteur et acteur britannique David Walliams est-il accusé ?",
+      "choix": [
+        "De plagiat littéraire",
+        "De prédation sexuelle",
+        "De diffamation",
+        "De fraude fiscale"
+      ],
+      "reponse": 1,
+      "explication": "David Walliams est visé par des accusations de prédation sexuelle émanant de plusieurs femmes.",
+      "lien": "https://www.franceinfo.fr/culture/livres/l-auteur-et-acteur-britannique-david-walliams-est-accuse-de-predation-sexuelle_8277683.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/xpkQ6lN-FUPnDCGAdutDiRGb7Zs/0x285:5472x3363/432x243/filters:format(jpg)/2026/11/11/6af45052f0b34810310787.jpg"
+    },
+    {
+      "id": "314021785d",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Selon le PDG de Coopérative U, des ruptures ponctuelles d'approvisionnement ont touché quelles stations-service ?",
+      "choix": [
+        "Dans le nord-est de la France",
+        "En Corse",
+        "En Île-de-France",
+        "Dans le sud-ouest de la France"
+      ],
+      "reponse": 0,
+      "explication": "Le PDG de Coopérative U a signalé des difficultés et des ruptures ponctuelles dans plusieurs stations-service du nord-est de la France.",
+      "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/certaines-stations-essences-peuvent-etre-en-rupture-ponctuelle-dans-le-nord-est-de-la-france-alerte-le-pdg-de-cooperative-u_8277749.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/dNQ8ZXnn2PFlEdQh7RqW1_KZb0s/0x105:1024x681/432x243/filters:format(jpg)/2026/09/18/6aad17ffd09da314414610.jpg"
+    },
+    {
+      "id": "92d8cd25f7",
+      "date": "2026-11-11",
+      "type": "culture",
+      "question": "Quel athlète a révolutionné le saut en hauteur aux Jeux olympiques de 1968 avec sa technique du saut dorsal ?",
+      "choix": [
+        "Carl Lewis",
+        "Dick Fosbury",
+        "Bob Beamon",
+        "Sergey Bubka"
+      ],
+      "reponse": 1,
+      "explication": "L'Américain Dick Fosbury a surpris le monde en passant la barre le dos tourné, inventant le 'Fosbury-flop'.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "b7bda4a80e",
+      "date": "2026-11-11",
+      "type": "culture",
+      "question": "Qu'appelle-t-on le 'blob' dans le domaine biologique ?",
+      "choix": [
+        "Une bactérie aquatique",
+        "Un amibozoaire unicellulaire géant",
+        "Un virus marin",
+        "Un champignon parasite"
+      ],
+      "reponse": 1,
+      "explication": "Le blob est un être vivant fascinant classé parmi les amibozoaires, constitué d'une seule cellule géante dotée de millions de noyaux.",
+      "lien": "",
+      "image": ""
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
-  "mode": "morning",
-  "updated": "2026-11-11T12:16:24.821850+01:00",
+  "mode": "evening",
+  "updated": "2026-11-11T14:28:45.459852+01:00",
   "deja_presente": [
     {
       "titre": "Manifestations du 10 novembre : une conseillère régionale porte plainte après avoir été visée par un jet de bouteille d'essence en banlieue parisienne",
@@ -107,94 +107,103 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Cérémonie du 11-Novembre : Emmanuel Macron a rendu hommage à Georges Clemenceau et au soldat inconnu",
-      "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-[lestitres]",
+      "titre": "Négociations Ukraine-Russie : Kiev et Moscou s'entendent pour un échange \"à grande échelle\" de prisonniers",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-negociations-ukraine-russie-suite-et-fin-des-pourparlers-mercredi-apres-des-changements-salues-par-volodymyr-zelensky_8277323.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-11T12:08:48+01:00",
-      "resume": "Emmanuel Macron a présidé les commémorations du 11-Novembre, marquant sa dernière participation à cette cérémonie en tant que chef de l'État. Le président de la République s'est recueilli sur la tombe du soldat inconnu sous l'Arc de Triomphe et a rendu hommage à Georges Clemenceau. Pour cette édition, les hommages officiels ont mis un accent particulier sur la figure du maréchal Foch.",
-      "contexte": "Ces commémorations annuelles marquent la signature de l'armistice de 1918 mettant fin aux combats de la Première Guerre mondiale. Elles célèbrent le souvenir de tous les morts pour la France et rappellent les figures politiques et militaires ayant conduit à la victoire alliée. Cette cérémonie revêtait une dimension symbolique pour le chef de l'État, qui effectuait ce rituel républicain pour l'ultime fois de son mandat.",
-      "image": "https://www.franceinfo.fr/pictures/0RAgI1FaMiJ8AmyUmQXmyM9k5rg/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/11/6af4451d1cac5863874379.jpg"
+      "date": "2026-11-11T14:13:22+01:00",
+      "resume": "Kiev et Moscou sont parvenus à un accord pour procéder à un échange de prisonniers décrit comme \"à grande échelle\". Le chef de la délégation russe a indiqué que les détails concrets de ce processus seraient communiqués ultérieurement.",
+      "contexte": "Les échanges de prisonniers constituent l'un des rares canaux de discussion maintenus entre l'Ukraine et la Russie depuis le début du conflit. Ces opérations permettent de répondre à une forte pression humanitaire et familiale des deux côtés, tout en servant parfois de mesure de confiance minimale entre belligérants.",
+      "image": "https://www.franceinfo.fr/pictures/ZA-V5-ojKzcH8ntY0Ml6Zg3ArDU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af4476259d73867117955.jpg"
     },
     {
-      "titre": "Après la reprise des pourparlers entre l'Ukraine et la Russie, Volodymyr Zelensky juge que les échanges ont été \"constructifs\"",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-la-reprise-des-pourparlers-entre-l-ukraine-et-la-russie-volodymyr-zelensky-juge-que-les-echanges-ont-ete-constructifs_8276978.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde · franceinfo",
-      "date": "2026-11-11T12:08:34+01:00",
-      "resume": "Les discussions diplomatiques directes entre l'Ukraine et la Russie ont repris pour la première fois depuis février. À l'issue de cette session visant à progresser vers un règlement du conflit déclenché par l'invasion russe en 2022, le président ukrainien Volodymyr Zelensky a qualifié les échanges de constructifs. Devant la presse, il a également salué l'inclusion des Européens dans ces négociations, estimant impossible de mettre fin à la guerre et d'assurer la sécurité ou la reconstruction sans leur participation.",
-      "contexte": "Depuis l'interruption des pourparlers au printemps 2022, la diplomatie était restée largement bloquée en raison des revendications territoriales et sécuritaires inconciliables des deux belligérants. L'intégration formelle des partenaires européens répond à la volonté de Kiev d'obtenir de solides garanties de sécurité collectives face à Moscou. L'enjeu de ces discussions préliminaires est d'explorer un cadre d'apaisement après plusieurs années d'un conflit d'usure aux lourdes conséquences économiques et humaines.",
-      "image": "https://www.franceinfo.fr/pictures/68qjwsmgcjIQTFu71532E8P40wQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af3942e83702581528099.jpg"
+      "titre": "La justice brésilienne a infligé une amende à Meta pour traitement inégal entre Lula et Flavio Bolsonaro lors de la présidentielle",
+      "lien": "https://www.franceinfo.fr/monde/bresil/la-justice-bresilienne-a-inflige-une-amende-a-meta-pour-traitement-inegal-entre-lula-et-flavio-bolsonaro-lors-de-la-presidentielle_8277806.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-11T14:01:25+01:00",
+      "resume": "La justice brésilienne a infligé une amende à Meta pour un traitement jugé inégal entre Luiz Inacio Lula da Silva et Flavio Bolsonaro lors de la dernière campagne présidentielle. Lula, qui a battu son rival lors du second tour le 25 octobre, avait dénoncé des ingérences de la part de l'entreprise durant la course électorale.",
+      "contexte": "La régulation des grandes plateformes numériques et de leur influence sur les scrutins démocratiques est un enjeu majeur en Amérique latine comme en Europe. Les accusations d'ingérence ou de favoritisme algorithmique conduisent de plus en plus fréquemment les autorités judiciaires à sanctionner les géants de la tech pour garantir l'équité des campagnes.",
+      "image": "https://www.franceinfo.fr/pictures/f7MJlWKvt1OTyIfD-Al1e3oK-qM/0x106:1024x682/432x243/filters:format(jpg)/2026/11/11/6af466bb4cbf8101869230.jpg"
     },
     {
-      "titre": "🔴 Italie : au moins 300 écoles évacuées à la suite d'alertes à la bombe par e-mail",
-      "lien": "https://www.france24.com/fr/europe/20261111-italie-au-moins-300-etablissements-scolaires-evacues-a-la-suite-alertes-%C3%A0-la-bombe-par-email",
+      "titre": "Alertes à la bombe visant des écoles en Europe : des centaines d'établissements évacués en Italie, en Irlande et au Royaume-Uni",
+      "lien": "https://www.franceinfo.fr/monde/europe/direct-des-centaines-d-ecoles-visees-par-des-alertes-a-la-bombe-en-italie-en-irlande-et-au-royaume-uni-de-nombreux-etablissements-evacues_8277773.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T13:36:45+01:00",
+      "resume": "Des centaines d'établissements scolaires ont été évacués en Italie, en Irlande et au Royaume-Uni à la suite d'alertes à la bombe. Rien qu'en Italie, environ 300 écoles ont reçu des courriels menaçants, selon le ministre de l'Éducation Giuseppe Valditara.",
+      "contexte": "Ce type d'alertes massives perturbe régulièrement le service public de l'éducation et nécessite le déploiement important des forces de l'ordre pour des levées de doute systématiques. L'origine de ces menaces coordonnées, souvent relayées par internet, fait généralement l'objet d'enquêtes pour identifier des groupes organisés ou des individus isolés.",
+      "image": "https://www.franceinfo.fr/pictures/VeG_EeE9ZBT_7sHHd0bylctedS4/0x0:7166x4030/432x243/filters:format(jpg)/2026/11/11/6af45c991c7c7560617729.jpg"
+    },
+    {
+      "titre": "Présidentielle 2027 : la candidature d’Eric Zemmour pose « un problème républicain », estime le président de SOS Racisme, Dominique Sopo",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-la-candidature-d-eric-zemmour-pose-un-probleme-republicain-estime-le-president-de-sos-racisme-dominique-sopo_6808971_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-11T13:35:58+01:00",
+      "resume": "Le président de SOS Racisme, Dominique Sopo, a estimé que la candidature d'Eric Zemmour à l'élection présidentielle de 2027 posait « un problème républicain ». Il a reproché à l'ancien candidat de chercher à mettre « des cibles dans le dos des gens », rappelant ses multiples condamnations judiciaires pour provocation à la haine raciale et injure à caractère raciste.",
+      "contexte": "À l'approche des échéances électorales, les prises de position des associations de défense des droits humains se multiplient face aux discours clivants. Ces critiques relancent le débat sur les limites de la liberté d'expression en période politique et sur la compatibilité de certaines condamnations avec l'exercice de fonctions électives.",
+      "image": "https://img.lemde.fr/2026/11/11/725/0/5897/2948/644/322/60/0/98fd7f3_upload-1-oodb0ukq8wxr-000-a2l638a.jpg"
+    },
+    {
+      "titre": "Haïti : L’armée salvadorienne frappe le QG d’un des principaux gangs du pays",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-ha%C3%AFti-l-arm%C3%A9e-salvadorienne-frappe-le-qg-d-un-des-principaux-gangs-du-pays",
       "source": "France 24",
-      "date": "2026-11-11T12:00:05+01:00",
-      "resume": "Au moins 300 établissements scolaires ont été évacués en Italie à la suite de menaces d'attentat. Ces perturbations massives ont été déclenchées par l'envoi d'alertes à la bombe transmises par courrier électronique. Les autorités locales ont pris des mesures de sécurité pour sécuriser les lieux et vérifier les bâtiments.",
-      "contexte": "Les vagues d'alertes coordonnées par voie numérique visent généralement à désorganiser les services publics et à susciter un sentiment d'insécurité. Face à ce type de menace, même anonyme, les protocoles de sécurité imposent l'évacuation systématique pour garantir l'intégrité des élèves et du personnel. Des investigations sont couramment menées par les services de cybercriminalité afin de tracer l'origine des serveurs et d'identifier les auteurs de ces canulars malveillants.",
-      "image": ""
+      "date": "2026-11-11T13:25:07+01:00",
+      "resume": "L'armée salvadorienne a mené une opération en Haïti au cours de laquelle elle a frappé et détruit le quartier général de l'un des principaux gangs du pays. Cette intervention a été annoncée par le président salvadorien Nayib Bukele et saluée par le Premier ministre haïtien ainsi que par le président de la République dominicaine.",
+      "contexte": "Haïti fait face à une crise sécuritaire et humanitaire majeure marquée par le contrôle de larges pans du territoire par des syndicats du crime armés. L'implication de forces extérieures, comme celles du Salvador dont la politique sécuritaire intérieure est très médiatisée, illustre l'internationalisation de la réponse face à la déliquescence de l'État haïtien.",
+      "image": "https://s.france24.com/media/display/c6f97ce6-ddc9-11f1-af32-f71d22e7fea9/w:1024/p:16x9/Haiti-Bukele-10.png"
     },
     {
-      "titre": "\"Vivre la plus grande aventure de l'humanité\" : la Nasa recrute des astronautes pour aller \"travailler\" sur la Lune",
-      "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/vivre-la-plus-grande-aventure-de-l-humanite-la-nasa-recrute-des-astronautes-pour-aller-travailler-sur-la-lune_8277341.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-11T11:59:53+01:00",
-      "resume": "La Nasa a lancé un appel à candidatures inédit réservé exclusivement aux citoyens américains pour recruter des astronautes. L'objectif officiel de l'agence spatiale est d'envoyer une première colonie d'astronautes vivre et travailler sur la Lune d'ici 2036. Ces missions doivent servir d'étape préparatoire essentielle en vue de futures expéditions habitées vers la planète Mars.",
-      "contexte": "Cette démarche s'inscrit dans la continuité du programme spatial américain visant à réinstaller une présence humaine durable sur le sol lunaire. L'installation d'une base permanente permet de tester les technologies de survie, d'extraction de ressources et de propulsion en milieu hostile. Ces étapes techniques sont jugées indispensables par les scientifiques avant d'envisager des voyages spatiaux beaucoup plus longs et risqués vers la planète rouge.",
-      "image": "https://www.franceinfo.fr/pictures/w9D9axEaeHPFlKX0ULQuk-OT2KI/136x0:2312x1224/432x243/filters:format(jpg)/2026/11/11/6af4495e6327d714447849.jpg"
+      "titre": "Commémorations du 11-Novembre : mémoire, quelle mémoire ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261111-comm%C3%A9morations-du-11-novembre-m%C3%A9moire-quelle-m%C3%A9moire",
+      "source": "France 24",
+      "date": "2026-11-11T13:12:03+01:00",
+      "resume": "La France célèbre le 108e anniversaire de l'Armistice de 1918, qui marque la fin de la Première Guerre mondiale et commémore depuis dix ans l'ensemble des soldats morts pour la France. Emmanuel Macron préside ces cérémonies pour la dernière fois en tant que chef de l'État, tandis que le débat sur le caractère obligatoire des commémorations dans les écoles demeure vif. En parallèle, un exercice grandeur nature de la force internationale de la Coalition des volontaires se tient en Pologne jusqu'au 22 novembre.",
+      "contexte": "Le 11 novembre est un moment mémoriel central en France pour entretenir le souvenir des conflits passés auprès des jeunes générations. Parallèlement, le contexte géopolitique européen actuel renforce la visibilité des exercices militaires conjoints destinés à tester la réactivité et la dissuasion des forces alliées sur le flanc oriental de l'OTAN.",
+      "image": "https://s.france24.com/media/display/72a77e04-ddc4-11f1-8087-3f371022a770/w:1024/p:16x9/FRAN261111-1000-Live-CS1000.jpg"
     },
     {
-      "titre": "Intelligence artificielle : la nouvelle règle du CNC en matière de doublage est \"une première étape\" selon le secteur",
-      "lien": "https://www.franceinfo.fr/culture/intelligence-artificielle-la-nouvelle-regle-du-cnc-en-matiere-de-doublage-est-une-premiere-etape-selon-le-secteur_8277566.html#xtor=RSS-3-[lestitres]",
+      "titre": "Présidentielle 2027 : Marine Le Pen a rencontré plusieurs dirigeants de grandes entreprises, dont Renault et Dassault, fin octobre",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html",
+      "source": "Le Monde",
+      "date": "2026-11-11T13:07:18+01:00",
+      "resume": "Dans le cadre de la course à l'élection présidentielle de 2027, Marine Le Pen a rencontré fin octobre plusieurs dirigeants de grands groupes industriels, dont Renault et Dassault, ainsi que la fédération professionnelle France Industrie. La candidate du Rassemblement national avait déjà noué des contacts avec une douzaine de patrons de grandes entreprises au mois d'avril.",
+      "contexte": "À l'approche des scrutins présidentiels, les candidats cherchent traditionnellement à rassurer les milieux économiques et à crédibiliser leur programme industriel auprès des décideurs. Cette stratégie permet aux prétendants à la fonction suprême de démontrer leur capacité à dialoguer avec les acteurs majeurs de l'économie nationale.",
+      "image": "https://img.lemde.fr/2026/11/05/500/0/6000/3000/644/322/60/0/987d57e_ftp-1-2m6rulre7miu-afp-d6jg8uh.jpg"
+    },
+    {
+      "titre": "L'auteur et acteur britannique David Walliams accusé de prédation sexuelle par plusieurs femmes",
+      "lien": "https://www.franceinfo.fr/culture/livres/l-auteur-et-acteur-britannique-david-walliams-est-accuse-de-predation-sexuelle_8277683.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-11T11:43:41+01:00",
-      "resume": "Le Centre national du cinéma et de l'image animée (CNC) a instauré une nouvelle règle encadrant les aides au doublage face à l'essor de l'intelligence artificielle. Cette mesure prévoit désormais que les subventions du CNC contribuent exclusivement à la rémunération des auteurs des textes et des artistes-interprètes. Réclamée depuis quatre ans par les professionnels du doublage, cette décision est qualifiée de première étape par le secteur.",
-      "contexte": "Le secteur audiovisuel s'inquiète du déploiement croissant d'outils d'intelligence artificielle générative capables de cloner ou de synthétiser des voix à bas coût. Les syndicats et comédiens craignent une précarisation de leurs métiers et la disparition progressive des interprètes humains. En conditionnant ses aides financières aux personnes physiques, l'institution publique cherche à préserver l'emploi artistique et les droits d'auteur dans la création française.",
-      "image": "https://www.franceinfo.fr/pictures/ARtS6ON269x5cvTbIiaZbpyo8dE/0x53:1024x629/432x243/filters:format(jpg)/2026/11/11/6af440d82d1d4412277566.jpg"
+      "date": "2026-11-11T13:04:19+01:00",
+      "resume": "L'auteur et acteur britannique David Walliams, connu pour ses ouvrages vendus à plus de 60 millions d'exemplaires et son rôle dans la série télévisée \"Little Britain\", est visé par des accusations de prédation sexuelle émanant de plusieurs femmes.",
+      "contexte": "Ces accusations s'inscrivent dans une tendance de libération de la parole touchant régulièrement le monde du spectacle et de l'édition au Royaume-Uni. Elles entraînent généralement une mise en retrait médiatique rapide des personnalités visées, en attendant les éventuelles suites judiciaires et enquêtes approfondies.",
+      "image": "https://www.franceinfo.fr/pictures/xpkQ6lN-FUPnDCGAdutDiRGb7Zs/0x285:5472x3363/432x243/filters:format(jpg)/2026/11/11/6af45052f0b34810310787.jpg"
     },
     {
-      "titre": "La famille Kennedy porte plainte contre le projet d'arc de triomphe de Donald Trump",
-      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-famille-kennedy-porte-plainte-contre-le-projet-d-arc-de-triomphe-de-donald-trump_8277659.html#xtor=RSS-3-[lestitres]",
+      "titre": "La disparition de l’aviatrice Amelia Earhart, en 1937, un mystère qui reste entier malgré une nouvelle expédition",
+      "lien": "https://www.lemonde.fr/sciences/article/2026/11/11/la-disparition-de-l-aviatrice-amelia-earhart-en-1937-un-mystere-qui-reste-entier-malgre-une-nouvelle-expedition_6808965_1650684.html",
+      "source": "Le Monde",
+      "date": "2026-11-11T13:00:09+01:00",
+      "resume": "Une nouvelle expédition s'est rendue en octobre sur l'île de Nikumaroro, dans le Pacifique, pour tenter de résoudre le mystère de la disparition de l'aviatrice américaine Amelia Earhart en 1937. Des archéologues pensaient avoir localisé l'épave de son avion Lockheed Electra 10-E à l'aide d'images satellitaires, mais le mystère reste entier.",
+      "contexte": "La disparition d'Amelia Earhart lors de sa tentative de tour du monde aérien en 1937 demeure l'une des énigmes historiques et aéronautiques les plus célèbres au monde. Régulièrement, de nouvelles technologies d'imagerie ou des campagnes de fouilles sous-marines tentent de clore ce chapitre sans y parvenir définitivement.",
+      "image": "https://img.lemde.fr/2026/11/09/192/364/4926/2463/644/322/60/0/bd4c4e5_upload-1-xkj5qdzrua5n-amelia-earhart-in-the-cockpit-of-her-electra-plane-ca-1937.jpg"
+    },
+    {
+      "titre": "Discriminations : ils lancent une marche anti-raciste à travers la France",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-discriminations-ils-lancent-une-marche-anti-raciste-%C3%A0-travers-la-france",
+      "source": "France 24",
+      "date": "2026-11-11T12:44:06+01:00",
+      "resume": "À la suite de l'attentat raciste survenu à Trappes et La Verrière le 23 octobre, des citoyens ont lancé une marche nationale contre le racisme et les discours de haine. Partant de Millau puis de Marseille le 23 novembre pour arriver à Trappes le 26 décembre, l'initiative entend faire écho aux symboles de la Marche pour l'égalité et contre le racisme de 1983.",
+      "contexte": "Les marches citoyennes sont des outils traditionnels de mobilisation sociale en France pour visibiliser la lutte contre les discriminations et interpeller les pouvoirs publics. Ce type d'action cherche à recréer du lien et à fédérer des collectifs locaux autour de revendications mémorielles et politiques.",
+      "image": "https://s.france24.com/media/display/0f5e914c-ddc5-11f1-93ce-695cb59fade5/w:1024/p:16x9/vignette-VF-MARCHE-2026.jpg"
+    },
+    {
+      "titre": "Certaines stations essences \"peuvent être en rupture ponctuelle dans le nord-est de la France\", alerte le PDG de Coopérative U",
+      "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/certaines-stations-essences-peuvent-etre-en-rupture-ponctuelle-dans-le-nord-est-de-la-france-alerte-le-pdg-de-cooperative-u_8277749.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-11T11:39:39+01:00",
-      "resume": "La famille Kennedy a déposé plainte contre un projet de construction d'un arc de triomphe porté par Donald Trump. Selon le document judiciaire enregistré lundi, les plaignants affirment que l'édifice projeté jettera en permanence une ombre sur les monuments et sépultures de la famille érigés au cimetière national d'Arlington. Aucun commentaire officiel supplémentaire n'a été précisé dans le recours.",
-      "contexte": "Le cimetière militaire d'Arlington est l'un des lieux de mémoire les plus emblématiques des États-Unis, abritant notamment la tombe de l'ancien président John F. Kennedy et sa flamme éternelle. Les projets architecturaux ou mémoriels portés par Donald Trump font régulièrement l'objet de vives contestations politiques et patrimoniales. Cette démarche judiciaire vise à faire bloquer ou modifier le projet pour préserver la visibilité et la solennité des monuments familiaux.",
-      "image": "https://www.franceinfo.fr/pictures/xHM73Pf_pYdcnrWRWsXlxsNFr78/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af445bacb2eb247286805.jpg"
-    },
-    {
-      "titre": "Entre la France et l'Algérie, la crise est passée mais les relations diplomatiques restent amorphes",
-      "lien": "https://www.franceinfo.fr/monde/afrique/algerie/la-relation-franco-algerienne-est-elle-en-train-de-s-enliser_8277509.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-11T11:17:23+01:00",
-      "resume": "Les relations diplomatiques entre la France et l'Algérie sont actuellement décrites comme amorphes et sans véritable dynamique. Si la crise diplomatique ouverte entre Paris et Alger semble avoir été surmontée, les échanges bilatéraux restent atones. Aucune avancée majeure n'est constatée dans le dialogue entre les deux capitales.",
-      "contexte": "Les rapports franco-algériens sont historiquement marqués par des cycles de rapprochements suivis de tensions autour de la mémoire de la colonisation, des visas ou de la politique régionale. Les désaccords récents sur des dossiers géopolitiques sensibles ont freiné la volonté de refondation pourtant affichée par les dirigeants des deux rives. Cet enlisement empêche pour l'instant la relance de coopérations économiques et sécuritaires approfondies en Méditerranée.",
-      "image": "https://www.franceinfo.fr/pictures/pnbOcs5pBPDs9t481ws6UjhC6DA/0x62:5225x3002/432x243/filters:format(jpg)/2026/11/11/6af4311865ec6552640982.jpg"
-    },
-    {
-      "titre": "Un juge américain refuse de rejeter la plainte pour diffamation de Donald Trump contre la BBC",
-      "lien": "https://www.franceinfo.fr/economie/medias/un-juge-americain-refuse-de-rejeter-la-plainte-pour-diffamation-de-donald-trump-contre-la-bbc_8277491.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-11T11:14:30+01:00",
-      "resume": "Un juge américain a rejeté la requête du groupe audiovisuel britannique BBC, qui demandait le classement d'une plainte pour diffamation déposée par Donald Trump. L'ancien président des États-Unis reproche à la chaîne publique d'avoir diffusé un montage vidéo trompeur de ses déclarations faites lors des événements du Capitole. La procédure judiciaire va donc pouvoir se poursuivre devant les tribunaux.",
-      "contexte": "Donald Trump utilise fréquemment la voie judiciaire contre les grands médias nationaux et internationaux qu'il accuse de partialité éditoriale à son égard. Aux États-Unis, le premier amendement protège très largement la liberté de la presse, rendant les condamnations pour diffamation de personnalités publiques particulièrement difficiles à obtenir. La décision du juge permet néanmoins à la défense et à l'accusation d'entamer une phase d'examen plus détaillée des pièces du dossier.",
-      "image": "https://www.franceinfo.fr/pictures/YlVI0rrJZR9tG_04Hrm0K6VmGZw/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af43fef32c3a481720859.jpg"
-    },
-    {
-      "titre": "Sans les vidéos, Michel Zecler \"ne serait pas devant la cour en tant que victime, mais en tant qu'auteur\", déclare son avocat",
-      "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/sans-les-videos-michel-zecler-ne-serait-pas-devant-la-cour-en-tant-que-victime-mais-en-tant-qu-auteur-declare-son-avocat_8277623.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-11T11:14:07+01:00",
-      "resume": "Le procès des policiers accusés d'avoir passé à tabac le producteur de musique Michel Zecler s'est ouvert devant la justice. Lors d'une intervention sur franceinfo, son avocat a qualifié cette audience d'historique, affirmant que sans les enregistrements vidéo, son client aurait comparu comme auteur et non comme victime. Il a exprimé son souhait que ce statut de victime soit officiellement et définitivement reconnu par la cour.",
-      "contexte": "L'affaire remonte à la diffusion d'images de vidéosurveillance montrant plusieurs policiers rouer de coups Michel Zecler dans son studio parisien, ce qui avait suscité une vive indignation publique. L'enregistrement avait contredit les premières versions rédigées dans le procès-verbal des fonctionnaires de police. L'enjeu de ce procès porte sur l'usage illégitime de la force par les forces de l'ordre et le rôle décisif des images dans la manifestation de la vérité judiciaire.",
-      "image": "https://www.franceinfo.fr/pictures/7D7Ri7U4fbValJNayaB8BumPWk0/0x0:1280x720/432x243/filters:format(jpg)/2026/11/11/6af43ee82c9d7211743793.jpg"
-    },
-    {
-      "titre": "Les solutions pour apaiser les étudiants \"sont dans les mains du gouvernement\" estime la présidente de la Fage, qui appelle à continuer à manifester",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-solutions-pour-apaiser-les-etudiants-sont-dans-les-mains-du-gouvernement-estime-la-presidente-de-la-f-qui-appelle-a-continuer-a-manifester_8277413.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-11T11:10:15+01:00",
-      "resume": "La présidente du syndicat étudiant Fage a affirmé que les solutions pour désamorcer la colère des jeunes sont désormais dans les mains du gouvernement, appelant à maintenir la mobilisation. Malgré des cortèges plus clairsemés constatés mardi, le mouvement de protestation des lycéens et étudiants se poursuit. De nouveaux appels à manifester ont été lancés conjointement par l'intersyndicale de la jeunesse et celle de la Fonction publique.",
-      "contexte": "Cette mobilisation reflète un mécontentement récurrent de la jeunesse autour de la précarité étudiante, des conditions de vie et des réformes de l'enseignement. La convergence avec des syndicats de fonctionnaires vise à peser plus fortement sur les arbitrages budgétaires et sociaux de l'exécutif. Le gouvernement cherche généralement à éviter l'ancrage de tels mouvements qui peuvent rapidement s'étendre aux campus universitaires.",
-      "image": "https://www.franceinfo.fr/pictures/NntwyzP2OGMfn2wvrRMSNuMbqiw/0x416:8001x4917/432x243/filters:format(jpg)/2026/11/11/6af42c0218382005022065.jpg"
+      "date": "2026-11-11T12:39:45+01:00",
+      "resume": "Le PDG de Coopérative U, Dominique Schelcher, a signalé des difficultés d'approvisionnement et des ruptures ponctuelles dans plusieurs stations-service du nord-est de la France. Cette situation intervient alors que le prix global du gazole tend à reculer grâce au déblocage des stocks stratégiques décidé par le gouvernement.",
+      "contexte": "Les tensions sur la distribution de carburant sont souvent liées à des blocages logistiques, à des mouvements sociaux dans les dépôts ou à des pics de demande temporaires. Le recours aux stocks stratégiques permet généralement aux autorités d'atténuer les hausses de prix et de sécuriser l'approvisionnement du pays.",
+      "image": "https://www.franceinfo.fr/pictures/dNQ8ZXnn2PFlEdQh7RqW1_KZb0s/0x105:1024x681/432x243/filters:format(jpg)/2026/09/18/6aad17ffd09da314414610.jpg"
     }
   ],
   "culture": [
@@ -220,5 +229,118 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Glass_Bowl%2C_Kofun_period%2C_6th_century%2C_perhaps_from_the_tomb_of_Emperor_Ankan%2C_Habikino-shi%2C_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG/960px-Glass_Bowl%2C_Kofun_period%2C_6th_century%2C_perhaps_from_the_tomb_of_Emperor_Ankan%2C_Habikino-shi%2C_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "153385af19",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Quelle entreprise a été condamnée à une amende par la justice brésilienne pour traitement inégal lors de la présidentielle ?",
+      "choix": [
+        "TikTok",
+        "Google",
+        "Meta",
+        "X (anciennement Twitter)"
+      ],
+      "reponse": 2,
+      "explication": "La justice brésilienne a infligé une amende à Meta pour un traitement jugé inégal entre les candidats lors de la campagne présidentielle.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/la-justice-bresilienne-a-inflige-une-amende-a-meta-pour-traitement-inegal-entre-lula-et-flavio-bolsonaro-lors-de-la-presidentielle_8277806.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/f7MJlWKvt1OTyIfD-Al1e3oK-qM/0x106:1024x682/432x243/filters:format(jpg)/2026/11/11/6af466bb4cbf8101869230.jpg"
+    },
+    {
+      "id": "0da2fa797b",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Quel pays a vu environ 300 écoles évacuées à la suite d'alertes à la bombe ?",
+      "choix": [
+        "L'Allemagne",
+        "L'Espagne",
+        "L'Italie",
+        "La France"
+      ],
+      "reponse": 2,
+      "explication": "Rien qu'en Italie, environ 300 établissements scolaires ont reçu des courriels menaçants, entraînant des évacuations massives.",
+      "lien": "https://www.franceinfo.fr/monde/europe/direct-des-centaines-d-ecoles-visees-par-des-alertes-a-la-bombe-en-italie-en-irlande-et-au-royaume-uni-de-nombreux-etablissements-evacues_8277773.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/VeG_EeE9ZBT_7sHHd0bylctedS4/0x0:7166x4030/432x243/filters:format(jpg)/2026/11/11/6af45c991c7c7560617729.jpg"
+    },
+    {
+      "id": "dceba96dfb",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Quelle armée étrangère a frappé le quartier général d'un des principaux gangs en Haïti ?",
+      "choix": [
+        "L'armée américaine",
+        "L'armée salvadorienne",
+        "L'armée canadienne",
+        "L'armée française"
+      ],
+      "reponse": 1,
+      "explication": "L'armée salvadorienne a mené une opération pour détruire le QG d'un des principaux gangs en Haïti, une intervention saluée par les autorités locales.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-ha%C3%AFti-l-arm%C3%A9e-salvadorienne-frappe-le-qg-d-un-des-principaux-gangs-du-pays",
+      "image": "https://s.france24.com/media/display/c6f97ce6-ddc9-11f1-af32-f71d22e7fea9/w:1024/p:16x9/Haiti-Bukele-10.png"
+    },
+    {
+      "id": "3acbe71e78",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Par qui l'auteur et acteur britannique David Walliams est-il accusé ?",
+      "choix": [
+        "De plagiat littéraire",
+        "De prédation sexuelle",
+        "De diffamation",
+        "De fraude fiscale"
+      ],
+      "reponse": 1,
+      "explication": "David Walliams est visé par des accusations de prédation sexuelle émanant de plusieurs femmes.",
+      "lien": "https://www.franceinfo.fr/culture/livres/l-auteur-et-acteur-britannique-david-walliams-est-accuse-de-predation-sexuelle_8277683.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/xpkQ6lN-FUPnDCGAdutDiRGb7Zs/0x285:5472x3363/432x243/filters:format(jpg)/2026/11/11/6af45052f0b34810310787.jpg"
+    },
+    {
+      "id": "314021785d",
+      "date": "2026-11-11",
+      "type": "actu",
+      "question": "Selon le PDG de Coopérative U, des ruptures ponctuelles d'approvisionnement ont touché quelles stations-service ?",
+      "choix": [
+        "Dans le nord-est de la France",
+        "En Corse",
+        "En Île-de-France",
+        "Dans le sud-ouest de la France"
+      ],
+      "reponse": 0,
+      "explication": "Le PDG de Coopérative U a signalé des difficultés et des ruptures ponctuelles dans plusieurs stations-service du nord-est de la France.",
+      "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/certaines-stations-essences-peuvent-etre-en-rupture-ponctuelle-dans-le-nord-est-de-la-france-alerte-le-pdg-de-cooperative-u_8277749.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/dNQ8ZXnn2PFlEdQh7RqW1_KZb0s/0x105:1024x681/432x243/filters:format(jpg)/2026/09/18/6aad17ffd09da314414610.jpg"
+    },
+    {
+      "id": "92d8cd25f7",
+      "date": "2026-11-11",
+      "type": "culture",
+      "question": "Quel athlète a révolutionné le saut en hauteur aux Jeux olympiques de 1968 avec sa technique du saut dorsal ?",
+      "choix": [
+        "Carl Lewis",
+        "Dick Fosbury",
+        "Bob Beamon",
+        "Sergey Bubka"
+      ],
+      "reponse": 1,
+      "explication": "L'Américain Dick Fosbury a surpris le monde en passant la barre le dos tourné, inventant le 'Fosbury-flop'.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "b7bda4a80e",
+      "date": "2026-11-11",
+      "type": "culture",
+      "question": "Qu'appelle-t-on le 'blob' dans le domaine biologique ?",
+      "choix": [
+        "Une bactérie aquatique",
+        "Un amibozoaire unicellulaire géant",
+        "Un virus marin",
+        "Un champignon parasite"
+      ],
+      "reponse": 1,
+      "explication": "Le blob est un être vivant fascinant classé parmi les amibozoaires, constitué d'une seule cellule géante dotée de millions de noyaux.",
+      "lien": "",
+      "image": ""
+    }
+  ]
 }
