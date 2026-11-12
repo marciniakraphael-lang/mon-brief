@@ -1,62 +1,242 @@
 {
   "date": "2026-11-12",
-  "mode": "evening",
-  "updated": "2026-11-12T01:09:20.706412+01:00",
-  "deja_presente": [],
-  "depuis_hier": [],
-  "aujourdhui": [
+  "mode": "morning",
+  "updated": "2026-11-12T12:34:10.229776+01:00",
+  "deja_presente": [
     {
-      "titre": "États-Unis : après une victoire au Mississippi, les démocrates renforcent leur majorité au Sénat",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261111-etats-unis-victoire-mississippi-democrates-renforcent-majorite-senat-scott-colom",
-      "source": "France 24",
-      "date": "2026-11-12T00:38:41+01:00",
-      "resume": "Plus d'une semaine après les midterms aux États-Unis, le démocrate Scott Colom a remporté de justesse le poste de sénateur du Mississippi. Il s'agit du premier sénateur noir élu dans cet État du Sud en près de 150 ans. Cette victoire permet aux démocrates de renforcer un peu plus leur majorité au Congrès.",
-      "contexte": "Le Mississippi possède une histoire politique complexe marquée par la ségrégation et une faible représentation des minorités dans les hautes fonctions. L'élection d'un sénateur démocrate et afro-américain dans cet État traditionnellement conservateur illustre des évolutions démographiques et électorales locales. Cela offre également un soutien précieux au parti au pouvoir pour faire passer ses réformes législatives au Sénat.",
-      "image": "https://s.france24.com/media/display/e7807fc4-de27-11f1-b242-f71d22e7fea9/w:1024/p:16x9/AP26314768923953.jpg"
+      "titre": "Cérémonie du 11-Novembre : Emmanuel Macron a rendu hommage à Georges Clemenceau et au soldat inconnu",
+      "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T12:08:48+01:00",
+      "resume": "Emmanuel Macron a présidé les commémorations du 11-Novembre, marquant sa dernière participation à cette cérémonie en tant que chef de l'État. Le président de la République s'est recueilli sur la tombe du soldat inconnu sous l'Arc de Triomphe et a rendu hommage à Georges Clemenceau. Pour cette édition, les hommages officiels ont mis un accent particulier sur la figure du maréchal Foch.",
+      "contexte": "Ces commémorations annuelles marquent la signature de l'armistice de 1918 mettant fin aux combats de la Première Guerre mondiale. Elles célèbrent le souvenir de tous les morts pour la France et rappellent les figures politiques et militaires ayant conduit à la victoire alliée. Cette cérémonie revêtait une dimension symbolique pour le chef de l'État, qui effectuait ce rituel républicain pour l'ultime fois de son mandat.",
+      "image": "https://www.franceinfo.fr/pictures/0RAgI1FaMiJ8AmyUmQXmyM9k5rg/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/11/6af4451d1cac5863874379.jpg"
     },
     {
-      "titre": "Louise, 57 ans, aidée par le Secours catholique : « Etre pauvre, au RSA, ce n’est pas profiter du système, c’est vivre dans le stress »",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/12/louise-57-ans-aidee-par-le-secours-catholique-etre-pauvre-au-rsa-ce-n-est-pas-profiter-du-systeme-c-est-vivre-dans-le-stress_6809034_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-12T00:01:09+01:00",
-      "resume": "Dans son rapport annuel publié le jeudi 12 novembre, le Secours catholique appelle à mieux comprendre la pauvreté qu'il qualifie de multidimensionnelle. L'association met en lumière le témoignage de Louise, 57 ans, bénéficiaire du RSA, qui illustre le stress quotidien, l'isolement et les difficultés matérielles liés à cette situation.",
-      "contexte": "Les rapports annuels des associations de lutte contre la précarité visent traditionnellement à sensibiliser l'opinion publique et à interpeller les pouvoirs publics sur les conditions de vie des populations vulnérables. La question du niveau des minima sociaux et de l'accompagnement des personnes précaires fait régulièrement l'objet de débats politiques en France, oscillant entre aide sociale et insertion par l'emploi.",
-      "image": "https://img.lemde.fr/2026/10/03/519/0/4252/2126/644/322/60/0/7a4dcc7_upload-1-fkp5khfelxjc-lidlmarquette-35.jpg"
+      "titre": "Après la reprise des pourparlers entre l'Ukraine et la Russie, Volodymyr Zelensky juge que les échanges ont été \"constructifs\"",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-la-reprise-des-pourparlers-entre-l-ukraine-et-la-russie-volodymyr-zelensky-juge-que-les-echanges-ont-ete-constructifs_8276978.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde · franceinfo",
+      "date": "2026-11-11T12:08:34+01:00",
+      "resume": "Les discussions diplomatiques directes entre l'Ukraine et la Russie ont repris pour la première fois depuis février. À l'issue de cette session visant à progresser vers un règlement du conflit déclenché par l'invasion russe en 2022, le président ukrainien Volodymyr Zelensky a qualifié les échanges de constructifs. Devant la presse, il a également salué l'inclusion des Européens dans ces négociations, estimant impossible de mettre fin à la guerre et d'assurer la sécurité ou la reconstruction sans leur participation.",
+      "contexte": "Depuis l'interruption des pourparlers au printemps 2022, la diplomatie était restée largement bloquée en raison des revendications territoriales et sécuritaires inconciliables des deux belligérants. L'intégration formelle des partenaires européens répond à la volonté de Kiev d'obtenir de solides garanties de sécurité collectives face à Moscou. L'enjeu de ces discussions préliminaires est d'explorer un cadre d'apaisement après plusieurs années d'un conflit d'usure aux lourdes conséquences économiques et humaines.",
+      "image": "https://www.franceinfo.fr/pictures/68qjwsmgcjIQTFu71532E8P40wQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af3942e83702581528099.jpg"
+    },
+    {
+      "titre": "🔴 Italie : au moins 300 écoles évacuées à la suite d'alertes à la bombe par e-mail",
+      "lien": "https://www.france24.com/fr/europe/20261111-italie-au-moins-300-etablissements-scolaires-evacues-a-la-suite-alertes-%C3%A0-la-bombe-par-email",
+      "source": "France 24",
+      "date": "2026-11-11T12:00:05+01:00",
+      "resume": "Au moins 300 établissements scolaires ont été évacués en Italie à la suite de menaces d'attentat. Ces perturbations massives ont été déclenchées par l'envoi d'alertes à la bombe transmises par courrier électronique. Les autorités locales ont pris des mesures de sécurité pour sécuriser les lieux et vérifier les bâtiments.",
+      "contexte": "Les vagues d'alertes coordonnées par voie numérique visent généralement à désorganiser les services publics et à susciter un sentiment d'insécurité. Face à ce type de menace, même anonyme, les protocoles de sécurité imposent l'évacuation systématique pour garantir l'intégrité des élèves et du personnel. Des investigations sont couramment menées par les services de cybercriminalité afin de tracer l'origine des serveurs et d'identifier les auteurs de ces canulars malveillants.",
+      "image": ""
+    },
+    {
+      "titre": "\"Vivre la plus grande aventure de l'humanité\" : la Nasa recrute des astronautes pour aller \"travailler\" sur la Lune",
+      "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/vivre-la-plus-grande-aventure-de-l-humanite-la-nasa-recrute-des-astronautes-pour-aller-travailler-sur-la-lune_8277341.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-11T11:59:53+01:00",
+      "resume": "La Nasa a lancé un appel à candidatures inédit réservé exclusivement aux citoyens américains pour recruter des astronautes. L'objectif officiel de l'agence spatiale est d'envoyer une première colonie d'astronautes vivre et travailler sur la Lune d'ici 2036. Ces missions doivent servir d'étape préparatoire essentielle en vue de futures expéditions habitées vers la planète Mars.",
+      "contexte": "Cette démarche s'inscrit dans la continuité du programme spatial américain visant à réinstaller une présence humaine durable sur le sol lunaire. L'installation d'une base permanente permet de tester les technologies de survie, d'extraction de ressources et de propulsion en milieu hostile. Ces étapes techniques sont jugées indispensables par les scientifiques avant d'envisager des voyages spatiaux beaucoup plus longs et risqués vers la planète rouge.",
+      "image": "https://www.franceinfo.fr/pictures/w9D9axEaeHPFlKX0ULQuk-OT2KI/136x0:2312x1224/432x243/filters:format(jpg)/2026/11/11/6af4495e6327d714447849.jpg"
+    },
+    {
+      "titre": "Intelligence artificielle : la nouvelle règle du CNC en matière de doublage est \"une première étape\" selon le secteur",
+      "lien": "https://www.franceinfo.fr/culture/intelligence-artificielle-la-nouvelle-regle-du-cnc-en-matiere-de-doublage-est-une-premiere-etape-selon-le-secteur_8277566.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T11:43:41+01:00",
+      "resume": "Le Centre national du cinéma et de l'image animée (CNC) a instauré une nouvelle règle encadrant les aides au doublage face à l'essor de l'intelligence artificielle. Cette mesure prévoit désormais que les subventions du CNC contribuent exclusivement à la rémunération des auteurs des textes et des artistes-interprètes. Réclamée depuis quatre ans par les professionnels du doublage, cette décision est qualifiée de première étape par le secteur.",
+      "contexte": "Le secteur audiovisuel s'inquiète du déploiement croissant d'outils d'intelligence artificielle générative capables de cloner ou de synthétiser des voix à bas coût. Les syndicats et comédiens craignent une précarisation de leurs métiers et la disparition progressive des interprètes humains. En conditionnant ses aides financières aux personnes physiques, l'institution publique cherche à préserver l'emploi artistique et les droits d'auteur dans la création française.",
+      "image": "https://www.franceinfo.fr/pictures/ARtS6ON269x5cvTbIiaZbpyo8dE/0x53:1024x629/432x243/filters:format(jpg)/2026/11/11/6af440d82d1d4412277566.jpg"
+    },
+    {
+      "titre": "La famille Kennedy porte plainte contre le projet d'arc de triomphe de Donald Trump",
+      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-famille-kennedy-porte-plainte-contre-le-projet-d-arc-de-triomphe-de-donald-trump_8277659.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T11:39:39+01:00",
+      "resume": "La famille Kennedy a déposé plainte contre un projet de construction d'un arc de triomphe porté par Donald Trump. Selon le document judiciaire enregistré lundi, les plaignants affirment que l'édifice projeté jettera en permanence une ombre sur les monuments et sépultures de la famille érigés au cimetière national d'Arlington. Aucun commentaire officiel supplémentaire n'a été précisé dans le recours.",
+      "contexte": "Le cimetière militaire d'Arlington est l'un des lieux de mémoire les plus emblématiques des États-Unis, abritant notamment la tombe de l'ancien président John F. Kennedy et sa flamme éternelle. Les projets architecturaux ou mémoriels portés par Donald Trump font régulièrement l'objet de vives contestations politiques et patrimoniales. Cette démarche judiciaire vise à faire bloquer ou modifier le projet pour préserver la visibilité et la solennité des monuments familiaux.",
+      "image": "https://www.franceinfo.fr/pictures/xHM73Pf_pYdcnrWRWsXlxsNFr78/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af445bacb2eb247286805.jpg"
+    },
+    {
+      "titre": "Entre la France et l'Algérie, la crise est passée mais les relations diplomatiques restent amorphes",
+      "lien": "https://www.franceinfo.fr/monde/afrique/algerie/la-relation-franco-algerienne-est-elle-en-train-de-s-enliser_8277509.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-11T11:17:23+01:00",
+      "resume": "Les relations diplomatiques entre la France et l'Algérie sont actuellement décrites comme amorphes et sans véritable dynamique. Si la crise diplomatique ouverte entre Paris et Alger semble avoir été surmontée, les échanges bilatéraux restent atones. Aucune avancée majeure n'est constatée dans le dialogue entre les deux capitales.",
+      "contexte": "Les rapports franco-algériens sont historiquement marqués par des cycles de rapprochements suivis de tensions autour de la mémoire de la colonisation, des visas ou de la politique régionale. Les désaccords récents sur des dossiers géopolitiques sensibles ont freiné la volonté de refondation pourtant affichée par les dirigeants des deux rives. Cet enlisement empêche pour l'instant la relance de coopérations économiques et sécuritaires approfondies en Méditerranée.",
+      "image": "https://www.franceinfo.fr/pictures/pnbOcs5pBPDs9t481ws6UjhC6DA/0x62:5225x3002/432x243/filters:format(jpg)/2026/11/11/6af4311865ec6552640982.jpg"
+    },
+    {
+      "titre": "Un juge américain refuse de rejeter la plainte pour diffamation de Donald Trump contre la BBC",
+      "lien": "https://www.franceinfo.fr/economie/medias/un-juge-americain-refuse-de-rejeter-la-plainte-pour-diffamation-de-donald-trump-contre-la-bbc_8277491.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-11T11:14:30+01:00",
+      "resume": "Un juge américain a rejeté la requête du groupe audiovisuel britannique BBC, qui demandait le classement d'une plainte pour diffamation déposée par Donald Trump. L'ancien président des États-Unis reproche à la chaîne publique d'avoir diffusé un montage vidéo trompeur de ses déclarations faites lors des événements du Capitole. La procédure judiciaire va donc pouvoir se poursuivre devant les tribunaux.",
+      "contexte": "Donald Trump utilise fréquemment la voie judiciaire contre les grands médias nationaux et internationaux qu'il accuse de partialité éditoriale à son égard. Aux États-Unis, le premier amendement protège très largement la liberté de la presse, rendant les condamnations pour diffamation de personnalités publiques particulièrement difficiles à obtenir. La décision du juge permet néanmoins à la défense et à l'accusation d'entamer une phase d'examen plus détaillée des pièces du dossier.",
+      "image": "https://www.franceinfo.fr/pictures/YlVI0rrJZR9tG_04Hrm0K6VmGZw/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af43fef32c3a481720859.jpg"
+    },
+    {
+      "titre": "Sans les vidéos, Michel Zecler \"ne serait pas devant la cour en tant que victime, mais en tant qu'auteur\", déclare son avocat",
+      "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/sans-les-videos-michel-zecler-ne-serait-pas-devant-la-cour-en-tant-que-victime-mais-en-tant-qu-auteur-declare-son-avocat_8277623.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T11:14:07+01:00",
+      "resume": "Le procès des policiers accusés d'avoir passé à tabac le producteur de musique Michel Zecler s'est ouvert devant la justice. Lors d'une intervention sur franceinfo, son avocat a qualifié cette audience d'historique, affirmant que sans les enregistrements vidéo, son client aurait comparu comme auteur et non comme victime. Il a exprimé son souhait que ce statut de victime soit officiellement et définitivement reconnu par la cour.",
+      "contexte": "L'affaire remonte à la diffusion d'images de vidéosurveillance montrant plusieurs policiers rouer de coups Michel Zecler dans son studio parisien, ce qui avait suscité une vive indignation publique. L'enregistrement avait contredit les premières versions rédigées dans le procès-verbal des fonctionnaires de police. L'enjeu de ce procès porte sur l'usage illégitime de la force par les forces de l'ordre et le rôle décisif des images dans la manifestation de la vérité judiciaire.",
+      "image": "https://www.franceinfo.fr/pictures/7D7Ri7U4fbValJNayaB8BumPWk0/0x0:1280x720/432x243/filters:format(jpg)/2026/11/11/6af43ee82c9d7211743793.jpg"
+    },
+    {
+      "titre": "Les solutions pour apaiser les étudiants \"sont dans les mains du gouvernement\" estime la présidente de la Fage, qui appelle à continuer à manifester",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-solutions-pour-apaiser-les-etudiants-sont-dans-les-mains-du-gouvernement-estime-la-presidente-de-la-f-qui-appelle-a-continuer-a-manifester_8277413.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T11:10:15+01:00",
+      "resume": "La présidente du syndicat étudiant Fage a affirmé que les solutions pour désamorcer la colère des jeunes sont désormais dans les mains du gouvernement, appelant à maintenir la mobilisation. Malgré des cortèges plus clairsemés constatés mardi, le mouvement de protestation des lycéens et étudiants se poursuit. De nouveaux appels à manifester ont été lancés conjointement par l'intersyndicale de la jeunesse et celle de la Fonction publique.",
+      "contexte": "Cette mobilisation reflète un mécontentement récurrent de la jeunesse autour de la précarité étudiante, des conditions de vie et des réformes de l'enseignement. La convergence avec des syndicats de fonctionnaires vise à peser plus fortement sur les arbitrages budgétaires et sociaux de l'exécutif. Le gouvernement cherche généralement à éviter l'ancrage de tels mouvements qui peuvent rapidement s'étendre aux campus universitaires.",
+      "image": "https://www.franceinfo.fr/pictures/NntwyzP2OGMfn2wvrRMSNuMbqiw/0x416:8001x4917/432x243/filters:format(jpg)/2026/11/11/6af42c0218382005022065.jpg"
     }
   ],
-  "culture": [],
-  "quiz_jour": [
+  "depuis_hier": [
     {
-      "id": "50ad8fc22c",
-      "date": "2026-11-12",
-      "type": "actu",
-      "question": "Quel événement marquant a eu lieu lors de l'élection de Scott Colom comme sénateur du Mississippi ?",
-      "choix": [
-        "Il est le premier sénateur noir élu dans cet État depuis près de 150 ans.",
-        "Il a remporté l'élection avec 90 % des voix.",
-        "Il est le plus jeune sénateur de l'histoire des États-Unis.",
-        "Il est le premier sénateur démocrate de l'histoire de l'État."
-      ],
-      "reponse": 0,
-      "explication": "Scott Colom est devenu le premier sénateur noir élu dans le Mississippi en près de 150 ans, renforçant la majorité démocrate.",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261111-etats-unis-victoire-mississippi-democrates-renforcent-majorite-senat-scott-colom",
-      "image": "https://s.france24.com/media/display/e7807fc4-de27-11f1-b242-f71d22e7fea9/w:1024/p:16x9/AP26314768923953.jpg"
+      "titre": "\"Il faudra être vigilant\" : la tempête Charles, qui a touché le Portugal, se dirige vers le sud de la France",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-faudra-etre-vigilant-la-tempete-charles-qui-a-touche-le-portugal-se-dirige-vers-le-sud-de-la-france_8278292.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T22:54:24+01:00",
+      "resume": "La dépression Charles, qui a frappé le Portugal et poussé les habitants à rester chez eux, perd en puissance mais continue de provoquer de fortes pluies inquiétantes. Elle doit atteindre le sud de la France le jeudi 12 novembre. Les autorités recommandent la vigilance face aux intempéries associées à ce système météorologique.",
+      "contexte": "Ce type de phénomène dépressionnaire atlantique engendre régulièrement des épisodes de intempéries intenses en traversant l'Europe occidentale. L'objectif est généralement d'anticiper les risques d'inondations et de dégâts matériels importants pour protéger les populations locales.",
+      "image": "https://www.franceinfo.fr/pictures/CfP_qyejvis0oYlQ3Xw5bliYPV0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/11/6af4cd5d3da5e782998970.jpg"
     },
     {
-      "id": "204be4cd64",
-      "date": "2026-11-12",
-      "type": "actu",
-      "question": "Comment le Secours catholique qualifie-t-il la pauvreté dans son rapport annuel publié le 12 novembre ?",
-      "choix": [
-        "Comme une pauvreté multidimensionnelle",
-        "Comme un problème en net recul en France",
-        "Comme une situation purement financière",
-        "Comme un choix de mode de vie"
-      ],
-      "reponse": 0,
-      "explication": "Dans son rapport annuel, le Secours catholique appelle à mieux comprendre la pauvreté qu'il qualifie de multidimensionnelle.",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/12/louise-57-ans-aidee-par-le-secours-catholique-etre-pauvre-au-rsa-ce-n-est-pas-profiter-du-systeme-c-est-vivre-dans-le-stress_6809034_3224.html",
-      "image": "https://img.lemde.fr/2026/10/03/519/0/4252/2126/644/322/60/0/7a4dcc7_upload-1-fkp5khfelxjc-lidlmarquette-35.jpg"
+      "titre": "Les proches du journaliste Christophe Gleizes espèrent une grâce présidentielle",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
+      "source": "France 24",
+      "date": "2026-11-11T22:37:52+01:00",
+      "resume": "Les proches du journaliste français Christophe Gleizes, détenu depuis 500 jours en Algérie et condamné pour apologie du terrorisme, ont été reçus par le ministre des Affaires étrangères, Jean-Noël Barrot. Ils espèrent obtenir une grâce présidentielle pour sa libération. Un match de football a également été organisé à Paris en son hommage.",
+      "contexte": "Les affaires de journalistes détenus à l'étranger soulèvent des enjeux diplomatiques majeurs entre la France et les pays concernés, mobilisant les familles et les ONG pour obtenir leur libération. Les négociations se déroulent généralement dans la discrétion pour ne pas froisser les autorités locales, tout en maintenant une pression médiatique et politique.",
+      "image": "https://s.france24.com/media/display/6ad85d10-de14-11f1-9cb3-695cb59fade5/w:1024/p:16x9/FRAN261111-2141-Live-01.jpg"
+    },
+    {
+      "titre": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
+      "lien": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-11T21:15:00+01:00",
+      "resume": "La Russie a interdit de territoire deux députés français, Sacha Houlié et Arthur Delaporte, ainsi que deux journalistes, Ariane Chemin et Paul Gogo. Moscou justifie cette sanction en les accusant d'avoir participé au harcèlement de Xenia Fedorova, une chroniqueuse pro-Kremlin de CNews qui avait été expulsée de France à la fin du mois de juillet.",
+      "contexte": "Cette mesure illustre les tensions diplomatiques persistantes entre la France et la Russie, marquées par des expulsions croisées de diplomates, journalistes ou personnalités publiques. Ce type de représailles vise traditionnellement à marquer le mécontentement du Kremlin face aux décisions prises par les pays occidentaux à l'encontre de ses ressortissants ou de ses relais médiatiques.",
+      "image": "https://www.franceinfo.fr/pictures/8sBf9o0M8tyYSXG8yUP-7QuGZvo/0x73:1024x649/432x243/filters:format(jpg)/2026/11/11/6af46d951c47a957434820.jpg"
+    },
+    {
+      "titre": "Le Science Media Centre de Londres accusé d’être influencé par ses financeurs industriels",
+      "lien": "https://www.lemonde.fr/sciences/article/2026/11/11/le-science-media-centre-de-londres-qui-aide-a-vulgariser-l-information-scientifique-accuse-d-etre-influence-par-ses-financeurs-industriels_6809016_1650684.html",
+      "source": "Le Monde",
+      "date": "2026-11-11T19:15:07+01:00",
+      "resume": "Une recension menée par des chercheurs met en cause le Science Media Centre de Londres, un organisme philanthropique qui aide à vulgariser la science en fournissant des experts aux médias. Selon cette étude, les avis relayés ont tendance à défendre les intérêts des contributeurs industriels qui financent la structure.",
+      "contexte": "L'indépendance des organismes de vulgarisation scientifique est cruciale pour garantir une information neutre et fiable auprès du grand public. Les conflits d'intérêts potentiels avec des financeurs industriels soulèvent régulièrement des questions éthiques sur l'impartialité des experts mis en avant dans les médias.",
+      "image": "https://img.lemde.fr/2026/11/11/500/0/6000/3000/644/322/60/0/1684f68_upload-1-8pjg58vm0atv-maxpaimagesfour747912.jpg"
     }
-  ]
+  ],
+  "aujourdhui": [
+    {
+      "titre": "Un immeuble s'effondre à New York et fait au moins quatre morts et 17 blessés",
+      "lien": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-12T12:27:06+01:00",
+      "resume": "Un immeuble s'est effondré à New York, provoquant la mort d'au moins quatre personnes et faisant 17 blessés, dont sept enfants (dont quatre grièvement touchés). Les services de secours sont mobilisés sur place pour porter assistance aux victimes, tandis que les autorités n'ont pas encore déterminé les causes exactes de la catastrophe.",
+      "contexte": "Les effondrements d'immeubles dans les grandes métropoles américaines relancent souvent les débats sur la vétusté des infrastructures et le respect des normes de construction ou de rénovation. L'enquête technique menée à la suite du drame doit déterminer s'il s'agit d'une défaillance structurelle ou d'un accident lié à des travaux.",
+      "image": "https://www.franceinfo.fr/pictures/zMYgNlxssp84CK6OgDBhR5UOS8U/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af5589740f3a514761611.jpg"
+    },
+    {
+      "titre": "Les Californiens disent finalement non à l'impôt sur la fortune des milliardaires, inspiré de la \"taxe Zucman\"",
+      "lien": "https://www.franceinfo.fr/monde/usa/les-californiens-disent-finalement-non-a-l-impot-sur-la-fortune-des-milliardaires-inspire-de-la-taxe-zucman_8278967.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-12T12:18:46+01:00",
+      "resume": "Les électeurs de Californie ont finalement rejeté l'instauration d'un impôt sur la fortune ciblant les milliardaires de l'État, inspiré de la « taxe Zucman ». Ce dispositif prévoyait de taxer à hauteur de 5 % le patrimoine net des personnes les plus fortunées afin de financer le système de santé public, affaibli par les coupes budgétaires fédérales décidées par Donald Trump.",
+      "contexte": "Le débat sur la taxation des plus hauts patrimoines oppose régulièrement partisans d'une plus grande redistribution et défenseurs de l'attractivité économique locale. Les projets d'impôts sur la fortune à l'échelle des États américains se heurtent souvent à de fortes résistances politiques et juridiques, les opposants arguant d'un risque de fuite des capitaux.",
+      "image": "https://www.franceinfo.fr/pictures/yO4NjaMmQxO9O4uOfPK3FdWEdcI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af58557417c1233596537.jpg"
+    },
+    {
+      "titre": "Présidentielle 2027 : suivez l'interview de Raphaël Glucksmann, troisième des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\"",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-12T12:16:13+01:00",
+      "resume": "Dans le cadre de la journée événement organisée par franceinfo consacrée aux services publics, plusieurs candidats à l'élection présidentielle de 2027 ont détaillé leurs propositions. Raphaël Glucksmann a répondu aux questions des journalistes sur l'accès et la qualité des services publics, tandis que Gabriel Attal a promis qu'aucun poste ne serait supprimé dans l'Éducation nationale s'il était élu.",
+      "contexte": "À l'approche de l'élection présidentielle de 2027, les questions relatives aux services publics, à l'éducation et à l'aménagement du territoire constituent des thèmes centraux du débat politique français. Les candidats cherchent à rassurer les électeurs sur l'état de l'État-providence et sur les moyens alloués aux services essentiels.",
+      "image": "https://www.franceinfo.fr/pictures/KEXE86FJwIJWEJ0UDAvRUlZO0Yg/0x0:1413x795/432x243/filters:format(jpg)/2026/11/12/6af59ef0e3057732725741.jpg"
+    },
+    {
+      "titre": "CNews : un débat public est nécessaire",
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/12/cnews-un-debat-public-est-necessaire_6809092_3232.html",
+      "source": "Le Monde",
+      "date": "2026-11-12T12:13:01+01:00",
+      "resume": "La conférence des présidents de l'Assemblée nationale a la possibilité de décider de la tenue d'un débat dans l'Hémicycle concernant le maintien de la chaîne CNews. Cette discussion fait suite aux nombreuses sanctions prononcées par l'Arcom contre la chaîne, dont les émissions sont accusées de diffuser des propos incitant à la haine ou à la discrimination sans modification de sa ligne éditoriale.",
+      "contexte": "Le rôle et la régulation des chaînes d'information en continu en France font l'objet de vifs débats politiques et juridiques concernant le respect du pluralisme et de la déontologie. Les sanctions de l'Arcom et les interpellations parlementaires illustrent la difficulté de concilier la liberté de la communication avec la lutte contre la diffusion de propos haineux.",
+      "image": "https://img.lemde.fr/2026/11/06/1833/0/3667/1833/644/322/60/0/492c74b_upload-1-uoqxcpu1g8gz-ad059-5-nov-dsc01136.jpg"
+    },
+    {
+      "titre": "Le suspect de l'attentat raciste de Trappes et La Verrière avait dressé une liste de personnalités de gauche et d'extrême gauche",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-ce-que-je-regrette-c-est-de-pas-avoir-fait-plus-et-s-il-y-a-des-survivants-c-est-parce-que-j-ai-ete-clement-a-declare-kevin-tessier-en-garde-a-vue_8278007.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-12T12:07:25+01:00",
+      "resume": "Lors de la perquisition au domicile de Kévin Tessier, suspect de l'attentat raciste perpétré le 23 octobre à Trappes et La Verrière dans les Yvelines, les enquêteurs ont découvert un post-it contenant les noms et numéros de téléphone de quatre personnalités de gauche et d'extrême gauche. Cette découverte a suscité de vives réactions politiques, notamment de la part de Fabien Roussel, qui a dénoncé le danger que représente l'extrême droite pour la démocratie.",
+      "contexte": "La découverte de listes de cibles potentielles lors d'enquêtes antiterroristes met en lumière la menace persistante des actes de violence ciblée de nature politique ou raciste. Ces révélations alimentent le débat public sur la sécurité des personnalités exposées et sur la montée des extrémismes dans le pays.",
+      "image": "https://www.franceinfo.fr/pictures/xa7WxIT8SePuxFV9jLUnNi7w5fE/0x93:1024x669/432x243/filters:format(jpg)/2026/11/11/6af48dfc7939b963883382.jpg"
+    },
+    {
+      "titre": "Des pluies diluviennes aggravent la détresse des habitants de Gaza",
+      "lien": "https://www.franceinfo.fr/monde/palestine/gaza/des-pluies-diluviennes-aggravent-la-detresse-des-habitants-de-gaza_8279144.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-12T12:05:02+01:00",
+      "resume": "Des pluies diluviennes se sont abattues sur la bande de Gaza, faisant au moins cinq morts, dont trois enfants, selon les services de secours. Ces intempéries aggravent encore la situation de détresse humanitaire et précaire des habitants de la région.",
+      "contexte": "Les conditions météorologiques extrêmes s'ajoutent aux crises humanitaires majeures et aux destructions d'infrastructures dans les zones de conflit, rendant la survie des populations civiles encore plus difficile. L'absence d'abris adaptés et le manque de services de base accentuent la vulnérabilité des habitants face aux intempéries.",
+      "image": "https://www.franceinfo.fr/pictures/aewvxmUMBksJV6rjYxl7mKcAxzw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/12/6af598acf1bbc537894526.jpg"
+    },
+    {
+      "titre": "Irlande : la capitale prête à accueillir le sommet de la Communauté politique européenne",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-irlande-la-capitale-se-pr%C3%A9pare-%C3%A0-accueillir-le-sommet-de-la-communaut%C3%A9-politique-europ%C3%A9enne",
+      "source": "France 24",
+      "date": "2026-11-12T12:02:44+01:00",
+      "resume": "Le neuvième sommet de la Communauté politique européenne se tient ce jeudi 12 novembre à Dublin, en Irlande, rassemblant les dirigeants de 47 pays du continent. Cette réunion vise à bâtir une Europe compétitive, démocratique et unie face aux profonds bouleversements géopolitiques mondiaux.",
+      "contexte": "Créée pour favoriser le dialogue politique et la coopération au-delà des frontières de l'Union européenne, la Communauté politique européenne sert de cadre informel pour traiter des défis communs de sécurité, d'énergie et de stabilité économique sur le continent. Son rôle s'est accru dans un contexte international marqué par des tensions géopolitiques majeures.",
+      "image": "https://s.france24.com/media/display/c785e2f4-de86-11f1-b44b-29048b396e03/w:1024/p:16x9/FR-20261112-110120-110333-CS.jpg"
+    },
+    {
+      "titre": "Des images inédites de centaines de millions de galaxies grâce au télescope Euclid",
+      "lien": "https://www.franceinfo.fr/sciences/astronomie/on-commence-a-les-regarder-d-une-facon-differente-le-telescope-euclid-devoile-des-centaines-de-millions-de-galaxies-dans-des-images-inedites_8277968.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-12T12:00:01+01:00",
+      "resume": "L'Agence spatiale européenne a publié jeudi une première grande livraison d'images et de données inédites capturées par le télescope Euclid. Lancé dans l'espace en 2023, l'appareil offre un panorama extraordinaire et sans précédent à travers des centaines de millions de galaxies.",
+      "contexte": "Le télescope spatial Euclid a pour mission principale de cartographier la structure à grande échelle de l'Univers pour mieux comprendre la nature de la matière noire et de l'énergie noire. Ces données cosmologiques de haute précision permettent à la communauté scientifique internationale d'explorer l'histoire et l'évolution de l'Univers.",
+      "image": "https://www.franceinfo.fr/pictures/WlhpCt-4Ppo0VHOKqOWKwyPKIlo/0x14:1391x796/432x243/filters:format(jpg)/2026/11/11/6af4ac16ec744771754555.jpg"
+    },
+    {
+      "titre": "Pérou : le pape léon XIV célèbre son retour dans sa \"patrie\"",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-p%C3%A9rou-le-pape-l%C3%A9on-xiv-c%C3%A9l%C3%A8bre-son-retour-dans-sa-patrie",
+      "source": "France 24",
+      "date": "2026-11-12T11:57:12+01:00",
+      "resume": "Le pape Léon XIV a célébré son retour au Pérou, qu'il qualifie de « patrie », lors de son premier discours officiel dans le pays. Ayant exercé son ministère pendant près de deux décennies sur place et acquis la nationalité péruvienne, il effectue cette visite dans le cadre de la dernière étape de sa tournée sud-américaine, après des passages en Uruguay et en Argentine.",
+      "contexte": "Les voyages pontificaux dans les pays d'Amérique latine revêtent une importance spirituelle et géopolitique majeure pour l'Église catholique, confrontée à des évolutions démographiques religieuses et à des défis sociaux locaux. Pour un pape ayant une attache personnelle forte avec un pays de la région, cette visite constitue un moment mémoriel et pastoral particulièrement fort.",
+      "image": "https://s.france24.com/media/display/c9400192-de81-11f1-a652-f71d22e7fea9/w:1024/p:16x9/FR-20261112-094131-094352-CS.jpg"
+    }
+  ],
+  "culture": [
+    {
+      "theme": "sport",
+      "titre": "L'invention du basket-ball",
+      "texte": "Le basket-ball a été inventé à la fin du XIXe siècle par un professeur d'éducation physique canadien, James Naismith. Enseignant dans le Massachusetts, il cherchait un jeu d'intérieur pour occuper ses étudiants durant les rigoureux hivers et éviter la rudesse des sports de contact en plein air. Il a fixé deux paniers de pêches en osier en hauteur sur les balcons du gymnase et a utilisé un ballon de football. Les règles initiales étaient simples et visaient à privilégier l'adresse plutôt que la force brute pour marquer des points. Ce nouveau divertissement a rapidement conquis les campus américains avant de devenir un sport planétaire.",
+      "a_retenir": "Le basket-ball est né de la nécessité de proposer une activité sportive en salle pendant l'hiver.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Basketball_pictogram.svg/960px-Basketball_pictogram.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "theme": "mythologie grecque",
+      "titre": "Le mythe de Prométhée",
+      "texte": "Dans la mythologie grecque, Prométhée est un Titan connu pour son amour des hommes, qu'il a façonnés à partir d'argile. Voulant les aider à survivre face aux dieux de l'Olympe, il a volé le feu sacré au dieu forgeron Héphaïstos pour l'offrir à l'humanité. Ce don a permis aux mortels de développer les arts, la cuisine et la métallurgie, marquant le début de leur civilisation. Pour punir cette audace, Zeus a ordonné son enchaînement sur un rocher, où un aigle venait chaque jour lui dévorer le foie, qui se régénérait sans cesse. Il fut finalement libéré par le héros Héraclès après de longues souffrances.",
+      "a_retenir": "Prométhée est le Titan qui a bravé l'interdiction de Zeus pour offrir le feu aux hommes.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Atlas_Typhoeus_Prometheus.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "theme": "histoire",
+      "titre": "La construction du canal de Suez",
+      "texte": "Le canal de Suez est une voie navigable artificielle creusée au XIXe siècle en Égypte pour relier la mer Méditerranée à la mer Rouge. Ce projet pharaonique a été mené sous la direction du diplomate français Ferdinand de Lesseps, qui a obtenu les concessions nécessaires des autorités égyptiennes. Inauguré en grande pompe, il a radicalement transformé le commerce mondial en évitant aux navires de contourner tout le continent africain par le cap de Bonne-Espérance. Cette réalisation technique majeure a également exacerbé les rivalités géopolitiques, devenant un enjeu stratégique majeur pour le contrôle des routes maritimes vers l'Asie.",
+      "a_retenir": "Le canal de Suez a révolutionné le commerce maritime en reliant la Méditerranée à la mer Rouge.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Canal_de_Suez.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    }
+  ],
+  "quiz_jour": []
 }
