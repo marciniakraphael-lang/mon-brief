@@ -5242,6 +5242,22 @@
       "explication": "Dans son rapport annuel, le Secours catholique appelle à mieux comprendre la pauvreté qu'il qualifie de multidimensionnelle.",
       "lien": "https://www.lemonde.fr/societe/article/2026/11/12/louise-57-ans-aidee-par-le-secours-catholique-etre-pauvre-au-rsa-ce-n-est-pas-profiter-du-systeme-c-est-vivre-dans-le-stress_6809034_3224.html",
       "image": "https://img.lemde.fr/2026/10/03/519/0/4252/2126/644/322/60/0/7a4dcc7_upload-1-fkp5khfelxjc-lidlmarquette-35.jpg"
+    },
+    {
+      "id": "84b98eb028",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Quel dirigeant ukrainien a affirmé depuis Dublin que l'Europe participerait aux prochaines négociations de paix ?",
+      "choix": [
+        "Volodymyr Zelensky",
+        "Vladimir Poutine",
+        "Jared Kushner",
+        "Donald Trump"
+      ],
+      "reponse": 0,
+      "explication": "C'est le président ukrainien Volodymyr Zelensky qui a fait cette déclaration lors de sa visite à Dublin.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/5swluOoVj4SRXMPcNX-9klTHN9k/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af63f5054e39958827036.jpg"
     }
   ]
 }
