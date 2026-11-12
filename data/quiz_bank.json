@@ -5210,6 +5210,38 @@
       "explication": "Le blob est un être vivant fascinant classé parmi les amibozoaires.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "50ad8fc22c",
+      "date": "2026-11-12",
+      "type": "actu",
+      "question": "Quel événement marquant a eu lieu lors de l'élection de Scott Colom comme sénateur du Mississippi ?",
+      "choix": [
+        "Il est le premier sénateur noir élu dans cet État depuis près de 150 ans.",
+        "Il a remporté l'élection avec 90 % des voix.",
+        "Il est le plus jeune sénateur de l'histoire des États-Unis.",
+        "Il est le premier sénateur démocrate de l'histoire de l'État."
+      ],
+      "reponse": 0,
+      "explication": "Scott Colom est devenu le premier sénateur noir élu dans le Mississippi en près de 150 ans, renforçant la majorité démocrate.",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261111-etats-unis-victoire-mississippi-democrates-renforcent-majorite-senat-scott-colom",
+      "image": "https://s.france24.com/media/display/e7807fc4-de27-11f1-b242-f71d22e7fea9/w:1024/p:16x9/AP26314768923953.jpg"
+    },
+    {
+      "id": "204be4cd64",
+      "date": "2026-11-12",
+      "type": "actu",
+      "question": "Comment le Secours catholique qualifie-t-il la pauvreté dans son rapport annuel publié le 12 novembre ?",
+      "choix": [
+        "Comme une pauvreté multidimensionnelle",
+        "Comme un problème en net recul en France",
+        "Comme une situation purement financière",
+        "Comme un choix de mode de vie"
+      ],
+      "reponse": 0,
+      "explication": "Dans son rapport annuel, le Secours catholique appelle à mieux comprendre la pauvreté qu'il qualifie de multidimensionnelle.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/12/louise-57-ans-aidee-par-le-secours-catholique-etre-pauvre-au-rsa-ce-n-est-pas-profiter-du-systeme-c-est-vivre-dans-le-stress_6809034_3224.html",
+      "image": "https://img.lemde.fr/2026/10/03/519/0/4252/2126/644/322/60/0/7a4dcc7_upload-1-fkp5khfelxjc-lidlmarquette-35.jpg"
     }
   ]
 }

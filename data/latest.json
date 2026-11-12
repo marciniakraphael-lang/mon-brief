@@ -1,346 +1,62 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "mode": "evening",
-  "updated": "2026-11-11T22:43:14.828685+01:00",
-  "deja_presente": [
-    {
-      "titre": "Manifestations du 10 novembre : une conseillère régionale porte plainte après avoir été visée par un jet de bouteille d'essence en banlieue parisienne",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-10T12:19:11+01:00",
-      "resume": "Une conseillère régionale a déposé plainte après avoir été visée par un jet de bouteille d'essence lors des manifestations du 10 novembre en banlieue parisienne. L'incident s'est produit devant un lycée de Chelles, en Seine-et-Marne, alors qu'elle se trouvait aux côtés de parents d'élèves mobilisés pour la reprise des cours.",
-      "contexte": "Les abords des établissements scolaires lors de mouvements de contestation ou de tensions sociales sont parfois le théâtre d'incidents violents impliquant des manifestants extérieurs ou des individus cherchant à perturber l'ordre public. La présence d'élus locaux sur le terrain vise généralement à apaiser la situation et à soutenir les revendications locales, mais les expose parfois directement aux débordements. Ce type d'agression envers des représentants de la République suscite régulièrement une réprobation unanime de la classe politique.",
-      "image": "https://www.franceinfo.fr/pictures/5qUAkHdZ5KhGyAjNl9dSrNJ4_zo/0x29:934x555/432x243/filters:format(jpg)/2026/11/10/6af2f271b9c85390132804.png"
-    },
-    {
-      "titre": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, dans le sillage du conflit au Moyen-Orient",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/10/gaz-nouvelle-hausse-de-5-8-a-venir-pour-les-foyers-francais-dans-le-sillage-du-conflit-au-moyen-orient_6808828_3234.html",
-      "source": "Le Monde",
-      "date": "2026-11-10T12:16:22+01:00",
-      "resume": "Les foyers français devront faire face à une nouvelle hausse de 5,8 % des tarifs du gaz, s'inscrivant dans le prolongement des répercussions du conflit au Moyen-Orient. Selon les calculs de la Commission de régulation de l'énergie, l'augmentation moyenne de la facture énergétique pour l'année 2026 devrait atteindre un total de 11,8 %, représentant un surcoût d'environ 143 euros.",
-      "contexte": "Les prix de l'énergie en Europe sont extrêmement sensibles aux crises géopolitiques internationales, en particulier dans les régions productrices de hydrocarbures comme le Moyen-Orient. Les tensions sur ces marchés se traduisent quasi mécaniquement par une hausse des coûts d'approvisionnement pour les fournisseurs, répercutée ensuite sur les consommateurs finaux. Cette inflation énergétique pèse lourdement sur le pouvoir d'achat des ménages et contraint les gouvernements à envisarguer des mesures de bouclier tarifaire ou d'accompagnement financier.",
-      "image": "https://img.lemde.fr/2026/11/10/125/0/5948/2974/644/322/60/0/bcaec47_upload-1-oh3ub0qv4qcp-000-32vm72j.jpg"
-    },
-    {
-      "titre": "L’ONU appelle l’Egypte à mettre fin au « harcèlement » des journalistes et médias nationaux",
-      "lien": "https://www.lemonde.fr/afrique/article/2026/11/10/l-onu-appelle-l-egypte-a-mettre-fin-au-harcelement-des-journalistes-et-medias-nationaux_6808827_3212.html",
-      "source": "Le Monde",
-      "date": "2026-11-10T12:14:39+01:00",
-      "resume": "L'Organisation des Nations unies a publiquement exhorté l'Égypte à mettre un terme au « harcèlement » exercé à l'encontre des journalistes et des médias nationaux. Le porte-parole du Haut-Commissariat aux droits de l’homme, Thameen Al-Kheetan, a rappelé depuis Genève que la population égyptienne a le droit légitime de s'informer et d'accéder à différents points de vue sur des questions d'intérêt public.",
-      "contexte": "La liberté de la presse en Égypte fait l'objet de préoccupations constantes de la part des organisations internationales de défense des droits humains, qui dénoncent régulièrement la censure, le blocage de sites d'information et l'arrestation de journalistes. L'objectif des interpellations onusiennes est de maintenir une pression diplomatique pour inciter les autorités à respecter les standards internationaux en matière de liberté d'expression. Le pouvoir égyptien, de son côté, invoque généralement des impératifs de sécurité nationale pour justifier le contrôle strict des flux d'information.",
-      "image": "https://img.lemde.fr/2026/11/10/1440/0/8640/4320/644/322/60/0/bcbb16f_ftp-1-umw4nn42auog-9f5e84056581426283816f6b08eda935-3-a3c8f2cccb9b44a1a0d3ec317ae38b30.jpg"
-    },
-    {
-      "titre": "Aux États-Unis, la politique migratoire favorise l'essor des restaurants indiens",
-      "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-la-politique-migratoire-favorise-l-essor-des-restaurants-indiens_8254996.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-10T12:14:38+01:00",
-      "resume": "La politique migratoire restrictive menée par l'administration de Donald Trump a indirectement favorisé l'essor de la cuisine indienne aux États-Unis. Sur le bord des routes californiennes, on observe ainsi une multiplication notable des restaurants proposant des spécialités de ce pays.",
-      "contexte": "Les évolutions de la législation sur l'immigration aux États-Unis modifient profondément la démographie et l'entrepreneuriat au sein des différentes communautés étrangères. Les restrictions imposées à certaines nationalités ou profils poussent souvent les diasporas déjà établies à adapter leurs modèles économiques et à investir dans des secteurs de services ou de restauration accessibles. Cet essor illustre la capacité d'adaptation des populations immigrées face aux mutations réglementaires de leur pays d'accueil.",
-      "image": "https://www.franceinfo.fr/pictures/tOrO5omuOp1OewvbIWrwjuqG2zI/0x311:6048x3713/432x243/filters:format(jpg)/2026/11/10/6af2f1ce8be9d616790241.jpg"
-    },
-    {
-      "titre": "Jensen Huang, patron de Nvidia, admet une liaison avec une espionne chinoise",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/jensen-huang-patron-de-nvidia-admet-une-liaison-avec-une-espionne-chinoise_8275190.html#xtor=RSS-3-%5Bgeneral%5D",
-      "source": "franceinfo Monde · France 24",
-      "date": "2026-11-10T12:02:53+01:00",
-      "resume": "Jensen Huang, le patron du géant technologique américain Nvidia, a reconnu une liaison amoureuse avec une partenaire soupçonnée par le renseignement américain de travailler pour les services secrets chinois. Cette affaire d'espionnage présumée fait peser des soupçons sur la sécurité des secrets industriels de l'entreprise, poussant le groupe à ouvrir une enquête interne. L'avenir du dirigeant et les répercussions de ce scandale sur l'industrie de l'intelligence artificielle devraient se jouer à Washington.",
-      "contexte": "Ce type d'affaire met en lumière la vulnérabilité des figures clés de la tech face aux stratégies d'ingérence et d'espionnage industriel menées par de grandes potences, dans un contexte de rivalité technologique acharnée entre les États-Unis et la Chine. Nvidia, en tant que leader mondial des puces électroniques dédiées à l'intelligence artificielle, détient des informations stratégiques hautement sensibles pour la sécurité nationale américaine. La révélation de telles relations personnelles soulève des questions cruciales sur la sécurité des données et le profilage des dirigeants par les services de renseignement étrangers.",
-      "image": "https://www.franceinfo.fr/pictures/suYZEmcvWjVShaGE0QaTEmKf8-w/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af2362fb80d0873248590.jpg"
-    },
-    {
-      "titre": "La désintégration extrêmement rare d’une particule suscite l’espoir de découvrir une nouvelle physique",
-      "lien": "https://www.lemonde.fr/sciences/article/2026/11/10/la-desintegration-extremement-rare-d-une-particule-suscite-l-espoir-de-decouvrir-une-nouvelle-physique_6808823_1650684.html",
-      "source": "Le Monde",
-      "date": "2026-11-10T12:00:04+01:00",
-      "resume": "L'une des expériences menées au sein de l'accélérateur géant de particules du CERN a permis d'observer la désintégration extrêmement rare d'une particule. Ce phénomène physique particulier ne se produit, en moyenne, qu'une seule fois sur dix milliards de particules analysées.",
-      "contexte": "L'observation de phénomènes physiques rarissimes constitue l'un des principaux objectifs des grands collisionneurs de particules comme celui du CERN, qui cherchent à sonder les limites du modèle standard de la physique des particules. La mise en évidence de telles anomalies ou processus peu communs suscute l'espoir des chercheurs de découvrir une « nouvelle physique », c'est-à-dire des lois fondamentales de l'univers encore ignorées. Ces avancées scientifiques fondamentales nécessitent des années d'expérimentation et d'analyse de données massives.",
-      "image": "https://img.lemde.fr/2026/11/09/376/0/2560/1280/644/322/60/0/fae57e1_upload-1-csxks13wpyck-201802-025-01-scaled-1.jpg"
-    },
-    {
-      "titre": "Crise bancaire au Paraguay : près de la moitié de la population privée de son argent",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-crise-bancaire-au-paraguay-pr%C3%A8s-de-la-moiti%C3%A9-de-la-population-priv%C3%A9e-de-son-argent",
-      "source": "France 24",
-      "date": "2026-11-10T11:59:03+01:00",
-      "resume": "Le Paraguay traverse une grave crise bancaire qui prive près de la moitié de la population de l'accès à son argent, suite à un vaste scandale financier ayant entraîné la destitution du président Santiago Peña. Le nouveau dirigeant, Pedro Alliana, a demandé la démission de l'ensemble de ses ministres et hauts fonctionnaires pour mener un remaniement d'envergure. Parallèlement, le pays a entamé des démarches diplomatiques et judiciaires avec les États-Unis, le Luxembourg et l'Argentine afin de localiser et de récupérer les fonds détournés.",
-      "contexte": "Les scandales de corruption et les détournements de fonds publics à grande échelle peuvent déstabiliser durablement l'économie des pays émergents et provoquer des crises politiques majeures, allant jusqu'à la chute des gouvernements. Le recours à la coopération internationale est indispensable dans ces situations pour tracer l'argent placé dans des paradis fiscaux ou des systèmes bancaires étrangers. Cette transition politique au Paraguay vise à restaurer la confiance des citoyens et des marchés financiers internationaux.",
-      "image": "https://s.france24.com/media/display/cdb0cf80-daf9-11f1-9509-a575454bc579/w:1024/p:16x9/2026-11-07T153653Z-181768230-RC23JOAS4CY2-RTRMADP-3-PARAGUAY-POLITICS.jpg"
-    },
-    {
-      "titre": "Israël: Eisenkot pour tourner la page Netanyahu ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261110-isra%C3%ABl-eisenkot-pour-tourner-la-page-netanyahu",
-      "source": "France 24",
-      "date": "2026-11-10T11:58:08+01:00",
-      "resume": "Le président israélien Isaac Herzog a confié à Gadi Eisenkot la mission de tenter de rassembler une majorité à la Knesset. Cette initiative politique est perçue comme une tentative potentielle de tourner la page de dix-neuf années de pouvoir cumulées exercées par Benyamin Netanyahu.",
-      "contexte": "Le système politique israélien, fondé sur un scrutin proportionnel, nécessite la formation de coalitions complexes pour gouverner, ce qui rend les équilibres parlementaires très fragiles. Confirmer un mandat exploratoire à une alternative politique crédible traduit la volonté de surmonter les blocages institutionnels et les crises de gouvernance à répétition. La fin potentielle de l'ère Netanyahu marquerait un tournant géopolitique et intérieur majeur pour Israël.",
-      "image": "https://s.france24.com/media/display/da1961ea-dcf4-11f1-b50e-3f371022a770/w:1024/p:16x9/capture-a705de73.jpg"
-    },
-    {
-      "titre": "Négociations Ukraine-Russie : Européens et Américains affirment leur engagement commun en faveur d'une sécurité européenne \"forte\" pour l'après-guerre",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-10T11:57:17+01:00",
-      "resume": "Les représentants européens et américains ont réaffirmé leur engagement commun en faveur de la construction d'une sécurité européenne « forte » pour l'après-guerre en Ukraine. Ces discussions diplomatiques reprennent après avoir été temporairement suspendues fin février, suite aux frappes israélo-américaines en Iran et à l'ouverture du conflit au Moyen-Orient.",
-      "contexte": "La coordination entre les alliés occidentaux est primordiale pour définir les garanties de sécurité à long terme sur le continent européen face aux conséquences du conflit ukrainien. Les soubresauts géopolitiques mondiaux, notamment les crises simultanées au Moyen-Orient, ont tendance à éclipser temporairement ou à complexifier l'agenda diplomatique transatlantique. L'objectif affiché de ces pourparlers est de pérenniser une architecture de défense dissuasive et solidaire pour la stabilité régionale future.",
-      "image": "https://www.franceinfo.fr/pictures/l4DtoJ-ljMIOaC0t6urw7RC_l2c/0x106:1024x682/432x243/filters:format(jpg)/2026/11/10/6af2e18949179112917421.jpg"
-    },
-    {
-      "titre": "Éthiopie : construction d'un nouveau barrage pour renforcer son indépendance énergétique",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-%C3%A9thiopie-construction-d-un-nouveau-barrage-pour-renforcer-son-ind%C3%A9pendance-%C3%A9nerg%C3%A9tique",
-      "source": "France 24",
-      "date": "2026-11-10T11:54:46+01:00",
-      "resume": "Dans le cadre de la COP31 qui se tient en Turquie, l'Éthiopie poursuit le développement de grands projets hydroélectriques, notamment avec la construction d'un nouveau barrage sur la rivière Omo pour renforcer son indépendance énergétique et exporter de l'électricité dans la région. Parallèlement, le projet du Grand Barrage de la Renaissance continue de susciter des tensions, Donald Trump ayant relancé la polémique en accusant Addis-Abeba de s'approprier unilatéralement les eaux du Nil.",
-      "contexte": "Le développement des infrastructures hydrauliques en Afrique de l'Est est un enjeu crucial pour l'accès à l'électricité et le développement économique, mais il est également source de vives tensions géopolitiques entre les pays amont et aval, comme l'Égypte et le Soudan, qui dépendent fortement du fleuve Nil. Les projets de barrages soulignent le dilemme entre la transition énergétique nationale et la gestion équitable des ressources en eau partagées. Les réactions internationales illustrent la sensibilité diplomatique de ces grands chantiers fluviaux.",
-      "image": "https://s.france24.com/media/display/5f7491ea-dcee-11f1-87a7-5f54d898a954/w:1024/p:16x9/FR-20261110-093354-093545-CS.jpg"
-    }
-  ],
-  "depuis_hier": [
-    {
-      "titre": "Dans « 15/18 », le cinéaste Cédric Kahn s’empare de la détresse adolescente au sein d’un service psychiatrique",
-      "lien": "https://www.lemonde.fr/culture/article/2026/11/10/dans-15-18-le-cineaste-cedric-khan-s-empare-de-la-detresse-adolescente-au-sein-d-un-service-psychiatrique_6808878_3246.html",
-      "source": "Le Monde",
-      "date": "2026-11-10T18:00:05+01:00",
-      "resume": "Le réalisateur Cédric Kahn sort son nouveau long-métrage intitulé « 15/18 », consacré à la détresse adolescente. L'intrigue du film se déroule en grande partie dans l'enceinte d'un service de psychiatrie d'un hôpital parisien. Présentée comme une œuvre hybride au sein de la filmographie du cinéaste, la production suscite des réserves critiques et peine à convaincre.",
-      "contexte": "La santé mentale des adolescents fait l'objet d'une attention accrue dans le débat public depuis plusieurs années, notamment en raison de la saturation des structures pédopsychiatriques. Cédric Kahn, cinéaste habitué à explorer les tensions humaines et sociétales, s'empare ici d'un sujet clinique délicat. Le traitement fictionnel en milieu hospitalier fermé représente un exercice artistique complexe entre réalisme documentaire et dramaturgie.",
-      "image": "https://img.lemde.fr/2026/11/02/305/0/3100/1550/644/322/60/0/e5960ba_upload-1-ajjnngbtsxro-photo-2-15-18-ad-vitam-films.jpg"
-    }
-  ],
+  "updated": "2026-11-12T01:09:20.706412+01:00",
+  "deja_presente": [],
+  "depuis_hier": [],
   "aujourdhui": [
     {
-      "titre": "Les proches du journaliste Christophe Gleizes espèrent une grâce présidentielle",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
+      "titre": "États-Unis : après une victoire au Mississippi, les démocrates renforcent leur majorité au Sénat",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261111-etats-unis-victoire-mississippi-democrates-renforcent-majorite-senat-scott-colom",
       "source": "France 24",
-      "date": "2026-11-11T22:37:52+01:00",
-      "resume": "Les proches du journaliste français Christophe Gleizes, détenu depuis 500 jours en Algérie et condamné pour apologie du terrorisme, ont été reçus par le ministre des Affaires étrangères Jean-Noël Barrot. Ils espèrent obtenir une grâce présidentielle. Un match de football a également été organisé à Paris en son hommage.",
-      "contexte": "Cette situation met en lumière les tensions diplomatiques et consulaires régulières entre la France et l'Algérie concernant le sort de ressortissants français. Les démarches des proches et les interventions diplomatiques visent traditionnellement à trouver une issue humanitaire ou politique à ce type de détention de longue durée.",
-      "image": "https://s.france24.com/media/display/6ad85d10-de14-11f1-9cb3-695cb59fade5/w:1024/p:16x9/FRAN261111-2141-Live-01.jpg"
+      "date": "2026-11-12T00:38:41+01:00",
+      "resume": "Plus d'une semaine après les midterms aux États-Unis, le démocrate Scott Colom a remporté de justesse le poste de sénateur du Mississippi. Il s'agit du premier sénateur noir élu dans cet État du Sud en près de 150 ans. Cette victoire permet aux démocrates de renforcer un peu plus leur majorité au Congrès.",
+      "contexte": "Le Mississippi possède une histoire politique complexe marquée par la ségrégation et une faible représentation des minorités dans les hautes fonctions. L'élection d'un sénateur démocrate et afro-américain dans cet État traditionnellement conservateur illustre des évolutions démographiques et électorales locales. Cela offre également un soutien précieux au parti au pouvoir pour faire passer ses réformes législatives au Sénat.",
+      "image": "https://s.france24.com/media/display/e7807fc4-de27-11f1-b242-f71d22e7fea9/w:1024/p:16x9/AP26314768923953.jpg"
     },
     {
-      "titre": "Autonomie de la Corse : le gouvernement annule une réunion prévue jeudi à Paris après le désistement des nationalistes",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/11/autonomie-de-la-corse-le-gouvernement-annule-une-reunion-prevue-jeudi-a-paris-apres-le-desistement-des-nationalistes_6809032_3224.html",
+      "titre": "Louise, 57 ans, aidée par le Secours catholique : « Etre pauvre, au RSA, ce n’est pas profiter du système, c’est vivre dans le stress »",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/12/louise-57-ans-aidee-par-le-secours-catholique-etre-pauvre-au-rsa-ce-n-est-pas-profiter-du-systeme-c-est-vivre-dans-le-stress_6809034_3224.html",
       "source": "Le Monde",
-      "date": "2026-11-11T22:20:11+01:00",
-      "resume": "Le gouvernement français a annulé une réunion sur l'autonomie de la Corse qui était prévue jeudi à Paris. Cette décision fait suite au désistement des nationalistes corses, le président du conseil exécutif et la présidente de l'Assemblée de Corse reprochant à l'exécutif de ne pas avoir répondu à des propositions adoptées le 4 novembre.",
-      "contexte": "Ce blocage illustre la complexité persistante des discussions entre Paris et les élus insulaires concernant le statut institutionnel et l'autonomie de l'île. Les désaccords portent souvent sur l'étendue des compétences locales accordées et la reconnaissance de spécificités dans la Constitution.",
-      "image": "https://img.lemde.fr/2026/05/04/472/0/5662/2831/644/322/60/0/d514545_ftp-1-pikin32rqkca-5940555-01-06.jpg"
-    },
-    {
-      "titre": "Cisjordanie occupée : un responsable des colons israélien refoulé à son arrivée en France",
-      "lien": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france",
-      "source": "France 24",
-      "date": "2026-11-11T22:12:37+01:00",
-      "resume": "Yossi Dagan, un responsable des colons israéliens dirigeant une structure représentant les colonies en Samarie (Cisjordanie occupée), a été refoulé à son arrivée en France. Selon le ministère français des Affaires étrangères, cette décision a été prise en raison de son rôle actif dans la mise en œuvre de la politique de colonisation.",
-      "contexte": "La France et l'Union européenne considèrent la colonisation en Cisjordanie comme illégale au regard du droit international et un obstacle majeur à la paix. Ce type de mesure restrictive individuelle traduit la volonté de sanctionner les acteurs jugés responsables de l'expansion des colonies dans les territoires occupés.",
-      "image": "https://s.france24.com/media/display/00bc1290-de10-11f1-ab90-3f371022a770/w:1024/p:16x9/000-A8BM2T9.jpg"
-    },
-    {
-      "titre": "Les menaces d'ingérence de la Russie \"sont à prendre très au sérieux\", réagit le député Sacha Houlié après son interdiction de territoire par Moscou",
-      "lien": "https://www.franceinfo.fr/monde/russie/les-menaces-d-ingerence-de-la-russie-sont-a-prendre-tres-au-serieux-reagit-le-depute-sacha-houlie-apres-son-interdiction-de-territoire-par-moscou_8278337.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · Le Monde",
-      "date": "2026-11-11T22:07:53+01:00",
-      "resume": "Le député Place publique Sacha Houlié, ainsi qu'Arthur Delaporte et deux journalistes français (Ariane Chemin et Paul Gogo), ont été interdits de séjour en Russie. Le ministère russe des Affaires étrangères justifie cette mesure en les accusant d'avoir participé au harcèlement de Xenia Fedorova, une salariée du groupe Bolloré présentée comme une propagandiste du Kremlin. Face à cette interdiction, Sacha Houlié a appelé à la vigilance contre les ingérences et cyberattaques russes à l'approche de la présidentielle en France.",
-      "contexte": "Cette décision s'inscrit dans la dégradation continue des relations diplomatiques entre Paris et Moscou dans le contexte de la guerre en Ukraine. Les interdictions de territoire croisées et les accusations d'ingérence ou de cyberattaques sont devenues des outils fréquents de confrontation géopolitique.",
-      "image": "https://www.franceinfo.fr/pictures/i9Hw17Y28CfT-dFveP2-4ZJD12M/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af4d90776aea290076851.jpg"
-    },
-    {
-      "titre": "Face à l'avalanche de forfaits, Zinédine Zidane et les Bleus obligés d'innover en attaque pour défier l’Italie en Ligue des nations",
-      "lien": "https://www.franceinfo.fr/sports/foot/equipe-de-france/face-a-l-avalanche-de-forfaits-zinedine-zidane-et-les-bleus-obliges-d-innover-en-attaque-pour-defier-l-italie-en-ligue-des-nations_8278229.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-11T22:07:17+01:00",
-      "resume": "L'équipe de France de football doit faire face à une avalanche de forfaits, dont celui de son capitaine Kylian Mbappé, pour affronter l'Italie jeudi à San Siro en Ligue des nations. Le sélectionneur Zinédine Zidane et les Bleus se trouvent ainsi obligés d'innover en attaque.",
-      "contexte": "Les matches de la Ligue des nations intervenant souvent en cours de saison européenne, les organismes des joueurs sont mis à rude épreuve par un calendrier surchargé. Ces absences forcent les encadrements techniques à tester de nouvelles configurations tactiques en vue des échéances internationales majeures.",
-      "image": "https://www.franceinfo.fr/pictures/5PVZv730Mj3eVGyPjlrJ2CMGwpE/0x72:1024x648/432x243/filters:format(jpg)/2026/11/11/6af4b89395263825774298.jpg"
-    },
-    {
-      "titre": "En Espagne, des centaines de milliers de personnes ont manifesté pour l'accès au logement et le pouvoir d'achat",
-      "lien": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-greve-generale-pour-defendre-l-acces-au-logement-et-le-pouvoir-d-achat_8277731.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-11T22:01:15+01:00",
-      "resume": "Des centaines de milliers de personnes ont manifesté en Espagne pour réclamer un meilleur accès au logement et la défense du pouvoir d'achat. Ce mouvement fait suite à un appel des principaux syndicats dans le prolongement d'une crise du logement amplifiée fin septembre par l'expulsion d'une Madrilène de 87 ans.",
-      "contexte": "La hausse des prix de l'immobilier, des loyers et du coût de la vie alimente un mécontentement social grandissant dans plusieurs grandes villes européennes. Les manifestations visent à pousser les gouvernements à réguler davantage le marché immobilier et à protéger les locataires précaires.",
-      "image": "https://www.franceinfo.fr/pictures/rmusmBNPkgQZZ2AOgt7qbKPlBFM/0x5:1024x581/432x243/filters:format(jpg)/2026/11/11/6af450b0765a3646814030.jpg"
-    },
-    {
-      "titre": "Le collectif de victimes de Bétharram s'associe à l'artiste JR pour une grande installation devant Notre-Dame de Paris intitulée \"Les Visages de Bétharram\"",
-      "lien": "https://www.franceinfo.fr/culture/arts-expos/le-collectif-de-victimes-de-betharram-s-associe-a-l-artiste-jr-pour-une-grande-installation-devant-notre-dame-de-paris-intitulee-les-visages-de-betharram_8278325.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-11T21:55:35+01:00",
-      "resume": "Le collectif de victimes de Bétharram s'est associé à l'artiste JR pour créer une grande installation artistique intitulée 'Les Visages de Bétharram'. Cette œuvre, constituée de visages de victimes, sera exposée sur le parvis de la cathédrale Notre-Dame de Paris à l'été 2027.",
-      "contexte": "L'utilisation de l'art visuel et de projets participatifs dans l'espace public est un moyen fréquent pour les collectifs de victimes de maintenir la visibilité de leurs combats et de sensibiliser le grand public. Le choix de parvis symboliques permet de donner une résonance nationale à des affaires locales.",
-      "image": "https://www.franceinfo.fr/pictures/HITa5qSPtBtCdWW9lQKaDXz2Gm4/0x384:2048x1536/432x243/filters:format(jpg)/2025/03/15/maxradiofr030931-67d5b0daae95a812597569.jpg"
-    },
-    {
-      "titre": "L'ambassadeur russe aux Etats-Unis est mort \"soudainement\" à 66 ans, annonce Moscou",
-      "lien": "https://www.franceinfo.fr/monde/russie/l-ambassadeur-russe-aux-etats-unis-est-mort-soudainement-a-66-ans-annonce-moscou_8278313.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-11T21:51:09+01:00",
-      "resume": "L'ambassadeur russe aux États-Unis est mort soudainement à l'âge de 66 ans, a annoncé Moscou. Il avait pris ses fonctions à Washington en mars 2025, à une période marquée par un rapprochement entre les deux pays impulsé par Vladimir Poutine et Donald Trump sur le dossier ukrainien.",
-      "contexte": "La disparition subite de diplomates de premier plan en poste à l'étranger suscite toujours une attention particulière dans les cercles géopolitiques. Ses fonctions à Washington intervenaient dans un contexte de discussions délicates entre grandes puissances concernant l'avenir du conflit en Ukraine.",
-      "image": "https://www.franceinfo.fr/pictures/AUuTkgsIit9Vu19ziqoe7-FigY8/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af4d28c8b230083524708.jpg"
-    },
-    {
-      "titre": "183 heures de travail par semaine : ce fonctionnaire britannique cumulait cinq emplois à l'insu de ses employeurs",
-      "lien": "https://www.franceinfo.fr/monde/royaume-uni/183-heures-de-travail-par-semaine-ce-fonctionnaire-britannique-cumulait-cinq-emplois-a-l-insu-de-ses-employeurs_8278319.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-11T21:50:43+01:00",
-      "resume": "Au Royaume-Uni, un fonctionnaire a été reconnu coupable après avoir cumulé cinq emplois en même temps à l'insu de ses employeurs, ce qui représentait virtuellement 183 heures de travail par semaine. Il touchait cinq salaires simultanément et attend désormais de connaître sa peine.",
-      "contexte": "Ce type d'affaire met en lumière les failles potentielles dans le contrôle du temps de travail et des conflits d'intérêts au sein de la fonction publique. Avec la généralisation du télétravail et des emplois numériques, le cumul non déclaré d'activités professionnelles est devenu un défi croissant pour les employeurs.",
-      "image": "https://www.franceinfo.fr/pictures/xqLyPNiJgKS2Ob_X8L8Pyahlj68/18x0:1123x622/432x243/filters:format(jpg)/2026/11/11/6af4d4f03435c487560417.jpg"
-    },
-    {
-      "titre": "Une nouvelle génération de munitions russes low cost inquiète l’Ukraine",
-      "lien": "https://www.france24.com/fr/europe/20261111-nouvelle-g%C3%A9n%C3%A9ration-munitions-russes-low-cost-inqui%C3%A8te-ukraine",
-      "source": "France 24",
-      "date": "2026-11-11T21:48:44+01:00",
-      "resume": "L'Ukraine s'inquiète de l'utilisation par la Russie d'une nouvelle génération de munitions low cost, baptisées notamment Dan-T, Filin ou Geran-5. Ces engins de petite taille, rapides et peu coûteux sont spécialement conçus pour saturer et déborder les défenses anti-aériennes ukrainiennes afin de mener des frappes en profondeur.",
-      "contexte": "L'évolution technologique et l'utilisation de matériels militaires à bas coût modifient profondément la nature des conflits aériens modernes. La production en quantité de drones et de munitions économiques cherche à épuiser les stocks de missiles de défense antiaérienne, souvent beaucoup plus onéreux.",
-      "image": "https://s.france24.com/media/display/87fb8c48-ddf9-11f1-b48e-3f371022a770/w:1024/p:16x9/cou1.jpg"
-    },
-    {
-      "titre": "Nvidia : espionnage ou affaire d'État ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261111-nvidia-espionnage-ou-affaire-d-%C3%A9tat",
-      "source": "France 24",
-      "date": "2026-11-11T21:45:33+01:00",
-      "resume": "Jensen Huang, le patron de Nvidia, leader mondial des microprocesseurs pesant plus de 4000 milliards de dollars de capitalisation boursière, est au cœur d'une affaire mêlant vie privée et géopolitique aux États-Unis et en Chine. Il est mis en cause après la révélation d'une liaison avec Alice Huang, soupçonnée d'être une espionne travaillant pour Pékin.",
-      "contexte": "À l'ère de la guerre technologique et économique entre les grandes puissances, les dirigeants d'entreprises stratégiques de haute technologie sont particulièrement exposés aux risques d'espionnage industriel ou d'influence étrangère. Ce type de scandale illustre la porosité croissante entre la sécurité nationale et la sphère dirigeante des multinationales de la tech.",
-      "image": "https://s.france24.com/media/display/978c9508-dc5a-11f1-a14e-695cb59fade5/w:1024/p:16x9/nvidia-china-spy.png"
+      "date": "2026-11-12T00:01:09+01:00",
+      "resume": "Dans son rapport annuel publié le jeudi 12 novembre, le Secours catholique appelle à mieux comprendre la pauvreté qu'il qualifie de multidimensionnelle. L'association met en lumière le témoignage de Louise, 57 ans, bénéficiaire du RSA, qui illustre le stress quotidien, l'isolement et les difficultés matérielles liés à cette situation.",
+      "contexte": "Les rapports annuels des associations de lutte contre la précarité visent traditionnellement à sensibiliser l'opinion publique et à interpeller les pouvoirs publics sur les conditions de vie des populations vulnérables. La question du niveau des minima sociaux et de l'accompagnement des personnes précaires fait régulièrement l'objet de débats politiques en France, oscillant entre aide sociale et insertion par l'emploi.",
+      "image": "https://img.lemde.fr/2026/10/03/519/0/4252/2126/644/322/60/0/7a4dcc7_upload-1-fkp5khfelxjc-lidlmarquette-35.jpg"
     }
   ],
-  "culture": [
-    {
-      "theme": "sport",
-      "titre": "La révolution du Fosbury-flop",
-      "texte": "Jusqu'aux Jeux olympiques de 1968 à Mexico, les spécialistes du saut en hauteur franchissaient la barre face à elle, le plus souvent selon la méthode du rouleau ventral. L'athlète américain Dick Fosbury a surpris le public en s'élançant le dos tourné vers l'obstacle. Cette technique inédite permettait de faire passer le corps au-dessus de la barre tout en maintenant son centre de gravité plus bas. Longtemps critiqué et moqué pour un style jugé inélégant ou périlleux, Fosbury a fait taire ses détracteurs en décrochant la médaille d'or olympique. Son saut dorsal a rapidement transformé la discipline au point de devenir la norme mondiale incontestée.",
-      "a_retenir": "En choisissant de sauter sur le dos, Dick Fosbury a révolutionné le saut en hauteur en optimisant la mécanique du centre de gravité.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bundesarchiv_Bild_183-H0801-0020-001%2C_Burglinde_Pollak.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-    },
-    {
-      "theme": "nature et animaux",
-      "titre": "Le mystère biologique du blob",
-      "texte": "Ni plante, ni animal, ni champignon, le blob est un être vivant fascinant classé parmi les amibozoaires. Bien qu'il soit constitué d'une seule cellule géante dotée de millions de noyaux, cet organisme peut s'étendre sur plusieurs mètres carrés. Dépourvu de cerveau et de système nerveux, le blob est pourtant capable de mémoriser des chemins, de résoudre des labyrinthes et d'adapter son comportement à son environnement. Il a également la faculté de fusionner avec d'autres congénères pour leur transmettre les connaissances qu'il a acquises. Pratiquement immortel en milieu naturel, il se met en dormance lorsque la nourriture vient à manquer et reprend vie dès que l'humidité réapparaît.",
-      "a_retenir": "Bien qu'il soit formé d'une unique cellule sans système nerveux, le blob possède de stupéfiantes capacités d'apprentissage et de mémoire.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Physarum_polycephalum_plasmodium.jpg/960px-Physarum_polycephalum_plasmodium.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    },
-    {
-      "theme": "arts et littérature",
-      "titre": "L'art japonais du kintsugi",
-      "texte": "Apparu au Japon à la fin du XVe siècle, le kintsugi est une technique artisanale destinée à réparer les céramiques et les porcelaines cassées. Au lieu de dissimuler les cassures, l'artisan assemble les morceaux à l'aide d'une laque naturelle saupoudrée d'or ou d'argent. Cette pratique s'inspire du concept philosophique du wabi-sabi, qui invite à reconnaître et célébrer la beauté des imperfections et de l'éphémère. La pièce ainsi restaurée ne retrouve pas son apparence originelle, mais s'enrichit d'une identité propre et d'une valeur artistique décuplée. Les lignes d'or mettent en valeur les accidents de l'objet, transformant ses fêlures en une marque de noblesse.",
-      "a_retenir": "Le kintsugi sublime la vaisselle brisée en scellant ses éclats avec de la poudre d'or, transformant les failles d'un objet en une œuvre d'art.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Glass_Bowl%2C_Kofun_period%2C_6th_century%2C_perhaps_from_the_tomb_of_Emperor_Ankan%2C_Habikino-shi%2C_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG/960px-Glass_Bowl%2C_Kofun_period%2C_6th_century%2C_perhaps_from_the_tomb_of_Emperor_Ankan%2C_Habikino-shi%2C_Osaka_-_Tokyo_National_Museum_-_DSC06402.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-    }
-  ],
+  "culture": [],
   "quiz_jour": [
     {
-      "id": "d218c2b78d",
-      "date": "2026-11-11",
+      "id": "50ad8fc22c",
+      "date": "2026-11-12",
       "type": "actu",
-      "question": "Combien de temps le journaliste français Christophe Gleizes a-t-il passé en détention en Algérie ?",
+      "question": "Quel événement marquant a eu lieu lors de l'élection de Scott Colom comme sénateur du Mississippi ?",
       "choix": [
-        "250 jours",
-        "100 jours",
-        "1 an",
-        "500 jours"
-      ],
-      "reponse": 3,
-      "explication": "Christophe Gleizes est détenu depuis 500 jours en Algérie, selon l'article.",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
-      "image": "https://s.france24.com/media/display/6ad85d10-de14-11f1-9cb3-695cb59fade5/w:1024/p:16x9/FRAN261111-2141-Live-01.jpg"
-    },
-    {
-      "id": "add7838826",
-      "date": "2026-11-11",
-      "type": "actu",
-      "question": "Pourquoi le gouvernement français a-t-il annulé la réunion sur l'autonomie de la Corse prévue à Paris ?",
-      "choix": [
-        "Suite à un désaccord budgétaire avec l'Union européenne",
-        "En raison de conditions météorologiques défavorables",
-        "En raison du désistement des nationalistes corses",
-        "À cause d'une grève des transports aériens"
-      ],
-      "reponse": 2,
-      "explication": "La réunion a été annulée suite au désistement des nationalistes corses.",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/11/autonomie-de-la-corse-le-gouvernement-annule-une-reunion-prevue-jeudi-a-paris-apres-le-desistement-des-nationalistes_6809032_3224.html",
-      "image": "https://img.lemde.fr/2026/05/04/472/0/5662/2831/644/322/60/0/d514545_ftp-1-pikin32rqkca-5940555-01-06.jpg"
-    },
-    {
-      "id": "38c4d42542",
-      "date": "2026-11-11",
-      "type": "actu",
-      "question": "Qui est Yossi Dagan, qui a été refoulé à son arrivée en France ?",
-      "choix": [
-        "Un ministre israélien des Affaires étrangères",
-        "Un diplomate américain en poste au Moyen-Orient",
-        "Un ancien ambassadeur d'Israël en France",
-        "Un responsable des colons israéliens dirigeant une structure représentant les colonies en Samarie"
-      ],
-      "reponse": 3,
-      "explication": "Yossi Dagan dirige une structure représentant les colonies en Samarie (Cisjordanie occupée).",
-      "lien": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france",
-      "image": "https://s.france24.com/media/display/00bc1290-de10-11f1-ab90-3f371022a770/w:1024/p:16x9/000-A8BM2T9.jpg"
-    },
-    {
-      "id": "c2253db55f",
-      "date": "2026-11-11",
-      "type": "actu",
-      "question": "Quel événement récent a amplifié la crise du logement en Espagne avant les manifestations massives ?",
-      "choix": [
-        "La hausse subite de 50 % des taux d'intérêt bancaires",
-        "L'expulsion d'une Madrilène de 87 ans",
-        "L'effondrement d'un immeuble vétuste à Barcelone",
-        "Une grève générale des agences immobilières"
-      ],
-      "reponse": 1,
-      "explication": "La crise du logement a été amplifiée fin septembre par l'expulsion d'une Madrilène de 87 ans.",
-      "lien": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-greve-generale-pour-defendre-l-acces-au-logement-et-le-pouvoir-d-achat_8277731.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/rmusmBNPkgQZZ2AOgt7qbKPlBFM/0x5:1024x581/432x243/filters:format(jpg)/2026/11/11/6af450b0765a3646814030.jpg"
-    },
-    {
-      "id": "6563f36048",
-      "date": "2026-11-11",
-      "type": "actu",
-      "question": "Combien d'emplois ce fonctionnaire britannique cumulait-il simultanément à l'insu de ses employeurs ?",
-      "choix": [
-        "Cinq",
-        "Trois",
-        "Deux",
-        "Quatre"
+        "Il est le premier sénateur noir élu dans cet État depuis près de 150 ans.",
+        "Il a remporté l'élection avec 90 % des voix.",
+        "Il est le plus jeune sénateur de l'histoire des États-Unis.",
+        "Il est le premier sénateur démocrate de l'histoire de l'État."
       ],
       "reponse": 0,
-      "explication": "Le fonctionnaire cumulait cinq emplois en même temps, ce qui représentait virtuellement 183 heures de travail par semaine.",
-      "lien": "https://www.franceinfo.fr/monde/royaume-uni/183-heures-de-travail-par-semaine-ce-fonctionnaire-britannique-cumulait-cinq-emplois-a-l-insu-de-ses-employeurs_8278319.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/xqLyPNiJgKS2Ob_X8L8Pyahlj68/18x0:1123x622/432x243/filters:format(jpg)/2026/11/11/6af4d4f03435c487560417.jpg"
+      "explication": "Scott Colom est devenu le premier sénateur noir élu dans le Mississippi en près de 150 ans, renforçant la majorité démocrate.",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261111-etats-unis-victoire-mississippi-democrates-renforcent-majorite-senat-scott-colom",
+      "image": "https://s.france24.com/media/display/e7807fc4-de27-11f1-b242-f71d22e7fea9/w:1024/p:16x9/AP26314768923953.jpg"
     },
     {
-      "id": "8ef932465d",
-      "date": "2026-11-11",
-      "type": "culture",
-      "question": "Quelle innovation Dick Fosbury a-t-il apportée au saut en hauteur lors des Jeux olympiques de 1968 ?",
+      "id": "204be4cd64",
+      "date": "2026-11-12",
+      "type": "actu",
+      "question": "Comment le Secours catholique qualifie-t-il la pauvreté dans son rapport annuel publié le 12 novembre ?",
       "choix": [
-        "Il a utilisé une perche flexible en fibre de verre",
-        "Il a supprimé la course d'élan pour sauter sur place",
-        "Il a franchi la barre en effectuant un salto avant",
-        "Il s'est élancé le dos tourné vers l'obstacle"
+        "Comme une pauvreté multidimensionnelle",
+        "Comme un problème en net recul en France",
+        "Comme une situation purement financière",
+        "Comme un choix de mode de vie"
       ],
-      "reponse": 3,
-      "explication": "Dick Fosbury a surpris le public en s'élançant le dos tourné vers l'obstacle, révolutionnant la discipline.",
-      "lien": "",
-      "image": ""
-    },
-    {
-      "id": "91422925ea",
-      "date": "2026-11-11",
-      "type": "culture",
-      "question": "Comment le blob est-il classé biologiquement ?",
-      "choix": [
-        "Parmi les champignons vénéneux",
-        "Parmi les plantes aquatiques",
-        "Parmi les amibozoaires",
-        "Parmi les mollusques unicellulaires"
-      ],
-      "reponse": 2,
-      "explication": "Le blob est un être vivant fascinant classé parmi les amibozoaires.",
-      "lien": "",
-      "image": ""
+      "reponse": 0,
+      "explication": "Dans son rapport annuel, le Secours catholique appelle à mieux comprendre la pauvreté qu'il qualifie de multidimensionnelle.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/12/louise-57-ans-aidee-par-le-secours-catholique-etre-pauvre-au-rsa-ce-n-est-pas-profiter-du-systeme-c-est-vivre-dans-le-stress_6809034_3224.html",
+      "image": "https://img.lemde.fr/2026/10/03/519/0/4252/2126/644/322/60/0/7a4dcc7_upload-1-fkp5khfelxjc-lidlmarquette-35.jpg"
     }
   ]
 }
