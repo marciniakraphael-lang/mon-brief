@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
   "mode": "evening",
-  "updated": "2026-11-13T14:51:05.409374+01:00",
+  "updated": "2026-11-13T22:09:44.691608+01:00",
   "deja_presente": [
     {
       "titre": "Un immeuble s'effondre à New York et fait au moins quatre morts et 17 blessés",
@@ -161,186 +161,168 @@
   ],
   "aujourdhui": [
     {
-      "titre": "En Norvège, la Cour suprême invalide trois licences pétrolières en mer du Nord, contestées par les écologistes",
-      "lien": "https://www.franceinfo.fr/environnement/en-norvege-la-cour-supreme-invalide-trois-licences-petrolieres-en-mer-du-nord-contestees-par-les-ecologistes_8281109.html#xtor=RSS-3-%5Bmonde%5D",
+      "titre": "Éliminatoires de la CAN 2027 : le Mali arrache la victoire au Rwanda et prend déjà une option",
+      "lien": "https://www.france24.com/fr/sports/20261113-eliminatoires-can-2027-mali-rwanda-groupe-k",
+      "source": "France 24",
+      "date": "2026-11-13T21:59:38+01:00",
+      "resume": "Le Mali s'est impose face au Rwanda sur le score de 3 a 2, vendredi a Bamako, lors de la troisieme journee des eliminatoires de la CAN 2027. Grace a cette victoire, les Aigles prennent la tete du groupe K et se placent idealement dans la course a la qualification pour la Coupe d'Afrique des nations.",
+      "contexte": "Les eliminatoires de la Coupe d'Afrique des nations (CAN) mobilisent les selections du continent dans un format de poules tres competitive ou chaque point compte. Pour le Mali, confirmer son statut dans ce groupe est essentiel afin de s'affirmer parmi les nations majeures du football africain. Une qualification anticipe permettrait au staff de preparer sereinement la phase finale du tournoi.",
+      "image": "https://s.france24.com/media/display/2ed3c45e-dfa3-11f1-9c37-29048b396e03/w:1024/p:16x9/000-893R9D7.jpg"
+    },
+    {
+      "titre": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/13/ia-les-europeens-au-defi-de-s-entendre-pour-rester-dans-la-course-et-mieux-la-reguler_6809387_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-13T21:58:04+01:00",
+      "resume": "Les ministres des Vingt-Sept se sont reunis a Dublin pour debattre des defis poses par l'intelligence artificielle en Europe. Les discussions ont notamment porte sur les ambitions de souverainete technologique, la necessite d'une regulation adaptee et les exigences budgetaires.",
+      "contexte": "Face a la domination des geants americains et chinois dans le secteur de l'intelligence artificielle, l'Union europeenne cherche a harmoniser ses regles tout en stimulant l'innovation. L'enjeu est de proteger les citoyens et de garantir des normes ethiques strictes sans pour autant decrocher de la course technologique mondiale. Le cadre reglementaire europeen, a travers l'AI Act, sert de boussole a ces discussions.",
+      "image": "https://img.lemde.fr/2026/11/13/369/0/5900/2950/644/322/60/0/790f5d4_ftp-1-g2kpsqy6zqz6-2026-11-13t144638z-1429108712-rc21noaeoahr-rtrmadp-3-eu-summit.JPG"
+    },
+    {
+      "titre": "Mouvement lycéen : le cri d’alarme des proviseurs, « à bout » face aux violences",
+      "lien": "https://www.lemonde.fr/campus/article/2026/11/13/mouvement-lyceen-le-cri-d-alarme-des-proviseurs-a-bout-face-aux-violences_6809386_4401467.html",
+      "source": "Le Monde · franceinfo",
+      "date": "2026-11-13T21:55:26+01:00",
+      "resume": "Dans une trentaine de villes de France, des membres du personnel de direction se sont rassembles vendredi pour exprimer leur colere et leur desespoir. Plus de 2 000 chefs d'etablissement ont denonce la degradation de leurs conditions de travail ainsi que les violences et les menaces subies dans les etablissements scolaires depuis la mi-septembre. Cette manifestation inedite depuis vingt ans reflete un climat de peur et d'epuisement parmi les proviseurs qui jugent la gestion de crise du gouvernement insuffisante.",
+      "contexte": "Ce mouvement social met en lumiere les tensions croissantes au sein des etablissements secondaires en France, ou les equipes de direction se retrouvent souvent en premiere ligne face a l'indiscipline et a l'insecurite. La multiplication des incidents et des contestations lyceennes met a rude epreuve l'autorite institutionnelle, poussant les syndicats comme le SNPDEN-Unsa a lancer un cri d'alarme. L'enjeu est desormais pour le gouvernement de repondre a ces revendications securitaires et de retablir un cadre serein dans les ecoles pour eviter une crise durable de l'encadrement scolaire.",
+      "image": "https://img.lemde.fr/2026/11/13/359/0/4311/2155/644/322/60/0/23d02d0_upload-1-fxxgq3xjj7hi-000-33y96gt.jpg"
+    },
+    {
+      "titre": "Onze ans après les attaques du 13-Novembre, où en est la menace terroriste en France ?",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/onze-ans-apres-les-attaques-du-13-novembre-ou-en-est-la-menace-terroriste-en-france_8281658.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-13T21:52:36+01:00",
+      "resume": "Onze ans apres les attentats du 13-Novembre, la menace terroriste en France a profondement evolue. Les autorites observent notamment un spectre de radicalisation plus large ainsi que des auteurs d'actes terroristes de plus en plus jeunes.",
+      "contexte": "Le paysage de la securite interieure s'est transforme, passant d'attentats commandites depuis l'etranger a des passages a l'acte endogenes et souvent propages par les reseaux sociaux. Cette evolution oblige les services de renseignement et de police a ajuster constamment leurs methodes de prevention et de detection des signaux faibles. La jeunesse des individus concernes pose un defi particulier en matiere de deradicalisation et de prevention precoce.",
+      "image": "https://www.franceinfo.fr/pictures/_gP0t8TRo0PP5nosPHeGLkN4-1Q/0x116:806x570/432x243/filters:format(jpg)/2026/11/13/6af77776378db458970179.jpg"
+    },
+    {
+      "titre": "Menace nucléaire, catastrophes naturelles, intrusions... Quand les Américains se bunkerisent",
+      "lien": "https://www.franceinfo.fr/monde/usa/menace-nucleaire-catastrophes-naturelles-intrusions-quand-les-americains-se-bunkerisent_8281655.html#xtor=RSS-3-%5Bmonde%5D",
       "source": "franceinfo Monde",
-      "date": "2026-11-13T14:45:12+01:00",
-      "resume": "En Norvège, la Cour suprême a invalidé trois licences pétrolières en mer du Nord qui étaient contestées par les associations écologistes. Pour les juges, les études d'impact environnemental et les évaluations réalisées par les autorités s'avéraient insuffisantes.",
-      "contexte": "Cette décision s'inscrit dans un contexte de tensions croissantes entre les politiques énergétiques nationales et les impératifs climatiques. Les tribunaux jouent un rôle de plus en plus prépondérant pour contraindre les gouvernements et les entreprises à respecter des critères écologiques stricts, ce qui ralentit ou bloque certains projets d'exploitation d'hydrocarbures.",
-      "image": "https://www.franceinfo.fr/pictures/B4jQlnCr1w0wkiDF5iSBvXbJzlg/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af710e364cb5728172376.jpg"
+      "date": "2026-11-13T21:42:12+01:00",
+      "resume": "Aux Etats-Unis, le marche des abris anti-bombes et des maisons ultra-securisees connait un essor marque aupres d'une clientele fortunee. Ce secteur de la securite privee propose des bunkers equipes de technologies de pointe et du confort moderne pour faire face aux menaces nucleaires ou aux catastrophes naturelles.",
+      "contexte": "Cet engouement pour la \"bunkerisation\" reflete une montee de l'anxiete face a l'instabilite geopolitique mondiale et aux effets visibles du changement climatique. Portee par des investissements se chiffrant en millions de dollars, cette tendance traduit une volonte d'autonomie face aux defaillances supposees des services publics en cas de crise majeure. Elle illustre egalement la commercialisation croissante de la securite personnelle pour les plus riches.",
+      "image": "https://www.franceinfo.fr/pictures/DVZk6ge74Xg6Djy6bx3kFeSssSU/2x0:1229x690/432x243/filters:format(jpg)/2026/11/13/6af775633f024099113753.jpg"
     },
     {
-      "titre": "\"Savoir ce qu'il s'est passé il y a 30 ans est extrêmement difficile en matière criminelle\", réagit l'avocat des parents de Marion Wagon",
-      "lien": "https://www.franceinfo.fr/faits-divers/affaire/disparition-de-marion-wagon-savoir-ce-qu-il-s-est-passe-il-y-a-30-ans-est-extremement-difficile-en-matiere-criminelle-reagit-l-avocat-de-ses-parents_8281106.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Chine, dans les secrets des nouveaux maîtres-espions\" : retrouvez le documentaire de franceinfo après le scandale Nvidia",
+      "lien": "https://www.franceinfo.fr/internet/nvidia/direct-chine-dans-les-secrets-des-nouveaux-maitres-espions-suivez-le-documentaire-de-franceinfo-apres-le-scandale-nvidia_8281100.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-11-13T21:31:08+01:00",
+      "resume": "Le PDG de Nvidia, Jensen Huang, a demissionne a la suite de revelations concernant une relation extra-conjuguale avec Alice Huang, soupconnee d'etre une espionne chinoise. Cette affaire a mis en lumiere des activites d'espionnage industriel liees au transfert illicite de puces electroniques vers la Chine. Un documentaire de franceinfo revient sur ces nouvelles methodes d'infiltration et d'espionnage pratiquees par Pekin.",
+      "contexte": "L'intelligence artificielle et les semi-conducteurs etant au cœur de la guerre technologique entre les Etats-Unis et la Chine, la securite des donnees et des innovations strategiques represente un enjeu geopolitique majeur. Ce type de scandale illustre la vulnerabilite des entreprises technologiques face aux tentatives d'ingerence et d'espionnage etatique. Les consequences incluent un renforcement des controles de securite et une vigilance accrue des autorites occidentales sur les dirigeants de la tech.",
+      "image": "https://www.franceinfo.fr/pictures/Q-P_5K1oX9iPHDxzeQf_pivCdSs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af7100ff3770695411811.png"
+    },
+    {
+      "titre": "Panne mondiale d'Outlook : sommes-nous trop dépendants de ces outils ?",
+      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/panne-mondiale-d-outlook-sommes-nous-trop-dependants-de-ces-outils_8281646.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-13T14:43:32+01:00",
-      "resume": "Trente ans après la disparition de Marion Wagon en 1996, le pôle \"cold cases\" de Nanterre a lancé un nouvel appel à témoins. Cette décision fait suite à un témoignage récent d'une femme de 43 ans, permettant aux enquêteurs d'explorer la piste d'un nouveau suspect et de chercher d'éventuelles autres victimes à Agen.",
-      "contexte": "L'affaire Marion Wagon est l'un des dossiers criminels les plus emblématiques de France concernant la disparition d'enfants. La création de pôles dédiés aux affaires non élucidées (« cold cases ») permet de relancer des enquêtes anciennes grâce aux progrès technologiques, à de nouveaux témoignages ou à une réanalyse méthodique des dossiers.",
-      "image": "https://www.franceinfo.fr/pictures/3AakWGCsdJ3iYFo1zc-y6zaTJVU/0x92:2048x1244/432x243/filters:format(jpg)/2026/11/13/6af710c11b5cf248665796.jpg"
+      "date": "2026-11-13T21:24:01+01:00",
+      "resume": "Une panne mondiale du logiciel Microsoft a paralyse des milliers d'entreprises et affecte plusieurs millions d'utilisateurs a travers le monde depuis jeudi soir. Cet incident a notamment bloque l'acces aux e-mails d'Outlook ainsi que certaines fonctions d'assistants d'intelligence artificielle dans des metropoles comme Paris, Londres, Berlin ou Singapour. Microsoft a toutefois exclu l'hypothese d'une cyberattaque et a constate des ameliorations progressives.",
+      "contexte": "Cette panne d'envergure mondiale relance le debat sur la vulnerabilite des infrastructures numeriques et la surdependance des entreprises modernes envers un nombre restreint de geants technologiques. Lorsque des outils aussi centraux que ceux de Microsoft subissent une defaillance, c'est l'ensemble de l'economie globalisee qui se trouve ralentie ou stoppee net. Cela souligne la necessite pour les organisations de diversifier leurs solutions informatiques et de renforcer leur resilience face aux risques techniques.",
+      "image": "https://www.franceinfo.fr/pictures/YHS17_f4YwBCzcYolDKhxIIJJqs/165x0:1472x735/432x243/filters:format(jpg)/2026/11/13/6af771d10be60251644922.jpg"
     },
     {
-      "titre": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
-      "lien": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html#xtor=RSS-3-[lestitres]",
+      "titre": "Laurent Nuñez promet aux policiers une revalorisation de leur prime de risque, les syndicats insatisfaits",
+      "lien": "https://www.franceinfo.fr/faits-divers/police/laurent-nunez-promet-aux-policiers-une-revalorisation-de-leur-prime-de-risque-les-syndicats-mecontents_8281625.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-13T14:31:37+01:00",
-      "resume": "Le Premier ministre Sébastien Lecornu a ouvert une discussion d'un mois avec les syndicats de fonctionnaires, portant notamment sur une revalorisation des bas salaires. Les organisations représentatives seront reçues à nouveau le 11 décembre, après les élections professionnelles, dans l'objectif de sceller des avancées dès la mi-décembre.",
-      "contexte": "Ces négociations interviennent dans un climat social tendu où le pouvoir d'achat des agents publics est au cœur des préoccupations face à l'inflation. Le gouvernement cherche à désamorcer le mécontentement tout en maintenant la maîtrise des finances publiques, un équilibre traditionnellement délicat à trouver dans la fonction publique.",
-      "image": "https://www.franceinfo.fr/pictures/XtdvfjiR42AuZG7cPgFthtPETTk/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af709187c9ae288459564.jpg"
+      "date": "2026-11-13T21:18:21+01:00",
+      "resume": "Le ministre de l'Interieur Laurent Nuñez a propose vendredi, lors d'une reunion place Beauvau, une revalorisation de la prime de risque pour les policiers. Cette offre a immediatement ete rejetee par les syndicats de police, qui la jugent insuffisante voire inadmissible.",
+      "contexte": "Les relations entre la tutelle et les syndicats de policiers sont marquees par des tensions recurrentes autour du pouvoir d'achat, des conditions de travail et de la reconnaissance de l'engagement des forces de l'ordre. Les syndicats utilisent la pression des negociations pour obtenir des gains financiers et materiels plus importants, dans un contexte ou les effectifs policiers sont fortement sollicites. Les discussions doivent se poursuivre pour tenter de trouver un compromis acceptable.",
+      "image": "https://www.franceinfo.fr/pictures/yg5vKaQWs3k66v2j5E6T4j1_qVQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af76cfe982d2204201577.jpg"
     },
     {
-      "titre": "Mercedes-Benz : le comité d’entreprise et le syndicat IG Metall dénoncent des menaces de fermetures d’usines en Allemagne",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/13/mercedes-benz-le-comite-d-entreprise-et-le-syndicat-ig-metall-denoncent-des-menaces-de-fermetures-d-usines-en-allemagne_6809327_3234.html",
-      "source": "Le Monde",
-      "date": "2026-11-13T14:30:15+01:00",
-      "resume": "En Allemagne, le comité d'entreprise de Mercedes-Benz et le syndicat IG Metall ont dénoncé des menaces de fermetures d'usines. Sous la pression de la concurrence chinoise, le constructeur a gelé ses investissements nationaux et envisage d'allonger le temps de travail sans hausse de salaire, une proposition rejetée par le syndicat.",
-      "contexte": "L'industrie automobile européenne fait face à une transition difficile vers l'électrique et à la concurrence agressive des fabricants chinois, dotés de coûts de production souvent inférieurs. Les constructeurs cherchent à réduire leurs coûts en Allemagne, ce qui provoque de fortes résistances syndicales pour la défense des emplois et des acquis sociaux.",
-      "image": "https://img.lemde.fr/2026/11/13/594/0/8071/4035/644/322/60/0/e80db29_upload-1-3zcxiqlaixko-000-c8wb62r.jpg"
-    },
-    {
-      "titre": "L'actu en dessin : la COP31 a peu de chances d'aboutir à des résolutions majeures",
-      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261113-actu-en-dessin-cop31-climat-peu-de-chances-aboutir-r%C3%A9solutions-majeures-environnement-r%C3%A9chauffement",
+      "titre": "Jacques Nesi :\" les soldats salvadoriens sotn accueillis comme le Messie en Haïti\"",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261113-jacques-nesi-les-soldats-salvadoriens-sotn-accueillis-comme-le-messie-en-ha%C3%AFti",
       "source": "France 24",
-      "date": "2026-11-13T14:27:16+01:00",
-      "resume": "La COP31 se tient du 9 au 20 novembre à Antalya, en Turquie, mais la communauté internationale s'accorde à dire qu'elle a peu de chances d'aboutir à des résolutions majeures. La crise énergétique liée à la guerre au Moyen-Orient a mis en lumière la dépendance persistante aux énergies fossiles, compliquant les négociations climatiques.",
-      "contexte": "Les conférences sur le climat (COP) se heurtent régulièrement à des impératifs économiques et géopolitiques divergents entre les pays développés et en développement. Les contextes de crise internationale relèguent souvent la transition écologique au second plan face aux urgences d'approvisionnement énergétique à court terme.",
-      "image": "https://s.france24.com/media/display/380c91be-df5c-11f1-ab00-695cb59fade5/w:1024/p:16x9/04-Rodho-France-2.jpg"
-    },
-    {
-      "titre": "En Haïti, des soldats salvadoriens interviennent dans un stade contrôlé par les gangs",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-en-ha%C3%AFti-des-soldats-salvadoriens-interviennent-dans-un-stade-contr%C3%B4l%C3%A9-par-les-gangs",
-      "source": "France 24",
-      "date": "2026-11-13T14:21:40+01:00",
-      "resume": "En Haïti, des soldats salvadoriens sont intervenus dans le stade Sylvio-Cator à Port-au-Prince, qui était contrôlé par les gangs depuis 2024. Cette action s'inscrit dans le cadre du déploiement d'environ 2 000 militaires salvadoriens dans le pays, selon des images publiées par le président Nayib Bukele.",
-      "contexte": "Haïti subit une crise sécuritaire et humanitaire majeure marquée par le contrôle de vastes pans du territoire par des gangs armés. L'intervention de forces étrangères, inspirée parfois par des méthodes musclées de lutte contre la criminalité comme celles appliquées au Salvador, vise à rétablir l'ordre face à l'incapacité de la police locale.",
-      "image": "https://s.france24.com/media/display/f08c8e80-df64-11f1-a1f0-5f54d898a954/w:1024/p:16x9/MINIA-SALVADOR-HAITI.jpg"
-    },
-    {
-      "titre": "Guerre en Ukraine : la Russie veut connaître les \"intentions\" des Européens avant de les laisser participer aux pourparlers",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-13T14:21:23+01:00",
-      "resume": "Dans le cadre de la guerre en Ukraine, la Russie a fait savoir qu'elle souhaitait connaître les intentions des Européens avant de les laisser participer aux pourparlers. De son côté, la cheffe de la diplomatie de l'Union européenne a exclu que Moscou puisse dicter le choix des représentants européens pour de futures négociations.",
-      "contexte": "Ce bras de fer diplomatique illustre les désaccords profonds sur le format d'éventuelles négociations de paix et sur la légitimité des acteurs impliqués. L'Union européenne cherche à maintenir un front uni et à peser dans les discussions concernant l'avenir de la sécurité sur le continent, tandis que la tente d'isoler certains interlocuteurs.",
-      "image": "https://www.franceinfo.fr/pictures/3dBTU2eq02rDg7NqkfDKWNRdTXc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af6ea34145ad858070166.jpg"
-    },
-    {
-      "titre": "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/13/le-marche-mondial-du-petrole-devrait-redevenir-excedentaire-au-dernier-trimestre-selon-l-agence-internationale-de-l-energie_6809326_3234.html",
-      "source": "Le Monde",
-      "date": "2026-11-13T14:12:17+01:00",
-      "resume": "Selon l'Agence internationale de l'énergie (AIE), le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre 2026. L'offre mondiale devrait ainsi dépasser la demande pour la première fois depuis le déclenchement de la guerre en Iran fin février.",
-      "contexte": "Les fluctuations de l'offre et de la demande de pétrole dépendent fortement de la conjoncture géopolitique et des tensions dans les régions productrices. Un marché excédentaire tend généralement à stabiliser ou à faire baisser les prix des carburants à l'échelle internationale.",
-      "image": "https://img.lemde.fr/2026/11/10/452/0/5424/2712/644/322/60/0/677be19_ftp-1-2ggszyq7ri2f-2026-11-10t010006z-486300104-rc2l3laz4thb-rtrmadp-3-climate-cop31-emissions.JPG"
-    },
-    {
-      "titre": "Des améliorations constatées, pas de cyberattaque d'après Microsoft… Ce que l'on sait de la panne mondiale qui touche le géant américain depuis jeudi",
-      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-13T14:01:40+01:00",
-      "resume": "Une panne mondiale touche Microsoft depuis jeudi, empêchant plusieurs millions d'utilisateurs d'accéder à leurs e-mails et perturbant certaines fonctions des assistants d'intelligence artificielle. D'après l'entreprise, aucun indice ne pointe vers une cyberattaque, et des améliorations ont d'ores et déjà été constatées.",
-      "contexte": "Les pannes informatiques mondiales touchant les géants du cloud soulignent la dépendance critique des infrastructures numériques mondiales envers un nombre restreint de prestataires. Ces incidents, qu'ils soient d'origine technique ou liés à une mise à jour logicielle défectueuse, paralysent rapidement des pans entiers de l'économie et des services.",
-      "image": "https://www.franceinfo.fr/pictures/m7-jhQGMQNAbpCCUP6KIB4PvJKQ/0x66:1024x642/432x243/filters:format(jpg)/2026/11/13/6af6d89220377824110666.jpg"
-    },
-    {
-      "titre": "Traversée de l'Afghanistan le long de la \"route de la mort\"",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20261113-afghanistan-reportage-autoroute-une-taliban",
-      "source": "France 24",
-      "date": "2026-11-13T14:01:13+01:00",
-      "resume": "L'autoroute 1 en Afghanistan, qui relie les principales villes du pays et était surnommée la \"route de la mort\" en raison des combats et du banditisme depuis 2001, a fait l'objet d'un reportitf après cinq ans de règne des Taliban. L'itinéraire, autrefois marqué par les extorsions et les attentats, a évolué sous le nouveau régime.",
-      "contexte": "Depuis leur retour au pouvoir, les Taliban affirment avoir amélioré la sécurité intérieure et le contrôle des axes routiers majeurs pour assoir leur autorité. Cependant, ces déplacements témoignent de la situation complexe d'un pays isolé, soumis à un régime autoritaire strict et à de profonds défis économiques.",
-      "image": "https://s.france24.com/media/display/985ffbec-de9d-11f1-861a-f71d22e7fea9/w:1024/p:16x9/billet-retour-FR-Afghanistan.jpg"
-    },
-    {
-      "titre": "\"On n'a vraiment plus le choix\" : après un mois et demi de mobilisation, lycéens et enseignants s'inquiètent des conséquences sur les notes",
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-vraiment-plus-le-choix-apres-un-mois-et-demi-de-mobilisation-lyceens-et-enseignants-s-inquietent-des-consequences-sur-les-notes_8280770.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-13T13:59:32+01:00",
-      "resume": "Après un mois et demi de mobilisation, lycéens et enseignants s'inquiètent des conséquences sur les notes à l'approche de la fin du trimestre. Avec très peu d'évaluations réalisées, chaque établissement tente de bricoler des moyennes provisoires, faisant redouter des inégalités entre les élèves.",
-      "contexte": "Les mouvements sociaux dans l'éducation perturbent régulièrement le calendrier scolaire et l'évaluation des compétences. La difficulté de rattraper le temps perdu et de compiler un nombre suffisant de notes pose un problème récurrent d'équité pour l'examen des dossiers scolaires, notamment sur Parcoursup.",
-      "image": "https://www.franceinfo.fr/pictures/SNpz5SU8QYpCS6E-Q3au9FI8-QY/0x208:4000x2458/432x243/filters:format(jpg)/2026/11/13/6af6ef5053d1b647856333.jpg"
+      "date": "2026-11-13T21:13:27+01:00",
+      "resume": "Environ 2 000 soldats salvadoriens ont ete deploies en Haiti depuis fin octobre en accord avec l'executif local. Initialement envoyes pour retrouver quatre militaires porteurs d'armes de l'ONU apres une attaque de gangs, l'ampleur et la duree de leur intervention suscitent des interrogations sur les veritables intentions du president Nayib Bukele.",
+      "contexte": "L'envoi de forces militaires etrangeres en Haiti intervient dans un contexte de crise seculaire et de controle d'une grande partie du territoire par des gangs armes. Alors que la mission internationale de soutien traine a se deployer pleinement, l'implication d'acteurs exterieurs aux methodes securitaires musclees, comme celles du Salvador, souleve des questions juridiques et geopolitiques sur la souverainete haïtienne. Cela temoigne aussi de la volonte du Salvador de projeter son modele de securite intransigeant a l'international.",
+      "image": "https://s.france24.com/media/display/5d25db2c-df9d-11f1-b07b-3f371022a770/w:1024/p:16x9/Francais-2026-11-13T19-07-18-406Z.jpg"
     }
   ],
   "culture": [],
   "quiz_jour": [
     {
-      "id": "e6c16d48ca",
+      "id": "bdc9ab51ab",
       "date": "2026-11-13",
       "type": "actu",
-      "question": "Pourquoi la Cour suprême de Norvège a-t-elle invalidé trois licences pétrolières ?",
+      "question": "Quel pays le Mali a-t-il battu lors de la troisième journée des éliminatoires de la CAN 2027 ?",
       "choix": [
-        "À cause d'études d'impact environnemental jugées insuffisantes",
-        "À cause d'un manque de main-d'œuvre qualifiée",
-        "Suite à une plainte déposée par une multinationale concurrente",
-        "En raison d'une baisse du prix du baril"
+        "Le Rwanda",
+        "Le Maroc",
+        "Le Sénégal",
+        "Le Cameroun"
       ],
       "reponse": 0,
-      "explication": "La Cour a jugé que les évaluations environnementales réalisées par les autorités étaient insuffisantes pour justifier ces licences.",
-      "lien": "https://www.franceinfo.fr/environnement/en-norvege-la-cour-supreme-invalide-trois-licences-petrolieres-en-mer-du-nord-contestees-par-les-ecologistes_8281109.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/B4jQlnCr1w0wkiDF5iSBvXbJzlg/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af710e364cb5728172376.jpg"
+      "explication": "Le Mali s'est imposé face au Rwanda sur le score de 3 à 2 lors des éliminatoires de la CAN 2027.",
+      "lien": "https://www.france24.com/fr/sports/20261113-eliminatoires-can-2027-mali-rwanda-groupe-k",
+      "image": "https://s.france24.com/media/display/2ed3c45e-dfa3-11f1-9c37-29048b396e03/w:1024/p:16x9/000-893R9D7.jpg"
     },
     {
-      "id": "7b8589f044",
+      "id": "af1c7e3524",
       "date": "2026-11-13",
       "type": "actu",
-      "question": "Quel est l'objectif principal des discussions ouvertes par Sébastien Lecornu avec les syndicats de fonctionnaires ?",
+      "question": "En France, quel personnel de direction s'est rassemblé dans une trentaine de villes pour exprimer sa colère face aux violences ?",
       "choix": [
-        "La privatisation de certains services publics",
-        "L'augmentation du nombre de jours de congés",
-        "La réduction du temps de travail hebdomadaire",
-        "La revalorisation des bas salaires"
-      ],
-      "reponse": 3,
-      "explication": "Le Premier ministre a entamé des discussions portant notamment sur la revalorisation des bas salaires des fonctionnaires.",
-      "lien": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/XtdvfjiR42AuZG7cPgFthtPETTk/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af709187c9ae288459564.jpg"
-    },
-    {
-      "id": "e7a9b6f372",
-      "date": "2026-11-13",
-      "type": "actu",
-      "question": "Quelle menace pèse sur les usines de Mercedes-Benz en Allemagne selon le syndicat IG Metall ?",
-      "choix": [
-        "Une délocalisation forcée vers les États-Unis",
-        "Une cyberattaque massive",
-        "Un manque de matières premières",
-        "Des fermetures d'usines"
-      ],
-      "reponse": 3,
-      "explication": "Le syndicat et le comité d'entreprise ont dénoncé des menaces de fermetures d'usines face à la concurrence chinoise.",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/13/mercedes-benz-le-comite-d-entreprise-et-le-syndicat-ig-metall-denoncent-des-menaces-de-fermetures-d-usines-en-allemagne_6809327_3234.html",
-      "image": "https://img.lemde.fr/2026/11/13/594/0/8071/4035/644/322/60/0/e80db29_upload-1-3zcxiqlaixko-000-c8wb62r.jpg"
-    },
-    {
-      "id": "c2ae315071",
-      "date": "2026-11-13",
-      "type": "actu",
-      "question": "Dans quel lieu emblématique de Port-au-Prince des soldats salvadoriens sont-ils intervenus ?",
-      "choix": [
-        "L'aéroport international",
-        "Le palais présidentiel",
-        "Le stade Sylvio-Cator",
-        "Le port commercial"
-      ],
-      "reponse": 2,
-      "explication": "Les soldats salvadoriens ont repris le stade Sylvio-Cator, qui était sous le contrôle de gangs depuis 2024.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-en-ha%C3%AFti-des-soldats-salvadoriens-interviennent-dans-un-stade-contr%C3%B4l%C3%A9-par-les-gangs",
-      "image": "https://s.france24.com/media/display/f08c8e80-df64-11f1-a1f0-5f54d898a954/w:1024/p:16x9/MINIA-SALVADOR-HAITI.jpg"
-    },
-    {
-      "id": "086abd1196",
-      "date": "2026-11-13",
-      "type": "actu",
-      "question": "Quelle est la cause identifiée par Microsoft pour la panne mondiale survenue jeudi ?",
-      "choix": [
-        "Une cyberattaque d'État",
-        "Aucune cyberattaque n'a été identifiée",
-        "Une erreur de manipulation humaine",
-        "Une panne d'électricité majeure"
+        "Les conseillers principaux d'éducation",
+        "Les proviseurs et chefs d'établissement",
+        "Les inspecteurs d'académie",
+        "Les professeurs d'université"
       ],
       "reponse": 1,
-      "explication": "Microsoft a précisé qu'aucun indice ne pointe vers une cyberattaque concernant cette panne mondiale.",
-      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/m7-jhQGMQNAbpCCUP6KIB4PvJKQ/0x66:1024x642/432x243/filters:format(jpg)/2026/11/13/6af6d89220377824110666.jpg"
+      "explication": "Plus de 2 000 chefs d'établissement se sont rassemblés pour dénoncer la dégradation de leurs conditions de travail et les violences subies.",
+      "lien": "https://www.lemonde.fr/campus/article/2026/11/13/mouvement-lyceen-le-cri-d-alarme-des-proviseurs-a-bout-face-aux-violences_6809386_4401467.html",
+      "image": "https://img.lemde.fr/2026/11/13/359/0/4311/2155/644/322/60/0/23d02d0_upload-1-fxxgq3xjj7hi-000-33y96gt.jpg"
+    },
+    {
+      "id": "f3646edd1f",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Quel événement a conduit à la démission du PDG de Nvidia, Jensen Huang ?",
+      "choix": [
+        "Une cyberattaque massive contre l'entreprise",
+        "Une relation extra-conjugale avec une femme soupçonnée d'être une espionne chinoise",
+        "Une faillite boursière majeure",
+        "Un scandale de fraude fiscale aux États-Unis"
+      ],
+      "reponse": 1,
+      "explication": "Jensen Huang a démissionné à la suite de révélations concernant une relation avec Alice Huang, soupçonnée d'être une espionne chinoise.",
+      "lien": "https://www.franceinfo.fr/internet/nvidia/direct-chine-dans-les-secrets-des-nouveaux-maitres-espions-suivez-le-documentaire-de-franceinfo-apres-le-scandale-nvidia_8281100.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/Q-P_5K1oX9iPHDxzeQf_pivCdSs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af7100ff3770695411811.png"
+    },
+    {
+      "id": "7a5d315169",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Quel logiciel de Microsoft a connu une panne mondiale ayant paralysé des milliers d'entreprises ?",
+      "choix": [
+        "Outlook",
+        "Excel",
+        "Teams",
+        "Word"
+      ],
+      "reponse": 0,
+      "explication": "Une panne mondiale du logiciel Outlook a bloqué l'accès aux e-mails de millions d'utilisateurs à travers le monde.",
+      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/panne-mondiale-d-outlook-sommes-nous-trop-dependants-de-ces-outils_8281646.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/YHS17_f4YwBCzcYolDKhxIIJJqs/165x0:1472x735/432x243/filters:format(jpg)/2026/11/13/6af771d10be60251644922.jpg"
+    },
+    {
+      "id": "b73f73a2c3",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Combien de soldats salvadoriens ont été déployés en Haïti depuis fin octobre ?",
+      "choix": [
+        "Environ 1 000",
+        "Environ 2 000",
+        "Environ 5 000",
+        "Environ 500"
+      ],
+      "reponse": 1,
+      "explication": "Environ 2 000 soldats salvadoriens ont été déployés en Haïti en accord avec l'exécutif local.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261113-jacques-nesi-les-soldats-salvadoriens-sotn-accueillis-comme-le-messie-en-ha%C3%AFti",
+      "image": "https://s.france24.com/media/display/5d25db2c-df9d-11f1-b07b-3f371022a770/w:1024/p:16x9/Francais-2026-11-13T19-07-18-406Z.jpg"
     }
   ]
 }
