@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
-  "mode": "morning",
-  "updated": "2026-11-13T12:18:45.059538+01:00",
+  "mode": "evening",
+  "updated": "2026-11-13T14:51:05.409374+01:00",
   "deja_presente": [
     {
       "titre": "Un immeuble s'effondre à New York et fait au moins quatre morts et 17 blessés",
@@ -161,69 +161,186 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Guerre en Ukraine : Poutine, maître du jeu dans le processus de négociation ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-guerre-en-ukraine-poutine-ma%C3%AEtre-du-jeu-dans-le-processus-de-n%C3%A9gociation",
-      "source": "France 24 · franceinfo · Le Monde",
-      "date": "2026-11-13T12:15:30+01:00",
-      "resume": "Des émissaires de Donald Trump ont entamé des pourparlers en Irlande avec le président ukrainien Volodymyr Zelensky après avoir rencontré Vladimir Poutine. Parallèlement, la Russie exige de connaître les intentions européennes avant d'autoriser la participation de représentants de l'UE aux futures négociations, une condition rejetée par la cheffe de la diplomatie européenne, Kaja Kallas.",
-      "contexte": "Ces échanges marquent une phase diplomatique intense visant à définir les contours d'un éventuel cessez-le-feu en Ukraine. Les autorités européennes craignent que la Russie n'utilise le processus de négociation pour diviser les alliés occidentaux et imposer ses propres conditions de sécurité.",
-      "image": "https://s.france24.com/media/display/745e4bc4-df4f-11f1-8c18-29048b396e03/w:1024/p:16x9/FR-20261113-100744-101210-CS.jpg"
-    },
-    {
-      "titre": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974, sont arrivées au Guatemala",
-      "lien": "https://www.franceinfo.fr/culture/livres/les-cendres-de-l-ecrivain-miguel-angel-asturias-mort-en-1974-sont-arrivees-au-guatemala_8280740.html#xtor=RSS-3-%5Bmonde%5D",
+      "titre": "En Norvège, la Cour suprême invalide trois licences pétrolières en mer du Nord, contestées par les écologistes",
+      "lien": "https://www.franceinfo.fr/environnement/en-norvege-la-cour-supreme-invalide-trois-licences-petrolieres-en-mer-du-nord-contestees-par-les-ecologistes_8281109.html#xtor=RSS-3-%5Bmonde%5D",
       "source": "franceinfo Monde",
-      "date": "2026-11-13T12:09:58+01:00",
-      "resume": "Les cendres de l'écrivain guatémaltèque Miguel Angel Asturias, lauréat du prix Nobel de littérature décédé en 1974, ont été rapatriées au Guatemala depuis la France. Elles seront inhumées dans le principal complexe culturel du pays qui porte son nom.",
-      "contexte": "Le rapatriement des restes de personnalités historiques est souvent une démarche visant à renforcer l'identité nationale et à rendre hommage à l'héritage culturel des grandes figures littéraires d'un pays.",
-      "image": "https://www.franceinfo.fr/pictures/VMfcrL1RaBAaWz6QMt76G2VU3y0/0x93:2400x1443/432x243/filters:format(jpg)/2026/11/13/6af6e14aa41e8600143005.jpg"
+      "date": "2026-11-13T14:45:12+01:00",
+      "resume": "En Norvège, la Cour suprême a invalidé trois licences pétrolières en mer du Nord qui étaient contestées par les associations écologistes. Pour les juges, les études d'impact environnemental et les évaluations réalisées par les autorités s'avéraient insuffisantes.",
+      "contexte": "Cette décision s'inscrit dans un contexte de tensions croissantes entre les politiques énergétiques nationales et les impératifs climatiques. Les tribunaux jouent un rôle de plus en plus prépondérant pour contraindre les gouvernements et les entreprises à respecter des critères écologiques stricts, ce qui ralentit ou bloque certains projets d'exploitation d'hydrocarbures.",
+      "image": "https://www.franceinfo.fr/pictures/B4jQlnCr1w0wkiDF5iSBvXbJzlg/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af710e364cb5728172376.jpg"
     },
     {
-      "titre": "A la COP31, \"103 grands groupes pollueurs\" ont envoyé des délégations pour peser sur les négociations, dénoncent des ONG",
-      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/acteurs-des-energies-fossiles-banques-geants-de-la-tech-a-la-cop31-103-grands-groupes-pollueurs-ont-envoye-des-delegations-pour-peser-sur-les-negociations-denoncent-des-ong_8280710.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Savoir ce qu'il s'est passé il y a 30 ans est extrêmement difficile en matière criminelle\", réagit l'avocat des parents de Marion Wagon",
+      "lien": "https://www.franceinfo.fr/faits-divers/affaire/disparition-de-marion-wagon-savoir-ce-qu-il-s-est-passe-il-y-a-30-ans-est-extremement-difficile-en-matiere-criminelle-reagit-l-avocat-de-ses-parents_8281106.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-13T12:02:41+01:00",
-      "resume": "Une coalition d'ONG, intitulée \"Kick big polluters out\", dénonce la présence de 103 délégations issues de grands groupes pollueurs lors de la COP31. Ces organisations accusent ces entreprises de chercher activement à entraver les négociations et à bloquer les politiques climatiques.",
-      "contexte": "La participation des industries fossiles aux sommets sur le climat est un sujet récurrent de controverse. Les ONG estiment qu'il existe un conflit d'intérêts majeur entre les objectifs de réduction des émissions et les intérêts économiques des groupes énergétiques.",
-      "image": "https://www.franceinfo.fr/pictures/BqHP4MGmoPPImVXjKKD10MU3wx8/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6ed602b2ce329868515.jpg"
+      "date": "2026-11-13T14:43:32+01:00",
+      "resume": "Trente ans après la disparition de Marion Wagon en 1996, le pôle \"cold cases\" de Nanterre a lancé un nouvel appel à témoins. Cette décision fait suite à un témoignage récent d'une femme de 43 ans, permettant aux enquêteurs d'explorer la piste d'un nouveau suspect et de chercher d'éventuelles autres victimes à Agen.",
+      "contexte": "L'affaire Marion Wagon est l'un des dossiers criminels les plus emblématiques de France concernant la disparition d'enfants. La création de pôles dédiés aux affaires non élucidées (« cold cases ») permet de relancer des enquêtes anciennes grâce aux progrès technologiques, à de nouveaux témoignages ou à une réanalyse méthodique des dossiers.",
+      "image": "https://www.franceinfo.fr/pictures/3AakWGCsdJ3iYFo1zc-y6zaTJVU/0x92:2048x1244/432x243/filters:format(jpg)/2026/11/13/6af710c11b5cf248665796.jpg"
     },
     {
-      "titre": "En direct : Microsoft peine à rétablir Outlook, des entreprises et des écoles affectées",
-      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261112-une-panne-mondiale-affecte-la-messagerie-outlook-de-microsoft",
-      "source": "France 24 · franceinfo",
-      "date": "2026-11-13T11:56:44+01:00",
-      "resume": "Une panne majeure affecte les services Microsoft, dont Outlook, Teams et l'assistant Copilot, dans 74 pays et territoires à travers l'Asie-Pacifique, l'Europe et les États-Unis. Cet incident technique, l'un des plus importants pour le groupe ces dernières années, perturbe le fonctionnement d'entreprises, d'écoles, de services de santé et de transports. Microsoft a officiellement écarté la piste d'une cyberattaque ou d'une action malveillante.",
-      "contexte": "Ces pannes soulignent la dépendance critique des infrastructures modernes, publiques comme privées, aux solutions cloud d'un nombre restreint de géants technologiques. Lorsque ces services tombent, les répercussions sont immédiates et mondiales, posant des questions sur la résilience des systèmes numériques et la nécessité de solutions de secours.",
-      "image": "https://s.france24.com/media/display/f7e0b76a-df37-11f1-a593-f71d22e7fea9/w:1024/p:16x9/063-2304840770.jpg"
+      "titre": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
+      "lien": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-13T14:31:37+01:00",
+      "resume": "Le Premier ministre Sébastien Lecornu a ouvert une discussion d'un mois avec les syndicats de fonctionnaires, portant notamment sur une revalorisation des bas salaires. Les organisations représentatives seront reçues à nouveau le 11 décembre, après les élections professionnelles, dans l'objectif de sceller des avancées dès la mi-décembre.",
+      "contexte": "Ces négociations interviennent dans un climat social tendu où le pouvoir d'achat des agents publics est au cœur des préoccupations face à l'inflation. Le gouvernement cherche à désamorcer le mécontentement tout en maintenant la maîtrise des finances publiques, un équilibre traditionnellement délicat à trouver dans la fonction publique.",
+      "image": "https://www.franceinfo.fr/pictures/XtdvfjiR42AuZG7cPgFthtPETTk/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af709187c9ae288459564.jpg"
     },
     {
-      "titre": "Le patron de Nvidia démissionne sur fond d'adultères et d'espionnage",
-      "lien": "https://www.franceinfo.fr/internet/le-patron-de-nvidia-demissionne-sur-fond-d-adulteres-et-d-espionnage_8280098.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde · franceinfo",
-      "date": "2026-11-13T11:46:02+01:00",
-      "resume": "Jensen Huang, patron de Nvidia, a démissionné ce jeudi 12 novembre après la révélation d'une relation extraconjugale avec une femme soupçonnée d'espionnage pour le compte de la Chine. À la suite de ce scandale, l'ancien dirigeant de cette entreprise majeure de l'intelligence artificielle a été convoqué pour témoigner devant le Sénat américain en décembre.",
-      "contexte": "La démission d'un dirigeant de ce calibre pour des raisons de sécurité nationale et de moralité personnelle est un événement rare qui fragilise la gouvernance d'une entreprise stratégique. L'implication potentielle d'espionnage lié à la Chine soulève des enjeux géopolitiques et de sécurité technologique cruciaux aux États-Unis.",
-      "image": "https://www.franceinfo.fr/pictures/LR53kMjiySxjVUyYTPSUkvJmIOk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/12/6af6303bd7aa7901687856.jpg"
-    },
-    {
-      "titre": "Derrière l’image : en Colombie, la communication controversée du président d’extrême droite",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261113-derri%C3%A8re-image-colombie-communication-controversee-president-extreme-droite-abelardo-de-la-espriella",
-      "source": "France 24",
-      "date": "2026-11-13T11:40:39+01:00",
-      "resume": "La communication du président colombien Abelardo de la Espriella, au pouvoir depuis août, suscite de vives polémiques. Ses mises en scène de transferts de détenus et de bombardements, ainsi que ses discours devant des sacs mortuaires, sont critiqués pour leur caractère provocateur et leur mise en avant de la force.",
-      "contexte": "La stratégie de communication d'un chef d'État d'extrême droite peut viser à asseoir une image d'autorité et de fermeté face à l'insécurité, quitte à heurter une partie de l'opinion publique nationale et internationale.",
-      "image": "https://s.france24.com/media/display/0502e730-df4a-11f1-9547-29048b396e03/w:1024/p:16x9/Chronique-vignette-horizontale.jpg"
-    },
-    {
-      "titre": "Pascale Weeks, autrice culinaire : « Une recette doit être pensée et partagée pour que les gens puissent la réussir »",
-      "lien": "https://www.lemonde.fr/le-monde-passe-a-table/article/2026/11/13/pascale-weeks-autrice-culinaire-une-recette-doit-etre-pensee-et-partagee-pour-que-les-gens-puissent-la-reussir_6809311_6082232.html",
+      "titre": "Mercedes-Benz : le comité d’entreprise et le syndicat IG Metall dénoncent des menaces de fermetures d’usines en Allemagne",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/13/mercedes-benz-le-comite-d-entreprise-et-le-syndicat-ig-metall-denoncent-des-menaces-de-fermetures-d-usines-en-allemagne_6809327_3234.html",
       "source": "Le Monde",
-      "date": "2026-11-13T11:30:08+01:00",
-      "resume": "L'autrice culinaire Pascale Weeks, pionnière des blogs de cuisine en France avec son site lancé il y a vingt-deux ans, partage sa vision de la transmission gastronomique. Elle souligne l'importance de concevoir des recettes accessibles et pensées pour être partagées par le plus grand nombre.",
-      "contexte": "L'évolution de la cuisine en ligne a transformé la manière dont les particuliers apprennent à cuisiner, passant des livres traditionnels aux blogs et plateformes collaboratives qui privilégient l'échange d'astuces simples.",
-      "image": "https://img.lemde.fr/2026/11/05/450/0/1200/600/644/322/60/0/442ef4d_ftp-1-cakpl842ixbj-450913-3535593.jpg"
+      "date": "2026-11-13T14:30:15+01:00",
+      "resume": "En Allemagne, le comité d'entreprise de Mercedes-Benz et le syndicat IG Metall ont dénoncé des menaces de fermetures d'usines. Sous la pression de la concurrence chinoise, le constructeur a gelé ses investissements nationaux et envisage d'allonger le temps de travail sans hausse de salaire, une proposition rejetée par le syndicat.",
+      "contexte": "L'industrie automobile européenne fait face à une transition difficile vers l'électrique et à la concurrence agressive des fabricants chinois, dotés de coûts de production souvent inférieurs. Les constructeurs cherchent à réduire leurs coûts en Allemagne, ce qui provoque de fortes résistances syndicales pour la défense des emplois et des acquis sociaux.",
+      "image": "https://img.lemde.fr/2026/11/13/594/0/8071/4035/644/322/60/0/e80db29_upload-1-3zcxiqlaixko-000-c8wb62r.jpg"
+    },
+    {
+      "titre": "L'actu en dessin : la COP31 a peu de chances d'aboutir à des résolutions majeures",
+      "lien": "https://www.france24.com/fr/plan%C3%A8te/20261113-actu-en-dessin-cop31-climat-peu-de-chances-aboutir-r%C3%A9solutions-majeures-environnement-r%C3%A9chauffement",
+      "source": "France 24",
+      "date": "2026-11-13T14:27:16+01:00",
+      "resume": "La COP31 se tient du 9 au 20 novembre à Antalya, en Turquie, mais la communauté internationale s'accorde à dire qu'elle a peu de chances d'aboutir à des résolutions majeures. La crise énergétique liée à la guerre au Moyen-Orient a mis en lumière la dépendance persistante aux énergies fossiles, compliquant les négociations climatiques.",
+      "contexte": "Les conférences sur le climat (COP) se heurtent régulièrement à des impératifs économiques et géopolitiques divergents entre les pays développés et en développement. Les contextes de crise internationale relèguent souvent la transition écologique au second plan face aux urgences d'approvisionnement énergétique à court terme.",
+      "image": "https://s.france24.com/media/display/380c91be-df5c-11f1-ab00-695cb59fade5/w:1024/p:16x9/04-Rodho-France-2.jpg"
+    },
+    {
+      "titre": "En Haïti, des soldats salvadoriens interviennent dans un stade contrôlé par les gangs",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-en-ha%C3%AFti-des-soldats-salvadoriens-interviennent-dans-un-stade-contr%C3%B4l%C3%A9-par-les-gangs",
+      "source": "France 24",
+      "date": "2026-11-13T14:21:40+01:00",
+      "resume": "En Haïti, des soldats salvadoriens sont intervenus dans le stade Sylvio-Cator à Port-au-Prince, qui était contrôlé par les gangs depuis 2024. Cette action s'inscrit dans le cadre du déploiement d'environ 2 000 militaires salvadoriens dans le pays, selon des images publiées par le président Nayib Bukele.",
+      "contexte": "Haïti subit une crise sécuritaire et humanitaire majeure marquée par le contrôle de vastes pans du territoire par des gangs armés. L'intervention de forces étrangères, inspirée parfois par des méthodes musclées de lutte contre la criminalité comme celles appliquées au Salvador, vise à rétablir l'ordre face à l'incapacité de la police locale.",
+      "image": "https://s.france24.com/media/display/f08c8e80-df64-11f1-a1f0-5f54d898a954/w:1024/p:16x9/MINIA-SALVADOR-HAITI.jpg"
+    },
+    {
+      "titre": "Guerre en Ukraine : la Russie veut connaître les \"intentions\" des Européens avant de les laisser participer aux pourparlers",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-13T14:21:23+01:00",
+      "resume": "Dans le cadre de la guerre en Ukraine, la Russie a fait savoir qu'elle souhaitait connaître les intentions des Européens avant de les laisser participer aux pourparlers. De son côté, la cheffe de la diplomatie de l'Union européenne a exclu que Moscou puisse dicter le choix des représentants européens pour de futures négociations.",
+      "contexte": "Ce bras de fer diplomatique illustre les désaccords profonds sur le format d'éventuelles négociations de paix et sur la légitimité des acteurs impliqués. L'Union européenne cherche à maintenir un front uni et à peser dans les discussions concernant l'avenir de la sécurité sur le continent, tandis que la tente d'isoler certains interlocuteurs.",
+      "image": "https://www.franceinfo.fr/pictures/3dBTU2eq02rDg7NqkfDKWNRdTXc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af6ea34145ad858070166.jpg"
+    },
+    {
+      "titre": "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/13/le-marche-mondial-du-petrole-devrait-redevenir-excedentaire-au-dernier-trimestre-selon-l-agence-internationale-de-l-energie_6809326_3234.html",
+      "source": "Le Monde",
+      "date": "2026-11-13T14:12:17+01:00",
+      "resume": "Selon l'Agence internationale de l'énergie (AIE), le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre 2026. L'offre mondiale devrait ainsi dépasser la demande pour la première fois depuis le déclenchement de la guerre en Iran fin février.",
+      "contexte": "Les fluctuations de l'offre et de la demande de pétrole dépendent fortement de la conjoncture géopolitique et des tensions dans les régions productrices. Un marché excédentaire tend généralement à stabiliser ou à faire baisser les prix des carburants à l'échelle internationale.",
+      "image": "https://img.lemde.fr/2026/11/10/452/0/5424/2712/644/322/60/0/677be19_ftp-1-2ggszyq7ri2f-2026-11-10t010006z-486300104-rc2l3laz4thb-rtrmadp-3-climate-cop31-emissions.JPG"
+    },
+    {
+      "titre": "Des améliorations constatées, pas de cyberattaque d'après Microsoft… Ce que l'on sait de la panne mondiale qui touche le géant américain depuis jeudi",
+      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-13T14:01:40+01:00",
+      "resume": "Une panne mondiale touche Microsoft depuis jeudi, empêchant plusieurs millions d'utilisateurs d'accéder à leurs e-mails et perturbant certaines fonctions des assistants d'intelligence artificielle. D'après l'entreprise, aucun indice ne pointe vers une cyberattaque, et des améliorations ont d'ores et déjà été constatées.",
+      "contexte": "Les pannes informatiques mondiales touchant les géants du cloud soulignent la dépendance critique des infrastructures numériques mondiales envers un nombre restreint de prestataires. Ces incidents, qu'ils soient d'origine technique ou liés à une mise à jour logicielle défectueuse, paralysent rapidement des pans entiers de l'économie et des services.",
+      "image": "https://www.franceinfo.fr/pictures/m7-jhQGMQNAbpCCUP6KIB4PvJKQ/0x66:1024x642/432x243/filters:format(jpg)/2026/11/13/6af6d89220377824110666.jpg"
+    },
+    {
+      "titre": "Traversée de l'Afghanistan le long de la \"route de la mort\"",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20261113-afghanistan-reportage-autoroute-une-taliban",
+      "source": "France 24",
+      "date": "2026-11-13T14:01:13+01:00",
+      "resume": "L'autoroute 1 en Afghanistan, qui relie les principales villes du pays et était surnommée la \"route de la mort\" en raison des combats et du banditisme depuis 2001, a fait l'objet d'un reportitf après cinq ans de règne des Taliban. L'itinéraire, autrefois marqué par les extorsions et les attentats, a évolué sous le nouveau régime.",
+      "contexte": "Depuis leur retour au pouvoir, les Taliban affirment avoir amélioré la sécurité intérieure et le contrôle des axes routiers majeurs pour assoir leur autorité. Cependant, ces déplacements témoignent de la situation complexe d'un pays isolé, soumis à un régime autoritaire strict et à de profonds défis économiques.",
+      "image": "https://s.france24.com/media/display/985ffbec-de9d-11f1-861a-f71d22e7fea9/w:1024/p:16x9/billet-retour-FR-Afghanistan.jpg"
+    },
+    {
+      "titre": "\"On n'a vraiment plus le choix\" : après un mois et demi de mobilisation, lycéens et enseignants s'inquiètent des conséquences sur les notes",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-vraiment-plus-le-choix-apres-un-mois-et-demi-de-mobilisation-lyceens-et-enseignants-s-inquietent-des-consequences-sur-les-notes_8280770.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-13T13:59:32+01:00",
+      "resume": "Après un mois et demi de mobilisation, lycéens et enseignants s'inquiètent des conséquences sur les notes à l'approche de la fin du trimestre. Avec très peu d'évaluations réalisées, chaque établissement tente de bricoler des moyennes provisoires, faisant redouter des inégalités entre les élèves.",
+      "contexte": "Les mouvements sociaux dans l'éducation perturbent régulièrement le calendrier scolaire et l'évaluation des compétences. La difficulté de rattraper le temps perdu et de compiler un nombre suffisant de notes pose un problème récurrent d'équité pour l'examen des dossiers scolaires, notamment sur Parcoursup.",
+      "image": "https://www.franceinfo.fr/pictures/SNpz5SU8QYpCS6E-Q3au9FI8-QY/0x208:4000x2458/432x243/filters:format(jpg)/2026/11/13/6af6ef5053d1b647856333.jpg"
     }
   ],
   "culture": [],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "e6c16d48ca",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Pourquoi la Cour suprême de Norvège a-t-elle invalidé trois licences pétrolières ?",
+      "choix": [
+        "À cause d'études d'impact environnemental jugées insuffisantes",
+        "À cause d'un manque de main-d'œuvre qualifiée",
+        "Suite à une plainte déposée par une multinationale concurrente",
+        "En raison d'une baisse du prix du baril"
+      ],
+      "reponse": 0,
+      "explication": "La Cour a jugé que les évaluations environnementales réalisées par les autorités étaient insuffisantes pour justifier ces licences.",
+      "lien": "https://www.franceinfo.fr/environnement/en-norvege-la-cour-supreme-invalide-trois-licences-petrolieres-en-mer-du-nord-contestees-par-les-ecologistes_8281109.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/B4jQlnCr1w0wkiDF5iSBvXbJzlg/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af710e364cb5728172376.jpg"
+    },
+    {
+      "id": "7b8589f044",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Quel est l'objectif principal des discussions ouvertes par Sébastien Lecornu avec les syndicats de fonctionnaires ?",
+      "choix": [
+        "La privatisation de certains services publics",
+        "L'augmentation du nombre de jours de congés",
+        "La réduction du temps de travail hebdomadaire",
+        "La revalorisation des bas salaires"
+      ],
+      "reponse": 3,
+      "explication": "Le Premier ministre a entamé des discussions portant notamment sur la revalorisation des bas salaires des fonctionnaires.",
+      "lien": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/XtdvfjiR42AuZG7cPgFthtPETTk/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af709187c9ae288459564.jpg"
+    },
+    {
+      "id": "e7a9b6f372",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Quelle menace pèse sur les usines de Mercedes-Benz en Allemagne selon le syndicat IG Metall ?",
+      "choix": [
+        "Une délocalisation forcée vers les États-Unis",
+        "Une cyberattaque massive",
+        "Un manque de matières premières",
+        "Des fermetures d'usines"
+      ],
+      "reponse": 3,
+      "explication": "Le syndicat et le comité d'entreprise ont dénoncé des menaces de fermetures d'usines face à la concurrence chinoise.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/13/mercedes-benz-le-comite-d-entreprise-et-le-syndicat-ig-metall-denoncent-des-menaces-de-fermetures-d-usines-en-allemagne_6809327_3234.html",
+      "image": "https://img.lemde.fr/2026/11/13/594/0/8071/4035/644/322/60/0/e80db29_upload-1-3zcxiqlaixko-000-c8wb62r.jpg"
+    },
+    {
+      "id": "c2ae315071",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Dans quel lieu emblématique de Port-au-Prince des soldats salvadoriens sont-ils intervenus ?",
+      "choix": [
+        "L'aéroport international",
+        "Le palais présidentiel",
+        "Le stade Sylvio-Cator",
+        "Le port commercial"
+      ],
+      "reponse": 2,
+      "explication": "Les soldats salvadoriens ont repris le stade Sylvio-Cator, qui était sous le contrôle de gangs depuis 2024.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-en-ha%C3%AFti-des-soldats-salvadoriens-interviennent-dans-un-stade-contr%C3%B4l%C3%A9-par-les-gangs",
+      "image": "https://s.france24.com/media/display/f08c8e80-df64-11f1-a1f0-5f54d898a954/w:1024/p:16x9/MINIA-SALVADOR-HAITI.jpg"
+    },
+    {
+      "id": "086abd1196",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Quelle est la cause identifiée par Microsoft pour la panne mondiale survenue jeudi ?",
+      "choix": [
+        "Une cyberattaque d'État",
+        "Aucune cyberattaque n'a été identifiée",
+        "Une erreur de manipulation humaine",
+        "Une panne d'électricité majeure"
+      ],
+      "reponse": 1,
+      "explication": "Microsoft a précisé qu'aucun indice ne pointe vers une cyberattaque concernant cette panne mondiale.",
+      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/m7-jhQGMQNAbpCCUP6KIB4PvJKQ/0x66:1024x642/432x243/filters:format(jpg)/2026/11/13/6af6d89220377824110666.jpg"
+    }
+  ]
 }

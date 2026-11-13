@@ -5258,6 +5258,86 @@
       "explication": "C'est le président ukrainien Volodymyr Zelensky qui a fait cette déclaration lors de sa visite à Dublin.",
       "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-[lestitres]",
       "image": "https://www.franceinfo.fr/pictures/5swluOoVj4SRXMPcNX-9klTHN9k/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af63f5054e39958827036.jpg"
+    },
+    {
+      "id": "e6c16d48ca",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Pourquoi la Cour suprême de Norvège a-t-elle invalidé trois licences pétrolières ?",
+      "choix": [
+        "À cause d'études d'impact environnemental jugées insuffisantes",
+        "À cause d'un manque de main-d'œuvre qualifiée",
+        "Suite à une plainte déposée par une multinationale concurrente",
+        "En raison d'une baisse du prix du baril"
+      ],
+      "reponse": 0,
+      "explication": "La Cour a jugé que les évaluations environnementales réalisées par les autorités étaient insuffisantes pour justifier ces licences.",
+      "lien": "https://www.franceinfo.fr/environnement/en-norvege-la-cour-supreme-invalide-trois-licences-petrolieres-en-mer-du-nord-contestees-par-les-ecologistes_8281109.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/B4jQlnCr1w0wkiDF5iSBvXbJzlg/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af710e364cb5728172376.jpg"
+    },
+    {
+      "id": "7b8589f044",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Quel est l'objectif principal des discussions ouvertes par Sébastien Lecornu avec les syndicats de fonctionnaires ?",
+      "choix": [
+        "La privatisation de certains services publics",
+        "L'augmentation du nombre de jours de congés",
+        "La réduction du temps de travail hebdomadaire",
+        "La revalorisation des bas salaires"
+      ],
+      "reponse": 3,
+      "explication": "Le Premier ministre a entamé des discussions portant notamment sur la revalorisation des bas salaires des fonctionnaires.",
+      "lien": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/XtdvfjiR42AuZG7cPgFthtPETTk/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af709187c9ae288459564.jpg"
+    },
+    {
+      "id": "e7a9b6f372",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Quelle menace pèse sur les usines de Mercedes-Benz en Allemagne selon le syndicat IG Metall ?",
+      "choix": [
+        "Une délocalisation forcée vers les États-Unis",
+        "Une cyberattaque massive",
+        "Un manque de matières premières",
+        "Des fermetures d'usines"
+      ],
+      "reponse": 3,
+      "explication": "Le syndicat et le comité d'entreprise ont dénoncé des menaces de fermetures d'usines face à la concurrence chinoise.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/13/mercedes-benz-le-comite-d-entreprise-et-le-syndicat-ig-metall-denoncent-des-menaces-de-fermetures-d-usines-en-allemagne_6809327_3234.html",
+      "image": "https://img.lemde.fr/2026/11/13/594/0/8071/4035/644/322/60/0/e80db29_upload-1-3zcxiqlaixko-000-c8wb62r.jpg"
+    },
+    {
+      "id": "c2ae315071",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Dans quel lieu emblématique de Port-au-Prince des soldats salvadoriens sont-ils intervenus ?",
+      "choix": [
+        "L'aéroport international",
+        "Le palais présidentiel",
+        "Le stade Sylvio-Cator",
+        "Le port commercial"
+      ],
+      "reponse": 2,
+      "explication": "Les soldats salvadoriens ont repris le stade Sylvio-Cator, qui était sous le contrôle de gangs depuis 2024.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-en-ha%C3%AFti-des-soldats-salvadoriens-interviennent-dans-un-stade-contr%C3%B4l%C3%A9-par-les-gangs",
+      "image": "https://s.france24.com/media/display/f08c8e80-df64-11f1-a1f0-5f54d898a954/w:1024/p:16x9/MINIA-SALVADOR-HAITI.jpg"
+    },
+    {
+      "id": "086abd1196",
+      "date": "2026-11-13",
+      "type": "actu",
+      "question": "Quelle est la cause identifiée par Microsoft pour la panne mondiale survenue jeudi ?",
+      "choix": [
+        "Une cyberattaque d'État",
+        "Aucune cyberattaque n'a été identifiée",
+        "Une erreur de manipulation humaine",
+        "Une panne d'électricité majeure"
+      ],
+      "reponse": 1,
+      "explication": "Microsoft a précisé qu'aucun indice ne pointe vers une cyberattaque concernant cette panne mondiale.",
+      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/m7-jhQGMQNAbpCCUP6KIB4PvJKQ/0x66:1024x642/432x243/filters:format(jpg)/2026/11/13/6af6d89220377824110666.jpg"
     }
   ]
 }
