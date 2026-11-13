@@ -1,37 +1,229 @@
 {
   "date": "2026-11-13",
-  "mode": "evening",
-  "updated": "2026-11-13T00:16:31.156287+01:00",
-  "deja_presente": [],
-  "depuis_hier": [],
+  "mode": "morning",
+  "updated": "2026-11-13T12:18:45.059538+01:00",
+  "deja_presente": [
+    {
+      "titre": "Un immeuble s'effondre à New York et fait au moins quatre morts et 17 blessés",
+      "lien": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-12T12:27:06+01:00",
+      "resume": "Un immeuble s'est effondré à New York, provoquant la mort d'au moins quatre personnes et faisant 17 blessés, dont sept enfants (dont quatre grièvement touchés). Les services de secours sont mobilisés sur place pour porter assistance aux victimes, tandis que les autorités n'ont pas encore déterminé les causes exactes de la catastrophe.",
+      "contexte": "Les effondrements d'immeubles dans les grandes métropoles américaines relancent souvent les débats sur la vétusté des infrastructures et le respect des normes de construction ou de rénovation. L'enquête technique menée à la suite du drame doit déterminer s'il s'agit d'une défaillance structurelle ou d'un accident lié à des travaux.",
+      "image": "https://www.franceinfo.fr/pictures/zMYgNlxssp84CK6OgDBhR5UOS8U/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af5589740f3a514761611.jpg"
+    },
+    {
+      "titre": "Les Californiens disent finalement non à l'impôt sur la fortune des milliardaires, inspiré de la \"taxe Zucman\"",
+      "lien": "https://www.franceinfo.fr/monde/usa/les-californiens-disent-finalement-non-a-l-impot-sur-la-fortune-des-milliardaires-inspire-de-la-taxe-zucman_8278967.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-12T12:18:46+01:00",
+      "resume": "Les électeurs de Californie ont finalement rejeté l'instauration d'un impôt sur la fortune ciblant les milliardaires de l'État, inspiré de la « taxe Zucman ». Ce dispositif prévoyait de taxer à hauteur de 5 % le patrimoine net des personnes les plus fortunées afin de financer le système de santé public, affaibli par les coupes budgétaires fédérales décidées par Donald Trump.",
+      "contexte": "Le débat sur la taxation des plus hauts patrimoines oppose régulièrement partisans d'une plus grande redistribution et défenseurs de l'attractivité économique locale. Les projets d'impôts sur la fortune à l'échelle des États américains se heurtent souvent à de fortes résistances politiques et juridiques, les opposants arguant d'un risque de fuite des capitaux.",
+      "image": "https://www.franceinfo.fr/pictures/yO4NjaMmQxO9O4uOfPK3FdWEdcI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af58557417c1233596537.jpg"
+    },
+    {
+      "titre": "Présidentielle 2027 : suivez l'interview de Raphaël Glucksmann, troisième des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\"",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-12T12:16:13+01:00",
+      "resume": "Dans le cadre de la journée événement organisée par franceinfo consacrée aux services publics, plusieurs candidats à l'élection présidentielle de 2027 ont détaillé leurs propositions. Raphaël Glucksmann a répondu aux questions des journalistes sur l'accès et la qualité des services publics, tandis que Gabriel Attal a promis qu'aucun poste ne serait supprimé dans l'Éducation nationale s'il était élu.",
+      "contexte": "À l'approche de l'élection présidentielle de 2027, les questions relatives aux services publics, à l'éducation et à l'aménagement du territoire constituent des thèmes centraux du débat politique français. Les candidats cherchent à rassurer les électeurs sur l'état de l'État-providence et sur les moyens alloués aux services essentiels.",
+      "image": "https://www.franceinfo.fr/pictures/KEXE86FJwIJWEJ0UDAvRUlZO0Yg/0x0:1413x795/432x243/filters:format(jpg)/2026/11/12/6af59ef0e3057732725741.jpg"
+    },
+    {
+      "titre": "CNews : un débat public est nécessaire",
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/12/cnews-un-debat-public-est-necessaire_6809092_3232.html",
+      "source": "Le Monde",
+      "date": "2026-11-12T12:13:01+01:00",
+      "resume": "La conférence des présidents de l'Assemblée nationale a la possibilité de décider de la tenue d'un débat dans l'Hémicycle concernant le maintien de la chaîne CNews. Cette discussion fait suite aux nombreuses sanctions prononcées par l'Arcom contre la chaîne, dont les émissions sont accusées de diffuser des propos incitant à la haine ou à la discrimination sans modification de sa ligne éditoriale.",
+      "contexte": "Le rôle et la régulation des chaînes d'information en continu en France font l'objet de vifs débats politiques et juridiques concernant le respect du pluralisme et de la déontologie. Les sanctions de l'Arcom et les interpellations parlementaires illustrent la difficulté de concilier la liberté de la communication avec la lutte contre la diffusion de propos haineux.",
+      "image": "https://img.lemde.fr/2026/11/06/1833/0/3667/1833/644/322/60/0/492c74b_upload-1-uoqxcpu1g8gz-ad059-5-nov-dsc01136.jpg"
+    },
+    {
+      "titre": "Le suspect de l'attentat raciste de Trappes et La Verrière avait dressé une liste de personnalités de gauche et d'extrême gauche",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-ce-que-je-regrette-c-est-de-pas-avoir-fait-plus-et-s-il-y-a-des-survivants-c-est-parce-que-j-ai-ete-clement-a-declare-kevin-tessier-en-garde-a-vue_8278007.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-12T12:07:25+01:00",
+      "resume": "Lors de la perquisition au domicile de Kévin Tessier, suspect de l'attentat raciste perpétré le 23 octobre à Trappes et La Verrière dans les Yvelines, les enquêteurs ont découvert un post-it contenant les noms et numéros de téléphone de quatre personnalités de gauche et d'extrême gauche. Cette découverte a suscité de vives réactions politiques, notamment de la part de Fabien Roussel, qui a dénoncé le danger que représente l'extrême droite pour la démocratie.",
+      "contexte": "La découverte de listes de cibles potentielles lors d'enquêtes antiterroristes met en lumière la menace persistante des actes de violence ciblée de nature politique ou raciste. Ces révélations alimentent le débat public sur la sécurité des personnalités exposées et sur la montée des extrémismes dans le pays.",
+      "image": "https://www.franceinfo.fr/pictures/xa7WxIT8SePuxFV9jLUnNi7w5fE/0x93:1024x669/432x243/filters:format(jpg)/2026/11/11/6af48dfc7939b963883382.jpg"
+    },
+    {
+      "titre": "Des pluies diluviennes aggravent la détresse des habitants de Gaza",
+      "lien": "https://www.franceinfo.fr/monde/palestine/gaza/des-pluies-diluviennes-aggravent-la-detresse-des-habitants-de-gaza_8279144.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-12T12:05:02+01:00",
+      "resume": "Des pluies diluviennes se sont abattues sur la bande de Gaza, faisant au moins cinq morts, dont trois enfants, selon les services de secours. Ces intempéries aggravent encore la situation de détresse humanitaire et précaire des habitants de la région.",
+      "contexte": "Les conditions météorologiques extrêmes s'ajoutent aux crises humanitaires majeures et aux destructions d'infrastructures dans les zones de conflit, rendant la survie des populations civiles encore plus difficile. L'absence d'abris adaptés et le manque de services de base accentuent la vulnérabilité des habitants face aux intempéries.",
+      "image": "https://www.franceinfo.fr/pictures/aewvxmUMBksJV6rjYxl7mKcAxzw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/12/6af598acf1bbc537894526.jpg"
+    },
+    {
+      "titre": "Irlande : la capitale prête à accueillir le sommet de la Communauté politique européenne",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-irlande-la-capitale-se-pr%C3%A9pare-%C3%A0-accueillir-le-sommet-de-la-communaut%C3%A9-politique-europ%C3%A9enne",
+      "source": "France 24",
+      "date": "2026-11-12T12:02:44+01:00",
+      "resume": "Le neuvième sommet de la Communauté politique européenne se tient ce jeudi 12 novembre à Dublin, en Irlande, rassemblant les dirigeants de 47 pays du continent. Cette réunion vise à bâtir une Europe compétitive, démocratique et unie face aux profonds bouleversements géopolitiques mondiaux.",
+      "contexte": "Créée pour favoriser le dialogue politique et la coopération au-delà des frontières de l'Union européenne, la Communauté politique européenne sert de cadre informel pour traiter des défis communs de sécurité, d'énergie et de stabilité économique sur le continent. Son rôle s'est accru dans un contexte international marqué par des tensions géopolitiques majeures.",
+      "image": "https://s.france24.com/media/display/c785e2f4-de86-11f1-b44b-29048b396e03/w:1024/p:16x9/FR-20261112-110120-110333-CS.jpg"
+    },
+    {
+      "titre": "Des images inédites de centaines de millions de galaxies grâce au télescope Euclid",
+      "lien": "https://www.franceinfo.fr/sciences/astronomie/on-commence-a-les-regarder-d-une-facon-differente-le-telescope-euclid-devoile-des-centaines-de-millions-de-galaxies-dans-des-images-inedites_8277968.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-12T12:00:01+01:00",
+      "resume": "L'Agence spatiale européenne a publié jeudi une première grande livraison d'images et de données inédites capturées par le télescope Euclid. Lancé dans l'espace en 2023, l'appareil offre un panorama extraordinaire et sans précédent à travers des centaines de millions de galaxies.",
+      "contexte": "Le télescope spatial Euclid a pour mission principale de cartographier la structure à grande échelle de l'Univers pour mieux comprendre la nature de la matière noire et de l'énergie noire. Ces données cosmologiques de haute précision permettent à la communauté scientifique internationale d'explorer l'histoire et l'évolution de l'Univers.",
+      "image": "https://www.franceinfo.fr/pictures/WlhpCt-4Ppo0VHOKqOWKwyPKIlo/0x14:1391x796/432x243/filters:format(jpg)/2026/11/11/6af4ac16ec744771754555.jpg"
+    },
+    {
+      "titre": "Pérou : le pape léon XIV célèbre son retour dans sa \"patrie\"",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-p%C3%A9rou-le-pape-l%C3%A9on-xiv-c%C3%A9l%C3%A8bre-son-retour-dans-sa-patrie",
+      "source": "France 24",
+      "date": "2026-11-12T11:57:12+01:00",
+      "resume": "Le pape Léon XIV a célébré son retour au Pérou, qu'il qualifie de « patrie », lors de son premier discours officiel dans le pays. Ayant exercé son ministère pendant près de deux décennies sur place et acquis la nationalité péruvienne, il effectue cette visite dans le cadre de la dernière étape de sa tournée sud-américaine, après des passages en Uruguay et en Argentine.",
+      "contexte": "Les voyages pontificaux dans les pays d'Amérique latine revêtent une importance spirituelle et géopolitique majeure pour l'Église catholique, confrontée à des évolutions démographiques religieuses et à des défis sociaux locaux. Pour un pape ayant une attache personnelle forte avec un pays de la région, cette visite constitue un moment mémoriel et pastoral particulièrement fort.",
+      "image": "https://s.france24.com/media/display/c9400192-de81-11f1-a652-f71d22e7fea9/w:1024/p:16x9/FR-20261112-094131-094352-CS.jpg"
+    }
+  ],
+  "depuis_hier": [
+    {
+      "titre": "\"La jeunesse des quartiers populaires n'a pas le droit à l'erreur\" : 48 heures dans les quartiers nord de Marseille",
+      "lien": "https://www.franceinfo.fr/marseille/la-jeunesse-dans-les-quartiers-populaires-elle-n-a-pas-le-droit-a-l-erreur-48-heures-dans-les-quartiers-nord-de-marseille_8280122.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-12T23:56:38+01:00",
+      "resume": "Le journaliste Tristan Waleckx a passé 48 heures dans les quartiers nord de Marseille pour documenter le quotidien des habitants. Ce reportage met en lumière les difficultés sociales et le manque de droit à l'erreur pour la jeunesse de ces zones.",
+      "contexte": "Les quartiers nord de Marseille sont régulièrement au centre de l'actualité en raison de la précarité économique et de la criminalité liée au trafic de drogue. Le reportage cherche à donner une visibilité aux habitants qui vivent loin des clichés habituels.",
+      "image": "https://www.franceinfo.fr/pictures/jJf1HmLZtFYdo-w2t6vMAyPxFis/184x0:1480x729/432x243/filters:format(jpg)/2026/11/12/6af6438ca56b1677162354.jpg"
+    },
+    {
+      "titre": "À New York, l'effondrement d'un immeuble fait de nombreux morts et blessés",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261112-new-york-flatbush-effondrement-immeuble-morts-blesses",
+      "source": "France 24",
+      "date": "2026-11-12T23:48:09+01:00",
+      "resume": "L'effondrement d'un immeuble de trois étages à New York a causé la mort d'au moins huit personnes et en a blessé 19 autres mercredi soir. Le bâtiment, composé de quatre appartements et d'un local commercial, s'est écroulé sur un chantier d'excavation adjacent où des travaux étaient en cours.",
+      "contexte": "Les effondrements de bâtiments lors de travaux de construction à proximité sont des risques urbains récurrents dans les métropoles denses. L'enquête devra déterminer si les normes de sécurité sur le chantier étaient respectées et si les excavations ont fragilisé les fondations de l'immeuble voisin.",
+      "image": "https://s.france24.com/media/display/82abc90a-deea-11f1-8c96-29048b396e03/w:1024/p:16x9/AP26316296072440.jpg"
+    },
+    {
+      "titre": "VIDEO. Ceuta : les dessous d'une vague migratoire",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-ceuta-les-dessous-d-une-vague-migratoire_8271050.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-12T23:23:49+01:00",
+      "resume": "Fin juillet 2026, environ 80 000 personnes ont traversé illégalement la frontière entre le Maroc et Ceuta, une enclave espagnole en Afrique, en moins de 48 heures. Les autorités et observateurs s'interrogent sur la nature de cet afflux, cherchant à déterminer s'il s'agit d'un mouvement spontané ou d'une opération organisée.",
+      "contexte": "Ceuta est l'un des deux points de passage terrestres entre l'Afrique et l'Union européenne, ce qui en fait un lieu de tension migratoire constante. Ces crises diplomatiques entre le Maroc et l'Espagne sont souvent liées à des enjeux de souveraineté territoriale et de coopération politique.",
+      "image": "https://www.franceinfo.fr/pictures/8QZObkQH0WjWCbfnBduX1ty2uZs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/12/6af63edaa1721282336873.jpg"
+    },
+    {
+      "titre": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année",
+      "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-12T22:56:41+01:00",
+      "resume": "Les conflits territoriaux entre les éléphants sauvages et les populations locales en Inde provoquent des centaines de morts chaque année. La réduction des habitats forestiers force les troupeaux à s'aventurer dans les villages, rendant les activités quotidiennes des habitants particulièrement dangereuses.",
+      "contexte": "Cette situation illustre la pression anthropique croissante sur les écosystèmes naturels. La cohabitation entre la faune sauvage et les humains devient un enjeu environnemental et humanitaire majeur dans plusieurs régions d'Asie.",
+      "image": "https://www.franceinfo.fr/pictures/ciAD_XHXWtfFpmhEWMsfEI-RlpY/0x22:1116x650/432x243/filters:format(jpg)/2026/11/12/6af6341c8db2f361371949.jpg"
+    },
+    {
+      "titre": "Mauritanie : ces images satellite ne montrent pas des bateaux de migrants",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261112-mauritanie-ces-images-satellite-ne-montrent-pas-des-bateaux-de-migrants",
+      "source": "France 24",
+      "date": "2026-11-12T22:45:19+01:00",
+      "resume": "Des publications circulant sur les réseaux sociaux affirmaient, images satellites à l'appui, que de nombreux bateaux de migrants s'apprêtaient à quitter le port de Nouadhibou en Mauritanie. Il s'avère que les images, bien qu'authentiques, sont anciennes et représentent des navires de pêche et non des embarcations de migrants.",
+      "contexte": "La désinformation sur les réseaux sociaux utilise souvent des images réelles sorties de leur contexte temporel ou géographique pour susciter des réactions émotionnelles. La vérification des faits est devenue essentielle pour éviter la propagation de fausses alertes migratoires.",
+      "image": "https://s.france24.com/media/display/31ef8794-dedc-11f1-9a18-3f371022a770/w:1024/p:16x9/FRAN261112-2115-Live-CS2115.jpg"
+    },
+    {
+      "titre": "🔴 Ligue des nations : la France renversée par l'Italie, la qualification en danger",
+      "lien": "https://www.france24.com/fr/sports/20261112-ligue-nations-france-renversee-italie-qualification",
+      "source": "France 24",
+      "date": "2026-11-12T22:41:23+01:00",
+      "resume": "L'équipe de France de football a été battue par l'Italie lors d'un match de Ligue des nations. Cette défaite met en péril les chances de qualification des Bleus pour la suite de la compétition.",
+      "contexte": "La Ligue des nations est un tournoi européen régulier qui sert de préparation aux compétitions internationales majeures comme l'Euro ou la Coupe du monde.",
+      "image": ""
+    },
+    {
+      "titre": "La Norvège va interdire aux athlètes russes de participer à des compétitions sur son territoire",
+      "lien": "https://www.franceinfo.fr/monde/norvege/la-norvege-va-interdire-aux-athletes-russes-de-participer-a-des-competitions-sur-son-territoire_8280068.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-12T22:16:43+01:00",
+      "resume": "Le gouvernement norvégien a annoncé l'interdiction pour les athlètes russes de participer à toute compétition sportive organisée sur son territoire. Oslo justifie cette décision par les liens étroits entre le sport de haut niveau russe et les autorités politiques, dans le contexte de la guerre en Ukraine.",
+      "contexte": "Cette mesure s'inscrit dans la continuité des sanctions internationales visant à isoler la Russie sur la scène sportive internationale. Le débat sur la neutralité des athlètes russes reste un sujet clivant au sein des instances sportives mondiales.",
+      "image": "https://www.franceinfo.fr/pictures/8n0_7bZcqyGq8Lc68KaW1-sc5uA/0x53:1024x629/432x243/filters:format(jpg)/2026/11/12/6af62c9116ada678795759.jpg"
+    },
+    {
+      "titre": "Web Summit de Lisbonne : les robots sont partout !",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-web-summit-de-lisbonne-les-robots-sont-partout",
+      "source": "France 24",
+      "date": "2026-11-12T20:52:41+01:00",
+      "resume": "Le Web Summit de Lisbonne met en avant une présence massive de la robotique et de l'intelligence artificielle. Des systèmes automatisés destinés aux chaînes de production aux assistants personnels, les innovations présentées marquent une accélération technologique significative.",
+      "contexte": "Le Web Summit est l'un des plus grands rassemblements technologiques mondiaux. L'accent mis sur l'IA et la robotique reflète les investissements massifs des entreprises pour automatiser les tâches et améliorer la productivité.",
+      "image": "https://s.france24.com/media/display/aec30910-decf-11f1-9369-29048b396e03/w:1024/p:16x9/d%C3%A9rush-robots-00-00-22-23-Still001.jpg"
+    }
+  ],
   "aujourdhui": [
     {
-      "titre": "Guerre en Ukraine : depuis Dublin, Volodymyr Zelensky affirme que l'Europe sera à la table des \"prochaines\" négociations",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-[lestitres]",
+      "titre": "Guerre en Ukraine : Poutine, maître du jeu dans le processus de négociation ?",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-guerre-en-ukraine-poutine-ma%C3%AEtre-du-jeu-dans-le-processus-de-n%C3%A9gociation",
+      "source": "France 24 · franceinfo · Le Monde",
+      "date": "2026-11-13T12:15:30+01:00",
+      "resume": "Des émissaires de Donald Trump ont entamé des pourparlers en Irlande avec le président ukrainien Volodymyr Zelensky après avoir rencontré Vladimir Poutine. Parallèlement, la Russie exige de connaître les intentions européennes avant d'autoriser la participation de représentants de l'UE aux futures négociations, une condition rejetée par la cheffe de la diplomatie européenne, Kaja Kallas.",
+      "contexte": "Ces échanges marquent une phase diplomatique intense visant à définir les contours d'un éventuel cessez-le-feu en Ukraine. Les autorités européennes craignent que la Russie n'utilise le processus de négociation pour diviser les alliés occidentaux et imposer ses propres conditions de sécurité.",
+      "image": "https://s.france24.com/media/display/745e4bc4-df4f-11f1-8c18-29048b396e03/w:1024/p:16x9/FR-20261113-100744-101210-CS.jpg"
+    },
+    {
+      "titre": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974, sont arrivées au Guatemala",
+      "lien": "https://www.franceinfo.fr/culture/livres/les-cendres-de-l-ecrivain-miguel-angel-asturias-mort-en-1974-sont-arrivees-au-guatemala_8280740.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-13T12:09:58+01:00",
+      "resume": "Les cendres de l'écrivain guatémaltèque Miguel Angel Asturias, lauréat du prix Nobel de littérature décédé en 1974, ont été rapatriées au Guatemala depuis la France. Elles seront inhumées dans le principal complexe culturel du pays qui porte son nom.",
+      "contexte": "Le rapatriement des restes de personnalités historiques est souvent une démarche visant à renforcer l'identité nationale et à rendre hommage à l'héritage culturel des grandes figures littéraires d'un pays.",
+      "image": "https://www.franceinfo.fr/pictures/VMfcrL1RaBAaWz6QMt76G2VU3y0/0x93:2400x1443/432x243/filters:format(jpg)/2026/11/13/6af6e14aa41e8600143005.jpg"
+    },
+    {
+      "titre": "A la COP31, \"103 grands groupes pollueurs\" ont envoyé des délégations pour peser sur les négociations, dénoncent des ONG",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/acteurs-des-energies-fossiles-banques-geants-de-la-tech-a-la-cop31-103-grands-groupes-pollueurs-ont-envoye-des-delegations-pour-peser-sur-les-negociations-denoncent-des-ong_8280710.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-13T00:01:21+01:00",
-      "resume": "En visite à Dublin, le président ukrainien Volodymyr Zelensky a affirmé jeudi que l'Europe participerait aux prochaines négociations pour la paix, soutenu par Jared Kushner, émissaire de Donald Trump, qui a estimé qu'aucun accord entre Moscou et Kiev ne pouvait se faire sans les Européens. En parallèle, le président russe Vladimir Poutine a rejeté l'établissement de 'zones grises' et a qualifié d'absolument inacceptable le déploiement de troupes étrangères en Ukraine, une garantie de sécurité pourtant réclamée par Kiev.",
-      "contexte": "Ces déclarations illustrent les divergences persistantes entre la Russie, l'Ukraine et leurs soutiens internationaux quant aux conditions d'un potentiel règlement du conflit. La question des garanties de sécurité pour l'Ukraine et de la place des puissances occidentales dans les discussions reste un point de crispation majeur, alors que l'administration américaine tente de positionner ses émissaires dans une optique de négociation.",
-      "image": "https://www.franceinfo.fr/pictures/5swluOoVj4SRXMPcNX-9klTHN9k/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af63f5054e39958827036.jpg"
+      "date": "2026-11-13T12:02:41+01:00",
+      "resume": "Une coalition d'ONG, intitulée \"Kick big polluters out\", dénonce la présence de 103 délégations issues de grands groupes pollueurs lors de la COP31. Ces organisations accusent ces entreprises de chercher activement à entraver les négociations et à bloquer les politiques climatiques.",
+      "contexte": "La participation des industries fossiles aux sommets sur le climat est un sujet récurrent de controverse. Les ONG estiment qu'il existe un conflit d'intérêts majeur entre les objectifs de réduction des émissions et les intérêts économiques des groupes énergétiques.",
+      "image": "https://www.franceinfo.fr/pictures/BqHP4MGmoPPImVXjKKD10MU3wx8/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6ed602b2ce329868515.jpg"
+    },
+    {
+      "titre": "En direct : Microsoft peine à rétablir Outlook, des entreprises et des écoles affectées",
+      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261112-une-panne-mondiale-affecte-la-messagerie-outlook-de-microsoft",
+      "source": "France 24 · franceinfo",
+      "date": "2026-11-13T11:56:44+01:00",
+      "resume": "Une panne majeure affecte les services Microsoft, dont Outlook, Teams et l'assistant Copilot, dans 74 pays et territoires à travers l'Asie-Pacifique, l'Europe et les États-Unis. Cet incident technique, l'un des plus importants pour le groupe ces dernières années, perturbe le fonctionnement d'entreprises, d'écoles, de services de santé et de transports. Microsoft a officiellement écarté la piste d'une cyberattaque ou d'une action malveillante.",
+      "contexte": "Ces pannes soulignent la dépendance critique des infrastructures modernes, publiques comme privées, aux solutions cloud d'un nombre restreint de géants technologiques. Lorsque ces services tombent, les répercussions sont immédiates et mondiales, posant des questions sur la résilience des systèmes numériques et la nécessité de solutions de secours.",
+      "image": "https://s.france24.com/media/display/f7e0b76a-df37-11f1-a593-f71d22e7fea9/w:1024/p:16x9/063-2304840770.jpg"
+    },
+    {
+      "titre": "Le patron de Nvidia démissionne sur fond d'adultères et d'espionnage",
+      "lien": "https://www.franceinfo.fr/internet/le-patron-de-nvidia-demissionne-sur-fond-d-adulteres-et-d-espionnage_8280098.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde · franceinfo",
+      "date": "2026-11-13T11:46:02+01:00",
+      "resume": "Jensen Huang, patron de Nvidia, a démissionné ce jeudi 12 novembre après la révélation d'une relation extraconjugale avec une femme soupçonnée d'espionnage pour le compte de la Chine. À la suite de ce scandale, l'ancien dirigeant de cette entreprise majeure de l'intelligence artificielle a été convoqué pour témoigner devant le Sénat américain en décembre.",
+      "contexte": "La démission d'un dirigeant de ce calibre pour des raisons de sécurité nationale et de moralité personnelle est un événement rare qui fragilise la gouvernance d'une entreprise stratégique. L'implication potentielle d'espionnage lié à la Chine soulève des enjeux géopolitiques et de sécurité technologique cruciaux aux États-Unis.",
+      "image": "https://www.franceinfo.fr/pictures/LR53kMjiySxjVUyYTPSUkvJmIOk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/12/6af6303bd7aa7901687856.jpg"
+    },
+    {
+      "titre": "Derrière l’image : en Colombie, la communication controversée du président d’extrême droite",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261113-derri%C3%A8re-image-colombie-communication-controversee-president-extreme-droite-abelardo-de-la-espriella",
+      "source": "France 24",
+      "date": "2026-11-13T11:40:39+01:00",
+      "resume": "La communication du président colombien Abelardo de la Espriella, au pouvoir depuis août, suscite de vives polémiques. Ses mises en scène de transferts de détenus et de bombardements, ainsi que ses discours devant des sacs mortuaires, sont critiqués pour leur caractère provocateur et leur mise en avant de la force.",
+      "contexte": "La stratégie de communication d'un chef d'État d'extrême droite peut viser à asseoir une image d'autorité et de fermeté face à l'insécurité, quitte à heurter une partie de l'opinion publique nationale et internationale.",
+      "image": "https://s.france24.com/media/display/0502e730-df4a-11f1-9547-29048b396e03/w:1024/p:16x9/Chronique-vignette-horizontale.jpg"
+    },
+    {
+      "titre": "Pascale Weeks, autrice culinaire : « Une recette doit être pensée et partagée pour que les gens puissent la réussir »",
+      "lien": "https://www.lemonde.fr/le-monde-passe-a-table/article/2026/11/13/pascale-weeks-autrice-culinaire-une-recette-doit-etre-pensee-et-partagee-pour-que-les-gens-puissent-la-reussir_6809311_6082232.html",
+      "source": "Le Monde",
+      "date": "2026-11-13T11:30:08+01:00",
+      "resume": "L'autrice culinaire Pascale Weeks, pionnière des blogs de cuisine en France avec son site lancé il y a vingt-deux ans, partage sa vision de la transmission gastronomique. Elle souligne l'importance de concevoir des recettes accessibles et pensées pour être partagées par le plus grand nombre.",
+      "contexte": "L'évolution de la cuisine en ligne a transformé la manière dont les particuliers apprennent à cuisiner, passant des livres traditionnels aux blogs et plateformes collaboratives qui privilégient l'échange d'astuces simples.",
+      "image": "https://img.lemde.fr/2026/11/05/450/0/1200/600/644/322/60/0/442ef4d_ftp-1-cakpl842ixbj-450913-3535593.jpg"
     }
   ],
   "culture": [],
-  "quiz_jour": [
-    {
-      "id": "84b98eb028",
-      "date": "2026-11-13",
-      "type": "actu",
-      "question": "Quel dirigeant ukrainien a affirmé depuis Dublin que l'Europe participerait aux prochaines négociations de paix ?",
-      "choix": [
-        "Volodymyr Zelensky",
-        "Vladimir Poutine",
-        "Jared Kushner",
-        "Donald Trump"
-      ],
-      "reponse": 0,
-      "explication": "C'est le président ukrainien Volodymyr Zelensky qui a fait cette déclaration lors de sa visite à Dublin.",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/5swluOoVj4SRXMPcNX-9klTHN9k/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af63f5054e39958827036.jpg"
-    }
-  ]
+  "quiz_jour": []
 }

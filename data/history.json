@@ -1342,6 +1342,74 @@
           "image": "https://s.france24.com/media/display/c9400192-de81-11f1-a652-f71d22e7fea9/w:1024/p:16x9/FR-20261112-094131-094352-CS.jpg"
         }
       ]
+    },
+    "2026-11-13": {
+      "morning_run": "2026-11-13T12:18:45.059538+01:00",
+      "morning_items": [
+        {
+          "titre": "Guerre en Ukraine : Poutine, maître du jeu dans le processus de négociation ?",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-guerre-en-ukraine-poutine-ma%C3%AEtre-du-jeu-dans-le-processus-de-n%C3%A9gociation",
+          "source": "France 24 · franceinfo · Le Monde",
+          "date": "2026-11-13T12:15:30+01:00",
+          "resume": "Des émissaires de Donald Trump ont entamé des pourparlers en Irlande avec le président ukrainien Volodymyr Zelensky après avoir rencontré Vladimir Poutine. Parallèlement, la Russie exige de connaître les intentions européennes avant d'autoriser la participation de représentants de l'UE aux futures négociations, une condition rejetée par la cheffe de la diplomatie européenne, Kaja Kallas.",
+          "contexte": "Ces échanges marquent une phase diplomatique intense visant à définir les contours d'un éventuel cessez-le-feu en Ukraine. Les autorités européennes craignent que la Russie n'utilise le processus de négociation pour diviser les alliés occidentaux et imposer ses propres conditions de sécurité.",
+          "image": "https://s.france24.com/media/display/745e4bc4-df4f-11f1-8c18-29048b396e03/w:1024/p:16x9/FR-20261113-100744-101210-CS.jpg"
+        },
+        {
+          "titre": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974, sont arrivées au Guatemala",
+          "lien": "https://www.franceinfo.fr/culture/livres/les-cendres-de-l-ecrivain-miguel-angel-asturias-mort-en-1974-sont-arrivees-au-guatemala_8280740.html#xtor=RSS-3-%5Bmonde%5D",
+          "source": "franceinfo Monde",
+          "date": "2026-11-13T12:09:58+01:00",
+          "resume": "Les cendres de l'écrivain guatémaltèque Miguel Angel Asturias, lauréat du prix Nobel de littérature décédé en 1974, ont été rapatriées au Guatemala depuis la France. Elles seront inhumées dans le principal complexe culturel du pays qui porte son nom.",
+          "contexte": "Le rapatriement des restes de personnalités historiques est souvent une démarche visant à renforcer l'identité nationale et à rendre hommage à l'héritage culturel des grandes figures littéraires d'un pays.",
+          "image": "https://www.franceinfo.fr/pictures/VMfcrL1RaBAaWz6QMt76G2VU3y0/0x93:2400x1443/432x243/filters:format(jpg)/2026/11/13/6af6e14aa41e8600143005.jpg"
+        },
+        {
+          "titre": "A la COP31, \"103 grands groupes pollueurs\" ont envoyé des délégations pour peser sur les négociations, dénoncent des ONG",
+          "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/acteurs-des-energies-fossiles-banques-geants-de-la-tech-a-la-cop31-103-grands-groupes-pollueurs-ont-envoye-des-delegations-pour-peser-sur-les-negociations-denoncent-des-ong_8280710.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-13T12:02:41+01:00",
+          "resume": "Une coalition d'ONG, intitulée \"Kick big polluters out\", dénonce la présence de 103 délégations issues de grands groupes pollueurs lors de la COP31. Ces organisations accusent ces entreprises de chercher activement à entraver les négociations et à bloquer les politiques climatiques.",
+          "contexte": "La participation des industries fossiles aux sommets sur le climat est un sujet récurrent de controverse. Les ONG estiment qu'il existe un conflit d'intérêts majeur entre les objectifs de réduction des émissions et les intérêts économiques des groupes énergétiques.",
+          "image": "https://www.franceinfo.fr/pictures/BqHP4MGmoPPImVXjKKD10MU3wx8/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6ed602b2ce329868515.jpg"
+        },
+        {
+          "titre": "En direct : Microsoft peine à rétablir Outlook, des entreprises et des écoles affectées",
+          "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261112-une-panne-mondiale-affecte-la-messagerie-outlook-de-microsoft",
+          "source": "France 24 · franceinfo",
+          "date": "2026-11-13T11:56:44+01:00",
+          "resume": "Une panne majeure affecte les services Microsoft, dont Outlook, Teams et l'assistant Copilot, dans 74 pays et territoires à travers l'Asie-Pacifique, l'Europe et les États-Unis. Cet incident technique, l'un des plus importants pour le groupe ces dernières années, perturbe le fonctionnement d'entreprises, d'écoles, de services de santé et de transports. Microsoft a officiellement écarté la piste d'une cyberattaque ou d'une action malveillante.",
+          "contexte": "Ces pannes soulignent la dépendance critique des infrastructures modernes, publiques comme privées, aux solutions cloud d'un nombre restreint de géants technologiques. Lorsque ces services tombent, les répercussions sont immédiates et mondiales, posant des questions sur la résilience des systèmes numériques et la nécessité de solutions de secours.",
+          "image": "https://s.france24.com/media/display/f7e0b76a-df37-11f1-a593-f71d22e7fea9/w:1024/p:16x9/063-2304840770.jpg"
+        },
+        {
+          "titre": "Le patron de Nvidia démissionne sur fond d'adultères et d'espionnage",
+          "lien": "https://www.franceinfo.fr/internet/le-patron-de-nvidia-demissionne-sur-fond-d-adulteres-et-d-espionnage_8280098.html#xtor=RSS-3-%5Bmonde%5D",
+          "source": "franceinfo Monde · franceinfo",
+          "date": "2026-11-13T11:46:02+01:00",
+          "resume": "Jensen Huang, patron de Nvidia, a démissionné ce jeudi 12 novembre après la révélation d'une relation extraconjugale avec une femme soupçonnée d'espionnage pour le compte de la Chine. À la suite de ce scandale, l'ancien dirigeant de cette entreprise majeure de l'intelligence artificielle a été convoqué pour témoigner devant le Sénat américain en décembre.",
+          "contexte": "La démission d'un dirigeant de ce calibre pour des raisons de sécurité nationale et de moralité personnelle est un événement rare qui fragilise la gouvernance d'une entreprise stratégique. L'implication potentielle d'espionnage lié à la Chine soulève des enjeux géopolitiques et de sécurité technologique cruciaux aux États-Unis.",
+          "image": "https://www.franceinfo.fr/pictures/LR53kMjiySxjVUyYTPSUkvJmIOk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/12/6af6303bd7aa7901687856.jpg"
+        },
+        {
+          "titre": "Derrière l’image : en Colombie, la communication controversée du président d’extrême droite",
+          "lien": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261113-derri%C3%A8re-image-colombie-communication-controversee-president-extreme-droite-abelardo-de-la-espriella",
+          "source": "France 24",
+          "date": "2026-11-13T11:40:39+01:00",
+          "resume": "La communication du président colombien Abelardo de la Espriella, au pouvoir depuis août, suscite de vives polémiques. Ses mises en scène de transferts de détenus et de bombardements, ainsi que ses discours devant des sacs mortuaires, sont critiqués pour leur caractère provocateur et leur mise en avant de la force.",
+          "contexte": "La stratégie de communication d'un chef d'État d'extrême droite peut viser à asseoir une image d'autorité et de fermeté face à l'insécurité, quitte à heurter une partie de l'opinion publique nationale et internationale.",
+          "image": "https://s.france24.com/media/display/0502e730-df4a-11f1-9547-29048b396e03/w:1024/p:16x9/Chronique-vignette-horizontale.jpg"
+        },
+        {
+          "titre": "Pascale Weeks, autrice culinaire : « Une recette doit être pensée et partagée pour que les gens puissent la réussir »",
+          "lien": "https://www.lemonde.fr/le-monde-passe-a-table/article/2026/11/13/pascale-weeks-autrice-culinaire-une-recette-doit-etre-pensee-et-partagee-pour-que-les-gens-puissent-la-reussir_6809311_6082232.html",
+          "source": "Le Monde",
+          "date": "2026-11-13T11:30:08+01:00",
+          "resume": "L'autrice culinaire Pascale Weeks, pionnière des blogs de cuisine en France avec son site lancé il y a vingt-deux ans, partage sa vision de la transmission gastronomique. Elle souligne l'importance de concevoir des recettes accessibles et pensées pour être partagées par le plus grand nombre.",
+          "contexte": "L'évolution de la cuisine en ligne a transformé la manière dont les particuliers apprennent à cuisiner, passant des livres traditionnels aux blogs et plateformes collaboratives qui privilégient l'échange d'astuces simples.",
+          "image": "https://img.lemde.fr/2026/11/05/450/0/1200/600/644/322/60/0/442ef4d_ftp-1-cakpl842ixbj-450913-3535593.jpg"
+        }
+      ]
     }
   },
   "culture_seen": [
