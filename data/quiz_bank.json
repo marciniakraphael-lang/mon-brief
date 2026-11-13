@@ -5418,6 +5418,86 @@
       "explication": "Environ 2 000 soldats salvadoriens ont été déployés en Haïti en accord avec l'exécutif local.",
       "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261113-jacques-nesi-les-soldats-salvadoriens-sotn-accueillis-comme-le-messie-en-ha%C3%AFti",
       "image": "https://s.france24.com/media/display/5d25db2c-df9d-11f1-b07b-3f371022a770/w:1024/p:16x9/Francais-2026-11-13T19-07-18-406Z.jpg"
+    },
+    {
+      "id": "3107023f9d",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel adversaire le XV de France a-t-il battu au Stade de France sur le score de 21 à 19 ?",
+      "choix": [
+        "L'Afrique du Sud",
+        "L'Irlande",
+        "L'Australie",
+        "La Nouvelle-Zélande"
+      ],
+      "reponse": 0,
+      "explication": "Le XV de France a remporté son match 21 à 19 face aux Springboks sud-africains, doubles champions du monde en titre.",
+      "lien": "https://www.france24.com/fr/sports/20261113-rugby-les-bleus-signent-un-succ%C3%A8s-majeur-face-aux-springboks",
+      "image": "https://s.france24.com/media/display/7b82380c-dfb3-11f1-bd1e-5f54d898a954/w:1024/p:16x9/000-D7FG2AX.jpg"
+    },
+    {
+      "id": "4ef1c6b66f",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Sur quel score l'équipe de France de rugby s'est-elle imposée face aux Springboks au Stade de France ?",
+      "choix": [
+        "15 à 12",
+        "24 à 20",
+        "21 à 19",
+        "28 à 27"
+      ],
+      "reponse": 2,
+      "explication": "Les Bleus l'ont emporté 21 à 19 face à l'Afrique du Sud après avoir conservé leur avantage de la première mi-temps.",
+      "lien": "https://www.france24.com/fr/sports/20261113-rugby-les-bleus-signent-un-succ%C3%A8s-majeur-face-aux-springboks",
+      "image": "https://s.france24.com/media/display/7b82380c-dfb3-11f1-bd1e-5f54d898a954/w:1024/p:16x9/000-D7FG2AX.jpg"
+    },
+    {
+      "id": "87319b4701",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel montant a dépassé la cagnotte solidaire ouverte pour Sonia, témoin clé de l'après 13-Novembre ?",
+      "choix": [
+        "100 000 euros",
+        "1 000 000 d'euros",
+        "250 000 euros",
+        "500 000 euros"
+      ],
+      "reponse": 3,
+      "explication": "La cagnotte organisée pour Sonia a réuni plus de 500 000 euros au moment de sa clôture.",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/la-cagnotte-pour-sonia-heroine-du-13-novembre-a-atteint-plus-de-500-000-euros-au-moment-de-sa-cloture_8281238.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/SJP8YHypuA34bt4o_t349a5DWL4/0x623:5000x3436/432x243/filters:format(jpg)/2026/11/13/6af77be438619557327837.jpg"
+    },
+    {
+      "id": "c7ad4b11b2",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel individu a pu être localisé à Saint-Denis après le 13-Novembre 2015 grâce aux informations fournies par Sonia ?",
+      "choix": [
+        "Chérif Kouachi",
+        "Mehdi Nemmouche",
+        "Abdelhamid Abaaoud",
+        "Salah Abdeslam"
+      ],
+      "reponse": 2,
+      "explication": "Les indications données par Sonia avaient permis aux enquêteurs de localiser la cachette d'Abdelhamid Abaaoud à Saint-Denis.",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/la-cagnotte-pour-sonia-heroine-du-13-novembre-a-atteint-plus-de-500-000-euros-au-moment-de-sa-cloture_8281238.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/SJP8YHypuA34bt4o_t349a5DWL4/0x623:5000x3436/432x243/filters:format(jpg)/2026/11/13/6af77be438619557327837.jpg"
+    },
+    {
+      "id": "199a55b624",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Pour quelle raison l'administration fédérale de l'aviation américaine a-t-elle ordonné l'arrêt de tous les vols aux États-Unis ?",
+      "choix": [
+        "Une cyberattaque confirmée",
+        "Un problème de communication",
+        "Une tempête hivernale historique",
+        "Une grève générale des contrôleurs"
+      ],
+      "reponse": 1,
+      "explication": "L'arrêt de tous les vols a été décrété sur le territoire américain en raison d'un problème technique de communication.",
+      "lien": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/R96VDEHvQuRMqyRYEls7Z1P59Tg/0x106:1024x682/432x243/filters:format(jpg)/2026/11/13/6af7865b60cda344133010.jpg"
     }
   ]
 }
