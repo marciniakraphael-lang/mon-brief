@@ -5498,6 +5498,118 @@
       "explication": "L'arrêt de tous les vols a été décrété sur le territoire américain en raison d'un problème technique de communication.",
       "lien": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html#xtor=RSS-3-[lestitres]",
       "image": "https://www.franceinfo.fr/pictures/R96VDEHvQuRMqyRYEls7Z1P59Tg/0x106:1024x682/432x243/filters:format(jpg)/2026/11/13/6af7865b60cda344133010.jpg"
+    },
+    {
+      "id": "7dc84c192d",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quelle autoroute française devient gratuite à partir de lundi pour compenser la fermeture de l'A13 ?",
+      "choix": [
+        "L'autoroute A6",
+        "L'autoroute A14",
+        "L'autoroute A1",
+        "L'autoroute A10"
+      ],
+      "reponse": 1,
+      "explication": "L'article indique que c'est l'autoroute A14 vers la Normandie qui devient gratuite pour compenser la fermeture de l'A13.",
+      "lien": "https://www.franceinfo.fr/economie/transports/l-autoroute-a14-vers-la-normandie-gratuite-a-partir-de-lundi-pour-compenser-la-fermeture-de-l-a13_8282435.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/mj7Br2GNs9so22RrnCyZJmh3Dck/0x52:4300x2470/432x243/filters:format(jpg)/2026/11/14/6af8554fad7fb582553318.jpg"
+    },
+    {
+      "id": "772f4165b3",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "En Île-de-France, quel est le nom de la ligne de Transilien particulièrement touchée par des incidents en série en 2026 ?",
+      "choix": [
+        "La ligne R",
+        "La ligne J",
+        "La ligne H",
+        "La ligne L"
+      ],
+      "reponse": 1,
+      "explication": "L'article mentionne les 277 000 voyageurs quotidiens de la ligne J du Transilien en Île-de-France.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/14/en-ile-de-france-les-usagers-de-la-ligne-j-confrontes-a-des-incidents-en-serie-quand-il-y-a-des-suppressions-de-trains-je-ne-vois-pas-mes-enfants_6810247_3234.html",
+      "image": "https://img.lemde.fr/2026/11/06/750/0/5000/2500/644/322/60/0/035cf30_upload-1-n1go6zdjlojk-csharrock-ligne-j-7.jpg"
+    },
+    {
+      "id": "d51c6162d6",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel fruit français fait face à un important manque d'eau et à des calibres plus petits suite à la sécheresse ?",
+      "choix": [
+        "La pêche",
+        "La pomme",
+        "L'abricot",
+        "La poire"
+      ],
+      "reponse": 1,
+      "explication": "Le texte indique que les producteurs de pommes français font face à un important manque d'eau et récoltent des fruits plus petits.",
+      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/reportage-on-a-beaucoup-manque-d-eau-frappes-par-la-secheresse-les-producteurs-de-pommes-esperent-maintenir-leurs-prix-malgre-des-fruits-plus-petits_8281583.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/qZXuwcJtycembbbN4yO9KRi9-z4/0x260:4999x3072/432x243/filters:format(jpg)/2026/11/14/6af8521dad6c7563352006.jpg"
+    },
+    {
+      "id": "f29ffd6e67",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quelle technologie vétuste a été pointée du doigt lors de la panne massive des vols aux États-Unis ?",
+      "choix": [
+        "Des téléscripteurs",
+        "Des cassettes audio",
+        "Des bandes magnétiques",
+        "Des disquettes"
+      ],
+      "reponse": 3,
+      "explication": "L'article précise que les autorités ont attribué cette panne à un système de communication vétuste utilisant encore des disquettes.",
+      "lien": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/7vEV_ibLA2yVspHpNr___Wy_nI8/0x322:3088x2059/432x243/filters:format(jpg)/2026/11/14/6af8190e3c3b2960562574.jpg"
+    },
+    {
+      "id": "720fab73b4",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quelle espèce animale fait l'objet d'une interdiction de pêche de loisir en France pour contrer son effondrement ?",
+      "choix": [
+        "L'anguille jaune",
+        "L'esturgeon européen",
+        "Le saumon atlantique",
+        "La truite fario"
+      ],
+      "reponse": 0,
+      "explication": "L'article annonce que la France interdit officiellement la pêche de loisir de l'anguille jaune.",
+      "lien": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
+      "image": "https://img.lemde.fr/2026/11/14/291/0/3500/1750/644/322/60/0/0b2a7ad_upload-1-bvhlfsthpuyk-2013-11-03t120000z-2052904481-gm1e9b211ah01-rtrmadp-3-irish-eels.JPG"
+    },
+    {
+      "id": "c2e20821b0",
+      "date": "2026-11-14",
+      "type": "culture",
+      "question": "Combien de tâches ou travaux Héraclès a-t-il finalement dû accomplir pour expier son crime ?",
+      "choix": [
+        "Quinze",
+        "Douze",
+        "Dix",
+        "Vingt"
+      ],
+      "reponse": 1,
+      "explication": "La fiche indique que bien que condamné initialement à dix tâches, le nombre fut finalement porté à douze.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "38144f7d2d",
+      "date": "2026-11-14",
+      "type": "culture",
+      "question": "À l'origine, que désignait la « monnaie de singe » au Moyen Âge ?",
+      "choix": [
+        "Un spectacle divertissant offert en guise de péage",
+        "Une fausse pièce en bois",
+        "Une taxe sur le commerce de fourrure",
+        "Un impôt sur les animaux domestiques"
+      ],
+      "reponse": 0,
+      "explication": "La fiche explique que les artistes proposaient aux gardes un spectacle amusant réalisé par leur animal pour éviter de payer le droit de péage.",
+      "lien": "",
+      "image": ""
     }
   ]
 }

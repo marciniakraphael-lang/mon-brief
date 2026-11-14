@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "mode": "morning",
-  "updated": "2026-11-14T11:44:04.362144+01:00",
+  "mode": "evening",
+  "updated": "2026-11-14T13:55:12.235999+01:00",
   "deja_presente": [
     {
       "titre": "Guerre en Ukraine : Poutine, maître du jeu dans le processus de négociation ?",
@@ -161,94 +161,112 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Présidentielle 2027 : Raphaël Glucksmann dit vouloir \"augmenter les salaires\" et \"rendre du pouvoir d'achat aux Français\"",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
+      "titre": "L'autoroute A14 vers la Normandie gratuite à partir de lundi pour compenser la fermeture de l'A13",
+      "lien": "https://www.franceinfo.fr/economie/transports/l-autoroute-a14-vers-la-normandie-gratuite-a-partir-de-lundi-pour-compenser-la-fermeture-de-l-a13_8282435.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-14T11:37:35+01:00",
-      "resume": "Dans la perspective de l'élection présidentielle de 2027, le candidat de gauche Raphaël Glucksmann s'est rendu au salon du Made in France à Paris. Il y a exprimé sa volonté d'augmenter les salaires et de redonner du pouvoir d'achat aux citoyens français.",
-      "contexte": "Les déplacements sur des salons valorisant l'industrie nationale constituent un passage obligé pour les candidats cherchant à aborder les thématiques de l'emploi, de la réindustrialisation et de l'économie locale. Le pouvoir d'achat demeure l'une des préoccupations centrales des électeurs lors des scrutins nationaux.",
-      "image": "https://www.franceinfo.fr/pictures/yq7MrKM7G9zptcARj7uSbEallP8/0x100:1024x676/432x243/filters:format(jpg)/2026/11/14/6af832174d731972298391.jpg"
+      "date": "2026-11-14T13:34:49+01:00",
+      "resume": "À partir de lundi, l'autoroute A14 vers la Normandie devient gratuite pour compenser la fermeture de l'A13. Le péage de Montesson dans les Yvelines sera gratuit en semaine dans le sens Paris-Normandie du 16 novembre au 31 août, et du 28 juin au 31 août dans le sens inverse.",
+      "contexte": "Cette mesure exceptionnelle vise à fluidifier le trafic routier et à limiter l'impact économique et logistique de la fermeture prolongée de l'A13 pour les automobilistes. Les fermetures d'axes majeurs s'expliquent généralement par des travaux de sécurisation ou des mouvements de terrain, entraînant d'importants reportages de circulation.",
+      "image": "https://www.franceinfo.fr/pictures/mj7Br2GNs9so22RrnCyZJmh3Dck/0x52:4300x2470/432x243/filters:format(jpg)/2026/11/14/6af8554fad7fb582553318.jpg"
     },
     {
-      "titre": "Les Bleus battent les Springboks à Paris pour la première fois depuis 21 ans",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261114-bleus-battent-springboks-paris-pour-premi%C3%A8re-fois-depuis-21-ans",
-      "source": "France 24",
-      "date": "2026-11-14T11:27:01+01:00",
-      "resume": "Le XV de France a battu l'Afrique du Sud sur le score de 21 à 19 au Stade de France, signant sa première victoire contre les Springboks à Paris depuis 21 ans. Une victoire bonifiée lors du prochain match contre l'Argentine permettra aux Bleus de se qualifier pour la finale du Championnat des nations.",
-      "contexte": "Ce succès de prestige renforce la confiance de l'équipe de France à l'approche des grandes échéances internationales de rugby. Les confrontations face aux nations majeures de l'hémisphère sud constituent traditionnellement des tests décisifs pour évaluer le niveau compétitif d'une sélection.",
-      "image": "https://s.france24.com/media/display/0732732e-dfe8-11f1-801a-29048b396e03/w:1024/p:16x9/J24-France-celebrate.jpg"
+      "titre": "En Ile-de-France, les usagers de la ligne J confrontés à des incidents en série : « Quand il y a des suppressions de trains, je ne vois pas mes enfants »",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/14/en-ile-de-france-les-usagers-de-la-ligne-j-confrontes-a-des-incidents-en-serie-quand-il-y-a-des-suppressions-de-trains-je-ne-vois-pas-mes-enfants_6810247_3234.html",
+      "source": "Le Monde",
+      "date": "2026-11-14T13:26:59+01:00",
+      "resume": "Les 277 000 voyageurs quotidiens de la ligne J du Transilien en Île-de-France subissent des incidents en série en 2026. Cette situation, marquée par des caténaires arrachées et une crise des essieux, provoque des retards et des suppressions de trains répétés entre Paris-Saint-Lazare et les confins de la Normandie et des Hauts-de-France.",
+      "contexte": "La vétusté des infrastructures ferroviaires et le sous-investissement chronique dans les réseaux de transport du quotidien sont souvent pointés du poucier pour expliquer ces pannes à répétition. Ces perturbations chroniques pénalisent lourdement la vie quotidienne des usagers et soulèvent des questions récurrentes sur la fiabilité des services publics de transport.",
+      "image": "https://img.lemde.fr/2026/11/06/750/0/5000/2500/644/322/60/0/035cf30_upload-1-n1go6zdjlojk-csharrock-ligne-j-7.jpg"
     },
     {
-      "titre": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans",
-      "lien": "https://www.franceinfo.fr/monde/usa/un-porte-conteneurs-et-un-bateau-de-croisiere-sont-entres-en-collision-dans-le-port-de-la-nouvelle-orleans_8281676.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"On a beaucoup manqué d'eau\" : frappés par la sécheresse, les producteurs de pommes espèrent maintenir leurs prix malgré des fruits plus petits",
+      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/reportage-on-a-beaucoup-manque-d-eau-frappes-par-la-secheresse-les-producteurs-de-pommes-esperent-maintenir-leurs-prix-malgre-des-fruits-plus-petits_8281583.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-14T11:23:26+01:00",
-      "resume": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans aux États-Unis. Sur les près de 200 passagers présents à bord du navire de croisière, 32 ont dû être hospitalisés, bien qu'aucun ne présente de blessures graves selon la maire de la ville.",
-      "contexte": "Les collisions dans les zones portuaires encombrées résultent souvent de conditions de navigation difficiles ou d'erreurs de communication humaine et technique. Les autorités maritimes ouvrent systématiquement des enquêtes pour déterminer les responsabilités dans ces accidents.",
-      "image": "https://www.franceinfo.fr/pictures/27Sqqo2tbqi5wWY_FT5teOUoyaY/0x75:1285x798/432x243/filters:format(jpg)/2026/11/13/6af78c456817f945515059.jpg"
+      "date": "2026-11-14T13:21:34+01:00",
+      "resume": "Les producteurs de pommes français font face à un important manque d'eau en raison d'une sécheresse et d'un été caniculaire. Sur les étals, la plupart des fruits récoltés sont plus petits que d'habitude, mais les producteurs espèrent toutefois maintenir leurs prix.",
+      "contexte": "Le réchauffement climatique accentue la récurrence des épisodes de sécheresse et de canicule, pesant lourdement sur les rendements agricoles en Europe. Face à ces aléas climatiques, le secteur agricole cherche à adapter ses pratiques d'irrigation tout en maintenant des prix acceptables pour les consommateurs et rentables pour les exploitations.",
+      "image": "https://www.franceinfo.fr/pictures/qZXuwcJtycembbbN4yO9KRi9-z4/0x260:4999x3072/432x243/filters:format(jpg)/2026/11/14/6af8521dad6c7563352006.jpg"
     },
     {
-      "titre": "Manifestations du 14 novembre : entre 70 000 et 120 000 manifestants attendus partout en France, hors Paris, à l'appel de gilets jaunes et d'organisations de jeunesse",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html#xtor=RSS-3-[lestitres]",
+      "titre": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-14T11:20:15+01:00",
-      "resume": "De nouvelles manifestations sont attendues en France, à l'appel de gilets jaunes et d'organisations de jeunesse. Entre 70 000 et 120 000 manifestants sont prévus hors de Paris, tandis que le ministre de l'Intérieur anticipe entre 50 et 60 défilés sur l'ensemble du territoire ainsi qu'une mobilisation importante dans la capitale, encadrée par 70 000 policiers et gendarmes.",
-      "contexte": "Le maintien d'un niveau élevé de forces de l'ordre déployées lors des journées de contestation sociale vise à prévenir les débordements et à sécuriser les cortèges. Ces mouvements traduisent des tensions persistantes autour des revendications économiques et salariales.",
-      "image": "https://www.franceinfo.fr/pictures/oIBcZ2XDfDlakbyCZxxNzdFdXTY/0x0:4919x2766/432x243/filters:format(jpg)/2026/11/14/6af835cf35276136102303.jpg"
+      "date": "2026-11-14T13:03:26+01:00",
+      "resume": "Entre le 1er octobre et le début des mobilisations, la préfecture de police de Paris a pris 219 arrêtés administratifs. Ces mesures comprennent des interdictions de manifestations, des couvre-feux et des impositions de parcours hors des centres-villes face au mouvement lycéen et aux manifestations contre la vie chère.",
+      "contexte": "L'encadrement strict des manifestations par les autorités vise traditionnellement à prévenir les débordements et à garantir l'ordre public lors de mouvements sociaux d'envergure. Ces restrictions administratives font régulièrement l'objet de débats juridiques et politiques concernant l'équilibre entre le droit de manifester et la sécurité publique.",
+      "image": "https://www.franceinfo.fr/pictures/-TvsmB4XeLJ_KtApHrJmrHwpc_A/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af6cbdbef77c753960787.png"
     },
     {
-      "titre": "Manifestations : qui sont les \"street medics\" qui soignent les blessés ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-manifestations-qui-sont-les-street-medics-qui-soignent-les-bless%C3%A9s",
-      "source": "France 24",
-      "date": "2026-11-14T11:18:23+01:00",
-      "resume": "Les 'street medics', reconnaissables à leurs casques et leurs croix rouges, continuent d'assurer une présence active lors des manifestations en France. Leur rôle consiste à apporter les premiers secours aux personnes blessées sur le terrain sans perturber l'action des forces de l'ordre.",
-      "contexte": "Ces équipes de secouristes bénévoles interviennent traditionnellement dans un contexte de contestation sociale pour pallier les éventuels délais d'intervention des secours officiels au cœur des cortèges. Leur présence soulève parfois des questions réglementaires quant à l'encadrement des soins d'urgence en milieu hostile.",
-      "image": "https://s.france24.com/media/display/80dd4fe4-e012-11f1-8647-f71d22e7fea9/w:1024/p:16x9/FR-20261114-081219-082221-CS-01.jpg"
+      "titre": "Violences du 17 octobre : jusqu'à 500 millions d'euros de dégâts estimés par des assureurs",
+      "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-jusqu-a-500-millions-d-euros-de-degats-estimes-par-les-assureurs_8282438.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-14T13:02:41+01:00",
+      "resume": "Les assureurs estiment entre 500 millions et 1,2 milliard d'euros les dégâts causés lors des violences du 17 octobre. Le président du conseil d'administration de Covéa a jugé très élevé le chiffre de 1,2 milliard d'euros avancé par CCI France.",
+      "contexte": "L'évaluation précise des dommages matériels à la suite de troubles civils nécessite des expertises complexes menées par les compagnies d'assurance. Ces montants considérables ont un impact direct sur les cotisations d'assurance des professionnels et des collectivités locales situés dans les zones concernées.",
+      "image": "https://www.franceinfo.fr/pictures/AoqroToggFXQus4B_SDvfQn3We8/432x243/filters:format(jpg)/2026/10/19/6ad62d312a700783270468.jpg"
     },
     {
-      "titre": "États-Unis : quand les maisons se transforment en bunkers de luxe",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-%C3%A9tats-unis-quand-les-maisons-se-transforment-en-bunkers-de-luxe",
-      "source": "France 24",
-      "date": "2026-11-14T11:16:25+01:00",
-      "resume": "Au Texas, certaines propriétés résidentielles intègrent désormais des équipements de sécurité sophistiqués, tels que des bunkers souterrains, des sas de décontamination, des tunnels ou encore des armureries. Ces installations témoignent de la popularité croissante des habitats fortifiés haut de gamme aux États-Unis.",
-      "contexte": "Ce phénomène immobilier reflète une tendance sociétale où une frange de la population aisée investit massivement dans des solutions d'autodéfense et de survie. Cela s'explique par la crainte croissante d'événements extrêmes ou de ruptures systémiques majeures.",
-      "image": "https://s.france24.com/media/display/6b53d38c-e012-11f1-9f12-3f371022a770/w:1024/p:16x9/FR-20261114-091435-091924-CS-01.jpg"
+      "titre": "Panne du système de communication, centaines de milliers de passagers touchés… Ce que l'on sait de la suspension massive et rarissime des vols aux Etats-Unis",
+      "lien": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-14T12:58:12+01:00",
+      "resume": "Vendredi, les vols ont été suspendus de manière massive et rarissime aux États-Unis, clouant les avions au sol pendant plusieurs heures et touchant des centaines de milliers de passagers. Les autorités ont attribué cette panne à un système de communication vétuste qui utilise encore des disquettes pour traiter des informations cruciales.",
+      "contexte": "L'utilisation de technologies obsolètes dans des infrastructures critiques expose les grands réseaux de transport à des risques majeurs de panne généralisée. Cet événement relance le débat sur la nécessité d'investir massivement dans la modernisation des systèmes informatiques et de communication de l'aviation civile américaine.",
+      "image": "https://www.franceinfo.fr/pictures/7vEV_ibLA2yVspHpNr___Wy_nI8/0x322:3088x2059/432x243/filters:format(jpg)/2026/11/14/6af8190e3c3b2960562574.jpg"
     },
     {
-      "titre": "Léon XIV retrouve le Pérou, sa \"seconde patrie\", pour achever sa tournée",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-l%C3%A9on-xiv-retrouve-le-p%C3%A9rou-sa-seconde-patrie-pour-achever-sa-tourn%C3%A9e",
-      "source": "France 24",
-      "date": "2026-11-14T11:14:31+01:00",
-      "resume": "Le pape Léon XIV a achevé sa tournée en Amérique latine par une dernière étape au Pérou, qualifié de 'seconde patrie' où il exerça autrefois comme évêque. Accueilli par une foule immense à Chiclayo, le souverain pontife effectue ce déplacement malgré les interrogations persistantes sur sa santé, un mois après l'annonce d'une opération liée à un cancer du poumon.",
-      "contexte": "Les voyages pontificaux dans des régions historiquement liées au parcours personnel du pape renforcent la proximité avec les fidèles locaux. La gestion de l'agenda papal face à des problèmes de santé constitue un sujet d'attention particulier pour le Vatican.",
-      "image": "https://s.france24.com/media/display/8c717fc4-e012-11f1-b8b7-5f54d898a954/w:1024/p:16x9/FR-20261114-100845-101035-CS.jpg"
+      "titre": "Microsoft annonce le rétablissement total de ses services après la panne mondiale survenue jeudi",
+      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/microsoft-annonce-le-retablissement-total-de-ses-services-apres-la-panne-mondiale-survenue-jeudi_8282405.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-14T12:40:27+01:00",
+      "resume": "Microsoft a annoncé le rétablissement total de ses services après une panne mondiale survenue jeudi. Cet incident informatique a paralysé pendant plus de 24 heures les communications en ligne de nombreuses entreprises, administrations et particuliers à travers le monde.",
+      "contexte": "La concentration des services numériques entre les mains de quelques géants technologiques rend l'économie mondiale particulièrement vulnérable aux pannes systémiques. Ce type d'incident souligne les risques liés à la dépendance numérique et la nécessité pour les organisations de renforcer leurs plans de continuité informatique.",
+      "image": "https://www.franceinfo.fr/pictures/F8ffafQj8ro7TyFgw5nUqrvF2fs/0x18:1024x594/432x243/filters:format(jpg)/2026/11/14/6af847c0ea645527696746.jpg"
     },
     {
-      "titre": "Au Tchad, la sécheresse fait craindre des poches de famine",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-au-tchad-la-s%C3%A9cheresse-fait-craindre-des-poches-de-famine",
-      "source": "France 24",
-      "date": "2026-11-14T11:13:09+01:00",
-      "resume": "Le Tchad subit une sécheresse sévère, considérée comme potentiellement la pire depuis plus de quarante ans, provoquée par un important déficit de pluies en 2026. Des organismes d'observation, des ONG et des habitants alertent sur le risque imminent de poches de famine dans plusieurs zones, en particulier dans l'est du pays.",
-      "contexte": "Les sécheresses prolongées dans la région du Sahel fragilisent durablement la sécurité alimentaire et les moyens de subsistance des populations rurales. L'objectif des alertes lancées par les organisations humanitaires est généralement de mobiliser rapidement une aide internationale pour éviter une crise humanitaire majeure.",
-      "image": "https://s.france24.com/media/display/1e672280-e013-11f1-b01c-f71d22e7fea9/w:1024/p:16x9/FR-20261114-101059-101308-CS-01.jpg"
+      "titre": "\"Fais-moi un signe\" : l'itinéraire escarpé d'un enfant entendant né de parents sourds",
+      "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/fais-moi-un-signe-l-itineraire-escarpe-d-un-enfant-entendant-ne-de-parents-sourds_8276465.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-14T12:40:27+01:00",
+      "resume": "La réalisatrice japonaise d'origine coréenne Mipo O sort un film intitulé 'Fais-moi un signe'. Le long-métrage retrace l'itinéraire escarpé d'un enfant entendant né de parents sourds, abordant les thèmes du monde des malentendants, de la différence et de la tolérance.",
+      "contexte": "Le cinéma est souvent utilisé comme un vecteur d'inclusion et de sensibilisation pour donner de la visibilité aux minorités et aux situations de handicap. Ce type d'œuvre contribue à faire évoluer le regard de la société sur le monde du silence et les dynamiques familiales spécifiques.",
+      "image": "https://www.franceinfo.fr/pictures/cJ6qMjdBysaxM583eKFnWruKOm8/0x19:1600x919/432x243/filters:format(jpg)/2026/11/10/6af33623ce7ec735994333.jpeg"
     },
     {
-      "titre": "La police française se dirige-t-elle vers une grève nationale ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-la-police-fran%C3%A7aise-se-dirige-t-elle-vers-une-gr%C3%A8ve-nationale",
-      "source": "France 24",
-      "date": "2026-11-14T11:10:25+01:00",
-      "resume": "Les représentants des forces de l'ordre en France réclament une revalorisation de 35 % de la prime de risque, sur fond de tensions persistantes concernant leurs conditions de travail et leur rémunération. Faute d'avancées jugées suffisantes de la part des autorités, la question d'un mouvement de grève nationale de la police est ouvertement posée.",
-      "contexte": "La contestation sociale au sein des services de police illustre le malaise chronique des professionnels du maintien de l'ordre face à l'augmentation de la charge de travail et aux risques encourus. Les menaces de grève dans les services régaliens constituent un défi politique sensible pour le gouvernement.",
-      "image": "https://s.france24.com/media/display/c6408e62-e011-11f1-9e18-5f54d898a954/w:1024/p:16x9/FR-20261114-100548-100656-CS.jpg"
+      "titre": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html",
+      "source": "Le Monde",
+      "date": "2026-11-14T12:36:44+01:00",
+      "resume": "Un décret publié samedi restreint la médecine esthétique à 30 % du temps de travail des médecins en France. De plus, les jeunes praticiens devront exercer pendant cinq ans dans leur spécialité d'origine avant d'intégrer la future formation dédiée, provoquant de vives réactions chez les généralistes et les dermatologues.",
+      "contexte": "Ce nouveau cadre réglementaire vise à encadrer la prolifération des actes esthétiques et à garantir que les professionnels privilégient leurs spécialités de santé conventionnelles. Les tensions entre impératifs de santé publique et attractivité financière de la médecine esthétique cristallisent régulièrement le mécontentement des praticiens.",
+      "image": "https://img.lemde.fr/2026/11/14/490/0/5000/2500/644/322/60/0/706215d_upload-1-izwlmlgcgg8o-000-nic6496778.jpg"
     },
     {
-      "titre": "La mégafusée Starship réussit partiellement son quinzième vol d'essai",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-la-m%C3%A9gafus%C3%A9e-starship-r%C3%A9ussit-partiellement-son-quinzi%C3%A8me-vol-d-essai",
-      "source": "France 24",
-      "date": "2026-11-14T11:08:12+01:00",
-      "resume": "L'entreprise SpaceX a procédé au quinzième vol d'essai de sa mégafusée Starship avec des objectifs particulièrement ambitieux. Si la récupération du premier étage a été volontairement abandonnée, celle du second étage était espérée, qualifiant l'ensemble du test de 'succès partiel' selon les experts du secteur spatial.",
-      "contexte": "La stratégie de développement de SpaceX repose sur des tests itératifs rapides permettant d'accumuler des données techniques pour fiabiliser ses lanceurs réutilisables. L'enjeu est de réduire considérablement les coûts d'accès à l'espace pour les futures missions lunaires et martiennes.",
-      "image": "https://s.france24.com/media/display/54c6eac0-e010-11f1-ad33-695cb59fade5/w:1024/p:16x9/FR-20261114-091120-091411-CS.jpg"
+      "titre": "La France interdit la pêche de loisir de l’anguille jaune, pour contrer l’effondrement de cette espèce",
+      "lien": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
+      "source": "Le Monde",
+      "date": "2026-11-14T12:33:09+01:00",
+      "resume": "La France a officiellement interdit la pêche de loisir de l'anguille jaune pour contrer l'effondrement de cette espèce menacée. En Europe, les populations d'anguilles ont diminué d'environ 90 % depuis les années 1980 et de plus de 99 % par rapport aux années 1960.",
+      "contexte": "Le déclin drastique de l'anguille européenne est attribué à la surpêche, à la pollution, au braconnage et à la fragmentation des cours d'eau par les barrages. Des restrictions strictes sont désormais indispensables pour tenter de préserver la biodiversité aquatique et permettre le renouvellement des stocks.",
+      "image": "https://img.lemde.fr/2026/11/14/291/0/3500/1750/644/322/60/0/0b2a7ad_upload-1-bvhlfsthpuyk-2013-11-03t120000z-2052904481-gm1e9b211ah01-rtrmadp-3-irish-eels.JPG"
+    },
+    {
+      "titre": "Emmanuel Macron est arrivé au Cambodge pour le sommet de la Francophonie",
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-est-arrive-au-cambodge-pour-le-sommet-de-la-francophonie_8282396.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-14T12:25:30+01:00",
+      "resume": "Le président français Emmanuel Macron est arrivé au Cambodge pour participer au XXe sommet de la Francophonie qui se tient dimanche et lundi. Il doit y signer une dizaine d'accords bilatéraux portant sur l'intelligence artificielle, l'énergie, la santé et le patrimoine.",
+      "contexte": "Ces sommets internationaux permettent à la France de renforcer ses liens diplomatiques et culturels avec les pays membres de l'Organisation internationale de la francophonie (OIF). La coopération dans des secteurs d'avenir comme l'IA et la transition énergétique constitue un enjeu majeur d'influence géopolitique.",
+      "image": "https://www.franceinfo.fr/pictures/GDEx5jJCC0uG-NUaDJ5NYvg5h-U/0x0:1024x576/432x243/filters:format(jpg)/2026/11/14/6af8450f339ae325866517.jpg"
+    },
+    {
+      "titre": "Guerre en Ukraine : les Etats-Unis ont proposé des concessions territoriales en échange d'une adhésion de Kiev à l'Otan, selon Volodymyr Zelensky",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-14T12:14:15+01:00",
+      "resume": "Le président ukrainien Volodymyr Zelensky a affirmé vendredi que les États-Unis avaient proposé des concessions territoriales en échange d'une adhésion de Kiev à l'OTAN. Il a également indiqué que son pays menait des pourparlers pour obtenir des garanties de sécurité spécifiques de la part de l'OTAN et de l'UE.",
+      "contexte": "Les discussions sur l'avenir territorial de l'Ukraine et son intégration au sein des structures euro-atlantiques se trouvent au cœur des tractations diplomatiques pour espérer mettre fin au conflit. Toute concession territoriale soulève des enjeux géopolitiques et juridiques majeurs pour la souveraineté ukrainienne et la sécurité européenne.",
+      "image": "https://www.franceinfo.fr/pictures/qKOKb50U-rV4sJ6hZHsGPL9W6mo/0x0:5396x3035/432x243/filters:format(jpg)/2026/11/14/6af83e0216aca168047724.jpg"
     }
   ],
   "culture": [
@@ -274,5 +292,118 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/SonneNebel.jpg/960px-SonneNebel.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "7dc84c192d",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quelle autoroute française devient gratuite à partir de lundi pour compenser la fermeture de l'A13 ?",
+      "choix": [
+        "L'autoroute A6",
+        "L'autoroute A14",
+        "L'autoroute A1",
+        "L'autoroute A10"
+      ],
+      "reponse": 1,
+      "explication": "L'article indique que c'est l'autoroute A14 vers la Normandie qui devient gratuite pour compenser la fermeture de l'A13.",
+      "lien": "https://www.franceinfo.fr/economie/transports/l-autoroute-a14-vers-la-normandie-gratuite-a-partir-de-lundi-pour-compenser-la-fermeture-de-l-a13_8282435.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/mj7Br2GNs9so22RrnCyZJmh3Dck/0x52:4300x2470/432x243/filters:format(jpg)/2026/11/14/6af8554fad7fb582553318.jpg"
+    },
+    {
+      "id": "772f4165b3",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "En Île-de-France, quel est le nom de la ligne de Transilien particulièrement touchée par des incidents en série en 2026 ?",
+      "choix": [
+        "La ligne R",
+        "La ligne J",
+        "La ligne H",
+        "La ligne L"
+      ],
+      "reponse": 1,
+      "explication": "L'article mentionne les 277 000 voyageurs quotidiens de la ligne J du Transilien en Île-de-France.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/14/en-ile-de-france-les-usagers-de-la-ligne-j-confrontes-a-des-incidents-en-serie-quand-il-y-a-des-suppressions-de-trains-je-ne-vois-pas-mes-enfants_6810247_3234.html",
+      "image": "https://img.lemde.fr/2026/11/06/750/0/5000/2500/644/322/60/0/035cf30_upload-1-n1go6zdjlojk-csharrock-ligne-j-7.jpg"
+    },
+    {
+      "id": "d51c6162d6",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel fruit français fait face à un important manque d'eau et à des calibres plus petits suite à la sécheresse ?",
+      "choix": [
+        "La pêche",
+        "La pomme",
+        "L'abricot",
+        "La poire"
+      ],
+      "reponse": 1,
+      "explication": "Le texte indique que les producteurs de pommes français font face à un important manque d'eau et récoltent des fruits plus petits.",
+      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/reportage-on-a-beaucoup-manque-d-eau-frappes-par-la-secheresse-les-producteurs-de-pommes-esperent-maintenir-leurs-prix-malgre-des-fruits-plus-petits_8281583.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/qZXuwcJtycembbbN4yO9KRi9-z4/0x260:4999x3072/432x243/filters:format(jpg)/2026/11/14/6af8521dad6c7563352006.jpg"
+    },
+    {
+      "id": "f29ffd6e67",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quelle technologie vétuste a été pointée du doigt lors de la panne massive des vols aux États-Unis ?",
+      "choix": [
+        "Des téléscripteurs",
+        "Des cassettes audio",
+        "Des bandes magnétiques",
+        "Des disquettes"
+      ],
+      "reponse": 3,
+      "explication": "L'article précise que les autorités ont attribué cette panne à un système de communication vétuste utilisant encore des disquettes.",
+      "lien": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/7vEV_ibLA2yVspHpNr___Wy_nI8/0x322:3088x2059/432x243/filters:format(jpg)/2026/11/14/6af8190e3c3b2960562574.jpg"
+    },
+    {
+      "id": "720fab73b4",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quelle espèce animale fait l'objet d'une interdiction de pêche de loisir en France pour contrer son effondrement ?",
+      "choix": [
+        "L'anguille jaune",
+        "L'esturgeon européen",
+        "Le saumon atlantique",
+        "La truite fario"
+      ],
+      "reponse": 0,
+      "explication": "L'article annonce que la France interdit officiellement la pêche de loisir de l'anguille jaune.",
+      "lien": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
+      "image": "https://img.lemde.fr/2026/11/14/291/0/3500/1750/644/322/60/0/0b2a7ad_upload-1-bvhlfsthpuyk-2013-11-03t120000z-2052904481-gm1e9b211ah01-rtrmadp-3-irish-eels.JPG"
+    },
+    {
+      "id": "c2e20821b0",
+      "date": "2026-11-14",
+      "type": "culture",
+      "question": "Combien de tâches ou travaux Héraclès a-t-il finalement dû accomplir pour expier son crime ?",
+      "choix": [
+        "Quinze",
+        "Douze",
+        "Dix",
+        "Vingt"
+      ],
+      "reponse": 1,
+      "explication": "La fiche indique que bien que condamné initialement à dix tâches, le nombre fut finalement porté à douze.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "38144f7d2d",
+      "date": "2026-11-14",
+      "type": "culture",
+      "question": "À l'origine, que désignait la « monnaie de singe » au Moyen Âge ?",
+      "choix": [
+        "Un spectacle divertissant offert en guise de péage",
+        "Une fausse pièce en bois",
+        "Une taxe sur le commerce de fourrure",
+        "Un impôt sur les animaux domestiques"
+      ],
+      "reponse": 0,
+      "explication": "La fiche explique que les artistes proposaient aux gardes un spectacle amusant réalisé par leur animal pour éviter de payer le droit de péage.",
+      "lien": "",
+      "image": ""
+    }
+  ]
 }
