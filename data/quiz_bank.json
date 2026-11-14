@@ -5722,6 +5722,118 @@
       "explication": "L'expression désigne aujourd'hui une promesse de paiement qui ne sera jamais tenue, en référence aux saltimbanques qui payaient les péages en spectacle.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "8ad3d3d575",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel est l'objectif principal de la fusée Starship développée par SpaceX ?",
+      "choix": [
+        "Effectuer des missions vers la Lune et Mars",
+        "Remplacer la Station spatiale internationale",
+        "Transporter des satellites de télécommunication",
+        "Nettoyer les débris spatiaux en orbite terrestre"
+      ],
+      "reponse": 0,
+      "explication": "Le texte indique que Starship est conçue comme la fusée la plus puissante jamais construite avec pour objectif des missions vers la Lune et Mars.",
+      "lien": "https://www.lemonde.fr/sciences/article/2026/11/14/spacex-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship-une-premiere_6810676_1650684.html",
+      "image": "https://img.lemde.fr/2026/11/14/272/0/3262/1631/644/322/60/0/e84e335_ftp-1-ch1h16d3p5w2-41e845decc8940e3a1fa041ed3642939-0-af13e9d47fab4bbbb18c3982377c9425.jpg"
+    },
+    {
+      "id": "9ae4888f6e",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel pays a enregistré la plus forte hausse des prix du logement par rapport aux revenus entre 2015 et 2025 au sein de l'UE ?",
+      "choix": [
+        "L'Italie",
+        "L'Espagne",
+        "La France",
+        "Le Portugal"
+      ],
+      "reponse": 3,
+      "explication": "L'article précise que le Portugal a enregistré la plus forte hausse de cet indicateur, avec une progression de 60,8 %.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html",
+      "image": "https://img.lemde.fr/2026/11/14/500/0/6000/3000/644/322/60/0/3cded0a_ftp-1-gqrbce5ibzka-2026-11-14t180626z-115271520-rc2snoayehf8-rtrmadp-3-portugal-housing-protest.JPG"
+    },
+    {
+      "id": "c76d57c164",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel poste Michel Destot a-t-il occupé pendant 19 ans ?",
+      "choix": [
+        "Maire de Grenoble",
+        "Président de l'Assemblée nationale",
+        "Ministre de l'Intérieur",
+        "Député de Paris"
+      ],
+      "reponse": 0,
+      "explication": "Michel Destot a été maire de Grenoble de 1995 à 2014, soit une période de 19 ans.",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/11/14/michel-destot-ancien-maire-ps-de-grenoble-et-depute-de-l-isere-est-mort_6810610_3382.html",
+      "image": "https://img.lemde.fr/2026/11/14/351/0/4212/2106/644/322/60/0/7f890ce_ftp-1-w0ui4cg5yomj-afp-d7h33kf.jpg"
+    },
+    {
+      "id": "4fbaa4672b",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Combien de personnes ont été touchées par le vol de données chez Maileva, filiale de La Poste ?",
+      "choix": [
+        "12 millions",
+        "22 millions",
+        "2,2 millions",
+        "42 millions"
+      ],
+      "reponse": 1,
+      "explication": "L'article mentionne explicitement que la cyberattaque a entraîné le vol de données concernant 22 millions de personnes.",
+      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/6fxqbg_sGbxMA2kXVTZy9MwF_gQ/0x557:5354x3569/432x243/filters:format(jpg)/2026/11/14/6af8b9d543bae768990004.jpg"
+    },
+    {
+      "id": "9819c01bb0",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel joueur a marqué le but de la victoire pour l'Algérie face au Togo ?",
+      "choix": [
+        "Mahrez",
+        "Bensebaïni",
+        "Slimani",
+        "Bennacer"
+      ],
+      "reponse": 1,
+      "explication": "Le résumé de l'article précise que la victoire 1-0 de l'Algérie a été obtenue grâce à un but de Bensebaïni en fin de match.",
+      "lien": "https://www.france24.com/fr/sports/20261114-%C3%A9liminatoires-de-la-can-2027-l-alg%C3%A9rie-cale-contre-le-togo-mais-reste-en-t%C3%AAte-de-son-groupe",
+      "image": ""
+    },
+    {
+      "id": "6dd38b01a0",
+      "date": "2026-11-14",
+      "type": "culture",
+      "question": "Quelle est l'origine historique de l'expression 'payer en monnaie de singe' ?",
+      "choix": [
+        "Le nom d'une fausse monnaie utilisée par les saltimbanques",
+        "Une ancienne coutume de troc dans les marchés orientaux",
+        "Une taxe médiévale payée par des spectacles d'animaux",
+        "Une blague faite par les rois de France à leurs sujets"
+      ],
+      "reponse": 2,
+      "explication": "Au Moyen Âge, les saltimbanques payaient le droit de passage des ponts en offrant un spectacle de singe plutôt qu'en argent.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "d1dbe844a9",
+      "date": "2026-11-14",
+      "type": "culture",
+      "question": "Quel phénomène physique explique la couleur bleue de certains yeux sans pigments bleus ?",
+      "choix": [
+        "La réfraction de la lumière",
+        "La diffraction de Bragg",
+        "La réflexion totale interne",
+        "L'effet Tyndall"
+      ],
+      "reponse": 3,
+      "explication": "L'effet Tyndall, qui diffuse les ondes lumineuses les plus courtes (le bleu), explique pourquoi certains yeux apparaissent bleus sans pigment.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
