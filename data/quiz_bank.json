@@ -5610,6 +5610,118 @@
       "explication": "La fiche explique que les artistes proposaient aux gardes un spectacle amusant réalisé par leur animal pour éviter de payer le droit de péage.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "3269402d66",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel dirigeant a affirmé que ceux qui veulent rationner l'aide à l'Ukraine veulent l'obliger à une paix injuste ?",
+      "choix": [
+        "Emmanuel Macron",
+        "Joe Biden",
+        "Donald Trump",
+        "Volodymyr Zelensky"
+      ],
+      "reponse": 0,
+      "explication": "Emmanuel Macron a déclaré que ceux qui souhaitent rationner l'aide à l'Ukraine cherchent à l'obliger à une paix injuste.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-affirme-que-ceux-qui-veulent-rationner-l-aide-a-l-ukraine-veulent-l-obliger-a-une-paix-injuste_8282819.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/okvxqkQX8MYl5fOMptq47nD0SIA/0x0:4452x2504/432x243/filters:format(jpg)/2026/11/14/6af8b6d12a35b449101827.jpg"
+    },
+    {
+      "id": "547dfa0946",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quelle équipe de média a été agressée en marge de la mobilisation du 14 novembre à Lyon ?",
+      "choix": [
+        "TF1",
+        "BFMTV",
+        "France 2",
+        "CNews"
+      ],
+      "reponse": 1,
+      "explication": "En marge des manifestations du 14 novembre, une équipe de BFMTV a été agressée à Lyon.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-14-novembre-une-equipe-de-bfmtv-agressee-en-marge-de-la-mobilisation-a-lyon_8282714.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/k2LzjsTz5MYldpDJoPw7BnoQ06Y/0x730:7008x4672/432x243/filters:format(jpg)/2026/11/14/6af89afb5293b276235078.jpg"
+    },
+    {
+      "id": "91d2507052",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel sportif a qualifié de « baiser empoisonné » les félicitations du chef de l'État pour sa candidature à la présidentielle ?",
+      "choix": [
+        "Antoine Dupont",
+        "Tony Parker",
+        "Kylian Mbappé",
+        "Teddy Riner"
+      ],
+      "reponse": 3,
+      "explication": "Le judoka Teddy Riner a qualifié de « baiser empoisonné » les félicitations du chef de l'État pour sa candidature à la présidentielle.",
+      "lien": "https://www.franceinfo.fr/elections/je-ne-suis-pas-un-macroniste-affirme-teddy-riner-qualifiant-les-felicitations-du-president-pour-sa-candidature-de-baiser-empoisonne_8282699.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/EEoo87i98fDOc2A3fRko0avAfoE/0x0:7222x4062/432x243/filters:format(jpg)/2026/11/14/6af8654a244bb615231570.jpg"
+    },
+    {
+      "id": "b525530bcb",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel pays a remporté la première édition du concours Eurovision d'Asie grâce à la chanteuse Carmelle ?",
+      "choix": [
+        "Le Japon",
+        "La Chine",
+        "La Corée du Sud",
+        "Les Philippines"
+      ],
+      "reponse": 3,
+      "explication": "La chanteuse Carmelle a offert la victoire aux Philippines lors de la première édition du concours Eurovision d'Asie.",
+      "lien": "https://www.franceinfo.fr/culture/musique/la-chanteuse-carmelle-offre-la-victoire-aux-philippines-pour-la-premiere-edition-du-concours-eurovision-d-asie_8282693.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/-U-mWLFXqZAC5qIMmYeVhw0WqMU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/14/6af89bdaece25288085006.jpg"
+    },
+    {
+      "id": "f3680ae641",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Dans quelle ville l'équipe de France de football affronte-t-elle la Turquie en Ligue des nations ?",
+      "choix": [
+        "Marseille",
+        "Lyon",
+        "Paris",
+        "Bordeaux"
+      ],
+      "reponse": 3,
+      "explication": "L'équipe de France affrontera la Turquie dimanche à Bordeaux en Ligue des nations.",
+      "lien": "https://www.france24.com/fr/sports/20261114-ligue-des-nations-france-vs-turquie",
+      "image": "https://s.france24.com/media/display/46a6fb20-e050-11f1-98c3-3f371022a770/w:1024/p:16x9/000-C9EB4KL.jpg"
+    },
+    {
+      "id": "2305b988ea",
+      "date": "2026-11-14",
+      "type": "culture",
+      "question": "À l'origine, combien de tâches Héraclès devait-il accomplir pour expier son crime avant que le nombre ne soit porté à douze ?",
+      "choix": [
+        "Dix",
+        "Huit",
+        "Quinze",
+        "Douze"
+      ],
+      "reponse": 0,
+      "explication": "Condamné à servir le roi Eurysthée, Héraclès dut initialement accomplir une série de dix tâches avant que le nombre ne soit porté à douze.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "d9488d2b1d",
+      "date": "2026-11-14",
+      "type": "culture",
+      "question": "Que désigne l'expression populaire « payer en monnaie de singe » aujourd'hui ?",
+      "choix": [
+        "Une promesse de paiement qui ne sera jamais tenue",
+        "Une taxe médiévale sur les animaux",
+        "Un achat très bon marché",
+        "Un paiement en espèces uniquement"
+      ],
+      "reponse": 0,
+      "explication": "L'expression désigne aujourd'hui une promesse de paiement qui ne sera jamais tenue, en référence aux saltimbanques qui payaient les péages en spectacle.",
+      "lien": "",
+      "image": ""
     }
   ]
 }

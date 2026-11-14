@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "mode": "evening",
-  "updated": "2026-11-14T13:55:12.235999+01:00",
+  "updated": "2026-11-14T20:40:43.677962+01:00",
   "deja_presente": [
     {
       "titre": "Guerre en Ukraine : Poutine, maître du jeu dans le processus de négociation ?",
@@ -161,112 +161,85 @@
   ],
   "aujourdhui": [
     {
-      "titre": "L'autoroute A14 vers la Normandie gratuite à partir de lundi pour compenser la fermeture de l'A13",
-      "lien": "https://www.franceinfo.fr/economie/transports/l-autoroute-a14-vers-la-normandie-gratuite-a-partir-de-lundi-pour-compenser-la-fermeture-de-l-a13_8282435.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-14T13:34:49+01:00",
-      "resume": "À partir de lundi, l'autoroute A14 vers la Normandie devient gratuite pour compenser la fermeture de l'A13. Le péage de Montesson dans les Yvelines sera gratuit en semaine dans le sens Paris-Normandie du 16 novembre au 31 août, et du 28 juin au 31 août dans le sens inverse.",
-      "contexte": "Cette mesure exceptionnelle vise à fluidifier le trafic routier et à limiter l'impact économique et logistique de la fermeture prolongée de l'A13 pour les automobilistes. Les fermetures d'axes majeurs s'expliquent généralement par des travaux de sécurisation ou des mouvements de terrain, entraînant d'importants reportages de circulation.",
-      "image": "https://www.franceinfo.fr/pictures/mj7Br2GNs9so22RrnCyZJmh3Dck/0x52:4300x2470/432x243/filters:format(jpg)/2026/11/14/6af8554fad7fb582553318.jpg"
+      "titre": "Emmanuel Macron affirme que \"ceux qui veulent rationner\" l'aide à l'Ukraine veulent \"l'obliger à une paix injuste\"",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-affirme-que-ceux-qui-veulent-rationner-l-aide-a-l-ukraine-veulent-l-obliger-a-une-paix-injuste_8282819.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde · franceinfo",
+      "date": "2026-11-14T20:31:20+01:00",
+      "resume": "Emmanuel Macron a déclaré que ceux qui souhaitent rationner l'aide à l'Ukraine cherchent à l'obliger à une paix injuste, tandis que Marine Le Pen propose de cesser cette aide financière après une période de six mois si elle est élue. De son côté, le président ukrainien Volodymyr Zelensky a affirmé que Washington avait proposé des concessions territoriales en échange d'une adhésion de l'Ukraine à l'Otan, à la suite de pourparlers à Abou Dhabi et de rencontres avec des dirigeants européens et des émissaires de Donald Trump.",
+      "contexte": "Ces déclarations et tractations diplomatiques s'inscrivent dans un contexte de forte incertitude concernant le soutien occidental à Kiev face à l'invasion russe débutée en 2022. Les divergences sur les conditions d'une éventuelle sortie de crise reflètent les enjeux géopolitiques majeurs liés à la sécurité européenne et à l'avenir territorial de l'Ukraine.",
+      "image": "https://www.franceinfo.fr/pictures/okvxqkQX8MYl5fOMptq47nD0SIA/0x0:4452x2504/432x243/filters:format(jpg)/2026/11/14/6af8b6d12a35b449101827.jpg"
     },
     {
-      "titre": "En Ile-de-France, les usagers de la ligne J confrontés à des incidents en série : « Quand il y a des suppressions de trains, je ne vois pas mes enfants »",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/14/en-ile-de-france-les-usagers-de-la-ligne-j-confrontes-a-des-incidents-en-serie-quand-il-y-a-des-suppressions-de-trains-je-ne-vois-pas-mes-enfants_6810247_3234.html",
+      "titre": "Manifestations du 14 novembre : une équipe de BFMTV agressée en marge de la mobilisation à Lyon",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-14-novembre-une-equipe-de-bfmtv-agressee-en-marge-de-la-mobilisation-a-lyon_8282714.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-14T20:22:47+01:00",
+      "resume": "En marge des manifestations du 14 novembre, une équipe de BFMTV a été agressée à Lyon, un acte condamné fermement par le préfet au nom de la liberté de la presse. Au niveau national, le ministère de l'Intérieur a indiqué que la mobilisation est restée globalement maîtrisée malgré 219 interpellations et 10 policiers légèrement blessés, tandis que la manifestation s'est déroulée sans incident à Paris.",
+      "contexte": "Ce type de mobilisation sociale et les tensions qui l'accompagnent illustrent les crispations politiques et le climat de contestation récurrent en France. La question du maintien de l'ordre et de la protection des journalistes lors des rassemblements demeure un sujet central pour les autorités et les observateurs démocratiques.",
+      "image": "https://www.franceinfo.fr/pictures/k2LzjsTz5MYldpDJoPw7BnoQ06Y/0x730:7008x4672/432x243/filters:format(jpg)/2026/11/14/6af89afb5293b276235078.jpg"
+    },
+    {
+      "titre": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
+      "lien": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
       "source": "Le Monde",
-      "date": "2026-11-14T13:26:59+01:00",
-      "resume": "Les 277 000 voyageurs quotidiens de la ligne J du Transilien en Île-de-France subissent des incidents en série en 2026. Cette situation, marquée par des caténaires arrachées et une crise des essieux, provoque des retards et des suppressions de trains répétés entre Paris-Saint-Lazare et les confins de la Normandie et des Hauts-de-France.",
-      "contexte": "La vétusté des infrastructures ferroviaires et le sous-investissement chronique dans les réseaux de transport du quotidien sont souvent pointés du poucier pour expliquer ces pannes à répétition. Ces perturbations chroniques pénalisent lourdement la vie quotidienne des usagers et soulèvent des questions récurrentes sur la fiabilité des services publics de transport.",
-      "image": "https://img.lemde.fr/2026/11/06/750/0/5000/2500/644/322/60/0/035cf30_upload-1-n1go6zdjlojk-csharrock-ligne-j-7.jpg"
+      "date": "2026-11-14T20:18:07+01:00",
+      "resume": "Près de 10 000 personnes ont défilé samedi à Antalya, en marge de la COP, sous une pluie fine et dans le calme, pour exprimer leur colère contre les atteintes à l'environnement. Les manifestants arboraient notamment une banderole proclamant « Contre la COP31, nous défendons la vie ! » pour critiquer l'action des dirigeants.",
+      "contexte": "Ces manifestations citoyennes traduisent la défiance croissante d'une partie de la population envers les négociations climatiques officielles, souvent jugées trop lentes ou infructueuses face à l'urgence écologique. L'objectif est généralement de faire pression sur les gouvernements et les acteurs économiques réunis lors de ces sommets internationaux.",
+      "image": "https://img.lemde.fr/2026/11/14/688/0/8256/4128/644/322/60/0/9b8ad04_ftp-1-iiy8vpuhmnv2-afp-d7g78xm.jpg"
     },
     {
-      "titre": "\"On a beaucoup manqué d'eau\" : frappés par la sécheresse, les producteurs de pommes espèrent maintenir leurs prix malgré des fruits plus petits",
-      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/reportage-on-a-beaucoup-manque-d-eau-frappes-par-la-secheresse-les-producteurs-de-pommes-esperent-maintenir-leurs-prix-malgre-des-fruits-plus-petits_8281583.html#xtor=RSS-3-[lestitres]",
+      "titre": "Après les élections, Benyamin Nétanyahou réaffirme que seul un gouvernement d'union nationale peut \"garantir la sécurité d'Israël\"",
+      "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/apres-les-elections-benyamin-netanyahou-reaffirme-que-seul-un-gouvernement-d-union-nationale-peut-garantir-la-securite-d-israel_8282762.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-14T13:21:34+01:00",
-      "resume": "Les producteurs de pommes français font face à un important manque d'eau en raison d'une sécheresse et d'un été caniculaire. Sur les étals, la plupart des fruits récoltés sont plus petits que d'habitude, mais les producteurs espèrent toutefois maintenir leurs prix.",
-      "contexte": "Le réchauffement climatique accentue la récurrence des épisodes de sécheresse et de canicule, pesant lourdement sur les rendements agricoles en Europe. Face à ces aléas climatiques, le secteur agricole cherche à adapter ses pratiques d'irrigation tout en maintenant des prix acceptables pour les consommateurs et rentables pour les exploitations.",
-      "image": "https://www.franceinfo.fr/pictures/qZXuwcJtycembbbN4yO9KRi9-z4/0x260:4999x3072/432x243/filters:format(jpg)/2026/11/14/6af8521dad6c7563352006.jpg"
+      "date": "2026-11-14T20:05:38+01:00",
+      "resume": "Après les élections, le Premier ministre israélien sortant Benyamin Nétanyahou a réaffirmé que seul un gouvernement d'union nationale pouvait garantir la sécurité d'Israël. Ce gouvernement prôné rassemblerait les principaux partis juifs sionistes de la droite au centre, tout en excluant les formations arabes israéliennes.",
+      "contexte": "Cette prise de position intervient dans un paysage politique israélien fragmenté, où la formation d'une coalition stable constitue un défi permanent. L'appel à l'union nationale est traditionnellement invoqué en période de crise sécuritaire pour élargir la base de soutien de l'exécutif.",
+      "image": "https://www.franceinfo.fr/pictures/EXI8ldz7TsM_Jpz6q-1UkLkSZIY/0x209:8192x4817/432x243/filters:format(jpg)/2026/11/14/6af8a365668d4807011478.jpg"
     },
     {
-      "titre": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html#xtor=RSS-3-[lestitres]",
+      "titre": "Des milliers de Portugais manifestent contre la crise du logement",
+      "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-14T13:03:26+01:00",
-      "resume": "Entre le 1er octobre et le début des mobilisations, la préfecture de police de Paris a pris 219 arrêtés administratifs. Ces mesures comprennent des interdictions de manifestations, des couvre-feux et des impositions de parcours hors des centres-villes face au mouvement lycéen et aux manifestations contre la vie chère.",
-      "contexte": "L'encadrement strict des manifestations par les autorités vise traditionnellement à prévenir les débordements et à garantir l'ordre public lors de mouvements sociaux d'envergure. Ces restrictions administratives font régulièrement l'objet de débats juridiques et politiques concernant l'équilibre entre le droit de manifester et la sécurité publique.",
-      "image": "https://www.franceinfo.fr/pictures/-TvsmB4XeLJ_KtApHrJmrHwpc_A/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af6cbdbef77c753960787.png"
+      "date": "2026-11-14T19:23:08+01:00",
+      "resume": "Des milliers de Portugais ont manifesté pour dénoncer la crise du logement qui touche le pays. Cette mobilisation fait suite à l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires.",
+      "contexte": "La hausse des prix de l'immobilier et des loyers, exacerbée par le tourisme de masse et les politiques d'attractivité pour les investisseurs étrangers, suscite de fortes tensions sociales dans les grandes villes du pays. Les réformes législatives cherchant à fluidifier le marché locatif se heurtent souvent à l'inquiétude des citoyens face à la précarité du logement.",
+      "image": "https://www.franceinfo.fr/pictures/wRFYlky8C6OjRIX3lS8LMBPl9Tg/0x625:6000x4000/432x243/filters:format(jpg)/2026/11/14/6af8a5a2e62f2110709803.jpg"
     },
     {
-      "titre": "Violences du 17 octobre : jusqu'à 500 millions d'euros de dégâts estimés par des assureurs",
-      "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-jusqu-a-500-millions-d-euros-de-degats-estimes-par-les-assureurs_8282438.html#xtor=RSS-3-[lestitres]",
+      "titre": "Présidentielle 2027 : Gérard Larcher veut réunir les candidats de droite et du centre pour arrêter \"une méthode de départage\" vers une candidature unique",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-14T13:02:41+01:00",
-      "resume": "Les assureurs estiment entre 500 millions et 1,2 milliard d'euros les dégâts causés lors des violences du 17 octobre. Le président du conseil d'administration de Covéa a jugé très élevé le chiffre de 1,2 milliard d'euros avancé par CCI France.",
-      "contexte": "L'évaluation précise des dommages matériels à la suite de troubles civils nécessite des expertises complexes menées par les compagnies d'assurance. Ces montants considérables ont un impact direct sur les cotisations d'assurance des professionnels et des collectivités locales situés dans les zones concernées.",
-      "image": "https://www.franceinfo.fr/pictures/AoqroToggFXQus4B_SDvfQn3We8/432x243/filters:format(jpg)/2026/10/19/6ad62d312a700783270468.jpg"
+      "date": "2026-11-14T18:59:14+01:00",
+      "resume": "Le président du Sénat Gérard Larcher a exprimé son souhait de réunir les candidats de droite et du centre, parmi lesquels Bruno Retailleau, David Lisnard, Gabriel Attal et Edouard Philippe, afin d'arrêter une méthode de départage en vue d'une candidature unique pour l'élection présidentielle de 2027.",
+      "contexte": "À l'approche du scrutin présidentiel, les différentes formations politiques cherchent à structurer leurs offres pour éviter l'asymétrie ou la division des voix au sein de leur camp. L'objectif de telles initiatives est généralement de bâtir un rapport de force favorable dès le premier tour en unissant les sensibilités politiques proches.",
+      "image": "https://www.franceinfo.fr/pictures/ZFbloxGYOGsripzqOyJ5fTZrw3c/0x209:8256x4853/432x243/filters:format(jpg)/2026/11/14/6af895ed8e3e6771761930.jpg"
     },
     {
-      "titre": "Panne du système de communication, centaines de milliers de passagers touchés… Ce que l'on sait de la suspension massive et rarissime des vols aux Etats-Unis",
-      "lien": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Je ne suis pas un macroniste\", affirme Teddy Riner, qualifiant de \"baiser empoisonné\" les félicitations du chef de l'Etat pour sa candidature à la présidentielle",
+      "lien": "https://www.franceinfo.fr/elections/je-ne-suis-pas-un-macroniste-affirme-teddy-riner-qualifiant-les-felicitations-du-president-pour-sa-candidature-de-baiser-empoisonne_8282699.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-14T12:58:12+01:00",
-      "resume": "Vendredi, les vols ont été suspendus de manière massive et rarissime aux États-Unis, clouant les avions au sol pendant plusieurs heures et touchant des centaines de milliers de passagers. Les autorités ont attribué cette panne à un système de communication vétuste qui utilise encore des disquettes pour traiter des informations cruciales.",
-      "contexte": "L'utilisation de technologies obsolètes dans des infrastructures critiques expose les grands réseaux de transport à des risques majeurs de panne généralisée. Cet événement relance le débat sur la nécessité d'investir massivement dans la modernisation des systèmes informatiques et de communication de l'aviation civile américaine.",
-      "image": "https://www.franceinfo.fr/pictures/7vEV_ibLA2yVspHpNr___Wy_nI8/0x322:3088x2059/432x243/filters:format(jpg)/2026/11/14/6af8190e3c3b2960562574.jpg"
+      "date": "2026-11-14T18:47:21+01:00",
+      "resume": "Le judoka Teddy Riner a qualifié de « baiser empoisonné » les félicitations du chef de l'État pour sa candidature à la présidentielle et a affirmé ne pas être macroniste. Son positionnement politique, qualifié de « ni de droite ni de gauche », l'a conduit à être présenté par certains commentateurs et concurrents comme un héritier d'Emmanuel Macron.",
+      "contexte": "L'entrée potentielle de personnalités issues de la société civile ou du sport dans le débat politique suscite régulièrement des interrogations sur leurs affiliations réelles et leur indépendance. Les figures publiques cherchent souvent à se distancier des étiquettes partisanes pour préserver leur capital de sympathie auprès du grand public.",
+      "image": "https://www.franceinfo.fr/pictures/EEoo87i98fDOc2A3fRko0avAfoE/0x0:7222x4062/432x243/filters:format(jpg)/2026/11/14/6af8654a244bb615231570.jpg"
     },
     {
-      "titre": "Microsoft annonce le rétablissement total de ses services après la panne mondiale survenue jeudi",
-      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/microsoft-annonce-le-retablissement-total-de-ses-services-apres-la-panne-mondiale-survenue-jeudi_8282405.html#xtor=RSS-3-[lestitres]",
+      "titre": "La chanteuse Carmelle offre la victoire aux Philippines pour la première édition du concours Eurovision d'Asie",
+      "lien": "https://www.franceinfo.fr/culture/musique/la-chanteuse-carmelle-offre-la-victoire-aux-philippines-pour-la-premiere-edition-du-concours-eurovision-d-asie_8282693.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-14T12:40:27+01:00",
-      "resume": "Microsoft a annoncé le rétablissement total de ses services après une panne mondiale survenue jeudi. Cet incident informatique a paralysé pendant plus de 24 heures les communications en ligne de nombreuses entreprises, administrations et particuliers à travers le monde.",
-      "contexte": "La concentration des services numériques entre les mains de quelques géants technologiques rend l'économie mondiale particulièrement vulnérable aux pannes systémiques. Ce type d'incident souligne les risques liés à la dépendance numérique et la nécessité pour les organisations de renforcer leurs plans de continuité informatique.",
-      "image": "https://www.franceinfo.fr/pictures/F8ffafQj8ro7TyFgw5nUqrvF2fs/0x18:1024x594/432x243/filters:format(jpg)/2026/11/14/6af847c0ea645527696746.jpg"
+      "date": "2026-11-14T18:44:43+01:00",
+      "resume": "La chanteuse Carmelle a offert la victoire aux Philippines lors de la première édition du concours Eurovision d'Asie. Contrairement à la version européenne gérée par des diffuseurs publics, cette compétition asiatique est pilotée par des chaînes de télévision privées et interdit aux spectateurs de voter pour leur propre pays.",
+      "contexte": "L'expansion du format Eurovision à l'échelle internationale illustre la volonté d'exporter des concepts de divertissement télévisuel à succès vers de nouveaux marchés régionaux. Cela s'inscrit dans une stratégie plus large de mondialisation des industries culturelles et de renforcement des échanges médiatiques en Asie.",
+      "image": "https://www.franceinfo.fr/pictures/-U-mWLFXqZAC5qIMmYeVhw0WqMU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/14/6af89bdaece25288085006.jpg"
     },
     {
-      "titre": "\"Fais-moi un signe\" : l'itinéraire escarpé d'un enfant entendant né de parents sourds",
-      "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/fais-moi-un-signe-l-itineraire-escarpe-d-un-enfant-entendant-ne-de-parents-sourds_8276465.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-14T12:40:27+01:00",
-      "resume": "La réalisatrice japonaise d'origine coréenne Mipo O sort un film intitulé 'Fais-moi un signe'. Le long-métrage retrace l'itinéraire escarpé d'un enfant entendant né de parents sourds, abordant les thèmes du monde des malentendants, de la différence et de la tolérance.",
-      "contexte": "Le cinéma est souvent utilisé comme un vecteur d'inclusion et de sensibilisation pour donner de la visibilité aux minorités et aux situations de handicap. Ce type d'œuvre contribue à faire évoluer le regard de la société sur le monde du silence et les dynamiques familiales spécifiques.",
-      "image": "https://www.franceinfo.fr/pictures/cJ6qMjdBysaxM583eKFnWruKOm8/0x19:1600x919/432x243/filters:format(jpg)/2026/11/10/6af33623ce7ec735994333.jpeg"
-    },
-    {
-      "titre": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-14T12:36:44+01:00",
-      "resume": "Un décret publié samedi restreint la médecine esthétique à 30 % du temps de travail des médecins en France. De plus, les jeunes praticiens devront exercer pendant cinq ans dans leur spécialité d'origine avant d'intégrer la future formation dédiée, provoquant de vives réactions chez les généralistes et les dermatologues.",
-      "contexte": "Ce nouveau cadre réglementaire vise à encadrer la prolifération des actes esthétiques et à garantir que les professionnels privilégient leurs spécialités de santé conventionnelles. Les tensions entre impératifs de santé publique et attractivité financière de la médecine esthétique cristallisent régulièrement le mécontentement des praticiens.",
-      "image": "https://img.lemde.fr/2026/11/14/490/0/5000/2500/644/322/60/0/706215d_upload-1-izwlmlgcgg8o-000-nic6496778.jpg"
-    },
-    {
-      "titre": "La France interdit la pêche de loisir de l’anguille jaune, pour contrer l’effondrement de cette espèce",
-      "lien": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
-      "source": "Le Monde",
-      "date": "2026-11-14T12:33:09+01:00",
-      "resume": "La France a officiellement interdit la pêche de loisir de l'anguille jaune pour contrer l'effondrement de cette espèce menacée. En Europe, les populations d'anguilles ont diminué d'environ 90 % depuis les années 1980 et de plus de 99 % par rapport aux années 1960.",
-      "contexte": "Le déclin drastique de l'anguille européenne est attribué à la surpêche, à la pollution, au braconnage et à la fragmentation des cours d'eau par les barrages. Des restrictions strictes sont désormais indispensables pour tenter de préserver la biodiversité aquatique et permettre le renouvellement des stocks.",
-      "image": "https://img.lemde.fr/2026/11/14/291/0/3500/1750/644/322/60/0/0b2a7ad_upload-1-bvhlfsthpuyk-2013-11-03t120000z-2052904481-gm1e9b211ah01-rtrmadp-3-irish-eels.JPG"
-    },
-    {
-      "titre": "Emmanuel Macron est arrivé au Cambodge pour le sommet de la Francophonie",
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-est-arrive-au-cambodge-pour-le-sommet-de-la-francophonie_8282396.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-14T12:25:30+01:00",
-      "resume": "Le président français Emmanuel Macron est arrivé au Cambodge pour participer au XXe sommet de la Francophonie qui se tient dimanche et lundi. Il doit y signer une dizaine d'accords bilatéraux portant sur l'intelligence artificielle, l'énergie, la santé et le patrimoine.",
-      "contexte": "Ces sommets internationaux permettent à la France de renforcer ses liens diplomatiques et culturels avec les pays membres de l'Organisation internationale de la francophonie (OIF). La coopération dans des secteurs d'avenir comme l'IA et la transition énergétique constitue un enjeu majeur d'influence géopolitique.",
-      "image": "https://www.franceinfo.fr/pictures/GDEx5jJCC0uG-NUaDJ5NYvg5h-U/0x0:1024x576/432x243/filters:format(jpg)/2026/11/14/6af8450f339ae325866517.jpg"
-    },
-    {
-      "titre": "Guerre en Ukraine : les Etats-Unis ont proposé des concessions territoriales en échange d'une adhésion de Kiev à l'Otan, selon Volodymyr Zelensky",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-14T12:14:15+01:00",
-      "resume": "Le président ukrainien Volodymyr Zelensky a affirmé vendredi que les États-Unis avaient proposé des concessions territoriales en échange d'une adhésion de Kiev à l'OTAN. Il a également indiqué que son pays menait des pourparlers pour obtenir des garanties de sécurité spécifiques de la part de l'OTAN et de l'UE.",
-      "contexte": "Les discussions sur l'avenir territorial de l'Ukraine et son intégration au sein des structures euro-atlantiques se trouvent au cœur des tractations diplomatiques pour espérer mettre fin au conflit. Toute concession territoriale soulève des enjeux géopolitiques et juridiques majeurs pour la souveraineté ukrainienne et la sécurité européenne.",
-      "image": "https://www.franceinfo.fr/pictures/qKOKb50U-rV4sJ6hZHsGPL9W6mo/0x0:5396x3035/432x243/filters:format(jpg)/2026/11/14/6af83e0216aca168047724.jpg"
+      "titre": "Ligue des nations : face à la Turquie, Mbappé et les Bleus en mission pour la qualification",
+      "lien": "https://www.france24.com/fr/sports/20261114-ligue-des-nations-france-vs-turquie",
+      "source": "France 24",
+      "date": "2026-11-14T18:40:46+01:00",
+      "resume": "L'équipe de France de football affrontera la Turquie dimanche à Bordeaux en Ligue des nations pour tenter de décrocher sa qualification en quarts de finale, après avoir été renversée par l'Italie à Milan. Malgré de nombreuses absences en défense, le sélectionneur Zinédine Zidane devrait pouvoir compter sur le retour de son capitaine Kylian Mbappé pour retrouver des certitudes.",
+      "contexte": "Cette rencontre de phase de groupes constitue un enjeu sportif important pour les Bleus dans le cadre d'une compétition européenne exigeante. La gestion des effectifs et le retour de cadres blessés ou suspendus sont essentiels pour maintenir la compétitivité de l'équipe au plus haut niveau international.",
+      "image": "https://s.france24.com/media/display/46a6fb20-e050-11f1-98c3-3f371022a770/w:1024/p:16x9/000-C9EB4KL.jpg"
     }
   ],
   "culture": [
@@ -294,114 +267,114 @@
   ],
   "quiz_jour": [
     {
-      "id": "7dc84c192d",
+      "id": "3269402d66",
       "date": "2026-11-14",
       "type": "actu",
-      "question": "Quelle autoroute française devient gratuite à partir de lundi pour compenser la fermeture de l'A13 ?",
+      "question": "Quel dirigeant a affirmé que ceux qui veulent rationner l'aide à l'Ukraine veulent l'obliger à une paix injuste ?",
       "choix": [
-        "L'autoroute A6",
-        "L'autoroute A14",
-        "L'autoroute A1",
-        "L'autoroute A10"
-      ],
-      "reponse": 1,
-      "explication": "L'article indique que c'est l'autoroute A14 vers la Normandie qui devient gratuite pour compenser la fermeture de l'A13.",
-      "lien": "https://www.franceinfo.fr/economie/transports/l-autoroute-a14-vers-la-normandie-gratuite-a-partir-de-lundi-pour-compenser-la-fermeture-de-l-a13_8282435.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/mj7Br2GNs9so22RrnCyZJmh3Dck/0x52:4300x2470/432x243/filters:format(jpg)/2026/11/14/6af8554fad7fb582553318.jpg"
-    },
-    {
-      "id": "772f4165b3",
-      "date": "2026-11-14",
-      "type": "actu",
-      "question": "En Île-de-France, quel est le nom de la ligne de Transilien particulièrement touchée par des incidents en série en 2026 ?",
-      "choix": [
-        "La ligne R",
-        "La ligne J",
-        "La ligne H",
-        "La ligne L"
-      ],
-      "reponse": 1,
-      "explication": "L'article mentionne les 277 000 voyageurs quotidiens de la ligne J du Transilien en Île-de-France.",
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/14/en-ile-de-france-les-usagers-de-la-ligne-j-confrontes-a-des-incidents-en-serie-quand-il-y-a-des-suppressions-de-trains-je-ne-vois-pas-mes-enfants_6810247_3234.html",
-      "image": "https://img.lemde.fr/2026/11/06/750/0/5000/2500/644/322/60/0/035cf30_upload-1-n1go6zdjlojk-csharrock-ligne-j-7.jpg"
-    },
-    {
-      "id": "d51c6162d6",
-      "date": "2026-11-14",
-      "type": "actu",
-      "question": "Quel fruit français fait face à un important manque d'eau et à des calibres plus petits suite à la sécheresse ?",
-      "choix": [
-        "La pêche",
-        "La pomme",
-        "L'abricot",
-        "La poire"
-      ],
-      "reponse": 1,
-      "explication": "Le texte indique que les producteurs de pommes français font face à un important manque d'eau et récoltent des fruits plus petits.",
-      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/reportage-on-a-beaucoup-manque-d-eau-frappes-par-la-secheresse-les-producteurs-de-pommes-esperent-maintenir-leurs-prix-malgre-des-fruits-plus-petits_8281583.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/qZXuwcJtycembbbN4yO9KRi9-z4/0x260:4999x3072/432x243/filters:format(jpg)/2026/11/14/6af8521dad6c7563352006.jpg"
-    },
-    {
-      "id": "f29ffd6e67",
-      "date": "2026-11-14",
-      "type": "actu",
-      "question": "Quelle technologie vétuste a été pointée du doigt lors de la panne massive des vols aux États-Unis ?",
-      "choix": [
-        "Des téléscripteurs",
-        "Des cassettes audio",
-        "Des bandes magnétiques",
-        "Des disquettes"
-      ],
-      "reponse": 3,
-      "explication": "L'article précise que les autorités ont attribué cette panne à un système de communication vétuste utilisant encore des disquettes.",
-      "lien": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/7vEV_ibLA2yVspHpNr___Wy_nI8/0x322:3088x2059/432x243/filters:format(jpg)/2026/11/14/6af8190e3c3b2960562574.jpg"
-    },
-    {
-      "id": "720fab73b4",
-      "date": "2026-11-14",
-      "type": "actu",
-      "question": "Quelle espèce animale fait l'objet d'une interdiction de pêche de loisir en France pour contrer son effondrement ?",
-      "choix": [
-        "L'anguille jaune",
-        "L'esturgeon européen",
-        "Le saumon atlantique",
-        "La truite fario"
+        "Emmanuel Macron",
+        "Joe Biden",
+        "Donald Trump",
+        "Volodymyr Zelensky"
       ],
       "reponse": 0,
-      "explication": "L'article annonce que la France interdit officiellement la pêche de loisir de l'anguille jaune.",
-      "lien": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
-      "image": "https://img.lemde.fr/2026/11/14/291/0/3500/1750/644/322/60/0/0b2a7ad_upload-1-bvhlfsthpuyk-2013-11-03t120000z-2052904481-gm1e9b211ah01-rtrmadp-3-irish-eels.JPG"
+      "explication": "Emmanuel Macron a déclaré que ceux qui souhaitent rationner l'aide à l'Ukraine cherchent à l'obliger à une paix injuste.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-affirme-que-ceux-qui-veulent-rationner-l-aide-a-l-ukraine-veulent-l-obliger-a-une-paix-injuste_8282819.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/okvxqkQX8MYl5fOMptq47nD0SIA/0x0:4452x2504/432x243/filters:format(jpg)/2026/11/14/6af8b6d12a35b449101827.jpg"
     },
     {
-      "id": "c2e20821b0",
+      "id": "547dfa0946",
       "date": "2026-11-14",
-      "type": "culture",
-      "question": "Combien de tâches ou travaux Héraclès a-t-il finalement dû accomplir pour expier son crime ?",
+      "type": "actu",
+      "question": "Quelle équipe de média a été agressée en marge de la mobilisation du 14 novembre à Lyon ?",
       "choix": [
-        "Quinze",
-        "Douze",
-        "Dix",
-        "Vingt"
+        "TF1",
+        "BFMTV",
+        "France 2",
+        "CNews"
       ],
       "reponse": 1,
-      "explication": "La fiche indique que bien que condamné initialement à dix tâches, le nombre fut finalement porté à douze.",
+      "explication": "En marge des manifestations du 14 novembre, une équipe de BFMTV a été agressée à Lyon.",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-14-novembre-une-equipe-de-bfmtv-agressee-en-marge-de-la-mobilisation-a-lyon_8282714.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/k2LzjsTz5MYldpDJoPw7BnoQ06Y/0x730:7008x4672/432x243/filters:format(jpg)/2026/11/14/6af89afb5293b276235078.jpg"
+    },
+    {
+      "id": "91d2507052",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel sportif a qualifié de « baiser empoisonné » les félicitations du chef de l'État pour sa candidature à la présidentielle ?",
+      "choix": [
+        "Antoine Dupont",
+        "Tony Parker",
+        "Kylian Mbappé",
+        "Teddy Riner"
+      ],
+      "reponse": 3,
+      "explication": "Le judoka Teddy Riner a qualifié de « baiser empoisonné » les félicitations du chef de l'État pour sa candidature à la présidentielle.",
+      "lien": "https://www.franceinfo.fr/elections/je-ne-suis-pas-un-macroniste-affirme-teddy-riner-qualifiant-les-felicitations-du-president-pour-sa-candidature-de-baiser-empoisonne_8282699.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/EEoo87i98fDOc2A3fRko0avAfoE/0x0:7222x4062/432x243/filters:format(jpg)/2026/11/14/6af8654a244bb615231570.jpg"
+    },
+    {
+      "id": "b525530bcb",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Quel pays a remporté la première édition du concours Eurovision d'Asie grâce à la chanteuse Carmelle ?",
+      "choix": [
+        "Le Japon",
+        "La Chine",
+        "La Corée du Sud",
+        "Les Philippines"
+      ],
+      "reponse": 3,
+      "explication": "La chanteuse Carmelle a offert la victoire aux Philippines lors de la première édition du concours Eurovision d'Asie.",
+      "lien": "https://www.franceinfo.fr/culture/musique/la-chanteuse-carmelle-offre-la-victoire-aux-philippines-pour-la-premiere-edition-du-concours-eurovision-d-asie_8282693.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/-U-mWLFXqZAC5qIMmYeVhw0WqMU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/14/6af89bdaece25288085006.jpg"
+    },
+    {
+      "id": "f3680ae641",
+      "date": "2026-11-14",
+      "type": "actu",
+      "question": "Dans quelle ville l'équipe de France de football affronte-t-elle la Turquie en Ligue des nations ?",
+      "choix": [
+        "Marseille",
+        "Lyon",
+        "Paris",
+        "Bordeaux"
+      ],
+      "reponse": 3,
+      "explication": "L'équipe de France affrontera la Turquie dimanche à Bordeaux en Ligue des nations.",
+      "lien": "https://www.france24.com/fr/sports/20261114-ligue-des-nations-france-vs-turquie",
+      "image": "https://s.france24.com/media/display/46a6fb20-e050-11f1-98c3-3f371022a770/w:1024/p:16x9/000-C9EB4KL.jpg"
+    },
+    {
+      "id": "2305b988ea",
+      "date": "2026-11-14",
+      "type": "culture",
+      "question": "À l'origine, combien de tâches Héraclès devait-il accomplir pour expier son crime avant que le nombre ne soit porté à douze ?",
+      "choix": [
+        "Dix",
+        "Huit",
+        "Quinze",
+        "Douze"
+      ],
+      "reponse": 0,
+      "explication": "Condamné à servir le roi Eurysthée, Héraclès dut initialement accomplir une série de dix tâches avant que le nombre ne soit porté à douze.",
       "lien": "",
       "image": ""
     },
     {
-      "id": "38144f7d2d",
+      "id": "d9488d2b1d",
       "date": "2026-11-14",
       "type": "culture",
-      "question": "À l'origine, que désignait la « monnaie de singe » au Moyen Âge ?",
+      "question": "Que désigne l'expression populaire « payer en monnaie de singe » aujourd'hui ?",
       "choix": [
-        "Un spectacle divertissant offert en guise de péage",
-        "Une fausse pièce en bois",
-        "Une taxe sur le commerce de fourrure",
-        "Un impôt sur les animaux domestiques"
+        "Une promesse de paiement qui ne sera jamais tenue",
+        "Une taxe médiévale sur les animaux",
+        "Un achat très bon marché",
+        "Un paiement en espèces uniquement"
       ],
       "reponse": 0,
-      "explication": "La fiche explique que les artistes proposaient aux gardes un spectacle amusant réalisé par leur animal pour éviter de payer le droit de péage.",
+      "explication": "L'expression désigne aujourd'hui une promesse de paiement qui ne sera jamais tenue, en référence aux saltimbanques qui payaient les péages en spectacle.",
       "lien": "",
       "image": ""
     }
