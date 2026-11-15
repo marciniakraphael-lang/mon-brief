@@ -5834,6 +5834,118 @@
       "explication": "L'effet Tyndall, qui diffuse les ondes lumineuses les plus courtes (le bleu), explique pourquoi certains yeux apparaissent bleus sans pigment.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "9c61445f4d",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "D'après Volodymyr Zelensky, quelle concession territoriale les États-Unis auraient-ils suggérée à l'Ukraine en échange d'une adhésion à l'OTAN ?",
+      "choix": [
+        "Le retrait des forces ukrainiennes du Donbass",
+        "La cession de la région d'Odessa",
+        "L'abandon de la Crimée",
+        "Le partage de la région de Zaporijjia"
+      ],
+      "reponse": 0,
+      "explication": "Selon le président ukrainien, les États-Unis auraient envisagé un retrait des troupes ukrainiennes du Donbass en contrepartie d'une adhésion à l'OTAN.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-etats-unis-auraient-propose-un-retrait-ukrainien-du-donbass-en-echange-d-une-adhesion-a-l-otan_8283569.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/EYv65smPSvVe1vaMiE-GKT4w3oI/25x0:1579x874/432x243/filters:format(jpg)/2026/11/15/6af9aed3f16de590289874.png"
+    },
+    {
+      "id": "8b941d0dd0",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Quel est le nom de l'appareil conçu par l'entreprise Skyfall pour évacuer les soldats ukrainiens blessés sur le front ?",
+      "choix": [
+        "Stargate",
+        "Pegasus",
+        "Valkyrie",
+        "Hermès"
+      ],
+      "reponse": 0,
+      "explication": "L'entreprise Skyfall a développé le drone baptisé « Stargate » pour secourir et évacuer les blessés situés dans des zones de combat inaccessibles aux véhicules terrestres.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-guerre-en-ukraine-des-drones-%C3%A9vacuent-les-soldats-bless%C3%A9s-du-front",
+      "image": "https://s.france24.com/media/display/2aa85db6-e0f4-11f1-9bcb-695cb59fade5/w:1024/p:16x9/capture-e17a3120.jpg"
+    },
+    {
+      "id": "5b2edcf6c8",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Quel pays a remporté la toute première édition asiatique du Concours Eurovision de la chanson ?",
+      "choix": [
+        "Les Philippines",
+        "La Thaïlande",
+        "La Corée du Sud",
+        "Le Japon"
+      ],
+      "reponse": 0,
+      "explication": "La représentante des Philippines, Carmelle, s'est imposée face à dix autres candidats lors de la finale organisée à Bangkok.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-les-philippines-remportent-la-premi%C3%A8re-%C3%A9dition-de-l-eurovision-en-asie",
+      "image": "https://s.france24.com/media/display/634311b2-e0f3-11f1-b986-f71d22e7fea9/w:1024/p:16x9/FR-20261115-132509-132641-CS.jpg"
+    },
+    {
+      "id": "db0ac6f9cc",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "En vue de l'élection présidentielle de 2027, en faveur de quelle personnalité Sandrine Rousseau a-t-elle proposé le ralliement de sa formation ?",
+      "choix": [
+        "Jean-Luc Mélenchon",
+        "Fabien Roussel",
+        "Olivier Faure",
+        "François Ruffin"
+      ],
+      "reponse": 0,
+      "explication": "Sandrine Rousseau a appelé la cheffe de file écologiste Marine Tondelier à se retirer et a souhaité un ralliement de son parti derrière Jean-Luc Mélenchon.",
+      "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/cKE1utItNKKzOE1K6TFJ-eP6_Ek/0x200:3844x2362/432x243/filters:format(jpg)/2026/11/15/6af99a15667d0353614785.jpg"
+    },
+    {
+      "id": "e17edfac73",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Dans les Deux-Sèvres, quel site emblématique de contestation contre les réserves d'eau doit être rejoint lors de la mobilisation du 29 novembre ?",
+      "choix": [
+        "Notre-Dame-des-Landes",
+        "Mauzé-sur-le-Mignon",
+        "Sivens",
+        "Sainte-Soline"
+      ],
+      "reponse": 3,
+      "explication": "Le collectif Bassines Non Merci a appelé à converger vers le site de Sainte-Soline le 29 novembre, au départ d'Azay-le-Brûlé.",
+      "lien": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/megabassine/megabassine-de-sainte-soline/dans-les-deux-sevres-le-collectif-bassines-non-merci-appelle-a-un-nouveau-rassemblement-pour-rejoindre-le-site-de-sainte-soline-le-29-novembre_8283479.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/AbZ-sV1hm-JgpnEIA6W188utYU4/0x634:12183x7487/432x243/filters:format(jpg)/2026/11/15/6af996e55eb56288900537.jpg"
+    },
+    {
+      "id": "fee8528228",
+      "date": "2026-11-15",
+      "type": "culture",
+      "question": "Quel poète français a été brièvement soupçonné et incarcéré à tort en 1911 lors du vol de La Joconde au musée du Louvre ?",
+      "choix": [
+        "Paul Éluard",
+        "Guillaume Apollinaire",
+        "Louis Aragon",
+        "Arthur Rimbaud"
+      ],
+      "reponse": 1,
+      "explication": "Guillaume Apollinaire figurait parmi les personnes soupçonnées à tort de la disparition du chef-d'œuvre de Léonard de Vinci, dérobé en réalité par Vincenzo Peruggia.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "1c82aa34a5",
+      "date": "2026-11-15",
+      "type": "culture",
+      "question": "Quel produit inhabituel a été au cœur de la première bulle spéculative majeure de l'histoire moderne aux Pays-Bas au XVIIe siècle ?",
+      "choix": [
+        "Les fèves de cacao",
+        "Les bulbes de tulipes",
+        "Les toiles de lin",
+        "Les épices de Java"
+      ],
+      "reponse": 1,
+      "explication": "La « tulipomanie » a vu le cours des bulbes de tulipes flamber à des niveaux exorbitants avant l'éclatement brutal de la bulle financière en 1637.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
