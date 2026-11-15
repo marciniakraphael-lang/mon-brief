@@ -5946,6 +5946,118 @@
       "explication": "La « tulipomanie » a vu le cours des bulbes de tulipes flamber à des niveaux exorbitants avant l'éclatement brutal de la bulle financière en 1637.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "aff2db3cf8",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Contre quelle sélection l'équipe de France de football dispute-t-elle à Bordeaux un match décisif de la Ligue des nations ?",
+      "choix": [
+        "La Turquie",
+        "L'Italie",
+        "L'Espagne",
+        "L'Allemagne"
+      ],
+      "reponse": 0,
+      "explication": "Les Bleus affrontent la Turquie dimanche soir à Bordeaux pour tenter de décrocher leur qualification pour les quarts de finale de la Ligue des nations.",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/SVGGzkf8qeITDE4M6NHF3ePxrZY/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/15/6afa0dcab052d335573721.jpg"
+    },
+    {
+      "id": "e73ddece62",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Dans les Yvelines, quelle somme en bitcoins a été extorquée à un couple séquestré à son domicile du Chesnay ?",
+      "choix": [
+        "250 000 euros",
+        "1,5 million d'euros",
+        "900 000 euros",
+        "500 000 euros"
+      ],
+      "reponse": 2,
+      "explication": "Lors de leur agression au Chesnay, les victimes ont été forcées de transférer l'équivalent de 900 000 euros en bitcoins aux ravisseurs.",
+      "lien": "https://www.franceinfo.fr/economie/bitcoin/un-homme-a-ete-mis-en-examen-et-ecroue-dans-les-yvelines-apres-un-crypto-rapt-a-900-000-euros_8283848.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/iueJD08ZD8ynzE2K33CsCWr_-44/0x525:5049x3366/432x243/filters:format(jpg)/2026/11/15/6afa06e53491c995394724.jpg"
+    },
+    {
+      "id": "cd4d3b4962",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Pour quel motif l'Estonie a-t-elle annoncé la fermeture de ses postes-frontières avec la Russie à compter du 1er décembre ?",
+      "choix": [
+        "Une tentative de sabotage attribuée au renseignement militaire russe",
+        "Un afflux soudain de réfugiés sans papiers",
+        "Une cyberattaque massive contre les banques du pays",
+        "Une violation répétée de son espace aérien"
+      ],
+      "reponse": 0,
+      "explication": "Tallinn justifie cette fermeture par des preuves impliquant le renseignement militaire russe dans une tentative de sabotage ciblant une entreprise estonienne de défense.",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html",
+      "image": "https://img.lemde.fr/2026/11/15/466/0/5594/2797/644/322/60/0/3164fa6_ftp-1-z4nohdriwulp-afp-d7jh89e.jpg"
+    },
+    {
+      "id": "5a248fc7af",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Au Yémen, autour de quelle ville le gouvernement a-t-il rassemblé des renforts face à l'avancée des rebelles houthis ?",
+      "choix": [
+        "Aden",
+        "Sanaa",
+        "Hodeïda",
+        "Taëz"
+      ],
+      "reponse": 0,
+      "explication": "Le camp gouvernemental yéménite renforce ses positions autour de la ville portuaire d'Aden, où les autorités reconnues s'étaient repliées en 2014.",
+      "lien": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/YnkGcsVEwbbB3p1Ko0XKXU59H4I/0x154:3410x2072/432x243/filters:format(jpg)/2026/11/15/6af9fdc946b93220733926.jpg"
+    },
+    {
+      "id": "f997d95089",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Aux États-Unis, quel secteur de transport a été paralysé par des milliers d'annulations en l'espace de quelques jours ?",
+      "choix": [
+        "Le fret maritime",
+        "Les réseaux de bus interurbains",
+        "Le transport aérien",
+        "Le transport ferroviaire"
+      ],
+      "reponse": 2,
+      "explication": "Plus de 18 000 vols avaient déjà été supprimés en quelques jours avant que 1 500 nouvelles annulations ne s'ajoutent le dimanche matin aux États-Unis.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/15/suspension-des-vols-aux-etats-unis-retour-a-la-normale-du-trafic-aerien-espere-lundi-donald-trump-qualifie-la-gestion-de-l-aviation-par-joe-biden-de-desastre_6811046_3210.html",
+      "image": "https://img.lemde.fr/2026/11/14/670/0/8039/4019/644/322/60/0/28f1ca0_ftp-1-zuguxsdc5pw3-afp-d7h72vm.jpg"
+    },
+    {
+      "id": "2aa792e853",
+      "date": "2026-11-15",
+      "type": "culture",
+      "question": "Quel poète français a été soupçonné et arrêté à tort après la disparition de La Joconde au musée du Louvre en 1911 ?",
+      "choix": [
+        "Arthur Rimbaud",
+        "Guillaume Apollinaire",
+        "André Breton",
+        "Paul Valéry"
+      ],
+      "reponse": 1,
+      "explication": "Durant l'enquête sur le vol du tableau par Vincenzo Peruggia, le poète Guillaume Apollinaire figurait parmi les innocents suspectés à tort par la police.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "afecb12d07",
+      "date": "2026-11-15",
+      "type": "culture",
+      "question": "D'où provenaient les bulbes de tulipes introduits aux Pays-Bas au XVIIe siècle, à l'origine d'une célèbre bulle spéculative ?",
+      "choix": [
+        "De l'Empire ottoman",
+        "Du Nouveau Monde",
+        "De Perse",
+        "Du Japon"
+      ],
+      "reponse": 0,
+      "explication": "Les tulipes, dont les prix ont grimpé de manière irrationnelle jusqu'au krach de 1637, avaient été récemment introduites aux Pays-Bas depuis l'Empire ottoman.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
