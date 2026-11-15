@@ -6058,6 +6058,118 @@
       "explication": "Les tulipes, dont les prix ont grimpé de manière irrationnelle jusqu'au krach de 1637, avaient été récemment introduites aux Pays-Bas depuis l'Empire ottoman.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "539492e0c4",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Contre quelle équipe de football la France s'est-elle imposée 2 buts à 1 pour se qualifier en quarts de finale de la Ligue des nations ?",
+      "choix": [
+        "La Belgique",
+        "L'Italie",
+        "L'Espagne",
+        "La Turquie"
+      ],
+      "reponse": 3,
+      "explication": "L'équipe de France a battu la Turquie 2-1 à Bordeaux, décrochant la première place de son groupe et sa qualification pour les quarts de finale.",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-s-impose-face-a-la-turquie-et-se-qualifie-pour-les-quarts-de-finale-de-la-ligue-des-nations_8283920.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/ix626Lysk_hUUCyoSdyKIs42Ic4/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/15/6afa1f9c1e595689538196.jpg"
+    },
+    {
+      "id": "f7c9041d2a",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Quel champion olympique a vu l'hypothèse de sa candidature à l'élection présidentielle de 2027 abordée dans une émission politique ?",
+      "choix": [
+        "Teddy Riner",
+        "Léon Marchand",
+        "Florent Manaudou",
+        "Martin Fourcade"
+      ],
+      "reponse": 0,
+      "explication": "L'émission Présidentielle 2027 a évoqué l'hypothèse d'une candidature à l'Élysée du champion olympique de judo Teddy Riner.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-pr%C3%A9sidentielle-2027-un-champion-olympique-%C3%A0-l-elys%C3%A9e",
+      "image": "https://s.france24.com/media/display/a59a62b0-e137-11f1-8779-29048b396e03/w:1024/p:16x9/FR-20261115-211039-212744-CS.jpg"
+    },
+    {
+      "id": "f974f8fc8f",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Dans quel archipel d'Afrique de l'Ouest s'est déroulé le premier tour d'une élection présidentielle ?",
+      "choix": [
+        "Les Seychelles",
+        "Le Cap-Vert",
+        "Les Comores",
+        "Sao Tomé-et-Principe"
+      ],
+      "reponse": 1,
+      "explication": "Le premier tour de l'élection présidentielle s'est déroulé au Cap-Vert, dans un climat calme avant le début du dépouillement.",
+      "lien": "https://www.france24.com/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-d%C3%A9but-du-d%C3%A9pouillement-apr%C3%A8s-une-journ%C3%A9e-%C3%A9lectorale-calme",
+      "image": "https://s.france24.com/media/display/2af62b64-e134-11f1-8ed0-695cb59fade5/w:1024/p:16x9/000-D7JP843.jpg"
+    },
+    {
+      "id": "cf7b72a0c7",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Dans quelle ville turque se déroule la COP 31 co-présidée par la Turquie et l'Australie ?",
+      "choix": [
+        "Izmir",
+        "Antalya",
+        "Istanbul",
+        "Ankara"
+      ],
+      "reponse": 1,
+      "explication": "La COP 31 se tient à Antalya, en Turquie, avec un accent particulier mis sur l'accélération de l'électrification mondiale.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261115-fabio-d-andrea-les-cop-sont-tr%C3%A8s-importantes-l-accord-de-paris-%C3%A0-l-%C3%A9poque-a-%C3%A9t%C3%A9-un-pas-%C3%A9norme",
+      "image": "https://s.france24.com/media/display/bb6842dc-e06b-11f1-baa6-29048b396e03/w:1024/p:16x9/FR-20261114-201113-202603-CS-01.jpg"
+    },
+    {
+      "id": "ef0d2a9feb",
+      "date": "2026-11-15",
+      "type": "actu",
+      "question": "Dans quel département français un suspect a-t-il été écroué après un « crypto-rapt » de 900 000 euros au Chesnay ?",
+      "choix": [
+        "La Gironde",
+        "L'Essonne",
+        "Le Rhône",
+        "Les Yvelines"
+      ],
+      "reponse": 3,
+      "explication": "L'homme a été mis en examen et écroué dans les Yvelines après la séquestration d'un couple au Chesnay pour obtenir des bitcoins.",
+      "lien": "https://www.franceinfo.fr/economie/bitcoin/un-homme-a-ete-mis-en-examen-et-ecroue-dans-les-yvelines-apres-un-crypto-rapt-a-900-000-euros_8283848.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/iueJD08ZD8ynzE2K33CsCWr_-44/0x525:5049x3366/432x243/filters:format(jpg)/2026/11/15/6afa06e53491c995394724.jpg"
+    },
+    {
+      "id": "d021277011",
+      "date": "2026-11-15",
+      "type": "culture",
+      "question": "Quel écrivain a été soupçonné à tort lors du vol de La Joconde au musée du Louvre en 1911 ?",
+      "choix": [
+        "Stéphane Mallarmé",
+        "Paul Verlaine",
+        "Guillaume Apollinaire",
+        "Paul Éluard"
+      ],
+      "reponse": 2,
+      "explication": "Pendant l'enquête sur la disparition du tableau de Léonard de Vinci, le poète Guillaume Apollinaire a fait partie des innocents brièvement soupçonnés.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "e9ddac5d1d",
+      "date": "2026-11-15",
+      "type": "culture",
+      "question": "Quelle fleur a provoqué l'une des premières bulles spéculatives de l'histoire aux Pays-Bas au XVIIe siècle ?",
+      "choix": [
+        "L'orchidée",
+        "L'œillet",
+        "La tulipe",
+        "La rose"
+      ],
+      "reponse": 2,
+      "explication": "La « tulipomanie » a vu le prix des bulbes de tulipes atteindre des sommets irrationnels avant l'éclatement brutal du marché en 1637.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
