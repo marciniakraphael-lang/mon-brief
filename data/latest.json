@@ -1,181 +1,116 @@
 {
-  "date": "2026-11-14",
-  "mode": "evening",
-  "updated": "2026-11-14T23:03:27.908576+01:00",
+  "date": "2026-11-15",
+  "mode": "morning",
+  "updated": "2026-11-15T12:17:33.217931+01:00",
   "deja_presente": [
     {
-      "titre": "Guerre en Ukraine : Poutine, maître du jeu dans le processus de négociation ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-guerre-en-ukraine-poutine-ma%C3%AEtre-du-jeu-dans-le-processus-de-n%C3%A9gociation",
-      "source": "France 24 · franceinfo · Le Monde",
-      "date": "2026-11-13T12:15:30+01:00",
-      "resume": "Des émissaires de Donald Trump ont entamé des pourparlers en Irlande avec le président ukrainien Volodymyr Zelensky après avoir rencontré Vladimir Poutine. Parallèlement, la Russie exige de connaître les intentions européennes avant d'autoriser la participation de représentants de l'UE aux futures négociations, une condition rejetée par la cheffe de la diplomatie européenne, Kaja Kallas.",
-      "contexte": "Ces échanges marquent une phase diplomatique intense visant à définir les contours d'un éventuel cessez-le-feu en Ukraine. Les autorités européennes craignent que la Russie n'utilise le processus de négociation pour diviser les alliés occidentaux et imposer ses propres conditions de sécurité.",
-      "image": "https://s.france24.com/media/display/745e4bc4-df4f-11f1-8c18-29048b396e03/w:1024/p:16x9/FR-20261113-100744-101210-CS.jpg"
-    },
-    {
-      "titre": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974, sont arrivées au Guatemala",
-      "lien": "https://www.franceinfo.fr/culture/livres/les-cendres-de-l-ecrivain-miguel-angel-asturias-mort-en-1974-sont-arrivees-au-guatemala_8280740.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-13T12:09:58+01:00",
-      "resume": "Les cendres de l'écrivain guatémaltèque Miguel Angel Asturias, lauréat du prix Nobel de littérature décédé en 1974, ont été rapatriées au Guatemala depuis la France. Elles seront inhumées dans le principal complexe culturel du pays qui porte son nom.",
-      "contexte": "Le rapatriement des restes de personnalités historiques est souvent une démarche visant à renforcer l'identité nationale et à rendre hommage à l'héritage culturel des grandes figures littéraires d'un pays.",
-      "image": "https://www.franceinfo.fr/pictures/VMfcrL1RaBAaWz6QMt76G2VU3y0/0x93:2400x1443/432x243/filters:format(jpg)/2026/11/13/6af6e14aa41e8600143005.jpg"
-    },
-    {
-      "titre": "A la COP31, \"103 grands groupes pollueurs\" ont envoyé des délégations pour peser sur les négociations, dénoncent des ONG",
-      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/acteurs-des-energies-fossiles-banques-geants-de-la-tech-a-la-cop31-103-grands-groupes-pollueurs-ont-envoye-des-delegations-pour-peser-sur-les-negociations-denoncent-des-ong_8280710.html#xtor=RSS-3-[lestitres]",
+      "titre": "Présidentielle 2027 : Raphaël Glucksmann dit vouloir \"augmenter les salaires\" et \"rendre du pouvoir d'achat aux Français\"",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-13T12:02:41+01:00",
-      "resume": "Une coalition d'ONG, intitulée \"Kick big polluters out\", dénonce la présence de 103 délégations issues de grands groupes pollueurs lors de la COP31. Ces organisations accusent ces entreprises de chercher activement à entraver les négociations et à bloquer les politiques climatiques.",
-      "contexte": "La participation des industries fossiles aux sommets sur le climat est un sujet récurrent de controverse. Les ONG estiment qu'il existe un conflit d'intérêts majeur entre les objectifs de réduction des émissions et les intérêts économiques des groupes énergétiques.",
-      "image": "https://www.franceinfo.fr/pictures/BqHP4MGmoPPImVXjKKD10MU3wx8/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6ed602b2ce329868515.jpg"
+      "date": "2026-11-14T11:37:35+01:00",
+      "resume": "Dans la perspective de l'élection présidentielle de 2027, le candidat de gauche Raphaël Glucksmann s'est rendu au salon du Made in France à Paris. Il y a exprimé sa volonté d'augmenter les salaires et de redonner du pouvoir d'achat aux citoyens français.",
+      "contexte": "Les déplacements sur des salons valorisant l'industrie nationale constituent un passage obligé pour les candidats cherchant à aborder les thématiques de l'emploi, de la réindustrialisation et de l'économie locale. Le pouvoir d'achat demeure l'une des préoccupations centrales des électeurs lors des scrutins nationaux.",
+      "image": "https://www.franceinfo.fr/pictures/yq7MrKM7G9zptcARj7uSbEallP8/0x100:1024x676/432x243/filters:format(jpg)/2026/11/14/6af832174d731972298391.jpg"
     },
     {
-      "titre": "En direct : Microsoft peine à rétablir Outlook, des entreprises et des écoles affectées",
-      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261112-une-panne-mondiale-affecte-la-messagerie-outlook-de-microsoft",
-      "source": "France 24 · franceinfo",
-      "date": "2026-11-13T11:56:44+01:00",
-      "resume": "Une panne majeure affecte les services Microsoft, dont Outlook, Teams et l'assistant Copilot, dans 74 pays et territoires à travers l'Asie-Pacifique, l'Europe et les États-Unis. Cet incident technique, l'un des plus importants pour le groupe ces dernières années, perturbe le fonctionnement d'entreprises, d'écoles, de services de santé et de transports. Microsoft a officiellement écarté la piste d'une cyberattaque ou d'une action malveillante.",
-      "contexte": "Ces pannes soulignent la dépendance critique des infrastructures modernes, publiques comme privées, aux solutions cloud d'un nombre restreint de géants technologiques. Lorsque ces services tombent, les répercussions sont immédiates et mondiales, posant des questions sur la résilience des systèmes numériques et la nécessité de solutions de secours.",
-      "image": "https://s.france24.com/media/display/f7e0b76a-df37-11f1-a593-f71d22e7fea9/w:1024/p:16x9/063-2304840770.jpg"
-    },
-    {
-      "titre": "Le patron de Nvidia démissionne sur fond d'adultères et d'espionnage",
-      "lien": "https://www.franceinfo.fr/internet/le-patron-de-nvidia-demissionne-sur-fond-d-adulteres-et-d-espionnage_8280098.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde · franceinfo",
-      "date": "2026-11-13T11:46:02+01:00",
-      "resume": "Jensen Huang, patron de Nvidia, a démissionné ce jeudi 12 novembre après la révélation d'une relation extraconjugale avec une femme soupçonnée d'espionnage pour le compte de la Chine. À la suite de ce scandale, l'ancien dirigeant de cette entreprise majeure de l'intelligence artificielle a été convoqué pour témoigner devant le Sénat américain en décembre.",
-      "contexte": "La démission d'un dirigeant de ce calibre pour des raisons de sécurité nationale et de moralité personnelle est un événement rare qui fragilise la gouvernance d'une entreprise stratégique. L'implication potentielle d'espionnage lié à la Chine soulève des enjeux géopolitiques et de sécurité technologique cruciaux aux États-Unis.",
-      "image": "https://www.franceinfo.fr/pictures/LR53kMjiySxjVUyYTPSUkvJmIOk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/12/6af6303bd7aa7901687856.jpg"
-    },
-    {
-      "titre": "Derrière l’image : en Colombie, la communication controversée du président d’extrême droite",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261113-derri%C3%A8re-image-colombie-communication-controversee-president-extreme-droite-abelardo-de-la-espriella",
+      "titre": "Les Bleus battent les Springboks à Paris pour la première fois depuis 21 ans",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261114-bleus-battent-springboks-paris-pour-premi%C3%A8re-fois-depuis-21-ans",
       "source": "France 24",
-      "date": "2026-11-13T11:40:39+01:00",
-      "resume": "La communication du président colombien Abelardo de la Espriella, au pouvoir depuis août, suscite de vives polémiques. Ses mises en scène de transferts de détenus et de bombardements, ainsi que ses discours devant des sacs mortuaires, sont critiqués pour leur caractère provocateur et leur mise en avant de la force.",
-      "contexte": "La stratégie de communication d'un chef d'État d'extrême droite peut viser à asseoir une image d'autorité et de fermeté face à l'insécurité, quitte à heurter une partie de l'opinion publique nationale et internationale.",
-      "image": "https://s.france24.com/media/display/0502e730-df4a-11f1-9547-29048b396e03/w:1024/p:16x9/Chronique-vignette-horizontale.jpg"
+      "date": "2026-11-14T11:27:01+01:00",
+      "resume": "Le XV de France a battu l'Afrique du Sud sur le score de 21 à 19 au Stade de France, signant sa première victoire contre les Springboks à Paris depuis 21 ans. Une victoire bonifiée lors du prochain match contre l'Argentine permettra aux Bleus de se qualifier pour la finale du Championnat des nations.",
+      "contexte": "Ce succès de prestige renforce la confiance de l'équipe de France à l'approche des grandes échéances internationales de rugby. Les confrontations face aux nations majeures de l'hémisphère sud constituent traditionnellement des tests décisifs pour évaluer le niveau compétitif d'une sélection.",
+      "image": "https://s.france24.com/media/display/0732732e-dfe8-11f1-801a-29048b396e03/w:1024/p:16x9/J24-France-celebrate.jpg"
     },
     {
-      "titre": "Pascale Weeks, autrice culinaire : « Une recette doit être pensée et partagée pour que les gens puissent la réussir »",
-      "lien": "https://www.lemonde.fr/le-monde-passe-a-table/article/2026/11/13/pascale-weeks-autrice-culinaire-une-recette-doit-etre-pensee-et-partagee-pour-que-les-gens-puissent-la-reussir_6809311_6082232.html",
-      "source": "Le Monde",
-      "date": "2026-11-13T11:30:08+01:00",
-      "resume": "L'autrice culinaire Pascale Weeks, pionnière des blogs de cuisine en France avec son site lancé il y a vingt-deux ans, partage sa vision de la transmission gastronomique. Elle souligne l'importance de concevoir des recettes accessibles et pensées pour être partagées par le plus grand nombre.",
-      "contexte": "L'évolution de la cuisine en ligne a transformé la manière dont les particuliers apprennent à cuisiner, passant des livres traditionnels aux blogs et plateformes collaboratives qui privilégient l'échange d'astuces simples.",
-      "image": "https://img.lemde.fr/2026/11/05/450/0/1200/600/644/322/60/0/442ef4d_ftp-1-cakpl842ixbj-450913-3535593.jpg"
+      "titre": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans",
+      "lien": "https://www.franceinfo.fr/monde/usa/un-porte-conteneurs-et-un-bateau-de-croisiere-sont-entres-en-collision-dans-le-port-de-la-nouvelle-orleans_8281676.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-14T11:23:26+01:00",
+      "resume": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans aux États-Unis. Sur les près de 200 passagers présents à bord du navire de croisière, 32 ont dû être hospitalisés, bien qu'aucun ne présente de blessures graves selon la maire de la ville.",
+      "contexte": "Les collisions dans les zones portuaires encombrées résultent souvent de conditions de navigation difficiles ou d'erreurs de communication humaine et technique. Les autorités maritimes ouvrent systématiquement des enquêtes pour déterminer les responsabilités dans ces accidents.",
+      "image": "https://www.franceinfo.fr/pictures/27Sqqo2tbqi5wWY_FT5teOUoyaY/0x75:1285x798/432x243/filters:format(jpg)/2026/11/13/6af78c456817f945515059.jpg"
+    },
+    {
+      "titre": "Manifestations du 14 novembre : entre 70 000 et 120 000 manifestants attendus partout en France, hors Paris, à l'appel de gilets jaunes et d'organisations de jeunesse",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-14T11:20:15+01:00",
+      "resume": "De nouvelles manifestations sont attendues en France, à l'appel de gilets jaunes et d'organisations de jeunesse. Entre 70 000 et 120 000 manifestants sont prévus hors de Paris, tandis que le ministre de l'Intérieur anticipe entre 50 et 60 défilés sur l'ensemble du territoire ainsi qu'une mobilisation importante dans la capitale, encadrée par 70 000 policiers et gendarmes.",
+      "contexte": "Le maintien d'un niveau élevé de forces de l'ordre déployées lors des journées de contestation sociale vise à prévenir les débordements et à sécuriser les cortèges. Ces mouvements traduisent des tensions persistantes autour des revendications économiques et salariales.",
+      "image": "https://www.franceinfo.fr/pictures/oIBcZ2XDfDlakbyCZxxNzdFdXTY/0x0:4919x2766/432x243/filters:format(jpg)/2026/11/14/6af835cf35276136102303.jpg"
+    },
+    {
+      "titre": "Manifestations : qui sont les \"street medics\" qui soignent les blessés ?",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-manifestations-qui-sont-les-street-medics-qui-soignent-les-bless%C3%A9s",
+      "source": "France 24",
+      "date": "2026-11-14T11:18:23+01:00",
+      "resume": "Les 'street medics', reconnaissables à leurs casques et leurs croix rouges, continuent d'assurer une présence active lors des manifestations en France. Leur rôle consiste à apporter les premiers secours aux personnes blessées sur le terrain sans perturber l'action des forces de l'ordre.",
+      "contexte": "Ces équipes de secouristes bénévoles interviennent traditionnellement dans un contexte de contestation sociale pour pallier les éventuels délais d'intervention des secours officiels au cœur des cortèges. Leur présence soulève parfois des questions réglementaires quant à l'encadrement des soins d'urgence en milieu hostile.",
+      "image": "https://s.france24.com/media/display/80dd4fe4-e012-11f1-8647-f71d22e7fea9/w:1024/p:16x9/FR-20261114-081219-082221-CS-01.jpg"
+    },
+    {
+      "titre": "États-Unis : quand les maisons se transforment en bunkers de luxe",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-%C3%A9tats-unis-quand-les-maisons-se-transforment-en-bunkers-de-luxe",
+      "source": "France 24",
+      "date": "2026-11-14T11:16:25+01:00",
+      "resume": "Au Texas, certaines propriétés résidentielles intègrent désormais des équipements de sécurité sophistiqués, tels que des bunkers souterrains, des sas de décontamination, des tunnels ou encore des armureries. Ces installations témoignent de la popularité croissante des habitats fortifiés haut de gamme aux États-Unis.",
+      "contexte": "Ce phénomène immobilier reflète une tendance sociétale où une frange de la population aisée investit massivement dans des solutions d'autodéfense et de survie. Cela s'explique par la crainte croissante d'événements extrêmes ou de ruptures systémiques majeures.",
+      "image": "https://s.france24.com/media/display/6b53d38c-e012-11f1-9f12-3f371022a770/w:1024/p:16x9/FR-20261114-091435-091924-CS-01.jpg"
+    },
+    {
+      "titre": "Léon XIV retrouve le Pérou, sa \"seconde patrie\", pour achever sa tournée",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-l%C3%A9on-xiv-retrouve-le-p%C3%A9rou-sa-seconde-patrie-pour-achever-sa-tourn%C3%A9e",
+      "source": "France 24",
+      "date": "2026-11-14T11:14:31+01:00",
+      "resume": "Le pape Léon XIV a achevé sa tournée en Amérique latine par une dernière étape au Pérou, qualifié de 'seconde patrie' où il exerça autrefois comme évêque. Accueilli par une foule immense à Chiclayo, le souverain pontife effectue ce déplacement malgré les interrogations persistantes sur sa santé, un mois après l'annonce d'une opération liée à un cancer du poumon.",
+      "contexte": "Les voyages pontificaux dans des régions historiquement liées au parcours personnel du pape renforcent la proximité avec les fidèles locaux. La gestion de l'agenda papal face à des problèmes de santé constitue un sujet d'attention particulier pour le Vatican.",
+      "image": "https://s.france24.com/media/display/8c717fc4-e012-11f1-b8b7-5f54d898a954/w:1024/p:16x9/FR-20261114-100845-101035-CS.jpg"
+    },
+    {
+      "titre": "Au Tchad, la sécheresse fait craindre des poches de famine",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-au-tchad-la-s%C3%A9cheresse-fait-craindre-des-poches-de-famine",
+      "source": "France 24",
+      "date": "2026-11-14T11:13:09+01:00",
+      "resume": "Le Tchad subit une sécheresse sévère, considérée comme potentiellement la pire depuis plus de quarante ans, provoquée par un important déficit de pluies en 2026. Des organismes d'observation, des ONG et des habitants alertent sur le risque imminent de poches de famine dans plusieurs zones, en particulier dans l'est du pays.",
+      "contexte": "Les sécheresses prolongées dans la région du Sahel fragilisent durablement la sécurité alimentaire et les moyens de subsistance des populations rurales. L'objectif des alertes lancées par les organisations humanitaires est généralement de mobiliser rapidement une aide internationale pour éviter une crise humanitaire majeure.",
+      "image": "https://s.france24.com/media/display/1e672280-e013-11f1-b01c-f71d22e7fea9/w:1024/p:16x9/FR-20261114-101059-101308-CS-01.jpg"
+    },
+    {
+      "titre": "La police française se dirige-t-elle vers une grève nationale ?",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-la-police-fran%C3%A7aise-se-dirige-t-elle-vers-une-gr%C3%A8ve-nationale",
+      "source": "France 24",
+      "date": "2026-11-14T11:10:25+01:00",
+      "resume": "Les représentants des forces de l'ordre en France réclament une revalorisation de 35 % de la prime de risque, sur fond de tensions persistantes concernant leurs conditions de travail et leur rémunération. Faute d'avancées jugées suffisantes de la part des autorités, la question d'un mouvement de grève nationale de la police est ouvertement posée.",
+      "contexte": "La contestation sociale au sein des services de police illustre le malaise chronique des professionnels du maintien de l'ordre face à l'augmentation de la charge de travail et aux risques encourus. Les menaces de grève dans les services régaliens constituent un défi politique sensible pour le gouvernement.",
+      "image": "https://s.france24.com/media/display/c6408e62-e011-11f1-9e18-5f54d898a954/w:1024/p:16x9/FR-20261114-100548-100656-CS.jpg"
+    },
+    {
+      "titre": "La mégafusée Starship réussit partiellement son quinzième vol d'essai",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-la-m%C3%A9gafus%C3%A9e-starship-r%C3%A9ussit-partiellement-son-quinzi%C3%A8me-vol-d-essai",
+      "source": "France 24",
+      "date": "2026-11-14T11:08:12+01:00",
+      "resume": "L'entreprise SpaceX a procédé au quinzième vol d'essai de sa mégafusée Starship avec des objectifs particulièrement ambitieux. Si la récupération du premier étage a été volontairement abandonnée, celle du second étage était espérée, qualifiant l'ensemble du test de 'succès partiel' selon les experts du secteur spatial.",
+      "contexte": "La stratégie de développement de SpaceX repose sur des tests itératifs rapides permettant d'accumuler des données techniques pour fiabiliser ses lanceurs réutilisables. L'enjeu est de réduire considérablement les coûts d'accès à l'espace pour les futures missions lunaires et martiennes.",
+      "image": "https://s.france24.com/media/display/54c6eac0-e010-11f1-ad33-695cb59fade5/w:1024/p:16x9/FR-20261114-091120-091411-CS.jpg"
     }
   ],
   "depuis_hier": [
     {
-      "titre": "Ballaké Sissoko : un nouvel album pour son père, la mémoire du Mali au son de la kora",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-ballak%C3%A9-sissoko-un-nouvel-album-pour-son-p%C3%A8re-la-m%C3%A9moire-du-mali-au-son-de-la-kora",
+      "titre": "Enseignement supérieur en Afrique : l'UM6P, un modèle d'excellence à suivre ?",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-enseignement-sup%C3%A9rieur-en-afrique-l-um6p-un-mod%C3%A8le-d-excellence-%C3%A0-suivre",
       "source": "France 24",
-      "date": "2026-11-13T23:40:40+01:00",
-      "resume": "Le musicien malien Ballaké Sissoko annonce la sortie de son nouvel album intitulé 'Djelimady N°1', prévue pour le 27 novembre 2026. Ce disque profondément personnel est dédié à son père Djelimady Sissoko, une figure majeure de la musique mandingue. L'artiste y raconte son parcours, son attachement à la kora et sa volonté de transmettre ce patrimoine musical.",
-      "contexte": "Ce projet s'inscrit dans la lignée des œuvres mémorielles portées par les grands interprètes traditionnels pour valoriser la culture mandingue. L'objectif est généralement de préserver un héritage musical face à la mondialisation et de faire découvrir la virtuosité de la kora à un public international plus large.",
-      "image": "https://s.france24.com/media/display/4c222702-dfae-11f1-9800-f71d22e7fea9/w:1024/p:16x9/FR-20261113-215027-215839-CS.jpg"
-    },
-    {
-      "titre": "JOJ de Dakar, clap de fin : succès et satisfaction pour une première en Afrique",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261113-joj-de-dakar-clap-de-fin-succ%C3%A8s-et-satisfaction-pour-une-premi%C3%A8re-en-afrique",
-      "source": "France 24",
-      "date": "2026-11-13T23:30:04+01:00",
-      "resume": "Les 4e Jeux Olympiques de la Jeunesse se sont clôturés à Dakar, marquant une première historique pour le continent africain. À l'issue de deux semaines de compétition, cinq pays africains se sont hissés dans le top 10 du classement des médailles : l'Égypte, l'Éthiopie, le Sénégal, le Kenya et l'Afrique du Sud. Les athlètes et les encadreurs ont exprimé leur entière satisfaction concernant l'organisation de cet événement.",
-      "contexte": "L'accueil de compétitions sportives internationales de cette envergure sur le continent africain constitue un enjeu majeur de visibilité et de développement pour la jeunesse locale. Cela s'explique souvent par une volonté des instances sportives mondiales de diversifier les zones géographiques d'accueil des grands rendez-vous olympiques.",
-      "image": "https://s.france24.com/media/display/6d0a012e-dfae-11f1-9ea5-695cb59fade5/w:1024/p:16x9/DN197996-A-01-20261103-01.jpg"
-    },
-    {
-      "titre": "Après l'effondrement mortel d'un immeuble à New York, les questions se multiplient",
-      "lien": "https://www.franceinfo.fr/monde/usa/apres-l-effondrement-mortel-d-un-immeuble-a-new-york-les-questions-se-multiplient_8281634.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-13T23:24:31+01:00",
-      "resume": "Un immeuble de trois étages s'est effondré mercredi 11 novembre à New York aux États-Unis, provoquant la mort de huit personnes, dont deux enfants, et faisant 19 blessés. Les secours ont réussi à extraire plusieurs survivants des décombres. Pour l'heure, les causes précises de ce drame demeurent inconnues.",
-      "contexte": "Les effondrements soudains de bâtiments dans les grandes métropoles soulèvent régulièrement des questions sur la vétusté des infrastructures urbaines et le respect des normes de construction. Les enquêtes techniques visent généralement à déterminer d'éventuelles failles structurelles ou des négligences dans l'entretien des édifices.",
-      "image": "https://www.franceinfo.fr/pictures/xNfb-tKXPFEaWzeu7NcYcDvgUNk/39x0:1387x758/432x243/filters:format(jpg)/2026/11/13/6af76ad8f2af2742078122.jpg"
-    },
-    {
-      "titre": "L'armée américaine rapporte qu'elle a répondu à une activité de drone détectée au-dessus d'une base britannique",
-      "lien": "https://www.franceinfo.fr/internet/drones/l-armee-americaine-rapporte-qu-elle-a-repondu-a-une-activite-de-drone-detectee-au-dessus-d-une-base-britannique_8281700.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-13T23:12:52+01:00",
-      "resume": "L'armée de l'air américaine a indiqué avoir répondu à une activité de drone détectée au-dessus d'une base militaire britannique. Un porte-parole a assuré qu'aucun membre du personnel, aucun avion ni aucune infrastructure n'avaient été touchés lors de cet incident.",
-      "contexte": "La surveillance des infrastructures militaires alliées face à des survols non autorisés de drones est devenue un enjeu de sécurité croissant. Les motivations de ces intrusions restent souvent floues, oscillant entre des opérations de reconnaissance potentielles et des actes d'utilisation civile imprudents.",
-      "image": "https://www.franceinfo.fr/pictures/jBYE_QEVJBUsVrDNZL38cE6l818/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af78ac611e07805383833.jpg"
-    },
-    {
-      "titre": "Bijouterie de luxe braquée à Paris : que vont devenir les diamants ?",
-      "lien": "https://www.franceinfo.fr/faits-divers/braquage/bijouterie-de-luxe-braquee-a-paris-que-vont-devenir-les-diamants_8281619.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-13T23:00:55+01:00",
-      "resume": "La bijouterie de luxe De Beers à Paris a été la cible d'un braquage mené par des individus armés de fusils d'assaut. Plus de 24 heures après les faits survenus le vendredi 13 novembre, les suspects sont toujours recherchés par les forces de l'ordre. Le montant du préjudice est estimé à plus d'un million d'euros, posant la question du devenir des diamants dérobés.",
-      "contexte": "Le recel de pierres précieuses volées implique souvent des filières internationales spécialisées dans le re-polissage et la revente sur les marchés parallèles, notamment via des plaques tournantes comme Anvers. Ce type de braquage met en lumière les défis de la sécurité dans le commerce de luxe.",
-      "image": "https://www.franceinfo.fr/pictures/Y9xPWFt6v6z3HU71VTJkEc_5Ocw/0x18:1259x726/432x243/filters:format(jpg)/2026/11/13/6af76b9e75943710077926.jpg"
-    },
-    {
-      "titre": "Onze ans après les attaques du 13-Novembre, où en est la menace terroriste en France ?",
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/onze-ans-apres-les-attaques-du-13-novembre-ou-en-est-la-menace-terroriste-en-france_8281658.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-13T23:00:16+01:00",
-      "resume": "À l'occasion du onzième anniversaire des attentats du 13-Novembre, la menace terroriste en France est analysée comme ayant évolué. Les autorités constatent notamment un spectre de radicalisation plus large ainsi que des profils d'auteurs plus jeunes.",
-      "contexte": "L'évolution de la menace terroriste vers des modes opératoires décentralisés et des individus isolés complexifie la tâche des services de renseignement. L'enjeu permanent réside dans la prévention, la détection précoce des signaux faibles et l'adaptation des dispositifs de sécurité intérieure.",
-      "image": "https://www.franceinfo.fr/pictures/_gP0t8TRo0PP5nosPHeGLkN4-1Q/0x116:806x570/432x243/filters:format(jpg)/2026/11/13/6af77776378db458970179.jpg"
-    },
-    {
-      "titre": "Mort de Jesus de Miguel : l'équato-guinéen Jesus Owono fixé sur son sort",
-      "lien": "https://www.france24.com/fr/sports/20261113-mort-de-jesus-de-miguel-l-%C3%A9quato-guin%C3%A9en-jesus-owono-conna%C3%AEt-la-dur%C3%A9e-de-sa-suspension",
-      "source": "France 24",
-      "date": "2026-11-13T22:54:25+01:00",
-      "resume": "Le gardien de but d'Andorre, Jesus Owono, a écopé d'une suspension de 12 matches de la part de la Fédération espagnole de football. Cette sanction fait suite au choc survenu avec Jesus de Miguel, décédé des suites de ses blessures le lendemain de la collision.",
-      "contexte": "Dans le milieu du football, les sanctions disciplinaires lourdes sont appliquées en cas de fautes jugées d'une extrême gravité ou ayant entraîné des conséquences dramatiques sur la santé des joueurs. Ce type de drame rappelle les risques inhérents aux contacts physiques intenses lors des rencontres sportives.",
-      "image": "https://s.france24.com/media/display/b17f367a-dfaa-11f1-a0b9-3f371022a770/w:1024/p:16x9/000-D7F93G3.jpg"
-    },
-    {
-      "titre": "\"Rasez cette maison\" : comment les internautes ont guidé un raid anti-gang de Bukele en Haïti",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261113-rasez-cette-maison-comment-les-internautes-ont-guid%C3%A9-un-raid-anti-gang-de-bukele-en-ha%C3%AFti",
-      "source": "France 24",
-      "date": "2026-11-13T22:48:03+01:00",
-      "resume": "Le président salvadorien Nayib Bukele a annoncé la destruction du quartier général des '400 Mawozo', un gang haïtien, à la suite d'une opération militaire qui aurait été en partie guidée par des échanges sur le réseau social X et l'aide d'experts en géolocalisation. Parallèlement, une image virale prétendant montrer l'arrestation du chef du gang, 'Lanmò San Jou', s'est révélée être un faux généré par intelligence artificielle à partir d'une ancienne photo.",
-      "contexte": "L'utilisation combinée des réseaux sociaux, du renseignement en sources ouvertes (OSINT) et de la communication politique agressive caractérise certaines méthodes modernes de lutte contre la criminalité. L'affaire illustre également la prolifération rapide d'images manipulées par l'intelligence artificielle lors d'événements géopolitiques sensibles.",
-      "image": "https://s.france24.com/media/display/dfb624c4-dfa8-11f1-a439-f71d22e7fea9/w:1024/p:16x9/Francais-2026-11-13T21-15-56-233Z.jpg"
-    },
-    {
-      "titre": "États-Unis : les vols arrêtés dans les aéroports du pays en raison d'un problème de communication",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261113-%C3%A9tats-unis-tous-les-vols-arr%C3%AAt%C3%A9s-dans-les-a%C3%A9roports-du-pays-en-raison-d-un-probl%C3%A8me-de-communication",
-      "source": "France 24",
-      "date": "2026-11-13T22:34:38+01:00",
-      "resume": "L'Administration fédérale de l'aviation américaine (FAA) a ordonné l'arrêt de tous les vols dans l'ensemble des aéroports des États-Unis. Selon le secrétaire aux Transports Sean Duffy, cette décision fait suite à un problème de communication généralisé affectant l'ensemble des centres de contrôle du trafic aérien du pays.",
-      "contexte": "Les pannes informatiques ou de télécommunication touchant les infrastructures critiques de transport aérien paralysent rapidement l'économie et la mobilité nationale. Cela met en lumière la vulnérabilité des systèmes technologiques centralisés gérant la sécurité des flux aériens.",
-      "image": "https://s.france24.com/media/display/0b9ef0bc-dfa8-11f1-84a6-3f371022a770/w:1024/p:16x9/2026-10-20T235835Z-122091610-RC297OANDGMD-RTRMADP-3-BOEING-737-MAX.jpg"
-    },
-    {
-      "titre": "Menace nucléaire, catastrophes naturelles, intrusions... Quand les Américains se bunkerisent",
-      "lien": "https://www.franceinfo.fr/monde/usa/menace-nucleaire-catastrophes-naturelles-intrusions-quand-les-americains-se-bunkerisent_8281655.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-13T21:42:12+01:00",
-      "resume": "Aux États-Unis, le marché des abris anti-bombes et des maisons ultra-sécurisées connaît un développement important auprès d'une clientèle fortunée. Ces structures proposent des bunkers souterrains et des villas dotées de technologies de pointe pour faire face à diverses menaces.",
-      "contexte": "L'essor de ce marché de la sécurité privée haut de gamme s'explique par une anxiété croissante face aux crises climatiques, sanitaires ou géopolitiques. L'objectif est généralement d'assurer une autonomie totale en cas de rupture prolongée des services de base.",
-      "image": "https://www.franceinfo.fr/pictures/DVZk6ge74Xg6Djy6bx3kFeSssSU/2x0:1229x690/432x243/filters:format(jpg)/2026/11/13/6af775633f024099113753.jpg"
-    }
-  ],
-  "aujourdhui": [
-    {
-      "titre": "SpaceX parvient à rattraper l’étage supérieur de sa mégafusée Starship, une première",
-      "lien": "https://www.lemonde.fr/sciences/article/2026/11/14/spacex-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship-une-premiere_6810676_1650684.html",
-      "source": "Le Monde · France 24",
-      "date": "2026-11-14T22:55:17+01:00",
-      "resume": "L'entreprise SpaceX a réussi à rattraper l'étage supérieur de sa fusée Starship après une tentative complexe. Cette prouesse technique survient après l'échec de la récupération du premier étage vendredi en raison d'un incident technique. Starship est conçue comme la fusée la plus puissante jamais construite, avec pour objectif des missions vers la Lune et Mars.",
-      "contexte": "La réutilisation des composants de fusée est un enjeu majeur pour réduire les coûts des voyages spatiaux et augmenter la fréquence des lancements. En maîtrisant la récupération de ses étages, SpaceX cherche à rendre l'accès à l'espace plus accessible pour des missions scientifiques, commerciales ou logistiques.",
-      "image": "https://img.lemde.fr/2026/11/14/272/0/3262/1631/644/322/60/0/e84e335_ftp-1-ch1h16d3p5w2-41e845decc8940e3a1fa041ed3642939-0-af13e9d47fab4bbbb18c3982377c9425.jpg"
+      "date": "2026-11-14T23:24:21+01:00",
+      "resume": "Au Maroc, l'Université Mohammed VI Polytechnique (UM6P) s'impose parmi les établissements africains les mieux classés à l'international. L'université mise sur des formations de pointe en recherche, intelligence artificielle, robotique et agriculture pour répondre aux défis du continent et former ses propres élites. Benjamin Traoré, professeur de droit public et directeur du programme Droit et Gouvernance à l'UM6P, a évoqué ce modèle d'excellence sur France 24.",
+      "contexte": "Cette initiative s'inscrit dans une volonté croissante de nombreux pays africains de renforcer l'autonomie de leur enseignement supérieur pour limiter la fuite des cerveaux vers l'Europe ou l'Amérique du Nord. L'enjeu est de doter la jeunesse locale de compétences directement adaptées aux défis économiques et technologiques du continent, bien que la question de l'accessibilité financière de ces établissements d'élite reste un défi majeur.",
+      "image": "https://s.france24.com/media/display/33ef4b46-e077-11f1-a070-3f371022a770/w:1024/p:16x9/FR-20261114-215038-215826-CS-01.jpg"
     },
     {
       "titre": "Comment la Chine fait-elle plier les grandes marques ?",
       "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/comment-la-chine-fait-elle-plier-les-grandes-marques_8282879.html#xtor=RSS-3-%5Bmonde%5D",
       "source": "franceinfo Monde",
       "date": "2026-11-14T22:53:29+01:00",
-      "resume": "La Chine exerce une pression constante sur les marques internationales pour qu'elles respectent son récit national et son autorité. Toute critique ou écart, illustré par exemple par les propos de Kylian Mbappé, peut entraîner des conséquences rapides et sévères pour ces entreprises. L'accès au vaste marché intérieur chinois reste conditionné à ce strict respect des lignes politiques du pays.",
-      "contexte": "Cette stratégie s'inscrit dans la volonté de Pékin de maintenir une image forte et de protéger sa souveraineté culturelle et politique face à l'influence occidentale. Pour les entreprises étrangères, le marché chinois est stratégique mais le risque de boycott ou de sanctions administratives en cas de controverse oblige à une prudence diplomatique constante.",
+      "resume": "La Chine maintient un contrôle strict sur son récit national et impose ses limites aux grandes marques internationales et aux personnalités accédant à son marché intérieur. Un récent exemple illustre cette situation avec les répercussions de propos tenus par le footballeur Kylian Mbappé, qui avait employé le terme \"dictateur chinois\" sur le ton de la plaisanterie.",
+      "contexte": "Pékin se montre particulièrement intransigeant dès lors qu'il s'agit de l'image de ses dirigeants ou de son histoire officielle, n'hésitant pas à faire peser le poids de son immense marché sur les entreprises ou les célébrités étrangères. Cette situation s'explique par la volonté politique de préserver l'autorité de l'État, ce qui conduit souvent les personnalités et les multinationales à la plus grande prudence pour éviter le boycott.",
       "image": "https://www.franceinfo.fr/pictures/vCSnJfGg0gzeUzKk8Lt9cxCgDE4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/14/6af8d49a8bc69393986240.jpg"
     },
     {
@@ -183,26 +118,17 @@
       "lien": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
       "source": "France 24 · franceinfo",
       "date": "2026-11-14T22:43:20+01:00",
-      "resume": "La France a connu un cinquième samedi de mobilisation sociale contre la vie chère et pour la défense du pouvoir d'achat. Les chiffres de participation varient entre 106 000 personnes selon le ministère de l'Intérieur et 200 000 selon l'intersyndicale. Des incidents ont été signalés en marge des cortèges, incluant des agressions contre des journalistes.",
-      "contexte": "Ces manifestations reflètent une inquiétude persistante face à l'inflation et aux difficultés économiques des ménages. Ce type de mouvement social vise à mettre la pression sur le gouvernement pour obtenir des mesures concrètes sur les salaires, les prix ou les conditions de vie.",
+      "resume": "La France a connu samedi le cinquième samedi de mobilisation (Acte V) du mouvement social contre la vie chère et pour la défense du pouvoir d'achat. Quelque 106 000 à 200 000 personnes ont défilé dans tout le pays selon les chiffres du ministère de l'Intérieur et de l'intersyndicale jeune (Union étudiante, USL, Fage, Unef). La journée a également été marquée par quelques incidents et des agressions de journalistes.",
+      "contexte": "Ces mobilisations récurrentes traduisent un mécontentement social persistant face à l'inflation et aux difficultés économiques ressenties par une partie de la population. L'enjeu pour les syndicats et les organisations contestataires est de maintenir la pression sur le gouvernement malgré une affluence en baisse, tandis que l'exécutif cherche à éviter l'embrasement social tout en répondant aux urgences sur le pouvoir d'achat.",
       "image": "https://s.france24.com/media/display/a840c416-e072-11f1-b800-f71d22e7fea9/w:1024/p:16x9/2026-11-14T161721Z-1217346689-RC2SNOASVFNM-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-      "titre": "Au Portugal, des milliers de manifestants défilent pour dénoncer la crise du logement",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-14T22:17:50+01:00",
-      "resume": "Des milliers de manifestants ont défilé au Portugal pour dénoncer la crise du logement qui frappe le pays. Entre 2015 et 2025, le Portugal a enregistré la plus forte hausse des prix du logement par rapport aux revenus des ménages au sein de l'Union européenne, avec un indicateur en hausse de 60,8 %.",
-      "contexte": "Cette crise est souvent attribuée à une offre insuffisante, à l'attractivité touristique et à l'afflux d'investissements étrangers qui font grimper les prix. La difficulté d'accès au logement devient un enjeu politique majeur dans de nombreux pays européens, créant des tensions sociales fortes entre les résidents locaux et les dynamiques du marché immobilier.",
-      "image": "https://img.lemde.fr/2026/11/14/500/0/6000/3000/644/322/60/0/3cded0a_ftp-1-gqrbce5ibzka-2026-11-14t180626z-115271520-rc2snoayehf8-rtrmadp-3-portugal-housing-protest.JPG"
     },
     {
       "titre": "Israël : Eisenkot accuse Netanyahu d'entraver la formation d'un gouvernement",
       "lien": "https://www.france24.com/fr/moyen-orient/20261114-isra%C3%ABl-eisenkot-accuse-netanyahu-d-entraver-la-formation-d-un-gouvernement",
       "source": "France 24",
       "date": "2026-11-14T22:14:10+01:00",
-      "resume": "En Israël, Gadi Eisenkot, chargé de former le prochain gouvernement, a publiquement accusé le Premier ministre sortant Benjamin Netanyahu d'entraver le processus. Malgré l'appel de M. Netanyahu à former un gouvernement d'union nationale, M. Eisenkot dénonce des manœuvres dilatoires. Des discussions entre les deux camps sont prévues pour tenter de débloquer la situation.",
-      "contexte": "La vie politique israélienne est marquée par une instabilité chronique et des divisions profondes. La formation d'un gouvernement nécessite souvent des compromis complexes entre des partis aux visions opposées, rendant chaque période de transition gouvernementale particulièrement tendue et incertaine.",
+      "resume": "En Israël, le député Gadi Eisenkot, chargé de former le prochain gouvernement, a publiquement accusé le Premier ministre sortant Benjamin Netanyahu d'entraver le processus à travers des \"ruses\". Ces déclarations interviennent alors que Benjamin Netanyahu plaide officiellement pour la constitution d'un gouvernement d'union nationale, et que de nouvelles discussions entre leurs partis sont programmées.",
+      "contexte": "Le paysage politique israélien est marqué par de profondes divisions et des négociations souvent complexes pour bâtir des coalitions stables. Les rivalités personnelles et stratégiques au sein de la classe politique complacent traditionnellement la formation des gouvernements, prolongeant les crises institutionnelles.",
       "image": "https://s.france24.com/media/display/c3264e3e-dd4f-11f1-a6a1-3f371022a770/w:1024/p:16x9/AP26314586138425.jpg"
     },
     {
@@ -210,26 +136,17 @@
       "lien": "https://www.france24.com/fr/sports/20261114-%C3%A9liminatoires-de-la-can-2027-l-alg%C3%A9rie-cale-contre-le-togo-mais-reste-en-t%C3%AAte-de-son-groupe",
       "source": "France 24",
       "date": "2026-11-14T22:00:23+01:00",
-      "resume": "L'Algérie a remporté une courte victoire 1-0 face au Togo lors de la troisième journée des éliminatoires de la CAN 2027. Grâce à un but de Bensebaïni en fin de match, les Fennecs confortent leur première place du groupe avec 7 points. Cette victoire permet à l'Algérie de consolider sa position avant la suite de la compétition.",
-      "contexte": "Les éliminatoires de la Coupe d'Afrique des Nations sont une étape cruciale pour les sélections nationales africaines. La qualification pour le tournoi final est un objectif majeur, synonyme de prestige et de développement pour le football national.",
+      "resume": "L'Algérie s'est imposée de justesse face au Togo sur le score de 1-0, samedi, lors de la troisième journée des éliminatoires de la CAN 2027. Longtemps tenus en échec, les Fennecs ont trouvé la faille en fin de match grâce à une passe décisive d'Hadj Moussa conclue par une tête de Bensebaïni. Cette courte victoire permet à l'Algérie de conforter sa première place dans son groupe avec 7 points au compteur.",
+      "contexte": "Les éliminatoires de la Coupe d'Afrique des nations (CAN) engagent une forte pression sur les sélections nationales favorites, attendues au tournant par leurs supporters. Conserver la tête du groupe à mi-parcours offre aux Algériens une option sérieuse pour la qualification directe avant d'aborder les trois derniers matches de la phase de poules.",
       "image": ""
-    },
-    {
-      "titre": "Michel Destot, ancien maire PS de Grenoble et député de l’Isère, est mort",
-      "lien": "https://www.lemonde.fr/disparitions/article/2026/11/14/michel-destot-ancien-maire-ps-de-grenoble-et-depute-de-l-isere-est-mort_6810610_3382.html",
-      "source": "Le Monde",
-      "date": "2026-11-14T21:53:06+01:00",
-      "resume": "Michel Destot, ancien maire socialiste de Grenoble et député de l'Isère, est décédé. Figure politique locale et nationale, il a occupé le poste de maire de 1995 à 2014 et a siégé à l'Assemblée nationale de 1988 à 2017. François Hollande a rendu hommage à son parcours et à son intégrité politique.",
-      "contexte": "Michel Destot a marqué la vie politique iséroise par sa longévité et ses mandats successifs. Son décès souligne le départ d'une génération d'élus ayant façonné la gouvernance locale en France durant les dernières décennies.",
-      "image": "https://img.lemde.fr/2026/11/14/351/0/4212/2106/644/322/60/0/7f890ce_ftp-1-w0ui4cg5yomj-afp-d7h33kf.jpg"
     },
     {
       "titre": "\"On aurait dit une scène de Titanic\" : un bateau de croisière chavire après avoir été percuté par un pétrolier",
       "lien": "https://www.franceinfo.fr/faits-divers/on-aurait-dit-une-scene-de-titanic-un-bateau-de-croisiere-chavire-apres-avoir-ete-percute-par-un-petrolier_8282846.html#xtor=RSS-3-%5Bmonde%5D",
       "source": "franceinfo Monde",
       "date": "2026-11-14T21:16:05+01:00",
-      "resume": "Un bateau de croisière a chaviré vendredi 14 novembre après avoir été percuté par un pétrolier alors qu'il était à quai. Près de 200 personnes se trouvaient à bord, et bien qu'aucun disparu ne soit recensé, 32 passagers ont dû être hospitalisés. Les images de l'accident ont suscité une vive émotion en raison de la violence du choc.",
-      "contexte": "Les collisions impliquant des navires de grande taille sont rares mais peuvent avoir des conséquences humaines et matérielles importantes. Les autorités maritimes ouvrent généralement des enquêtes techniques pour déterminer les causes exactes de l'accident, qu'il s'agisse d'une erreur humaine ou d'une défaillance technique.",
+      "resume": "Un bateau de croisière transportant près de 200 personnes a chaviré après avoir été percuté par un immense pétrolier alors qu'il était amarré à quai, provoquant une vive panique vendredi 14 novembre. Aucun disparu n'est à déplorer à la suite de cet accident spectaculaire, mais 32 passagers ont toutefois dû être hospitalisés.",
+      "contexte": "Les collisions portuaires impliquant de grands navires de commerce et des embarcations de tourisme restent des accidents rares mais redoutés en raison de la vulnérabilité des passagers. Les enquêtes sur ce type de drame cherchent généralement à déterminer s'il s'agit d'une avarie mécanique, d'une erreur humaine ou de conditions de navigation défavorables.",
       "image": "https://www.franceinfo.fr/pictures/Fuxco9dfrMwnsLd08GpyFs3w8mk/25x0:1579x874/432x243/filters:format(jpg)/2026/11/14/6af8c17f00984746692672.png"
     },
     {
@@ -237,146 +154,116 @@
       "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-11-14T21:15:18+01:00",
-      "resume": "La société Maileva, filiale du groupe La Poste, a été victime d'une cyberattaque ayant entraîné le vol de données concernant 22 millions de personnes. La Poste a indiqué qu'une plainte a été déposée et que la Commission nationale de l'informatique et des libertés (CNIL) a été notifiée. Une enquête judiciaire est actuellement en cours pour faire la lumière sur cet incident.",
-      "contexte": "Les cyberattaques visant les bases de données des entreprises sont en forte augmentation, posant des risques majeurs de fraude ou d'usurpation d'identité pour les victimes. La protection des données personnelles est devenue une priorité réglementaire, avec des sanctions sévères prévues par le RGPD en cas de défaut de sécurisation.",
+      "resume": "Maileva, une filiale du groupe La Poste, a été victime d'une cyberattaque ayant entraîné un vol de données touchant 22 millions de personnes. L'entreprise a notifié l'incident à la Commission nationale de l'informatique et des libertés (Cnil), déposé une plainte et fait l'objet d'une enquête judiciaire en cours, selon les précisions de La Poste.",
+      "contexte": "La multiplication des cyberattaques ciblant les grandes entreprises et les services publics souligne la vulnérabilité des infrastructures numériques détenant des données personnelles massives. Ce type d'incident accentue la pression réglementaire pour renforcer la sécurité informatique et expose les sociétés à de lourdes sanctions ainsi qu'à des risques accrus d'usurpation d'identité pour les victimes.",
       "image": "https://www.franceinfo.fr/pictures/6fxqbg_sGbxMA2kXVTZy9MwF_gQ/0x557:5354x3569/432x243/filters:format(jpg)/2026/11/14/6af8b9d543bae768990004.jpg"
+    }
+  ],
+  "aujourdhui": [
+    {
+      "titre": "De retour dans les Andes péruviennes, le pape Léon XIV s'inquiète de l'exode rural",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261115-perou-retour-andes-pape-l%C3%A9on-xiv-inquiet-exode-rural-pauvret%C3%A9",
+      "source": "France 24",
+      "date": "2026-11-15T12:06:47+01:00",
+      "resume": "En visite dans la région de Cajamarca, connue pour être la plus pauvre du Pérou, le pape Léon XIV a exprimé samedi son inquiétude face à la \"souffrance\" des populations rurales contraintes à l'exode. Ancien évêque de Chiclayo entre 2015 et 2023, le souverain pontife connaissait bien cette zone montagneuse où il s'était engagé à revenir.",
+      "contexte": "Le pape utilise régulièrement ses déplacements pour alerter sur la pauvreté endémique et les difficultés structurelles des zones rurales marginalisées en Amérique latine. L'exode rural fragilise les communautés traditionnelles et engendre une urbanisation subie, des thématiques centrales du pontificat actuel.",
+      "image": "https://s.france24.com/media/display/1e4a9246-e0e0-11f1-a218-29048b396e03/w:1024/p:16x9/000-D7HD3NR.jpg"
+    },
+    {
+      "titre": "Présidence de la Francophonie : Louise Mushikiwabo \"candidate jusqu'au bout\"",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261114-pr%C3%A9sidence-de-la-francophonie-louise-mushikiwabo-candidate-jusqu-au-bout",
+      "source": "France 24",
+      "date": "2026-11-15T12:06:04+01:00",
+      "resume": "Le XXe sommet de la Francophonie s'est ouvert à Phnom Penh, au Cambodge, avec au cœur des discussions la succession à la tête de l'Organisation Internationale de la Francophonie (OIF). La France aurait demandé au Rwanda de retirer la candidature de l'actuelle secrétaire générale, Louise Mushikiwabo, pour préserver l'unité et le consensus au sein de l'organisation. Emmanuel Macron a publiquement appelé à privilégier une alternative, tandis que la RD Congo a menacé de reconsidérer sa place dans l'institution en cas de réélection de la candidate rwandaise.",
+      "contexte": "La direction de l'OIF est régulièrement le théâtre de luttes d'influence géopolitiques, reflétant notamment les tensions diplomatiques régionales en Afrique, en particulier entre Kinshasa et Kigali. Le choix du secrétaire général pèse sur la capacité de l'organisation à porter des messages diplomatiques communs et à promouvoir la langue française, l'enjeu étant d'éviter toute fracture durable entre les pays membres.",
+      "image": "https://s.france24.com/media/display/5c4068b4-e077-11f1-9670-5f54d898a954/w:1024/p:16x9/FRDN-JOURNAL-AFRIQUE-261114-2027-Ep-75.jpg"
+    },
+    {
+      "titre": "« On ferme notre porte pour la dernière fois et, à l’idée de ne plus jamais entrer dans cet endroit, je pleure »",
+      "lien": "https://www.lemonde.fr/intimites/article/2026/11/15/on-ferme-notre-porte-pour-la-derniere-fois-et-a-l-idee-de-ne-plus-jamais-entrer-dans-cet-endroit-je-pleure_6811013_6190330.html",
+      "source": "Le Monde",
+      "date": "2026-11-15T12:00:13+01:00",
+      "resume": "Monelle, directrice des opérations du Club Landoy chez Bayard âgée de 37 ans, a témoigné de la difficulté psychologique de quitter son duplex avec terrasse situé à Pantin, devenu trop petit pour son foyer. Un déménagement s'avère souvent être un moment charnière, oscillant entre le renoncement à un lieu chargé de souvenirs et l'ouverture vers un nouveau départ.",
+      "contexte": "Le marché immobilier tendu dans les zones urbaines denses comme la petite couronne parisienne contraint de nombreux citadins à réévaluer leurs besoins résidentiels au fil de l'évolution de leur vie de famille. Ce type de transition met en lumière le rapport affectif fort que les habitants entretiennent avec leur logement et leur quartier.",
+      "image": "https://img.lemde.fr/2025/10/15/85/0/1024/512/644/322/60/0/914b2ee_upload-1-61erg36mtkyq-lemonde-animation-02.jpg"
+    },
+    {
+      "titre": "Sandra Wollner, réalisatrice d’« Everytime », une redoutable conteuse et artiste touche-à-tout",
+      "lien": "https://www.lemonde.fr/culture/article/2026/11/15/sandra-wollner-realisatrice-d-everytime-une-redoutable-conteuse-et-artiste-touche-a-tout_6811011_3246.html",
+      "source": "Le Monde",
+      "date": "2026-11-15T12:00:10+01:00",
+      "resume": "La cinéaste autrichienne Sandra Wollner présente son troisième long-métrage, intitulé « Everytime », après son film sulfureux « The Trouble With Being Born » sorti en 2020. Elle s'impose à travers ses œuvres comme une redoutable conteuse explorant la thématique du deuil maternel sous un angle inédit.",
+      "contexte": "Le cinéma d'auteur autrichien contemporain se distingue souvent par des propositions esthétiques audacieuses et une exploration psychologique sombre des relations familiales et intimes. Le parcours de Sandra Wollner illustre la reconnaissance progressive de voix féminines singulières dans le paysage cinématographique européen indépendant.",
+      "image": "https://img.lemde.fr/2026/11/06/125/0/3316/1658/644/322/60/0/1f0b5dd_upload-1-mfcjw73u54ly-063-2297809208.jpg"
+    },
+    {
+      "titre": "Hongrie : 17,7 millions d'euros saisis dans une enquête visant un ancien ministre",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-hongrie-17-7-millions-d-euros-saisis-dans-une-enqu%C3%AAte-visant-un-ancien-ministre",
+      "source": "France 24",
+      "date": "2026-11-15T11:59:07+01:00",
+      "resume": "L'agence anticorruption hongroise a annoncé la saisie de 17,7 millions d'euros en liquide, en partie enterrés dans des forêts, dans le cadre d'une enquête visant Miklos Sesztak, ancien ministre du Développement national sous Viktor Orban. L'ancien responsable est soupçonné d'avoir perçu des pots-de-vin dans une affaire d'achat de bus d'occasion à des prix présumés surévalués par une entreprise publique de transport.",
+      "contexte": "Ce type d'affaire met en lumière les soupçons persistants de corruption et de malversations financières qui entourent parfois la gestion des marchés publics dans le pays. Les enquêtes menées par les agences anticorruption constituent un enjeu politique majeur dans les rapports de force institutionnels.",
+      "image": "https://s.france24.com/media/display/425e96c0-e0e3-11f1-90df-3f371022a770/w:1024/p:16x9/capture-d830eb91.jpg"
+    },
+    {
+      "titre": "Paul Seixas remporte le Critérium de Saitama, un succès pour « bien finir » sa belle année 2026",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/15/paul-seixas-remporte-le-criterium-de-saitama-un-succes-pour-bien-finir-sa-belle-annee-2026_6811010_3242.html",
+      "source": "Le Monde · franceinfo",
+      "date": "2026-11-15T11:51:55+01:00",
+      "resume": "Le cycliste français Paul Seixas a remporté le Critérium de Saitama, une course d'exhibition organisée au Japon, en devançant le champion du monde américain Brandon McNulty dans les derniers kilomètres. À 20 ans, le coureur de la formation UAE Emirates – XRG conclut ainsi en beauté une saison remarquable marquée par ses premiers succès au plus haut niveau, bien que l'épreuve ne compte pas pour le calendrier UCI.",
+      "contexte": "Les critériums d'après-saison organisés en fin d'année hors d'Europe permettent aux stars du cyclisme international de briller devant un public lointain dans un format festif et déconnecté des exigences du classement mondial. Pour de jeunes talents comme Paul Seixas, cette victoire vient couronner une ascension rapide dans le peloton professionnel.",
+      "image": "https://img.lemde.fr/2026/11/15/1141/0/6846/3423/644/322/60/0/ebea3a4_ftp-1-g1cst6mjtxox-afp-d7hm6r3.jpg"
+    },
+    {
+      "titre": "Un important site industriel russe touché par des frappes attribuées à Kiev",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-important-site-industriel-russe-touche-par-des-frappes-attribuees-a-kiev_8283350.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-15T11:41:17+01:00",
+      "resume": "Un important site industriel situé dans la république du Tatarstan, en Russie, a été visé par des frappes attribuées à Kiev, selon les autorités locales citées par les médias russes. Le bilan provisoire fait état de trois blessés dans cette région, tandis qu'un mort a également été recensé par le gouverneur de la région voisine de Rostov-sur-le-Don.",
+      "contexte": "Ces frappes s'inscrivent dans la stratégie menée par l'Ukraine de cibler des infrastructures logistiques et industrielles en profondeur sur le territoire russe afin de perturber l'effort de guerre de Moscou. La multiplication de ces attaques sur des zones éloignées de la frontière témoigne de l'évolution des capacités aériennes et de la portée des armements employés.",
+      "image": "https://www.franceinfo.fr/pictures/E01iqGMTHUSVur7VLLqq_hERpfM/0x0:4837x2720/432x243/filters:format(jpg)/2026/11/15/6af98c38d5241879196027.jpg"
+    },
+    {
+      "titre": "Après l'échec du premier étage, SpaceX tente de rattraper le second étage de sa fusée Starship",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261114-apr%C3%A8s-l-%C3%A9chec-du-premier-%C3%A9tage-spacex-tente-de-rattraper-le-second-%C3%A9tage-de-sa-fus%C3%A9e-starship",
+      "source": "France 24 · franceinfo",
+      "date": "2026-11-15T11:24:22+01:00",
+      "resume": "Après avoir dû renoncer vendredi à rattraper le premier étage de sa mégafusée Starship en raison d'un incident technique, l'entreprise SpaceX d'Elon Musk a tenté de récupérer l'étage supérieur après plus de 22 heures de vol. L'entreprise est ainsi parvenue pour la première fois à récupérer cet étage supérieur, réussissant une prouesse technique majeure malgré l'échec sur l'étage inférieur.",
+      "contexte": "Le développement du système Starship repose entièrement sur la réutilisabilité intégrale de ses composants pour réduire drastiquement les coûts des vols spatiaux habités et du transport de charges lourdes. Chaque vol d'essai fournit à SpaceX des données cruciales pour valider ses technologies de guidage et de récupération, indispensables en vue des futures missions vers la Lune et Mars.",
+      "image": "https://s.france24.com/media/display/8cb1e4b2-e05b-11f1-b193-5f54d898a954/w:1024/p:16x9/2026-11-14T012408Z-750862810-RC2ANOA0O8FL-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg"
+    },
+    {
+      "titre": "\"Inside Gaza\" de la réalisatrice Hélène Lam Trong prix du meilleur documentaire au festival Cinemania",
+      "lien": "https://www.franceinfo.fr/culture/cinema/inside-gaza-de-la-realisatrice-helene-lam-trong-prix-du-meilleur-documentaire-au-festival-cinemania_8283296.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-15T11:12:27+01:00",
+      "resume": "Le documentaire \"Inside Gaza\", réalisé par Hélène Lam Trong, a remporté le prix du meilleur documentaire au festival Cinemania. Ce film, qui s'intéresse au quotidien des reporters de l'AFP sur place, avait déjà été primé au festival Doc Edge en Nouvelle-Zélande et avait décroché le Grand prix du 33e Festival international du grand reportage d'actualité et du documentaire de société en France.",
+      "contexte": "La reconnaissance internationale de documentaires consacrés aux zones de conflit souligne l'importance du travail de terrain des journalistes pour documenter la réalité des populations civiles et des professionnels de l'information. Ces distinctions saluent la prise de risque et la rigueur des équipes de reportage dans des contextes de guerre périlleux.",
+      "image": "https://www.franceinfo.fr/pictures/P3BegKn4iPrDx3Vh9uwGVkN8TSs/64x0:1091x578/432x243/filters:format(jpg)/2026/11/15/6af9857c43a24029533674.png"
     }
   ],
   "culture": [
     {
-      "theme": "mythologie grecque",
-      "titre": "Les Douze Travaux d'Héraclès",
-      "texte": "Condamné à servir le roi Eurysthée pour expier un terrible crime, le demi-dieu Héraclès dut accomplir une série de dix tâches jugées impossibles. Face à la complexité de certaines épreuves, comme le nettoyage des écuries d'Augias ou la capture de la biche de Cérynie, le nombre fut finalement porté à douze. Ces exploits monumentaux menèrent le héros aux quatre coins du monde connu, de la némée fertile aux enfers d'Hadès. Par la suite, ces épreuves sont devenues le symbole universel du dépassement de soi face à l'adversité. À l'issue de ses exploits, Héraclès accéda finalement au rang de divinité sur l'Olympe.",
-      "a_retenir": "Les Douze Travaux illustrent la quête de rédemption et la force herculéenne du plus célèbre héros de la Grèce antique.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Mosaico_de_los_trabajos_de_H%C3%A9rcules%2C_Museo_Arqueol%C3%B3gico_Nacional%2C_Madrid%2C_Espa%C3%B1a%2C_2016_14.jpg/960px-Mosaico_de_los_trabajos_de_H%C3%A9rcules%2C_Museo_Arqueol%C3%B3gico_Nacional%2C_Madrid%2C_Espa%C3%B1a%2C_2016_14.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "theme": "arts et littérature",
+      "titre": "Le mystère du tableau volé",
+      "texte": "En 1911, la célèbre Joconde de Léonard de Vinci disparaît du musée du Louvre, provoquant un scandale médiatique mondial et une enquête policière sans précédent. Pendant plus de deux ans, le tableau introuvable alimente toutes les rumeurs et les unes des journaux, tandis que des innocents, dont le poète Guillaume Apollinaire, sont soupçonnés à tort. Le voleur, un ancien employé italien du musée nommé Vincenzo Peruggia, est finalement arrêté à Florence alors qu'il tente de vendre l'œuvre à un antiquaire. Il agissait par patriotisme naïf, persuadé que le chef-d'œuvre devait retourner dans son pays d'origine. Ce vol audacieux a paradoxalement contribué à transformer le portrait en une icône populaire universelle.",
+      "a_retenir": "Le vol de la Joconde en 1911 par Vincenzo Peruggia a propulsé le tableau au rang de célébrité mondiale.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Excelsior_-_Vincenzo_Peruggia_-_Vol_de_La_Joconde_-_Mona_Lisa.jpg/960px-Excelsior_-_Vincenzo_Peruggia_-_Vol_de_La_Joconde_-_Mona_Lisa.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "theme": "économie",
-      "titre": "La monnaie de singe",
-      "texte": "Cette expression populaire bien connue tire en réalité ses origines d'une taxe médiévale très pragmatique. Au Moyen Âge, les montreurs de singes et autres saltimbanques devaient s'acquitter d'un droit de péage pour traverser les ponts ou entrer dans les villes. Pour éviter de payer en véritable monnaie sonnante et trébuchante, les artistes proposaient aux gardes un spectacle amusant réalisé par leur animal. Les péageurs acceptaient ce divertissement en guise de paiement, donnant naissance à la fameuse formule. Aujourd'hui, l'expression désigne une promesse de paiement qui ne sera jamais tenue.",
-      "a_retenir": "Payer en monnaie de singe consistait à offrir un divertissement en guise de taxe au Moyen Âge.",
-      "image": ""
+      "titre": "La tulipomanie",
+      "texte": "Au XVIIe siècle, les Pays-Bas connaissent la première grande bulle spéculative de l'histoire moderne autour d'un produit inattendu : les bulbes de tulipes. Récemment introduites depuis l'Empire ottoman, ces fleurs aux motifs flammés fascinent l'aristocratie et la bourgeoisie commerçante. Les prix s'envolent de manière irrationnelle, au point qu'un seul bulbe rare peut valoir plusieurs fois le prix d'une maison cossue à Amsterdam. De simples citoyens se mettent à hypothéquer leurs biens pour miser sur ce marché hautement volatil. La bulle finit par éclater brutalement en 1637, ruinant de nombreux spéculateurs et marquant durablement les esprits sur les dangers de l'euphorie financière.",
+      "a_retenir": "La tulipomanie hollandaise est considérée comme la première bulle spéculative documentée de l'histoire économique.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tooneel_van_Flora_Handel_der_Floristen_in_Amsterdam_1637_%28Tulip_mania%29.png/960px-Tooneel_van_Flora_Handel_der_Floristen_in_Amsterdam_1637_%28Tulip_mania%29.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
-      "theme": "science",
-      "titre": "L'effet Tyndall",
-      "texte": "L'effet Tyndall désigne un phénomène optique fascinant qui permet de comprendre pourquoi certains éléments du quotidien nous apparaissent colorés. Lorsqu'un faisceau de lumière traverse un milieu transparent contenant de très petites particules en suspension, comme de la fumée ou du brouillard, la lumière est diffusée. Ce sont les ondes les plus courtes, c'est-à-dire les lumières bleues, qui sont le plus facilement dispersées par ces minuscules obstacles. C'est en grande partie grâce à ce principe physique que s'explique la couleur bleue de certains yeux humains dépourvus de pigments bleus. Ce phénomène a été mis en évidence au dix-neuvième siècle par le physicien irlandais John Tyndall.",
-      "a_retenir": "L'effet Tyndall explique la diffusion de la lumière par des particules en suspension, influençant la couleur apparente de certains milieux.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/SonneNebel.jpg/960px-SonneNebel.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "theme": "nature et animaux",
+      "titre": "Le langage des arbres",
+      "texte": "Contrairement aux apparences, les arbres d'une forêt ne vivent pas isolés, mais forment une communauté interconnectée et solidaire. Grâce à un réseau souterrain composé de champignons microscopiques, appelé mycorhize, ils échangent des nutriments, de l'eau et des signaux d'alerte. Lorsqu'un arbre est attaqué par des parasites, il envoie des messages chimiques à ses voisins via ce réseau pour qu'ils renforcent leurs défenses. Les arbres les plus anciens agissent ainsi comme des mères bienveillantes en nourrissant les jeunes pousses qui manquent de lumière. Cette découverte bouleverse notre vision du monde végétal, longtemps perçu à tort comme totalement passif.",
+      "a_retenir": "Les arbres communiquent et s'entraident sous terre grâce à un vaste réseau de champignons.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Differents_types_d%27ectomycorhizes.jpg/960px-Differents_types_d%27ectomycorhizes.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "8ad3d3d575",
-      "date": "2026-11-14",
-      "type": "actu",
-      "question": "Quel est l'objectif principal de la fusée Starship développée par SpaceX ?",
-      "choix": [
-        "Effectuer des missions vers la Lune et Mars",
-        "Remplacer la Station spatiale internationale",
-        "Transporter des satellites de télécommunication",
-        "Nettoyer les débris spatiaux en orbite terrestre"
-      ],
-      "reponse": 0,
-      "explication": "Le texte indique que Starship est conçue comme la fusée la plus puissante jamais construite avec pour objectif des missions vers la Lune et Mars.",
-      "lien": "https://www.lemonde.fr/sciences/article/2026/11/14/spacex-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship-une-premiere_6810676_1650684.html",
-      "image": "https://img.lemde.fr/2026/11/14/272/0/3262/1631/644/322/60/0/e84e335_ftp-1-ch1h16d3p5w2-41e845decc8940e3a1fa041ed3642939-0-af13e9d47fab4bbbb18c3982377c9425.jpg"
-    },
-    {
-      "id": "9ae4888f6e",
-      "date": "2026-11-14",
-      "type": "actu",
-      "question": "Quel pays a enregistré la plus forte hausse des prix du logement par rapport aux revenus entre 2015 et 2025 au sein de l'UE ?",
-      "choix": [
-        "L'Italie",
-        "L'Espagne",
-        "La France",
-        "Le Portugal"
-      ],
-      "reponse": 3,
-      "explication": "L'article précise que le Portugal a enregistré la plus forte hausse de cet indicateur, avec une progression de 60,8 %.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html",
-      "image": "https://img.lemde.fr/2026/11/14/500/0/6000/3000/644/322/60/0/3cded0a_ftp-1-gqrbce5ibzka-2026-11-14t180626z-115271520-rc2snoayehf8-rtrmadp-3-portugal-housing-protest.JPG"
-    },
-    {
-      "id": "c76d57c164",
-      "date": "2026-11-14",
-      "type": "actu",
-      "question": "Quel poste Michel Destot a-t-il occupé pendant 19 ans ?",
-      "choix": [
-        "Maire de Grenoble",
-        "Président de l'Assemblée nationale",
-        "Ministre de l'Intérieur",
-        "Député de Paris"
-      ],
-      "reponse": 0,
-      "explication": "Michel Destot a été maire de Grenoble de 1995 à 2014, soit une période de 19 ans.",
-      "lien": "https://www.lemonde.fr/disparitions/article/2026/11/14/michel-destot-ancien-maire-ps-de-grenoble-et-depute-de-l-isere-est-mort_6810610_3382.html",
-      "image": "https://img.lemde.fr/2026/11/14/351/0/4212/2106/644/322/60/0/7f890ce_ftp-1-w0ui4cg5yomj-afp-d7h33kf.jpg"
-    },
-    {
-      "id": "4fbaa4672b",
-      "date": "2026-11-14",
-      "type": "actu",
-      "question": "Combien de personnes ont été touchées par le vol de données chez Maileva, filiale de La Poste ?",
-      "choix": [
-        "12 millions",
-        "22 millions",
-        "2,2 millions",
-        "42 millions"
-      ],
-      "reponse": 1,
-      "explication": "L'article mentionne explicitement que la cyberattaque a entraîné le vol de données concernant 22 millions de personnes.",
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/6fxqbg_sGbxMA2kXVTZy9MwF_gQ/0x557:5354x3569/432x243/filters:format(jpg)/2026/11/14/6af8b9d543bae768990004.jpg"
-    },
-    {
-      "id": "9819c01bb0",
-      "date": "2026-11-14",
-      "type": "actu",
-      "question": "Quel joueur a marqué le but de la victoire pour l'Algérie face au Togo ?",
-      "choix": [
-        "Mahrez",
-        "Bensebaïni",
-        "Slimani",
-        "Bennacer"
-      ],
-      "reponse": 1,
-      "explication": "Le résumé de l'article précise que la victoire 1-0 de l'Algérie a été obtenue grâce à un but de Bensebaïni en fin de match.",
-      "lien": "https://www.france24.com/fr/sports/20261114-%C3%A9liminatoires-de-la-can-2027-l-alg%C3%A9rie-cale-contre-le-togo-mais-reste-en-t%C3%AAte-de-son-groupe",
-      "image": ""
-    },
-    {
-      "id": "6dd38b01a0",
-      "date": "2026-11-14",
-      "type": "culture",
-      "question": "Quelle est l'origine historique de l'expression 'payer en monnaie de singe' ?",
-      "choix": [
-        "Le nom d'une fausse monnaie utilisée par les saltimbanques",
-        "Une ancienne coutume de troc dans les marchés orientaux",
-        "Une taxe médiévale payée par des spectacles d'animaux",
-        "Une blague faite par les rois de France à leurs sujets"
-      ],
-      "reponse": 2,
-      "explication": "Au Moyen Âge, les saltimbanques payaient le droit de passage des ponts en offrant un spectacle de singe plutôt qu'en argent.",
-      "lien": "",
-      "image": ""
-    },
-    {
-      "id": "d1dbe844a9",
-      "date": "2026-11-14",
-      "type": "culture",
-      "question": "Quel phénomène physique explique la couleur bleue de certains yeux sans pigments bleus ?",
-      "choix": [
-        "La réfraction de la lumière",
-        "La diffraction de Bragg",
-        "La réflexion totale interne",
-        "L'effet Tyndall"
-      ],
-      "reponse": 3,
-      "explication": "L'effet Tyndall, qui diffuse les ondes lumineuses les plus courtes (le bleu), explique pourquoi certains yeux apparaissent bleus sans pigment.",
-      "lien": "",
-      "image": ""
-    }
-  ]
+  "quiz_jour": []
 }
