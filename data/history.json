@@ -1677,6 +1677,29 @@
           "image": "https://www.franceinfo.fr/pictures/ulDVpX0gPscn6hSH1qRaf_0zQho/0x85:640x445/432x243/filters:format(jpg)/2026/11/16/6afae519e9bd1073035229.jpg"
         }
       ]
+    },
+    "2026-11-17": {
+      "morning_run": "2026-11-17T00:37:39.885486+01:00",
+      "morning_items": [
+        {
+          "titre": "Le XXᵉ Sommet de la francophonie paralysé par les tensions diplomatiques​",
+          "lien": "https://www.lemonde.fr/international/article/2026/11/16/une-crise-inedite-au-sommet-de-la-francophonie-paralysee-par-les-tensions-diplomatiques_6812590_3210.html",
+          "source": "Le Monde · France 24",
+          "date": "2026-11-17T00:11:50+01:00",
+          "resume": "Le XXe Sommet de la francophonie s'est achevé lundi au Cambodge sur un report d'un an de la désignation du secrétaire général, une première dans l'histoire de l'Organisation internationale de la francophonie qui compte 53 États membres. Ce blocage est la conséquence directe de tensions diplomatiques et d'un affrontement entre Kinshasa et Kigali concernant un éventuel troisième mandat de la sortante, la Rwandaise Louise Mushikiwabo, qui reste donc en poste en attendant le prochain scrutin.",
+          "contexte": "L'Organisation internationale de la francophonie peine parfois à maintenir un consensus entre ses membres en raison de différends géopolitiques régionaux, en particulier sur le continent africain où se joue en grande partie l'avenir de la langue française. Les relations tendues entre la République démocratique du Congo et le Rwanda illustrent la complexité de la diplomatie multilatérale au sein de cette institution.",
+          "image": "https://img.lemde.fr/2026/11/16/558/0/6691/3345/644/322/60/0/09df054_ftp-1-uvp2uxnwa0y7-afp-d7lg7aw.jpg"
+        },
+        {
+          "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+          "lien": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+          "source": "France 24 · Le Monde · franceinfo",
+          "date": "2026-11-17T00:08:36+01:00",
+          "resume": "Cinq candidats à l'élection présidentielle française, Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal, ont participé lundi à un débat de près de trois heures diffusé sur TF1 et LCI. Organisé en région parisienne dans un entrepôt des Restos du Cœur et en l'absence d'Édouard Philippe, cet échange a porté sur les impôts, le logement, le Smic, les inégalités, le pouvoir d'achat et la solidarité. Les participants se sont mutuellement reprochés l'absence de financement réaliste pour leurs propositions, et Marine Le Pen a notamment été critiquée pour sa volonté de supprimer les subventions aux associations qualifiées de politisées.",
+          "contexte": "À l'approche de l'élection présidentielle de 2027, les débats télévisés constituent des moments clés de la campagne pour départager les visions économiques et sociales des candidats. Les thèmes de la fiscalité et des dépenses publiques cristallisent traditionnellement les oppositions entre les différents blocs politiques.",
+          "image": "https://s.france24.com/media/display/42d470aa-e1fd-11f1-8ae5-29048b396e03/w:1024/p:16x9/ed3c088ea9257dd439b036c7fb6d4d1fbf16b421.jpg"
+        }
+      ]
     }
   },
   "culture_seen": [
@@ -1757,6 +1780,9 @@
     "Le langage des arbres",
     "L'histoire du maillot jaune",
     "La capsule du temps de la Statue de la Liberté",
-    "Le sommeil paradoxal des manchots"
+    "Le sommeil paradoxal des manchots",
+    "La sieste fractionnée des frégates",
+    "L'origine du mot pourboire",
+    "Le point culminant de l'Océanie et le Puncak Jaya"
   ]
 }
