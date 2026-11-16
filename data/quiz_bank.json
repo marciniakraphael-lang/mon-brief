@@ -6170,6 +6170,118 @@
       "explication": "La « tulipomanie » a vu le prix des bulbes de tulipes atteindre des sommets irrationnels avant l'éclatement brutal du marché en 1637.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "1c3614cf4d",
+      "date": "2026-11-16",
+      "type": "actu",
+      "question": "Quel syndicat étudiant a déposé un recours pour contester l'interdiction des rassemblements près des lycées en région parisienne ?",
+      "choix": [
+        "Le SGL",
+        "L'Unef",
+        "La Fage",
+        "L'UNI"
+      ],
+      "reponse": 1,
+      "explication": "Un recours a été déposé par l'Unef pour contester la mesure restrictive prise par la préfecture de police de Paris.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/QpCU5zTY-5pZsu5c-COzOPDefq0/0x100:1024x676/432x243/filters:format(jpg)/2026/11/16/6afb13e5781ef144090168.jpg"
+    },
+    {
+      "id": "aac5723e60",
+      "date": "2026-11-16",
+      "type": "actu",
+      "question": "Dans quel pays s'est produit l'incendie d'un immeuble à Phuket ayant fait au moins 11 morts ?",
+      "choix": [
+        "Le Vietnam",
+        "La Thaïlande",
+        "La Malaisie",
+        "L'Indonésie"
+      ],
+      "reponse": 1,
+      "explication": "L'incendie a eu lieu sur l'île touristique de Phuket, en Thaïlande.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/incendie-d-un-immeuble-a-phuket-au-moins-11-morts-et-36-blesses_8284961.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/eZ_oefNfKvrvna3nxuRtbqnBZ7Q/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/16/6afb111a55e76564993826.jpg"
+    },
+    {
+      "id": "7530498883",
+      "date": "2026-11-16",
+      "type": "actu",
+      "question": "Qui a été nommée Défenseure des enfants après avoir dirigé l'École nationale de la magistrature ?",
+      "choix": [
+        "Nathalie Roret",
+        "Caroline Roux",
+        "Taulant Balla",
+        "Éric Delemar"
+      ],
+      "reponse": 0,
+      "explication": "Nathalie Roret, avocate pénaliste et ancienne directrice de l'École nationale de la magistrature, a été nommée Défenseure des enfants.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/16/nathalie-roret-ex-directrice-de-l-ecole-nationale-de-la-magistrature-nommee-defenseure-des-enfants_6811963_3224.html",
+      "image": "https://img.lemde.fr/2026/11/16/266/0/527/263/644/322/60/0/d0d0219_upload-1-jdnopmg4eimc-jo.jpg"
+    },
+    {
+      "id": "2da33acebc",
+      "date": "2026-11-16",
+      "type": "actu",
+      "question": "De quelle ville Michel Destot, décédé à l'âge de 80 ans, a-t-il été le maire de 1995 à 2014 ?",
+      "choix": [
+        "Grenoble",
+        "Toulouse",
+        "Lyon",
+        "Marseille"
+      ],
+      "reponse": 0,
+      "explication": "Michel Destot a été maire socialiste de Grenoble de 1995 à 2014.",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/11/16/la-mort-de-l-ancien-maire-de-grenoble-michel-destot-profil-atypique-au-sein-de-la-famille-social-democrate_6811898_3382.html",
+      "image": "https://img.lemde.fr/2026/11/16/250/0/3000/1500/644/322/60/0/d111f09_upload-1-qaf6zvhrb1jt-000-par378274.jpg"
+    },
+    {
+      "id": "d5d82b17f9",
+      "date": "2026-11-16",
+      "type": "actu",
+      "question": "L'élection du secrétaire général de quelle organisation a été reportée d'un an en raison d'un défaut de consensus ?",
+      "choix": [
+        "L'ONU",
+        "L'OIF",
+        "L'UNESCO",
+        "L'OTAN"
+      ],
+      "reponse": 1,
+      "explication": "Il s'agit de l'Organisation internationale de la Francophonie (OIF).",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-sommet-de-l-oif-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-report%C3%A9e-macron-salue-un-compromis",
+      "image": "https://s.france24.com/media/display/2eba4e06-e1b6-11f1-8286-29048b396e03/w:1024/p:16x9/FR-20261116-120447-120641-CS.jpg"
+    },
+    {
+      "id": "bd8d30d30c",
+      "date": "2026-11-16",
+      "type": "culture",
+      "question": "Pourquoi le maillot du leader du Tour de France est-il de couleur jaune ?",
+      "choix": [
+        "En hommage au journal l'Auto qui était imprimé sur du papier de cette couleur",
+        "Pour imiter le drapeau de la région de Paris",
+        "Parce que c'était la couleur préférée du créateur de la course",
+        "Pour rappeler la couleur du soleil et de la victoire"
+      ],
+      "reponse": 0,
+      "explication": "Le choix du jaune a été adopté pour rendre hommage au journal l'Auto, l'organisateur historique de la course, qui était imprimé sur du papier de cette couleur.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "adaf897a30",
+      "date": "2026-11-16",
+      "type": "culture",
+      "question": "Quel type d'objet a été dissimulé dans le socle de la Statue de la Liberté lors de son inauguration ?",
+      "choix": [
+        "Une bouteille à la mer scellée",
+        "Une capsule temporelle",
+        "Un coffre-fort rempli d'or",
+        "Une statue en bronze miniature"
+      ],
+      "reponse": 1,
+      "explication": "Les artisans et personnalités ont dissimulé une capsule temporelle en cuivre contenant des documents officiels et des photographies.",
+      "lien": "",
+      "image": ""
     }
   ]
 }

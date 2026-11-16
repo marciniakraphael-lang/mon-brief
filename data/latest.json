@@ -1,7 +1,7 @@
 {
   "date": "2026-11-16",
-  "mode": "morning",
-  "updated": "2026-11-16T12:50:33.822919+01:00",
+  "mode": "evening",
+  "updated": "2026-11-16T15:38:41.321684+01:00",
   "deja_presente": [
     {
       "titre": "De retour dans les Andes péruviennes, le pape Léon XIV s'inquiète de l'exode rural",
@@ -125,85 +125,103 @@
   ],
   "aujourdhui": [
     {
-      "titre": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
-      "lien": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde · France 24 · franceinfo",
-      "date": "2026-11-16T12:38:44+01:00",
-      "resume": "L'Estonie a annoncé la fermeture de tous ses postes frontaliers avec la Russie à compter du 1er décembre. Cette décision fait suite à une tentative d'incendie visant une usine de drones estonienne, que les autorités de Tallinn attribuent au renseignement militaire russe. Moscou a vivement critiqué cette mesure de fermeture.",
-      "contexte": "Les tensions entre les pays baltes et la Russie se sont intensifiées depuis le début du conflit en Ukraine. Ces nations, membres de l'OTAN, dénoncent régulièrement des tentatives de déstabilisation ou de sabotage menées par Moscou sur leur sol, ce qui conduit à un renforcement constant des mesures de sécurité aux frontières.",
-      "image": "https://www.franceinfo.fr/pictures/dSP8Vka2xNoCQslxLonYqRxIWSI/0x485:8256x5129/432x243/filters:format(jpg)/2026/11/15/6af9dbfe35c10151645611.jpg"
-    },
-    {
-      "titre": "Ebola en RDC : l'épidémie a fait plus de 5400 mort en six mois",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-ebola-en-rdc-l-%C3%A9pid%C3%A9mie-a-fait-plus-de-5400-mort-en-six-mois",
-      "source": "France 24",
-      "date": "2026-11-16T12:36:09+01:00",
-      "resume": "La République démocratique du Congo fait face à une épidémie d'Ebola particulièrement meurtrière, ayant causé 5 471 décès sur 11 197 cas en six mois. Il s'agit de la 17e flambée de la maladie dans l'histoire du pays et de la plus grave enregistrée à ce jour.",
-      "contexte": "Les épidémies d'Ebola sont récurrentes en RDC et posent des défis sanitaires majeurs en raison de l'instabilité sécuritaire et des difficultés d'accès aux zones reculées. La lutte contre la maladie repose sur la vaccination, le suivi des contacts et l'éducation des populations locales.",
-      "image": "https://s.france24.com/media/display/e4536344-e1aa-11f1-80ee-3f371022a770/w:1024/p:16x9/Couv-RDC-Bilan-EBOLA.jpg"
-    },
-    {
-      "titre": "Frappes ukrainiennes en Russie : le pont de Crimée touché",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-frappes-ukrainiennes-en-russie-le-pont-de-crim%C3%A9e-touch%C3%A9",
-      "source": "France 24",
-      "date": "2026-11-16T12:35:48+01:00",
-      "resume": "Le pont de Crimée, infrastructure stratégique reliant la Russie à la péninsule annexée, a été frappé par des attaques ukrainiennes. En parallèle, Moscou a affirmé avoir abattu plus de 1 300 drones ukrainiens durant la nuit, alors que les frappes russes sur les infrastructures énergétiques ukrainiennes se poursuivent à l'approche de l'hiver.",
-      "contexte": "Le conflit entre l'Ukraine et la Russie est entré dans une phase d'usure marquée par des attaques réciproques contre les infrastructures critiques. Le pont de Crimée est un symbole fort de l'occupation russe, faisant de lui une cible prioritaire pour Kiev afin de perturber la logistique militaire de Moscou.",
-      "image": "https://s.france24.com/media/display/3c690d70-e1ad-11f1-9a03-f71d22e7fea9/w:1024/p:16x9/FR-20261116-093408-093822-CS.jpg"
-    },
-    {
-      "titre": "France : le lycée Neslon Mandela rouvre ses portes à Nantes",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-france-le-lyc%C3%A9e-neslon-mandela-rouvre-ses-portes-%C3%A0-nantes",
-      "source": "France 24",
-      "date": "2026-11-16T12:33:00+01:00",
-      "resume": "Le lycée Nelson-Mandela de Nantes a rouvert partiellement ses portes ce lundi, après avoir été partiellement incendié lors d'une mobilisation lycéenne en octobre. Le ministre de l'Éducation, Édouard Geffray, présent sur place, a été hué par des élèves dénonçant une absence de dialogue sur leurs revendications.",
-      "contexte": "Les mouvements lycéens en France débouchent parfois sur des tensions entre les élèves et le ministère de l'Éducation. La réouverture des établissements après des dégradations est souvent le théâtre d'expressions de colère sociale ou de mécontentement étudiant face aux politiques éducatives.",
-      "image": "https://s.france24.com/media/display/4c6b2b04-e1ad-11f1-b22c-29048b396e03/w:1024/p:16x9/FR-20261116-110349-110453-CS-01.jpg"
-    },
-    {
-      "titre": "Le projet de loi sur le logement examiné à l'Assemblée \"va uniquement dans le sens des bailleurs\", dénonce la Fondation pour le logement des défavorisés",
-      "lien": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/le-projet-de-loi-sur-le-logement-examine-a-l-assemblee-va-uniquement-dans-le-sens-des-bailleurs-denonce-la-fondation-pour-le-logement-des-defavorises_8284769.html#xtor=RSS-3-[lestitres]",
+      "titre": "Crise sociale : un recours de l'Unef examiné après l'interdiction de rassemblements et cortèges près de lycées et d'universités en région parisienne",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-16T12:29:37+01:00",
-      "resume": "La Fondation pour le logement des défavorisés a critiqué le nouveau projet de loi sur le logement, estimant qu'il favorise les bailleurs au détriment des locataires. Le texte, qui conditionne la remise sur le marché des passoires énergétiques à des travaux, est perçu par l'association comme un délai supplémentaire accordé aux propriétaires.",
-      "contexte": "La crise du logement en France est alimentée par la rareté des biens, la hausse des prix et les exigences croissantes en matière de transition énergétique. Le gouvernement tente d'équilibrer les contraintes environnementales pour les propriétaires avec la nécessité de maintenir une offre locative accessible.",
-      "image": "https://www.franceinfo.fr/pictures/ZjKmGahzsqrkabBG-SEEAmLDVRs/0x276:5321x3270/432x243/filters:format(jpg)/2026/11/16/6afaea41a44a5632127957.jpg"
+      "date": "2026-11-16T15:32:21+01:00",
+      "resume": "La préfecture de police de Paris a annoncé dimanche l'interdiction des rassemblements et cortèges non déclarés dans un rayon de 100 mètres autour de certains lycées et établissements d'enseignement supérieur de la région parisienne. Cette décision intervient dans un contexte de crise sociale. Un recours a été déposé par l'Unef pour contester cette mesure restrictive.",
+      "contexte": "Ce type d'interdiction est généralement mis en place par les autorités pour maintenir l'ordre public, prévenir les débordements et sécuriser les abords des établissements scolaires lors de mouvements contestataires. L'enjeu est de concilier le droit constitutionnel de manifester avec la sécurité des biens et des personnes, tout en évitant la paralysie des transports et des infrastructures environnantes.",
+      "image": "https://www.franceinfo.fr/pictures/QpCU5zTY-5pZsu5c-COzOPDefq0/0x100:1024x676/432x243/filters:format(jpg)/2026/11/16/6afb13e5781ef144090168.jpg"
     },
     {
-      "titre": "Ukraine : le prince Harry aux côtés des soldats blessées et des soignants à Lviv",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-ukraine-le-prince-harry-aux-c%C3%B4t%C3%A9s-des-soldats-bless%C3%A9es-et-des-soignants-%C3%A0-lviv",
-      "source": "France 24",
-      "date": "2026-11-16T12:29:01+01:00",
-      "resume": "Le prince Harry a effectué une visite surprise en Ukraine pour rencontrer des soldats blessés et le personnel soignant à Lviv. Il a exprimé son soutien aux militaires, réaffirmant son engagement envers cette cause lors de son quatrième déplacement dans le pays depuis 2022.",
-      "contexte": "Depuis son retrait de ses fonctions royales, le prince Harry s'est investi dans des causes humanitaires et militaires. Sa présence en Ukraine témoigne d'un soutien symbolique fort de personnalités internationales envers les victimes de l'invasion russe.",
-      "image": "https://s.france24.com/media/display/f2c673ba-e1ac-11f1-9ecd-f71d22e7fea9/w:1024/p:16x9/FR-20261116-093835-093942-CS-01.jpg"
+      "titre": "Incendie d’un immeuble à Phuket : au moins 11 morts et 36 blessés",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/incendie-d-un-immeuble-a-phuket-au-moins-11-morts-et-36-blesses_8284961.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-16T15:23:29+01:00",
+      "resume": "Un incendie a ravagé un immeuble abritant un restaurant et des logements sur l'île touristique de Phuket, en Thaïlande. Le dernier bilan fait état d'au moins 11 morts et 36 blessés. Pour l'instant, l'origine exacte du feu reste inconnue.",
+      "contexte": "Les drames survenant dans des complexes mixtes (commerces et habitations) rappellent souvent l'importance cruciale des normes de sécurité incendie, notamment dans les zones à forte affluence touristique. Les motifs ou défaillances techniques à l'origine du sinistre devront être déterminés par les enquêtes locales pour comprendre comment le feu s'est propagé aussi rapidement.",
+      "image": "https://www.franceinfo.fr/pictures/eZ_oefNfKvrvna3nxuRtbqnBZ7Q/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/16/6afb111a55e76564993826.jpg"
     },
     {
-      "titre": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les houthis",
-      "lien": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde · France 24",
-      "date": "2026-11-16T12:26:54+01:00",
-      "resume": "Les rebelles Houthis, soutenus par l'Iran, progressent dans le sud du Yémen et se trouvent désormais à environ 60 kilomètres d'Aden. Cette ville sert de capitale provisoire au gouvernement reconnu par la communauté internationale depuis la chute de Sanaa en 2014. Les forces gouvernementales ont commencé à masser des renforts militaires autour de la ville pour tenter de stopper cette avancée.",
-      "contexte": "Le Yémen est en proie à une guerre civile dévastatrice depuis une décennie, opposant les rebelles Houthis au pouvoir central soutenu par une coalition internationale. Ce conflit, qui a provoqué l'une des pires crises humanitaires au monde, est exacerbé par des enjeux de pouvoir régionaux, notamment la rivalité entre l'Arabie saoudite et l'Iran.",
-      "image": "https://www.franceinfo.fr/pictures/p7ws1z6WXQ9kLnKa7vHWGiKuyt0/0x200:3410x2118/432x243/filters:format(jpg)/2026/11/15/6af9fdc946b93220733926.jpg"
-    },
-    {
-      "titre": "Législatives en Israël : Netanyahu \"ne peut par rester une minute de plus\" d'après Eisenkot",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-ne-peut-par-rester-une-minute-de-plus-d-apr%C3%A8s-eisenkot",
-      "source": "France 24",
-      "date": "2026-11-16T12:24:26+01:00",
-      "resume": "Gadi Eisenkot, rival politique de Benjamin Netanyahu, a déclaré que le Premier ministre israélien ne pouvait plus rester au pouvoir. Cette prise de position intervient après des révélations médiatiques impliquant des proches du chef du gouvernement dans une manipulation visant des partis arabes.",
-      "contexte": "La vie politique israélienne est marquée par une forte polarisation et des scandales récurrents qui fragilisent les coalitions au pouvoir. Les accusations de manipulation électorale ou d'abus de pouvoir sont régulièrement utilisées par l'opposition pour réclamer la démission des dirigeants en place.",
-      "image": "https://s.france24.com/media/display/626cd09e-e1ab-11f1-940c-3f371022a770/w:1024/p:16x9/FR-20261116-091708-091846-CS-01.jpg"
-    },
-    {
-      "titre": "\"Une jolie robe rouge poudrée\" : Seraffine, une vache auvergnate est l'égérie du Salon international de l'agriculture 2027",
-      "lien": "https://www.franceinfo.fr/societe/salon-de-l-agriculture/une-jolie-robe-rouge-poudree-seraffine-une-vache-auvergnate-est-l-egerie-du-salon-international-de-l-agriculture-2027_8284754.html#xtor=RSS-3-[lestitres]",
+      "titre": "Présidentielle 2027 : posez vos questions à Gabriel Attal, invité de \"L'Heure de vérité\"",
+      "lien": "https://www.franceinfo.fr/politique/gabriel-attal/appel-a-temoignages-presidentielle-2027-posez-vos-questions-a-gabriel-attal-invite-de-l-heure-de-verite_8284901.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-16T12:18:57+01:00",
-      "resume": "La vache Seraffine, de race auvergnate, a été choisie comme égérie du Salon international de l'agriculture 2027. Cette nomination marque le retour des bovins au salon après une interruption en 2025 due à une crise sanitaire liée à la dermatose nodulaire.",
-      "contexte": "Le Salon international de l'agriculture est un événement majeur en France qui met en avant le monde rural et les filières d'élevage. Les crises sanitaires animales peuvent avoir des conséquences économiques et logistiques importantes pour l'organisation de ces rassemblements agricoles.",
-      "image": "https://www.franceinfo.fr/pictures/ulDVpX0gPscn6hSH1qRaf_0zQho/0x85:640x445/432x243/filters:format(jpg)/2026/11/16/6afae519e9bd1073035229.jpg"
+      "date": "2026-11-16T15:20:46+01:00",
+      "resume": "L'ancien Premier ministre et candidat Renaissance à l'élection présidentielle de 2027, Gabriel Attal, est l'invité de l'émission \"L'Heure de vérité\" présentée par Caroline Roux. Il doit répondre aux questions des téléspectateurs et exposer ses propositions sur France 2 jeudi soir.",
+      "contexte": "À l'approche des échéances électorales, les personnalités politiques multiplient les interventions dans les médias grand public pour affiner leur stature présidentielle et présenter leur programme. Ces émissions constituent un enjeu stratégique majeur pour convaincre l'électorat, clarifier des positions programmatiques et répondre aux interpellations directes des citoyens.",
+      "image": "https://www.franceinfo.fr/pictures/mz17vmRR2eulLxWAUO11M8xqCGE/0x0:1181x664/432x243/filters:format(jpg)/2026/10/05/6ac4094ad59fe971436910.png"
+    },
+    {
+      "titre": "Nathalie Roret, ex-directrice de l’Ecole nationale de la magistrature, nommée Défenseure des enfants",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/16/nathalie-roret-ex-directrice-de-l-ecole-nationale-de-la-magistrature-nommee-defenseure-des-enfants_6811963_3224.html",
+      "source": "Le Monde",
+      "date": "2026-11-16T15:18:22+01:00",
+      "resume": "Nathalie Roret, avocate pénaliste et ancienne directrice de l'École nationale de la magistrature, a été nommée Défenseure des enfants. Elle succède à Éric Delemar après une période de vacance du poste qui avait été dénoncée par plusieurs associations de protection de l'enfance.",
+      "contexte": "Le Défenseur des enfants est une fonction essentielle au sein de l'institution du Défenseur des droits, chargée de veiller au respect des droits des mineurs et de promouvoir leur bientraitance. La nomination d'une personnalité issue du monde judiciaire permet de répondre aux attentes des associations qui réclamaient une direction forte pour porter ces sujets de protection sociale et juridique.",
+      "image": "https://img.lemde.fr/2026/11/16/266/0/527/263/644/322/60/0/d0d0219_upload-1-jdnopmg4eimc-jo.jpg"
+    },
+    {
+      "titre": "Albanie : des manifestants visent le bureau du Premier ministre avec des ballons de foot",
+      "lien": "https://www.franceinfo.fr/monde/europe/albanie-des-manifestants-visent-le-bureau-du-premier-ministre-avec-des-ballons-de-foot_8284931.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-16T15:01:50+01:00",
+      "resume": "Des manifestants albanais ont mené une « opération ballons » en tirant des ballons de football contre les bureaux du Premier ministre Edi Rama à Tirana. Ils réclament sa démission depuis près d'un an, réagissant ainsi à un geste jugé insultant d'un proche du pouvoir, Taulant Balla, chef du groupe parlementaire du Parti socialiste.",
+      "contexte": "Le recours à des actions symboliques et décalées est une tactique fréquente dans les mouvements de contestation pour attirer l'attention des médias nationaux et internationaux. Les crises politiques en Albanie s'articulent souvent autour de critiques portées contre la gouvernance en place et des affaires impliquant l'entourage des dirigeants.",
+      "image": "https://www.franceinfo.fr/pictures/WEgUHANKRkhRfmFY9ku9K6l-xDI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/16/6afb0c8ecb7b8479759048.png"
+    },
+    {
+      "titre": "Sarvam, symbole des ambitions indiennes dans la course mondiale à l’IA",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/16/sarvam-symbole-des-ambitions-indiennes-dans-la-course-mondiale-a-l-ia_6811900_3234.html",
+      "source": "Le Monde",
+      "date": "2026-11-16T15:00:03+01:00",
+      "resume": "La start-up indienne Sarvam, créée il y a trois ans, est devenue le symbole des ambitions de New Delhi dans la course mondiale à l'intelligence artificielle. Le pays mise sur cette entreprise pour développer ses propres modèles d'IA et réduire sa dépendance technologique vis-à-vis des puissances étrangères, notamment américaines.",
+      "contexte": "La maîtrise des technologies d'intelligence artificielle est devenue un enjeu de souveraineté nationale pour de nombreuses puissances émergentes. L'objectif est généralement d'éviter une hégémonie technologique occidentale ou chinoise en créant des solutions adaptées aux langues, aux cultures et aux cadres réglementaires locaux.",
+      "image": "https://img.lemde.fr/2026/11/13/333/0/4000/2000/644/322/60/0/7ededf5_upload-1-y0heqqsom9zn-gettyimages-2294314449.jpg"
+    },
+    {
+      "titre": "L'Iran refuse tout accès à ses installations nucléaires avant la fin du conflit",
+      "lien": "https://www.france24.com/fr/asie-pacifique/20261116-iran-refuse-tout-acc%C3%A8s-installations-nucl%C3%A9aires-avant-fin-guerre",
+      "source": "France 24",
+      "date": "2026-11-16T14:54:34+01:00",
+      "resume": "Un haut diplomate a affirmé que l'Iran refuse tout accès de l'Agence internationale de l'énergie atomique (AIEA) à ses installations nucléaires tant que le conflit en cours ne sera pas terminé. Cette déclaration fait suite aux injonctions de l'agence onusienne qui exhortait Téhéran à rétablir cet accès.",
+      "contexte": "La question du contrôle des programmes nucléaires iraniens est une source de tension majeure et permanente entre la communauté internationale et Téhéran. Dans des contextes de crise ou de conflit armé, la suspension des inspections unilatérales ou internationales complique la surveillance de la non-prolifération et renforce l'instabilité géopolitique régionale.",
+      "image": "https://s.france24.com/media/display/c2a49d46-e1c1-11f1-950b-695cb59fade5/w:1024/p:16x9/AP25324386722873.jpg"
+    },
+    {
+      "titre": "L'armée israélienne frappe l'est du Liban, assurant viser des armes du Hezbollah",
+      "lien": "https://www.franceinfo.fr/monde/proche-orient/liban/l-armee-israelienne-frappe-l-est-du-liban-assurant-viser-des-armes-du-hezbollah_8284883.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-16T14:51:53+01:00",
+      "resume": "L'armée israélienne a mené une frappe dans une zone montagneuse de l'est du Liban, assurant viser des infrastructures ou des armes du Hezbollah. Selon l'Agence nationale d'information (Ani), cette attaque n'a fait aucune victime.",
+      "contexte": "Ces opérations s'inscrivent dans le cadre des confrontations récurrentes aux frontières et sur le territoire libanais entre Israël et le mouvement armé Hezbollah. L'objectif affiché de ces frappes ciblées est d'affaiblir les capacités militaires ennemies et d'empêcher l'acheminement d'armements, malgré les risques d'embrasement régional.",
+      "image": "https://www.franceinfo.fr/pictures/1bIRgb9s3yeoexKumLypiViw62A/0x46:1024x622/432x243/filters:format(jpg)/2026/11/16/6afb09ee84bfa709644610.jpg"
+    },
+    {
+      "titre": "La mort de l’ancien maire de Grenoble Michel Destot, profil atypique au sein de la famille social-démocrate",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/11/16/la-mort-de-l-ancien-maire-de-grenoble-michel-destot-profil-atypique-au-sein-de-la-famille-social-democrate_6811898_3382.html",
+      "source": "Le Monde",
+      "date": "2026-11-16T14:49:59+01:00",
+      "resume": "Michel Destot, ancien maire socialiste de Grenoble et ingénieur de formation, est décédé le 14 novembre à l'âge de 80 ans. Il avait dirigé la ville iséroise de 1995 à 2014, se distinguant par un profil atypique au sein de la famille social-démocrate.",
+      "contexte": "Le parcours de personnalités locales ayant exercé de longs mandats municipaux marque profondément la vie politique et l'aménagement des grandes métropoles régionales françaises. Les maires de grandes villes conjuguent souvent des compétences techniques et managériales pour transformer leur territoire sur plusieurs décennies.",
+      "image": "https://img.lemde.fr/2026/11/16/250/0/3000/1500/644/322/60/0/d111f09_upload-1-qaf6zvhrb1jt-000-par378274.jpg"
+    },
+    {
+      "titre": "Guerre en Ukraine : la France présente dans le pays depuis au moins l'été 2026",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-guerre-en-ukraine-la-france-pr%C3%A9sente-dans-le-pays-depuis-au-moins-l-%C3%A9t%C3%A9-2026",
+      "source": "France 24 · Le Monde",
+      "date": "2026-11-16T14:44:14+01:00",
+      "resume": "Des soldats français opèrent depuis plusieurs mois en Ukraine dans le cadre d'une mission hautement confidentielle baptisée \"Volia\", dirigée par un général français, selon des informations de RFI confirmées par une source proche du dossier au « Monde ». Il ne s'agit pas de participer aux combats, mais d'apporter un soutien logistique en veillant aux équipements de l'armée ukrainienne et en dispensant des formations.",
+      "contexte": "Ce type de déploiement discret illustre l'implication de pays occidentaux dans l'assistance technique aux forces ukrainiennes sans franchir le pas d'une belligérance directe contre la Russie. L'enjeu est d'assurer la maintenance et l'optimisation du matériel militaire fourni à Kiev tout en maintenant un niveau de sécurité opérationnelle strict pour éviter une escalade majeure.",
+      "image": "https://s.france24.com/media/display/5d097bb4-e1b7-11f1-973d-29048b396e03/w:1024/p:16x9/FR-20261116-120925-121424-CS.jpg"
+    },
+    {
+      "titre": "Sommet de l'OIF : l'élection du secrétaire général reportée, Macron salue \"un compromis\"",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-sommet-de-l-oif-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-report%C3%A9e-macron-salue-un-compromis",
+      "source": "France 24",
+      "date": "2026-11-16T14:41:48+01:00",
+      "resume": "L'élection du secrétaire général de l'Organisation internationale de la Francophonie (OIF) a été reportée d'un an ce lundi 16 novembre, faute de consensus. La présidence française a salué dans un communiqué « l'esprit de responsabilité » des membres de l'organisation ayant permis ce compromis.",
+      "contexte": "Ce report traduit des tensions et des rivalités diplomatiques au sein de l'OIF, notamment entre différents États membres qui cherchent à influencer la direction de l'institution. La recherche du consensus est primordiale pour préserver l'unité et la cohésion de cette organisation intergouvernementale réunissant les pays francophones.",
+      "image": "https://s.france24.com/media/display/2eba4e06-e1b6-11f1-8286-29048b396e03/w:1024/p:16x9/FR-20261116-120447-120641-CS.jpg"
     }
   ],
   "culture": [
@@ -229,5 +247,118 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Penguins_collage.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "1c3614cf4d",
+      "date": "2026-11-16",
+      "type": "actu",
+      "question": "Quel syndicat étudiant a déposé un recours pour contester l'interdiction des rassemblements près des lycées en région parisienne ?",
+      "choix": [
+        "Le SGL",
+        "L'Unef",
+        "La Fage",
+        "L'UNI"
+      ],
+      "reponse": 1,
+      "explication": "Un recours a été déposé par l'Unef pour contester la mesure restrictive prise par la préfecture de police de Paris.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/QpCU5zTY-5pZsu5c-COzOPDefq0/0x100:1024x676/432x243/filters:format(jpg)/2026/11/16/6afb13e5781ef144090168.jpg"
+    },
+    {
+      "id": "aac5723e60",
+      "date": "2026-11-16",
+      "type": "actu",
+      "question": "Dans quel pays s'est produit l'incendie d'un immeuble à Phuket ayant fait au moins 11 morts ?",
+      "choix": [
+        "Le Vietnam",
+        "La Thaïlande",
+        "La Malaisie",
+        "L'Indonésie"
+      ],
+      "reponse": 1,
+      "explication": "L'incendie a eu lieu sur l'île touristique de Phuket, en Thaïlande.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/incendie-d-un-immeuble-a-phuket-au-moins-11-morts-et-36-blesses_8284961.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/eZ_oefNfKvrvna3nxuRtbqnBZ7Q/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/16/6afb111a55e76564993826.jpg"
+    },
+    {
+      "id": "7530498883",
+      "date": "2026-11-16",
+      "type": "actu",
+      "question": "Qui a été nommée Défenseure des enfants après avoir dirigé l'École nationale de la magistrature ?",
+      "choix": [
+        "Nathalie Roret",
+        "Caroline Roux",
+        "Taulant Balla",
+        "Éric Delemar"
+      ],
+      "reponse": 0,
+      "explication": "Nathalie Roret, avocate pénaliste et ancienne directrice de l'École nationale de la magistrature, a été nommée Défenseure des enfants.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/16/nathalie-roret-ex-directrice-de-l-ecole-nationale-de-la-magistrature-nommee-defenseure-des-enfants_6811963_3224.html",
+      "image": "https://img.lemde.fr/2026/11/16/266/0/527/263/644/322/60/0/d0d0219_upload-1-jdnopmg4eimc-jo.jpg"
+    },
+    {
+      "id": "2da33acebc",
+      "date": "2026-11-16",
+      "type": "actu",
+      "question": "De quelle ville Michel Destot, décédé à l'âge de 80 ans, a-t-il été le maire de 1995 à 2014 ?",
+      "choix": [
+        "Grenoble",
+        "Toulouse",
+        "Lyon",
+        "Marseille"
+      ],
+      "reponse": 0,
+      "explication": "Michel Destot a été maire socialiste de Grenoble de 1995 à 2014.",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/11/16/la-mort-de-l-ancien-maire-de-grenoble-michel-destot-profil-atypique-au-sein-de-la-famille-social-democrate_6811898_3382.html",
+      "image": "https://img.lemde.fr/2026/11/16/250/0/3000/1500/644/322/60/0/d111f09_upload-1-qaf6zvhrb1jt-000-par378274.jpg"
+    },
+    {
+      "id": "d5d82b17f9",
+      "date": "2026-11-16",
+      "type": "actu",
+      "question": "L'élection du secrétaire général de quelle organisation a été reportée d'un an en raison d'un défaut de consensus ?",
+      "choix": [
+        "L'ONU",
+        "L'OIF",
+        "L'UNESCO",
+        "L'OTAN"
+      ],
+      "reponse": 1,
+      "explication": "Il s'agit de l'Organisation internationale de la Francophonie (OIF).",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-sommet-de-l-oif-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-report%C3%A9e-macron-salue-un-compromis",
+      "image": "https://s.france24.com/media/display/2eba4e06-e1b6-11f1-8286-29048b396e03/w:1024/p:16x9/FR-20261116-120447-120641-CS.jpg"
+    },
+    {
+      "id": "bd8d30d30c",
+      "date": "2026-11-16",
+      "type": "culture",
+      "question": "Pourquoi le maillot du leader du Tour de France est-il de couleur jaune ?",
+      "choix": [
+        "En hommage au journal l'Auto qui était imprimé sur du papier de cette couleur",
+        "Pour imiter le drapeau de la région de Paris",
+        "Parce que c'était la couleur préférée du créateur de la course",
+        "Pour rappeler la couleur du soleil et de la victoire"
+      ],
+      "reponse": 0,
+      "explication": "Le choix du jaune a été adopté pour rendre hommage au journal l'Auto, l'organisateur historique de la course, qui était imprimé sur du papier de cette couleur.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "adaf897a30",
+      "date": "2026-11-16",
+      "type": "culture",
+      "question": "Quel type d'objet a été dissimulé dans le socle de la Statue de la Liberté lors de son inauguration ?",
+      "choix": [
+        "Une bouteille à la mer scellée",
+        "Une capsule temporelle",
+        "Un coffre-fort rempli d'or",
+        "Une statue en bronze miniature"
+      ],
+      "reponse": 1,
+      "explication": "Les artisans et personnalités ont dissimulé une capsule temporelle en cuivre contenant des documents officiels et des photographies.",
+      "lien": "",
+      "image": ""
+    }
+  ]
 }
