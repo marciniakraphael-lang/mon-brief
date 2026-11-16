@@ -1,409 +1,233 @@
 {
-  "date": "2026-11-15",
-  "mode": "evening",
-  "updated": "2026-11-15T23:33:30.725658+01:00",
+  "date": "2026-11-16",
+  "mode": "morning",
+  "updated": "2026-11-16T12:50:33.822919+01:00",
   "deja_presente": [
     {
-      "titre": "Présidentielle 2027 : Raphaël Glucksmann dit vouloir \"augmenter les salaires\" et \"rendre du pouvoir d'achat aux Français\"",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
+      "titre": "De retour dans les Andes péruviennes, le pape Léon XIV s'inquiète de l'exode rural",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261115-perou-retour-andes-pape-l%C3%A9on-xiv-inquiet-exode-rural-pauvret%C3%A9",
+      "source": "France 24",
+      "date": "2026-11-15T12:06:47+01:00",
+      "resume": "En visite dans la région de Cajamarca, connue pour être la plus pauvre du Pérou, le pape Léon XIV a exprimé samedi son inquiétude face à la \"souffrance\" des populations rurales contraintes à l'exode. Ancien évêque de Chiclayo entre 2015 et 2023, le souverain pontife connaissait bien cette zone montagneuse où il s'était engagé à revenir.",
+      "contexte": "Le pape utilise régulièrement ses déplacements pour alerter sur la pauvreté endémique et les difficultés structurelles des zones rurales marginalisées en Amérique latine. L'exode rural fragilise les communautés traditionnelles et engendre une urbanisation subie, des thématiques centrales du pontificat actuel.",
+      "image": "https://s.france24.com/media/display/1e4a9246-e0e0-11f1-a218-29048b396e03/w:1024/p:16x9/000-D7HD3NR.jpg"
+    },
+    {
+      "titre": "Présidence de la Francophonie : Louise Mushikiwabo \"candidate jusqu'au bout\"",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261114-pr%C3%A9sidence-de-la-francophonie-louise-mushikiwabo-candidate-jusqu-au-bout",
+      "source": "France 24",
+      "date": "2026-11-15T12:06:04+01:00",
+      "resume": "Le XXe sommet de la Francophonie s'est ouvert à Phnom Penh, au Cambodge, avec au cœur des discussions la succession à la tête de l'Organisation Internationale de la Francophonie (OIF). La France aurait demandé au Rwanda de retirer la candidature de l'actuelle secrétaire générale, Louise Mushikiwabo, pour préserver l'unité et le consensus au sein de l'organisation. Emmanuel Macron a publiquement appelé à privilégier une alternative, tandis que la RD Congo a menacé de reconsidérer sa place dans l'institution en cas de réélection de la candidate rwandaise.",
+      "contexte": "La direction de l'OIF est régulièrement le théâtre de luttes d'influence géopolitiques, reflétant notamment les tensions diplomatiques régionales en Afrique, en particulier entre Kinshasa et Kigali. Le choix du secrétaire général pèse sur la capacité de l'organisation à porter des messages diplomatiques communs et à promouvoir la langue française, l'enjeu étant d'éviter toute fracture durable entre les pays membres.",
+      "image": "https://s.france24.com/media/display/5c4068b4-e077-11f1-9670-5f54d898a954/w:1024/p:16x9/FRDN-JOURNAL-AFRIQUE-261114-2027-Ep-75.jpg"
+    },
+    {
+      "titre": "« On ferme notre porte pour la dernière fois et, à l’idée de ne plus jamais entrer dans cet endroit, je pleure »",
+      "lien": "https://www.lemonde.fr/intimites/article/2026/11/15/on-ferme-notre-porte-pour-la-derniere-fois-et-a-l-idee-de-ne-plus-jamais-entrer-dans-cet-endroit-je-pleure_6811013_6190330.html",
+      "source": "Le Monde",
+      "date": "2026-11-15T12:00:13+01:00",
+      "resume": "Monelle, directrice des opérations du Club Landoy chez Bayard âgée de 37 ans, a témoigné de la difficulté psychologique de quitter son duplex avec terrasse situé à Pantin, devenu trop petit pour son foyer. Un déménagement s'avère souvent être un moment charnière, oscillant entre le renoncement à un lieu chargé de souvenirs et l'ouverture vers un nouveau départ.",
+      "contexte": "Le marché immobilier tendu dans les zones urbaines denses comme la petite couronne parisienne contraint de nombreux citadins à réévaluer leurs besoins résidentiels au fil de l'évolution de leur vie de famille. Ce type de transition met en lumière le rapport affectif fort que les habitants entretiennent avec leur logement et leur quartier.",
+      "image": "https://img.lemde.fr/2025/10/15/85/0/1024/512/644/322/60/0/914b2ee_upload-1-61erg36mtkyq-lemonde-animation-02.jpg"
+    },
+    {
+      "titre": "Sandra Wollner, réalisatrice d’« Everytime », une redoutable conteuse et artiste touche-à-tout",
+      "lien": "https://www.lemonde.fr/culture/article/2026/11/15/sandra-wollner-realisatrice-d-everytime-une-redoutable-conteuse-et-artiste-touche-a-tout_6811011_3246.html",
+      "source": "Le Monde",
+      "date": "2026-11-15T12:00:10+01:00",
+      "resume": "La cinéaste autrichienne Sandra Wollner présente son troisième long-métrage, intitulé « Everytime », après son film sulfureux « The Trouble With Being Born » sorti en 2020. Elle s'impose à travers ses œuvres comme une redoutable conteuse explorant la thématique du deuil maternel sous un angle inédit.",
+      "contexte": "Le cinéma d'auteur autrichien contemporain se distingue souvent par des propositions esthétiques audacieuses et une exploration psychologique sombre des relations familiales et intimes. Le parcours de Sandra Wollner illustre la reconnaissance progressive de voix féminines singulières dans le paysage cinématographique européen indépendant.",
+      "image": "https://img.lemde.fr/2026/11/06/125/0/3316/1658/644/322/60/0/1f0b5dd_upload-1-mfcjw73u54ly-063-2297809208.jpg"
+    },
+    {
+      "titre": "Hongrie : 17,7 millions d'euros saisis dans une enquête visant un ancien ministre",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-hongrie-17-7-millions-d-euros-saisis-dans-une-enqu%C3%AAte-visant-un-ancien-ministre",
+      "source": "France 24",
+      "date": "2026-11-15T11:59:07+01:00",
+      "resume": "L'agence anticorruption hongroise a annoncé la saisie de 17,7 millions d'euros en liquide, en partie enterrés dans des forêts, dans le cadre d'une enquête visant Miklos Sesztak, ancien ministre du Développement national sous Viktor Orban. L'ancien responsable est soupçonné d'avoir perçu des pots-de-vin dans une affaire d'achat de bus d'occasion à des prix présumés surévalués par une entreprise publique de transport.",
+      "contexte": "Ce type d'affaire met en lumière les soupçons persistants de corruption et de malversations financières qui entourent parfois la gestion des marchés publics dans le pays. Les enquêtes menées par les agences anticorruption constituent un enjeu politique majeur dans les rapports de force institutionnels.",
+      "image": "https://s.france24.com/media/display/425e96c0-e0e3-11f1-90df-3f371022a770/w:1024/p:16x9/capture-d830eb91.jpg"
+    },
+    {
+      "titre": "Paul Seixas remporte le Critérium de Saitama, un succès pour « bien finir » sa belle année 2026",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/15/paul-seixas-remporte-le-criterium-de-saitama-un-succes-pour-bien-finir-sa-belle-annee-2026_6811010_3242.html",
+      "source": "Le Monde · franceinfo",
+      "date": "2026-11-15T11:51:55+01:00",
+      "resume": "Le cycliste français Paul Seixas a remporté le Critérium de Saitama, une course d'exhibition organisée au Japon, en devançant le champion du monde américain Brandon McNulty dans les derniers kilomètres. À 20 ans, le coureur de la formation UAE Emirates – XRG conclut ainsi en beauté une saison remarquable marquée par ses premiers succès au plus haut niveau, bien que l'épreuve ne compte pas pour le calendrier UCI.",
+      "contexte": "Les critériums d'après-saison organisés en fin d'année hors d'Europe permettent aux stars du cyclisme international de briller devant un public lointain dans un format festif et déconnecté des exigences du classement mondial. Pour de jeunes talents comme Paul Seixas, cette victoire vient couronner une ascension rapide dans le peloton professionnel.",
+      "image": "https://img.lemde.fr/2026/11/15/1141/0/6846/3423/644/322/60/0/ebea3a4_ftp-1-g1cst6mjtxox-afp-d7hm6r3.jpg"
+    },
+    {
+      "titre": "Un important site industriel russe touché par des frappes attribuées à Kiev",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-important-site-industriel-russe-touche-par-des-frappes-attribuees-a-kiev_8283350.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-15T11:41:17+01:00",
+      "resume": "Un important site industriel situé dans la république du Tatarstan, en Russie, a été visé par des frappes attribuées à Kiev, selon les autorités locales citées par les médias russes. Le bilan provisoire fait état de trois blessés dans cette région, tandis qu'un mort a également été recensé par le gouverneur de la région voisine de Rostov-sur-le-Don.",
+      "contexte": "Ces frappes s'inscrivent dans la stratégie menée par l'Ukraine de cibler des infrastructures logistiques et industrielles en profondeur sur le territoire russe afin de perturber l'effort de guerre de Moscou. La multiplication de ces attaques sur des zones éloignées de la frontière témoigne de l'évolution des capacités aériennes et de la portée des armements employés.",
+      "image": "https://www.franceinfo.fr/pictures/E01iqGMTHUSVur7VLLqq_hERpfM/0x0:4837x2720/432x243/filters:format(jpg)/2026/11/15/6af98c38d5241879196027.jpg"
+    },
+    {
+      "titre": "Après l'échec du premier étage, SpaceX tente de rattraper le second étage de sa fusée Starship",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261114-apr%C3%A8s-l-%C3%A9chec-du-premier-%C3%A9tage-spacex-tente-de-rattraper-le-second-%C3%A9tage-de-sa-fus%C3%A9e-starship",
+      "source": "France 24 · franceinfo",
+      "date": "2026-11-15T11:24:22+01:00",
+      "resume": "Après avoir dû renoncer vendredi à rattraper le premier étage de sa mégafusée Starship en raison d'un incident technique, l'entreprise SpaceX d'Elon Musk a tenté de récupérer l'étage supérieur après plus de 22 heures de vol. L'entreprise est ainsi parvenue pour la première fois à récupérer cet étage supérieur, réussissant une prouesse technique majeure malgré l'échec sur l'étage inférieur.",
+      "contexte": "Le développement du système Starship repose entièrement sur la réutilisabilité intégrale de ses composants pour réduire drastiquement les coûts des vols spatiaux habités et du transport de charges lourdes. Chaque vol d'essai fournit à SpaceX des données cruciales pour valider ses technologies de guidage et de récupération, indispensables en vue des futures missions vers la Lune et Mars.",
+      "image": "https://s.france24.com/media/display/8cb1e4b2-e05b-11f1-b193-5f54d898a954/w:1024/p:16x9/2026-11-14T012408Z-750862810-RC2ANOA0O8FL-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg"
+    },
+    {
+      "titre": "\"Inside Gaza\" de la réalisatrice Hélène Lam Trong prix du meilleur documentaire au festival Cinemania",
+      "lien": "https://www.franceinfo.fr/culture/cinema/inside-gaza-de-la-realisatrice-helene-lam-trong-prix-du-meilleur-documentaire-au-festival-cinemania_8283296.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-14T11:37:35+01:00",
-      "resume": "Dans la perspective de l'élection présidentielle de 2027, le candidat de gauche Raphaël Glucksmann s'est rendu au salon du Made in France à Paris. Il y a exprimé sa volonté d'augmenter les salaires et de redonner du pouvoir d'achat aux citoyens français.",
-      "contexte": "Les déplacements sur des salons valorisant l'industrie nationale constituent un passage obligé pour les candidats cherchant à aborder les thématiques de l'emploi, de la réindustrialisation et de l'économie locale. Le pouvoir d'achat demeure l'une des préoccupations centrales des électeurs lors des scrutins nationaux.",
-      "image": "https://www.franceinfo.fr/pictures/yq7MrKM7G9zptcARj7uSbEallP8/0x100:1024x676/432x243/filters:format(jpg)/2026/11/14/6af832174d731972298391.jpg"
-    },
-    {
-      "titre": "Les Bleus battent les Springboks à Paris pour la première fois depuis 21 ans",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261114-bleus-battent-springboks-paris-pour-premi%C3%A8re-fois-depuis-21-ans",
-      "source": "France 24",
-      "date": "2026-11-14T11:27:01+01:00",
-      "resume": "Le XV de France a battu l'Afrique du Sud sur le score de 21 à 19 au Stade de France, signant sa première victoire contre les Springboks à Paris depuis 21 ans. Une victoire bonifiée lors du prochain match contre l'Argentine permettra aux Bleus de se qualifier pour la finale du Championnat des nations.",
-      "contexte": "Ce succès de prestige renforce la confiance de l'équipe de France à l'approche des grandes échéances internationales de rugby. Les confrontations face aux nations majeures de l'hémisphère sud constituent traditionnellement des tests décisifs pour évaluer le niveau compétitif d'une sélection.",
-      "image": "https://s.france24.com/media/display/0732732e-dfe8-11f1-801a-29048b396e03/w:1024/p:16x9/J24-France-celebrate.jpg"
-    },
-    {
-      "titre": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans",
-      "lien": "https://www.franceinfo.fr/monde/usa/un-porte-conteneurs-et-un-bateau-de-croisiere-sont-entres-en-collision-dans-le-port-de-la-nouvelle-orleans_8281676.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-14T11:23:26+01:00",
-      "resume": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans aux États-Unis. Sur les près de 200 passagers présents à bord du navire de croisière, 32 ont dû être hospitalisés, bien qu'aucun ne présente de blessures graves selon la maire de la ville.",
-      "contexte": "Les collisions dans les zones portuaires encombrées résultent souvent de conditions de navigation difficiles ou d'erreurs de communication humaine et technique. Les autorités maritimes ouvrent systématiquement des enquêtes pour déterminer les responsabilités dans ces accidents.",
-      "image": "https://www.franceinfo.fr/pictures/27Sqqo2tbqi5wWY_FT5teOUoyaY/0x75:1285x798/432x243/filters:format(jpg)/2026/11/13/6af78c456817f945515059.jpg"
-    },
-    {
-      "titre": "Manifestations du 14 novembre : entre 70 000 et 120 000 manifestants attendus partout en France, hors Paris, à l'appel de gilets jaunes et d'organisations de jeunesse",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-14T11:20:15+01:00",
-      "resume": "De nouvelles manifestations sont attendues en France, à l'appel de gilets jaunes et d'organisations de jeunesse. Entre 70 000 et 120 000 manifestants sont prévus hors de Paris, tandis que le ministre de l'Intérieur anticipe entre 50 et 60 défilés sur l'ensemble du territoire ainsi qu'une mobilisation importante dans la capitale, encadrée par 70 000 policiers et gendarmes.",
-      "contexte": "Le maintien d'un niveau élevé de forces de l'ordre déployées lors des journées de contestation sociale vise à prévenir les débordements et à sécuriser les cortèges. Ces mouvements traduisent des tensions persistantes autour des revendications économiques et salariales.",
-      "image": "https://www.franceinfo.fr/pictures/oIBcZ2XDfDlakbyCZxxNzdFdXTY/0x0:4919x2766/432x243/filters:format(jpg)/2026/11/14/6af835cf35276136102303.jpg"
-    },
-    {
-      "titre": "Manifestations : qui sont les \"street medics\" qui soignent les blessés ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-manifestations-qui-sont-les-street-medics-qui-soignent-les-bless%C3%A9s",
-      "source": "France 24",
-      "date": "2026-11-14T11:18:23+01:00",
-      "resume": "Les 'street medics', reconnaissables à leurs casques et leurs croix rouges, continuent d'assurer une présence active lors des manifestations en France. Leur rôle consiste à apporter les premiers secours aux personnes blessées sur le terrain sans perturber l'action des forces de l'ordre.",
-      "contexte": "Ces équipes de secouristes bénévoles interviennent traditionnellement dans un contexte de contestation sociale pour pallier les éventuels délais d'intervention des secours officiels au cœur des cortèges. Leur présence soulève parfois des questions réglementaires quant à l'encadrement des soins d'urgence en milieu hostile.",
-      "image": "https://s.france24.com/media/display/80dd4fe4-e012-11f1-8647-f71d22e7fea9/w:1024/p:16x9/FR-20261114-081219-082221-CS-01.jpg"
-    },
-    {
-      "titre": "États-Unis : quand les maisons se transforment en bunkers de luxe",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-%C3%A9tats-unis-quand-les-maisons-se-transforment-en-bunkers-de-luxe",
-      "source": "France 24",
-      "date": "2026-11-14T11:16:25+01:00",
-      "resume": "Au Texas, certaines propriétés résidentielles intègrent désormais des équipements de sécurité sophistiqués, tels que des bunkers souterrains, des sas de décontamination, des tunnels ou encore des armureries. Ces installations témoignent de la popularité croissante des habitats fortifiés haut de gamme aux États-Unis.",
-      "contexte": "Ce phénomène immobilier reflète une tendance sociétale où une frange de la population aisée investit massivement dans des solutions d'autodéfense et de survie. Cela s'explique par la crainte croissante d'événements extrêmes ou de ruptures systémiques majeures.",
-      "image": "https://s.france24.com/media/display/6b53d38c-e012-11f1-9f12-3f371022a770/w:1024/p:16x9/FR-20261114-091435-091924-CS-01.jpg"
-    },
-    {
-      "titre": "Léon XIV retrouve le Pérou, sa \"seconde patrie\", pour achever sa tournée",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-l%C3%A9on-xiv-retrouve-le-p%C3%A9rou-sa-seconde-patrie-pour-achever-sa-tourn%C3%A9e",
-      "source": "France 24",
-      "date": "2026-11-14T11:14:31+01:00",
-      "resume": "Le pape Léon XIV a achevé sa tournée en Amérique latine par une dernière étape au Pérou, qualifié de 'seconde patrie' où il exerça autrefois comme évêque. Accueilli par une foule immense à Chiclayo, le souverain pontife effectue ce déplacement malgré les interrogations persistantes sur sa santé, un mois après l'annonce d'une opération liée à un cancer du poumon.",
-      "contexte": "Les voyages pontificaux dans des régions historiquement liées au parcours personnel du pape renforcent la proximité avec les fidèles locaux. La gestion de l'agenda papal face à des problèmes de santé constitue un sujet d'attention particulier pour le Vatican.",
-      "image": "https://s.france24.com/media/display/8c717fc4-e012-11f1-b8b7-5f54d898a954/w:1024/p:16x9/FR-20261114-100845-101035-CS.jpg"
-    },
-    {
-      "titre": "Au Tchad, la sécheresse fait craindre des poches de famine",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-au-tchad-la-s%C3%A9cheresse-fait-craindre-des-poches-de-famine",
-      "source": "France 24",
-      "date": "2026-11-14T11:13:09+01:00",
-      "resume": "Le Tchad subit une sécheresse sévère, considérée comme potentiellement la pire depuis plus de quarante ans, provoquée par un important déficit de pluies en 2026. Des organismes d'observation, des ONG et des habitants alertent sur le risque imminent de poches de famine dans plusieurs zones, en particulier dans l'est du pays.",
-      "contexte": "Les sécheresses prolongées dans la région du Sahel fragilisent durablement la sécurité alimentaire et les moyens de subsistance des populations rurales. L'objectif des alertes lancées par les organisations humanitaires est généralement de mobiliser rapidement une aide internationale pour éviter une crise humanitaire majeure.",
-      "image": "https://s.france24.com/media/display/1e672280-e013-11f1-b01c-f71d22e7fea9/w:1024/p:16x9/FR-20261114-101059-101308-CS-01.jpg"
-    },
-    {
-      "titre": "La police française se dirige-t-elle vers une grève nationale ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-la-police-fran%C3%A7aise-se-dirige-t-elle-vers-une-gr%C3%A8ve-nationale",
-      "source": "France 24",
-      "date": "2026-11-14T11:10:25+01:00",
-      "resume": "Les représentants des forces de l'ordre en France réclament une revalorisation de 35 % de la prime de risque, sur fond de tensions persistantes concernant leurs conditions de travail et leur rémunération. Faute d'avancées jugées suffisantes de la part des autorités, la question d'un mouvement de grève nationale de la police est ouvertement posée.",
-      "contexte": "La contestation sociale au sein des services de police illustre le malaise chronique des professionnels du maintien de l'ordre face à l'augmentation de la charge de travail et aux risques encourus. Les menaces de grève dans les services régaliens constituent un défi politique sensible pour le gouvernement.",
-      "image": "https://s.france24.com/media/display/c6408e62-e011-11f1-9e18-5f54d898a954/w:1024/p:16x9/FR-20261114-100548-100656-CS.jpg"
-    },
-    {
-      "titre": "La mégafusée Starship réussit partiellement son quinzième vol d'essai",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-la-m%C3%A9gafus%C3%A9e-starship-r%C3%A9ussit-partiellement-son-quinzi%C3%A8me-vol-d-essai",
-      "source": "France 24",
-      "date": "2026-11-14T11:08:12+01:00",
-      "resume": "L'entreprise SpaceX a procédé au quinzième vol d'essai de sa mégafusée Starship avec des objectifs particulièrement ambitieux. Si la récupération du premier étage a été volontairement abandonnée, celle du second étage était espérée, qualifiant l'ensemble du test de 'succès partiel' selon les experts du secteur spatial.",
-      "contexte": "La stratégie de développement de SpaceX repose sur des tests itératifs rapides permettant d'accumuler des données techniques pour fiabiliser ses lanceurs réutilisables. L'enjeu est de réduire considérablement les coûts d'accès à l'espace pour les futures missions lunaires et martiennes.",
-      "image": "https://s.france24.com/media/display/54c6eac0-e010-11f1-ad33-695cb59fade5/w:1024/p:16x9/FR-20261114-091120-091411-CS.jpg"
+      "date": "2026-11-15T11:12:27+01:00",
+      "resume": "Le documentaire \"Inside Gaza\", réalisé par Hélène Lam Trong, a remporté le prix du meilleur documentaire au festival Cinemania. Ce film, qui s'intéresse au quotidien des reporters de l'AFP sur place, avait déjà été primé au festival Doc Edge en Nouvelle-Zélande et avait décroché le Grand prix du 33e Festival international du grand reportage d'actualité et du documentaire de société en France.",
+      "contexte": "La reconnaissance internationale de documentaires consacrés aux zones de conflit souligne l'importance du travail de terrain des journalistes pour documenter la réalité des populations civiles et des professionnels de l'information. Ces distinctions saluent la prise de risque et la rigueur des équipes de reportage dans des contextes de guerre périlleux.",
+      "image": "https://www.franceinfo.fr/pictures/P3BegKn4iPrDx3Vh9uwGVkN8TSs/64x0:1091x578/432x243/filters:format(jpg)/2026/11/15/6af9857c43a24029533674.png"
     }
   ],
   "depuis_hier": [
     {
-      "titre": "Enseignement supérieur en Afrique : l'UM6P, un modèle d'excellence à suivre ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-enseignement-sup%C3%A9rieur-en-afrique-l-um6p-un-mod%C3%A8le-d-excellence-%C3%A0-suivre",
-      "source": "France 24",
-      "date": "2026-11-14T23:24:21+01:00",
-      "resume": "Au Maroc, l'Université Mohammed VI Polytechnique (UM6P) s'impose parmi les établissements africains les mieux classés à l'international. L'université mise sur des formations de pointe en recherche, intelligence artificielle, robotique et agriculture pour répondre aux défis du continent et former ses propres élites. Benjamin Traoré, professeur de droit public et directeur du programme Droit et Gouvernance à l'UM6P, a évoqué ce modèle d'excellence sur France 24.",
-      "contexte": "Cette initiative s'inscrit dans une volonté croissante de nombreux pays africains de renforcer l'autonomie de leur enseignement supérieur pour limiter la fuite des cerveaux vers l'Europe ou l'Amérique du Nord. L'enjeu est de doter la jeunesse locale de compétences directement adaptées aux défis économiques et technologiques du continent, bien que la question de l'accessibilité financière de ces établissements d'élite reste un défi majeur.",
-      "image": "https://s.france24.com/media/display/33ef4b46-e077-11f1-a070-3f371022a770/w:1024/p:16x9/FR-20261114-215038-215826-CS-01.jpg"
-    },
-    {
-      "titre": "Comment la Chine fait-elle plier les grandes marques ?",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/comment-la-chine-fait-elle-plier-les-grandes-marques_8282879.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-14T22:53:29+01:00",
-      "resume": "La Chine maintient un contrôle strict sur son récit national et impose ses limites aux grandes marques internationales et aux personnalités accédant à son marché intérieur. Un récent exemple illustre cette situation avec les répercussions de propos tenus par le footballeur Kylian Mbappé, qui avait employé le terme \"dictateur chinois\" sur le ton de la plaisanterie.",
-      "contexte": "Pékin se montre particulièrement intransigeant dès lors qu'il s'agit de l'image de ses dirigeants ou de son histoire officielle, n'hésitant pas à faire peser le poids de son immense marché sur les entreprises ou les célébrités étrangères. Cette situation s'explique par la volonté politique de préserver l'autorité de l'État, ce qui conduit souvent les personnalités et les multinationales à la plus grande prudence pour éviter le boycott.",
-      "image": "https://www.franceinfo.fr/pictures/vCSnJfGg0gzeUzKk8Lt9cxCgDE4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/14/6af8d49a8bc69393986240.jpg"
-    },
-    {
-      "titre": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
-      "lien": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
-      "source": "France 24 · franceinfo",
-      "date": "2026-11-14T22:43:20+01:00",
-      "resume": "La France a connu samedi le cinquième samedi de mobilisation (Acte V) du mouvement social contre la vie chère et pour la défense du pouvoir d'achat. Quelque 106 000 à 200 000 personnes ont défilé dans tout le pays selon les chiffres du ministère de l'Intérieur et de l'intersyndicale jeune (Union étudiante, USL, Fage, Unef). La journée a également été marquée par quelques incidents et des agressions de journalistes.",
-      "contexte": "Ces mobilisations récurrentes traduisent un mécontentement social persistant face à l'inflation et aux difficultés économiques ressenties par une partie de la population. L'enjeu pour les syndicats et les organisations contestataires est de maintenir la pression sur le gouvernement malgré une affluence en baisse, tandis que l'exécutif cherche à éviter l'embrasement social tout en répondant aux urgences sur le pouvoir d'achat.",
-      "image": "https://s.france24.com/media/display/a840c416-e072-11f1-b800-f71d22e7fea9/w:1024/p:16x9/2026-11-14T161721Z-1217346689-RC2SNOASVFNM-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-      "titre": "Israël : Eisenkot accuse Netanyahu d'entraver la formation d'un gouvernement",
-      "lien": "https://www.france24.com/fr/moyen-orient/20261114-isra%C3%ABl-eisenkot-accuse-netanyahu-d-entraver-la-formation-d-un-gouvernement",
-      "source": "France 24",
-      "date": "2026-11-14T22:14:10+01:00",
-      "resume": "En Israël, le député Gadi Eisenkot, chargé de former le prochain gouvernement, a publiquement accusé le Premier ministre sortant Benjamin Netanyahu d'entraver le processus à travers des \"ruses\". Ces déclarations interviennent alors que Benjamin Netanyahu plaide officiellement pour la constitution d'un gouvernement d'union nationale, et que de nouvelles discussions entre leurs partis sont programmées.",
-      "contexte": "Le paysage politique israélien est marqué par de profondes divisions et des négociations souvent complexes pour bâtir des coalitions stables. Les rivalités personnelles et stratégiques au sein de la classe politique complacent traditionnellement la formation des gouvernements, prolongeant les crises institutionnelles.",
-      "image": "https://s.france24.com/media/display/c3264e3e-dd4f-11f1-a6a1-3f371022a770/w:1024/p:16x9/AP26314586138425.jpg"
-    },
-    {
-      "titre": "Éliminatoires de la CAN 2027 : l'Algérie s'impose de peu contre le Togo et conforte sa première place",
-      "lien": "https://www.france24.com/fr/sports/20261114-%C3%A9liminatoires-de-la-can-2027-l-alg%C3%A9rie-cale-contre-le-togo-mais-reste-en-t%C3%AAte-de-son-groupe",
-      "source": "France 24",
-      "date": "2026-11-14T22:00:23+01:00",
-      "resume": "L'Algérie s'est imposée de justesse face au Togo sur le score de 1-0, samedi, lors de la troisième journée des éliminatoires de la CAN 2027. Longtemps tenus en échec, les Fennecs ont trouvé la faille en fin de match grâce à une passe décisive d'Hadj Moussa conclue par une tête de Bensebaïni. Cette courte victoire permet à l'Algérie de conforter sa première place dans son groupe avec 7 points au compteur.",
-      "contexte": "Les éliminatoires de la Coupe d'Afrique des nations (CAN) engagent une forte pression sur les sélections nationales favorites, attendues au tournant par leurs supporters. Conserver la tête du groupe à mi-parcours offre aux Algériens une option sérieuse pour la qualification directe avant d'aborder les trois derniers matches de la phase de poules.",
-      "image": ""
-    },
-    {
-      "titre": "\"On aurait dit une scène de Titanic\" : un bateau de croisière chavire après avoir été percuté par un pétrolier",
-      "lien": "https://www.franceinfo.fr/faits-divers/on-aurait-dit-une-scene-de-titanic-un-bateau-de-croisiere-chavire-apres-avoir-ete-percute-par-un-petrolier_8282846.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-14T21:16:05+01:00",
-      "resume": "Un bateau de croisière transportant près de 200 personnes a chaviré après avoir été percuté par un immense pétrolier alors qu'il était amarré à quai, provoquant une vive panique vendredi 14 novembre. Aucun disparu n'est à déplorer à la suite de cet accident spectaculaire, mais 32 passagers ont toutefois dû être hospitalisés.",
-      "contexte": "Les collisions portuaires impliquant de grands navires de commerce et des embarcations de tourisme restent des accidents rares mais redoutés en raison de la vulnérabilité des passagers. Les enquêtes sur ce type de drame cherchent généralement à déterminer s'il s'agit d'une avarie mécanique, d'une erreur humaine ou de conditions de navigation défavorables.",
-      "image": "https://www.franceinfo.fr/pictures/Fuxco9dfrMwnsLd08GpyFs3w8mk/25x0:1579x874/432x243/filters:format(jpg)/2026/11/14/6af8c17f00984746692672.png"
-    },
-    {
-      "titre": "Victime d'une cyberattaque, Maileva, une filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Je n'étais pas content\" et \"on peut être un peu perplexe\" : l'analyse lucide de Zinédine Zidane après la timide victoire de la France contre la Turquie",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/je-n-etais-pas-content-et-on-peut-etre-un-peu-perplexe-l-analyse-lucide-de-zinedine-zidane-apres-la-timide-victoire-de-la-france-contre-la-turquie_8283977.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-14T21:15:18+01:00",
-      "resume": "Maileva, une filiale du groupe La Poste, a été victime d'une cyberattaque ayant entraîné un vol de données touchant 22 millions de personnes. L'entreprise a notifié l'incident à la Commission nationale de l'informatique et des libertés (Cnil), déposé une plainte et fait l'objet d'une enquête judiciaire en cours, selon les précisions de La Poste.",
-      "contexte": "La multiplication des cyberattaques ciblant les grandes entreprises et les services publics souligne la vulnérabilité des infrastructures numériques détenant des données personnelles massives. Ce type d'incident accentue la pression réglementaire pour renforcer la sécurité informatique et expose les sociétés à de lourdes sanctions ainsi qu'à des risques accrus d'usurpation d'identité pour les victimes.",
-      "image": "https://www.franceinfo.fr/pictures/6fxqbg_sGbxMA2kXVTZy9MwF_gQ/0x557:5354x3569/432x243/filters:format(jpg)/2026/11/14/6af8b9d543bae768990004.jpg"
+      "date": "2026-11-15T23:54:41+01:00",
+      "resume": "L'équipe de France de football s'est qualifiée pour les quarts de finale de la Ligue des nations après une victoire contre la Turquie. Malgré la qualification, le sélectionneur Zinédine Zidane a exprimé son mécontentement face à la prestation jugée timide de ses joueurs.",
+      "contexte": "La Ligue des nations est une compétition européenne qui permet aux sélections nationales de se confronter régulièrement en dehors des tournois majeurs comme l'Euro ou la Coupe du monde. Les attentes élevées envers l'équipe de France expliquent l'exigence du staff technique, même en cas de résultat favorable.",
+      "image": "https://www.franceinfo.fr/pictures/7W8xalkKlywGQQbKkkgTLVYiDyE/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/15/6afa35c3ef480195460541.jpg"
+    },
+    {
+      "titre": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-denonce-marine-tondelier-en-evoquant-les-appuis-de-donald-trump-et-elon-musk-a-la-candidate-rn_8283797.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-15T20:02:15+01:00",
+      "resume": "Marine Tondelier, candidate des Écologistes à l'élection présidentielle, a dénoncé les soutiens internationaux dont bénéficie Marine Le Pen, citant notamment Donald Trump et Elon Musk. Elle a également critiqué le bilan d'Emmanuel Macron et mis en garde contre les risques que poserait une arrivée de l'extrême droite au pouvoir.",
+      "contexte": "À l'approche de l'élection présidentielle, les candidats cherchent à positionner leurs adversaires sur l'échiquier politique en soulignant leurs alliances internationales. Le débat porte sur la souveraineté nationale et les orientations diplomatiques de la France face à la montée des populismes mondiaux.",
+      "image": "https://www.franceinfo.fr/pictures/wvx8LMaEfpxW1as6r67vU7CLlBc/281x0:2646x1330/432x243/filters:format(jpg)/2026/11/15/6af9f0f768b46252872886.png"
+    },
+    {
+      "titre": "Les Tchèques manifestent en masse contre la réforme du financement des médias publics",
+      "lien": "https://www.franceinfo.fr/monde/europe/les-tcheques-manifestent-en-masse-contre-la-reforme-du-financement-des-medias-publics_8283761.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-15T18:54:41+01:00",
+      "resume": "Des manifestations de grande ampleur ont lieu en République tchèque pour contester une réforme du financement des médias publics. Les opposants craignent que cette nouvelle législation ne renforce la dépendance des journalistes envers le pouvoir politique en place.",
+      "contexte": "La liberté et l'indépendance des médias publics sont des sujets sensibles en Europe centrale, où les gouvernements sont régulièrement accusés de vouloir reprendre le contrôle sur les institutions d'information. Ces manifestations reflètent une inquiétude citoyenne sur la santé démocratique du pays.",
+      "image": "https://www.franceinfo.fr/pictures/r5QaMt8CSE9LRWnUwsE8Y4WRLU8/0x424:8145x5005/432x243/filters:format(jpg)/2026/11/15/6af9e5943cf1c131597569.jpg"
+    },
+    {
+      "titre": "Au Cambodge, Emmanuel Macron appelle à l'\"unité\" de l'Organisation internationale de la francophonie, secouée par une rivalité entre la RDC et le Rwanda",
+      "lien": "https://www.franceinfo.fr/culture/patrimoine/francophonie/au-cambodge-emmanuel-macron-appelle-a-l-unite-de-l-organisation-internationale-de-la-francophonie-secouee-par-une-rivalite-entre-la-rdc-et-le-rwanda_8283593.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-15T18:48:41+01:00",
+      "resume": "Lors d'un sommet au Cambodge, Emmanuel Macron a appelé à l'unité au sein de l'Organisation internationale de la Francophonie (OIF). L'institution est actuellement fragilisée par une rivalité diplomatique entre la République démocratique du Congo et le Rwanda concernant la nomination du prochain secrétaire général.",
+      "contexte": "L'OIF a pour mission de promouvoir la langue française et la coopération entre ses États membres. Les conflits politiques entre les pays membres, souvent liés à des enjeux de sécurité régionale, entravent parfois le fonctionnement et l'image de cette organisation internationale.",
+      "image": "https://www.franceinfo.fr/pictures/-1IG2Yljxs6gL3AMCCaksN8HMoQ/0x0:5982x3364/432x243/filters:format(jpg)/2026/11/15/6af9c13b18c1b839628953.jpg"
     }
   ],
   "aujourdhui": [
     {
-      "titre": "Sans briller, l'équipe de France s’impose face à la Turquie et se qualifie pour les quarts de finale de la Ligue des nations",
-      "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-s-impose-face-a-la-turquie-et-se-qualifie-pour-les-quarts-de-finale-de-la-ligue-des-nations_8283920.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-15T23:01:33+01:00",
-      "resume": "L'équipe de France de football s'est imposée face à la Turquie sur le score de 2 buts à 1, dimanche soir à Bordeaux. Grâce à ce quatrième succès dans la compétition, les Bleus terminent premiers de leur groupe et se qualifient pour les quarts de finale de la Ligue des nations.",
-      "contexte": "Cette qualification confirme la régularité de l'équipe de France dans les compétitions européennes de l'UEFA. La Ligue des nations, créée pour remplacer les matchs amicaux par des rencontres à enjeu, offre une vitrine importante et un titre disputé par les meilleures nations du continent.",
-      "image": "https://www.franceinfo.fr/pictures/ix626Lysk_hUUCyoSdyKIs42Ic4/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/15/6afa1f9c1e595689538196.jpg"
+      "titre": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
+      "lien": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde · France 24 · franceinfo",
+      "date": "2026-11-16T12:38:44+01:00",
+      "resume": "L'Estonie a annoncé la fermeture de tous ses postes frontaliers avec la Russie à compter du 1er décembre. Cette décision fait suite à une tentative d'incendie visant une usine de drones estonienne, que les autorités de Tallinn attribuent au renseignement militaire russe. Moscou a vivement critiqué cette mesure de fermeture.",
+      "contexte": "Les tensions entre les pays baltes et la Russie se sont intensifiées depuis le début du conflit en Ukraine. Ces nations, membres de l'OTAN, dénoncent régulièrement des tentatives de déstabilisation ou de sabotage menées par Moscou sur leur sol, ce qui conduit à un renforcement constant des mesures de sécurité aux frontières.",
+      "image": "https://www.franceinfo.fr/pictures/dSP8Vka2xNoCQslxLonYqRxIWSI/0x485:8256x5129/432x243/filters:format(jpg)/2026/11/15/6af9dbfe35c10151645611.jpg"
     },
     {
-      "titre": "Présidentielle 2027 : un champion olympique à l'Elysée ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-pr%C3%A9sidentielle-2027-un-champion-olympique-%C3%A0-l-elys%C3%A9e",
+      "titre": "Ebola en RDC : l'épidémie a fait plus de 5400 mort en six mois",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-ebola-en-rdc-l-%C3%A9pid%C3%A9mie-a-fait-plus-de-5400-mort-en-six-mois",
       "source": "France 24",
-      "date": "2026-11-15T22:48:27+01:00",
-      "resume": "L'émission Présidentielle 2027 a abordé l'hypothèse d'une candidature de Teddy Riner à l'Élysée, ainsi que la domination de Marine Le Pen en tête des sondages. Les discussions ont également porté sur l'absence de candidat unique au sein de la droite et du centre, avec l'analyse d'experts politiques.",
-      "contexte": "À l'approche de l'élection présidentielle de 2027 en France, le paysage politique fait l'objet de nombreuses spéculations quant aux personnalités en lice. L'émergence potentielle de figures issues de la société civile ou du sport, comme des champions olympiques, témoigne de la recherche de renouvellement dans le débat public.",
-      "image": "https://s.france24.com/media/display/a59a62b0-e137-11f1-8779-29048b396e03/w:1024/p:16x9/FR-20261115-211039-212744-CS.jpg"
+      "date": "2026-11-16T12:36:09+01:00",
+      "resume": "La République démocratique du Congo fait face à une épidémie d'Ebola particulièrement meurtrière, ayant causé 5 471 décès sur 11 197 cas en six mois. Il s'agit de la 17e flambée de la maladie dans l'histoire du pays et de la plus grave enregistrée à ce jour.",
+      "contexte": "Les épidémies d'Ebola sont récurrentes en RDC et posent des défis sanitaires majeurs en raison de l'instabilité sécuritaire et des difficultés d'accès aux zones reculées. La lutte contre la maladie repose sur la vaccination, le suivi des contacts et l'éducation des populations locales.",
+      "image": "https://s.france24.com/media/display/e4536344-e1aa-11f1-80ee-3f371022a770/w:1024/p:16x9/Couv-RDC-Bilan-EBOLA.jpg"
     },
     {
-      "titre": "Benyamin Nétanyahou ne peut pas rester « une minute de plus » à la tête du gouvernement israélien, estime Gadi Eisenkot",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/15/benyamin-netanyahou-ne-peut-pas-rester-une-minute-de-plus-a-la-tete-du-gouvernement-israelien-estime-gadi-eisenkot_6811061_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-15T22:27:40+01:00",
-      "resume": "Gadi Eisenkot a estimé que Benyamin Nétanyahou ne pouvait plus rester à la tête du gouvernement israélien. Selon un reportage diffusé dimanche soir, le chef de cabinet du Premier ministre sortant avait par ailleurs transmis à la police une plainte concernant des militants du parti arabe Raam, qui s'est avérée infondée.",
-      "contexte": "La vie politique israélienne est marquée par de fortes tensions institutionnelles et des contestations répétées de la gestion du pouvoir par Benyamin Nétanyahou. Ces critiques internes illustrent la complexité des équilibres politiques et des alliances au sein de l'État.",
-      "image": "https://img.lemde.fr/2026/11/10/468/0/5616/2808/644/322/60/0/eb41617_ftp-1-2jymhlcfl5lg-e1c79908e3ea4a52ab47b64f9ca45251-0-3b0686356fe94c59a189d67e5f4a313f.jpg"
-    },
-    {
-      "titre": "Gaza : Royaume-Uni, Italie, Australie et Canada appellent Israël à permettre un accès humanitaire « immédiat » et « sans entrave » dans le territoire palestinien",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/15/gaza-royaume-uni-italie-australie-et-canada-appellent-israel-a-permettre-un-acces-humanitaire-immediat-et-sans-entrave-dans-le-territoire-palestinien_6811057_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-15T22:01:00+01:00",
-      "resume": "Le Royaume-Uni, l'Italie, l'Australie et le Canada ont appelé Israël à permettre un accès humanitaire immédiat et sans entrave dans la bande de Gaza. Cette demande intervient alors que l'enclave a subi des pluies diluviennes ayant inondé des milliers de tentes de déplacés, tandis que près de 150 000 tentes et fournitures vitales restent bloquées à la frontière.",
-      "contexte": "La situation humanitaire à Gaza reste extrêmement critique en raison du conflit en cours et des restrictions d'entrée pour l'aide internationale. L'implication de pays occidentaux met en lumière la pression diplomatique croissante exercée sur Israël pour faciliter l'acheminement des secours d'urgence aux populations civiles.",
-      "image": "https://img.lemde.fr/2026/11/15/450/0/5410/2705/644/322/60/0/5e49415_ftp-1-nnth1yr5p5fy-afp-d7j844f.jpg"
-    },
-    {
-      "titre": "Ariane Chemin: \"ce bannissement, c'est mélanger une influenceuse propagandiste, et des journalistes\"",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261115-ariane-chemin-ce-bannissement-c-est-m%C3%A9langer-une-influenceuse-propagandiste-et-des-journalistes",
+      "titre": "Frappes ukrainiennes en Russie : le pont de Crimée touché",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-frappes-ukrainiennes-en-russie-le-pont-de-crim%C3%A9e-touch%C3%A9",
       "source": "France 24",
-      "date": "2026-11-15T21:50:09+01:00",
-      "resume": "Les journalistes français Ariane Chemin et Paul Gogo, ainsi que les députés Sacha Houlié et Arthur Delaporte, ont été déclarés personae non gratae par le Kremlin. Cette décision s'inscrit dans le cadre des restrictions imposées par Moscou aux journalistes étrangers, sur fond de guerre en Ukraine et de tensions informationnelles avec les pays européens.",
-      "contexte": "La Russie renforce régulièrement son contrôle sur l'information et limite l'accès de son territoire aux observateurs et médias étrangers. Ces mesures de rétorsion diplomatique visent à restreindre la portée des reportages critiques et s'inscrivent dans une confrontation géopolitique globale entre Moscou et les pays occidentaux.",
-      "image": "https://s.france24.com/media/display/bf995bb8-e12c-11f1-a1b3-f71d22e7fea9/w:1024/p:16x9/FR-20261115-201106-202437-CS.jpg"
+      "date": "2026-11-16T12:35:48+01:00",
+      "resume": "Le pont de Crimée, infrastructure stratégique reliant la Russie à la péninsule annexée, a été frappé par des attaques ukrainiennes. En parallèle, Moscou a affirmé avoir abattu plus de 1 300 drones ukrainiens durant la nuit, alors que les frappes russes sur les infrastructures énergétiques ukrainiennes se poursuivent à l'approche de l'hiver.",
+      "contexte": "Le conflit entre l'Ukraine et la Russie est entré dans une phase d'usure marquée par des attaques réciproques contre les infrastructures critiques. Le pont de Crimée est un symbole fort de l'occupation russe, faisant de lui une cible prioritaire pour Kiev afin de perturber la logistique militaire de Moscou.",
+      "image": "https://s.france24.com/media/display/3c690d70-e1ad-11f1-9a03-f71d22e7fea9/w:1024/p:16x9/FR-20261116-093408-093822-CS.jpg"
     },
     {
-      "titre": "Présidentielle au Cap-Vert : début du dépouillement après une journée électorale calme",
-      "lien": "https://www.france24.com/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-d%C3%A9but-du-d%C3%A9pouillement-apr%C3%A8s-une-journ%C3%A9e-%C3%A9lectorale-calme",
+      "titre": "France : le lycée Neslon Mandela rouvre ses portes à Nantes",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-france-le-lyc%C3%A9e-neslon-mandela-rouvre-ses-portes-%C3%A0-nantes",
       "source": "France 24",
-      "date": "2026-11-15T21:45:32+01:00",
-      "resume": "Les bureaux de vote ont clos leurs portes dimanche au Cap-Vert, marquant la fin d'une journée électorale calme pour le premier tour de l'élection présidentielle. Les opérations de dépouillement ont immédiatement débuté dans cet archipel d'Afrique de l'Ouest.",
-      "contexte": "Le Cap-Vert est reconnu pour la stabilité de ses institutions démocratiques et sa croissance économique dynamique. Le pays doit néanmoins faire face à des défis structurels importants, notamment l'exode de sa jeunesse en quête de meilleures opportunités à l'étranger.",
-      "image": "https://s.france24.com/media/display/2af62b64-e134-11f1-8ed0-695cb59fade5/w:1024/p:16x9/000-D7JP843.jpg"
+      "date": "2026-11-16T12:33:00+01:00",
+      "resume": "Le lycée Nelson-Mandela de Nantes a rouvert partiellement ses portes ce lundi, après avoir été partiellement incendié lors d'une mobilisation lycéenne en octobre. Le ministre de l'Éducation, Édouard Geffray, présent sur place, a été hué par des élèves dénonçant une absence de dialogue sur leurs revendications.",
+      "contexte": "Les mouvements lycéens en France débouchent parfois sur des tensions entre les élèves et le ministère de l'Éducation. La réouverture des établissements après des dégradations est souvent le théâtre d'expressions de colère sociale ou de mécontentement étudiant face aux politiques éducatives.",
+      "image": "https://s.france24.com/media/display/4c6b2b04-e1ad-11f1-b22c-29048b396e03/w:1024/p:16x9/FR-20261116-110349-110453-CS-01.jpg"
     },
     {
-      "titre": "A Paris, les rassemblements interdits de lundi à vendredi autour de certains lycées et universités",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/15/a-paris-les-rassemblements-interdits-de-lundi-a-vendredi-autour-de-certains-lycees-et-universites_6811050_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-15T21:45:31+01:00",
-      "resume": "Le préfet de police de Paris a interdit les rassemblements du lundi au vendredi autour de certains lycées et universités de la capitale. Cette mesure vise à contrer les blocages d'établissements qui, selon les autorités, entravent le droit à l'éducation et provoquent l'irritation des parents d'élèves.",
-      "contexte": "Les blocages d'établissements scolaires sont un mode d'action récurrent lors des mouvements de contestation sociale en France. Les autorités cherchent généralement à concilier le droit de manifester avec la continuité du service public de l'éducation.",
-      "image": "https://img.lemde.fr/2026/11/05/476/0/5712/2856/644/322/60/0/49905f5_ftp-1-h2cz1ujpretj-2026-11-05t085935z-1531281293-rc2ihoarxcpm-rtrmadp-3-france-protest.JPG"
+      "titre": "Le projet de loi sur le logement examiné à l'Assemblée \"va uniquement dans le sens des bailleurs\", dénonce la Fondation pour le logement des défavorisés",
+      "lien": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/le-projet-de-loi-sur-le-logement-examine-a-l-assemblee-va-uniquement-dans-le-sens-des-bailleurs-denonce-la-fondation-pour-le-logement-des-defavorises_8284769.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-16T12:29:37+01:00",
+      "resume": "La Fondation pour le logement des défavorisés a critiqué le nouveau projet de loi sur le logement, estimant qu'il favorise les bailleurs au détriment des locataires. Le texte, qui conditionne la remise sur le marché des passoires énergétiques à des travaux, est perçu par l'association comme un délai supplémentaire accordé aux propriétaires.",
+      "contexte": "La crise du logement en France est alimentée par la rareté des biens, la hausse des prix et les exigences croissantes en matière de transition énergétique. Le gouvernement tente d'équilibrer les contraintes environnementales pour les propriétaires avec la nécessité de maintenir une offre locative accessible.",
+      "image": "https://www.franceinfo.fr/pictures/ZjKmGahzsqrkabBG-SEEAmLDVRs/0x276:5321x3270/432x243/filters:format(jpg)/2026/11/16/6afaea41a44a5632127957.jpg"
     },
     {
-      "titre": "Fabio d'Andrea : \"les COP sont très importantes, l'accord de Paris à l'époque a été un pas énorme \"",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261115-fabio-d-andrea-les-cop-sont-tr%C3%A8s-importantes-l-accord-de-paris-%C3%A0-l-%C3%A9poque-a-%C3%A9t%C3%A9-un-pas-%C3%A9norme",
+      "titre": "Ukraine : le prince Harry aux côtés des soldats blessées et des soignants à Lviv",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-ukraine-le-prince-harry-aux-c%C3%B4t%C3%A9s-des-soldats-bless%C3%A9es-et-des-soignants-%C3%A0-lviv",
       "source": "France 24",
-      "date": "2026-11-15T21:26:25+01:00",
-      "resume": "La COP 31 se déroule depuis lundi à Antalya, en Turquie, avec une co-présidence turque et australienne mettant l'accent sur l'électrification comme levier d'action climatique. L'objectif affiché est de porter la part de l'électricité dans la consommation finale mondiale d'énergie à 35 % d'ici 2035, contre environ 23 % actuellement.",
-      "contexte": "Les conférences des parties (COP) sur le climat réunissent chaque année les nations pour fixer des objectifs de réduction des émissions de gaz à effet de serre et coordonner la transition énergétique mondiale. L'efficacité de ces sommets fait régulièrement l'objet de débats entre partisans de la diplomatie climatique et critiques jugeant les mesures insuffisantes.",
-      "image": "https://s.france24.com/media/display/bb6842dc-e06b-11f1-baa6-29048b396e03/w:1024/p:16x9/FR-20261114-201113-202603-CS-01.jpg"
+      "date": "2026-11-16T12:29:01+01:00",
+      "resume": "Le prince Harry a effectué une visite surprise en Ukraine pour rencontrer des soldats blessés et le personnel soignant à Lviv. Il a exprimé son soutien aux militaires, réaffirmant son engagement envers cette cause lors de son quatrième déplacement dans le pays depuis 2022.",
+      "contexte": "Depuis son retrait de ses fonctions royales, le prince Harry s'est investi dans des causes humanitaires et militaires. Sa présence en Ukraine témoigne d'un soutien symbolique fort de personnalités internationales envers les victimes de l'invasion russe.",
+      "image": "https://s.france24.com/media/display/f2c673ba-e1ac-11f1-9ecd-f71d22e7fea9/w:1024/p:16x9/FR-20261116-093835-093942-CS-01.jpg"
     },
     {
-      "titre": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
-      "lien": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/la-cfdt-rejoint-la-mobilisation-du-17-novembre-parce-que-nos-revendications-n-ont-pas-abouti-explique-le-syndicat_8283890.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-15T20:44:28+01:00",
-      "resume": "La CFDT a annoncé qu'elle rejoignait la mobilisation du 17 novembre, estimant que ses revendications n'avaient pas abouti. Ce choix fait suite à la réunion de l'intersyndicale de la fonction publique, où les propositions du Premier ministre sur la revalorisation des bas salaires ont été jugées insuffisantes face à l'urgence de la situation.",
-      "contexte": "Le climat social en France reste tendu, marqué par des appels répétés à la grève et aux manifestations pour exiger des hausses de salaires face à l'inflation. La participation des syndicats réformistes comme la CFDT renforce traditionnellement la portée des mouvements de contestation.",
-      "image": "https://www.franceinfo.fr/pictures/J-ssk2TwNJGQp78uM032M963hlM/0x53:1024x629/432x243/filters:format(jpg)/2026/06/22/6a3900c4d625a078539995.jpg"
+      "titre": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les houthis",
+      "lien": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde · France 24",
+      "date": "2026-11-16T12:26:54+01:00",
+      "resume": "Les rebelles Houthis, soutenus par l'Iran, progressent dans le sud du Yémen et se trouvent désormais à environ 60 kilomètres d'Aden. Cette ville sert de capitale provisoire au gouvernement reconnu par la communauté internationale depuis la chute de Sanaa en 2014. Les forces gouvernementales ont commencé à masser des renforts militaires autour de la ville pour tenter de stopper cette avancée.",
+      "contexte": "Le Yémen est en proie à une guerre civile dévastatrice depuis une décennie, opposant les rebelles Houthis au pouvoir central soutenu par une coalition internationale. Ce conflit, qui a provoqué l'une des pires crises humanitaires au monde, est exacerbé par des enjeux de pouvoir régionaux, notamment la rivalité entre l'Arabie saoudite et l'Iran.",
+      "image": "https://www.franceinfo.fr/pictures/p7ws1z6WXQ9kLnKa7vHWGiKuyt0/0x200:3410x2118/432x243/filters:format(jpg)/2026/11/15/6af9fdc946b93220733926.jpg"
     },
     {
-      "titre": "Présidentielle 2027 : la pauvreté requiert des \"solutions structurelles\", selon les Restos du Coeur",
-      "lien": "https://www.franceinfo.fr/societe/pauvrete/presidentielle-2027-la-pauvrete-requiert-des-solutions-structurelles-selon-les-restos-du-coeur_8283881.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-15T20:40:21+01:00",
-      "resume": "Le président des Restos du Cœur, Jean-Michel Richard, a estimé que la pauvreté en France requérait des solutions structurelles. Il a rappelé que si l'aide apportée par l'association face à la précarité est essentielle, elle atteint aujourd'hui ses limites.",
-      "contexte": "Les associations caritatives alertent régulièrement sur la hausse de la précarité et l'augmentation du nombre de bénéficiaires de l'aide alimentaire. Ce constat interpelle les pouvoirs publics sur la nécessité de politiques économiques et sociales de fond pour endiguer la pauvreté.",
-      "image": "https://www.franceinfo.fr/pictures/sIL_n0z55nlHGI7JR_B2FpfY_0Y/0x0:7490x4213/432x243/filters:format(jpg)/2026/11/15/6afa0a5e5f98d942206839.jpg"
+      "titre": "Législatives en Israël : Netanyahu \"ne peut par rester une minute de plus\" d'après Eisenkot",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-ne-peut-par-rester-une-minute-de-plus-d-apr%C3%A8s-eisenkot",
+      "source": "France 24",
+      "date": "2026-11-16T12:24:26+01:00",
+      "resume": "Gadi Eisenkot, rival politique de Benjamin Netanyahu, a déclaré que le Premier ministre israélien ne pouvait plus rester au pouvoir. Cette prise de position intervient après des révélations médiatiques impliquant des proches du chef du gouvernement dans une manipulation visant des partis arabes.",
+      "contexte": "La vie politique israélienne est marquée par une forte polarisation et des scandales récurrents qui fragilisent les coalitions au pouvoir. Les accusations de manipulation électorale ou d'abus de pouvoir sont régulièrement utilisées par l'opposition pour réclamer la démission des dirigeants en place.",
+      "image": "https://s.france24.com/media/display/626cd09e-e1ab-11f1-940c-3f371022a770/w:1024/p:16x9/FR-20261116-091708-091846-CS-01.jpg"
     },
     {
-      "titre": "Une jeune fille de 12 ans interpellée à Paris lors de la mobilisation du 14 novembre et remise à son éducateur de l'Aide sociale à l'enfance par la police",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/une-jeune-fille-de-12-ans-interpellee-a-paris-lors-de-la-mobilisation-du-14-novembre-et-remise-a-son-educateur-de-l-aide-sociale-a-l-enfance-par-la-police_8283875.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Une jolie robe rouge poudrée\" : Seraffine, une vache auvergnate est l'égérie du Salon international de l'agriculture 2027",
+      "lien": "https://www.franceinfo.fr/societe/salon-de-l-agriculture/une-jolie-robe-rouge-poudree-seraffine-une-vache-auvergnate-est-l-egerie-du-salon-international-de-l-agriculture-2027_8284754.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-15T20:32:34+01:00",
-      "resume": "Une jeune fille de 12 ans a été interpellée à Paris lors de la mobilisation du 14 novembre et remise à son éducateur de l'Aide sociale à l'enfance. Selon le parquet, elle se maintenait place de la Nation avec environ 300 personnes après des sommations de dispersion et sera reconvoquée ultérieurement.",
-      "contexte": "L'encadrement des manifestations et la présence de mineurs lors de rassemblements tendus soulèvent des questions juridiques et éducatives en France. Les forces de l'ordre procèdent à des interpellations lorsque les manifestants refusent de disperser après les injonctions légales.",
-      "image": "https://www.franceinfo.fr/pictures/khD0foWnNln__uIHPuxqAv3gKbM/432x243/filters:format(jpg)/2026/11/12/6af5e346c07f8388669626.jpg"
-    },
-    {
-      "titre": "Un homme a été mis en examen et écroué dans les Yvelines, après un crypto-rapt à 900 000 euros",
-      "lien": "https://www.franceinfo.fr/economie/bitcoin/un-homme-a-ete-mis-en-examen-et-ecroue-dans-les-yvelines-apres-un-crypto-rapt-a-900-000-euros_8283848.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-15T20:26:01+01:00",
-      "resume": "Un homme a été mis en examen et écroué dans les Yvelines pour un vol de bitcoins d'une valeur de 900 000 euros. Début mars, lui et ses complices présumés avaient séquestré un couple d'une cinquantaine d'années à leur domicile du Chesnay afin de les contraindre à effectuer ce virement en cryptomonnaie.",
-      "contexte": "La démocratisation des cryptomonnaies s'accompagne d'une recrudescence d'actes de cybercriminalité et de violences physiques ciblées, dits de « crypto-rapts ». Les criminels exploitent le caractère difficilement traçable et l'immédiateté des transferts en actifs numériques pour extorquer des fonds à des particuliers.",
-      "image": "https://www.franceinfo.fr/pictures/iueJD08ZD8ynzE2K33CsCWr_-44/0x525:5049x3366/432x243/filters:format(jpg)/2026/11/15/6afa06e53491c995394724.jpg"
+      "date": "2026-11-16T12:18:57+01:00",
+      "resume": "La vache Seraffine, de race auvergnate, a été choisie comme égérie du Salon international de l'agriculture 2027. Cette nomination marque le retour des bovins au salon après une interruption en 2025 due à une crise sanitaire liée à la dermatose nodulaire.",
+      "contexte": "Le Salon international de l'agriculture est un événement majeur en France qui met en avant le monde rural et les filières d'élevage. Les crises sanitaires animales peuvent avoir des conséquences économiques et logistiques importantes pour l'organisation de ces rassemblements agricoles.",
+      "image": "https://www.franceinfo.fr/pictures/ulDVpX0gPscn6hSH1qRaf_0zQho/0x85:640x445/432x243/filters:format(jpg)/2026/11/16/6afae519e9bd1073035229.jpg"
     }
   ],
   "culture": [
     {
-      "theme": "arts et littérature",
-      "titre": "Le mystère du tableau volé",
-      "texte": "En 1911, la célèbre Joconde de Léonard de Vinci disparaît du musée du Louvre, provoquant un scandale médiatique mondial et une enquête policière sans précédent. Pendant plus de deux ans, le tableau introuvable alimente toutes les rumeurs et les unes des journaux, tandis que des innocents, dont le poète Guillaume Apollinaire, sont soupçonnés à tort. Le voleur, un ancien employé italien du musée nommé Vincenzo Peruggia, est finalement arrêté à Florence alors qu'il tente de vendre l'œuvre à un antiquaire. Il agissait par patriotisme naïf, persuadé que le chef-d'œuvre devait retourner dans son pays d'origine. Ce vol audacieux a paradoxalement contribué à transformer le portrait en une icône populaire universelle.",
-      "a_retenir": "Le vol de la Joconde en 1911 par Vincenzo Peruggia a propulsé le tableau au rang de célébrité mondiale.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Excelsior_-_Vincenzo_Peruggia_-_Vol_de_La_Joconde_-_Mona_Lisa.jpg/960px-Excelsior_-_Vincenzo_Peruggia_-_Vol_de_La_Joconde_-_Mona_Lisa.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "theme": "sport",
+      "titre": "L'histoire du maillot jaune",
+      "texte": "Sur le Tour de France, le leader du classement général porte un maillot distinctif d'un jaune éclatant. Ce choix de couleur a été adopté pour rendre hommage au journal l'Auto, l'organisateur historique de la course, qui était imprimé sur du papier de cette couleur. Rapidement devenu mythique, il permet aux spectateurs de repérer immédiatement le coureur le plus rapide de la compétition sur les routes de France. Aujourd'hui, enfiler cette tunique représente le rêve ultime de tout cycliste professionnel. Porter ce symbole historique confère à la fois un immense prestige et une visibilité incomparable dans le peloton.",
+      "a_retenir": "Le maillot jaune du Tour de France doit sa couleur au papier journal de son créateur historique, l'Auto.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Jersey_yellow.svg/960px-Jersey_yellow.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
-      "theme": "économie",
-      "titre": "La tulipomanie",
-      "texte": "Au XVIIe siècle, les Pays-Bas connaissent la première grande bulle spéculative de l'histoire moderne autour d'un produit inattendu : les bulbes de tulipes. Récemment introduites depuis l'Empire ottoman, ces fleurs aux motifs flammés fascinent l'aristocratie et la bourgeoisie commerçante. Les prix s'envolent de manière irrationnelle, au point qu'un seul bulbe rare peut valoir plusieurs fois le prix d'une maison cossue à Amsterdam. De simples citoyens se mettent à hypothéquer leurs biens pour miser sur ce marché hautement volatil. La bulle finit par éclater brutalement en 1637, ruinant de nombreux spéculateurs et marquant durablement les esprits sur les dangers de l'euphorie financière.",
-      "a_retenir": "La tulipomanie hollandaise est considérée comme la première bulle spéculative documentée de l'histoire économique.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tooneel_van_Flora_Handel_der_Floristen_in_Amsterdam_1637_%28Tulip_mania%29.png/960px-Tooneel_van_Flora_Handel_der_Floristen_in_Amsterdam_1637_%28Tulip_mania%29.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "theme": "histoire",
+      "titre": "La capsule du temps de la Statue de la Liberté",
+      "texte": "Lors de l'inauguration de la Statue de la Liberté à New York, les artisans et les personnalités de l'époque ont dissimulé une capsule temporelle en cuivre dans le socle du monument. À l'intérieur, ils y ont placé des documents officiels, des photographies de l'époque et des livres d'histoire pour les générations futures. Cette tradition reflète le désir de laisser une trace matérielle et intacte d'une époque aux citoyens du futur. Ouvrir une telle capsule offre aux historiens un aperçu direct et authentique des préoccupations de ceux qui ont bâti le monde d'hier. C'est une véritable lettre manuscrite adressée aux siècles à venir.",
+      "a_retenir": "Une capsule temporelle remplie de souvenirs de l'époque a été scellée dans le socle de la Statue de la Liberté.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Statue_of_Liberty%2C_statue%2C_Liberty_Island%2C_New_York.jpg/960px-Statue_of_Liberty%2C_statue%2C_Liberty_Island%2C_New_York.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "theme": "nature et animaux",
-      "titre": "Le langage des arbres",
-      "texte": "Contrairement aux apparences, les arbres d'une forêt ne vivent pas isolés, mais forment une communauté interconnectée et solidaire. Grâce à un réseau souterrain composé de champignons microscopiques, appelé mycorhize, ils échangent des nutriments, de l'eau et des signaux d'alerte. Lorsqu'un arbre est attaqué par des parasites, il envoie des messages chimiques à ses voisins via ce réseau pour qu'ils renforcent leurs défenses. Les arbres les plus anciens agissent ainsi comme des mères bienveillantes en nourrissant les jeunes pousses qui manquent de lumière. Cette découverte bouleverse notre vision du monde végétal, longtemps perçu à tort comme totalement passif.",
-      "a_retenir": "Les arbres communiquent et s'entraident sous terre grâce à un vaste réseau de champignons.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Differents_types_d%27ectomycorhizes.jpg/960px-Differents_types_d%27ectomycorhizes.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      "titre": "Le sommeil paradoxal des manchots",
+      "texte": "Dans les environnements glacials de l'Antarctique, les manchots doivent constamment rester vigilants face aux prédateurs et aux conditions climatiques extrêmes. Pour se reposer tout en restant en sécurité, ils adoptent un sommeil extrêmement fragmenté et rapide. Des études ont montré que leur cerveau s'endort par de très courtes périodes de quelques secondes seulement, alternant sans cesse avec la veille. Ce mécanisme ingénieux leur permet de récupérer l'énergie nécessaire sans jamais baisser totalement la garde au milieu de la colonie. C'est une adaptation fascinante de la nature pour survivre dans les zones les plus hostiles de la planète.",
+      "a_retenir": "Les manchots parviennent à dormir grâce à une multitude de micro-sommeils de quelques secondes pour échapper au danger.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Penguins_collage.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     }
   ],
-  "quiz_jour": [
-    {
-      "id": "539492e0c4",
-      "date": "2026-11-15",
-      "type": "actu",
-      "question": "Contre quelle équipe de football la France s'est-elle imposée 2 buts à 1 pour se qualifier en quarts de finale de la Ligue des nations ?",
-      "choix": [
-        "La Belgique",
-        "L'Italie",
-        "L'Espagne",
-        "La Turquie"
-      ],
-      "reponse": 3,
-      "explication": "L'équipe de France a battu la Turquie 2-1 à Bordeaux, décrochant la première place de son groupe et sa qualification pour les quarts de finale.",
-      "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-s-impose-face-a-la-turquie-et-se-qualifie-pour-les-quarts-de-finale-de-la-ligue-des-nations_8283920.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/ix626Lysk_hUUCyoSdyKIs42Ic4/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/15/6afa1f9c1e595689538196.jpg"
-    },
-    {
-      "id": "f7c9041d2a",
-      "date": "2026-11-15",
-      "type": "actu",
-      "question": "Quel champion olympique a vu l'hypothèse de sa candidature à l'élection présidentielle de 2027 abordée dans une émission politique ?",
-      "choix": [
-        "Teddy Riner",
-        "Léon Marchand",
-        "Florent Manaudou",
-        "Martin Fourcade"
-      ],
-      "reponse": 0,
-      "explication": "L'émission Présidentielle 2027 a évoqué l'hypothèse d'une candidature à l'Élysée du champion olympique de judo Teddy Riner.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-pr%C3%A9sidentielle-2027-un-champion-olympique-%C3%A0-l-elys%C3%A9e",
-      "image": "https://s.france24.com/media/display/a59a62b0-e137-11f1-8779-29048b396e03/w:1024/p:16x9/FR-20261115-211039-212744-CS.jpg"
-    },
-    {
-      "id": "f974f8fc8f",
-      "date": "2026-11-15",
-      "type": "actu",
-      "question": "Dans quel archipel d'Afrique de l'Ouest s'est déroulé le premier tour d'une élection présidentielle ?",
-      "choix": [
-        "Les Seychelles",
-        "Le Cap-Vert",
-        "Les Comores",
-        "Sao Tomé-et-Principe"
-      ],
-      "reponse": 1,
-      "explication": "Le premier tour de l'élection présidentielle s'est déroulé au Cap-Vert, dans un climat calme avant le début du dépouillement.",
-      "lien": "https://www.france24.com/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-d%C3%A9but-du-d%C3%A9pouillement-apr%C3%A8s-une-journ%C3%A9e-%C3%A9lectorale-calme",
-      "image": "https://s.france24.com/media/display/2af62b64-e134-11f1-8ed0-695cb59fade5/w:1024/p:16x9/000-D7JP843.jpg"
-    },
-    {
-      "id": "cf7b72a0c7",
-      "date": "2026-11-15",
-      "type": "actu",
-      "question": "Dans quelle ville turque se déroule la COP 31 co-présidée par la Turquie et l'Australie ?",
-      "choix": [
-        "Izmir",
-        "Antalya",
-        "Istanbul",
-        "Ankara"
-      ],
-      "reponse": 1,
-      "explication": "La COP 31 se tient à Antalya, en Turquie, avec un accent particulier mis sur l'accélération de l'électrification mondiale.",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261115-fabio-d-andrea-les-cop-sont-tr%C3%A8s-importantes-l-accord-de-paris-%C3%A0-l-%C3%A9poque-a-%C3%A9t%C3%A9-un-pas-%C3%A9norme",
-      "image": "https://s.france24.com/media/display/bb6842dc-e06b-11f1-baa6-29048b396e03/w:1024/p:16x9/FR-20261114-201113-202603-CS-01.jpg"
-    },
-    {
-      "id": "ef0d2a9feb",
-      "date": "2026-11-15",
-      "type": "actu",
-      "question": "Dans quel département français un suspect a-t-il été écroué après un « crypto-rapt » de 900 000 euros au Chesnay ?",
-      "choix": [
-        "La Gironde",
-        "L'Essonne",
-        "Le Rhône",
-        "Les Yvelines"
-      ],
-      "reponse": 3,
-      "explication": "L'homme a été mis en examen et écroué dans les Yvelines après la séquestration d'un couple au Chesnay pour obtenir des bitcoins.",
-      "lien": "https://www.franceinfo.fr/economie/bitcoin/un-homme-a-ete-mis-en-examen-et-ecroue-dans-les-yvelines-apres-un-crypto-rapt-a-900-000-euros_8283848.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/iueJD08ZD8ynzE2K33CsCWr_-44/0x525:5049x3366/432x243/filters:format(jpg)/2026/11/15/6afa06e53491c995394724.jpg"
-    },
-    {
-      "id": "d021277011",
-      "date": "2026-11-15",
-      "type": "culture",
-      "question": "Quel écrivain a été soupçonné à tort lors du vol de La Joconde au musée du Louvre en 1911 ?",
-      "choix": [
-        "Stéphane Mallarmé",
-        "Paul Verlaine",
-        "Guillaume Apollinaire",
-        "Paul Éluard"
-      ],
-      "reponse": 2,
-      "explication": "Pendant l'enquête sur la disparition du tableau de Léonard de Vinci, le poète Guillaume Apollinaire a fait partie des innocents brièvement soupçonnés.",
-      "lien": "",
-      "image": ""
-    },
-    {
-      "id": "e9ddac5d1d",
-      "date": "2026-11-15",
-      "type": "culture",
-      "question": "Quelle fleur a provoqué l'une des premières bulles spéculatives de l'histoire aux Pays-Bas au XVIIe siècle ?",
-      "choix": [
-        "L'orchidée",
-        "L'œillet",
-        "La tulipe",
-        "La rose"
-      ],
-      "reponse": 2,
-      "explication": "La « tulipomanie » a vu le prix des bulbes de tulipes atteindre des sommets irrationnels avant l'éclatement brutal du marché en 1637.",
-      "lien": "",
-      "image": ""
-    }
-  ]
+  "quiz_jour": []
 }

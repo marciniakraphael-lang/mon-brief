@@ -1591,6 +1591,92 @@
           "image": "https://www.franceinfo.fr/pictures/P3BegKn4iPrDx3Vh9uwGVkN8TSs/64x0:1091x578/432x243/filters:format(jpg)/2026/11/15/6af9857c43a24029533674.png"
         }
       ]
+    },
+    "2026-11-16": {
+      "morning_run": "2026-11-16T12:50:33.822919+01:00",
+      "morning_items": [
+        {
+          "titre": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
+          "lien": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-%5Bmonde%5D",
+          "source": "franceinfo Monde · France 24 · franceinfo",
+          "date": "2026-11-16T12:38:44+01:00",
+          "resume": "L'Estonie a annoncé la fermeture de tous ses postes frontaliers avec la Russie à compter du 1er décembre. Cette décision fait suite à une tentative d'incendie visant une usine de drones estonienne, que les autorités de Tallinn attribuent au renseignement militaire russe. Moscou a vivement critiqué cette mesure de fermeture.",
+          "contexte": "Les tensions entre les pays baltes et la Russie se sont intensifiées depuis le début du conflit en Ukraine. Ces nations, membres de l'OTAN, dénoncent régulièrement des tentatives de déstabilisation ou de sabotage menées par Moscou sur leur sol, ce qui conduit à un renforcement constant des mesures de sécurité aux frontières.",
+          "image": "https://www.franceinfo.fr/pictures/dSP8Vka2xNoCQslxLonYqRxIWSI/0x485:8256x5129/432x243/filters:format(jpg)/2026/11/15/6af9dbfe35c10151645611.jpg"
+        },
+        {
+          "titre": "Ebola en RDC : l'épidémie a fait plus de 5400 mort en six mois",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-ebola-en-rdc-l-%C3%A9pid%C3%A9mie-a-fait-plus-de-5400-mort-en-six-mois",
+          "source": "France 24",
+          "date": "2026-11-16T12:36:09+01:00",
+          "resume": "La République démocratique du Congo fait face à une épidémie d'Ebola particulièrement meurtrière, ayant causé 5 471 décès sur 11 197 cas en six mois. Il s'agit de la 17e flambée de la maladie dans l'histoire du pays et de la plus grave enregistrée à ce jour.",
+          "contexte": "Les épidémies d'Ebola sont récurrentes en RDC et posent des défis sanitaires majeurs en raison de l'instabilité sécuritaire et des difficultés d'accès aux zones reculées. La lutte contre la maladie repose sur la vaccination, le suivi des contacts et l'éducation des populations locales.",
+          "image": "https://s.france24.com/media/display/e4536344-e1aa-11f1-80ee-3f371022a770/w:1024/p:16x9/Couv-RDC-Bilan-EBOLA.jpg"
+        },
+        {
+          "titre": "Frappes ukrainiennes en Russie : le pont de Crimée touché",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-frappes-ukrainiennes-en-russie-le-pont-de-crim%C3%A9e-touch%C3%A9",
+          "source": "France 24",
+          "date": "2026-11-16T12:35:48+01:00",
+          "resume": "Le pont de Crimée, infrastructure stratégique reliant la Russie à la péninsule annexée, a été frappé par des attaques ukrainiennes. En parallèle, Moscou a affirmé avoir abattu plus de 1 300 drones ukrainiens durant la nuit, alors que les frappes russes sur les infrastructures énergétiques ukrainiennes se poursuivent à l'approche de l'hiver.",
+          "contexte": "Le conflit entre l'Ukraine et la Russie est entré dans une phase d'usure marquée par des attaques réciproques contre les infrastructures critiques. Le pont de Crimée est un symbole fort de l'occupation russe, faisant de lui une cible prioritaire pour Kiev afin de perturber la logistique militaire de Moscou.",
+          "image": "https://s.france24.com/media/display/3c690d70-e1ad-11f1-9a03-f71d22e7fea9/w:1024/p:16x9/FR-20261116-093408-093822-CS.jpg"
+        },
+        {
+          "titre": "France : le lycée Neslon Mandela rouvre ses portes à Nantes",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-france-le-lyc%C3%A9e-neslon-mandela-rouvre-ses-portes-%C3%A0-nantes",
+          "source": "France 24",
+          "date": "2026-11-16T12:33:00+01:00",
+          "resume": "Le lycée Nelson-Mandela de Nantes a rouvert partiellement ses portes ce lundi, après avoir été partiellement incendié lors d'une mobilisation lycéenne en octobre. Le ministre de l'Éducation, Édouard Geffray, présent sur place, a été hué par des élèves dénonçant une absence de dialogue sur leurs revendications.",
+          "contexte": "Les mouvements lycéens en France débouchent parfois sur des tensions entre les élèves et le ministère de l'Éducation. La réouverture des établissements après des dégradations est souvent le théâtre d'expressions de colère sociale ou de mécontentement étudiant face aux politiques éducatives.",
+          "image": "https://s.france24.com/media/display/4c6b2b04-e1ad-11f1-b22c-29048b396e03/w:1024/p:16x9/FR-20261116-110349-110453-CS-01.jpg"
+        },
+        {
+          "titre": "Le projet de loi sur le logement examiné à l'Assemblée \"va uniquement dans le sens des bailleurs\", dénonce la Fondation pour le logement des défavorisés",
+          "lien": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/le-projet-de-loi-sur-le-logement-examine-a-l-assemblee-va-uniquement-dans-le-sens-des-bailleurs-denonce-la-fondation-pour-le-logement-des-defavorises_8284769.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-16T12:29:37+01:00",
+          "resume": "La Fondation pour le logement des défavorisés a critiqué le nouveau projet de loi sur le logement, estimant qu'il favorise les bailleurs au détriment des locataires. Le texte, qui conditionne la remise sur le marché des passoires énergétiques à des travaux, est perçu par l'association comme un délai supplémentaire accordé aux propriétaires.",
+          "contexte": "La crise du logement en France est alimentée par la rareté des biens, la hausse des prix et les exigences croissantes en matière de transition énergétique. Le gouvernement tente d'équilibrer les contraintes environnementales pour les propriétaires avec la nécessité de maintenir une offre locative accessible.",
+          "image": "https://www.franceinfo.fr/pictures/ZjKmGahzsqrkabBG-SEEAmLDVRs/0x276:5321x3270/432x243/filters:format(jpg)/2026/11/16/6afaea41a44a5632127957.jpg"
+        },
+        {
+          "titre": "Ukraine : le prince Harry aux côtés des soldats blessées et des soignants à Lviv",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-ukraine-le-prince-harry-aux-c%C3%B4t%C3%A9s-des-soldats-bless%C3%A9es-et-des-soignants-%C3%A0-lviv",
+          "source": "France 24",
+          "date": "2026-11-16T12:29:01+01:00",
+          "resume": "Le prince Harry a effectué une visite surprise en Ukraine pour rencontrer des soldats blessés et le personnel soignant à Lviv. Il a exprimé son soutien aux militaires, réaffirmant son engagement envers cette cause lors de son quatrième déplacement dans le pays depuis 2022.",
+          "contexte": "Depuis son retrait de ses fonctions royales, le prince Harry s'est investi dans des causes humanitaires et militaires. Sa présence en Ukraine témoigne d'un soutien symbolique fort de personnalités internationales envers les victimes de l'invasion russe.",
+          "image": "https://s.france24.com/media/display/f2c673ba-e1ac-11f1-9ecd-f71d22e7fea9/w:1024/p:16x9/FR-20261116-093835-093942-CS-01.jpg"
+        },
+        {
+          "titre": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les houthis",
+          "lien": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html#xtor=RSS-3-%5Bmonde%5D",
+          "source": "franceinfo Monde · France 24",
+          "date": "2026-11-16T12:26:54+01:00",
+          "resume": "Les rebelles Houthis, soutenus par l'Iran, progressent dans le sud du Yémen et se trouvent désormais à environ 60 kilomètres d'Aden. Cette ville sert de capitale provisoire au gouvernement reconnu par la communauté internationale depuis la chute de Sanaa en 2014. Les forces gouvernementales ont commencé à masser des renforts militaires autour de la ville pour tenter de stopper cette avancée.",
+          "contexte": "Le Yémen est en proie à une guerre civile dévastatrice depuis une décennie, opposant les rebelles Houthis au pouvoir central soutenu par une coalition internationale. Ce conflit, qui a provoqué l'une des pires crises humanitaires au monde, est exacerbé par des enjeux de pouvoir régionaux, notamment la rivalité entre l'Arabie saoudite et l'Iran.",
+          "image": "https://www.franceinfo.fr/pictures/p7ws1z6WXQ9kLnKa7vHWGiKuyt0/0x200:3410x2118/432x243/filters:format(jpg)/2026/11/15/6af9fdc946b93220733926.jpg"
+        },
+        {
+          "titre": "Législatives en Israël : Netanyahu \"ne peut par rester une minute de plus\" d'après Eisenkot",
+          "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-ne-peut-par-rester-une-minute-de-plus-d-apr%C3%A8s-eisenkot",
+          "source": "France 24",
+          "date": "2026-11-16T12:24:26+01:00",
+          "resume": "Gadi Eisenkot, rival politique de Benjamin Netanyahu, a déclaré que le Premier ministre israélien ne pouvait plus rester au pouvoir. Cette prise de position intervient après des révélations médiatiques impliquant des proches du chef du gouvernement dans une manipulation visant des partis arabes.",
+          "contexte": "La vie politique israélienne est marquée par une forte polarisation et des scandales récurrents qui fragilisent les coalitions au pouvoir. Les accusations de manipulation électorale ou d'abus de pouvoir sont régulièrement utilisées par l'opposition pour réclamer la démission des dirigeants en place.",
+          "image": "https://s.france24.com/media/display/626cd09e-e1ab-11f1-940c-3f371022a770/w:1024/p:16x9/FR-20261116-091708-091846-CS-01.jpg"
+        },
+        {
+          "titre": "\"Une jolie robe rouge poudrée\" : Seraffine, une vache auvergnate est l'égérie du Salon international de l'agriculture 2027",
+          "lien": "https://www.franceinfo.fr/societe/salon-de-l-agriculture/une-jolie-robe-rouge-poudree-seraffine-une-vache-auvergnate-est-l-egerie-du-salon-international-de-l-agriculture-2027_8284754.html#xtor=RSS-3-[lestitres]",
+          "source": "franceinfo",
+          "date": "2026-11-16T12:18:57+01:00",
+          "resume": "La vache Seraffine, de race auvergnate, a été choisie comme égérie du Salon international de l'agriculture 2027. Cette nomination marque le retour des bovins au salon après une interruption en 2025 due à une crise sanitaire liée à la dermatose nodulaire.",
+          "contexte": "Le Salon international de l'agriculture est un événement majeur en France qui met en avant le monde rural et les filières d'élevage. Les crises sanitaires animales peuvent avoir des conséquences économiques et logistiques importantes pour l'organisation de ces rassemblements agricoles.",
+          "image": "https://www.franceinfo.fr/pictures/ulDVpX0gPscn6hSH1qRaf_0zQho/0x85:640x445/432x243/filters:format(jpg)/2026/11/16/6afae519e9bd1073035229.jpg"
+        }
+      ]
     }
   },
   "culture_seen": [
@@ -1668,6 +1754,9 @@
     "L'effet Tyndall",
     "Le mystère du tableau volé",
     "La tulipomanie",
-    "Le langage des arbres"
+    "Le langage des arbres",
+    "L'histoire du maillot jaune",
+    "La capsule du temps de la Statue de la Liberté",
+    "Le sommeil paradoxal des manchots"
   ]
 }
