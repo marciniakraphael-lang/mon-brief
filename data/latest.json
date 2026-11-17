@@ -1,7 +1,7 @@
 {
   "date": "2026-11-17",
   "mode": "evening",
-  "updated": "2026-11-17T02:40:56.664103+01:00",
+  "updated": "2026-11-17T16:26:16.452490+01:00",
   "deja_presente": [
     {
       "titre": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
@@ -152,40 +152,103 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
-      "lien": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
-      "source": "France 24",
-      "date": "2026-11-17T01:22:05+01:00",
-      "resume": "Des frappes russes ont touché deux ponts majeurs à Kiev lundi soir, endommageant également des systèmes d'infrastructures critiques selon le maire Vitali Klitschko. Parallèlement, la Russie a confirmé que le pont de Crimée avait été visé par des frappes pour la deuxième journée consécutive.",
-      "contexte": "Ces attaques s'inscrivent dans le cadre du conflit en cours entre la Russie et l'Ukraine, où les infrastructures de transport et énergiques sont régulièrement ciblées pour perturber la logistique et le moral de l'adversaire. La répétition des frappes sur le pont de Crimée et la capitale ukrainienne illustre l'intensité persistante des combats et la volonté des deux camps de maintenir la pression stratégique.",
-      "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg"
-    },
-    {
-      "titre": "États-Unis : un juge annule les limites de visa pour étudiants et journalistes, Trump fait appel",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261117-etats-unis-juge-federal-annule-limites-visa-etudiants-journalistes-etrangers-donal-trump-appel",
-      "source": "France 24",
-      "date": "2026-11-17T01:02:25+01:00",
-      "resume": "Un juge fédéral américain a annulé lundi les restrictions de séjour visant les étudiants et les journalistes étrangers, estimant cette nouvelle réglementation arbitraire. L'administration de Donald Trump a immédiatement fait appel de cette décision.",
-      "contexte": "Cette décision s'inscrit dans le cadre des politiques migratoires strictes souvent portées par l'administration Trump, qui cherche à limiter l'accès ou la présence de certains ressortissants étrangers sur le territoire américain. Les batailles juridiques autour des visas et des règles d'immigration sont fréquentes aux États-Unis, opposant les décrets exécutifs présidentiels aux décisions de la justice fédérale.",
-      "image": "https://s.france24.com/media/display/c246dcf8-e219-11f1-a4d4-3f371022a770/w:1024/p:16x9/AP26320528463458.jpg"
-    },
-    {
-      "titre": "Francophonie : l'avenir du français se joue-t-il en Afrique ?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique",
-      "source": "France 24",
-      "date": "2026-11-17T00:11:50+01:00",
-      "resume": "Le sommet de la Francophonie s'est achevé lundi au Cambodge par le report d'un an de l'élection à la tête de l'organisation. Ce report est notamment lié aux tensions géopolitiques entre la République démocratique du Congo et le Rwanda, prolongeant de fait le mandat de la secrétaire générale actuelle, Louise Mushikiwabo.",
-      "contexte": "L'Organisation internationale de la francophonie (OIF) rassemble de nombreux pays où le français est parlé, avec une grande majorité de sa population désormais située sur le continent africain, ce qui en fait un enjeu démographique et diplomatique majeur. Les rivalités régionales, comme celles en Afrique des Grands Lacs, pèsent régulièrement sur les consensus politiques au sein de ces instances multilatérales.",
-      "image": "https://s.france24.com/media/display/9d28d0dc-e211-11f1-98c2-5f54d898a954/w:1024/p:16x9/FRAN261116-2339-Live-CS2339.jpg"
-    },
-    {
-      "titre": "Marine Le Pen critiquée en plein débat de la présidentielle pour sa volonté de couper les subventions des associations \"politisées\"",
-      "lien": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html#xtor=RSS-3-[lestitres]",
+      "titre": "En Europe, les fumeurs ont davantage de difficulté à arrêter que dans le reste du monde, selon l'Organisation mondiale de la santé",
+      "lien": "https://www.franceinfo.fr/sante/en-europe-les-fumeurs-ont-davantage-de-difficulte-a-arreter-que-dans-le-reste-du-monde-selon-l-organisation-mondiale-de-la-sante_8286614.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-17T00:08:36+01:00",
-      "resume": "Lors d'un débat télévisé sur LCI en vue de l'élection présidentielle, Marine Le Pen a fait l'objet de vives critiques de la part de ses adversaires politiques. Un front allant de Jean-Luc Mélenchon à Gabriel Attal, en passant par Raphaël Glucksmann, s'est dressé contre sa proposition de couper les subventions aux associations jugées \"politisées\".",
-      "contexte": "La question du financement public des associations et des structures militantes ou culturelles soulève régulièrement des débats intenses dans le paysage politique français, opposant la volonté de réduire la dépense publique et de sanctionner des positions partisanes à la défense du tissu associatif et des libertés publiques. Ce type de confrontation illustre les stratégies d'alliance et d'opposition entre les différents camps à l'approche d'une élection présidentielle.",
-      "image": "https://www.franceinfo.fr/pictures/O5bGsoRjDkpi8J9HsjN5SSQG2ZA/0x12:1024x588/432x243/filters:format(jpg)/2026/11/16/6afb8823d241d342110591.jpg"
+      "date": "2026-11-17T16:23:56+01:00",
+      "resume": "L'Organisation mondiale de la santé (OMS) a publié un rapport indiquant que le continent européen présente les plus grandes difficultés mondiales en matière de sevrage tabagique. Selon l'organisation, l'Europe devrait continuer à afficher la prévalence la plus élevée de tabagisme chez les adultes à l'échelle mondiale.",
+      "contexte": "Le tabagisme reste l'une des principales causes de mortalité évitable en Europe, avec des enjeux majeurs de santé publique liés aux cancers et aux maladies cardiovasculaires. Les politiques de lutte contre le tabac varient considérablement d'un pays à l'autre, et cette persistance du tabagisme souligne les défis rencontrés par les systèmes de santé pour mettre en œuvre des stratégies de prévention et d'accompagnement efficaces.",
+      "image": "https://www.franceinfo.fr/pictures/ezwZ-eyazGTnkzjRttmPQVDQG6c/0x26:1024x602/432x243/filters:format(jpg)/2026/11/17/6afc66c1a8f38502139214.jpg"
+    },
+    {
+      "titre": "L'armée israélienne a utilisé la technologie de reconnaissance faciale d'Amazon pour surveiller les Palestiniens, selon \"The Guardian\"",
+      "lien": "https://www.franceinfo.fr/monde/proche-orient/guerre/l-armee-israelienne-a-utilise-la-technologie-de-reconnaissance-faciale-d-amazon-pour-surveiller-les-palestiniens-selon-le-guardian_8286383.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-17T16:11:35+01:00",
+      "resume": "Selon le journal The Guardian, l'armée israélienne a utilisé une technologie de reconnaissance faciale fournie par Amazon pour surveiller les populations palestiniennes. Début 2024, une unité militaire aurait transmis plusieurs millions de photographies à l'infrastructure cloud d'Amazon pour les analyser via des outils d'intelligence artificielle.",
+      "contexte": "L'usage de la reconnaissance faciale par les forces armées dans des zones de conflit soulève des inquiétudes éthiques et juridiques internationales importantes. Ces pratiques posent la question de la surveillance de masse, de la protection des données personnelles des civils et de la responsabilité des géants technologiques dans le déploiement d'outils de sécurité par des États.",
+      "image": "https://www.franceinfo.fr/pictures/LOvDN2ONkUQeCtlRMypP4T5A10Y/0x52:1024x628/432x243/filters:format(jpg)/2026/11/17/6afc3612ba6c5168226242.jpg"
+    },
+    {
+      "titre": "Lucky Luke, 80 ans et bien vivant sous la plume de Jul",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261117-lucky-luke-80-ans-et-bien-vivant-sous-la-plume-de-jul",
+      "source": "France 24",
+      "date": "2026-11-17T16:11:21+01:00",
+      "resume": "La bande dessinée Lucky Luke célèbre ses 80 ans avec un nouvel album intitulé \"Saint Lucky Luke\", signé par l'auteur Jul. Cette nouvelle aventure du célèbre cowboy solitaire explore le thème du fanatisme religieux.",
+      "contexte": "Créé par Morris en 1946, Lucky Luke est devenu une icône de la culture populaire francophone. Son évolution à travers les décennies, sous la plume de différents auteurs, témoigne de la capacité de la série à s'adapter aux époques tout en conservant son humour et sa satire sociale.",
+      "image": "https://s.france24.com/media/display/3748aec2-e298-11f1-996a-ff16da94d1fe/w:1024/p:16x9/capture-4535a444.jpg"
+    },
+    {
+      "titre": "Offensive ukrainienne : Moscou affirme avoir abattu 1 400 drones en une nuit",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/offensive-ukrainienne-moscou-affirme-avoir-abattu-1-400-drones-en-une-nuit_8286665.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde · franceinfo",
+      "date": "2026-11-17T16:09:56+01:00",
+      "resume": "L'Ukraine a intensifié ses opérations militaires avec une attaque massive de drones visant Moscou dans la nuit du 16 au 17 novembre, les autorités russes affirmant en avoir abattu plus de 1 400. Parallèlement, le président ukrainien Volodymyr Zelensky a revendiqué des frappes sur le pont de Crimée, un axe logistique stratégique. En France, la ministre déléguée aux Armées a qualifié d'absurde l'idée d'une participation directe de soldats français aux combats, tout en confirmant la présence de militaires sur le sol ukrainien pour des missions de maintenance et de formation.",
+      "contexte": "Ces événements illustrent l'intensification des hostilités et la volonté de Kiev de frapper des cibles stratégiques en territoire russe. La présence de militaires occidentaux en Ukraine reste un sujet diplomatique extrêmement sensible, Moscou utilisant régulièrement ces informations pour accuser les pays de l'OTAN d'être co-belligérants. La protection des infrastructures critiques, comme le pont de Crimée, demeure un enjeu central pour le contrôle des lignes de ravitaillement dans ce conflit d'usure.",
+      "image": "https://www.franceinfo.fr/pictures/D8GdJktYmr4ktWrSPoYNz44EYOU/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/17/6afc6cde71b76730180389.jpg"
+    },
+    {
+      "titre": "Arthur Fils se défait de Rafael Jodar au Masters de Turin, première victoire française depuis 2011 dans cette compétition",
+      "lien": "https://www.franceinfo.fr/sports/tennis/arthur-fils/arthur-fils-se-defait-de-rafael-jodar-au-masters-de-turin-premiere-victoire-francaise-depuis-2011-dans-cette-competition_8286668.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-17T16:06:39+01:00",
+      "resume": "Le joueur de tennis français Arthur Fils a battu l'Espagnol Rafael Jodar lors du Masters de Turin, marquant la première victoire française dans cette compétition depuis 2011. Ce succès permet au Français de garder ses chances de qualification pour les demi-finales.",
+      "contexte": "Le Masters de Turin réunit l'élite mondiale du tennis masculin en fin de saison. Cette performance souligne la progression de la nouvelle génération de joueurs français sur le circuit ATP, dans un tournoi exigeant qui rassemble les meilleurs joueurs de l'année.",
+      "image": "https://www.franceinfo.fr/pictures/8myr5cWiEG-V5pwRe_zbonLnX2U/0x0:1024x576/432x243/filters:format(jpg)/2026/11/17/6afc6ce672584976983710.jpg"
+    },
+    {
+      "titre": "Le Français Philippe Diallo, l'inattendu challenger de Gianni Infantino à la tête de la Fifa",
+      "lien": "https://www.france24.com/fr/sports/20261117-phillippe-diallo-fifa-candidature-fff-infantino-portrait",
+      "source": "France 24",
+      "date": "2026-11-17T16:06:10+01:00",
+      "resume": "Philippe Diallo, président de la Fédération française de football, a annoncé sa candidature à la présidence de la Fifa pour l'élection de mars prochain. Il bénéficie du soutien des associations membres de l'UEFA pour contester la direction actuelle de Gianni Infantino.",
+      "contexte": "La présidence de la Fifa est un poste au cœur des enjeux du sport mondial, influençant les règles, l'organisation des compétitions internationales et le développement du football. Cette candidature surprise illustre une volonté de changement au sein des instances dirigeantes européennes vis-à-vis de la gouvernance actuelle de l'institution.",
+      "image": "https://s.france24.com/media/display/569efd00-e1fb-11f1-aa39-f71d22e7fea9/w:1024/p:16x9/AP23119675074358.jpg"
+    },
+    {
+      "titre": "CAN 2027: l'Égypte cale et retarde sa qualification, le Nigeria et le Gabon se mettent en difficulté",
+      "lien": "https://www.france24.com/fr/sports/20261117-can-2027-l-%C3%A9gypte-cale-et-retarde-sa-qualification-le-nigeria-et-le-gabon-se-mettent-en-difficult%C3%A9",
+      "source": "France 24",
+      "date": "2026-11-17T16:03:18+01:00",
+      "resume": "Lors des qualifications pour la CAN 2027, l'Égypte a concédé un match nul 0-0 face au Malawi, retardant sa qualification. Dans le même temps, le Nigeria a également été tenu en échec par la Tanzanie (0-0), tandis que le Gabon s'est incliné 2-1 face au Lesotho.",
+      "contexte": "La Coupe d'Afrique des Nations est l'événement footballistique majeur sur le continent, attirant une attention considérable. Ces résultats inattendus lors des phases de qualification mettent en lumière la compétitivité croissante entre les nations africaines, où les équipes favorites peinent désormais à s'imposer facilement face à des adversaires moins bien classés.",
+      "image": "https://s.france24.com/media/display/0a11708e-e297-11f1-8087-7908c4e1a3c7/w:1024/p:16x9/AP26185475896145.jpg"
+    },
+    {
+      "titre": "Donald Trump prend \"très au sérieux\" une possible menace d'attaque iranienne contre la ville de Washington, l'Iran dénonce des informations \"fabriquées\"",
+      "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-prend-tres-au-serieux-une-possible-menace-d-attaque-iranienne-contre-la-ville-de-washington-l-iran-denonce-des-informations-fabriquees_8286563.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-17T16:00:34+01:00",
+      "resume": "Donald Trump a déclaré prendre très au sérieux des informations relayées par CNN, selon lesquelles les services de renseignement craindraient une attaque iranienne par \"bombe sale\" contre Washington. De son côté, l'Iran a formellement démenti ces allégations, qualifiant ces informations de \"fabriquées\".",
+      "contexte": "Les tensions entre les États-Unis et l'Iran sont constantes, alimentées par des enjeux géopolitiques complexes au Moyen-Orient et des soupçons mutuels de déstabilisation. Ce type d'alerte sécuritaire, bien que régulièrement démenti par Téhéran, souligne la volatilité des relations diplomatiques entre les deux pays.",
+      "image": "https://www.franceinfo.fr/pictures/1HGkfA-g9SDbbtnGMCruDzQV7sY/0x59:1024x635/432x243/filters:format(jpg)/2026/11/17/6afc5d8067556577337103.jpg"
+    },
+    {
+      "titre": "Protection de l'enfance : le département du Nord attaqué en justice pour \"défaillance\" par le Syndicat de la magistrature et plusieurs associations",
+      "lien": "https://www.franceinfo.fr/monde/europe/migrants/protection-de-l-enfance-le-departement-du-nord-attaque-en-justice-pour-defaillance-par-le-syndicat-de-la-magistrature-et-plusieurs-associations_8286659.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-17T16:00:30+01:00",
+      "resume": "Le département du Nord fait l'objet d'une action en justice initiée par le Syndicat de la magistrature et plusieurs associations. Ces derniers dénoncent une \"défaillance\" dans la protection de l'enfance, pointant notamment les conditions précaires d'accueil des mineurs isolés dans les campements du Dunkerquois.",
+      "contexte": "La prise en charge des mineurs non accompagnés est une compétence départementale qui fait régulièrement l'objet de débats en France. Les associations dénoncent souvent un manque de moyens et des conditions d'hébergement indignes, mettant en cause la responsabilité des autorités locales face aux obligations de protection de l'enfance.",
+      "image": "https://www.franceinfo.fr/pictures/ewvTdxODy64kunVkbKxBizsNqGQ/0x219:4100x2526/432x243/filters:format(jpg)/2026/11/17/6afc6bc85aa4e555558737.jpg"
+    },
+    {
+      "titre": "« Malika », l’hommage à une cantatrice des cités en porte-à-faux avec les impératifs bourgeois",
+      "lien": "https://www.lemonde.fr/culture/article/2026/11/17/malika-l-hommage-a-une-cantatrice-des-cites-en-porte-a-faux-avec-les-imperatifs-bourgeois_6812988_3246.html",
+      "source": "Le Monde",
+      "date": "2026-11-17T16:00:09+01:00",
+      "resume": "La réalisatrice Mounia Meddour sort un nouveau film intitulé \"Malika\", qui retrace le parcours de l'artiste lyrique Malika Bellaribi. Le long-métrage explore la vie d'une chanteuse issue des quartiers populaires confrontée aux attentes de la société bourgeoise.",
+      "contexte": "Le cinéma de Mounia Meddour se concentre souvent sur des figures féminines fortes évoluant dans des contextes sociaux complexes. Ce film s'inscrit dans une démarche de mise en lumière de parcours artistiques atypiques et de dépassement des déterminismes sociaux par la musique.",
+      "image": "https://img.lemde.fr/2026/11/13/107/0/1788/894/644/322/60/0/b8374ff_upload-1-nrlbsbrvwgv3-photo-2.jpeg"
+    },
+    {
+      "titre": "En Corée du Sud, ils inspectent les lunettes pour éviter la triche au baccalauréat",
+      "lien": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/en-coree-du-sud-ils-inspectent-les-lunettes-pour-eviter-la-triche-au-baccalaureat_8286674.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-17T15:59:46+01:00",
+      "resume": "La police sud-coréenne a annoncé le 15 novembre avoir arrêté un candidat qui tentait de tricher au baccalauréat en utilisant des lunettes connectées. Ce type d'incident a conduit les autorités à renforcer les contrôles sur les accessoires lors des examens nationaux.",
+      "contexte": "En Corée du Sud, le baccalauréat est considéré comme un examen crucial pour l'avenir des jeunes, avec une pression académique extrêmement forte. Cette importance explique les mesures de sécurité drastiques mises en place pour garantir l'équité des épreuves face à l'émergence de nouvelles technologies de fraude.",
+      "image": "https://www.franceinfo.fr/pictures/b-1yU3eFiYJXrU7Grs2gAn8orFE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc6bc548420122022109.jpg"
     }
   ],
   "culture": [
@@ -213,98 +276,114 @@
   ],
   "quiz_jour": [
     {
-      "id": "59d68c2aa0",
+      "id": "028e413709",
       "date": "2026-11-17",
       "type": "actu",
-      "question": "Quelles infrastructures majeures ont été ciblées à Kiev lors des frappes russes ?",
+      "question": "Selon l'OMS, quel est le constat concernant le tabagisme en Europe ?",
       "choix": [
-        "Des centrales nucléaires",
-        "Des hôpitaux militaires",
-        "Deux ponts",
-        "Le palais présidentiel"
+        "L'Europe présente les plus grandes difficultés mondiales de sevrage",
+        "Le tabagisme est en baisse constante chez les jeunes Européens",
+        "L'Europe a le taux de tabagisme le plus bas au monde",
+        "L'Europe a réussi à éradiquer le tabagisme"
       ],
-      "reponse": 2,
-      "explication": "L'article précise que des frappes russes ont touché deux ponts majeurs à Kiev.",
-      "lien": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
-      "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg"
+      "reponse": 0,
+      "explication": "Le rapport de l'OMS souligne que l'Europe fait face aux plus grands défis mondiaux en matière de sevrage tabagique.",
+      "lien": "https://www.franceinfo.fr/sante/en-europe-les-fumeurs-ont-davantage-de-difficulte-a-arreter-que-dans-le-reste-du-monde-selon-l-organisation-mondiale-de-la-sante_8286614.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/ezwZ-eyazGTnkzjRttmPQVDQG6c/0x26:1024x602/432x243/filters:format(jpg)/2026/11/17/6afc66c1a8f38502139214.jpg"
     },
     {
-      "id": "5defa52baf",
+      "id": "724df3cb0b",
       "date": "2026-11-17",
       "type": "actu",
-      "question": "Quelle a été la réaction de l'administration Trump suite à l'annulation des limites de visa par un juge ?",
+      "question": "Quel anniversaire célèbre la bande dessinée Lucky Luke ?",
       "choix": [
-        "Elle a annulé la décision elle-même",
-        "Elle a accepté la décision",
-        "Elle a fait appel",
-        "Elle a démissionné"
+        "80 ans",
+        "50 ans",
+        "60 ans",
+        "75 ans"
       ],
-      "reponse": 2,
-      "explication": "L'article indique que l'administration de Donald Trump a immédiatement fait appel de la décision du juge.",
-      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261117-etats-unis-juge-federal-annule-limites-visa-etudiants-journalistes-etrangers-donal-trump-appel",
-      "image": "https://s.france24.com/media/display/c246dcf8-e219-11f1-a4d4-3f371022a770/w:1024/p:16x9/AP26320528463458.jpg"
+      "reponse": 0,
+      "explication": "La célèbre bande dessinée célèbre ses 80 ans avec un nouvel album intitulé 'Saint Lucky Luke'.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261117-lucky-luke-80-ans-et-bien-vivant-sous-la-plume-de-jul",
+      "image": "https://s.france24.com/media/display/3748aec2-e298-11f1-996a-ff16da94d1fe/w:1024/p:16x9/capture-4535a444.jpg"
     },
     {
-      "id": "52dccd011f",
+      "id": "1771a7c304",
       "date": "2026-11-17",
       "type": "actu",
-      "question": "Pourquoi l'élection à la tête de l'organisation de la Francophonie a-t-elle été reportée ?",
+      "question": "Quelle performance historique Arthur Fils a-t-il réalisée au Masters de Turin ?",
       "choix": [
-        "À cause d'une épidémie",
-        "Par manque de candidats",
-        "À cause de tensions entre la RDC et le Rwanda",
-        "À cause de problèmes financiers"
+        "Il a disputé sa première finale en carrière",
+        "Il a battu le numéro 1 mondial",
+        "Il a signé la première victoire française depuis 2011",
+        "Il a remporté le tournoi"
       ],
       "reponse": 2,
-      "explication": "Le report est lié aux tensions géopolitiques entre la République démocratique du Congo et le Rwanda.",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique",
-      "image": "https://s.france24.com/media/display/9d28d0dc-e211-11f1-98c2-5f54d898a954/w:1024/p:16x9/FRAN261116-2339-Live-CS2339.jpg"
+      "explication": "Arthur Fils a battu Rafael Jodar, marquant la première victoire d'un joueur français dans cette compétition depuis 2011.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/arthur-fils/arthur-fils-se-defait-de-rafael-jodar-au-masters-de-turin-premiere-victoire-francaise-depuis-2011-dans-cette-competition_8286668.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/8myr5cWiEG-V5pwRe_zbonLnX2U/0x0:1024x576/432x243/filters:format(jpg)/2026/11/17/6afc6ce672584976983710.jpg"
     },
     {
-      "id": "e61889702b",
+      "id": "901406afbe",
       "date": "2026-11-17",
       "type": "actu",
-      "question": "Quelle proposition de Marine Le Pen a suscité de vives critiques lors d'un débat télévisé ?",
+      "question": "Pourquoi la police sud-coréenne a-t-elle renforcé les contrôles lors des examens nationaux ?",
       "choix": [
-        "La suppression de l'impôt sur le revenu",
-        "La sortie de l'Union européenne",
-        "La coupe des subventions aux associations \"politisées\"",
-        "La privatisation des médias publics"
+        "À cause de la circulation de faux sujets",
+        "Pour lutter contre la triche par objets connectés",
+        "À cause de menaces terroristes",
+        "Pour éviter les manifestations étudiantes"
       ],
-      "reponse": 2,
-      "explication": "La polémique porte sur sa volonté de couper les subventions des associations jugées politisées.",
-      "lien": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/O5bGsoRjDkpi8J9HsjN5SSQG2ZA/0x12:1024x588/432x243/filters:format(jpg)/2026/11/16/6afb8823d241d342110591.jpg"
+      "reponse": 1,
+      "explication": "La découverte d'un candidat utilisant des lunettes connectées pour tricher a poussé les autorités à renforcer la surveillance des accessoires.",
+      "lien": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/en-coree-du-sud-ils-inspectent-les-lunettes-pour-eviter-la-triche-au-baccalaureat_8286674.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/b-1yU3eFiYJXrU7Grs2gAn8orFE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc6bc548420122022109.jpg"
     },
     {
-      "id": "958fe629b5",
+      "id": "b2118772dc",
       "date": "2026-11-17",
-      "type": "culture",
-      "question": "Comment les frégates parviennent-elles à dormir pendant leurs longs vols ?",
+      "type": "actu",
+      "question": "Quelle est la position officielle de la France concernant la présence de soldats français en Ukraine ?",
       "choix": [
-        "En volant en groupe pour se relayer",
-        "Elles ne dorment pas du tout",
-        "En se posant sur des débris flottants",
-        "En dormant d'une seule moitié de cerveau à la fois"
+        "Envoi massif de troupes d'infanterie",
+        "Participation directe aux combats au front",
+        "Retrait total et immédiat de tous les militaires",
+        "Présence pour des missions de maintenance et de formation"
       ],
       "reponse": 3,
-      "explication": "La fiche indique que les frégates dorment d'une seule moitié de cerveau à la fois, un mécanisme similaire à celui des dauphins.",
+      "explication": "La ministre déléguée aux Armées a réfuté une participation directe aux combats, mais a confirmé la présence de militaires pour la maintenance et la formation.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/offensive-ukrainienne-moscou-affirme-avoir-abattu-1-400-drones-en-une-nuit_8286665.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/D8GdJktYmr4ktWrSPoYNz44EYOU/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/17/6afc6cde71b76730180389.jpg"
+    },
+    {
+      "id": "804e68dba1",
+      "date": "2026-11-17",
+      "type": "culture",
+      "question": "Quel est le point culminant de l'Océanie ?",
+      "choix": [
+        "Le Mont Cook en Nouvelle-Zélande",
+        "Le Mont Kosciuszko en Australie",
+        "Le Puncak Jaya en Indonésie",
+        "Le Mauna Kea à Hawaï"
+      ],
+      "reponse": 2,
+      "explication": "Le point culminant de l'Océanie est le Puncak Jaya, situé sur l'île de Nouvelle-Guinée en Indonésie.",
       "lien": "",
       "image": ""
     },
     {
-      "id": "2b7b0eea85",
+      "id": "3b8cbf78f0",
       "date": "2026-11-17",
       "type": "culture",
-      "question": "Où se situe le point culminant de l'Océanie ?",
+      "question": "Quel est le comportement particulier des frégates pour dormir ?",
       "choix": [
-        "À Hawaï",
-        "En Indonésie",
-        "En Australie",
-        "En Nouvelle-Zélande"
+        "Elles dorment uniquement lorsqu'elles sont au sol",
+        "Elles ne dorment jamais",
+        "Elles dorment en plein vol avec une moitié de cerveau à la fois",
+        "Elles dorment en se laissant flotter sur l'eau"
       ],
-      "reponse": 1,
-      "explication": "Contrairement à une idée reçue, le point culminant se situe en Indonésie, sur l'île de Nouvelle-Guinée.",
+      "reponse": 2,
+      "explication": "Les frégates dorment en plein vol en utilisant le sommeil unihémisphérique, similaire à celui des dauphins.",
       "lien": "",
       "image": ""
     }

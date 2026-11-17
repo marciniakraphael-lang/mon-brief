@@ -6378,6 +6378,118 @@
       "explication": "Contrairement à une idée reçue, le point culminant se situe en Indonésie, sur l'île de Nouvelle-Guinée.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "028e413709",
+      "date": "2026-11-17",
+      "type": "actu",
+      "question": "Selon l'OMS, quel est le constat concernant le tabagisme en Europe ?",
+      "choix": [
+        "L'Europe présente les plus grandes difficultés mondiales de sevrage",
+        "Le tabagisme est en baisse constante chez les jeunes Européens",
+        "L'Europe a le taux de tabagisme le plus bas au monde",
+        "L'Europe a réussi à éradiquer le tabagisme"
+      ],
+      "reponse": 0,
+      "explication": "Le rapport de l'OMS souligne que l'Europe fait face aux plus grands défis mondiaux en matière de sevrage tabagique.",
+      "lien": "https://www.franceinfo.fr/sante/en-europe-les-fumeurs-ont-davantage-de-difficulte-a-arreter-que-dans-le-reste-du-monde-selon-l-organisation-mondiale-de-la-sante_8286614.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/ezwZ-eyazGTnkzjRttmPQVDQG6c/0x26:1024x602/432x243/filters:format(jpg)/2026/11/17/6afc66c1a8f38502139214.jpg"
+    },
+    {
+      "id": "724df3cb0b",
+      "date": "2026-11-17",
+      "type": "actu",
+      "question": "Quel anniversaire célèbre la bande dessinée Lucky Luke ?",
+      "choix": [
+        "80 ans",
+        "50 ans",
+        "60 ans",
+        "75 ans"
+      ],
+      "reponse": 0,
+      "explication": "La célèbre bande dessinée célèbre ses 80 ans avec un nouvel album intitulé 'Saint Lucky Luke'.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261117-lucky-luke-80-ans-et-bien-vivant-sous-la-plume-de-jul",
+      "image": "https://s.france24.com/media/display/3748aec2-e298-11f1-996a-ff16da94d1fe/w:1024/p:16x9/capture-4535a444.jpg"
+    },
+    {
+      "id": "1771a7c304",
+      "date": "2026-11-17",
+      "type": "actu",
+      "question": "Quelle performance historique Arthur Fils a-t-il réalisée au Masters de Turin ?",
+      "choix": [
+        "Il a disputé sa première finale en carrière",
+        "Il a battu le numéro 1 mondial",
+        "Il a signé la première victoire française depuis 2011",
+        "Il a remporté le tournoi"
+      ],
+      "reponse": 2,
+      "explication": "Arthur Fils a battu Rafael Jodar, marquant la première victoire d'un joueur français dans cette compétition depuis 2011.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/arthur-fils/arthur-fils-se-defait-de-rafael-jodar-au-masters-de-turin-premiere-victoire-francaise-depuis-2011-dans-cette-competition_8286668.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/8myr5cWiEG-V5pwRe_zbonLnX2U/0x0:1024x576/432x243/filters:format(jpg)/2026/11/17/6afc6ce672584976983710.jpg"
+    },
+    {
+      "id": "901406afbe",
+      "date": "2026-11-17",
+      "type": "actu",
+      "question": "Pourquoi la police sud-coréenne a-t-elle renforcé les contrôles lors des examens nationaux ?",
+      "choix": [
+        "À cause de la circulation de faux sujets",
+        "Pour lutter contre la triche par objets connectés",
+        "À cause de menaces terroristes",
+        "Pour éviter les manifestations étudiantes"
+      ],
+      "reponse": 1,
+      "explication": "La découverte d'un candidat utilisant des lunettes connectées pour tricher a poussé les autorités à renforcer la surveillance des accessoires.",
+      "lien": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/en-coree-du-sud-ils-inspectent-les-lunettes-pour-eviter-la-triche-au-baccalaureat_8286674.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/b-1yU3eFiYJXrU7Grs2gAn8orFE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc6bc548420122022109.jpg"
+    },
+    {
+      "id": "b2118772dc",
+      "date": "2026-11-17",
+      "type": "actu",
+      "question": "Quelle est la position officielle de la France concernant la présence de soldats français en Ukraine ?",
+      "choix": [
+        "Envoi massif de troupes d'infanterie",
+        "Participation directe aux combats au front",
+        "Retrait total et immédiat de tous les militaires",
+        "Présence pour des missions de maintenance et de formation"
+      ],
+      "reponse": 3,
+      "explication": "La ministre déléguée aux Armées a réfuté une participation directe aux combats, mais a confirmé la présence de militaires pour la maintenance et la formation.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/offensive-ukrainienne-moscou-affirme-avoir-abattu-1-400-drones-en-une-nuit_8286665.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/D8GdJktYmr4ktWrSPoYNz44EYOU/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/17/6afc6cde71b76730180389.jpg"
+    },
+    {
+      "id": "804e68dba1",
+      "date": "2026-11-17",
+      "type": "culture",
+      "question": "Quel est le point culminant de l'Océanie ?",
+      "choix": [
+        "Le Mont Cook en Nouvelle-Zélande",
+        "Le Mont Kosciuszko en Australie",
+        "Le Puncak Jaya en Indonésie",
+        "Le Mauna Kea à Hawaï"
+      ],
+      "reponse": 2,
+      "explication": "Le point culminant de l'Océanie est le Puncak Jaya, situé sur l'île de Nouvelle-Guinée en Indonésie.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "3b8cbf78f0",
+      "date": "2026-11-17",
+      "type": "culture",
+      "question": "Quel est le comportement particulier des frégates pour dormir ?",
+      "choix": [
+        "Elles dorment uniquement lorsqu'elles sont au sol",
+        "Elles ne dorment jamais",
+        "Elles dorment en plein vol avec une moitié de cerveau à la fois",
+        "Elles dorment en se laissant flotter sur l'eau"
+      ],
+      "reponse": 2,
+      "explication": "Les frégates dorment en plein vol en utilisant le sommeil unihémisphérique, similaire à celui des dauphins.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
