@@ -6282,6 +6282,102 @@
       "explication": "Les artisans et personnalités ont dissimulé une capsule temporelle en cuivre contenant des documents officiels et des photographies.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "59d68c2aa0",
+      "date": "2026-11-17",
+      "type": "actu",
+      "question": "Quelles infrastructures majeures ont été ciblées à Kiev lors des frappes russes ?",
+      "choix": [
+        "Des centrales nucléaires",
+        "Des hôpitaux militaires",
+        "Deux ponts",
+        "Le palais présidentiel"
+      ],
+      "reponse": 2,
+      "explication": "L'article précise que des frappes russes ont touché deux ponts majeurs à Kiev.",
+      "lien": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
+      "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg"
+    },
+    {
+      "id": "5defa52baf",
+      "date": "2026-11-17",
+      "type": "actu",
+      "question": "Quelle a été la réaction de l'administration Trump suite à l'annulation des limites de visa par un juge ?",
+      "choix": [
+        "Elle a annulé la décision elle-même",
+        "Elle a accepté la décision",
+        "Elle a fait appel",
+        "Elle a démissionné"
+      ],
+      "reponse": 2,
+      "explication": "L'article indique que l'administration de Donald Trump a immédiatement fait appel de la décision du juge.",
+      "lien": "https://www.france24.com/fr/am%C3%A9riques/20261117-etats-unis-juge-federal-annule-limites-visa-etudiants-journalistes-etrangers-donal-trump-appel",
+      "image": "https://s.france24.com/media/display/c246dcf8-e219-11f1-a4d4-3f371022a770/w:1024/p:16x9/AP26320528463458.jpg"
+    },
+    {
+      "id": "52dccd011f",
+      "date": "2026-11-17",
+      "type": "actu",
+      "question": "Pourquoi l'élection à la tête de l'organisation de la Francophonie a-t-elle été reportée ?",
+      "choix": [
+        "À cause d'une épidémie",
+        "Par manque de candidats",
+        "À cause de tensions entre la RDC et le Rwanda",
+        "À cause de problèmes financiers"
+      ],
+      "reponse": 2,
+      "explication": "Le report est lié aux tensions géopolitiques entre la République démocratique du Congo et le Rwanda.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique",
+      "image": "https://s.france24.com/media/display/9d28d0dc-e211-11f1-98c2-5f54d898a954/w:1024/p:16x9/FRAN261116-2339-Live-CS2339.jpg"
+    },
+    {
+      "id": "e61889702b",
+      "date": "2026-11-17",
+      "type": "actu",
+      "question": "Quelle proposition de Marine Le Pen a suscité de vives critiques lors d'un débat télévisé ?",
+      "choix": [
+        "La suppression de l'impôt sur le revenu",
+        "La sortie de l'Union européenne",
+        "La coupe des subventions aux associations \"politisées\"",
+        "La privatisation des médias publics"
+      ],
+      "reponse": 2,
+      "explication": "La polémique porte sur sa volonté de couper les subventions des associations jugées politisées.",
+      "lien": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/O5bGsoRjDkpi8J9HsjN5SSQG2ZA/0x12:1024x588/432x243/filters:format(jpg)/2026/11/16/6afb8823d241d342110591.jpg"
+    },
+    {
+      "id": "958fe629b5",
+      "date": "2026-11-17",
+      "type": "culture",
+      "question": "Comment les frégates parviennent-elles à dormir pendant leurs longs vols ?",
+      "choix": [
+        "En volant en groupe pour se relayer",
+        "Elles ne dorment pas du tout",
+        "En se posant sur des débris flottants",
+        "En dormant d'une seule moitié de cerveau à la fois"
+      ],
+      "reponse": 3,
+      "explication": "La fiche indique que les frégates dorment d'une seule moitié de cerveau à la fois, un mécanisme similaire à celui des dauphins.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "2b7b0eea85",
+      "date": "2026-11-17",
+      "type": "culture",
+      "question": "Où se situe le point culminant de l'Océanie ?",
+      "choix": [
+        "À Hawaï",
+        "En Indonésie",
+        "En Australie",
+        "En Nouvelle-Zélande"
+      ],
+      "reponse": 1,
+      "explication": "Contrairement à une idée reçue, le point culminant se situe en Indonésie, sur l'île de Nouvelle-Guinée.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
