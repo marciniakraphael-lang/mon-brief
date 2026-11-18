@@ -1,103 +1,87 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "mode": "evening",
-  "updated": "2026-11-18T01:40:26.329346+01:00",
+  "updated": "2026-11-19T00:58:38.836288+01:00",
   "deja_presente": [],
   "depuis_hier": [],
   "aujourdhui": [
     {
-      "titre": "L’Iran a « utilisé le prétexte » de la guerre au Moyen-Orient pour « intensifier la répression », dénonce Amnesty International",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/18/l-iran-a-utilise-le-pretexte-de-la-guerre-au-moyen-orient-pour-intensifier-la-repression-denonce-amnesty-international_6813053_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-18T01:05:56+01:00",
-      "resume": "L'organisation Amnesty International affirme que les autorités iraniennes utilisent le contexte de la guerre au Moyen-Orient pour intensifier leur répression interne. Selon Raha Bahreini, chercheuse principale de l'ONG, le nombre d'exécutions pour motifs politiques a atteint un niveau jamais observé au cours des dernières décennies. Au moins 39 personnes ont ainsi été exécutées en lien direct avec les manifestations antigouvernementales survenues en janvier.",
-      "contexte": "Les périodes de tension géopolitique régionale détournent souvent l'attention de la communauté internationale, ce qui peut inciter certains régimes à durcir le contrôle de leur population. L'Iran fait face depuis plusieurs années à des vagues régulières de contestation contre son modèle politique et ses difficultés économiques. Le recours accru à la peine de mort vise généralement à dissuader toute reprise d'un mouvement de contestation de masse.",
-      "image": "https://img.lemde.fr/2026/05/16/0/0/5566/2783/644/322/60/0/aaf7b9a_ftp-1-2qho1plxwtd4-5055521-01-06.jpg"
+      "titre": "Le pont de Crimée a de nouveau été attaqué, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l'infrastructure",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-19T00:14:23+01:00",
+      "resume": "Le pont de Crimée, qui relie la péninsule annexée à la Russie, a subi une nouvelle attaque deux jours après des frappes ukrainiennes l'ayant déjà sérieusement endommagé. Un responsable local russe a annoncé mercredi soir que la circulation sur l'ouvrage était temporairement interrompue.",
+      "contexte": "Le pont de Crimée revêt une importance stratégique et symbolique majeure pour la Russie, servant d'artère cruciale pour le ravitaillement de ses forces militaires dans la région. Ces attaques successives s'inscrivent dans le cadre du conflit en cours entre l'Ukraine et la Russie, où les infrastructures de transport sont régulièrement ciblées pour perturber la logistique ennemie. Pour Kiev, frapper ce pont permet également de contester l'annexion de la Crimée et de marquer symboliquement sa résistance.",
+      "image": "https://www.franceinfo.fr/pictures/FThduinxN8W23zmCZGJJM4P1U3A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afe2de6c5900212535077.jpg"
     },
     {
-      "titre": "Le conseil d'administration de Nvidia ferme la porte à un retour de son ex-patron Jensen Huang",
-      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261117-conseil-administration-nvidia-semi-conducteurs-ferme-porte-retour-ex-patron-jensen-huang-harvey-jones-resultats-ia",
-      "source": "France 24",
-      "date": "2026-11-18T00:51:46+01:00",
-      "resume": "Le conseil d'administration de Nvidia a confirmé mardi avoir accepté à l'unanimité la démission de son dirigeant historique, Jensen Huang. Le président du conseil, Harvey Jones, a formellement exclu toute réinstallation de ce dernier au poste de directeur général et a précisé vouloir trouver un successeur aussi vite que possible. Malgré ce changement à sa tête, le fabricant de puces affiche des résultats solides au troisième trimestre et a revu à la hausse ses perspectives financières.",
-      "contexte": "Jensen Huang a incarné l'ascension spectaculaire de Nvidia, devenue l'une des entreprises les plus influentes au monde grâce au développement des puces pour l'intelligence artificielle. Le départ soudain d'un fondateur pose souvent la question de la continuité stratégique et de la confiance des marchés dans une phase de compétition technologique intense. La publication de perspectives relevées sert habituellement à rassurer les investisseurs sur la solidité de la demande commerciale indépendamment des changements de gouvernance.",
-      "image": "https://s.france24.com/media/display/1719bc24-e2e1-11f1-a460-1ba7ddfab527/w:1024/p:16x9/000-D7PB7CT.jpg"
+      "titre": "La vaccination face à la grippe permet d'éviter 9 000 hospitalisations chez les plus de 65 ans chaque année, selon Santé publique France",
+      "lien": "https://www.franceinfo.fr/economie/disparites-salariales/la-vaccination-face-a-la-grippe-permet-d-eviter-9-000-hospitalisations-chez-les-plus-de-65-ans-chaque-annee-selon-sante-publique-france_8288957.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-19T00:05:02+01:00",
+      "resume": "La vaccination contre la grippe permet d'éviter environ 9 000 hospitalisations chaque année chez les personnes de plus de 65 ans en France, selon les données publiées par Santé publique France. Par ailleurs, l'agence indique que la grippe est responsable à elle seule de 44 000 hospitalisations annuelles dans cette tranche d'âge, touchant principalement les individus de plus de 75 ans.",
+      "contexte": "La grippe saisonnière représente chaque hiver une charge lourde pour le système de santé, en particulier dans les hôpitaux et les services gériatriques qui font face à des pics d'affluence. L'enjeu des campagnes de vaccination est de réduire la morbidité et la mortalité chez les populations les plus vulnérables tout en évitant la saturation des structures médicales. C'est pourquoi les autorités sanitaires incitent systématiquement les seniors à se faire vacciner avant l'arrivée de l'épidémie hivernale.",
+      "image": "https://www.franceinfo.fr/pictures/jmGalgrjQkuILUoZEs-1mQ8V3W0/432x243/filters:format(jpg)/2026/10/12/6acd27307e7dd118360583.jpg"
     },
     {
-      "titre": "Une primaire de la droite et du centre prend forme avec les équipes d'Attal, Retailleau et Lisnard",
-      "lien": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance",
-      "source": "France 24",
-      "date": "2026-11-18T00:04:52+01:00",
-      "resume": "Les représentants de Gabriel Attal pour Renaissance, Bruno Retailleau pour LR et David Lisnard pour Nouvelle Énergie se sont réunis mardi. Ils se sont accordés sur le principe d'une primaire à deux tours pour la présidentielle, qui serait organisée d'ici la fin du mois de janvier. Selon Renaissance, les organisateurs souhaitent une élection très ouverte, en y invitant Édouard Philippe, tout en écartant les candidats issus de partis qualifiés d'extrêmes.",
-      "contexte": "Dans un paysage politique fragmenté, les partis du centre et de la droite traditionnelle cherchent à éviter une multiplication des candidatures qui risquerait de les éliminer dès le premier tour de la présidentielle. La mise en place d'une primaire permet généralement de désigner un représentant unique tout en créant une dynamique de mobilisation militante. L'enjeu reste toutefois d'obtenir l'adhésion de l'ensemble des personnalités pressenties pour éviter qu'une candidature dissidente n'affaiblisse le vainqueur du scrutin.",
-      "image": "https://s.france24.com/media/display/072fefbe-e2db-11f1-aec8-1ba7ddfab527/w:1024/p:16x9/000-72QJ49V.jpg"
+      "titre": "L214 accuse un élevage dans le Finistère qui fournit le groupe Leclerc de violences sur des porcelets",
+      "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/bien-etre-animal/maltraitance-dans-les-abattoirs/l214-accuse-un-elevage-dans-le-finistere-qui-fournit-le-groupe-leclerc-de-violences-sur-des-porcelets_8288975.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-19T00:00:01+01:00",
+      "resume": "L'association de protection animale L214 a annoncé porter plainte contre un élevage de porcs situé à Poullaouen, dans le Finistère, qui fournit le groupe de grande distribution Leclerc. L'association accuse cet établissement d'exercer des violences sur les animaux, notamment en procédant à la castration des porcelets à vif.",
+      "contexte": "Les enquêtes de L214 visent régulièrement à dénoncer les conditions d'élevage et d'abattage en France pour sensibiliser le public et pousser le législateur ainsi que la grande distribution à modifier leurs pratiques. La question de la castration à vif des porcelets fait l'objet de vives discussions éthiques et réglementaires en Europe, en raison de la douleur infligée aux animaux. Bien que des alternatives existent, leur généralisation se heurte à des contraintes économiques et organisationnelles pour les éleveurs.",
+      "image": "https://www.franceinfo.fr/pictures/k97XuMw2MoK-yHl6bpslPImDsR0/0x345:4845x3071/432x243/filters:format(jpg)/2024/06/06/075-ruiz-notitle191214-npbq1-66622b7a3b10c505430271.jpg"
     }
   ],
   "culture": [],
   "quiz_jour": [
     {
-      "id": "a5e3536ea9",
-      "date": "2026-11-18",
+      "id": "44c39890c9",
+      "date": "2026-11-19",
       "type": "actu",
-      "question": "Selon l'organisation Amnesty International, quel contexte les autorités iraniennes ont-elles utilisé comme prétexte pour intensifier leur répression interne ?",
+      "question": "Quel territoire le pont de Crimée relie-t-il à la Russie ?",
       "choix": [
-        "Les sanctions commerciales internationales",
-        "Une crise sanitaire aiguë",
-        "La guerre au Moyen-Orient",
-        "La crise économique nationale"
+        "La péninsule de Crimée",
+        "La région du Donbass",
+        "L'oblast de Kaliningrad",
+        "La péninsule de Kola"
+      ],
+      "reponse": 0,
+      "explication": "Le pont de Crimée relie la péninsule annexée à la Russie.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/FThduinxN8W23zmCZGJJM4P1U3A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afe2de6c5900212535077.jpg"
+    },
+    {
+      "id": "cb302e5f47",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Combien d'hospitalisations de personnes de plus de 65 ans la vaccination contre la grippe évite-t-elle chaque année en France ?",
+      "choix": [
+        "Environ 44 000",
+        "Environ 9 000",
+        "Environ 5 000",
+        "Environ 2 000"
+      ],
+      "reponse": 1,
+      "explication": "Selon Santé publique France, la vaccination permet d'éviter environ 9 000 hospitalisations par an dans cette tranche d'âge.",
+      "lien": "https://www.franceinfo.fr/economie/disparites-salariales/la-vaccination-face-a-la-grippe-permet-d-eviter-9-000-hospitalisations-chez-les-plus-de-65-ans-chaque-annee-selon-sante-publique-france_8288957.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/jmGalgrjQkuILUoZEs-1mQ8V3W0/432x243/filters:format(jpg)/2026/10/12/6acd27307e7dd118360583.jpg"
+    },
+    {
+      "id": "bb7b29fc18",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Dans quel département se trouve l'élevage de porcs visé par la plainte de l'association L214 ?",
+      "choix": [
+        "Les Côtes-d'Armor",
+        "L'Ille-et-Vilaine",
+        "Le Finistère",
+        "Le Morbihan"
       ],
       "reponse": 2,
-      "explication": "Amnesty International dénonce le fait que l'Iran s'est servi du contexte de la guerre au Moyen-Orient pour intensifier sa répression et augmenter les exécutions pour motifs politiques.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/18/l-iran-a-utilise-le-pretexte-de-la-guerre-au-moyen-orient-pour-intensifier-la-repression-denonce-amnesty-international_6813053_3210.html",
-      "image": "https://img.lemde.fr/2026/05/16/0/0/5566/2783/644/322/60/0/aaf7b9a_ftp-1-2qho1plxwtd4-5055521-01-06.jpg"
-    },
-    {
-      "id": "c8ea6ef31b",
-      "date": "2026-11-18",
-      "type": "actu",
-      "question": "D'après Amnesty International, combien de personnes au moins ont été exécutées en Iran en lien direct avec les manifestations de janvier ?",
-      "choix": [
-        "27 personnes",
-        "54 personnes",
-        "39 personnes",
-        "15 personnes"
-      ],
-      "reponse": 2,
-      "explication": "Selon Raha Bahreini d'Amnesty International, au moins 39 personnes ont été exécutées en lien direct avec les manifestations antigouvernementales survenues en janvier.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/18/l-iran-a-utilise-le-pretexte-de-la-guerre-au-moyen-orient-pour-intensifier-la-repression-denonce-amnesty-international_6813053_3210.html",
-      "image": "https://img.lemde.fr/2026/05/16/0/0/5566/2783/644/322/60/0/aaf7b9a_ftp-1-2qho1plxwtd4-5055521-01-06.jpg"
-    },
-    {
-      "id": "5c913a9682",
-      "date": "2026-11-18",
-      "type": "actu",
-      "question": "Quelle décision a été confirmée à l'unanimité par le conseil d'administration du géant technologique Nvidia ?",
-      "choix": [
-        "La délocalisation de son siège administratif hors des États-Unis",
-        "La révision à la baisse de ses objectifs de chiffre d'affaires",
-        "Le rachat d'un important concurrent dans les semi-conducteurs",
-        "L'acceptation de la démission de son dirigeant Jensen Huang"
-      ],
-      "reponse": 3,
-      "explication": "Le conseil d'administration de Nvidia a validé la démission de son dirigeant historique Jensen Huang et exclu toute réinstallation de ce dernier au poste de directeur général.",
-      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261117-conseil-administration-nvidia-semi-conducteurs-ferme-porte-retour-ex-patron-jensen-huang-harvey-jones-resultats-ia",
-      "image": "https://s.france24.com/media/display/1719bc24-e2e1-11f1-a460-1ba7ddfab527/w:1024/p:16x9/000-D7PB7CT.jpg"
-    },
-    {
-      "id": "6bafcea399",
-      "date": "2026-11-18",
-      "type": "actu",
-      "question": "Sur quel principe les représentants de Gabriel Attal, Bruno Retailleau et David Lisnard se sont-ils accordés en vue de la présidentielle ?",
-      "choix": [
-        "La désignation d'office d'un candidat sans vote citoyen",
-        "Le report indéfini de toute alliance entre la droite et le centre",
-        "L'ouverture du scrutin aux mouvements d'extrême droite et d'extrême gauche",
-        "L'organisation d'une primaire à deux tours d'ici la fin janvier"
-      ],
-      "reponse": 3,
-      "explication": "Les équipes de Renaissance, LR et Nouvelle Énergie ont convenu du principe d'une primaire à deux tours pour la présidentielle, programmée d'ici la fin du mois de janvier.",
-      "lien": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance",
-      "image": "https://s.france24.com/media/display/072fefbe-e2db-11f1-aec8-1ba7ddfab527/w:1024/p:16x9/000-72QJ49V.jpg"
+      "explication": "L'élevage mis en cause par L214 est situé à Poullaouen, dans le département du Finistère.",
+      "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/bien-etre-animal/maltraitance-dans-les-abattoirs/l214-accuse-un-elevage-dans-le-finistere-qui-fournit-le-groupe-leclerc-de-violences-sur-des-porcelets_8288975.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/k97XuMw2MoK-yHl6bpslPImDsR0/0x345:4845x3071/432x243/filters:format(jpg)/2024/06/06/075-ruiz-notitle191214-npbq1-66622b7a3b10c505430271.jpg"
     }
   ]
 }

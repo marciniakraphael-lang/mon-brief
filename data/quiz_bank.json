@@ -6554,6 +6554,54 @@
       "explication": "Les équipes de Renaissance, LR et Nouvelle Énergie ont convenu du principe d'une primaire à deux tours pour la présidentielle, programmée d'ici la fin du mois de janvier.",
       "lien": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance",
       "image": "https://s.france24.com/media/display/072fefbe-e2db-11f1-aec8-1ba7ddfab527/w:1024/p:16x9/000-72QJ49V.jpg"
+    },
+    {
+      "id": "44c39890c9",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Quel territoire le pont de Crimée relie-t-il à la Russie ?",
+      "choix": [
+        "La péninsule de Crimée",
+        "La région du Donbass",
+        "L'oblast de Kaliningrad",
+        "La péninsule de Kola"
+      ],
+      "reponse": 0,
+      "explication": "Le pont de Crimée relie la péninsule annexée à la Russie.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/FThduinxN8W23zmCZGJJM4P1U3A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afe2de6c5900212535077.jpg"
+    },
+    {
+      "id": "cb302e5f47",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Combien d'hospitalisations de personnes de plus de 65 ans la vaccination contre la grippe évite-t-elle chaque année en France ?",
+      "choix": [
+        "Environ 44 000",
+        "Environ 9 000",
+        "Environ 5 000",
+        "Environ 2 000"
+      ],
+      "reponse": 1,
+      "explication": "Selon Santé publique France, la vaccination permet d'éviter environ 9 000 hospitalisations par an dans cette tranche d'âge.",
+      "lien": "https://www.franceinfo.fr/economie/disparites-salariales/la-vaccination-face-a-la-grippe-permet-d-eviter-9-000-hospitalisations-chez-les-plus-de-65-ans-chaque-annee-selon-sante-publique-france_8288957.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/jmGalgrjQkuILUoZEs-1mQ8V3W0/432x243/filters:format(jpg)/2026/10/12/6acd27307e7dd118360583.jpg"
+    },
+    {
+      "id": "bb7b29fc18",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Dans quel département se trouve l'élevage de porcs visé par la plainte de l'association L214 ?",
+      "choix": [
+        "Les Côtes-d'Armor",
+        "L'Ille-et-Vilaine",
+        "Le Finistère",
+        "Le Morbihan"
+      ],
+      "reponse": 2,
+      "explication": "L'élevage mis en cause par L214 est situé à Poullaouen, dans le département du Finistère.",
+      "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/bien-etre-animal/maltraitance-dans-les-abattoirs/l214-accuse-un-elevage-dans-le-finistere-qui-fournit-le-groupe-leclerc-de-violences-sur-des-porcelets_8288975.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/k97XuMw2MoK-yHl6bpslPImDsR0/0x345:4845x3071/432x243/filters:format(jpg)/2024/06/06/075-ruiz-notitle191214-npbq1-66622b7a3b10c505430271.jpg"
     }
   ]
 }
