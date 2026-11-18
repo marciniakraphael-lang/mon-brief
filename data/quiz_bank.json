@@ -6490,6 +6490,70 @@
       "explication": "Les frégates dorment en plein vol en utilisant le sommeil unihémisphérique, similaire à celui des dauphins.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "a5e3536ea9",
+      "date": "2026-11-18",
+      "type": "actu",
+      "question": "Selon l'organisation Amnesty International, quel contexte les autorités iraniennes ont-elles utilisé comme prétexte pour intensifier leur répression interne ?",
+      "choix": [
+        "Les sanctions commerciales internationales",
+        "Une crise sanitaire aiguë",
+        "La guerre au Moyen-Orient",
+        "La crise économique nationale"
+      ],
+      "reponse": 2,
+      "explication": "Amnesty International dénonce le fait que l'Iran s'est servi du contexte de la guerre au Moyen-Orient pour intensifier sa répression et augmenter les exécutions pour motifs politiques.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/18/l-iran-a-utilise-le-pretexte-de-la-guerre-au-moyen-orient-pour-intensifier-la-repression-denonce-amnesty-international_6813053_3210.html",
+      "image": "https://img.lemde.fr/2026/05/16/0/0/5566/2783/644/322/60/0/aaf7b9a_ftp-1-2qho1plxwtd4-5055521-01-06.jpg"
+    },
+    {
+      "id": "c8ea6ef31b",
+      "date": "2026-11-18",
+      "type": "actu",
+      "question": "D'après Amnesty International, combien de personnes au moins ont été exécutées en Iran en lien direct avec les manifestations de janvier ?",
+      "choix": [
+        "27 personnes",
+        "54 personnes",
+        "39 personnes",
+        "15 personnes"
+      ],
+      "reponse": 2,
+      "explication": "Selon Raha Bahreini d'Amnesty International, au moins 39 personnes ont été exécutées en lien direct avec les manifestations antigouvernementales survenues en janvier.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/18/l-iran-a-utilise-le-pretexte-de-la-guerre-au-moyen-orient-pour-intensifier-la-repression-denonce-amnesty-international_6813053_3210.html",
+      "image": "https://img.lemde.fr/2026/05/16/0/0/5566/2783/644/322/60/0/aaf7b9a_ftp-1-2qho1plxwtd4-5055521-01-06.jpg"
+    },
+    {
+      "id": "5c913a9682",
+      "date": "2026-11-18",
+      "type": "actu",
+      "question": "Quelle décision a été confirmée à l'unanimité par le conseil d'administration du géant technologique Nvidia ?",
+      "choix": [
+        "La délocalisation de son siège administratif hors des États-Unis",
+        "La révision à la baisse de ses objectifs de chiffre d'affaires",
+        "Le rachat d'un important concurrent dans les semi-conducteurs",
+        "L'acceptation de la démission de son dirigeant Jensen Huang"
+      ],
+      "reponse": 3,
+      "explication": "Le conseil d'administration de Nvidia a validé la démission de son dirigeant historique Jensen Huang et exclu toute réinstallation de ce dernier au poste de directeur général.",
+      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261117-conseil-administration-nvidia-semi-conducteurs-ferme-porte-retour-ex-patron-jensen-huang-harvey-jones-resultats-ia",
+      "image": "https://s.france24.com/media/display/1719bc24-e2e1-11f1-a460-1ba7ddfab527/w:1024/p:16x9/000-D7PB7CT.jpg"
+    },
+    {
+      "id": "6bafcea399",
+      "date": "2026-11-18",
+      "type": "actu",
+      "question": "Sur quel principe les représentants de Gabriel Attal, Bruno Retailleau et David Lisnard se sont-ils accordés en vue de la présidentielle ?",
+      "choix": [
+        "La désignation d'office d'un candidat sans vote citoyen",
+        "Le report indéfini de toute alliance entre la droite et le centre",
+        "L'ouverture du scrutin aux mouvements d'extrême droite et d'extrême gauche",
+        "L'organisation d'une primaire à deux tours d'ici la fin janvier"
+      ],
+      "reponse": 3,
+      "explication": "Les équipes de Renaissance, LR et Nouvelle Énergie ont convenu du principe d'une primaire à deux tours pour la présidentielle, programmée d'ici la fin du mois de janvier.",
+      "lien": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance",
+      "image": "https://s.france24.com/media/display/072fefbe-e2db-11f1-aec8-1ba7ddfab527/w:1024/p:16x9/000-72QJ49V.jpg"
     }
   ]
 }
