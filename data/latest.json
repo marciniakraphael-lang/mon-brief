@@ -1,87 +1,120 @@
 {
   "date": "2026-11-19",
-  "mode": "evening",
-  "updated": "2026-11-19T00:58:38.836288+01:00",
+  "mode": "morning",
+  "updated": "2026-11-19T12:56:27.797150+01:00",
   "deja_presente": [],
-  "depuis_hier": [],
+  "depuis_hier": [
+    {
+      "titre": "Trois \"revenantes\" françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l'organisation Etat islamique en Syrie",
+      "lien": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique-en-syrie_8289047.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-18T23:50:36+01:00",
+      "resume": "La cour d'assises spéciale de Paris a condamné trois femmes françaises, revenues de Syrie, à des peines de cinq à douze ans de prison pour avoir rejoint l'organisation État islamique. Parmi elles figurent deux ex-épouses d'Adrien Guihal, un haut cadre de l'EI qui avait revendiqué les attentats de Nice et de Magnanville en 2016.",
+      "contexte": "Le retour et le jugement des 'revenantes' (les ressortissants partis rejoindre les zones de combat jihadistes et rentrés après la chute du califat territorial) constituent un défi judiciaire majeur pour la France. Les tribunaux s'appuient sur la législation antiterroriste pour punir l'association de malfaiteurs terroriste criminelle, cherchant à concilier impératif de sécurité publique et respect des droits de la défense.",
+      "image": "https://www.franceinfo.fr/pictures/Kjpf0rsQPNKRZXcDy44aAUBHAtU/0x53:1024x629/432x243/filters:format(jpg)/2026/11/18/6afe2a92568b0220860319.jpg"
+    },
+    {
+      "titre": "Produits importés des colonies israéliennes : scandale dans nos rayons ?",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/produits-importes-des-colonies-israeliennes-scandale-dans-nos-rayons_8288924.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-18T23:05:01+01:00",
+      "resume": "Une enquête de l'Œil du 20 heures révèle que des produits vendus en supermarché sous l'étiquette \"Fabriqué en Israël\" proviennent en réalité d'usines situées dans des colonies israéliennes implantées en territoire occupé.",
+      "contexte": "Cette question relève des débats internationaux sur le statut juridique des colonies israéliennes, considérées comme illégales au regard du droit international par une grande partie de la communauté internationale. L'étiquetage de ces marchandises soulève régulièrement des controverses politiques et économiques sur la traçabilité des produits et le respect des réglementations commerciales relatives aux territoires occupés.",
+      "image": "https://www.franceinfo.fr/pictures/JH-gt0Xr77dpLjsFbCFJi-cQhUk/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/18/6afe08a50a897220723943.jpg"
+    },
+    {
+      "titre": "Au Texas, la pollution liée à l'exploitation du pétrole et du gaz inquiète les habitants et reste taboue au pays de l'or noir",
+      "lien": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/au-texas-la-pollution-liee-a-l-exploitation-du-petrole-et-du-gaz-inquiete-les-habitants-et-reste-taboue-au-pays-de-l-or-noir_8288936.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-18T21:59:29+01:00",
+      "resume": "Dans l'ouest du Texas, l'exploitation historique du pétrole et du gaz laisse derrière elle une importante pollution qui inquiète les habitants. Des puits abandonnés laissent actuellement échapper des gaz ou crachent des geysers d'eau contaminée, posant la question de l'après-pétrole dans cette région de l'or noir.",
+      "contexte": "Ce problème met en lumière les passifs environnementaux majeurs liés à l'industrie des combustibles fossiles aux États-Unis. L'abandon de milliers de puits non scellés ou mal entretenus engendre des risques sanitaires et écologiques durables, un défi que les autorités locales peinent souvent à réguler en raison du poids économique du secteur.",
+      "image": "https://www.franceinfo.fr/pictures/ZxKSssSvFeklwyEjCpiiaAkSJRE/0x9:1277x728/432x243/filters:format(jpg)/2026/11/18/6afe118299c1f762938845.jpg"
+    },
+    {
+      "titre": "Budget, préventes, musique… Cinq chiffres vertigineux autour de \"GTA VI\", qui est sorti à minuit après treize ans d'attente",
+      "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/budget-preventes-musique-cinq-chiffres-vertigineux-autour-de-gta-vi-qui-sort-apres-treize-ans-d-attente_8267372.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-18T21:32:27+01:00",
+      "resume": "Le jeu vidéo \"Grand Theft Auto VI\" est sorti jeudi à minuit après treize ans d'attente, s'accompagnant de chiffres vertigineux concernant son budget, ses préventes et sa musique. L'éditeur américain Rockstar Games espère ainsi réitérer le succès commercial historique du précédent opus de la franchise.",
+      "contexte": "La franchise GTA pèse lourdement sur l'industrie du divertissement mondial, chaque nouvel épisode constituant un événement culturel et économique comparable aux plus grands blockbusters hollywoodiens. Les attentes financières et techniques sont immenses pour les studios, qui investissent des sommes records dans le développement de ces univers ouverts.",
+      "image": "https://www.franceinfo.fr/pictures/QaZKESMlT7p5PpdAmpvQH6-q42Y/0x0:3840x2160/432x243/filters:format(jpg)/2026/11/04/6aeb1a7ab3c37538240259.jpg"
+    }
+  ],
   "aujourdhui": [
     {
-      "titre": "Le pont de Crimée a de nouveau été attaqué, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l'infrastructure",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-19T00:14:23+01:00",
-      "resume": "Le pont de Crimée, qui relie la péninsule annexée à la Russie, a subi une nouvelle attaque deux jours après des frappes ukrainiennes l'ayant déjà sérieusement endommagé. Un responsable local russe a annoncé mercredi soir que la circulation sur l'ouvrage était temporairement interrompue.",
-      "contexte": "Le pont de Crimée revêt une importance stratégique et symbolique majeure pour la Russie, servant d'artère cruciale pour le ravitaillement de ses forces militaires dans la région. Ces attaques successives s'inscrivent dans le cadre du conflit en cours entre l'Ukraine et la Russie, où les infrastructures de transport sont régulièrement ciblées pour perturber la logistique ennemie. Pour Kiev, frapper ce pont permet également de contester l'annexion de la Crimée et de marquer symboliquement sa résistance.",
-      "image": "https://www.franceinfo.fr/pictures/FThduinxN8W23zmCZGJJM4P1U3A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afe2de6c5900212535077.jpg"
+      "titre": "La Birmanie a commis un génocide à l'encontre des Rohingyas, statue la Cour internationale de justice dans un arrêt historique",
+      "lien": "https://www.franceinfo.fr/monde/asie/rohingyas/la-birmanie-a-commis-un-genocide-a-l-encontre-des-rohingyas-statue-la-cour-internationale-de-justice-dans-un-arret-historique_8289806.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-19T12:46:07+01:00",
+      "resume": "Dans un arrêt historique, la Cour internationale de justice (CIJ), plus haute juridiction de l'ONU, a statué que la Birmanie a commis un génocide à l'encontre de la minorité musulmane des Rohingyas. La Cour a établi que les soldats birmans ont tué des milliers de civils rohingyas avec l'intention de détruire une partie substantielle de cette population.",
+      "contexte": "Cette décision de la CIJ constitue une étape majeure dans la lutte contre l'impunité des crimes de masse commis par la junte militaire birmane. Bien que les arrêts de la Cour soient juridiquement contraignants, leur application concrète reste difficile en l'absence de force armée internationale pour contraindre le régime en place à s'y conformer.",
+      "image": "https://www.franceinfo.fr/pictures/PhUnBfIeI8SdXBXXL6gfGDWXK_4/0x0:1024x576/432x243/filters:format(jpg)/2026/11/19/6afedc7610280374094994.jpg"
     },
     {
-      "titre": "La vaccination face à la grippe permet d'éviter 9 000 hospitalisations chez les plus de 65 ans chaque année, selon Santé publique France",
-      "lien": "https://www.franceinfo.fr/economie/disparites-salariales/la-vaccination-face-a-la-grippe-permet-d-eviter-9-000-hospitalisations-chez-les-plus-de-65-ans-chaque-annee-selon-sante-publique-france_8288957.html#xtor=RSS-3-[lestitres]",
+      "titre": "Des dizaines de sculptures représentant des divinités mayas découvertes dans une cité antique au Guatemala",
+      "lien": "https://www.franceinfo.fr/culture/patrimoine/archeologie/des-dizaines-de-sculptures-representant-des-divinites-mayas-decouvertes-dans-une-cite-antique-au-guatemala_8289668.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-19T00:05:02+01:00",
-      "resume": "La vaccination contre la grippe permet d'éviter environ 9 000 hospitalisations chaque année chez les personnes de plus de 65 ans en France, selon les données publiées par Santé publique France. Par ailleurs, l'agence indique que la grippe est responsable à elle seule de 44 000 hospitalisations annuelles dans cette tranche d'âge, touchant principalement les individus de plus de 75 ans.",
-      "contexte": "La grippe saisonnière représente chaque hiver une charge lourde pour le système de santé, en particulier dans les hôpitaux et les services gériatriques qui font face à des pics d'affluence. L'enjeu des campagnes de vaccination est de réduire la morbidité et la mortalité chez les populations les plus vulnérables tout en évitant la saturation des structures médicales. C'est pourquoi les autorités sanitaires incitent systématiquement les seniors à se faire vacciner avant l'arrivée de l'épidémie hivernale.",
-      "image": "https://www.franceinfo.fr/pictures/jmGalgrjQkuILUoZEs-1mQ8V3W0/432x243/filters:format(jpg)/2026/10/12/6acd27307e7dd118360583.jpg"
+      "date": "2026-11-19T12:40:17+01:00",
+      "resume": "Une quarantaine d'ouvrages représentant des divinités mayas ont été découverts enfouis sous la végétation d'une cité antique au Guatemala. Cette trouvaille archéologique réalisée à El Mirador, l'une des plus anciennes et importantes cités précolombiennes, vient éclairer l'histoire de cette civilisation.",
+      "contexte": "Les fouilles dans la jungle mésoaméricaine permettent régulièrement de mieux comprendre la complexité politique, religieuse et artistique de la civilisation maya avant l'arrivée des Européens. L'utilisation de technologies de cartographie moderne comme le Lidar révolutionne ces découvertes en révélant l'ampleur cachée des anciennes cités enfouies.",
+      "image": "https://www.franceinfo.fr/pictures/4fVGNbtr5i4CbCVJP5x31mfZCpI/0x699:7601x4975/432x243/filters:format(jpg)/2026/11/19/6afebf7376c2a037651639.jpg"
     },
     {
-      "titre": "L214 accuse un élevage dans le Finistère qui fournit le groupe Leclerc de violences sur des porcelets",
-      "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/bien-etre-animal/maltraitance-dans-les-abattoirs/l214-accuse-un-elevage-dans-le-finistere-qui-fournit-le-groupe-leclerc-de-violences-sur-des-porcelets_8288975.html#xtor=RSS-3-[lestitres]",
+      "titre": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler",
+      "lien": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-que-j-ai-vecu-fait-que-cette-loi-me-fait-extremement-peur-temoigne-le-producteur-michel-zecler-qui-se-dit-horrifie_8288912.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-19T00:00:01+01:00",
-      "resume": "L'association de protection animale L214 a annoncé porter plainte contre un élevage de porcs situé à Poullaouen, dans le Finistère, qui fournit le groupe de grande distribution Leclerc. L'association accuse cet établissement d'exercer des violences sur les animaux, notamment en procédant à la castration des porcelets à vif.",
-      "contexte": "Les enquêtes de L214 visent régulièrement à dénoncer les conditions d'élevage et d'abattage en France pour sensibiliser le public et pousser le législateur ainsi que la grande distribution à modifier leurs pratiques. La question de la castration à vif des porcelets fait l'objet de vives discussions éthiques et réglementaires en Europe, en raison de la douleur infligée aux animaux. Bien que des alternatives existent, leur généralisation se heurte à des contraintes économiques et organisationnelles pour les éleveurs.",
-      "image": "https://www.franceinfo.fr/pictures/k97XuMw2MoK-yHl6bpslPImDsR0/0x345:4845x3071/432x243/filters:format(jpg)/2024/06/06/075-ruiz-notitle191214-npbq1-66622b7a3b10c505430271.jpg"
+      "date": "2026-11-19T12:39:13+01:00",
+      "resume": "Le procès des trois policiers accusés d'avoir roué de coups le producteur de musique Michel Zecler s'est poursuivi, avec des peines de quatre à six ans de prison ferme requises par le parquet. Durant l'audience, les fonctionnaires ont reconnu des mensonges et des erreurs dans le procès-verbal d'interpellation pour faux en écriture publique. Pendant ce temps, le Sénat s'apprête à étudier à partir de jeudi la loi sur la présomption de légitime défense pour les forces de l'ordre, adoptée en juillet à l'Assemblée nationale.",
+      "contexte": "Cette affaire relance le débat récurrent en France sur les violences policières, le contrôle des forces de l'ordre et la transparence judiciaire. L'examen de la présomption de légitime défense susprime de vives inquiétudes parmi les associations de défense des droits et certaines victimes, qui redoutent une impunité accrue, tandis que les syndicats policiers y voient une protection indispensable pour l'exercice de leur métier.",
+      "image": "https://www.franceinfo.fr/pictures/bIVebiArpOdSphClhk5JcJk-52o/432x243/filters:format(jpg)/2026/11/13/6af68b6023ba6800821555.jpg"
+    },
+    {
+      "titre": "La course au nucléaire au cœur de la rencontre entre Trump, Poutine et Xi en Chine",
+      "lien": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-course-au-nucleaire-au-c-ur-de-la-rencontre-entre-trump-poutine-et-xi-en-chine_8288201.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-11-19T12:37:20+01:00",
+      "resume": "Donald Trump, Vladimir Poutine et Xi Jinping se sont réunis en sommet inédit à Shenzhen, en Chine, en marge du sommet de l'Apec. Les trois dirigeants ont échangé durant environ 80 minutes sur la course au nucléaire et ont adopté une \"déclaration de paix\" visant à préserver la stabilité internationale.",
+      "contexte": "Cette rencontre tripartite exceptionnelle entre les trois plus grandes puissances mondiales et nucléaires intervient dans un climat géopolitique mondial particulièrement tendu. L'objectif affiché est généralement de renouer le dialogue stratégique sur le désarmement et la sécurité globale, bien que les rivalités d'influence et les intérêts divergents entre Washington, Moscou et Pékin restent profonds.",
+      "image": "https://www.franceinfo.fr/pictures/9TZlbokRFxKWMbqW3L-cNocrvl4/0x47:3313x1910/432x243/filters:format(jpg)/2026/11/18/6afdb3a8b1753348825323.jpg"
+    },
+    {
+      "titre": "Un nombre de produits limités, des recours en cas de complications... La Haute Autorité de santé présente 60 recommandations pour encadrer l'aide à mourir",
+      "lien": "https://www.franceinfo.fr/societe/euthanasie/la-haute-autorite-de-sante-presente-60-recommandations-officielles-pour-encadrer-la-pratique-de-l-aide-a-mourir_8289761.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-19T12:33:16+01:00",
+      "resume": "La Haute Autorité de santé a présenté 60 recommandations pour encadrer l'aide à mourir, préconisant notamment l'utilisation de produits létaux administrés de la manière la plus simple possible via des kits prêts à l'emploi. L'autorité indépendante a défini le cadre strict des produits limités à utiliser et les recours prévus en cas de complications.",
+      "contexte": "Ces propositions s'inscrivent dans le cadre des débats sociétaux et législatifs sur la fin de vie en France, visant à définir un cadre médical rigoureux et sécurisé. L'objectif est généralement d'encadrer strictement la pratique pour répondre aux demandes des patients tout en garantissant des garde-fous éthiques et légaux pour le corps médical.",
+      "image": "https://www.franceinfo.fr/pictures/VmUWc-LilQnvYxTX1htBr4P_hV8/432x243/filters:format(jpg)/2026/07/15/6a570cdf54b74143611822.png"
+    },
+    {
+      "titre": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-19T12:15:04+01:00",
+      "resume": "Un mois après sa primaire, le candidat PS-Place publique à l'élection présidentielle Raphaël Glucksmann s'est déplacé dans la banlieue lyonnaise pour tenter de relancer sa campagne après un mois qualifié de \"faux plat\". Il a par ailleurs vivement réagi au rapprochement initié par Marine Tondelier avec La France insoumise, estimant que la secrétaire nationale des Écolos choisit de tourner le dos à la tradition écologiste.",
+      "contexte": "À l'approche de l'élection présidentielle de 2027, la gauche française fait face à des stratégies divergentes entre union de toute la gauche sous hégémonie de la gauche radicale et maintien d'une ligne social-démocrate et réformiste indépendante. Ces recompositions alliances et désaccords redessinent constamment le paysage politique et les rapports de force au sein du bloc de gauche.",
+      "image": "https://www.franceinfo.fr/pictures/RU--dCUIL_fdN59APk8AjlNBHiY/0x277:5331x3276/432x243/filters:format(jpg)/2026/11/18/6afd867253e9b561911684.jpg"
+    },
+    {
+      "titre": "Les informés du matin du jeudi 19 novembre 2026",
+      "lien": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-19-novembre-2026_8268632.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-19T12:13:35+01:00",
+      "resume": "Les informés de franceinfo ont débattu de l'actualité du jeudi 19 novembre 2026 autour d'Agathe Lambret et Renaud Dély.",
+      "contexte": "Cette émission quotidienne réunit des journalistes et éditorialistes pour analyser et décrypter les principaux faits marquants de l'actualité politique, économique ou internationale du jour.",
+      "image": "https://www.franceinfo.fr/pictures/o_ADBahtqgUk8Ow1Te2K8TXNBvg/0x360:3456x2302/432x243/filters:format(jpg)/2025/09/05/micro-franceinfo-dans-le-studio-411-de-la-maison-de-la-radio-68bb0455afc8a833594060.jpg"
+    },
+    {
+      "titre": "À Los Angeles, les millionnaires aussi sont victimes de la gentrification de certains quartiers",
+      "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-los-angeles-les-millionnaires-aussi-sont-victimes-de-la-gentrification-de-certains-quartiers_8268635.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-19T12:04:36+01:00",
+      "resume": "À l'ouest de Los Angeles, la gentrification touche désormais les quartiers très aisés, où des maisons d'une valeur de plusieurs millions de dollars sont détruites pour laisser place à des manoirs de plusieurs dizaines de millions destinés à des clients milliardaires.",
+      "contexte": "Ce phénomène illustre l'hyper-concentration de la richesse et l'inflation immobilière extrême qui frappent certaines métropoles mondiales comme Los Angeles. La pression financière exercée par les ultra-riches redessine radicalement la morphologie urbaine et repousse les classes aisées traditionnelles vers d'autres secteurs.",
+      "image": "https://www.franceinfo.fr/pictures/0XTWAwR7cJXB8iDjFRzoz0ip7ow/0x48:3200x1848/432x243/filters:format(jpg)/2026/11/19/6afed128a410f196453637.jpg"
     }
   ],
   "culture": [],
-  "quiz_jour": [
-    {
-      "id": "44c39890c9",
-      "date": "2026-11-19",
-      "type": "actu",
-      "question": "Quel territoire le pont de Crimée relie-t-il à la Russie ?",
-      "choix": [
-        "La péninsule de Crimée",
-        "La région du Donbass",
-        "L'oblast de Kaliningrad",
-        "La péninsule de Kola"
-      ],
-      "reponse": 0,
-      "explication": "Le pont de Crimée relie la péninsule annexée à la Russie.",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/FThduinxN8W23zmCZGJJM4P1U3A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afe2de6c5900212535077.jpg"
-    },
-    {
-      "id": "cb302e5f47",
-      "date": "2026-11-19",
-      "type": "actu",
-      "question": "Combien d'hospitalisations de personnes de plus de 65 ans la vaccination contre la grippe évite-t-elle chaque année en France ?",
-      "choix": [
-        "Environ 44 000",
-        "Environ 9 000",
-        "Environ 5 000",
-        "Environ 2 000"
-      ],
-      "reponse": 1,
-      "explication": "Selon Santé publique France, la vaccination permet d'éviter environ 9 000 hospitalisations par an dans cette tranche d'âge.",
-      "lien": "https://www.franceinfo.fr/economie/disparites-salariales/la-vaccination-face-a-la-grippe-permet-d-eviter-9-000-hospitalisations-chez-les-plus-de-65-ans-chaque-annee-selon-sante-publique-france_8288957.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/jmGalgrjQkuILUoZEs-1mQ8V3W0/432x243/filters:format(jpg)/2026/10/12/6acd27307e7dd118360583.jpg"
-    },
-    {
-      "id": "bb7b29fc18",
-      "date": "2026-11-19",
-      "type": "actu",
-      "question": "Dans quel département se trouve l'élevage de porcs visé par la plainte de l'association L214 ?",
-      "choix": [
-        "Les Côtes-d'Armor",
-        "L'Ille-et-Vilaine",
-        "Le Finistère",
-        "Le Morbihan"
-      ],
-      "reponse": 2,
-      "explication": "L'élevage mis en cause par L214 est situé à Poullaouen, dans le département du Finistère.",
-      "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/bien-etre-animal/maltraitance-dans-les-abattoirs/l214-accuse-un-elevage-dans-le-finistere-qui-fournit-le-groupe-leclerc-de-violences-sur-des-porcelets_8288975.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/k97XuMw2MoK-yHl6bpslPImDsR0/0x345:4845x3071/432x243/filters:format(jpg)/2024/06/06/075-ruiz-notitle191214-npbq1-66622b7a3b10c505430271.jpg"
-    }
-  ]
+  "quiz_jour": []
 }
