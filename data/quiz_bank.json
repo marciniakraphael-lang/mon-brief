@@ -6602,6 +6602,86 @@
       "explication": "L'élevage mis en cause par L214 est situé à Poullaouen, dans le département du Finistère.",
       "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/bien-etre-animal/maltraitance-dans-les-abattoirs/l214-accuse-un-elevage-dans-le-finistere-qui-fournit-le-groupe-leclerc-de-violences-sur-des-porcelets_8288975.html#xtor=RSS-3-[lestitres]",
       "image": "https://www.franceinfo.fr/pictures/k97XuMw2MoK-yHl6bpslPImDsR0/0x345:4845x3071/432x243/filters:format(jpg)/2024/06/06/075-ruiz-notitle191214-npbq1-66622b7a3b10c505430271.jpg"
+    },
+    {
+      "id": "07e4207be8",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Par quelle émission le chorégraphe Bruno Vandelli a-t-il été révélé au public en 2002 ?",
+      "choix": [
+        "Graines de Star",
+        "Nouvelle Star",
+        "Popstars 2",
+        "Star Academy"
+      ],
+      "reponse": 2,
+      "explication": "L'article précise que Bruno Vandelli a été révélé en 2002 par l'émission Popstars 2.",
+      "lien": "https://www.lemonde.fr/culture/article/2026/11/19/le-choregraphe-bruno-vandelli-mis-en-examen-pour-viol-aggrave-agressions-sexuelles-et-corruption-de-mineur_6813328_3246.html",
+      "image": "https://img.lemde.fr/2026/11/19/315/0/2400/1200/644/322/60/0/a829a92_upload-1-nx4mrw2z15rt-maxmatinnews049638.jpg"
+    },
+    {
+      "id": "7aed016c27",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Quel pays a initié une procédure pour génocide contre la Birmanie en 2019 concernant le sort des Rohingyas ?",
+      "choix": [
+        "La Gambie",
+        "Le Rwanda",
+        "L'Afrique du Sud",
+        "Le Sénégal"
+      ],
+      "reponse": 0,
+      "explication": "L'article mentionne que la Gambie est devenue un acteur clé en initiant cette procédure juridique en 2019.",
+      "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/comment-la-lointaine-gambie-s-est-retrouvee-en-premiere-ligne-du-combat-pour-la-defense-des-rohingya-de-birmanie_6663552_3213.html",
+      "image": "https://img.lemde.fr/2026/01/12/500/0/6000/3000/644/322/60/0/7a0c49f_ftp-1-3gxfqor3le8h-2026-01-12t094241z-1499227565-rc2lziai6jy3-rtrmadp-3-myanmar-rohingya-world-court.JPG"
+    },
+    {
+      "id": "d791f3ce66",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Dans quelle ville chinoise s'est tenu le sommet inédit entre Xi Jinping, Vladimir Poutine et Donald Trump ?",
+      "choix": [
+        "Pékin",
+        "Shenzhen",
+        "Shanghai",
+        "Canton"
+      ],
+      "reponse": 1,
+      "explication": "Le texte indique explicitement que les dirigeants se sont réunis à Shenzhen, en Chine.",
+      "lien": "https://www.franceinfo.fr/monde/chine/xi-jinping-au-centre-du-monde-mais-pas-maitre-du-monde_8290184.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/OQogptKL8ykDIuWDDOm650c03nc/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/19/6aff0e5024615869147359.jpg"
+    },
+    {
+      "id": "b73732cf1e",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "En Éthiopie, quelles régions sont impliquées dans les combats ayant provoqué le déplacement de 700 000 personnes ?",
+      "choix": [
+        "Tigré et Amhara",
+        "Harar et Sidama",
+        "Afar et Gambela",
+        "Somali et Oromia"
+      ],
+      "reponse": 3,
+      "explication": "L'article souligne que la reprise des combats entre les forces des régions Somali et Oromia est à l'origine de ces déplacements.",
+      "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/en-ethiopie-700-000-personnes-deplacees-par-des-affrontements-armes-dans-le-sud_6813321_3212.html",
+      "image": "https://img.lemde.fr/2026/11/06/500/0/4387/2193/644/322/60/0/719bb67_ftp-1-38m9mulg3e2w-b69c0bc0bb0941f694fdc7bdaf549072-4-43bd31c4986844df8adb64de5f697186.jpg"
+    },
+    {
+      "id": "355382d02f",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Quelle entreprise a lancé ce qui est présenté comme la plus importante levée de fonds de l'histoire lors de son introduction en Bourse ?",
+      "choix": [
+        "Nvidia",
+        "OpenAI",
+        "Google",
+        "Anthropic"
+      ],
+      "reponse": 3,
+      "explication": "Le titre et le résumé de l'article 9 confirment qu'il s'agit de l'entreprise Anthropic.",
+      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
+      "image": ""
     }
   ]
 }

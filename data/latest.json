@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
-  "mode": "morning",
-  "updated": "2026-11-19T12:56:27.797150+01:00",
+  "mode": "evening",
+  "updated": "2026-11-19T16:10:03.509891+01:00",
   "deja_presente": [],
   "depuis_hier": [
     {
@@ -43,78 +43,186 @@
   ],
   "aujourdhui": [
     {
-      "titre": "La Birmanie a commis un génocide à l'encontre des Rohingyas, statue la Cour internationale de justice dans un arrêt historique",
-      "lien": "https://www.franceinfo.fr/monde/asie/rohingyas/la-birmanie-a-commis-un-genocide-a-l-encontre-des-rohingyas-statue-la-cour-internationale-de-justice-dans-un-arret-historique_8289806.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-19T12:46:07+01:00",
-      "resume": "Dans un arrêt historique, la Cour internationale de justice (CIJ), plus haute juridiction de l'ONU, a statué que la Birmanie a commis un génocide à l'encontre de la minorité musulmane des Rohingyas. La Cour a établi que les soldats birmans ont tué des milliers de civils rohingyas avec l'intention de détruire une partie substantielle de cette population.",
-      "contexte": "Cette décision de la CIJ constitue une étape majeure dans la lutte contre l'impunité des crimes de masse commis par la junte militaire birmane. Bien que les arrêts de la Cour soient juridiquement contraignants, leur application concrète reste difficile en l'absence de force armée internationale pour contraindre le régime en place à s'y conformer.",
-      "image": "https://www.franceinfo.fr/pictures/PhUnBfIeI8SdXBXXL6gfGDWXK_4/0x0:1024x576/432x243/filters:format(jpg)/2026/11/19/6afedc7610280374094994.jpg"
+      "titre": "Le chorégraphe Bruno Vandelli mis en examen pour viol aggravé, agressions sexuelles et corruption de mineur",
+      "lien": "https://www.lemonde.fr/culture/article/2026/11/19/le-choregraphe-bruno-vandelli-mis-en-examen-pour-viol-aggrave-agressions-sexuelles-et-corruption-de-mineur_6813328_3246.html",
+      "source": "Le Monde",
+      "date": "2026-11-19T16:03:47+01:00",
+      "resume": "Le chorégraphe Bruno Vandelli, révélé en 2002 par l'émission \"Popstars 2\", a été mis en examen pour viol aggravé, agressions sexuelles et corruption de mineur. Il fait l'objet de deux plaintes déposées par d'anciens élèves de son école de danse. L'intéressé a été placé sous contrôle judiciaire dans l'attente de la suite de la procédure.",
+      "contexte": "Cette affaire s'inscrit dans un contexte de libération de la parole concernant les violences sexuelles dans le milieu artistique et sportif. La mise en examen est une étape procédurale permettant aux juges d'instruction d'approfondir les investigations tout en garantissant la présomption d'innocence.",
+      "image": "https://img.lemde.fr/2026/11/19/315/0/2400/1200/644/322/60/0/a829a92_upload-1-nx4mrw2z15rt-maxmatinnews049638.jpg"
     },
     {
-      "titre": "Des dizaines de sculptures représentant des divinités mayas découvertes dans une cité antique au Guatemala",
-      "lien": "https://www.franceinfo.fr/culture/patrimoine/archeologie/des-dizaines-de-sculptures-representant-des-divinites-mayas-decouvertes-dans-une-cite-antique-au-guatemala_8289668.html#xtor=RSS-3-[lestitres]",
+      "titre": "Rohingya : comment la lointaine Gambie s’est retrouvée en première ligne du combat pour la défense de cette minorité de Birmanie",
+      "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/comment-la-lointaine-gambie-s-est-retrouvee-en-premiere-ligne-du-combat-pour-la-defense-des-rohingya-de-birmanie_6663552_3213.html",
+      "source": "Le Monde",
+      "date": "2026-11-19T16:03:46+01:00",
+      "resume": "La Gambie est devenue un acteur clé de la défense des droits des Rohingyas après avoir initié une procédure pour génocide contre la Birmanie en 2019 devant les instances internationales. Cette initiative juridique a créé un précédent notable, utilisé ultérieurement par l'Afrique du Sud pour engager une procédure similaire contre Israël.",
+      "contexte": "Ce recours à la justice internationale par des pays tiers illustre une volonté de faire respecter les droits humains universels au-delà des zones de conflit directes. En utilisant la Convention pour la prévention et la répression du crime de génocide, ces États cherchent à contraindre les gouvernements accusés à rendre des comptes devant la Cour internationale de Justice.",
+      "image": "https://img.lemde.fr/2026/01/12/500/0/6000/3000/644/322/60/0/7a0c49f_ftp-1-3gxfqor3le8h-2026-01-12t094241z-1499227565-rc2lziai6jy3-rtrmadp-3-myanmar-rohingya-world-court.JPG"
+    },
+    {
+      "titre": "Le directeur de la prison d'Aix-Luynes mis en examen et écroué pour détention, offre et mise à disposition d'images pédocriminelles",
+      "lien": "https://www.franceinfo.fr/societe/pedocriminalite/le-directeur-de-la-prison-d-aix-luynes-mis-en-examen-et-ecroue-pour-detention-offre-et-mise-a-disposition-d-images-pedocriminelles_8290181.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-19T12:40:17+01:00",
-      "resume": "Une quarantaine d'ouvrages représentant des divinités mayas ont été découverts enfouis sous la végétation d'une cité antique au Guatemala. Cette trouvaille archéologique réalisée à El Mirador, l'une des plus anciennes et importantes cités précolombiennes, vient éclairer l'histoire de cette civilisation.",
-      "contexte": "Les fouilles dans la jungle mésoaméricaine permettent régulièrement de mieux comprendre la complexité politique, religieuse et artistique de la civilisation maya avant l'arrivée des Européens. L'utilisation de technologies de cartographie moderne comme le Lidar révolutionne ces découvertes en révélant l'ampleur cachée des anciennes cités enfouies.",
-      "image": "https://www.franceinfo.fr/pictures/4fVGNbtr5i4CbCVJP5x31mfZCpI/0x699:7601x4975/432x243/filters:format(jpg)/2026/11/19/6afebf7376c2a037651639.jpg"
+      "date": "2026-11-19T16:00:05+01:00",
+      "resume": "Le directeur de la prison d'Aix-Luynes a été mis en examen et écroué pour détention, offre et mise à disposition d'images pédocriminelles. Il a été identifié par le parquet de Nîmes après le téléchargement d'un fichier violent constaté début 2026.",
+      "contexte": "La détention d'images pédocriminelles est un délit grave sévèrement réprimé par la loi. Lorsqu'une figure d'autorité, telle qu'un haut responsable pénitentiaire, est impliquée, cela soulève des questions sur les procédures de recrutement et de contrôle au sein de l'administration publique.",
+      "image": "https://www.franceinfo.fr/pictures/iwr3PfeqrmXU-dT4eeyRS8mBxuA/0x260:5000x3072/432x243/filters:format(jpg)/2026/11/19/6aff0dccb5ed8214069636.jpg"
     },
     {
-      "titre": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler",
-      "lien": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-que-j-ai-vecu-fait-que-cette-loi-me-fait-extremement-peur-temoigne-le-producteur-michel-zecler-qui-se-dit-horrifie_8288912.html#xtor=RSS-3-[lestitres]",
+      "titre": "Xi Jinping au centre du monde, mais pas maître du monde",
+      "lien": "https://www.franceinfo.fr/monde/chine/xi-jinping-au-centre-du-monde-mais-pas-maitre-du-monde_8290184.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde · franceinfo",
+      "date": "2026-11-19T15:59:59+01:00",
+      "resume": "Les dirigeants Xi Jinping, Vladimir Poutine et Donald Trump se sont réunis à Shenzhen, en Chine, pour un sommet inédit d'une heure. À l'issue de cette rencontre, ils ont adopté une \"déclaration de paix\" s'engageant à préserver la stabilité stratégique et la sécurité internationale. Les analystes soulignent que cet événement replace la Chine au centre des relations diplomatiques mondiales.",
+      "contexte": "Ce sommet marque une séquence diplomatique exceptionnelle entre des puissances aux intérêts souvent divergents. L'objectif de telles rencontres est généralement de créer des canaux de communication directs pour éviter une escalade des tensions mondiales. La mise en scène de cet événement permet à Pékin d'affirmer son rôle d'acteur incontournable sur la scène internationale.",
+      "image": "https://www.franceinfo.fr/pictures/OQogptKL8ykDIuWDDOm650c03nc/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/19/6aff0e5024615869147359.jpg"
+    },
+    {
+      "titre": "En Ethiopie, près de 700 000 personnes ont été déplacées, fuyant la guerre dans le sud du pays",
+      "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/en-ethiopie-700-000-personnes-deplacees-par-des-affrontements-armes-dans-le-sud_6813321_3212.html",
+      "source": "Le Monde",
+      "date": "2026-11-19T15:55:45+01:00",
+      "resume": "En Éthiopie, la reprise des combats entre les forces des régions Somali et Oromia a provoqué le déplacement de près de 700 000 personnes. L'utilisation d'armes lourdes au cours de la semaine a suscité une vive inquiétude de la part des ONG présentes sur place face à l'ampleur de la crise humanitaire.",
+      "contexte": "L'Éthiopie fait face à des tensions intercommunautaires et régionales récurrentes qui menacent la stabilité du pays. Ces conflits internes pour le contrôle des territoires et des ressources entraînent régulièrement des déplacements massifs de populations, posant d'immenses défis logistiques pour l'aide humanitaire.",
+      "image": "https://img.lemde.fr/2026/11/06/500/0/4387/2193/644/322/60/0/719bb67_ftp-1-38m9mulg3e2w-b69c0bc0bb0941f694fdc7bdaf549072-4-43bd31c4986844df8adb64de5f697186.jpg"
+    },
+    {
+      "titre": "Haïti : la stratégie de Bukele reçoit un soutien populaire",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-ha%C3%AFti-la-strat%C3%A9gie-de-bukele-re%C3%A7oit-un-soutien-populaire",
+      "source": "France 24",
+      "date": "2026-11-19T15:53:39+01:00",
+      "resume": "À Port-au-Prince, des milliers de personnes ont manifesté mardi pour soutenir la présence de soldats salvadoriens en Haïti. Ces troupes sont engagées dans une stratégie de lutte contre les gangs, inspirée par les méthodes du président Nayib Bukele.",
+      "contexte": "Face à l'emprise des gangs sur la capitale haïtienne, la population exprime un fort besoin de sécurité et de rétablissement de l'ordre. Le modèle salvadorien, bien que controversé pour ses méthodes sécuritaires radicales, est perçu par une partie de la société civile comme une réponse directe à l'insécurité chronique.",
+      "image": "https://s.france24.com/media/display/554ec0be-e428-11f1-b053-1bac47ab2f5d/w:1024/p:16x9/FR-20261118-210630-211204-CS.jpg"
+    },
+    {
+      "titre": "Primaire du centre et de la droite : Édouard Philippe, sous pression, refuse toujours",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261119-primaire-du-centre-et-de-la-droite-%C3%A9douard-philippe-sous-pression-refuse-toujours",
+      "source": "France 24",
+      "date": "2026-11-19T15:49:55+01:00",
+      "resume": "Une primaire de la droite et du centre est envisagée pour fin janvier, après une réunion entre les équipes de Gabriel Attal, David Lisnard et Bruno Retailleau. Édouard Philippe refuse toutefois d'y participer, malgré les pressions, alors que David Lisnard progresse dans les sondages.",
+      "contexte": "À l'approche des échéances électorales, les partis politiques cherchent à clarifier leurs candidatures et leurs alliances. Le refus d'Édouard Philippe de se soumettre à une primaire souligne les divisions stratégiques au sein du camp centriste et de la droite, chacun cherchant à préserver sa dynamique personnelle.",
+      "image": "https://s.france24.com/media/display/dd8e903c-e421-11f1-84c7-e56ab3dc0809/w:1024/p:16x9/Francais-2026-11-18T10-43-15-420Z-1.jpg"
+    },
+    {
+      "titre": "Présidentielle 2027 : les Écologistes tentés par une \"coalition\" avec les Insoumis",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-pr%C3%A9sidentielle-2027-les-%C3%A9cologistes-tent%C3%A9s-par-une-coalition-avec-les-insoumis",
+      "source": "France 24",
+      "date": "2026-11-19T15:47:53+01:00",
+      "resume": "Les Écologistes envisagent de discuter prochainement d'une coalition avec La France Insoumise pour la prochaine élection présidentielle. Cette union se ferait autour de la candidature de Jean-Luc Mélenchon, une option évoquée par la dirigeante écologiste Marine Tondelier.",
+      "contexte": "La recherche d'alliances à gauche est un processus récurrent visant à maximiser les chances de succès lors des scrutins majoritaires. Ces discussions reflètent la volonté de construire un front commun face aux autres forces politiques, bien que les divergences programmatiques puissent freiner ces rapprochements.",
+      "image": "https://s.france24.com/media/display/30c09306-e425-11f1-81dd-6b451f569414/w:1024/p:16x9/FR-20261119-141254-142236-CS.jpg"
+    },
+    {
+      "titre": "Cyberattaques : Sébastien Lecornu préside une réunion interministérielle \"relative à la cybersécurité\", avant une conférence de presse",
+      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/direct-sebastien-lecornu-preside-une-reunion-interministerielle-relative-a-la-cybersecurite-avant-une-conference-de-presse_8290133.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-19T12:39:13+01:00",
-      "resume": "Le procès des trois policiers accusés d'avoir roué de coups le producteur de musique Michel Zecler s'est poursuivi, avec des peines de quatre à six ans de prison ferme requises par le parquet. Durant l'audience, les fonctionnaires ont reconnu des mensonges et des erreurs dans le procès-verbal d'interpellation pour faux en écriture publique. Pendant ce temps, le Sénat s'apprête à étudier à partir de jeudi la loi sur la présomption de légitime défense pour les forces de l'ordre, adoptée en juillet à l'Assemblée nationale.",
-      "contexte": "Cette affaire relance le débat récurrent en France sur les violences policières, le contrôle des forces de l'ordre et la transparence judiciaire. L'examen de la présomption de légitime défense susprime de vives inquiétudes parmi les associations de défense des droits et certaines victimes, qui redoutent une impunité accrue, tandis que les syndicats policiers y voient une protection indispensable pour l'exercice de leur métier.",
-      "image": "https://www.franceinfo.fr/pictures/bIVebiArpOdSphClhk5JcJk-52o/432x243/filters:format(jpg)/2026/11/13/6af68b6023ba6800821555.jpg"
+      "date": "2026-11-19T15:46:18+01:00",
+      "resume": "Le ministre Sébastien Lecornu a présidé une réunion interministérielle dédiée à la cybersécurité. Cette initiative répond à la multiplication récente des cyberattaques ciblant aussi bien le secteur privé que les infrastructures publiques.",
+      "contexte": "La cybersécurité est devenue une priorité stratégique nationale face à la menace croissante du cyberespionnage et du sabotage informatique. Le renforcement de la coopération entre ministères vise à mieux anticiper et contrer les vulnérabilités du système numérique français.",
+      "image": "https://www.franceinfo.fr/pictures/Ps4-ry0354ahcByXs4zBasxXxPI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/19/6aff0a43a7a42140905145.jpg"
     },
     {
-      "titre": "La course au nucléaire au cœur de la rencontre entre Trump, Poutine et Xi en Chine",
-      "lien": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-course-au-nucleaire-au-c-ur-de-la-rencontre-entre-trump-poutine-et-xi-en-chine_8288201.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-11-19T12:37:20+01:00",
-      "resume": "Donald Trump, Vladimir Poutine et Xi Jinping se sont réunis en sommet inédit à Shenzhen, en Chine, en marge du sommet de l'Apec. Les trois dirigeants ont échangé durant environ 80 minutes sur la course au nucléaire et ont adopté une \"déclaration de paix\" visant à préserver la stabilité internationale.",
-      "contexte": "Cette rencontre tripartite exceptionnelle entre les trois plus grandes puissances mondiales et nucléaires intervient dans un climat géopolitique mondial particulièrement tendu. L'objectif affiché est généralement de renouer le dialogue stratégique sur le désarmement et la sécurité globale, bien que les rivalités d'influence et les intérêts divergents entre Washington, Moscou et Pékin restent profonds.",
-      "image": "https://www.franceinfo.fr/pictures/9TZlbokRFxKWMbqW3L-cNocrvl4/0x47:3313x1910/432x243/filters:format(jpg)/2026/11/18/6afdb3a8b1753348825323.jpg"
+      "titre": "🔴Anthropic entre en Bourse : la plus grande levée de fonds de l’Histoire commence",
+      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
+      "source": "France 24",
+      "date": "2026-11-19T15:32:11+01:00",
+      "resume": "L'entreprise Anthropic a entamé son introduction en Bourse, marquant ainsi le lancement de ce qui est présenté comme la plus importante levée de fonds de l'histoire.",
+      "contexte": "Cet événement souligne l'importance colossale des investissements actuels dans le secteur de l'intelligence artificielle. Les marchés financiers parient massivement sur le potentiel de croissance de ces entreprises technologiques, malgré les incertitudes liées à leur modèle économique à long terme.",
+      "image": ""
     },
     {
-      "titre": "Un nombre de produits limités, des recours en cas de complications... La Haute Autorité de santé présente 60 recommandations pour encadrer l'aide à mourir",
-      "lien": "https://www.franceinfo.fr/societe/euthanasie/la-haute-autorite-de-sante-presente-60-recommandations-officielles-pour-encadrer-la-pratique-de-l-aide-a-mourir_8289761.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"La gravité nécessite l'emprisonnement\" : des peines de quatre ans à six ans de prison ferme requises contre les trois policiers accusés d'avoir roué de coups Michel Zecler",
+      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-peines-de-quatre-ans-a-six-ans-de-prison-ferme-requises-contre-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8288789.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-19T12:33:16+01:00",
-      "resume": "La Haute Autorité de santé a présenté 60 recommandations pour encadrer l'aide à mourir, préconisant notamment l'utilisation de produits létaux administrés de la manière la plus simple possible via des kits prêts à l'emploi. L'autorité indépendante a défini le cadre strict des produits limités à utiliser et les recours prévus en cas de complications.",
-      "contexte": "Ces propositions s'inscrivent dans le cadre des débats sociétaux et législatifs sur la fin de vie en France, visant à définir un cadre médical rigoureux et sécurisé. L'objectif est généralement d'encadrer strictement la pratique pour répondre aux demandes des patients tout en garantissant des garde-fous éthiques et légaux pour le corps médical.",
-      "image": "https://www.franceinfo.fr/pictures/VmUWc-LilQnvYxTX1htBr4P_hV8/432x243/filters:format(jpg)/2026/07/15/6a570cdf54b74143611822.png"
-    },
-    {
-      "titre": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-19T12:15:04+01:00",
-      "resume": "Un mois après sa primaire, le candidat PS-Place publique à l'élection présidentielle Raphaël Glucksmann s'est déplacé dans la banlieue lyonnaise pour tenter de relancer sa campagne après un mois qualifié de \"faux plat\". Il a par ailleurs vivement réagi au rapprochement initié par Marine Tondelier avec La France insoumise, estimant que la secrétaire nationale des Écolos choisit de tourner le dos à la tradition écologiste.",
-      "contexte": "À l'approche de l'élection présidentielle de 2027, la gauche française fait face à des stratégies divergentes entre union de toute la gauche sous hégémonie de la gauche radicale et maintien d'une ligne social-démocrate et réformiste indépendante. Ces recompositions alliances et désaccords redessinent constamment le paysage politique et les rapports de force au sein du bloc de gauche.",
-      "image": "https://www.franceinfo.fr/pictures/RU--dCUIL_fdN59APk8AjlNBHiY/0x277:5331x3276/432x243/filters:format(jpg)/2026/11/18/6afd867253e9b561911684.jpg"
-    },
-    {
-      "titre": "Les informés du matin du jeudi 19 novembre 2026",
-      "lien": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-19-novembre-2026_8268632.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-19T12:13:35+01:00",
-      "resume": "Les informés de franceinfo ont débattu de l'actualité du jeudi 19 novembre 2026 autour d'Agathe Lambret et Renaud Dély.",
-      "contexte": "Cette émission quotidienne réunit des journalistes et éditorialistes pour analyser et décrypter les principaux faits marquants de l'actualité politique, économique ou internationale du jour.",
-      "image": "https://www.franceinfo.fr/pictures/o_ADBahtqgUk8Ow1Te2K8TXNBvg/0x360:3456x2302/432x243/filters:format(jpg)/2025/09/05/micro-franceinfo-dans-le-studio-411-de-la-maison-de-la-radio-68bb0455afc8a833594060.jpg"
-    },
-    {
-      "titre": "À Los Angeles, les millionnaires aussi sont victimes de la gentrification de certains quartiers",
-      "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-los-angeles-les-millionnaires-aussi-sont-victimes-de-la-gentrification-de-certains-quartiers_8268635.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-19T12:04:36+01:00",
-      "resume": "À l'ouest de Los Angeles, la gentrification touche désormais les quartiers très aisés, où des maisons d'une valeur de plusieurs millions de dollars sont détruites pour laisser place à des manoirs de plusieurs dizaines de millions destinés à des clients milliardaires.",
-      "contexte": "Ce phénomène illustre l'hyper-concentration de la richesse et l'inflation immobilière extrême qui frappent certaines métropoles mondiales comme Los Angeles. La pression financière exercée par les ultra-riches redessine radicalement la morphologie urbaine et repousse les classes aisées traditionnelles vers d'autres secteurs.",
-      "image": "https://www.franceinfo.fr/pictures/0XTWAwR7cJXB8iDjFRzoz0ip7ow/0x48:3200x1848/432x243/filters:format(jpg)/2026/11/19/6afed128a410f196453637.jpg"
+      "date": "2026-11-19T15:31:38+01:00",
+      "resume": "Le procès des trois policiers accusés d'avoir frappé Michel Zecler touche à sa fin, avec des réquisitions allant de quatre à six ans de prison ferme. L'avocate générale a demandé de retenir la circonstance aggravante de racisme. Le verdict final est attendu ce vendredi.",
+      "contexte": "Ce procès est emblématique des débats sur les violences policières et le racisme au sein des forces de l'ordre. Les enjeux autour de cette affaire concernent la confiance envers l'institution policière et le respect des droits fondamentaux lors des interpellations.",
+      "image": "https://www.franceinfo.fr/pictures/JcZkKc_DY0_pkMErpmABa_xXN9A/0x0:2000x1125/432x243/filters:format(jpg)/2026/11/18/6afdea9ac3fea003420443.jpg"
     }
   ],
   "culture": [],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "07e4207be8",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Par quelle émission le chorégraphe Bruno Vandelli a-t-il été révélé au public en 2002 ?",
+      "choix": [
+        "Graines de Star",
+        "Nouvelle Star",
+        "Popstars 2",
+        "Star Academy"
+      ],
+      "reponse": 2,
+      "explication": "L'article précise que Bruno Vandelli a été révélé en 2002 par l'émission Popstars 2.",
+      "lien": "https://www.lemonde.fr/culture/article/2026/11/19/le-choregraphe-bruno-vandelli-mis-en-examen-pour-viol-aggrave-agressions-sexuelles-et-corruption-de-mineur_6813328_3246.html",
+      "image": "https://img.lemde.fr/2026/11/19/315/0/2400/1200/644/322/60/0/a829a92_upload-1-nx4mrw2z15rt-maxmatinnews049638.jpg"
+    },
+    {
+      "id": "7aed016c27",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Quel pays a initié une procédure pour génocide contre la Birmanie en 2019 concernant le sort des Rohingyas ?",
+      "choix": [
+        "La Gambie",
+        "Le Rwanda",
+        "L'Afrique du Sud",
+        "Le Sénégal"
+      ],
+      "reponse": 0,
+      "explication": "L'article mentionne que la Gambie est devenue un acteur clé en initiant cette procédure juridique en 2019.",
+      "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/comment-la-lointaine-gambie-s-est-retrouvee-en-premiere-ligne-du-combat-pour-la-defense-des-rohingya-de-birmanie_6663552_3213.html",
+      "image": "https://img.lemde.fr/2026/01/12/500/0/6000/3000/644/322/60/0/7a0c49f_ftp-1-3gxfqor3le8h-2026-01-12t094241z-1499227565-rc2lziai6jy3-rtrmadp-3-myanmar-rohingya-world-court.JPG"
+    },
+    {
+      "id": "d791f3ce66",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Dans quelle ville chinoise s'est tenu le sommet inédit entre Xi Jinping, Vladimir Poutine et Donald Trump ?",
+      "choix": [
+        "Pékin",
+        "Shenzhen",
+        "Shanghai",
+        "Canton"
+      ],
+      "reponse": 1,
+      "explication": "Le texte indique explicitement que les dirigeants se sont réunis à Shenzhen, en Chine.",
+      "lien": "https://www.franceinfo.fr/monde/chine/xi-jinping-au-centre-du-monde-mais-pas-maitre-du-monde_8290184.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/OQogptKL8ykDIuWDDOm650c03nc/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/19/6aff0e5024615869147359.jpg"
+    },
+    {
+      "id": "b73732cf1e",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "En Éthiopie, quelles régions sont impliquées dans les combats ayant provoqué le déplacement de 700 000 personnes ?",
+      "choix": [
+        "Tigré et Amhara",
+        "Harar et Sidama",
+        "Afar et Gambela",
+        "Somali et Oromia"
+      ],
+      "reponse": 3,
+      "explication": "L'article souligne que la reprise des combats entre les forces des régions Somali et Oromia est à l'origine de ces déplacements.",
+      "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/en-ethiopie-700-000-personnes-deplacees-par-des-affrontements-armes-dans-le-sud_6813321_3212.html",
+      "image": "https://img.lemde.fr/2026/11/06/500/0/4387/2193/644/322/60/0/719bb67_ftp-1-38m9mulg3e2w-b69c0bc0bb0941f694fdc7bdaf549072-4-43bd31c4986844df8adb64de5f697186.jpg"
+    },
+    {
+      "id": "355382d02f",
+      "date": "2026-11-19",
+      "type": "actu",
+      "question": "Quelle entreprise a lancé ce qui est présenté comme la plus importante levée de fonds de l'histoire lors de son introduction en Bourse ?",
+      "choix": [
+        "Nvidia",
+        "OpenAI",
+        "Google",
+        "Anthropic"
+      ],
+      "reponse": 3,
+      "explication": "Le titre et le résumé de l'article 9 confirment qu'il s'agit de l'entreprise Anthropic.",
+      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
+      "image": ""
+    }
+  ]
 }
