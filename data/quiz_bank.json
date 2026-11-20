@@ -6874,6 +6874,102 @@
       "explication": "Les coraux ne sont ni des végétaux ni de simples minéraux, mais des animaux coloniaux composés d'une multitude de petits organismes appelés polypes.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "3220f90b59",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Qu'est-ce qui a permis à des centaines de salariés de la start-up d'intelligence artificielle Anthropic de devenir millionnaires ?",
+      "choix": [
+        "L'entrée en bourse de l'entreprise à Wall Street",
+        "Une levée de fonds record auprès d'investisseurs publics",
+        "Le rachat intégral de la société par un géant du web",
+        "La signature d'un contrat exclusif avec l'armée américaine"
+      ],
+      "reponse": 0,
+      "explication": "Les salariés d'Anthropic sont devenus millionnaires grâce à l'entrée en bourse de l'entreprise à Wall Street, dont la cotation a dépassé les prévisions.",
+      "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/comment-des-milliers-d-employes-du-geant-de-l-ia-anthropic-sont-devenus-millionnaires-en-24-heures_8293007.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/HqLWQuonVQ30lyp1IGc2izkMSYM/84x0:1170x611/432x243/filters:format(jpg)/2026/11/20/6b00c3c36de29979774544.jpg"
+    },
+    {
+      "id": "e17e4a153e",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Quelle circonstance aggravante a été retenue par la justice lors de la condamnation de trois policiers pour l'agression de Michel Zecler ?",
+      "choix": [
+        "La tentative d'extorsion",
+        "L'usage illégal d'armes à feu",
+        "La préméditation",
+        "Le racisme"
+      ],
+      "reponse": 3,
+      "explication": "La cour criminelle de Paris a retenu la circonstance aggravante de racisme pour l'agression commise lors de l'interpellation du producteur de musique.",
+      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/8EW_Y4saP4YRaVLXNtOdF-0xIPQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b0043f4cbe0c914988416.jpg"
+    },
+    {
+      "id": "3a518d516b",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Dans quel lieu la députée Farida Amrani a-t-elle été visée par un tir de mortier d'artifice ?",
+      "choix": [
+        "Dans un salon de coiffure",
+        "Dans sa permanence parlementaire",
+        "Dans une gare de l'Essonne",
+        "Devant la mairie d'Évry-Courcouronnes"
+      ],
+      "reponse": 0,
+      "explication": "L'attaque au mortier d'artifice contre l'élue s'est produite alors qu'elle se trouvait dans un salon de coiffure à Évry-Courcouronnes.",
+      "lien": "https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/gT6RiLwc-e10hQDvcBrahV2b2SE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b00bf7a5344f160884588.jpg"
+    },
+    {
+      "id": "5d8cb7c2d7",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Quelle décision a prise la Guinée suite à la diffusion d'une caricature de son président par la télévision burkinabè ?",
+      "choix": [
+        "La fermeture définitive de sa frontière terrestre",
+        "L'expulsion immédiate de l'ambassadeur burkinabè",
+        "L'interruption de tout échange commercial avec Ouagadougou",
+        "La coupure du signal de la chaîne de télévision publique RTB"
+      ],
+      "reponse": 3,
+      "explication": "En réponse à la diffusion d'un éditorial et d'une caricature critique sur la chaîne publique RTB, les autorités guinéennes ont coupé le signal de la chaîne.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261120-guin%C3%A9e-burkina-faso-tensions-apr%C3%A8s-la-diffusion-de-caricatures-de-m-doumbouya",
+      "image": "https://s.france24.com/media/display/bb8d961c-e526-11f1-9b09-13439ca2fe89/w:1024/p:16x9/DL00016523-VOD-00044995-01.jpg"
+    },
+    {
+      "id": "7abced0db7",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Dans quel pays s'est tenue la rencontre trilatérale en marge de laquelle l'aide de camp de Vladimir Poutine a été filmé avec la valise nucléaire ?",
+      "choix": [
+        "En Corée du Nord",
+        "En Biélorussie",
+        "En Inde",
+        "En Chine"
+      ],
+      "reponse": 3,
+      "explication": "La séquence montrant l'aide de camp de Vladimir Poutine portant la valise nucléaire a été filmée en marge d'une rencontre trilatérale organisée en Chine.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261120-valise-nucl%C3%A9aire-de-poutine-la-mise-en-sc%C3%A8ne-calcul%C3%A9e-du-kremlin",
+      "image": "https://s.france24.com/media/display/d392d93c-e528-11f1-b040-ebb478925cf0/w:1024/p:16x9/Francais-2026-11-20T21-04-10-537Z.jpg"
+    },
+    {
+      "id": "4c72d0d6ac",
+      "date": "2026-11-20",
+      "type": "culture",
+      "question": "Quelle divinité était représentée sur la coupe Jules Rimet, le premier trophée de la Coupe du monde de football ?",
+      "choix": [
+        "Fortuna, la déesse romaine de la chance",
+        "Athéna, la déesse de la sagesse et de la guerre",
+        "Artémis, la déesse de la chasse",
+        "Niké, la déesse grecque de la victoire"
+      ],
+      "reponse": 3,
+      "explication": "Initialement appelée « Victoire », la coupe Jules Rimet représentait Niké, la déesse grecque personnifiant la victoire, tenant une coupe octogonale.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
