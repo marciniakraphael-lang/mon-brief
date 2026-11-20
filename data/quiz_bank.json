@@ -6970,6 +6970,70 @@
       "explication": "Initialement appelée « Victoire », la coupe Jules Rimet représentait Niké, la déesse grecque personnifiant la victoire, tenant une coupe octogonale.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "027e921b47",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Dans quelle ville chinoise s'est tenu le sommet trilatéral inédit réunissant Donald Trump, Xi Jinping et Vladimir Poutine ?",
+      "choix": [
+        "Shanghai",
+        "Canton",
+        "Pékin",
+        "Shenzhen"
+      ],
+      "reponse": 3,
+      "explication": "Donald Trump, Xi Jinping et Vladimir Poutine se sont rencontrés à Shenzhen, en Chine, pour un sommet trilatéral d'environ 1h20.",
+      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-suivez-la-conference-de-presse-du-president-americain-donald-trump-apres-un-sommet-inedit-avec-xi-jinping-et-vladimir-poutine_8292656.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/TMEUF43fVsKIXbwImGl82BXxYYc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b0088ca482bb561577600.jpg"
+    },
+    {
+      "id": "86ba2cbb55",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Sur quel texte Donald Trump, Xi Jinping et Vladimir Poutine se sont-ils accordés à l'issue de leur sommet trilatéral ?",
+      "choix": [
+        "Un traité de désarmement",
+        "Un accord de libre-échange",
+        "Un pacte de non-agression",
+        "Une « déclaration de paix »"
+      ],
+      "reponse": 3,
+      "explication": "À l'issue de leur entretien à Shenzhen, les dirigeants américain, russe et chinois se sont accordés sur une « déclaration de paix ».",
+      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-suivez-la-conference-de-presse-du-president-americain-donald-trump-apres-un-sommet-inedit-avec-xi-jinping-et-vladimir-poutine_8292656.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/TMEUF43fVsKIXbwImGl82BXxYYc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b0088ca482bb561577600.jpg"
+    },
+    {
+      "id": "9a3d175a32",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Dans l'affaire des violences contre le producteur Michel Zecler, quelle circonstance aggravante a été retenue par la justice ?",
+      "choix": [
+        "Le racisme",
+        "L'usage d'une arme prohibée",
+        "La préméditation",
+        "L'état d'ivresse manifeste"
+      ],
+      "reponse": 0,
+      "explication": "La cour criminelle de Paris a retenu la circonstance aggravante de racisme lors du prononcé des peines à l'encontre des trois policiers.",
+      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/mUce-5pfICvv5UodXjzk4q_zQz4/0x28:5315x3018/432x243/filters:format(jpg)/2026/11/21/6b00d3309e766622813542.jpg"
+    },
+    {
+      "id": "554551bbc2",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quelles peines de prison ferme ont été prononcées contre les trois policiers jugés pour les violences infligées à Michel Zecler ?",
+      "choix": [
+        "De cinq ans à sept ans de prison ferme",
+        "De trois ans à quatre ans de prison ferme",
+        "De six mois à un an de prison ferme",
+        "D'un an à deux ans de prison ferme"
+      ],
+      "reponse": 3,
+      "explication": "Les trois policiers accusés d'avoir roué de coups Michel Zecler ont été condamnés à des peines allant d'un an à deux ans de prison ferme.",
+      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/mUce-5pfICvv5UodXjzk4q_zQz4/0x28:5315x3018/432x243/filters:format(jpg)/2026/11/21/6b00d3309e766622813542.jpg"
     }
   ]
 }
