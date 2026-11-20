@@ -1,228 +1,146 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "mode": "evening",
-  "updated": "2026-11-19T16:10:03.509891+01:00",
+  "updated": "2026-11-20T01:22:16.866961+01:00",
   "deja_presente": [],
-  "depuis_hier": [
-    {
-      "titre": "Trois \"revenantes\" françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l'organisation Etat islamique en Syrie",
-      "lien": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique-en-syrie_8289047.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-18T23:50:36+01:00",
-      "resume": "La cour d'assises spéciale de Paris a condamné trois femmes françaises, revenues de Syrie, à des peines de cinq à douze ans de prison pour avoir rejoint l'organisation État islamique. Parmi elles figurent deux ex-épouses d'Adrien Guihal, un haut cadre de l'EI qui avait revendiqué les attentats de Nice et de Magnanville en 2016.",
-      "contexte": "Le retour et le jugement des 'revenantes' (les ressortissants partis rejoindre les zones de combat jihadistes et rentrés après la chute du califat territorial) constituent un défi judiciaire majeur pour la France. Les tribunaux s'appuient sur la législation antiterroriste pour punir l'association de malfaiteurs terroriste criminelle, cherchant à concilier impératif de sécurité publique et respect des droits de la défense.",
-      "image": "https://www.franceinfo.fr/pictures/Kjpf0rsQPNKRZXcDy44aAUBHAtU/0x53:1024x629/432x243/filters:format(jpg)/2026/11/18/6afe2a92568b0220860319.jpg"
-    },
-    {
-      "titre": "Produits importés des colonies israéliennes : scandale dans nos rayons ?",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/produits-importes-des-colonies-israeliennes-scandale-dans-nos-rayons_8288924.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-18T23:05:01+01:00",
-      "resume": "Une enquête de l'Œil du 20 heures révèle que des produits vendus en supermarché sous l'étiquette \"Fabriqué en Israël\" proviennent en réalité d'usines situées dans des colonies israéliennes implantées en territoire occupé.",
-      "contexte": "Cette question relève des débats internationaux sur le statut juridique des colonies israéliennes, considérées comme illégales au regard du droit international par une grande partie de la communauté internationale. L'étiquetage de ces marchandises soulève régulièrement des controverses politiques et économiques sur la traçabilité des produits et le respect des réglementations commerciales relatives aux territoires occupés.",
-      "image": "https://www.franceinfo.fr/pictures/JH-gt0Xr77dpLjsFbCFJi-cQhUk/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/18/6afe08a50a897220723943.jpg"
-    },
-    {
-      "titre": "Au Texas, la pollution liée à l'exploitation du pétrole et du gaz inquiète les habitants et reste taboue au pays de l'or noir",
-      "lien": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/au-texas-la-pollution-liee-a-l-exploitation-du-petrole-et-du-gaz-inquiete-les-habitants-et-reste-taboue-au-pays-de-l-or-noir_8288936.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-18T21:59:29+01:00",
-      "resume": "Dans l'ouest du Texas, l'exploitation historique du pétrole et du gaz laisse derrière elle une importante pollution qui inquiète les habitants. Des puits abandonnés laissent actuellement échapper des gaz ou crachent des geysers d'eau contaminée, posant la question de l'après-pétrole dans cette région de l'or noir.",
-      "contexte": "Ce problème met en lumière les passifs environnementaux majeurs liés à l'industrie des combustibles fossiles aux États-Unis. L'abandon de milliers de puits non scellés ou mal entretenus engendre des risques sanitaires et écologiques durables, un défi que les autorités locales peinent souvent à réguler en raison du poids économique du secteur.",
-      "image": "https://www.franceinfo.fr/pictures/ZxKSssSvFeklwyEjCpiiaAkSJRE/0x9:1277x728/432x243/filters:format(jpg)/2026/11/18/6afe118299c1f762938845.jpg"
-    },
-    {
-      "titre": "Budget, préventes, musique… Cinq chiffres vertigineux autour de \"GTA VI\", qui est sorti à minuit après treize ans d'attente",
-      "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/budget-preventes-musique-cinq-chiffres-vertigineux-autour-de-gta-vi-qui-sort-apres-treize-ans-d-attente_8267372.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-18T21:32:27+01:00",
-      "resume": "Le jeu vidéo \"Grand Theft Auto VI\" est sorti jeudi à minuit après treize ans d'attente, s'accompagnant de chiffres vertigineux concernant son budget, ses préventes et sa musique. L'éditeur américain Rockstar Games espère ainsi réitérer le succès commercial historique du précédent opus de la franchise.",
-      "contexte": "La franchise GTA pèse lourdement sur l'industrie du divertissement mondial, chaque nouvel épisode constituant un événement culturel et économique comparable aux plus grands blockbusters hollywoodiens. Les attentes financières et techniques sont immenses pour les studios, qui investissent des sommes records dans le développement de ces univers ouverts.",
-      "image": "https://www.franceinfo.fr/pictures/QaZKESMlT7p5PpdAmpvQH6-q42Y/0x0:3840x2160/432x243/filters:format(jpg)/2026/11/04/6aeb1a7ab3c37538240259.jpg"
-    }
-  ],
+  "depuis_hier": [],
   "aujourdhui": [
     {
-      "titre": "Le chorégraphe Bruno Vandelli mis en examen pour viol aggravé, agressions sexuelles et corruption de mineur",
-      "lien": "https://www.lemonde.fr/culture/article/2026/11/19/le-choregraphe-bruno-vandelli-mis-en-examen-pour-viol-aggrave-agressions-sexuelles-et-corruption-de-mineur_6813328_3246.html",
+      "titre": "A Paris, Emmanuel Macron va rencontrer Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
       "source": "Le Monde",
-      "date": "2026-11-19T16:03:47+01:00",
-      "resume": "Le chorégraphe Bruno Vandelli, révélé en 2002 par l'émission \"Popstars 2\", a été mis en examen pour viol aggravé, agressions sexuelles et corruption de mineur. Il fait l'objet de deux plaintes déposées par d'anciens élèves de son école de danse. L'intéressé a été placé sous contrôle judiciaire dans l'attente de la suite de la procédure.",
-      "contexte": "Cette affaire s'inscrit dans un contexte de libération de la parole concernant les violences sexuelles dans le milieu artistique et sportif. La mise en examen est une étape procédurale permettant aux juges d'instruction d'approfondir les investigations tout en garantissant la présomption d'innocence.",
-      "image": "https://img.lemde.fr/2026/11/19/315/0/2400/1200/644/322/60/0/a829a92_upload-1-nx4mrw2z15rt-maxmatinnews049638.jpg"
+      "date": "2026-11-20T01:03:49+01:00",
+      "resume": "Emmanuel Macron s'apprête à recevoir l'ancienne vice-présidente américaine Kamala Harris à Paris. La responsable démocrate sera accompagnée de son époux, Doug Emhoff, pour ce qui est décrit par l'Élysée comme un bref entretien de courtoisie. L'entourage du président français précise que ce genre d'échange intervient régulièrement à la demande d'anciens dirigeants internationaux.",
+      "contexte": "Cette rencontre intervient alors que Kamala Harris est perçue comme une candidate potentielle pour représenter le Parti démocrate lors de l'élection présidentielle américaine de 2028. Pour la diplomatie française, ces échanges informels permettent de maintenir des canaux de communication ouverts avec les figures clés de l'opposition américaine. Cela aide également à préserver les équilibres diplomatiques transatlantiques au-delà des alternances politiques au pouvoir à Washington.",
+      "image": "https://img.lemde.fr/2026/11/02/220/0/6485/3242/644/322/60/0/783232a_ftp-1-hovnhjlozmfj-495a49782b2147e0bdbc013f5630ec4c-0-534a0b2a9ce34772a34c48c0a540b888.jpg"
     },
     {
-      "titre": "Rohingya : comment la lointaine Gambie s’est retrouvée en première ligne du combat pour la défense de cette minorité de Birmanie",
-      "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/comment-la-lointaine-gambie-s-est-retrouvee-en-premiere-ligne-du-combat-pour-la-defense-des-rohingya-de-birmanie_6663552_3213.html",
+      "titre": "EN DIRECT, guerre en Ukraine : Donald Trump est « ouvert à l’idée » d’une protection de l’Ukraine par l’OTAN, assure l’émissaire américain Jared Kushner",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-donald-trump-est-ouvert-a-l-idee-d-une-protection-de-l-ukraine-par-l-otan-assure-l-emissaire-americain-jared-kushner_6810982_3210.html",
       "source": "Le Monde",
-      "date": "2026-11-19T16:03:46+01:00",
-      "resume": "La Gambie est devenue un acteur clé de la défense des droits des Rohingyas après avoir initié une procédure pour génocide contre la Birmanie en 2019 devant les instances internationales. Cette initiative juridique a créé un précédent notable, utilisé ultérieurement par l'Afrique du Sud pour engager une procédure similaire contre Israël.",
-      "contexte": "Ce recours à la justice internationale par des pays tiers illustre une volonté de faire respecter les droits humains universels au-delà des zones de conflit directes. En utilisant la Convention pour la prévention et la répression du crime de génocide, ces États cherchent à contraindre les gouvernements accusés à rendre des comptes devant la Cour internationale de Justice.",
-      "image": "https://img.lemde.fr/2026/01/12/500/0/6000/3000/644/322/60/0/7a0c49f_ftp-1-3gxfqor3le8h-2026-01-12t094241z-1499227565-rc2lziai6jy3-rtrmadp-3-myanmar-rohingya-world-court.JPG"
+      "date": "2026-11-20T00:51:35+01:00",
+      "resume": "Lors d'une réunion de la coalition des volontaires organisée à Berlin, Emmanuel Macron a proposé de rouvrir le débat sur l'adhésion de l'Ukraine à l'OTAN. Dans le même temps, l'émissaire américain Jared Kushner a indiqué que Donald Trump serait ouvert à l'idée d'accorder à Kiev une protection comparable à celle de l'Alliance atlantique. Le responsable américain a toutefois souligné que cette disposition ne s'appliquerait que si elle sert directement les intérêts des États-Unis.",
+      "contexte": "La question des garanties de sécurité accordées à l'Ukraine est centrale dans les discussions diplomatiques visant à mettre fin au conflit avec la Russie. Moscou s'oppose fermement à l'intégration de Kiev au sein de l'OTAN, qu'elle considère comme une menace directe pour ses frontières. L'attitude de la future administration américaine est déterminante, car toute protection militaire occidentale dépend largement du soutien stratégique et logistique de Washington.",
+      "image": "https://img.lemde.fr/2026/11/19/353/0/4242/2121/644/322/60/0/e24e1c3_ftp-1-yyk5fzdq24bk-2026-11-19t172926z-611706714-rc24roar8c9w-rtrmadp-3-ukraine-crisis-germany.JPG"
     },
     {
-      "titre": "Le directeur de la prison d'Aix-Luynes mis en examen et écroué pour détention, offre et mise à disposition d'images pédocriminelles",
-      "lien": "https://www.franceinfo.fr/societe/pedocriminalite/le-directeur-de-la-prison-d-aix-luynes-mis-en-examen-et-ecroue-pour-detention-offre-et-mise-a-disposition-d-images-pedocriminelles_8290181.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-19T16:00:05+01:00",
-      "resume": "Le directeur de la prison d'Aix-Luynes a été mis en examen et écroué pour détention, offre et mise à disposition d'images pédocriminelles. Il a été identifié par le parquet de Nîmes après le téléchargement d'un fichier violent constaté début 2026.",
-      "contexte": "La détention d'images pédocriminelles est un délit grave sévèrement réprimé par la loi. Lorsqu'une figure d'autorité, telle qu'un haut responsable pénitentiaire, est impliquée, cela soulève des questions sur les procédures de recrutement et de contrôle au sein de l'administration publique.",
-      "image": "https://www.franceinfo.fr/pictures/iwr3PfeqrmXU-dT4eeyRS8mBxuA/0x260:5000x3072/432x243/filters:format(jpg)/2026/11/19/6aff0dccb5ed8214069636.jpg"
-    },
-    {
-      "titre": "Xi Jinping au centre du monde, mais pas maître du monde",
-      "lien": "https://www.franceinfo.fr/monde/chine/xi-jinping-au-centre-du-monde-mais-pas-maitre-du-monde_8290184.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde · franceinfo",
-      "date": "2026-11-19T15:59:59+01:00",
-      "resume": "Les dirigeants Xi Jinping, Vladimir Poutine et Donald Trump se sont réunis à Shenzhen, en Chine, pour un sommet inédit d'une heure. À l'issue de cette rencontre, ils ont adopté une \"déclaration de paix\" s'engageant à préserver la stabilité stratégique et la sécurité internationale. Les analystes soulignent que cet événement replace la Chine au centre des relations diplomatiques mondiales.",
-      "contexte": "Ce sommet marque une séquence diplomatique exceptionnelle entre des puissances aux intérêts souvent divergents. L'objectif de telles rencontres est généralement de créer des canaux de communication directs pour éviter une escalade des tensions mondiales. La mise en scène de cet événement permet à Pékin d'affirmer son rôle d'acteur incontournable sur la scène internationale.",
-      "image": "https://www.franceinfo.fr/pictures/OQogptKL8ykDIuWDDOm650c03nc/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/19/6aff0e5024615869147359.jpg"
-    },
-    {
-      "titre": "En Ethiopie, près de 700 000 personnes ont été déplacées, fuyant la guerre dans le sud du pays",
-      "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/en-ethiopie-700-000-personnes-deplacees-par-des-affrontements-armes-dans-le-sud_6813321_3212.html",
+      "titre": "Intelligence artificielle : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/20/intelligence-artificielle-l-action-anthropic-finit-sa-premiere-journee-en-hausse-de-17-et-valorise-l-entreprise-a-1-280-milliards-de-dollars_6813415_3234.html",
       "source": "Le Monde",
-      "date": "2026-11-19T15:55:45+01:00",
-      "resume": "En Éthiopie, la reprise des combats entre les forces des régions Somali et Oromia a provoqué le déplacement de près de 700 000 personnes. L'utilisation d'armes lourdes au cours de la semaine a suscité une vive inquiétude de la part des ONG présentes sur place face à l'ampleur de la crise humanitaire.",
-      "contexte": "L'Éthiopie fait face à des tensions intercommunautaires et régionales récurrentes qui menacent la stabilité du pays. Ces conflits internes pour le contrôle des territoires et des ressources entraînent régulièrement des déplacements massifs de populations, posant d'immenses défis logistiques pour l'aide humanitaire.",
-      "image": "https://img.lemde.fr/2026/11/06/500/0/4387/2193/644/322/60/0/719bb67_ftp-1-38m9mulg3e2w-b69c0bc0bb0941f694fdc7bdaf549072-4-43bd31c4986844df8adb64de5f697186.jpg"
+      "date": "2026-11-20T00:30:58+01:00",
+      "resume": "Pour sa première journée de cotation boursière, l'action de l'entreprise Anthropic a enregistré une progression de 17 %. Ce bond spectaculaire porte la valorisation de la société spécialiste de l'intelligence artificielle à 1 280 milliards de dollars. Malgré ce succès individuel, l'indice de Wall Street a terminé la séance en nette baisse le même jour, pénalisé par des doutes sur la viabilité économique du secteur et des mouvements anti-IA.",
+      "contexte": "Le secteur de l'intelligence artificielle générative suscite depuis deux ans un engouement financier exceptionnel, attirant des capitaux considérables. Toutefois, les investisseurs s'interrogent de plus en plus sur les coûts énergétiques et informatiques très élevés nécessaires à l'entraînement et au fonctionnement de ces modèles. Le marché oscille ainsi entre la crainte de passer à côté d'une révolution technologique majeure et la peur de financer une bulle spéculative.",
+      "image": "https://img.lemde.fr/2026/11/19/468/0/5613/2806/644/322/60/0/e4b8e49_ftp-1-2aebekbaoofu-2026-11-19t224403z-121876089-rc21roaj4zlb-rtrmadp-3-anthropic-ipo-venture-capital.JPG"
     },
     {
-      "titre": "Haïti : la stratégie de Bukele reçoit un soutien populaire",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-ha%C3%AFti-la-strat%C3%A9gie-de-bukele-re%C3%A7oit-un-soutien-populaire",
+      "titre": "Le procès de l’explosion de la rue de Trévise met au jour un fonctionnement informel et peu rigoureux des services de la Mairie de Paris",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/20/le-proces-de-l-explosion-de-la-rue-de-trevise-met-au-jour-un-fonctionnement-informel-et-peu-rigoureux-des-services-de-la-mairie-de-paris_6813387_3224.html",
+      "source": "Le Monde",
+      "date": "2026-11-20T00:10:11+01:00",
+      "resume": "Le procès lié à l'explosion mortelle de la rue de Trévise a mis en évidence des dysfonctionnements internes au sein de la Mairie de Paris. Les auditions des responsables de la voirie, de la propreté et de la gestion de l'eau ont révélé des failles importantes dans la traçabilité des interventions. L'absence d'une véritable culture de l'écrit a également été pointée du doigt pour expliquer les manquements dans les comptes rendus d'opérations.",
+      "contexte": "La catastrophe survenue en janvier 2019, causée par une explosion de gaz, avait fait quatre morts, des dizaines de blessés et d'importants dégâts matériels. Les débats judiciaires cherchent à déterminer si des négligences ou des retards dans la détection des fuites engagent la responsabilité pénale des services municipaux et des entreprises délégataires. L'issue du procès pourrait inciter les collectivités territoriales à réformer en profondeur leurs procédures de suivi technique et d'archivage des travaux publics.",
+      "image": "https://img.lemde.fr/2026/11/19/655/0/5472/2736/644/322/60/0/2f38307_upload-1-5nlbzg5wih9r-000-1c6246.jpg"
+    },
+    {
+      "titre": "« Si l’on accepte que trois policiers mentent, le lien social est rompu » : prison ferme requise au procès de l’interpellation violente de Michel Zecler",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/20/si-l-on-accepte-que-trois-policiers-mentent-le-lien-social-est-rompu-prison-ferme-requise-au-proces-de-l-interpellation-violente-de-michel-zecler_6813386_3224.html",
+      "source": "Le Monde",
+      "date": "2026-11-20T00:06:36+01:00",
+      "resume": "Des peines de quatre à six ans de prison ferme ont été requises contre trois policiers jugés pour l'agression du producteur de musique Michel Zecler. L'avocate générale a retenu la circonstance aggravante de racisme et a dénoncé les faux procès-verbaux rédigés à la suite des faits pour dissimuler les violences. Pour leur défense, les fonctionnaires mis en cause ont mis en avant la peur ressentie durant l'opération.",
+      "contexte": "Cette affaire avait éclaté en novembre 2020 après la diffusion de vidéos montrant le passage à tabac du producteur dans son studio parisien, provoquant une vive émotion nationale. Elle a relancé les débats récurrents sur l'usage de la force par les forces de l'ordre, les dérives racistes et la sincérité des déclarations policières. La sévérité des réquisitions vise généralement à réaffirmer l'exemplarité de l'institution et à préserver la confiance fragile des citoyens envers la police.",
+      "image": "https://img.lemde.fr/2026/11/19/181/0/5250/2625/644/322/60/0/2db0668_upload-1-cob8s7xzhyhi-000-d7yv4g3.jpg"
+    },
+    {
+      "titre": "Montée de l'extrême droite en France : \"Les Allemands ont un regard extrêmement inquiet\"",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-mont%C3%A9e-de-l-extr%C3%AAme-droite-en-france-les-allemands-ont-un-regard-extr%C3%AAmement-inquiet",
       "source": "France 24",
-      "date": "2026-11-19T15:53:39+01:00",
-      "resume": "À Port-au-Prince, des milliers de personnes ont manifesté mardi pour soutenir la présence de soldats salvadoriens en Haïti. Ces troupes sont engagées dans une stratégie de lutte contre les gangs, inspirée par les méthodes du président Nayib Bukele.",
-      "contexte": "Face à l'emprise des gangs sur la capitale haïtienne, la population exprime un fort besoin de sécurité et de rétablissement de l'ordre. Le modèle salvadorien, bien que controversé pour ses méthodes sécuritaires radicales, est perçu par une partie de la société civile comme une réponse directe à l'insécurité chronique.",
-      "image": "https://s.france24.com/media/display/554ec0be-e428-11f1-b053-1bac47ab2f5d/w:1024/p:16x9/FR-20261118-210630-211204-CS.jpg"
-    },
-    {
-      "titre": "Primaire du centre et de la droite : Édouard Philippe, sous pression, refuse toujours",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261119-primaire-du-centre-et-de-la-droite-%C3%A9douard-philippe-sous-pression-refuse-toujours",
-      "source": "France 24",
-      "date": "2026-11-19T15:49:55+01:00",
-      "resume": "Une primaire de la droite et du centre est envisagée pour fin janvier, après une réunion entre les équipes de Gabriel Attal, David Lisnard et Bruno Retailleau. Édouard Philippe refuse toutefois d'y participer, malgré les pressions, alors que David Lisnard progresse dans les sondages.",
-      "contexte": "À l'approche des échéances électorales, les partis politiques cherchent à clarifier leurs candidatures et leurs alliances. Le refus d'Édouard Philippe de se soumettre à une primaire souligne les divisions stratégiques au sein du camp centriste et de la droite, chacun cherchant à préserver sa dynamique personnelle.",
-      "image": "https://s.france24.com/media/display/dd8e903c-e421-11f1-84c7-e56ab3dc0809/w:1024/p:16x9/Francais-2026-11-18T10-43-15-420Z-1.jpg"
-    },
-    {
-      "titre": "Présidentielle 2027 : les Écologistes tentés par une \"coalition\" avec les Insoumis",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-pr%C3%A9sidentielle-2027-les-%C3%A9cologistes-tent%C3%A9s-par-une-coalition-avec-les-insoumis",
-      "source": "France 24",
-      "date": "2026-11-19T15:47:53+01:00",
-      "resume": "Les Écologistes envisagent de discuter prochainement d'une coalition avec La France Insoumise pour la prochaine élection présidentielle. Cette union se ferait autour de la candidature de Jean-Luc Mélenchon, une option évoquée par la dirigeante écologiste Marine Tondelier.",
-      "contexte": "La recherche d'alliances à gauche est un processus récurrent visant à maximiser les chances de succès lors des scrutins majoritaires. Ces discussions reflètent la volonté de construire un front commun face aux autres forces politiques, bien que les divergences programmatiques puissent freiner ces rapprochements.",
-      "image": "https://s.france24.com/media/display/30c09306-e425-11f1-81dd-6b451f569414/w:1024/p:16x9/FR-20261119-141254-142236-CS.jpg"
-    },
-    {
-      "titre": "Cyberattaques : Sébastien Lecornu préside une réunion interministérielle \"relative à la cybersécurité\", avant une conférence de presse",
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/direct-sebastien-lecornu-preside-une-reunion-interministerielle-relative-a-la-cybersecurite-avant-une-conference-de-presse_8290133.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-19T15:46:18+01:00",
-      "resume": "Le ministre Sébastien Lecornu a présidé une réunion interministérielle dédiée à la cybersécurité. Cette initiative répond à la multiplication récente des cyberattaques ciblant aussi bien le secteur privé que les infrastructures publiques.",
-      "contexte": "La cybersécurité est devenue une priorité stratégique nationale face à la menace croissante du cyberespionnage et du sabotage informatique. Le renforcement de la coopération entre ministères vise à mieux anticiper et contrer les vulnérabilités du système numérique français.",
-      "image": "https://www.franceinfo.fr/pictures/Ps4-ry0354ahcByXs4zBasxXxPI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/19/6aff0a43a7a42140905145.jpg"
-    },
-    {
-      "titre": "🔴Anthropic entre en Bourse : la plus grande levée de fonds de l’Histoire commence",
-      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
-      "source": "France 24",
-      "date": "2026-11-19T15:32:11+01:00",
-      "resume": "L'entreprise Anthropic a entamé son introduction en Bourse, marquant ainsi le lancement de ce qui est présenté comme la plus importante levée de fonds de l'histoire.",
-      "contexte": "Cet événement souligne l'importance colossale des investissements actuels dans le secteur de l'intelligence artificielle. Les marchés financiers parient massivement sur le potentiel de croissance de ces entreprises technologiques, malgré les incertitudes liées à leur modèle économique à long terme.",
-      "image": ""
-    },
-    {
-      "titre": "\"La gravité nécessite l'emprisonnement\" : des peines de quatre ans à six ans de prison ferme requises contre les trois policiers accusés d'avoir roué de coups Michel Zecler",
-      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-peines-de-quatre-ans-a-six-ans-de-prison-ferme-requises-contre-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8288789.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-19T15:31:38+01:00",
-      "resume": "Le procès des trois policiers accusés d'avoir frappé Michel Zecler touche à sa fin, avec des réquisitions allant de quatre à six ans de prison ferme. L'avocate générale a demandé de retenir la circonstance aggravante de racisme. Le verdict final est attendu ce vendredi.",
-      "contexte": "Ce procès est emblématique des débats sur les violences policières et le racisme au sein des forces de l'ordre. Les enjeux autour de cette affaire concernent la confiance envers l'institution policière et le respect des droits fondamentaux lors des interpellations.",
-      "image": "https://www.franceinfo.fr/pictures/JcZkKc_DY0_pkMErpmABa_xXN9A/0x0:2000x1125/432x243/filters:format(jpg)/2026/11/18/6afdea9ac3fea003420443.jpg"
+      "date": "2026-11-20T00:03:14+01:00",
+      "resume": "L'historienne et germaniste Hélène Miard-Delacroix a souligné que l'Allemagne observe avec une vive inquiétude la progression de l'extrême droite en France. Selon la chercheuse, la montée en puissance de ces mouvements dans les deux pays voisins répond à des logiques et des ressorts sociopolitiques comparables. Cette analyse est développée dans le cadre d'un entretien diffusé sur la chaîne YouTube de France 24.",
+      "contexte": "La France et l'Allemagne constituent le moteur historique de l'intégration et de la prise de décision au sein de l'Union européenne. Les succès électoraux de partis nationalistes comme le Rassemblement national en France ou l'AfD en Allemagne fragilisent ce partenariat bilatéral et menacent la cohésion européenne. Les observateurs craignent souvent qu'une telle évolution n'affaiblisse la capacité des deux capitales à s'accorder sur des sujets stratégiques majeurs, de la défense commune à la politique migratoire.",
+      "image": "https://s.france24.com/media/display/527b2fdc-e46c-11f1-9485-13439ca2fe89/w:1024/p:16x9/H%C3%A9l%C3%A8ne-Verti.jpg"
     }
   ],
   "culture": [],
   "quiz_jour": [
     {
-      "id": "07e4207be8",
-      "date": "2026-11-19",
+      "id": "12551f9cc2",
+      "date": "2026-11-20",
       "type": "actu",
-      "question": "Par quelle émission le chorégraphe Bruno Vandelli a-t-il été révélé au public en 2002 ?",
+      "question": "Quelle personnalité politique américaine Emmanuel Macron doit-il recevoir à Paris pour un entretien de courtoisie ?",
       "choix": [
-        "Graines de Star",
-        "Nouvelle Star",
-        "Popstars 2",
-        "Star Academy"
-      ],
-      "reponse": 2,
-      "explication": "L'article précise que Bruno Vandelli a été révélé en 2002 par l'émission Popstars 2.",
-      "lien": "https://www.lemonde.fr/culture/article/2026/11/19/le-choregraphe-bruno-vandelli-mis-en-examen-pour-viol-aggrave-agressions-sexuelles-et-corruption-de-mineur_6813328_3246.html",
-      "image": "https://img.lemde.fr/2026/11/19/315/0/2400/1200/644/322/60/0/a829a92_upload-1-nx4mrw2z15rt-maxmatinnews049638.jpg"
-    },
-    {
-      "id": "7aed016c27",
-      "date": "2026-11-19",
-      "type": "actu",
-      "question": "Quel pays a initié une procédure pour génocide contre la Birmanie en 2019 concernant le sort des Rohingyas ?",
-      "choix": [
-        "La Gambie",
-        "Le Rwanda",
-        "L'Afrique du Sud",
-        "Le Sénégal"
-      ],
-      "reponse": 0,
-      "explication": "L'article mentionne que la Gambie est devenue un acteur clé en initiant cette procédure juridique en 2019.",
-      "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/comment-la-lointaine-gambie-s-est-retrouvee-en-premiere-ligne-du-combat-pour-la-defense-des-rohingya-de-birmanie_6663552_3213.html",
-      "image": "https://img.lemde.fr/2026/01/12/500/0/6000/3000/644/322/60/0/7a0c49f_ftp-1-3gxfqor3le8h-2026-01-12t094241z-1499227565-rc2lziai6jy3-rtrmadp-3-myanmar-rohingya-world-court.JPG"
-    },
-    {
-      "id": "d791f3ce66",
-      "date": "2026-11-19",
-      "type": "actu",
-      "question": "Dans quelle ville chinoise s'est tenu le sommet inédit entre Xi Jinping, Vladimir Poutine et Donald Trump ?",
-      "choix": [
-        "Pékin",
-        "Shenzhen",
-        "Shanghai",
-        "Canton"
+        "Alexandria Ocasio-Cortez",
+        "Kamala Harris",
+        "Nikki Haley",
+        "Hillary Clinton"
       ],
       "reponse": 1,
-      "explication": "Le texte indique explicitement que les dirigeants se sont réunis à Shenzhen, en Chine.",
-      "lien": "https://www.franceinfo.fr/monde/chine/xi-jinping-au-centre-du-monde-mais-pas-maitre-du-monde_8290184.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/OQogptKL8ykDIuWDDOm650c03nc/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/19/6aff0e5024615869147359.jpg"
+      "explication": "Emmanuel Macron s'apprête à recevoir l'ancienne vice-présidente américaine Kamala Harris à Paris pour un bref entretien de courtoisie.",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
+      "image": "https://img.lemde.fr/2026/11/02/220/0/6485/3242/644/322/60/0/783232a_ftp-1-hovnhjlozmfj-495a49782b2147e0bdbc013f5630ec4c-0-534a0b2a9ce34772a34c48c0a540b888.jpg"
     },
     {
-      "id": "b73732cf1e",
-      "date": "2026-11-19",
+      "id": "6772412254",
+      "date": "2026-11-20",
       "type": "actu",
-      "question": "En Éthiopie, quelles régions sont impliquées dans les combats ayant provoqué le déplacement de 700 000 personnes ?",
+      "question": "Selon l'émissaire américain Jared Kushner, à quelle condition Donald Trump envisagerait-il une protection de l'Ukraine comparable à celle de l'OTAN ?",
       "choix": [
-        "Tigré et Amhara",
-        "Harar et Sidama",
-        "Afar et Gambela",
-        "Somali et Oromia"
+        "Si les pays européens financent la totalité des opérations",
+        "Si cette mesure sert directement les intérêts des États-Unis",
+        "Si l'Ukraine augmente ses dépenses militaires à 5 % de son PIB",
+        "Si la Russie accepte un cessez-le-feu immédiat"
       ],
-      "reponse": 3,
-      "explication": "L'article souligne que la reprise des combats entre les forces des régions Somali et Oromia est à l'origine de ces déplacements.",
-      "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/en-ethiopie-700-000-personnes-deplacees-par-des-affrontements-armes-dans-le-sud_6813321_3212.html",
-      "image": "https://img.lemde.fr/2026/11/06/500/0/4387/2193/644/322/60/0/719bb67_ftp-1-38m9mulg3e2w-b69c0bc0bb0941f694fdc7bdaf549072-4-43bd31c4986844df8adb64de5f697186.jpg"
+      "reponse": 1,
+      "explication": "Jared Kushner a affirmé que Donald Trump est ouvert à l'idée d'accorder à Kiev une protection de type OTAN, à condition qu'elle serve directement les intérêts américains.",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-donald-trump-est-ouvert-a-l-idee-d-une-protection-de-l-ukraine-par-l-otan-assure-l-emissaire-americain-jared-kushner_6810982_3210.html",
+      "image": "https://img.lemde.fr/2026/11/19/353/0/4242/2121/644/322/60/0/e24e1c3_ftp-1-yyk5fzdq24bk-2026-11-19t172926z-611706714-rc24roar8c9w-rtrmadp-3-ukraine-crisis-germany.JPG"
     },
     {
-      "id": "355382d02f",
-      "date": "2026-11-19",
+      "id": "fcef7d86e9",
+      "date": "2026-11-20",
       "type": "actu",
-      "question": "Quelle entreprise a lancé ce qui est présenté comme la plus importante levée de fonds de l'histoire lors de son introduction en Bourse ?",
+      "question": "À quelle valorisation boursière l'entreprise Anthropic est-elle parvenue à l'issue de sa première journée de cotation ?",
       "choix": [
-        "Nvidia",
-        "OpenAI",
-        "Google",
-        "Anthropic"
+        "780 milliards de dollars",
+        "1 280 milliards de dollars",
+        "2 400 milliards de dollars",
+        "350 milliards de dollars"
+      ],
+      "reponse": 1,
+      "explication": "Après une hausse de 17 % lors de son premier jour de cotation, la valorisation de la société d'intelligence artificielle Anthropic a atteint 1 280 milliards de dollars.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/20/intelligence-artificielle-l-action-anthropic-finit-sa-premiere-journee-en-hausse-de-17-et-valorise-l-entreprise-a-1-280-milliards-de-dollars_6813415_3234.html",
+      "image": "https://img.lemde.fr/2026/11/19/468/0/5613/2806/644/322/60/0/e4b8e49_ftp-1-2aebekbaoofu-2026-11-19t224403z-121876089-rc21roaj4zlb-rtrmadp-3-anthropic-ipo-venture-capital.JPG"
+    },
+    {
+      "id": "e91d0fcc34",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Lors du procès de l'explosion de la rue de Trévise, quel manquement au sein des services de la Mairie de Paris a particulièrement été souligné ?",
+      "choix": [
+        "Une grève massive non déclarée au moment des faits",
+        "Le refus d'intervention des équipes de voirie",
+        "L'utilisation de matériel non homologué par les agents",
+        "L'absence d'une véritable culture de l'écrit et des failles de traçabilité"
       ],
       "reponse": 3,
-      "explication": "Le titre et le résumé de l'article 9 confirment qu'il s'agit de l'entreprise Anthropic.",
-      "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
-      "image": ""
+      "explication": "Les auditions ont révélé des failles dans la traçabilité des interventions ainsi qu'une absence de culture de l'écrit dans les comptes rendus d'opérations de la Ville de Paris.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/20/le-proces-de-l-explosion-de-la-rue-de-trevise-met-au-jour-un-fonctionnement-informel-et-peu-rigoureux-des-services-de-la-mairie-de-paris_6813387_3224.html",
+      "image": "https://img.lemde.fr/2026/11/19/655/0/5472/2736/644/322/60/0/2f38307_upload-1-5nlbzg5wih9r-000-1c6246.jpg"
+    },
+    {
+      "id": "1c60343c6c",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Quelles peines ont été requises contre les trois policiers jugés pour l'interpellation violente de Michel Zecler ?",
+      "choix": [
+        "Deux ans de prison avec sursis",
+        "Dix ans de réclusion criminelle",
+        "Une simple exclusion définitive des forces de l'ordre",
+        "Quatre à six ans de prison ferme"
+      ],
+      "reponse": 3,
+      "explication": "Des peines de quatre à six ans d'emprisonnement ferme ont été requises par l'avocate générale, qui a également retenu la circonstance aggravante de racisme.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/20/si-l-on-accepte-que-trois-policiers-mentent-le-lien-social-est-rompu-prison-ferme-requise-au-proces-de-l-interpellation-violente-de-michel-zecler_6813386_3224.html",
+      "image": "https://img.lemde.fr/2026/11/19/181/0/5250/2625/644/322/60/0/2db0668_upload-1-cob8s7xzhyhi-000-d7yv4g3.jpg"
     }
   ]
 }

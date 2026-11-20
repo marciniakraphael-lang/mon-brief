@@ -6682,6 +6682,86 @@
       "explication": "Le titre et le résumé de l'article 9 confirment qu'il s'agit de l'entreprise Anthropic.",
       "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
       "image": ""
+    },
+    {
+      "id": "12551f9cc2",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Quelle personnalité politique américaine Emmanuel Macron doit-il recevoir à Paris pour un entretien de courtoisie ?",
+      "choix": [
+        "Alexandria Ocasio-Cortez",
+        "Kamala Harris",
+        "Nikki Haley",
+        "Hillary Clinton"
+      ],
+      "reponse": 1,
+      "explication": "Emmanuel Macron s'apprête à recevoir l'ancienne vice-présidente américaine Kamala Harris à Paris pour un bref entretien de courtoisie.",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
+      "image": "https://img.lemde.fr/2026/11/02/220/0/6485/3242/644/322/60/0/783232a_ftp-1-hovnhjlozmfj-495a49782b2147e0bdbc013f5630ec4c-0-534a0b2a9ce34772a34c48c0a540b888.jpg"
+    },
+    {
+      "id": "6772412254",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Selon l'émissaire américain Jared Kushner, à quelle condition Donald Trump envisagerait-il une protection de l'Ukraine comparable à celle de l'OTAN ?",
+      "choix": [
+        "Si les pays européens financent la totalité des opérations",
+        "Si cette mesure sert directement les intérêts des États-Unis",
+        "Si l'Ukraine augmente ses dépenses militaires à 5 % de son PIB",
+        "Si la Russie accepte un cessez-le-feu immédiat"
+      ],
+      "reponse": 1,
+      "explication": "Jared Kushner a affirmé que Donald Trump est ouvert à l'idée d'accorder à Kiev une protection de type OTAN, à condition qu'elle serve directement les intérêts américains.",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-donald-trump-est-ouvert-a-l-idee-d-une-protection-de-l-ukraine-par-l-otan-assure-l-emissaire-americain-jared-kushner_6810982_3210.html",
+      "image": "https://img.lemde.fr/2026/11/19/353/0/4242/2121/644/322/60/0/e24e1c3_ftp-1-yyk5fzdq24bk-2026-11-19t172926z-611706714-rc24roar8c9w-rtrmadp-3-ukraine-crisis-germany.JPG"
+    },
+    {
+      "id": "fcef7d86e9",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "À quelle valorisation boursière l'entreprise Anthropic est-elle parvenue à l'issue de sa première journée de cotation ?",
+      "choix": [
+        "780 milliards de dollars",
+        "1 280 milliards de dollars",
+        "2 400 milliards de dollars",
+        "350 milliards de dollars"
+      ],
+      "reponse": 1,
+      "explication": "Après une hausse de 17 % lors de son premier jour de cotation, la valorisation de la société d'intelligence artificielle Anthropic a atteint 1 280 milliards de dollars.",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/20/intelligence-artificielle-l-action-anthropic-finit-sa-premiere-journee-en-hausse-de-17-et-valorise-l-entreprise-a-1-280-milliards-de-dollars_6813415_3234.html",
+      "image": "https://img.lemde.fr/2026/11/19/468/0/5613/2806/644/322/60/0/e4b8e49_ftp-1-2aebekbaoofu-2026-11-19t224403z-121876089-rc21roaj4zlb-rtrmadp-3-anthropic-ipo-venture-capital.JPG"
+    },
+    {
+      "id": "e91d0fcc34",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Lors du procès de l'explosion de la rue de Trévise, quel manquement au sein des services de la Mairie de Paris a particulièrement été souligné ?",
+      "choix": [
+        "Une grève massive non déclarée au moment des faits",
+        "Le refus d'intervention des équipes de voirie",
+        "L'utilisation de matériel non homologué par les agents",
+        "L'absence d'une véritable culture de l'écrit et des failles de traçabilité"
+      ],
+      "reponse": 3,
+      "explication": "Les auditions ont révélé des failles dans la traçabilité des interventions ainsi qu'une absence de culture de l'écrit dans les comptes rendus d'opérations de la Ville de Paris.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/20/le-proces-de-l-explosion-de-la-rue-de-trevise-met-au-jour-un-fonctionnement-informel-et-peu-rigoureux-des-services-de-la-mairie-de-paris_6813387_3224.html",
+      "image": "https://img.lemde.fr/2026/11/19/655/0/5472/2736/644/322/60/0/2f38307_upload-1-5nlbzg5wih9r-000-1c6246.jpg"
+    },
+    {
+      "id": "1c60343c6c",
+      "date": "2026-11-20",
+      "type": "actu",
+      "question": "Quelles peines ont été requises contre les trois policiers jugés pour l'interpellation violente de Michel Zecler ?",
+      "choix": [
+        "Deux ans de prison avec sursis",
+        "Dix ans de réclusion criminelle",
+        "Une simple exclusion définitive des forces de l'ordre",
+        "Quatre à six ans de prison ferme"
+      ],
+      "reponse": 3,
+      "explication": "Des peines de quatre à six ans d'emprisonnement ferme ont été requises par l'avocate générale, qui a également retenu la circonstance aggravante de racisme.",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/20/si-l-on-accepte-que-trois-policiers-mentent-le-lien-social-est-rompu-prison-ferme-requise-au-proces-de-l-interpellation-violente-de-michel-zecler_6813386_3224.html",
+      "image": "https://img.lemde.fr/2026/11/19/181/0/5250/2625/644/322/60/0/2db0668_upload-1-cob8s7xzhyhi-000-d7yv4g3.jpg"
     }
   ]
 }
