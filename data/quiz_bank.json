@@ -7194,6 +7194,70 @@
       "explication": "Le ministère de la Défense finlandais a indiqué soupçonner un hélicoptère russe d'avoir pénétré jusqu'à 4,1 kilomètres à l'intérieur du territoire finlandais.",
       "lien": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html#xtor=RSS-3-[lestitres]",
       "image": "https://www.franceinfo.fr/pictures/dzl70O5wmble6f9aN4HYt3m3SWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01ac8904cf5326131943.jpg"
+    },
+    {
+      "id": "315d9bcde7",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quelle sélection le XV de France doit-il affronter en finale du Championnat des nations à Twickenham ?",
+      "choix": [
+        "L'Australie",
+        "La Nouvelle-Zélande",
+        "L'Angleterre",
+        "L'Afrique du Sud"
+      ],
+      "reponse": 3,
+      "explication": "Après avoir largement dominé l'Argentine, les Bleus retrouveront l'Afrique du Sud en finale à Twickenham.",
+      "lien": "https://www.franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-rejoint-l-afrique-du-sud-en-finale-du-championnat-des-nations-apres-sa-large-victoire-face-a-l-argentine_8294108.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/oi_ukkoHawTwuTItw_4J_-9fXsg/0x178:3437x2112/432x243/filters:format(jpg)/2026/11/21/6b02094fef102510180158.jpg"
+    },
+    {
+      "id": "216ff8741f",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel est le titre du documentaire de la BBC dans lequel Kate Middleton témoignera de son combat contre la maladie ?",
+      "choix": [
+        "Guérir",
+        "Espoir",
+        "Renaître",
+        "Le Combat"
+      ],
+      "reponse": 0,
+      "explication": "Le palais de Kensington a annoncé la diffusion d'un documentaire intitulé « Guérir » dans lequel la princesse racontera son épreuve face au cancer.",
+      "lien": "https://www.franceinfo.fr/monde/royaume-uni/kate-middleton/le-cancer-vous-change-kate-middleton-racontera-son-combat-contre-la-maladie-dans-un-documentaire-pour-la-bbc_8294162.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/nUVxn2CfntOzN-Vh3cG-xjgmC9c/0x48:1094x663/432x243/filters:format(jpg)/2026/11/21/6b0205d85c866079675173.png"
+    },
+    {
+      "id": "4a86298879",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Au Brésil, des membres de quel peuple autochtone ont fait une rare apparition hors de leur isolement après 50 ans ?",
+      "choix": [
+        "Les Awá",
+        "Les Kayapos",
+        "Les Guaranis",
+        "Les Yanomami"
+      ],
+      "reponse": 0,
+      "explication": "Une quinzaine de membres du peuple Awá sont sortis à la lisière de la forêt en Amazonie brésilienne, marquant leur première apparition depuis cinquante ans.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/en-les-privant-de-leur-territoire-on-les-tue-au-bresil-un-peuple-indigene-sort-de-son-isolement_8294120.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/lJuaZELMO5RFJjHyXbKqelDynhw/0x97:764x526/432x243/filters:format(jpg)/2026/11/21/6b01f6583a141524149632.png"
+    },
+    {
+      "id": "903194efb5",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel joueur affrontera l'Allemand Alexander Zverev en finale du Masters de Turin ?",
+      "choix": [
+        "Ben Shelton",
+        "Jannik Sinner",
+        "Daniil Medvedev",
+        "Carlos Alcaraz"
+      ],
+      "reponse": 3,
+      "explication": "Carlos Alcaraz s'est qualifié après avoir renversé Ben Shelton et disputera le titre face à Alexander Zverev.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-lache-un-set-mais-se-qualifie-pour-la-finale-du-masters-de-turin-apres-un-gros-combat-face-a-ben-shelton_8293823.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/oYIy0QKYm2f5eDEba15e35D1hBU/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/21/6b01b5974c187765635604.jpg"
     }
   ]
 }

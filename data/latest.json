@@ -1,136 +1,184 @@
 {
   "date": "2026-11-21",
   "mode": "evening",
-  "updated": "2026-11-21T21:44:50.278806+01:00",
+  "updated": "2026-11-21T23:51:20.645139+01:00",
   "deja_presente": [],
   "depuis_hier": [],
   "aujourdhui": [
     {
-      "titre": "Israël : Gadi Eisenkot invite le parti de Benjamin Netanyahu à des négociations de coalition",
-      "lien": "https://www.france24.com/fr/moyen-orient/20261121-isra%C3%ABl-gadi-eisenkot-invite-le-parti-de-benjamin-netanyahu-%C3%A0-des-n%C3%A9gociations-de-coalition",
-      "source": "France 24",
-      "date": "2026-11-21T21:29:02+01:00",
-      "resume": "Le centriste Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a invité le parti du premier ministre sortant Benyamin Netanyahu à des pourparlers en vue d'une éventuelle coalition. Cette annonce a été officialisée samedi par son parti.",
-      "contexte": "En Israël, la formation d'un gouvernement nécessite traditionnellement la constitution d'une coalition au Parlement en raison du système proportionnel fragmenté. Ces négociations interviennent dans un contexte politique tendu où les différentes formations cherchent des alliances pour atteindre la majorité requise.",
-      "image": "https://s.france24.com/media/display/70936d94-e5e9-11f1-943b-13439ca2fe89/w:1024/p:16x9/000-D6U96RP.jpg"
+      "titre": "Présidentielle 2027 : David Lisnard voit dans une primaire de la droite et du centre « un moyen d’exclure les macronistes »",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-21T23:46:33+01:00",
+      "resume": "En vue de l'élection présidentielle de 2027, David Lisnard s'est exprimé sur l'hypothèse d'une primaire de la droite et du centre. Le candidat du mouvement Nouvelle Énergie considère ce mécanisme comme un moyen d'évincer les macronistes. Il estime toutefois que ce vote n'aurait de sens qu'avec la présence d'Édouard Philippe et d'Éric Zemmour, rendant sa tenue incertaine.",
+      "contexte": "La droite républicaine cherche une stratégie commune pour désigner son candidat après plusieurs échecs électoraux majeurs. La question d'une primaire divise régulièrement les partis, certains craignant des fractures internes durables. L'élargissement ou non du rassemblement aux différentes composantes du centre et de la droite reste l'un des principaux enjeux stratégiques pour 2027.",
+      "image": "https://img.lemde.fr/2026/11/19/102/0/4704/2352/644/322/60/0/3faf5cd_upload-1-s4dfxl4cjlsn-000-c6wn7k6.jpg"
     },
     {
-      "titre": "Après l'abandon de François Ruffin, le candidat communiste à l'élection présidentielle Fabien Roussel pointe des \"convergences nombreuses\" avec lui",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html#xtor=RSS-3-[lestitres]",
+      "titre": "Le XV de France rejoint l'Afrique du Sud en finale du Championnat des nations après sa large victoire face à l'Argentine",
+      "lien": "https://www.franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-rejoint-l-afrique-du-sud-en-finale-du-championnat-des-nations-apres-sa-large-victoire-face-a-l-argentine_8294108.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-21T21:16:18+01:00",
-      "resume": "Après l'abandon de François Ruffin, le candidat communiste à l'élection présidentielle Fabien Roussel a pointé des convergences nombreuses avec lui. De son côté, le socialiste Pierre Jouvet a souligné que les batailles menées par le député de la Somme étaient au cœur du combat du candidat social-démocrate Raphaël Glucksmann.",
-      "contexte": "Le paysage politique à gauche de l'échiquier politique français fait face à des recompositions constantes et à des stratégies d'alliance ou de rapprochement entre formations. Les déclarations des différents représentants illustrent la volonté de capter l'électorat et les thématiques portées par des figures populaires de la gauche sociale et républicaine.",
-      "image": "https://www.franceinfo.fr/pictures/x-Fv6DbzAuHg_qlFm_dGL_Y5H5c/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01fba08d631867954230.jpg"
+      "date": "2026-11-21T23:24:58+01:00",
+      "resume": "Le XV de France s'est qualifié pour la finale de la première édition du Championnat des nations après une large victoire face à l'Argentine. Les joueurs français affronteront l'Afrique du Sud le week-end prochain à Twickenham. Cette rencontre offrira des retrouvailles majeures entre les deux sélections au sommet du rugby mondial.",
+      "contexte": "Ce nouveau tournoi a été conçu pour donner plus d'enjeu aux tournées d'automne et structurer le calendrier international entre les nations des deux hémisphères. Pour l'équipe de France, affronter les champions du monde sud-africains représente un test d'envergure. Une victoire permettrait aux Bleus d'inscrire leur nom au premier palmarès de cette compétition.",
+      "image": "https://www.franceinfo.fr/pictures/oi_ukkoHawTwuTItw_4J_-9fXsg/0x178:3437x2112/432x243/filters:format(jpg)/2026/11/21/6b02094fef102510180158.jpg"
+    },
+    {
+      "titre": "\"Le cancer vous change\" : Kate Middleton racontera son combat contre la maladie dans un documentaire pour la BBC",
+      "lien": "https://www.franceinfo.fr/monde/royaume-uni/kate-middleton/le-cancer-vous-change-kate-middleton-racontera-son-combat-contre-la-maladie-dans-un-documentaire-pour-la-bbc_8294162.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-21T23:08:14+01:00",
+      "resume": "Le palais de Kensington a annoncé la diffusion prochaine d'un documentaire sur la BBC intitulé \"Guérir\". Dans ce programme, la princesse Kate Middleton témoignera personnellement de son combat contre le cancer. Elle y partagera les épreuves traversées en affirmant notamment que cette maladie transforme la vie.",
+      "contexte": "L'annonce de la maladie de la princesse de Galles avait suscité une vive émotion et de nombreuses interrogations dans l'opinion publique britannique et internationale. Ce type de communication directe permet généralement à la famille royale de sensibiliser le public aux questions de santé tout en maîtrisant son image. Cette démarche s'inscrit dans une tradition de transparence accrue adoptée récemment par la monarchie sur les sujets médicaux.",
+      "image": "https://www.franceinfo.fr/pictures/nUVxn2CfntOzN-Vh3cG-xjgmC9c/0x48:1094x663/432x243/filters:format(jpg)/2026/11/21/6b0205d85c866079675173.png"
+    },
+    {
+      "titre": "Les raids anti-migrants se multiplient au Royaume-Uni et inquiètent le gouvernement",
+      "lien": "https://www.franceinfo.fr/monde/europe/migrants/les-raids-anti-migrants-se-multiplient-au-royaume-uni-et-inquietent-le-gouvernement_8294159.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-21T22:47:57+01:00",
+      "resume": "Au Royaume-Uni, des actions menées par des militants d'extrême droite se multiplient près de Douvres pour bloquer le passage de migrants. Ces opérations ciblées interviennent alors que les traversées de la Manche s'accélèrent à l'approche de l'hiver. Cette recrudescence d'actions directes suscite de vives inquiétudes au sein du gouvernement britannique.",
+      "contexte": "La gestion des flux migratoires à travers la Manche reste une question politique très sensible et disputée entre Londres et Paris. Les tentatives de passage augmentent souvent avant que les conditions maritimes ne deviennent trop dangereuses en hiver. L'implication de groupes radicaux sur le terrain fait craindre des débordements violents et accentue la pression sur les forces de l'ordre.",
+      "image": "https://www.franceinfo.fr/pictures/oUiYNHVSBCWty92eShmgA6r7BtU/0x99:1416x896/432x243/filters:format(jpg)/2026/11/21/6b0203e9ab9c4809150157.png"
     },
     {
       "titre": "\"En les privant de leur territoire, on les tue\" : au Brésil, un peuple indigène sort de son isolement",
       "lien": "https://www.franceinfo.fr/monde/bresil/en-les-privant-de-leur-territoire-on-les-tue-au-bresil-un-peuple-indigene-sort-de-son-isolement_8294120.html#xtor=RSS-3-%5Bmonde%5D",
       "source": "franceinfo Monde",
-      "date": "2026-11-21T21:01:31+01:00",
-      "resume": "Une quinzaine de membres du peuple Awá, un groupe autochtone d'Amazonie, sont sortis à la lisière de la forêt pour la première fois depuis 50 ans. Près de 200 peuples autochtones vivent encore totalement isolés sur la planète.",
-      "contexte": "L'isolement volontaire de ces populations est souvent menacé par la déforestation, l'orpaillage illégal et l'empiètement sur leurs territoires traditionnels. Leur sortie de la forêt témoigne généralement d'une pression accrue sur leurs ressources ou de contacts de plus en plus difficiles à éviter avec le monde extérieur.",
+      "date": "2026-11-21T22:44:14+01:00",
+      "resume": "En Amazonie brésilienne, une quinzaine de membres du peuple autochtone Awá sont sortis à la lisière de la forêt. Il s'agit de leur première apparition hors de leur isolement depuis cinquante ans. Cet événement rare intervient alors que près de 200 peuples autochtones vivent encore totalement coupés du reste du monde.",
+      "contexte": "Les peuples non contactés quittent généralement la profondeur de leur territoire en réaction à des menaces directes comme la déforestation, l'orpaillage illégal ou l'avancée de l'agriculture. Ces communautés dépendent entièrement des ressources de la forêt pour leur survie et sont extrêmement vulnérables aux maladies extérieures. Leur démarche témoigne souvent d'une situation d'urgence liée à la dégradation continue de leur environnement.",
       "image": "https://www.franceinfo.fr/pictures/lJuaZELMO5RFJjHyXbKqelDynhw/0x97:764x526/432x243/filters:format(jpg)/2026/11/21/6b01f6583a141524149632.png"
+    },
+    {
+      "titre": "Comment les malfaiteurs s'attaquent-ils aux distributeurs de billets ?",
+      "lien": "https://www.franceinfo.fr/faits-divers/comment-les-malfaiteurs-s-attaquent-ils-aux-distributeurs-de-billets_8294111.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T22:32:49+01:00",
+      "resume": "Deux distributeurs automatiques de billets ont été attaqués à une heure d'intervalle dans la nuit de jeudi à vendredi dans la Drôme et l'Ardèche. Les enquêteurs mobilisés sur ces dossiers estiment que le mode opératoire employé porte la marque du grand banditisme. Ces attaques successives relancent le débat sur la vulnérabilité de ces installations bancaires.",
+      "contexte": "Les attaques de distributeurs de billets font souvent appel à des explosifs ou à du matériel lourd, impliquant des réseaux criminels organisés et mobiles. Face à ces assauts, les établissements bancaires installent régulièrement des systèmes de neutralisation des billets par maculage pour décourager les voleurs. Les communes rurales ou périurbaines, parfois plus isolées, sont particulièrement exposées à ces actions rapides.",
+      "image": "https://www.franceinfo.fr/pictures/8Qfai_Am0fe6EZTa8bXFRrerNys/0x125:1214x808/432x243/filters:format(jpg)/2026/11/21/6b01f3076af6d849613255.png"
+    },
+    {
+      "titre": "Bahreïn accuse l’Iran d’avoir frappé l’un de ses sites industriels",
+      "lien": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/21/bahrein-accuse-l-iran-d-avoir-frappe-l-un-de-ses-sites-industriels_6814069_6325529.html",
+      "source": "Le Monde",
+      "date": "2026-11-21T22:31:47+01:00",
+      "resume": "Bahreïn accuse l'Iran d'avoir mené une frappe contre l'un de ses sites industriels. De son côté, l'Iran a déclaré avoir intercepté un drone américain près de l'île de Qeshm dans le détroit d'Ormuz. Les gardiens de la révolution ont affirmé avoir ciblé plusieurs installations américaines situées sur le territoire bahreïni au cours de la semaine.",
+      "contexte": "Le golfe Persique et le détroit d'Ormuz constituent un point de passage stratégique pour le commerce maritime mondial, régulièrement au cœur de vives tensions géopolitiques. Bahreïn accueille une présence militaire américaine de premier plan, ce qui en fait une cible privilégiée lors des crises régionales. L'escalade des hostilités militaires menace la sécurité énergétique et la stabilité de l'ensemble du Moyen-Orient.",
+      "image": "https://img.lemde.fr/2026/11/06/687/0/5500/2750/644/322/60/0/27b5a5b_ftp-1-osblhese6bkq-2026-11-06t141621z-864316799-rc2cioas5ady-rtrmadp-3-iran-crisis-bahrain.JPG"
+    },
+    {
+      "titre": "Cargo échoué dans les Landes : la météo capricieuse perturbe le remorquage du navire",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cargo-echoue-dans-les-landes-la-meteo-capricieuse-perturbe-le-remorquage-du-navire_8294096.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T22:28:43+01:00",
+      "resume": "Un cargo de 169 mètres transportant une centaine de tonnes de gazole s'est échoué sur la plage du Cap de l'Homy, dans les Landes. En raison des marées, le navire s'est légèrement déplacé de quelques mètres samedi, deux jours après son blocage. Les mauvaises conditions météorologiques compliquent fortement les opérations de remorquage prévues.",
+      "contexte": "Les accidents maritimes côtiers font peser un risque immédiat de pollution en raison du carburant présent dans les cuves des navires. Les autorités maritimes doivent coordonner le pompage des hydrocarbures et le déséchouement tout en composant avec la houle et les courants. Le succès d'une telle opération dépend largement de créneaux météo favorables qui permettent d'éviter la rupture de la coque.",
+      "image": "https://www.franceinfo.fr/pictures/O1-A7TfKMqrRAmGWyOkFP3cuePk/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/21/6b01ede1783cb750413105.jpg"
+    },
+    {
+      "titre": "Alexander Zverev rejoint sans surprise Carlos Alcaraz en finale du Masters de Turin",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-lache-un-set-mais-se-qualifie-pour-la-finale-du-masters-de-turin-apres-un-gros-combat-face-a-ben-shelton_8293823.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T22:12:46+01:00",
+      "resume": "Alexander Zverev s'est qualifié pour la finale du Masters de Turin en éliminant Daniil Medvedev en deux sets. Le joueur allemand et numéro un mondial y retrouvera l'Espagnol Carlos Alcaraz. Ce dernier s'était qualifié plus tôt en renversant son match face à l'Américain Ben Shelton après la perte du premier set.",
+      "contexte": "Le Masters de fin de saison réunit les huit meilleurs joueurs de l'année et constitue l'un des titres les plus prestigieux du circuit professionnel après les tournois du Grand Chelem. Cette finale met aux prises deux des figures majeures de l'élite du tennis masculin mondial. Le résultat du match aura un impact important sur la hiérarchie et les points au classement pour clôturer la saison.",
+      "image": "https://www.franceinfo.fr/pictures/oYIy0QKYm2f5eDEba15e35D1hBU/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/21/6b01b5974c187765635604.jpg"
+    },
+    {
+      "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
+      "source": "Le Monde",
+      "date": "2026-11-21T22:00:02+01:00",
+      "resume": "Le préfet Hugues Moutouh a demandé sa mise en retrait à la suite de soupçons le visant dans une affaire de fuites de documents confidentiels vers le Rassemblement national. L'enquête a été lancée après la découverte d'un courriel d'une fonctionnaire de Beauvau chez Frédéric Chatillon, un proche de Marine Le Pen. Les investigations tentent d'éclaircir l'origine et l'ampleur de ces transmissions d'informations sensibles.",
+      "contexte": "Le ministère de l'Intérieur est dépositaire de données particulièrement protégées relatives à la sécurité et au renseignement d'État. La transmission non autorisée de documents administratifs à des acteurs politiques représente un manquement grave aux obligations de réserve et de neutralité des fonctionnaires. Cette procédure judiciaire met en lumière les soupçons de collusion ou de relais d'influence au sein des hautes sphères de l'appareil sécuritaire.",
+      "image": "https://img.lemde.fr/2026/11/19/608/0/4500/2250/644/322/60/0/57cc642_ftp-1-7hc6fbncp65v-afp-d82e9wf.jpg"
+    },
+    {
+      "titre": "Israël : Gadi Eisenkot invite le parti de Benjamin Netanyahu à des négociations de coalition",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261121-isra%C3%ABl-gadi-eisenkot-invite-le-parti-de-benjamin-netanyahu-%C3%A0-des-n%C3%A9gociations-de-coalition",
+      "source": "France 24",
+      "date": "2026-11-21T21:29:02+01:00",
+      "resume": "En Israël, le centriste Gadi Eisenkot a officiellement convié le parti de Benyamin Netanyahou à des pourparlers de coalition. Chargé de former le futur gouvernement, il cherche à rassembler une majorité pour stabiliser le pouvoir exécutif. L'annonce de ces négociations a été officialisée par la formation politique de Gadi Eisenkot.",
+      "contexte": "La vie politique israélienne est marquée depuis plusieurs années par une forte instabilité et des difficultés récurrentes à bâtir des majorités durables à la Knesset. Le système électoral proportionnel oblige les dirigeants à trouver des compromis complexes entre partis aux idéologies souvent opposées. L'intégration ou non du parti de Benyamin Netanyahou est un élément décisif pour l'orientation et la viabilité de toute future équipe gouvernementale.",
+      "image": "https://s.france24.com/media/display/70936d94-e5e9-11f1-943b-13439ca2fe89/w:1024/p:16x9/000-D6U96RP.jpg"
     },
     {
       "titre": "L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale",
       "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-11-21T20:59:23+01:00",
-      "resume": "L'ancien président brésilien Jair Bolsonaro a été placé en soins intensifs en raison d'une occlusion intestinale. Il souffre de séquelles durables d'un coup de couteau reçu au ventre pendant la campagne présidentielle de 2018, qui l'avaient déjà conduit à être opéré à plusieurs reprises.",
-      "contexte": "Les problèmes de santé de l'ancien dirigeant brésilien font régulièrement l'objet d'une attention médiatique depuis l'agression qu'il a subie en 2018. Ces complications médicales récurrentes nécessitent un suivi hospitalier étroit et des interventions chirurgicales successives.",
+      "resume": "L'ancien président brésilien Jair Bolsonaro a été admis en soins intensifs pour une occlusion intestinale. Son état de santé reste lié aux séquelles de l'agression à l'arme blanche subie à l'abdomen lors de sa campagne électorale en 2018. L'ex-chef d'État a déjà dû subir de multiples interventions chirurgicales par le passé pour ces mêmes complications.",
+      "contexte": "Depuis l'attentat de 2018, les hospitalisations d'urgence de Jair Bolsonaro sont récurrentes et affectent régulièrement son calendrier politique. Malgré ses démêlés judiciaires et son inéligibilité actuelle, l'ancien dirigeant demeure la figure centrale de l'opposition conservatrice au Brésil. L'évolution de sa condition physique influence directement sa capacité à peser sur la vie publique de son pays.",
       "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg"
-    },
-    {
-      "titre": "Comment les malfaiteurs s'attaquent-ils aux distributeurs de billets ?",
-      "lien": "https://www.franceinfo.fr/faits-divers/comment-les-malfaiteurs-s-attaquent-ils-aux-distributeurs-de-billets_8294111.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T20:40:26+01:00",
-      "resume": "Dans la nuit de jeudi à vendredi, deux distributeurs de billets ont été ciblés à une heure d'intervalle dans la Drôme et l'Ardèche. Selon les enquêteurs, le mode opératoire utilisé porte la marque du grand banditisme.",
-      "contexte": "Les attaques de distributeurs automatiques de billets par des méthodes explosives ou par arrachage nécessitent une organisation logistique souvent associée à des équipes criminelles aguerries. Les forces de l'ordre luttent régulièrement contre ce type de criminalité itinérante qui exploite la rapidité de déplacement entre différents départements.",
-      "image": "https://www.franceinfo.fr/pictures/8Qfai_Am0fe6EZTa8bXFRrerNys/0x125:1214x808/432x243/filters:format(jpg)/2026/11/21/6b01f3076af6d849613255.png"
-    },
-    {
-      "titre": "Nouvel exploit des Français Théo Arribagé et Albano Olivetti qualifiés pour la finale du Masters de Turin",
-      "lien": "https://www.franceinfo.fr/sports/tennis/masters/nouvel-exploit-des-francais-theo-arribage-et-albano-olivetti-qualifies-pour-la-finale-du-masters-de-turin_8294081.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T20:38:58+01:00",
-      "resume": "Le duo français composé de Théo Arribagé et Albano Olivetti s'est qualifié pour la finale du Masters de Turin en s'imposant samedi face au tandem allemand Kevin Krawietz et Tim Puetz en demi-finales.",
-      "contexte": "Le Masters de Turin rassemble chaque fin d'année les meilleures paires de tennis de la saison, ce qui confère à cette performance un statut d'exploit majeur pour les joueurs français sur le circuit international de double.",
-      "image": "https://www.franceinfo.fr/pictures/dxZNteTeZ9gTlp5A_1jYpXa0VBQ/0x0:4096x2304/432x243/filters:format(jpg)/2026/11/21/6b01eacf5ec52945822229.jpg"
-    },
-    {
-      "titre": "Cargo échoué dans les Landes : la météo capricieuse perturbe le remorquage du navire",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cargo-echoue-dans-les-landes-la-meteo-capricieuse-perturbe-le-remorquage-du-navire_8294096.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T20:30:47+01:00",
-      "resume": "Le cargo de 169 mètres échoué sur la plage landaise du Cap de l'Homy s'est déplacé de quelques mètres samedi 21 novembre en raison de la marée. Le navire, qui contient une centaine de tonnes de gazole, fait face à des conditions météorologiques menaçant de compliquer les opérations de remorquage.",
-      "contexte": "L'échouage de navires transportant du carburant représente un risque environnemental majeur, mobilisant rapidement les autorités maritimes et locales pour éviter toute pollution. Les opérations de désensablement et de remorquage dépendent étroitement de la météo et des coefficients de marée.",
-      "image": "https://www.franceinfo.fr/pictures/O1-A7TfKMqrRAmGWyOkFP3cuePk/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/21/6b01ede1783cb750413105.jpg"
-    },
-    {
-      "titre": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T20:23:01+01:00",
-      "resume": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, et 150 000 selon la CGT. Cette journée s'inscrit dans le cadre d'un appel européen de syndicats et d'associations à des actions coordonnées sur trois jours, du vendredi au dimanche.",
-      "contexte": "Les écarts traditionnels entre les chiffres de la police et ceux des syndicats reflètent des méthodes de comptage différentes lors des mouvements sociaux. Ces mobilisations coordonnées au niveau européen visent à peser sur les politiques publiques, notamment en matière de logement ou de pouvoir d'achat.",
-      "image": "https://www.franceinfo.fr/pictures/Dp1DAL_uqlCC9lfdn-PuBJnEFEY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01cbc538f07508938814.jpg"
-    },
-    {
-      "titre": "\"Je serai le candidat de la liberté de pensée, de parler, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
-      "lien": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T19:59:46+01:00",
-      "resume": "Eric Zemmour s'est exprimé devant ses partisans au Zénith de Toulon lors de son premier meeting de campagne présidentielle, déclarant vouloir être le candidat de la liberté de pensée et de parole.",
-      "contexte": "Les meetings de lancement de campagne constituent des temps forts pour les candidats afin de mobiliser leur électorat, d'exposer leurs thèmes de prédilection et de marquer le début officiel de leur course vers l'élection suprême.",
-      "image": "https://www.franceinfo.fr/pictures/xkCNRiXIB5HloKAutd6eM-Pgw1Y/0x95:1024x671/432x243/filters:format(jpg)/2026/11/21/6b01e4d0a7978436837903.jpg"
-    },
-    {
-      "titre": "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN, demande à être relevé de ses fonctions",
-      "lien": "https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T19:40:48+01:00",
-      "resume": "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au Rassemblement national, a demandé à être relevé de ses fonctions. Il a déclaré dans un communiqué refuser que l'État et le corps préfectoral deviennent les cibles de telles entreprises de déstabilisation.",
-      "contexte": "Le devoir de réserve et la stricte neutralité politique sont des obligations fondamentales pour les hauts fonctionnaires et le corps préfectoral en France. Des soupçons de compromission avec des partis politiques entraînent généralement des enquêtes administratives ou judiciaires et un retrait immédiat des fonctions concernées.",
-      "image": "https://www.franceinfo.fr/pictures/JElvnJ6jsG1uqxCqDs2I-pCwA3Y/0x55:1024x631/432x243/filters:format(jpg)/2026/11/21/6b01dcd626834270787108.jpg"
-    },
-    {
-      "titre": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien",
-      "lien": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T19:36:51+01:00",
-      "resume": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien après que l'appareil a pénétré jusqu'à 4,1 kilomètres à l'intérieur du territoire finlandais. Le ministère de la Défense finlandais a précisé les détails de cette incursions territoriale.",
-      "contexte": "Les violations d'espace aérien par des appareils russes près des frontières des pays nordiques ou baltes créent régulièrement des tensions diplomatiques et sécuritaires accrues. Depuis l'adhésion de la Finlande à l'OTAN, la surveillance de la frontière avec la Russie a été considérablement renforcée.",
-      "image": "https://www.franceinfo.fr/pictures/dzl70O5wmble6f9aN4HYt3m3SWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01ac8904cf5326131943.jpg"
-    },
-    {
-      "titre": "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-en-marge-de-la-manifestation-parisienne-du-31-octobre_8293754.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T19:34:53+01:00",
-      "resume": "Une enquête a été ouverte contre des policiers pour des faits de violences et d'agression sexuelle survenus en marge de la manifestation parisienne du 31 octobre. Les deux manifestants impliqués sont par ailleurs accusés d'avoir frappé un policierchacun, ce qu'ils contestent.",
-      "contexte": "Les enquêtes visant des membres des forces de l'ordre sont confiées à des services spécialisés afin de garantir l'impartialité de la justice en cas d'accusation de violences ou d'abus lors d'opérations de maintien de l'ordre. Les procédures contradictoires sont fréquentes dans ce type de dossier où manifestants et policiers s'accusent mutuellement de violences.",
-      "image": "https://www.franceinfo.fr/pictures/8QhRM43ic9EQoSLT5WLlhvvecCc/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01a3b255b6d716123531.jpg"
     }
   ],
   "culture": [],
   "quiz_jour": [
     {
-      "id": "bd008e58ca",
+      "id": "315d9bcde7",
       "date": "2026-11-21",
       "type": "actu",
-      "question": "Quel peuple autochtone d'Amazonie a vu une quinzaine de ses membres sortir de leur isolement pour la première fois en 50 ans ?",
+      "question": "Quelle sélection le XV de France doit-il affronter en finale du Championnat des nations à Twickenham ?",
       "choix": [
-        "Le peuple Awá",
-        "Le peuple Yanomami",
-        "Le peuple Kayapo",
-        "Le peuple Guaraní"
+        "L'Australie",
+        "La Nouvelle-Zélande",
+        "L'Angleterre",
+        "L'Afrique du Sud"
+      ],
+      "reponse": 3,
+      "explication": "Après avoir largement dominé l'Argentine, les Bleus retrouveront l'Afrique du Sud en finale à Twickenham.",
+      "lien": "https://www.franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-rejoint-l-afrique-du-sud-en-finale-du-championnat-des-nations-apres-sa-large-victoire-face-a-l-argentine_8294108.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/oi_ukkoHawTwuTItw_4J_-9fXsg/0x178:3437x2112/432x243/filters:format(jpg)/2026/11/21/6b02094fef102510180158.jpg"
+    },
+    {
+      "id": "216ff8741f",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel est le titre du documentaire de la BBC dans lequel Kate Middleton témoignera de son combat contre la maladie ?",
+      "choix": [
+        "Guérir",
+        "Espoir",
+        "Renaître",
+        "Le Combat"
       ],
       "reponse": 0,
-      "explication": "Une quinzaine de membres du peuple Awá sont sortis à la lisière de la forêt amazonienne pour la première fois depuis 50 ans.",
+      "explication": "Le palais de Kensington a annoncé la diffusion d'un documentaire intitulé « Guérir » dans lequel la princesse racontera son épreuve face au cancer.",
+      "lien": "https://www.franceinfo.fr/monde/royaume-uni/kate-middleton/le-cancer-vous-change-kate-middleton-racontera-son-combat-contre-la-maladie-dans-un-documentaire-pour-la-bbc_8294162.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/nUVxn2CfntOzN-Vh3cG-xjgmC9c/0x48:1094x663/432x243/filters:format(jpg)/2026/11/21/6b0205d85c866079675173.png"
+    },
+    {
+      "id": "4a86298879",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Au Brésil, des membres de quel peuple autochtone ont fait une rare apparition hors de leur isolement après 50 ans ?",
+      "choix": [
+        "Les Awá",
+        "Les Kayapos",
+        "Les Guaranis",
+        "Les Yanomami"
+      ],
+      "reponse": 0,
+      "explication": "Une quinzaine de membres du peuple Awá sont sortis à la lisière de la forêt en Amazonie brésilienne, marquant leur première apparition depuis cinquante ans.",
       "lien": "https://www.franceinfo.fr/monde/bresil/en-les-privant-de-leur-territoire-on-les-tue-au-bresil-un-peuple-indigene-sort-de-son-isolement_8294120.html#xtor=RSS-3-%5Bmonde%5D",
       "image": "https://www.franceinfo.fr/pictures/lJuaZELMO5RFJjHyXbKqelDynhw/0x97:764x526/432x243/filters:format(jpg)/2026/11/21/6b01f6583a141524149632.png"
+    },
+    {
+      "id": "903194efb5",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel joueur affrontera l'Allemand Alexander Zverev en finale du Masters de Turin ?",
+      "choix": [
+        "Ben Shelton",
+        "Jannik Sinner",
+        "Daniil Medvedev",
+        "Carlos Alcaraz"
+      ],
+      "reponse": 3,
+      "explication": "Carlos Alcaraz s'est qualifié après avoir renversé Ben Shelton et disputera le titre face à Alexander Zverev.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-lache-un-set-mais-se-qualifie-pour-la-finale-du-masters-de-turin-apres-un-gros-combat-face-a-ben-shelton_8293823.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/oYIy0QKYm2f5eDEba15e35D1hBU/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/21/6b01b5974c187765635604.jpg"
     },
     {
       "id": "86863d3e56",
@@ -138,63 +186,15 @@
       "type": "actu",
       "question": "Pour quel problème de santé l'ancien président brésilien Jair Bolsonaro a-t-il été admis en soins intensifs ?",
       "choix": [
-        "Une insuffisance cardiaque",
-        "Un accident vasculaire cérébral",
         "Une occlusion intestinale",
-        "Une pneumonie sévère"
-      ],
-      "reponse": 2,
-      "explication": "Jair Bolsonaro a été hospitalisé en soins intensifs en raison d'une occlusion intestinale liée aux séquelles de son agression au couteau en 2018.",
-      "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg"
-    },
-    {
-      "id": "c4532ae854",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Quelle paire française s'est qualifiée pour la finale du Masters de Turin en double ?",
-      "choix": [
-        "Ugo Humbert et Arthur Fils",
-        "Sadio Doumbia et Fabien Reboul",
-        "Nicolas Mahut et Pierre-Hugues Herbert",
-        "Théo Arribagé et Albano Olivetti"
-      ],
-      "reponse": 3,
-      "explication": "Le tandem français Théo Arribagé et Albano Olivetti a validé son billet pour la finale du Masters de Turin en battant une paire allemande en demi-finales.",
-      "lien": "https://www.franceinfo.fr/sports/tennis/masters/nouvel-exploit-des-francais-theo-arribage-et-albano-olivetti-qualifies-pour-la-finale-du-masters-de-turin_8294081.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/dxZNteTeZ9gTlp5A_1jYpXa0VBQ/0x0:4096x2304/432x243/filters:format(jpg)/2026/11/21/6b01eacf5ec52945822229.jpg"
-    },
-    {
-      "id": "cc3ce92a97",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Quel préfet a demandé à être relevé de ses fonctions après avoir été soupçonné de transmettre des informations confidentielles au Rassemblement national ?",
-      "choix": [
-        "Hugues Moutouh",
-        "Didier Lallement",
-        "Laurent Nuñez",
-        "Patrice Latron"
+        "Une pneumonie sévère",
+        "Un traumatisme crânien",
+        "Un problème cardiaque"
       ],
       "reponse": 0,
-      "explication": "Le préfet Hugues Moutouh a demandé à être relevé de ses fonctions après la révélation de soupçons de fuites confidentielles au profit du RN.",
-      "lien": "https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/JElvnJ6jsG1uqxCqDs2I-pCwA3Y/0x55:1024x631/432x243/filters:format(jpg)/2026/11/21/6b01dcd626834270787108.jpg"
-    },
-    {
-      "id": "abe3deb8f6",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Quel pays a accusé un hélicoptère militaire russe d'avoir violé son espace aérien de plus de 4 kilomètres ?",
-      "choix": [
-        "La Norvège",
-        "La Finlande",
-        "La Suède",
-        "L'Estonie"
-      ],
-      "reponse": 1,
-      "explication": "Le ministère de la Défense finlandais a indiqué soupçonner un hélicoptère russe d'avoir pénétré jusqu'à 4,1 kilomètres à l'intérieur du territoire finlandais.",
-      "lien": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/dzl70O5wmble6f9aN4HYt3m3SWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01ac8904cf5326131943.jpg"
+      "explication": "Jair Bolsonaro a été hospitalisé pour une occlusion intestinale, conséquence de l'agression à l'arme blanche dont il avait été victime en 2018.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg"
     }
   ]
 }
