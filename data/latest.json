@@ -1,182 +1,200 @@
 {
   "date": "2026-11-21",
   "mode": "evening",
-  "updated": "2026-11-21T15:07:10.637634+01:00",
+  "updated": "2026-11-21T21:44:50.278806+01:00",
   "deja_presente": [],
   "depuis_hier": [],
   "aujourdhui": [
     {
-      "titre": "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
-      "lien": "https://www.franceinfo.fr/culture/la-maison-de-coup-de-foudre-a-notting-hill-a-vendre-pour-9-millions-d-euros_8292929.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-21T15:00:01+01:00",
-      "resume": "La célèbre maison présentée dans le film \"Coup de foudre à Notting Hill\" est actuellement mise en vente pour la somme de 9 millions d'euros. Les acteurs principaux du long-métrage, Julia Roberts et Hugh Grant, ne sont toutefois pas inclus dans cette transaction immobilière.",
-      "contexte": "Ce type de bien immobilier bénéficie d'une forte cote liée à sa notoriété cinématographique, ce qui fait souvent flamber les prix sur le marché londonien. L'objectif est généralement d'attirer des acheteurs fortunés ou des investisseurs cherchant un bien à forte valeur patrimoniale et touristique.",
-      "image": "https://www.franceinfo.fr/pictures/S_mdRlaHhS7P3Fi8Hxlrg8GIMhw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b00a5e312f18879738718.jpg"
-    },
-    {
-      "titre": "Mobilisation du 21 novembre : 44 rassemblements ont été recensés par le ministère de l'Intérieur sur le territoire national",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-11-21T14:55:59+01:00",
-      "resume": "Un samedi de manifestations s'est déroulé en France le 21 novembre, avec 44 rassemblements recensés par le ministère de l'Intérieur sur le territoire national. À Paris, le cortège s'est notamment élancé de la place de la République au rythme de fanfares, une manière pour les participants d'exprimer leur colère par la danse et la musique. Ces actions s'inscrivent dans le cadre d'un appel européen émanant de syndicats et d'associations pour la défense du droit au logement, coordonné sur trois jours de vendredi à dimanche.",
-      "contexte": "Les mobilisations pour le droit au logement se multiplient dans les grandes métropoles européennes face à la crise de l'accès à l'habitat et à la hausse des coûts de la vie. L'utilisation de fanfares et d'expressions culturelles dans les cortèges est une pratique militante courante pour capter l'attention médiatique et renouveler les formes de contestation pacifique.",
-      "image": "https://www.franceinfo.fr/pictures/jDDaRlZCIVatOKyJ2NkdSSQaNJY/0x39:1024x615/432x243/filters:format(jpg)/2026/11/21/6b014735f0249092308717.jpg"
-    },
-    {
-      "titre": "\"My Rock Stars\" : le photographe Hassan Hajjaj immortalise ses stars de la musique",
-      "lien": "https://www.franceinfo.fr/culture/arts-expos/en-images-my-rock-stars-le-photographehassan-hajjaj-immortalise-ses-stars-de-la-musique_8289029.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T14:21:26+01:00",
-      "resume": "Le Musée de la musique à Paris accueille une exposition consacrée au photographe Hassan Hajjaj, intitulée \"My Rock Stars\". Cet événement met en lumière l'histoire familiale de l'artiste, son attachement à la musique gnawa ainsi que ses portraits de musiciens, et se tient jusqu'en avril 2027.",
-      "contexte": "Hassan Hajjaj, souvent surnommé le \"Andy Warhol de Marrakech\", mélange les esthétiques traditionnelles marocaines et la culture pop occidentale dans ses œuvres. Ce type d'exposition temporaire permet aux institutions culturelles de valoriser des regards contemporains croisés sur les musiques du monde et les arts visuels.",
-      "image": "https://www.franceinfo.fr/pictures/zpiD-_laNufBERC-54tunp3ZNwU/0x0:4724x2657/432x243/filters:format(jpg)/2026/11/12/6af511495e9d2811547295.jpg"
-    },
-    {
-      "titre": "\"Nous nous sentons ici chez nous\" : une brigade allemande de 5 000 soldats s'apprête à mener des exercices pendant un mois en Lituanie",
-      "lien": "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T14:20:20+01:00",
-      "resume": "Une brigade allemande composée de 5 000 soldats s'apprête à mener des exercices d'une durée d'un mois en Lituanie. Ces troupes en renfort participent aux entraînements aux côtés du bataillon multinational de l'Otan, qui est stationné dans le pays balte depuis 2017.",
-      "contexte": "Face aux tensions géopolitiques accrues en Europe de l'Est et à la menace russe, l'Otan renforce régulièrement sa présence sur son flanc oriental pour rassurer ses alliés baltes. Pour l'Allemagne, l'envoi permanent et temporaire de cette brigade marque un tournant historique dans sa politique de défense extérieure.",
-      "image": "https://www.franceinfo.fr/pictures/j6qBGrpSwwNujHD5YvWEvszKxrs/0x234:4500x2766/432x243/filters:format(jpg)/2026/11/21/6b018c756a75c012986106.jpg"
-    },
-    {
-      "titre": "Une \"attaque de drone\" contre un cargo russe détectée dans le golfe de Finlande",
-      "lien": "https://www.france24.com/fr/europe/20261121-une-attaque-de-drone-contre-un-cargo-russe-d%C3%A9tect%C3%A9e-dans-le-golfe-de-finlande",
+      "titre": "Israël : Gadi Eisenkot invite le parti de Benjamin Netanyahu à des négociations de coalition",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261121-isra%C3%ABl-gadi-eisenkot-invite-le-parti-de-benjamin-netanyahu-%C3%A0-des-n%C3%A9gociations-de-coalition",
       "source": "France 24",
-      "date": "2026-11-21T14:13:08+01:00",
-      "resume": "Une attaque de drone visant un cargo russe a été détectée samedi dans le golfe de Finlande par l'armée finlandaise. Le ministère de la Défense de ce pays nordique a immédiatement tenu ses alliés au sein de l'Otan informés de cet incident.",
-      "contexte": "La sécurité dans la région de la mer Baltique et du golfe de Finlande est devenue hautement stratégique depuis l'invasion de l'Ukraine par la Russie, entraînant une surveillance accrue des infrastructures maritimes. Ce type d'incident soulève des inquiétudes quant à l'extension des risques de sabotage ou de conflits technologiques aux frontières des pays de l'Otan.",
-      "image": "https://s.france24.com/media/display/d14e7d92-e5a1-11f1-ada4-e56ab3dc0809/w:1024/p:16x9/Cargo-Finland.jpg"
+      "date": "2026-11-21T21:29:02+01:00",
+      "resume": "Le centriste Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a invité le parti du premier ministre sortant Benyamin Netanyahu à des pourparlers en vue d'une éventuelle coalition. Cette annonce a été officialisée samedi par son parti.",
+      "contexte": "En Israël, la formation d'un gouvernement nécessite traditionnellement la constitution d'une coalition au Parlement en raison du système proportionnel fragmenté. Ces négociations interviennent dans un contexte politique tendu où les différentes formations cherchent des alliances pour atteindre la majorité requise.",
+      "image": "https://s.france24.com/media/display/70936d94-e5e9-11f1-943b-13439ca2fe89/w:1024/p:16x9/000-D6U96RP.jpg"
     },
     {
-      "titre": "Le remorquage du cargo échoué dans les Landes pourrait prendre plusieurs jours, selon la préfecture",
-      "lien": "https://www.franceinfo.fr/faits-divers/le-remorquage-du-cargo-echoue-dans-les-landes-pourrait-prendre-plusieurs-jours-selon-la-prefecture_8293727.html#xtor=RSS-3-[lestitres]",
+      "titre": "Après l'abandon de François Ruffin, le candidat communiste à l'élection présidentielle Fabien Roussel pointe des \"convergences nombreuses\" avec lui",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-21T14:06:49+01:00",
-      "resume": "Le remorquage d'un cargo qui s'est échoué dans les Landes pourrait prendre plusieurs jours, selon les informations de la préfecture. Le bateau remorqueur \"Abeille Bretagne\" est attendu sur zone samedi, mais ne pourra pas s'approcher à moins de 900 mètres en raison de la faible profondeur des fonds marins.",
-      "contexte": "Les opérations de sauvetage de navires en zone côtière délicate exigent des précautions extrêmes pour éviter toute pollution maritime ou tout naufrage complet. Les conditions météorologiques et bathymétriques locales dictent généralement le rythme de ces interventions d'urgence.",
-      "image": "https://www.franceinfo.fr/pictures/Hpc1O_J9oHVvzIBMd5OmvMVXP1A/0x19:1024x595/432x243/filters:format(jpg)/2026/11/21/6b01906c3def9646899190.jpg"
+      "date": "2026-11-21T21:16:18+01:00",
+      "resume": "Après l'abandon de François Ruffin, le candidat communiste à l'élection présidentielle Fabien Roussel a pointé des convergences nombreuses avec lui. De son côté, le socialiste Pierre Jouvet a souligné que les batailles menées par le député de la Somme étaient au cœur du combat du candidat social-démocrate Raphaël Glucksmann.",
+      "contexte": "Le paysage politique à gauche de l'échiquier politique français fait face à des recompositions constantes et à des stratégies d'alliance ou de rapprochement entre formations. Les déclarations des différents représentants illustrent la volonté de capter l'électorat et les thématiques portées par des figures populaires de la gauche sociale et républicaine.",
+      "image": "https://www.franceinfo.fr/pictures/x-Fv6DbzAuHg_qlFm_dGL_Y5H5c/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01fba08d631867954230.jpg"
     },
     {
-      "titre": "Florian Sitbon, adjoint à la culture au maire de Paris, veut « mettre l’artiste au cœur de la ville »",
-      "lien": "https://www.lemonde.fr/culture/article/2026/11/21/florian-sitbon-adjoint-a-la-culture-au-maire-de-paris-veut-mettre-l-artiste-au-c-ur-de-la-ville_6814019_3246.html",
-      "source": "Le Monde",
-      "date": "2026-11-21T14:00:19+01:00",
-      "resume": "Florian Sitbon, adjoint à la culture au maire de Paris, a exprimé sa volonté de placer l'artiste au cœur de la ville. Ancien metteur en scène nommé en mars auprès d'Emmanuel Grégoire, il prévoit la mise en place d'un guichet d'aide destiné aux artistes et aux programmateurs dont la liberté de création serait menacée.",
-      "contexte": "Les municipalités cherchent fréquemment à soutenir la vitalité artistique locale face à la gentrification urbaine et à la hausse des loyers qui pénalisent les créateurs. L'objectif est généralement de préserver la diversité culturelle et d'offrir un soutien administratif direct aux professionnels du spectacle.",
-      "image": "https://img.lemde.fr/2026/11/17/390/0/5935/2967/644/322/60/0/6f797fb_upload-1-rv3qgjhx6mxx-fs-portraithd.jpg"
-    },
-    {
-      "titre": "Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T14:00:01+01:00",
-      "resume": "Des frappes russes ont touché la ville de Kryvyï Rih, ville natale du président ukrainien Volodymyr Zelensky, faisant deux morts et 58 blessés. Parmi les victimes blessées lors de cette attaque survenue samedi figurent six enfants, d'après les précisions communiquées par le chef de l'État sur Telegram.",
-      "contexte": "Les forces russes ciblent régulièrement des zones urbaines en Ukraine loin du front direct, touchant des infrastructures civiles pour saper le moral de la population. Kryvyï Rih, importante cité industrielle du centre-sud du pays, a été frappée à plusieurs reprises depuis le début du conflit.",
-      "image": "https://www.franceinfo.fr/pictures/CsrPPm9InM4527HOt9OpPrOPrlw/0x26:1024x602/432x243/filters:format(jpg)/2026/11/21/6b0185f534763222501770.jpg"
-    },
-    {
-      "titre": "Le Mexique arrête Fausto Isidro Meza, alias « Chapo Isidro », un puissant chef de cartel recherché par le FBI",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-21T13:49:49+01:00",
-      "resume": "Le narcotrafiquant mexicain Fausto Isidro Meza, alias « Chapo Isidro », puissant chef de cartel recherché par le FBI, a été arrêté vendredi au Mexique. Son interpellations dans l'État de Sinaloa, où il opérait, a provoqué de violents affrontements armés, alors que les États-Unis proposaient une récompense de 5 millions de dollars pour sa capture.",
-      "contexte": "L'arrestation de barons de la drogue majeurs déclenche souvent des vagues de violences urbaines et des représailles armées de la part des cartels pour s'emparer du pouvoir vacant ou défier les autorités. Cette coopération entre le Mexique et les agences fédérales américaines répond à une pression constante de Washington contre le trafic de fentanyl.",
-      "image": "https://img.lemde.fr/2026/11/18/564/0/3744/1872/644/322/60/0/1bd95a5_ftp-1-4xn6w6owxzni-afp-d7wq879.jpg"
-    },
-    {
-      "titre": "Un condamné à mort a été exécuté au Texas, après plus d'une heure de tentatives infructueuses",
-      "lien": "https://www.franceinfo.fr/monde/usa/un-condamne-a-mort-a-ete-execute-au-texas-apres-plus-d-une-heure-de-tentatives-infructueuses_8293013.html#xtor=RSS-3-%5Bmonde%5D",
+      "titre": "\"En les privant de leur territoire, on les tue\" : au Brésil, un peuple indigène sort de son isolement",
+      "lien": "https://www.franceinfo.fr/monde/bresil/en-les-privant-de-leur-territoire-on-les-tue-au-bresil-un-peuple-indigene-sort-de-son-isolement_8294120.html#xtor=RSS-3-%5Bmonde%5D",
       "source": "franceinfo Monde",
-      "date": "2026-11-21T13:31:14+01:00",
-      "resume": "Un condamné à mort âgé de 70 ans, Reinaldo Dennes, a été exécuté jeudi soir au Texas au moyen d'une injection de pentobarbital. Cette exécution fait suite à plus d'une heure de tentatives infructueuses pour administrer la substance, rappelant les difficultés similaires rencontrées le 30 septembre dans le Tennessee lors de la tentative d'exécution de Christa Pike.",
-      "contexte": "Les difficultés d'accès aux substances létales traditionnelles, en raison du boycott des laboratoires pharmaceutiques, poussent certains États américains à utiliser des protocoles alternatifs ou à procéder à des injections complexes. Ces défaillances techniques relancent régulièrement le débat aux États-Unis sur la cruauté et la constitutionnalité de la peine capitale.",
-      "image": "https://www.franceinfo.fr/pictures/9ijxerc5U4oYIzAb1rWiotBVgNk/0x5:1024x581/432x243/filters:format(jpg)/2026/11/20/6b00ca7356fbf384340997.jpg"
+      "date": "2026-11-21T21:01:31+01:00",
+      "resume": "Une quinzaine de membres du peuple Awá, un groupe autochtone d'Amazonie, sont sortis à la lisière de la forêt pour la première fois depuis 50 ans. Près de 200 peuples autochtones vivent encore totalement isolés sur la planète.",
+      "contexte": "L'isolement volontaire de ces populations est souvent menacé par la déforestation, l'orpaillage illégal et l'empiètement sur leurs territoires traditionnels. Leur sortie de la forêt témoigne généralement d'une pression accrue sur leurs ressources ou de contacts de plus en plus difficiles à éviter avec le monde extérieur.",
+      "image": "https://www.franceinfo.fr/pictures/lJuaZELMO5RFJjHyXbKqelDynhw/0x97:764x526/432x243/filters:format(jpg)/2026/11/21/6b01f6583a141524149632.png"
+    },
+    {
+      "titre": "L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale",
+      "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T20:59:23+01:00",
+      "resume": "L'ancien président brésilien Jair Bolsonaro a été placé en soins intensifs en raison d'une occlusion intestinale. Il souffre de séquelles durables d'un coup de couteau reçu au ventre pendant la campagne présidentielle de 2018, qui l'avaient déjà conduit à être opéré à plusieurs reprises.",
+      "contexte": "Les problèmes de santé de l'ancien dirigeant brésilien font régulièrement l'objet d'une attention médiatique depuis l'agression qu'il a subie en 2018. Ces complications médicales récurrentes nécessitent un suivi hospitalier étroit et des interventions chirurgicales successives.",
+      "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg"
+    },
+    {
+      "titre": "Comment les malfaiteurs s'attaquent-ils aux distributeurs de billets ?",
+      "lien": "https://www.franceinfo.fr/faits-divers/comment-les-malfaiteurs-s-attaquent-ils-aux-distributeurs-de-billets_8294111.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T20:40:26+01:00",
+      "resume": "Dans la nuit de jeudi à vendredi, deux distributeurs de billets ont été ciblés à une heure d'intervalle dans la Drôme et l'Ardèche. Selon les enquêteurs, le mode opératoire utilisé porte la marque du grand banditisme.",
+      "contexte": "Les attaques de distributeurs automatiques de billets par des méthodes explosives ou par arrachage nécessitent une organisation logistique souvent associée à des équipes criminelles aguerries. Les forces de l'ordre luttent régulièrement contre ce type de criminalité itinérante qui exploite la rapidité de déplacement entre différents départements.",
+      "image": "https://www.franceinfo.fr/pictures/8Qfai_Am0fe6EZTa8bXFRrerNys/0x125:1214x808/432x243/filters:format(jpg)/2026/11/21/6b01f3076af6d849613255.png"
+    },
+    {
+      "titre": "Nouvel exploit des Français Théo Arribagé et Albano Olivetti qualifiés pour la finale du Masters de Turin",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters/nouvel-exploit-des-francais-theo-arribage-et-albano-olivetti-qualifies-pour-la-finale-du-masters-de-turin_8294081.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T20:38:58+01:00",
+      "resume": "Le duo français composé de Théo Arribagé et Albano Olivetti s'est qualifié pour la finale du Masters de Turin en s'imposant samedi face au tandem allemand Kevin Krawietz et Tim Puetz en demi-finales.",
+      "contexte": "Le Masters de Turin rassemble chaque fin d'année les meilleures paires de tennis de la saison, ce qui confère à cette performance un statut d'exploit majeur pour les joueurs français sur le circuit international de double.",
+      "image": "https://www.franceinfo.fr/pictures/dxZNteTeZ9gTlp5A_1jYpXa0VBQ/0x0:4096x2304/432x243/filters:format(jpg)/2026/11/21/6b01eacf5ec52945822229.jpg"
+    },
+    {
+      "titre": "Cargo échoué dans les Landes : la météo capricieuse perturbe le remorquage du navire",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cargo-echoue-dans-les-landes-la-meteo-capricieuse-perturbe-le-remorquage-du-navire_8294096.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T20:30:47+01:00",
+      "resume": "Le cargo de 169 mètres échoué sur la plage landaise du Cap de l'Homy s'est déplacé de quelques mètres samedi 21 novembre en raison de la marée. Le navire, qui contient une centaine de tonnes de gazole, fait face à des conditions météorologiques menaçant de compliquer les opérations de remorquage.",
+      "contexte": "L'échouage de navires transportant du carburant représente un risque environnemental majeur, mobilisant rapidement les autorités maritimes et locales pour éviter toute pollution. Les opérations de désensablement et de remorquage dépendent étroitement de la météo et des coefficients de marée.",
+      "image": "https://www.franceinfo.fr/pictures/O1-A7TfKMqrRAmGWyOkFP3cuePk/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/21/6b01ede1783cb750413105.jpg"
+    },
+    {
+      "titre": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T20:23:01+01:00",
+      "resume": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, et 150 000 selon la CGT. Cette journée s'inscrit dans le cadre d'un appel européen de syndicats et d'associations à des actions coordonnées sur trois jours, du vendredi au dimanche.",
+      "contexte": "Les écarts traditionnels entre les chiffres de la police et ceux des syndicats reflètent des méthodes de comptage différentes lors des mouvements sociaux. Ces mobilisations coordonnées au niveau européen visent à peser sur les politiques publiques, notamment en matière de logement ou de pouvoir d'achat.",
+      "image": "https://www.franceinfo.fr/pictures/Dp1DAL_uqlCC9lfdn-PuBJnEFEY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01cbc538f07508938814.jpg"
+    },
+    {
+      "titre": "\"Je serai le candidat de la liberté de pensée, de parler, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
+      "lien": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T19:59:46+01:00",
+      "resume": "Eric Zemmour s'est exprimé devant ses partisans au Zénith de Toulon lors de son premier meeting de campagne présidentielle, déclarant vouloir être le candidat de la liberté de pensée et de parole.",
+      "contexte": "Les meetings de lancement de campagne constituent des temps forts pour les candidats afin de mobiliser leur électorat, d'exposer leurs thèmes de prédilection et de marquer le début officiel de leur course vers l'élection suprême.",
+      "image": "https://www.franceinfo.fr/pictures/xkCNRiXIB5HloKAutd6eM-Pgw1Y/0x95:1024x671/432x243/filters:format(jpg)/2026/11/21/6b01e4d0a7978436837903.jpg"
+    },
+    {
+      "titre": "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN, demande à être relevé de ses fonctions",
+      "lien": "https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T19:40:48+01:00",
+      "resume": "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au Rassemblement national, a demandé à être relevé de ses fonctions. Il a déclaré dans un communiqué refuser que l'État et le corps préfectoral deviennent les cibles de telles entreprises de déstabilisation.",
+      "contexte": "Le devoir de réserve et la stricte neutralité politique sont des obligations fondamentales pour les hauts fonctionnaires et le corps préfectoral en France. Des soupçons de compromission avec des partis politiques entraînent généralement des enquêtes administratives ou judiciaires et un retrait immédiat des fonctions concernées.",
+      "image": "https://www.franceinfo.fr/pictures/JElvnJ6jsG1uqxCqDs2I-pCwA3Y/0x55:1024x631/432x243/filters:format(jpg)/2026/11/21/6b01dcd626834270787108.jpg"
+    },
+    {
+      "titre": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien",
+      "lien": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T19:36:51+01:00",
+      "resume": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien après que l'appareil a pénétré jusqu'à 4,1 kilomètres à l'intérieur du territoire finlandais. Le ministère de la Défense finlandais a précisé les détails de cette incursions territoriale.",
+      "contexte": "Les violations d'espace aérien par des appareils russes près des frontières des pays nordiques ou baltes créent régulièrement des tensions diplomatiques et sécuritaires accrues. Depuis l'adhésion de la Finlande à l'OTAN, la surveillance de la frontière avec la Russie a été considérablement renforcée.",
+      "image": "https://www.franceinfo.fr/pictures/dzl70O5wmble6f9aN4HYt3m3SWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01ac8904cf5326131943.jpg"
+    },
+    {
+      "titre": "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-en-marge-de-la-manifestation-parisienne-du-31-octobre_8293754.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T19:34:53+01:00",
+      "resume": "Une enquête a été ouverte contre des policiers pour des faits de violences et d'agression sexuelle survenus en marge de la manifestation parisienne du 31 octobre. Les deux manifestants impliqués sont par ailleurs accusés d'avoir frappé un policierchacun, ce qu'ils contestent.",
+      "contexte": "Les enquêtes visant des membres des forces de l'ordre sont confiées à des services spécialisés afin de garantir l'impartialité de la justice en cas d'accusation de violences ou d'abus lors d'opérations de maintien de l'ordre. Les procédures contradictoires sont fréquentes dans ce type de dossier où manifestants et policiers s'accusent mutuellement de violences.",
+      "image": "https://www.franceinfo.fr/pictures/8QhRM43ic9EQoSLT5WLlhvvecCc/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01a3b255b6d716123531.jpg"
     }
   ],
   "culture": [],
   "quiz_jour": [
     {
-      "id": "ab9b674849",
+      "id": "bd008e58ca",
       "date": "2026-11-21",
       "type": "actu",
-      "question": "Quel est le prix de vente affiché pour la maison célèbre du film \"Coup de foudre à Notting Hill\" ?",
+      "question": "Quel peuple autochtone d'Amazonie a vu une quinzaine de ses membres sortir de leur isolement pour la première fois en 50 ans ?",
       "choix": [
-        "9 millions d'euros",
-        "7 millions d'euros",
-        "8 millions d'euros",
-        "10 millions d'euros"
+        "Le peuple Awá",
+        "Le peuple Yanomami",
+        "Le peuple Kayapo",
+        "Le peuple Guaraní"
       ],
       "reponse": 0,
-      "explication": "L'article précise que la maison est mise en vente pour la somme de 9 millions d'euros.",
-      "lien": "https://www.franceinfo.fr/culture/la-maison-de-coup-de-foudre-a-notting-hill-a-vendre-pour-9-millions-d-euros_8292929.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/S_mdRlaHhS7P3Fi8Hxlrg8GIMhw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b00a5e312f18879738718.jpg"
+      "explication": "Une quinzaine de membres du peuple Awá sont sortis à la lisière de la forêt amazonienne pour la première fois depuis 50 ans.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/en-les-privant-de-leur-territoire-on-les-tue-au-bresil-un-peuple-indigene-sort-de-son-isolement_8294120.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/lJuaZELMO5RFJjHyXbKqelDynhw/0x97:764x526/432x243/filters:format(jpg)/2026/11/21/6b01f6583a141524149632.png"
     },
     {
-      "id": "d872a418c5",
+      "id": "86863d3e56",
       "date": "2026-11-21",
       "type": "actu",
-      "question": "Jusqu'à quelle date l'exposition \"My Rock Stars\" de Hassan Hajjaj est-elle prévue au Musée de la musique ?",
+      "question": "Pour quel problème de santé l'ancien président brésilien Jair Bolsonaro a-t-il été admis en soins intensifs ?",
       "choix": [
-        "Janvier 2028",
-        "Avril 2027",
-        "Juin 2025",
-        "Décembre 2026"
-      ],
-      "reponse": 1,
-      "explication": "L'exposition est prévue au Musée de la musique jusqu'en avril 2027.",
-      "lien": "https://www.franceinfo.fr/culture/arts-expos/en-images-my-rock-stars-le-photographehassan-hajjaj-immortalise-ses-stars-de-la-musique_8289029.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/zpiD-_laNufBERC-54tunp3ZNwU/0x0:4724x2657/432x243/filters:format(jpg)/2026/11/12/6af511495e9d2811547295.jpg"
-    },
-    {
-      "id": "1d0a3175ad",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Combien de soldats allemands participent aux exercices militaires en Lituanie ?",
-      "choix": [
-        "1 000",
-        "5 000",
-        "3 000",
-        "7 000"
-      ],
-      "reponse": 1,
-      "explication": "Une brigade composée de 5 000 soldats allemands est mobilisée pour ces exercices.",
-      "lien": "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/j6qBGrpSwwNujHD5YvWEvszKxrs/0x234:4500x2766/432x243/filters:format(jpg)/2026/11/21/6b018c756a75c012986106.jpg"
-    },
-    {
-      "id": "19b0b1801c",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Dans quelle ville ukrainienne, ville natale de Volodymyr Zelensky, des frappes russes ont-elles fait des victimes ?",
-      "choix": [
-        "Odessa",
-        "Kryvyï Rih",
-        "Kharkiv",
-        "Kiev"
-      ],
-      "reponse": 1,
-      "explication": "Les frappes ont eu lieu à Kryvyï Rih, qui est la ville natale du président ukrainien.",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/CsrPPm9InM4527HOt9OpPrOPrlw/0x26:1024x602/432x243/filters:format(jpg)/2026/11/21/6b0185f534763222501770.jpg"
-    },
-    {
-      "id": "ab438272a8",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Quel était le montant de la récompense offerte par les États-Unis pour la capture de Fausto Isidro Meza ?",
-      "choix": [
-        "1 million de dollars",
-        "20 millions de dollars",
-        "5 millions de dollars",
-        "10 millions de dollars"
+        "Une insuffisance cardiaque",
+        "Un accident vasculaire cérébral",
+        "Une occlusion intestinale",
+        "Une pneumonie sévère"
       ],
       "reponse": 2,
-      "explication": "Les États-Unis proposaient une récompense de 5 millions de dollars pour la capture de ce chef de cartel.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
-      "image": "https://img.lemde.fr/2026/11/18/564/0/3744/1872/644/322/60/0/1bd95a5_ftp-1-4xn6w6owxzni-afp-d7wq879.jpg"
+      "explication": "Jair Bolsonaro a été hospitalisé en soins intensifs en raison d'une occlusion intestinale liée aux séquelles de son agression au couteau en 2018.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg"
+    },
+    {
+      "id": "c4532ae854",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quelle paire française s'est qualifiée pour la finale du Masters de Turin en double ?",
+      "choix": [
+        "Ugo Humbert et Arthur Fils",
+        "Sadio Doumbia et Fabien Reboul",
+        "Nicolas Mahut et Pierre-Hugues Herbert",
+        "Théo Arribagé et Albano Olivetti"
+      ],
+      "reponse": 3,
+      "explication": "Le tandem français Théo Arribagé et Albano Olivetti a validé son billet pour la finale du Masters de Turin en battant une paire allemande en demi-finales.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters/nouvel-exploit-des-francais-theo-arribage-et-albano-olivetti-qualifies-pour-la-finale-du-masters-de-turin_8294081.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/dxZNteTeZ9gTlp5A_1jYpXa0VBQ/0x0:4096x2304/432x243/filters:format(jpg)/2026/11/21/6b01eacf5ec52945822229.jpg"
+    },
+    {
+      "id": "cc3ce92a97",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel préfet a demandé à être relevé de ses fonctions après avoir été soupçonné de transmettre des informations confidentielles au Rassemblement national ?",
+      "choix": [
+        "Hugues Moutouh",
+        "Didier Lallement",
+        "Laurent Nuñez",
+        "Patrice Latron"
+      ],
+      "reponse": 0,
+      "explication": "Le préfet Hugues Moutouh a demandé à être relevé de ses fonctions après la révélation de soupçons de fuites confidentielles au profit du RN.",
+      "lien": "https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/JElvnJ6jsG1uqxCqDs2I-pCwA3Y/0x55:1024x631/432x243/filters:format(jpg)/2026/11/21/6b01dcd626834270787108.jpg"
+    },
+    {
+      "id": "abe3deb8f6",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel pays a accusé un hélicoptère militaire russe d'avoir violé son espace aérien de plus de 4 kilomètres ?",
+      "choix": [
+        "La Norvège",
+        "La Finlande",
+        "La Suède",
+        "L'Estonie"
+      ],
+      "reponse": 1,
+      "explication": "Le ministère de la Défense finlandais a indiqué soupçonner un hélicoptère russe d'avoir pénétré jusqu'à 4,1 kilomètres à l'intérieur du territoire finlandais.",
+      "lien": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/dzl70O5wmble6f9aN4HYt3m3SWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01ac8904cf5326131943.jpg"
     }
   ]
 }

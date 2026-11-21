@@ -7114,6 +7114,86 @@
       "explication": "Les États-Unis proposaient une récompense de 5 millions de dollars pour la capture de ce chef de cartel.",
       "lien": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
       "image": "https://img.lemde.fr/2026/11/18/564/0/3744/1872/644/322/60/0/1bd95a5_ftp-1-4xn6w6owxzni-afp-d7wq879.jpg"
+    },
+    {
+      "id": "bd008e58ca",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel peuple autochtone d'Amazonie a vu une quinzaine de ses membres sortir de leur isolement pour la première fois en 50 ans ?",
+      "choix": [
+        "Le peuple Awá",
+        "Le peuple Yanomami",
+        "Le peuple Kayapo",
+        "Le peuple Guaraní"
+      ],
+      "reponse": 0,
+      "explication": "Une quinzaine de membres du peuple Awá sont sortis à la lisière de la forêt amazonienne pour la première fois depuis 50 ans.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/en-les-privant-de-leur-territoire-on-les-tue-au-bresil-un-peuple-indigene-sort-de-son-isolement_8294120.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/lJuaZELMO5RFJjHyXbKqelDynhw/0x97:764x526/432x243/filters:format(jpg)/2026/11/21/6b01f6583a141524149632.png"
+    },
+    {
+      "id": "86863d3e56",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Pour quel problème de santé l'ancien président brésilien Jair Bolsonaro a-t-il été admis en soins intensifs ?",
+      "choix": [
+        "Une insuffisance cardiaque",
+        "Un accident vasculaire cérébral",
+        "Une occlusion intestinale",
+        "Une pneumonie sévère"
+      ],
+      "reponse": 2,
+      "explication": "Jair Bolsonaro a été hospitalisé en soins intensifs en raison d'une occlusion intestinale liée aux séquelles de son agression au couteau en 2018.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg"
+    },
+    {
+      "id": "c4532ae854",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quelle paire française s'est qualifiée pour la finale du Masters de Turin en double ?",
+      "choix": [
+        "Ugo Humbert et Arthur Fils",
+        "Sadio Doumbia et Fabien Reboul",
+        "Nicolas Mahut et Pierre-Hugues Herbert",
+        "Théo Arribagé et Albano Olivetti"
+      ],
+      "reponse": 3,
+      "explication": "Le tandem français Théo Arribagé et Albano Olivetti a validé son billet pour la finale du Masters de Turin en battant une paire allemande en demi-finales.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters/nouvel-exploit-des-francais-theo-arribage-et-albano-olivetti-qualifies-pour-la-finale-du-masters-de-turin_8294081.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/dxZNteTeZ9gTlp5A_1jYpXa0VBQ/0x0:4096x2304/432x243/filters:format(jpg)/2026/11/21/6b01eacf5ec52945822229.jpg"
+    },
+    {
+      "id": "cc3ce92a97",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel préfet a demandé à être relevé de ses fonctions après avoir été soupçonné de transmettre des informations confidentielles au Rassemblement national ?",
+      "choix": [
+        "Hugues Moutouh",
+        "Didier Lallement",
+        "Laurent Nuñez",
+        "Patrice Latron"
+      ],
+      "reponse": 0,
+      "explication": "Le préfet Hugues Moutouh a demandé à être relevé de ses fonctions après la révélation de soupçons de fuites confidentielles au profit du RN.",
+      "lien": "https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/JElvnJ6jsG1uqxCqDs2I-pCwA3Y/0x55:1024x631/432x243/filters:format(jpg)/2026/11/21/6b01dcd626834270787108.jpg"
+    },
+    {
+      "id": "abe3deb8f6",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel pays a accusé un hélicoptère militaire russe d'avoir violé son espace aérien de plus de 4 kilomètres ?",
+      "choix": [
+        "La Norvège",
+        "La Finlande",
+        "La Suède",
+        "L'Estonie"
+      ],
+      "reponse": 1,
+      "explication": "Le ministère de la Défense finlandais a indiqué soupçonner un hélicoptère russe d'avoir pénétré jusqu'à 4,1 kilomètres à l'intérieur du territoire finlandais.",
+      "lien": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/dzl70O5wmble6f9aN4HYt3m3SWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01ac8904cf5326131943.jpg"
     }
   ]
 }
