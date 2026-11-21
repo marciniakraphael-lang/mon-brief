@@ -1,94 +1,182 @@
 {
   "date": "2026-11-21",
   "mode": "evening",
-  "updated": "2026-11-21T00:45:16.714763+01:00",
+  "updated": "2026-11-21T15:07:10.637634+01:00",
   "deja_presente": [],
   "depuis_hier": [],
   "aujourdhui": [
     {
-      "titre": "Sommet à Shenzhen : Donald Trump assure que ses relations \"fantastiques\" avec Xi Jinping et Vladimir Poutine contribuent à la sécurité des Etats-Unis",
-      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-suivez-la-conference-de-presse-du-president-americain-donald-trump-apres-un-sommet-inedit-avec-xi-jinping-et-vladimir-poutine_8292656.html#xtor=RSS-3-%5Bmonde%5D",
+      "titre": "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
+      "lien": "https://www.franceinfo.fr/culture/la-maison-de-coup-de-foudre-a-notting-hill-a-vendre-pour-9-millions-d-euros_8292929.html#xtor=RSS-3-%5Bmonde%5D",
       "source": "franceinfo Monde",
-      "date": "2026-11-21T00:40:03+01:00",
-      "resume": "Donald Trump, Xi Jinping et Vladimir Poutine se sont rencontrés jeudi à Shenzhen, en Chine, pour un sommet trilatéral inédit. Les dirigeants américain, russe et chinois ont échangé pendant environ 1h20 avant de s'accorder sur une « déclaration de paix ». À l'issue de cet entretien, Donald Trump a affirmé que ses relations avec ses deux homologues contribuaient directement à la sécurité des États-Unis.",
-      "contexte": "Les relations entre Washington, Pékin et Moscou sont au cœur des grands équilibres géopolitiques et sécuritaires mondiaux. L'objectif d'une telle rencontre au plus haut niveau est généralement d'apaiser des tensions stratégiques persistantes et d'afficher une volonté commune de dialogue. Une entente formelle entre ces trois puissances pourrait ainsi peser lourdement sur la résolution de plusieurs crises internationales en cours.",
-      "image": "https://www.franceinfo.fr/pictures/TMEUF43fVsKIXbwImGl82BXxYYc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b0088ca482bb561577600.jpg"
+      "date": "2026-11-21T15:00:01+01:00",
+      "resume": "La célèbre maison présentée dans le film \"Coup de foudre à Notting Hill\" est actuellement mise en vente pour la somme de 9 millions d'euros. Les acteurs principaux du long-métrage, Julia Roberts et Hugh Grant, ne sont toutefois pas inclus dans cette transaction immobilière.",
+      "contexte": "Ce type de bien immobilier bénéficie d'une forte cote liée à sa notoriété cinématographique, ce qui fait souvent flamber les prix sur le marché londonien. L'objectif est généralement d'attirer des acheteurs fortunés ou des investisseurs cherchant un bien à forte valeur patrimoniale et touristique.",
+      "image": "https://www.franceinfo.fr/pictures/S_mdRlaHhS7P3Fi8Hxlrg8GIMhw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b00a5e312f18879738718.jpg"
     },
     {
-      "titre": "Des condamnations allant d'un an à deux ans de prison ferme pour les trois policiers accusés d'avoir roué de coups Michel Zecler",
-      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
+      "titre": "Mobilisation du 21 novembre : 44 rassemblements ont été recensés par le ministère de l'Intérieur sur le territoire national",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-11-21T14:55:59+01:00",
+      "resume": "Un samedi de manifestations s'est déroulé en France le 21 novembre, avec 44 rassemblements recensés par le ministère de l'Intérieur sur le territoire national. À Paris, le cortège s'est notamment élancé de la place de la République au rythme de fanfares, une manière pour les participants d'exprimer leur colère par la danse et la musique. Ces actions s'inscrivent dans le cadre d'un appel européen émanant de syndicats et d'associations pour la défense du droit au logement, coordonné sur trois jours de vendredi à dimanche.",
+      "contexte": "Les mobilisations pour le droit au logement se multiplient dans les grandes métropoles européennes face à la crise de l'accès à l'habitat et à la hausse des coûts de la vie. L'utilisation de fanfares et d'expressions culturelles dans les cortèges est une pratique militante courante pour capter l'attention médiatique et renouveler les formes de contestation pacifique.",
+      "image": "https://www.franceinfo.fr/pictures/jDDaRlZCIVatOKyJ2NkdSSQaNJY/0x39:1024x615/432x243/filters:format(jpg)/2026/11/21/6b014735f0249092308717.jpg"
+    },
+    {
+      "titre": "\"My Rock Stars\" : le photographe Hassan Hajjaj immortalise ses stars de la musique",
+      "lien": "https://www.franceinfo.fr/culture/arts-expos/en-images-my-rock-stars-le-photographehassan-hajjaj-immortalise-ses-stars-de-la-musique_8289029.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-21T00:10:11+01:00",
-      "resume": "La cour criminelle de Paris a rendu son verdict vendredi soir dans l'affaire des violences infligées au producteur de musique Michel Zecler. Trois policiers accusés de l'avoir roué de coups ont été condamnés à des peines allant d'un an à deux ans de prison ferme. La juridiction a par ailleurs retenu la circonstance aggravante de racisme lors du prononcé des peines.",
-      "contexte": "Cette affaire, qui remonte à la diffusion d'images de vidéosurveillance montrant le passage à tabac de la victime en 2020, avait suscité une intense émotion et relancé le débat national sur les violences policières. La reconnaissance de la circonstance aggravante de racisme par la justice représente un tournant symbolique fort, alors que les condamnations à de la prison ferme pour des agents en exercice demeurent rares.",
-      "image": "https://www.franceinfo.fr/pictures/mUce-5pfICvv5UodXjzk4q_zQz4/0x28:5315x3018/432x243/filters:format(jpg)/2026/11/21/6b00d3309e766622813542.jpg"
+      "date": "2026-11-21T14:21:26+01:00",
+      "resume": "Le Musée de la musique à Paris accueille une exposition consacrée au photographe Hassan Hajjaj, intitulée \"My Rock Stars\". Cet événement met en lumière l'histoire familiale de l'artiste, son attachement à la musique gnawa ainsi que ses portraits de musiciens, et se tient jusqu'en avril 2027.",
+      "contexte": "Hassan Hajjaj, souvent surnommé le \"Andy Warhol de Marrakech\", mélange les esthétiques traditionnelles marocaines et la culture pop occidentale dans ses œuvres. Ce type d'exposition temporaire permet aux institutions culturelles de valoriser des regards contemporains croisés sur les musiques du monde et les arts visuels.",
+      "image": "https://www.franceinfo.fr/pictures/zpiD-_laNufBERC-54tunp3ZNwU/0x0:4724x2657/432x243/filters:format(jpg)/2026/11/12/6af511495e9d2811547295.jpg"
+    },
+    {
+      "titre": "\"Nous nous sentons ici chez nous\" : une brigade allemande de 5 000 soldats s'apprête à mener des exercices pendant un mois en Lituanie",
+      "lien": "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T14:20:20+01:00",
+      "resume": "Une brigade allemande composée de 5 000 soldats s'apprête à mener des exercices d'une durée d'un mois en Lituanie. Ces troupes en renfort participent aux entraînements aux côtés du bataillon multinational de l'Otan, qui est stationné dans le pays balte depuis 2017.",
+      "contexte": "Face aux tensions géopolitiques accrues en Europe de l'Est et à la menace russe, l'Otan renforce régulièrement sa présence sur son flanc oriental pour rassurer ses alliés baltes. Pour l'Allemagne, l'envoi permanent et temporaire de cette brigade marque un tournant historique dans sa politique de défense extérieure.",
+      "image": "https://www.franceinfo.fr/pictures/j6qBGrpSwwNujHD5YvWEvszKxrs/0x234:4500x2766/432x243/filters:format(jpg)/2026/11/21/6b018c756a75c012986106.jpg"
+    },
+    {
+      "titre": "Une \"attaque de drone\" contre un cargo russe détectée dans le golfe de Finlande",
+      "lien": "https://www.france24.com/fr/europe/20261121-une-attaque-de-drone-contre-un-cargo-russe-d%C3%A9tect%C3%A9e-dans-le-golfe-de-finlande",
+      "source": "France 24",
+      "date": "2026-11-21T14:13:08+01:00",
+      "resume": "Une attaque de drone visant un cargo russe a été détectée samedi dans le golfe de Finlande par l'armée finlandaise. Le ministère de la Défense de ce pays nordique a immédiatement tenu ses alliés au sein de l'Otan informés de cet incident.",
+      "contexte": "La sécurité dans la région de la mer Baltique et du golfe de Finlande est devenue hautement stratégique depuis l'invasion de l'Ukraine par la Russie, entraînant une surveillance accrue des infrastructures maritimes. Ce type d'incident soulève des inquiétudes quant à l'extension des risques de sabotage ou de conflits technologiques aux frontières des pays de l'Otan.",
+      "image": "https://s.france24.com/media/display/d14e7d92-e5a1-11f1-ada4-e56ab3dc0809/w:1024/p:16x9/Cargo-Finland.jpg"
+    },
+    {
+      "titre": "Le remorquage du cargo échoué dans les Landes pourrait prendre plusieurs jours, selon la préfecture",
+      "lien": "https://www.franceinfo.fr/faits-divers/le-remorquage-du-cargo-echoue-dans-les-landes-pourrait-prendre-plusieurs-jours-selon-la-prefecture_8293727.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T14:06:49+01:00",
+      "resume": "Le remorquage d'un cargo qui s'est échoué dans les Landes pourrait prendre plusieurs jours, selon les informations de la préfecture. Le bateau remorqueur \"Abeille Bretagne\" est attendu sur zone samedi, mais ne pourra pas s'approcher à moins de 900 mètres en raison de la faible profondeur des fonds marins.",
+      "contexte": "Les opérations de sauvetage de navires en zone côtière délicate exigent des précautions extrêmes pour éviter toute pollution maritime ou tout naufrage complet. Les conditions météorologiques et bathymétriques locales dictent généralement le rythme de ces interventions d'urgence.",
+      "image": "https://www.franceinfo.fr/pictures/Hpc1O_J9oHVvzIBMd5OmvMVXP1A/0x19:1024x595/432x243/filters:format(jpg)/2026/11/21/6b01906c3def9646899190.jpg"
+    },
+    {
+      "titre": "Florian Sitbon, adjoint à la culture au maire de Paris, veut « mettre l’artiste au cœur de la ville »",
+      "lien": "https://www.lemonde.fr/culture/article/2026/11/21/florian-sitbon-adjoint-a-la-culture-au-maire-de-paris-veut-mettre-l-artiste-au-c-ur-de-la-ville_6814019_3246.html",
+      "source": "Le Monde",
+      "date": "2026-11-21T14:00:19+01:00",
+      "resume": "Florian Sitbon, adjoint à la culture au maire de Paris, a exprimé sa volonté de placer l'artiste au cœur de la ville. Ancien metteur en scène nommé en mars auprès d'Emmanuel Grégoire, il prévoit la mise en place d'un guichet d'aide destiné aux artistes et aux programmateurs dont la liberté de création serait menacée.",
+      "contexte": "Les municipalités cherchent fréquemment à soutenir la vitalité artistique locale face à la gentrification urbaine et à la hausse des loyers qui pénalisent les créateurs. L'objectif est généralement de préserver la diversité culturelle et d'offrir un soutien administratif direct aux professionnels du spectacle.",
+      "image": "https://img.lemde.fr/2026/11/17/390/0/5935/2967/644/322/60/0/6f797fb_upload-1-rv3qgjhx6mxx-fs-portraithd.jpg"
+    },
+    {
+      "titre": "Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T14:00:01+01:00",
+      "resume": "Des frappes russes ont touché la ville de Kryvyï Rih, ville natale du président ukrainien Volodymyr Zelensky, faisant deux morts et 58 blessés. Parmi les victimes blessées lors de cette attaque survenue samedi figurent six enfants, d'après les précisions communiquées par le chef de l'État sur Telegram.",
+      "contexte": "Les forces russes ciblent régulièrement des zones urbaines en Ukraine loin du front direct, touchant des infrastructures civiles pour saper le moral de la population. Kryvyï Rih, importante cité industrielle du centre-sud du pays, a été frappée à plusieurs reprises depuis le début du conflit.",
+      "image": "https://www.franceinfo.fr/pictures/CsrPPm9InM4527HOt9OpPrOPrlw/0x26:1024x602/432x243/filters:format(jpg)/2026/11/21/6b0185f534763222501770.jpg"
+    },
+    {
+      "titre": "Le Mexique arrête Fausto Isidro Meza, alias « Chapo Isidro », un puissant chef de cartel recherché par le FBI",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-21T13:49:49+01:00",
+      "resume": "Le narcotrafiquant mexicain Fausto Isidro Meza, alias « Chapo Isidro », puissant chef de cartel recherché par le FBI, a été arrêté vendredi au Mexique. Son interpellations dans l'État de Sinaloa, où il opérait, a provoqué de violents affrontements armés, alors que les États-Unis proposaient une récompense de 5 millions de dollars pour sa capture.",
+      "contexte": "L'arrestation de barons de la drogue majeurs déclenche souvent des vagues de violences urbaines et des représailles armées de la part des cartels pour s'emparer du pouvoir vacant ou défier les autorités. Cette coopération entre le Mexique et les agences fédérales américaines répond à une pression constante de Washington contre le trafic de fentanyl.",
+      "image": "https://img.lemde.fr/2026/11/18/564/0/3744/1872/644/322/60/0/1bd95a5_ftp-1-4xn6w6owxzni-afp-d7wq879.jpg"
+    },
+    {
+      "titre": "Un condamné à mort a été exécuté au Texas, après plus d'une heure de tentatives infructueuses",
+      "lien": "https://www.franceinfo.fr/monde/usa/un-condamne-a-mort-a-ete-execute-au-texas-apres-plus-d-une-heure-de-tentatives-infructueuses_8293013.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-21T13:31:14+01:00",
+      "resume": "Un condamné à mort âgé de 70 ans, Reinaldo Dennes, a été exécuté jeudi soir au Texas au moyen d'une injection de pentobarbital. Cette exécution fait suite à plus d'une heure de tentatives infructueuses pour administrer la substance, rappelant les difficultés similaires rencontrées le 30 septembre dans le Tennessee lors de la tentative d'exécution de Christa Pike.",
+      "contexte": "Les difficultés d'accès aux substances létales traditionnelles, en raison du boycott des laboratoires pharmaceutiques, poussent certains États américains à utiliser des protocoles alternatifs ou à procéder à des injections complexes. Ces défaillances techniques relancent régulièrement le débat aux États-Unis sur la cruauté et la constitutionnalité de la peine capitale.",
+      "image": "https://www.franceinfo.fr/pictures/9ijxerc5U4oYIzAb1rWiotBVgNk/0x5:1024x581/432x243/filters:format(jpg)/2026/11/20/6b00ca7356fbf384340997.jpg"
     }
   ],
   "culture": [],
   "quiz_jour": [
     {
-      "id": "027e921b47",
+      "id": "ab9b674849",
       "date": "2026-11-21",
       "type": "actu",
-      "question": "Dans quelle ville chinoise s'est tenu le sommet trilatéral inédit réunissant Donald Trump, Xi Jinping et Vladimir Poutine ?",
+      "question": "Quel est le prix de vente affiché pour la maison célèbre du film \"Coup de foudre à Notting Hill\" ?",
       "choix": [
-        "Shanghai",
-        "Canton",
-        "Pékin",
-        "Shenzhen"
-      ],
-      "reponse": 3,
-      "explication": "Donald Trump, Xi Jinping et Vladimir Poutine se sont rencontrés à Shenzhen, en Chine, pour un sommet trilatéral d'environ 1h20.",
-      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-suivez-la-conference-de-presse-du-president-americain-donald-trump-apres-un-sommet-inedit-avec-xi-jinping-et-vladimir-poutine_8292656.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/TMEUF43fVsKIXbwImGl82BXxYYc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b0088ca482bb561577600.jpg"
-    },
-    {
-      "id": "86ba2cbb55",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Sur quel texte Donald Trump, Xi Jinping et Vladimir Poutine se sont-ils accordés à l'issue de leur sommet trilatéral ?",
-      "choix": [
-        "Un traité de désarmement",
-        "Un accord de libre-échange",
-        "Un pacte de non-agression",
-        "Une « déclaration de paix »"
-      ],
-      "reponse": 3,
-      "explication": "À l'issue de leur entretien à Shenzhen, les dirigeants américain, russe et chinois se sont accordés sur une « déclaration de paix ».",
-      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-suivez-la-conference-de-presse-du-president-americain-donald-trump-apres-un-sommet-inedit-avec-xi-jinping-et-vladimir-poutine_8292656.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/TMEUF43fVsKIXbwImGl82BXxYYc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b0088ca482bb561577600.jpg"
-    },
-    {
-      "id": "9a3d175a32",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Dans l'affaire des violences contre le producteur Michel Zecler, quelle circonstance aggravante a été retenue par la justice ?",
-      "choix": [
-        "Le racisme",
-        "L'usage d'une arme prohibée",
-        "La préméditation",
-        "L'état d'ivresse manifeste"
+        "9 millions d'euros",
+        "7 millions d'euros",
+        "8 millions d'euros",
+        "10 millions d'euros"
       ],
       "reponse": 0,
-      "explication": "La cour criminelle de Paris a retenu la circonstance aggravante de racisme lors du prononcé des peines à l'encontre des trois policiers.",
-      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/mUce-5pfICvv5UodXjzk4q_zQz4/0x28:5315x3018/432x243/filters:format(jpg)/2026/11/21/6b00d3309e766622813542.jpg"
+      "explication": "L'article précise que la maison est mise en vente pour la somme de 9 millions d'euros.",
+      "lien": "https://www.franceinfo.fr/culture/la-maison-de-coup-de-foudre-a-notting-hill-a-vendre-pour-9-millions-d-euros_8292929.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/S_mdRlaHhS7P3Fi8Hxlrg8GIMhw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b00a5e312f18879738718.jpg"
     },
     {
-      "id": "554551bbc2",
+      "id": "d872a418c5",
       "date": "2026-11-21",
       "type": "actu",
-      "question": "Quelles peines de prison ferme ont été prononcées contre les trois policiers jugés pour les violences infligées à Michel Zecler ?",
+      "question": "Jusqu'à quelle date l'exposition \"My Rock Stars\" de Hassan Hajjaj est-elle prévue au Musée de la musique ?",
       "choix": [
-        "De cinq ans à sept ans de prison ferme",
-        "De trois ans à quatre ans de prison ferme",
-        "De six mois à un an de prison ferme",
-        "D'un an à deux ans de prison ferme"
+        "Janvier 2028",
+        "Avril 2027",
+        "Juin 2025",
+        "Décembre 2026"
       ],
-      "reponse": 3,
-      "explication": "Les trois policiers accusés d'avoir roué de coups Michel Zecler ont été condamnés à des peines allant d'un an à deux ans de prison ferme.",
-      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/mUce-5pfICvv5UodXjzk4q_zQz4/0x28:5315x3018/432x243/filters:format(jpg)/2026/11/21/6b00d3309e766622813542.jpg"
+      "reponse": 1,
+      "explication": "L'exposition est prévue au Musée de la musique jusqu'en avril 2027.",
+      "lien": "https://www.franceinfo.fr/culture/arts-expos/en-images-my-rock-stars-le-photographehassan-hajjaj-immortalise-ses-stars-de-la-musique_8289029.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/zpiD-_laNufBERC-54tunp3ZNwU/0x0:4724x2657/432x243/filters:format(jpg)/2026/11/12/6af511495e9d2811547295.jpg"
+    },
+    {
+      "id": "1d0a3175ad",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Combien de soldats allemands participent aux exercices militaires en Lituanie ?",
+      "choix": [
+        "1 000",
+        "5 000",
+        "3 000",
+        "7 000"
+      ],
+      "reponse": 1,
+      "explication": "Une brigade composée de 5 000 soldats allemands est mobilisée pour ces exercices.",
+      "lien": "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/j6qBGrpSwwNujHD5YvWEvszKxrs/0x234:4500x2766/432x243/filters:format(jpg)/2026/11/21/6b018c756a75c012986106.jpg"
+    },
+    {
+      "id": "19b0b1801c",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Dans quelle ville ukrainienne, ville natale de Volodymyr Zelensky, des frappes russes ont-elles fait des victimes ?",
+      "choix": [
+        "Odessa",
+        "Kryvyï Rih",
+        "Kharkiv",
+        "Kiev"
+      ],
+      "reponse": 1,
+      "explication": "Les frappes ont eu lieu à Kryvyï Rih, qui est la ville natale du président ukrainien.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/CsrPPm9InM4527HOt9OpPrOPrlw/0x26:1024x602/432x243/filters:format(jpg)/2026/11/21/6b0185f534763222501770.jpg"
+    },
+    {
+      "id": "ab438272a8",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel était le montant de la récompense offerte par les États-Unis pour la capture de Fausto Isidro Meza ?",
+      "choix": [
+        "1 million de dollars",
+        "20 millions de dollars",
+        "5 millions de dollars",
+        "10 millions de dollars"
+      ],
+      "reponse": 2,
+      "explication": "Les États-Unis proposaient une récompense de 5 millions de dollars pour la capture de ce chef de cartel.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
+      "image": "https://img.lemde.fr/2026/11/18/564/0/3744/1872/644/322/60/0/1bd95a5_ftp-1-4xn6w6owxzni-afp-d7wq879.jpg"
     }
   ]
 }

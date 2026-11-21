@@ -7034,6 +7034,86 @@
       "explication": "Les trois policiers accusés d'avoir roué de coups Michel Zecler ont été condamnés à des peines allant d'un an à deux ans de prison ferme.",
       "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
       "image": "https://www.franceinfo.fr/pictures/mUce-5pfICvv5UodXjzk4q_zQz4/0x28:5315x3018/432x243/filters:format(jpg)/2026/11/21/6b00d3309e766622813542.jpg"
+    },
+    {
+      "id": "ab9b674849",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel est le prix de vente affiché pour la maison célèbre du film \"Coup de foudre à Notting Hill\" ?",
+      "choix": [
+        "9 millions d'euros",
+        "7 millions d'euros",
+        "8 millions d'euros",
+        "10 millions d'euros"
+      ],
+      "reponse": 0,
+      "explication": "L'article précise que la maison est mise en vente pour la somme de 9 millions d'euros.",
+      "lien": "https://www.franceinfo.fr/culture/la-maison-de-coup-de-foudre-a-notting-hill-a-vendre-pour-9-millions-d-euros_8292929.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/S_mdRlaHhS7P3Fi8Hxlrg8GIMhw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b00a5e312f18879738718.jpg"
+    },
+    {
+      "id": "d872a418c5",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Jusqu'à quelle date l'exposition \"My Rock Stars\" de Hassan Hajjaj est-elle prévue au Musée de la musique ?",
+      "choix": [
+        "Janvier 2028",
+        "Avril 2027",
+        "Juin 2025",
+        "Décembre 2026"
+      ],
+      "reponse": 1,
+      "explication": "L'exposition est prévue au Musée de la musique jusqu'en avril 2027.",
+      "lien": "https://www.franceinfo.fr/culture/arts-expos/en-images-my-rock-stars-le-photographehassan-hajjaj-immortalise-ses-stars-de-la-musique_8289029.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/zpiD-_laNufBERC-54tunp3ZNwU/0x0:4724x2657/432x243/filters:format(jpg)/2026/11/12/6af511495e9d2811547295.jpg"
+    },
+    {
+      "id": "1d0a3175ad",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Combien de soldats allemands participent aux exercices militaires en Lituanie ?",
+      "choix": [
+        "1 000",
+        "5 000",
+        "3 000",
+        "7 000"
+      ],
+      "reponse": 1,
+      "explication": "Une brigade composée de 5 000 soldats allemands est mobilisée pour ces exercices.",
+      "lien": "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/j6qBGrpSwwNujHD5YvWEvszKxrs/0x234:4500x2766/432x243/filters:format(jpg)/2026/11/21/6b018c756a75c012986106.jpg"
+    },
+    {
+      "id": "19b0b1801c",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Dans quelle ville ukrainienne, ville natale de Volodymyr Zelensky, des frappes russes ont-elles fait des victimes ?",
+      "choix": [
+        "Odessa",
+        "Kryvyï Rih",
+        "Kharkiv",
+        "Kiev"
+      ],
+      "reponse": 1,
+      "explication": "Les frappes ont eu lieu à Kryvyï Rih, qui est la ville natale du président ukrainien.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/CsrPPm9InM4527HOt9OpPrOPrlw/0x26:1024x602/432x243/filters:format(jpg)/2026/11/21/6b0185f534763222501770.jpg"
+    },
+    {
+      "id": "ab438272a8",
+      "date": "2026-11-21",
+      "type": "actu",
+      "question": "Quel était le montant de la récompense offerte par les États-Unis pour la capture de Fausto Isidro Meza ?",
+      "choix": [
+        "1 million de dollars",
+        "20 millions de dollars",
+        "5 millions de dollars",
+        "10 millions de dollars"
+      ],
+      "reponse": 2,
+      "explication": "Les États-Unis proposaient une récompense de 5 millions de dollars pour la capture de ce chef de cartel.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
+      "image": "https://img.lemde.fr/2026/11/18/564/0/3744/1872/644/322/60/0/1bd95a5_ftp-1-4xn6w6owxzni-afp-d7wq879.jpg"
     }
   ]
 }
