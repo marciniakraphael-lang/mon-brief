@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
-  "mode": "morning",
-  "updated": "2026-11-22T12:45:09.996051+01:00",
+  "mode": "evening",
+  "updated": "2026-11-22T14:58:19.523949+01:00",
   "deja_presente": [],
   "depuis_hier": [
     {
@@ -79,85 +79,103 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Crise climatique : l'Union européenne \"s'oppose\" à l'adoption de la déclaration finale de la COP31, après près de deux jours de prolongations",
+      "titre": "Couper les subventions aux associations \"politisées\" \"n'est pas du chantage\", assure Marine Le Pen",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-22T14:55:14+01:00",
+      "resume": "Marine Le Pen a assuré lundi que couper les subventions aux associations qu'elle juge \"politisées\" n'est pas du chantage, tout en confirmant son intention de cesser de les financer si elle remporte l'élection de 2027. Interrogée par ailleurs sur le préfet Hugues Moutouh, soupçonné d'avoir renseigné le Rassemblement national, elle a affirmé n'avoir jamais reçu d'informations confidentielles. Elle s'est dite incapable de dire s'il y avait d'autres bénéficiaires au sein de son parti, l'enquête étant en cours.",
+      "contexte": "Ces déclarations s'inscrivent dans la pré-campagne pour l'élection présidentielle de 2027, où la candidate du Rassemblement national cherche à préciser son programme institutionnel et politique. Les questions autour de ses liens potentiels avec des membres de l'administration illustrent les controverses politico-judiciaires qui entourent régulièrement le parti d'extrême droite. La question du financement des associations est par ailleurs un classique du débat public sur la neutralité du secteur associatif.",
+      "image": "https://www.franceinfo.fr/pictures/DgBG5MKcy7okawT0DLgmtQwCBR8/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02de10bb0a5294591546.jpg"
+    },
+    {
+      "titre": "Pour Victor Wembanyama, la nouvelle approche du seuil emblématique des 50 points",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/22/pour-victor-wembanyama-la-nouvelle-approche-de-la-barre-emblematique-des-50-points_6814215_3242.html",
+      "source": "Le Monde",
+      "date": "2026-11-22T14:44:36+01:00",
+      "resume": "La star française du basket Victor Wembanyama a atteint le total de 50 points, assortis de 19 rebonds, cinq contres et quatre interceptions, lors d'un match disputé le 21 novembre face aux New Orleans Pelicans. Il a assumé avoir cherché à atteindre ce seuil emblématique, à rebours de son approche habituelle du jeu.",
+      "contexte": "Ce type de performance individuelle marque une étape importante dans la jeune carrière de l'intérieur français en NBA, confirmant son statut de joueur majeur de la ligue nord-américaine. Atteindre le seuil des 50 points est une marque rare et prestigieuse qui attire l'attention des médias sportifs internationaux.",
+      "image": "https://img.lemde.fr/2026/11/22/291/0/5169/2584/644/322/60/0/f2c7105_ftp-1-pijuasuoo36h-2305790988.jpg"
+    },
+    {
+      "titre": "\"Le même produit va être un remède ou un poison, selon les époques\" : le Musée de l'Homme consacre une exposition aux drogues",
+      "lien": "https://www.franceinfo.fr/sante/drogue-addictions/reportage-le-meme-produit-va-etre-un-remede-ou-un-poison-selon-les-epoques-le-musee-de-l-homme-consacre-une-exposition-aux-drogues_8294579.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-22T14:44:08+01:00",
+      "resume": "Le Musée de l'Homme à Paris consacre une vaste exposition aux drogues pour interroger nos rapports avec ces produits psychoactifs. Le parcours scientifique proposé met en avant la manière dont les substances peuvent être perçues comme des remèdes ou des poisons selon les époques.",
+      "contexte": "Ce type d'exposition culturelle et scientifique vise à déconstruire les préjugés entourant les substances psychoactifs en replaçant leur usage dans une perspective historique et anthropologique. Les questions liées aux drogues demeurent un enjeu sociétal majeur, oscillant entre politiques de santé publique et gestion des addictions.",
+      "image": "https://www.franceinfo.fr/pictures/6uQvrgaT76qCEG3ZFnqfDuxArIk/0x247:2000x1372/432x243/filters:format(jpg)/2026/11/22/6b02b55feb6c0385837753.jpg"
+    },
+    {
+      "titre": "La mission spatiale BepiColombo est entrée dans l'orbite de Mercure après huit ans de voyage",
+      "lien": "https://www.franceinfo.fr/sciences/espace/la-mission-spatiale-bepicolombo-est-entree-dans-l-orbite-de-mercure-apres-huit-ans-de-voyage_8294507.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-22T14:32:18+01:00",
+      "resume": "La mission spatiale BepiColombo est entrée dans l'orbite de Mercure après un voyage de huit ans. Lancé en octobre 2018, l'engin de quatre tonnes a parcouru plus de 10 milliards de kilomètres pour ajuster sa vitesse et sa trajectoire vers la planète la plus proche du Soleil.",
+      "contexte": "L'exploration de Mercure est particulièrement complexe en raison de la forte attraction gravitationnelle du Soleil, ce qui nécessite de longs calculs de trajectoire et de multiples manœuvres d'assistance gravitationnelle. Cette mission conjointe entre l'Agence spatiale européenne et l'Agence spatiale japonaise vise à mieux comprendre la composition et la formation de cette planète rocheuse mal connue.",
+      "image": "https://www.franceinfo.fr/pictures/SJ0Ikvj2cGjG3LqqjsL5h7kpPD0/0x100:1024x676/432x243/filters:format(jpg)/2026/11/22/6b02b45b356ef827469630.jpg"
+    },
+    {
+      "titre": "Sabyl Ghoussoub : \"j'ai avant tout écrit un livre d'amour\"",
+      "lien": "https://www.franceinfo.fr/replay-radio/l-invite-culture/sabyl-ghoussoub-j-ai-avant-tout-ecrit-un-livre-d-amour_8250466.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-22T14:30:02+01:00",
+      "resume": "L'auteur Sabyl Ghoussoub publie \"Mon Imam\", un roman dans lequel il aborde la religion, la sexualité dans l'islam et sa propre quête identitaire au cœur du Moyen-Orient. Il qualifie lui-même son ouvrage avant tout comme un \"livre d'amour\" qui cherche à briser certains tabous.",
+      "contexte": "La littérature abordant les liens entre intimité, religion et identité culturelle occupe une place importante dans les débats contemporains sur la liberté d'expression et l'évolution des traditions. Ce type d'œuvre cherche souvent à donner une vision plus nuancée des sociétés du Moyen-Orient et de la diaspora.",
+      "image": "https://www.franceinfo.fr/pictures/kb8W8NgqFNI94RUR_WXCgFmL-J4/0x173:3336x2050/432x243/filters:format(jpg)/2023/08/10/64d4bbdaba273_000-32ta6x9.jpg"
+    },
+    {
+      "titre": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis",
+      "lien": "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-22T14:26:41+01:00",
+      "resume": "Le Mexique a annoncé l'arrestation de Chapo Isidro, un baron de la drogue recherché par les États-Unis. Ce narcotrafiquant de 44 ans faisait l'objet de poursuites dans les deux pays, et le FBI offrait une récompense de cinq millions de dollars pour sa capture.",
+      "contexte": "Cette arrestation illustre la coopération transfrontalière continue entre les autorités mexicaines et américaines dans le cadre de la lutte contre les cartels de la drogue. Les narcotrafiquants de premier plan font l'objet de traques internationales de longue haleine en raison de l'impact sécuritaire et économique de leurs réseaux.",
+      "image": "https://www.franceinfo.fr/pictures/dBAUKUhl0XoQ2k5heJLeTgsM_V0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02b76ae8883917963460.jpg"
+    },
+    {
+      "titre": "En Cisjordanie occupée, une enquête ouverte après des incendies imputés à des colons israéliens",
+      "lien": "https://www.franceinfo.fr/monde/israel/une-enquete-ouverte-apres-des-incendies-imputes-a-des-colons-israeliens-en-cisjordanie-occupee_8294669.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-22T14:20:08+01:00",
+      "resume": "Une enquête a été ouverte en Cisjordanie occupée à la suite d'incendies imputés à des colons israéliens. Gadi Eisenkot, rival du Premier ministre sortant Benyamin Nétanyahou, a qualifié ces actes de \"terrorisme juif\" et a estimé qu'ils ébranlaient la stabilité régionale.",
+      "contexte": "Les violences commises par des colons extrémistes en Cisjordanie constituent un sujet de tension récurrent qui exacerbe le conflit israélo-palestinien et complique la situation politique interne en Israël. Les condamnations de telles exactions par des responsables politiques traduisent des clivages profonds sur la gestion des territoires occupés et la sécurité.",
+      "image": "https://www.franceinfo.fr/pictures/Yd2KJQH4vcgGaUVHg2I_xsPEdEU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02e664b7b85907440585.jpg"
+    },
+    {
+      "titre": "Crise climatique : l'Union européenne \"s'oppose\" à l'adoption de la déclaration finale de la COP31, après quasiment deux jours de prolongations",
       "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo · France 24",
-      "date": "2026-11-22T12:40:45+01:00",
-      "resume": "L'Union européenne s'est opposée à l'adoption de la déclaration finale de la COP31 à Antalya, en Turquie, à l'issue de deux jours de prolongations, plongeant l'événement au bord de l'impasse. Le projet d'accord a également été rejeté par le Panama et le Ghana au nom des pays africains, en raison de l'absence d'un appel explicite à sortir des énergies fossiles.",
-      "contexte": "Les négociations climatiques internationales achoppent régulièrement sur la formulation des engagements concernant l'abandon progressif du charbon, du pétrole et du gaz. L'opposition des blocs régionaux reflète les divergences d'intérêts économiques et géopolitiques entre les pays développés et les nations en développement face à l'urgence climatique.",
+      "source": "franceinfo",
+      "date": "2026-11-22T14:16:54+01:00",
+      "resume": "L'Union européenne s'est opposée à l'adoption de la déclaration finale de la COP31, qui s'est achevée en Turquie après quasiment deux jours de prolongations. La dernière version du projet d'accord soumise aux participants ne contenait toujours pas d'appel explicite à sortir des énergies fossiles.",
+      "contexte": "Les négociations climatiques internationales se heurtent régulièrement à des compromis difficiles entre les pays producteurs d'hydrocarbures et les nations exigeant des objectifs plus contraignants. L'absence d'un consensus sur la sortie des énergies fossiles est souvent critiquée par les défenseurs de l'environnement comme un frein majeur à la lutte contre le réchauffement climatique.",
       "image": "https://www.franceinfo.fr/pictures/1hqMEsVmv6SMewm-8I2L5GHy4VI/0x39:1024x615/432x243/filters:format(jpg)/2026/11/22/6b02d2f4c80e6188528691.jpg"
     },
     {
-      "titre": "L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale",
-      "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-22T12:38:40+01:00",
-      "resume": "L'ancien président brésilien Jair Bolsonaro a été admis en soins intensifs en raison d'une occlusion intestinale. Il souffre de séquelles durables d'un coup de couteau reçu au ventre lors de la campagne électorale de 2018, ce qui a nécessité de multiples interventions chirurgicales depuis.",
-      "contexte": "L'état de santé de Jair Bolsonaro suscite régulièrement des inquiétudes et des hospitalisations périodiques depuis l'attentat qu'il a subi en 2018. Ces épisodes médicaux impactent ponctuellement son agenda politique et judiciaire au Brésil.",
-      "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg"
-    },
-    {
-      "titre": "La Finlande fait état d'une attaque de drone ukrainien contre un cargo russe en mer Baltique",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-la-finlande-fait-%C3%A9tat-d-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique",
-      "source": "France 24",
-      "date": "2026-11-22T12:25:18+01:00",
-      "resume": "La Finlande a détecté samedi une attaque de drone ukrainien ayant visé et incendié un cargo russe en mer Baltique. Le Premier ministre finlandais Petteri Orpo a déclaré à cette occasion que l'Ukraine avait le droit de se défendre face à l'agresseur.",
-      "contexte": "L'extension des actions militaires liées au conflit ukrainien vers des zones maritimes comme la mer Baltique accroît les risques pour la sécurité régionale et le transport maritime international. Les pays baltes et nordiques suivent de très près ces incidents en raison de leur proximité géographique avec la Russie.",
-      "image": "https://s.france24.com/media/display/2d1a7c28-e662-11f1-9ee5-e56ab3dc0809/w:1024/p:16x9/FR-20261122-100726-100903-CS.jpg"
-    },
-    {
-      "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile de Frédéric Chatillon aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
-      "source": "Le Monde · France 24",
-      "date": "2026-11-22T12:24:59+01:00",
-      "resume": "Les investigations sur des fuites d'informations confidentielles vers le Rassemblement national ont été enclenchées après la découverte d'un courriel au domicile romain de Frédéric Chatillon, proche de Marine Le Pen. Visé par ces soupçons, le préfet de la région Centre-Val de Loire, Hugues Moutouh, a demandé samedi sa mise en retrait et d'être relevé de ses fonctions.",
-      "contexte": "La fuite de documents confidentiels au sein de l'appareil d'État vers des partis politiques constitue une infraction grave aux règles de la fonction publique et du secret professionnel. Ce type d'affaire met en lumière les porosités potentielles entre sphère administrative et mouvements politiques, entraînant des sanctions ou des retraits préventifs pour préserver l'impartialité de l'État.",
-      "image": "https://img.lemde.fr/2026/11/19/65/0/4500/2250/644/322/60/0/57cc642_ftp-1-7hc6fbncp65v-afp-d82e9wf.jpg"
-    },
-    {
-      "titre": "AEFE : réforme contestée du réseau scolaire français à l'étranger",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-aefe-r%C3%A9forme-contest%C3%A9e-du-r%C3%A9seau-scolaire-fran%C3%A7ais-%C3%A0-l-%C3%A9tranger",
-      "source": "France 24",
-      "date": "2026-11-22T12:15:35+01:00",
-      "resume": "La réforme du réseau scolaire français à l'étranger et l'avenir de l'Agence pour l'enseignement français à l'étranger (AEFE) font l'objet de vives contestations. Des représentants syndicaux, à l'instar de Patrick Soldat du SNES-FSU, expriment leurs inquiétudes quant aux orientations de cette politique éducative.",
-      "contexte": "L'AEFE joue un rôle clé dans le rayonnement culturel de la France à l'étranger en scolarisant des centaines de milliers d'élèves dans le monde. Les évolutions budgétaires ou structurelles du réseau provoquent régulièrement des tensions entre le gouvernement et les syndicats enseignants.",
-      "image": "https://s.france24.com/media/display/0e450e2a-e65e-11f1-af01-e56ab3dc0809/w:1024/p:16x9/FR-20261122-091743-092732-CS.jpg"
-    },
-    {
-      "titre": "\"Les explosions ont secoué la mer autour de moi\" : le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre",
-      "lien": "https://www.franceinfo.fr/monde/moyen-orient/les-explosions-ont-secoue-la-mer-autour-de-moi-un-britannique-a-traverse-le-detroit-d-ormuz-pour-alerter-sur-l-impact-environnemental-de-la-guerre_8293931.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde · France 24",
-      "date": "2026-11-22T12:15:19+01:00",
-      "resume": "Le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre, immortalisant un navire en feu à la suite d'une attaque dans cette zone. Par ailleurs, le royaume de Bahreïn a accusé l'Iran d'avoir mené une frappe contre un de ses sites industriels, Téhéran affirmant riposter à des tirs américains dans le cadre du conflit en cours.",
-      "contexte": "Le détroit d'Ormuz est un point de passage stratégique mondial pour le transport pétrolier, ce qui en fait une zone de极 grande tension géopolitique. L'escalade militaire entre l'Iran, les États-Unis et leurs alliés régionaux menace à la fois la stabilité économique globale et la sécurité environnementale de la région.",
-      "image": "https://www.franceinfo.fr/pictures/HzbbDCDBy68YDWLkym6BmLuUMss/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/21/6b01dae4bc57c370644355.jpg"
-    },
-    {
-      "titre": "GTA VI : les joueurs africains laissés pour compte ?",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-gta-vi-les-joueurs-africains-laiss%C3%A9s-pour-compte",
-      "source": "France 24",
-      "date": "2026-11-22T12:12:44+01:00",
-      "resume": "Le jeu vidéo très attendu \"Grand Theft Auto VI\" est sorti le jeudi 19 novembre, mais sa mise à disposition a suscité des mécontentements en Afrique. Certains joueurs et professionnels du secteur estiment être laissés pour compte, pointant des difficultés d'accès et des temps de téléchargement excessifs dans certaines zones du continent.",
-      "contexte": "L'industrie du jeu vidéo connaît une croissance rapide en Afrique, mais le continent fait encore face à des défis majeurs en matière d'infrastructures numériques et de connectivité haut débit. Ces disparités techniques compliquent l'accès équitable aux lancements mondiaux de produits culturels numériques.",
-      "image": "https://s.france24.com/media/display/9e3b0986-e65d-11f1-bd49-1bac47ab2f5d/w:1024/p:16x9/FR-20261122-081729-082652-CS.jpg"
-    },
-    {
-      "titre": "Elections législatives en Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
-      "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-le-centriste-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_8294531.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Je serai le candidat de la liberté de penser, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
+      "lien": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-22T12:12:16+01:00",
-      "resume": "Gadi Eisenkot, figure du bloc centriste lors des élections législatives en Israël, a invité le parti de Benyamin Nétanyahou à des négociations de coalition. Le camp centriste doit composer avec des divisions internes sur la stratégie à adopter pour bâtir une majorité, qu'il s'agisse d'alliances avec des partis ultra-orthodoxes, arabes ou d'un gouvernement d'union nationale.",
-      "contexte": "Le paysage politique israélien fragmenté nécessite traditionnellement de complexes tractations pour former des coalitions gouvernementales stables. Les compromis entre les différents blocs déterminent l'orientation des politiques intérieures et extérieures du pays.",
-      "image": "https://www.franceinfo.fr/pictures/tyM5wInj3kGZX6ohoUfm2BKKi28/0x39:1024x615/432x243/filters:format(jpg)/2026/11/22/6b02a91e6b218880640774.jpg"
+      "date": "2026-11-22T14:00:52+01:00",
+      "resume": "Éric Zemmour a tenu samedi son premier meeting de campagne présidentielle au Zénith de Toulon. Le président du parti d'extrême droite a clamé devant ses partisans qu'il serait \"le candidat de la liberté de penser, de dire ce que vous voyez\".",
+      "contexte": "Ce type de rassemblement marque le lancement officiel de la course électorale pour les candidats cherchant à mobiliser leur base militante dès les premiers stades de la campagne de 2027. La stratégie de la droite radicale repose traditionnellement sur la mise en avant de thématiques identitaires et sécuritaires.",
+      "image": "https://www.franceinfo.fr/pictures/xkCNRiXIB5HloKAutd6eM-Pgw1Y/0x95:1024x671/432x243/filters:format(jpg)/2026/11/21/6b01e4d0a7978436837903.jpg"
     },
     {
-      "titre": "L'Union européenne \"sabote la paix\" en Ukraine, selon Nicolas Dupont-Aignan",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sabote-la-paix-en-ukraine-selon-nicolas-dupont-aignan_8294792.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-22T12:09:56+01:00",
-      "resume": "Invité sur franceinfo, le candidat à l'élection présidentielle Nicolas Dupont-Aignan a affirmé que l'Union européenne « sabote la paix » en Ukraine et a promis de couper les aides dès son premier jour s'il était élu. Les extraits soulignent également les accusations croissantes entre la Russie et l'Ukraine concernant les violations de cessez-le-feu et la participation des Européens aux négociations.",
-      "contexte": "Le positionnement vis-à-vis du conflit en Ukraine et de l'aide militaire et financière européenne divise profondément la classe politique française. Les débats portent autant sur le rôle diplomatique de l'Union européenne que sur la recherche d'une issue négociée au conflit.",
-      "image": "https://www.franceinfo.fr/pictures/cYxSXlbBO3ESS6MWhQOAMlBe_Ds/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/22/6b02cd7b632d1853397416.jpg"
+      "titre": "Présidentielle 2027 : David Lisnard voit une primaire comme \"un moyen d'exclure les macronistes\"",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes_8294525.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-22T13:58:37+01:00",
+      "resume": "Le candidat Nouvelle Énergie David Lisnard a estimé qu'une primaire à droite et au centre pour la présidentielle de 2027 serait \"un moyen d'exclure les macronistes\". Il a affirmé qu'il ne soutiendrait pas obligatoirement le vainqueur d'un tel vote, refusant de se compromettre avec des personnes avec qui il ne souhaite pas gouverner.",
+      "contexte": "Le positionnement des figures de la droite non populiste en vue de 2027 est marqué par des désaccords stratégiques profonds sur l'opportunité de s'allier ou de se démarquer de la majorité présidentielle sortante. Les primaires sont un outil de rassemblement historiquement risqué et contesté par certains prétendants.",
+      "image": "https://www.franceinfo.fr/pictures/dh_So-iT4s6PxUc67WJezbHwwAI/0x93:1024x669/432x243/filters:format(jpg)/2026/11/22/6b02bc30bd44b564270666.jpg"
+    },
+    {
+      "titre": "Présidentielle 2027 : la CFDT appelle à changer la date du scrutin pour éviter un second tour le 2 mai",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294624.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-22T13:53:26+01:00",
+      "resume": "La secrétaire générale de la CFDT, Marylise Léon, a appelé à changer la date du scrutin présidentiel de 2027 pour éviter un second tour fixé au 2 mai. Elle a qualifié cette date de \"pire scénario possible\" en raison du risque de vives tensions au lendemain de la Fête des travailleurs.",
+      "contexte": "Le calendrier des élections présidentielles françaises est strictement réglementé par la Constitution, mais le télescopage avec des journées de mobilisation syndicale historique comme le 1er mai soulève régulièrement des inquiétudes logistiques et sécuritaires. Les syndicats cherchent ainsi à peser en amont sur l'organisation matérielle du scrutin pour prévenir tout trouble à l'ordre public.",
+      "image": "https://www.franceinfo.fr/pictures/dBcm4MoQ6omNLXT46IUdwhB-66c/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b0295192f534211553656.jpg"
     }
   ],
   "culture": [
@@ -183,5 +201,118 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Effet_de_Serre.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "2351e6fe4d",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Quel exploit sportif récent Victor Wembanyama a-t-il accompli lors d'un match contre les New Orleans Pelicans ?",
+      "choix": [
+        "Il a atteint le seuil de 50 points",
+        "Il a battu le record mondial de contres",
+        "Il a réussi 10 interceptions en un seul match",
+        "Il a marqué 30 points et 10 rebonds"
+      ],
+      "reponse": 0,
+      "explication": "L'article précise que Victor Wembanyama a atteint le total de 50 points lors de ce match.",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/22/pour-victor-wembanyama-la-nouvelle-approche-de-la-barre-emblematique-des-50-points_6814215_3242.html",
+      "image": "https://img.lemde.fr/2026/11/22/291/0/5169/2584/644/322/60/0/f2c7105_ftp-1-pijuasuoo36h-2305790988.jpg"
+    },
+    {
+      "id": "0e3b558a93",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Quelle planète la mission spatiale BepiColombo a-t-elle finalement rejointe après huit ans de voyage ?",
+      "choix": [
+        "Jupiter",
+        "Vénus",
+        "Mercure",
+        "Mars"
+      ],
+      "reponse": 2,
+      "explication": "La mission BepiColombo est entrée dans l'orbite de Mercure après un voyage de huit ans.",
+      "lien": "https://www.franceinfo.fr/sciences/espace/la-mission-spatiale-bepicolombo-est-entree-dans-l-orbite-de-mercure-apres-huit-ans-de-voyage_8294507.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/SJ0Ikvj2cGjG3LqqjsL5h7kpPD0/0x100:1024x676/432x243/filters:format(jpg)/2026/11/22/6b02b45b356ef827469630.jpg"
+    },
+    {
+      "id": "ddcad33a7d",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Quelle somme le FBI offrait-il pour la capture du baron de la drogue Chapo Isidro ?",
+      "choix": [
+        "Cinq millions de dollars",
+        "Dix millions de dollars",
+        "Un million de dollars",
+        "Trois millions de dollars"
+      ],
+      "reponse": 0,
+      "explication": "L'article mentionne explicitement que le FBI offrait une récompense de cinq millions de dollars pour sa capture.",
+      "lien": "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/dBAUKUhl0XoQ2k5heJLeTgsM_V0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02b76ae8883917963460.jpg"
+    },
+    {
+      "id": "73098708b6",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Pourquoi l'Union européenne s'est-elle opposée à l'adoption de la déclaration finale de la COP31 ?",
+      "choix": [
+        "Le texte ne prévoyait pas assez de financements",
+        "La Turquie a refusé de signer l'accord",
+        "La durée des prolongations était jugée insuffisante",
+        "Le projet ne contenait pas d'appel explicite à sortir des énergies fossiles"
+      ],
+      "reponse": 3,
+      "explication": "L'UE a bloqué l'accord car il manquait une demande claire pour abandonner les énergies fossiles.",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/1hqMEsVmv6SMewm-8I2L5GHy4VI/0x39:1024x615/432x243/filters:format(jpg)/2026/11/22/6b02d2f4c80e6188528691.jpg"
+    },
+    {
+      "id": "e697247b59",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Pourquoi la CFDT souhaite-t-elle changer la date du second tour de l'élection présidentielle de 2027 ?",
+      "choix": [
+        "Pour ne pas interférer avec les vacances scolaires",
+        "Pour éviter le 2 mai, au lendemain de la Fête des travailleurs",
+        "Parce que le bureau de vote principal est indisponible",
+        "Pour éviter qu'il ne tombe un jour férié"
+      ],
+      "reponse": 1,
+      "explication": "La CFDT craint des tensions sociales fortes si le scrutin a lieu au lendemain du 1er mai.",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294624.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/dBcm4MoQ6omNLXT46IUdwhB-66c/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b0295192f534211553656.jpg"
+    },
+    {
+      "id": "a381cd2df3",
+      "date": "2026-11-22",
+      "type": "culture",
+      "question": "Sur quel principe fondamental repose l'efficacité des vaccins selon la fiche sur le système immunitaire ?",
+      "choix": [
+        "L'augmentation permanente de la température corporelle",
+        "La destruction immédiate des globules blancs",
+        "La transformation des bactéries en nutriments",
+        "La capacité du corps à créer des cellules mémoire après une première exposition"
+      ],
+      "reponse": 3,
+      "explication": "Les vaccins exploitent la mémoire immunitaire qui permet au corps de réagir plus vite en cas de nouvelle attaque.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "d2e22672b8",
+      "date": "2026-11-22",
+      "type": "culture",
+      "question": "Quels sont les deux principaux gaz mentionnés comme contribuant à l'effet de serre naturel ?",
+      "choix": [
+        "La vapeur d'eau et le dioxyde de carbone",
+        "L'hélium et l'hydrogène",
+        "L'oxygène et l'azote",
+        "Le méthane et le néon"
+      ],
+      "reponse": 0,
+      "explication": "La fiche indique que la vapeur d'eau et le dioxyde de carbone sont les gaz qui piègent la chaleur dans l'atmosphère.",
+      "lien": "",
+      "image": ""
+    }
+  ]
 }
