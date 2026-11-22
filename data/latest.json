@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "mode": "evening",
-  "updated": "2026-11-22T14:58:19.523949+01:00",
+  "updated": "2026-11-22T21:54:40.059354+01:00",
   "deja_presente": [],
   "depuis_hier": [
     {
@@ -79,103 +79,85 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Couper les subventions aux associations \"politisées\" \"n'est pas du chantage\", assure Marine Le Pen",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Ça devient lassant\" : avec la répétition des inondations dans le Pas-de-Calais, des quartiers vont-ils bientôt être désertés ?",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/ca-devient-lassant-avec-la-repetition-des-inondations-dans-le-pas-de-calais-des-quartiers-vont-ils-bientot-etre-desertes_8295173.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-22T14:55:14+01:00",
-      "resume": "Marine Le Pen a assuré lundi que couper les subventions aux associations qu'elle juge \"politisées\" n'est pas du chantage, tout en confirmant son intention de cesser de les financer si elle remporte l'élection de 2027. Interrogée par ailleurs sur le préfet Hugues Moutouh, soupçonné d'avoir renseigné le Rassemblement national, elle a affirmé n'avoir jamais reçu d'informations confidentielles. Elle s'est dite incapable de dire s'il y avait d'autres bénéficiaires au sein de son parti, l'enquête étant en cours.",
-      "contexte": "Ces déclarations s'inscrivent dans la pré-campagne pour l'élection présidentielle de 2027, où la candidate du Rassemblement national cherche à préciser son programme institutionnel et politique. Les questions autour de ses liens potentiels avec des membres de l'administration illustrent les controverses politico-judiciaires qui entourent régulièrement le parti d'extrême droite. La question du financement des associations est par ailleurs un classique du débat public sur la neutralité du secteur associatif.",
-      "image": "https://www.franceinfo.fr/pictures/DgBG5MKcy7okawT0DLgmtQwCBR8/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02de10bb0a5294591546.jpg"
+      "date": "2026-11-22T21:14:16+01:00",
+      "resume": "De nouvelles alertes inondations ont été émises pour l'Ain, le Jura et la Corse en raison de vents violents et de fortes précipitations. Dans le Pas-de-Calais, la situation reste critique dimanche 22 novembre avec 850 logements inondés. Cette répétition des catastrophes pousse les habitants à s'interroger sur l'éventualité de devoir quitter leurs habitations.",
+      "contexte": "La récurrence des inondations dans certaines régions françaises pose la question de l'habitabilité à long terme de zones vulnérables face au changement climatique. Les pouvoirs publics et les collectivités locales doivent faire face à des enjeux majeurs d'aménagement du territoire, de protection des populations et de coûts croissants liés aux indemnisations des catastrophes naturelles.",
+      "image": "https://www.franceinfo.fr/pictures/yQpsc0mWpOWTj8sa2nzzbaQ2rYs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b034c69412d7475813870.jpg"
     },
     {
-      "titre": "Pour Victor Wembanyama, la nouvelle approche du seuil emblématique des 50 points",
-      "lien": "https://www.lemonde.fr/sport/article/2026/11/22/pour-victor-wembanyama-la-nouvelle-approche-de-la-barre-emblematique-des-50-points_6814215_3242.html",
-      "source": "Le Monde",
-      "date": "2026-11-22T14:44:36+01:00",
-      "resume": "La star française du basket Victor Wembanyama a atteint le total de 50 points, assortis de 19 rebonds, cinq contres et quatre interceptions, lors d'un match disputé le 21 novembre face aux New Orleans Pelicans. Il a assumé avoir cherché à atteindre ce seuil emblématique, à rebours de son approche habituelle du jeu.",
-      "contexte": "Ce type de performance individuelle marque une étape importante dans la jeune carrière de l'intérieur français en NBA, confirmant son statut de joueur majeur de la ligue nord-américaine. Atteindre le seuil des 50 points est une marque rare et prestigieuse qui attire l'attention des médias sportifs internationaux.",
-      "image": "https://img.lemde.fr/2026/11/22/291/0/5169/2584/644/322/60/0/f2c7105_ftp-1-pijuasuoo36h-2305790988.jpg"
-    },
-    {
-      "titre": "\"Le même produit va être un remède ou un poison, selon les époques\" : le Musée de l'Homme consacre une exposition aux drogues",
-      "lien": "https://www.franceinfo.fr/sante/drogue-addictions/reportage-le-meme-produit-va-etre-un-remede-ou-un-poison-selon-les-epoques-le-musee-de-l-homme-consacre-une-exposition-aux-drogues_8294579.html#xtor=RSS-3-[lestitres]",
+      "titre": "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-22T14:44:08+01:00",
-      "resume": "Le Musée de l'Homme à Paris consacre une vaste exposition aux drogues pour interroger nos rapports avec ces produits psychoactifs. Le parcours scientifique proposé met en avant la manière dont les substances peuvent être perçues comme des remèdes ou des poisons selon les époques.",
-      "contexte": "Ce type d'exposition culturelle et scientifique vise à déconstruire les préjugés entourant les substances psychoactifs en replaçant leur usage dans une perspective historique et anthropologique. Les questions liées aux drogues demeurent un enjeu sociétal majeur, oscillant entre politiques de santé publique et gestion des addictions.",
-      "image": "https://www.franceinfo.fr/pictures/6uQvrgaT76qCEG3ZFnqfDuxArIk/0x247:2000x1372/432x243/filters:format(jpg)/2026/11/22/6b02b55feb6c0385837753.jpg"
+      "date": "2026-11-22T21:13:44+01:00",
+      "resume": "Le parquet de Lublin a annoncé que les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie. La chute de ces projectiles, qui n'a pas fait de blessés, a été suivie dans au moins un cas d'une explosion et d'un incendie.",
+      "contexte": "Cet incident s'inscrit dans un climat de vive tension entre les pays de l'OTAN et la Russie, marqué par des incursions ou des chutes de matériel militaire dans des pays frontaliers de l'Ukraine. Ce type d'événement fait craindre une escalade du conflit et renforce la vigilance des pays de l'Alliance atlantique sur leur flanc oriental.",
+      "image": "https://www.franceinfo.fr/pictures/SwyRpU4ks3pdkWsoBwrDmWFFgOs/29x0:994x543/432x243/filters:format(jpg)/2026/11/22/6b034cd448212394756538.jpg"
     },
     {
-      "titre": "La mission spatiale BepiColombo est entrée dans l'orbite de Mercure après huit ans de voyage",
-      "lien": "https://www.franceinfo.fr/sciences/espace/la-mission-spatiale-bepicolombo-est-entree-dans-l-orbite-de-mercure-apres-huit-ans-de-voyage_8294507.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-22T14:32:18+01:00",
-      "resume": "La mission spatiale BepiColombo est entrée dans l'orbite de Mercure après un voyage de huit ans. Lancé en octobre 2018, l'engin de quatre tonnes a parcouru plus de 10 milliards de kilomètres pour ajuster sa vitesse et sa trajectoire vers la planète la plus proche du Soleil.",
-      "contexte": "L'exploration de Mercure est particulièrement complexe en raison de la forte attraction gravitationnelle du Soleil, ce qui nécessite de longs calculs de trajectoire et de multiples manœuvres d'assistance gravitationnelle. Cette mission conjointe entre l'Agence spatiale européenne et l'Agence spatiale japonaise vise à mieux comprendre la composition et la formation de cette planète rocheuse mal connue.",
-      "image": "https://www.franceinfo.fr/pictures/SJ0Ikvj2cGjG3LqqjsL5h7kpPD0/0x100:1024x676/432x243/filters:format(jpg)/2026/11/22/6b02b45b356ef827469630.jpg"
+      "titre": "En Turquie, des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition",
+      "lien": "https://www.franceinfo.fr/monde/turquie/en-turquie-des-milliers-de-personnes-manifestent-a-istanbul-contre-la-fermeture-de-medias-d-opposition_8295182.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · Le Monde",
+      "date": "2026-11-22T21:04:43+01:00",
+      "resume": "Des milliers de personnes ont manifesté à Istanbul pour dénoncer la mise sous tutelle des médias d'opposition par l'État. Cette mobilisation, organisée à l'appel du parti Yeni Parti, fait suite à la perquisition du siège de la chaîne Sözcü TV mardi, à l'arrestation de plusieurs de ses dirigeants et à la nomination d'un administrateur gouvernemental.",
+      "contexte": "Ces actions contre la presse indépendante en Turquie s'inscrivent dans un contexte de restriction continue de la liberté d'expression et du pluralisme politique. L'intervention du gouvernement dans les médias vise généralement à museler les voix critiques, suscitant de vives inquiétudes au niveau national et international quant à l'état de la démocratie dans le pays.",
+      "image": "https://www.franceinfo.fr/pictures/2Sjw3fRrYMws8nLJJFFIcj436x4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b034ab6d9b37774545656.jpg"
     },
     {
-      "titre": "Sabyl Ghoussoub : \"j'ai avant tout écrit un livre d'amour\"",
-      "lien": "https://www.franceinfo.fr/replay-radio/l-invite-culture/sabyl-ghoussoub-j-ai-avant-tout-ecrit-un-livre-d-amour_8250466.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-22T14:30:02+01:00",
-      "resume": "L'auteur Sabyl Ghoussoub publie \"Mon Imam\", un roman dans lequel il aborde la religion, la sexualité dans l'islam et sa propre quête identitaire au cœur du Moyen-Orient. Il qualifie lui-même son ouvrage avant tout comme un \"livre d'amour\" qui cherche à briser certains tabous.",
-      "contexte": "La littérature abordant les liens entre intimité, religion et identité culturelle occupe une place importante dans les débats contemporains sur la liberté d'expression et l'évolution des traditions. Ce type d'œuvre cherche souvent à donner une vision plus nuancée des sociétés du Moyen-Orient et de la diaspora.",
-      "image": "https://www.franceinfo.fr/pictures/kb8W8NgqFNI94RUR_WXCgFmL-J4/0x173:3336x2050/432x243/filters:format(jpg)/2023/08/10/64d4bbdaba273_000-32ta6x9.jpg"
+      "titre": "Choose France : les entreprises françaises prêtent à investir 42,5 milliards d'euros",
+      "lien": "https://www.france24.com/fr/france/20261122-choose-france-entreprises-fran%C3%A7aises-pr%C3%AAtent-investir-42-5-milliards-euros-emmanuel-macron-%C3%A9conomie-investissements-projet",
+      "source": "France 24 · franceinfo",
+      "date": "2026-11-22T20:58:34+01:00",
+      "resume": "Les entreprises tricolores projettent d'investir 42,5 milliards d'euros en France à l'occasion du sommet Choose France qui s'ouvre lundi. Plus de 200 projets industriels, incluant près de 15 milliards d'euros d'investissements nouveaux répartis sur 273 projets valorisés, sont mis à l'honneur malgré un contexte économique difficile.",
+      "contexte": "Le sommet Choose France a été créé pour attirer les investissements étrangers et stimuler l'économie nationale en valorisant l'attractivité industrielle du pays. L'implication des entreprises françaises témoigne d'une volonté de soutenir la dynamique de réindustrialisation et de transformation écologique portée par le gouvernement.",
+      "image": "https://s.france24.com/media/display/0b2fc994-e6ab-11f1-9ffc-1bac47ab2f5d/w:1024/p:16x9/AP26152618587040.jpg"
     },
     {
-      "titre": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis",
-      "lien": "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-22T14:26:41+01:00",
-      "resume": "Le Mexique a annoncé l'arrestation de Chapo Isidro, un baron de la drogue recherché par les États-Unis. Ce narcotrafiquant de 44 ans faisait l'objet de poursuites dans les deux pays, et le FBI offrait une récompense de cinq millions de dollars pour sa capture.",
-      "contexte": "Cette arrestation illustre la coopération transfrontalière continue entre les autorités mexicaines et américaines dans le cadre de la lutte contre les cartels de la drogue. Les narcotrafiquants de premier plan font l'objet de traques internationales de longue haleine en raison de l'impact sécuritaire et économique de leurs réseaux.",
-      "image": "https://www.franceinfo.fr/pictures/dBAUKUhl0XoQ2k5heJLeTgsM_V0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02b76ae8883917963460.jpg"
-    },
-    {
-      "titre": "En Cisjordanie occupée, une enquête ouverte après des incendies imputés à des colons israéliens",
-      "lien": "https://www.franceinfo.fr/monde/israel/une-enquete-ouverte-apres-des-incendies-imputes-a-des-colons-israeliens-en-cisjordanie-occupee_8294669.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-22T14:20:08+01:00",
-      "resume": "Une enquête a été ouverte en Cisjordanie occupée à la suite d'incendies imputés à des colons israéliens. Gadi Eisenkot, rival du Premier ministre sortant Benyamin Nétanyahou, a qualifié ces actes de \"terrorisme juif\" et a estimé qu'ils ébranlaient la stabilité régionale.",
-      "contexte": "Les violences commises par des colons extrémistes en Cisjordanie constituent un sujet de tension récurrent qui exacerbe le conflit israélo-palestinien et complique la situation politique interne en Israël. Les condamnations de telles exactions par des responsables politiques traduisent des clivages profonds sur la gestion des territoires occupés et la sécurité.",
-      "image": "https://www.franceinfo.fr/pictures/Yd2KJQH4vcgGaUVHg2I_xsPEdEU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02e664b7b85907440585.jpg"
-    },
-    {
-      "titre": "Crise climatique : l'Union européenne \"s'oppose\" à l'adoption de la déclaration finale de la COP31, après quasiment deux jours de prolongations",
+      "titre": "COP31 : le secrétaire général de l'Onu \"profondément déçu\" par l'échec des négociations sur le climat",
       "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-22T14:16:54+01:00",
-      "resume": "L'Union européenne s'est opposée à l'adoption de la déclaration finale de la COP31, qui s'est achevée en Turquie après quasiment deux jours de prolongations. La dernière version du projet d'accord soumise aux participants ne contenait toujours pas d'appel explicite à sortir des énergies fossiles.",
-      "contexte": "Les négociations climatiques internationales se heurtent régulièrement à des compromis difficiles entre les pays producteurs d'hydrocarbures et les nations exigeant des objectifs plus contraignants. L'absence d'un consensus sur la sortie des énergies fossiles est souvent critiquée par les défenseurs de l'environnement comme un frein majeur à la lutte contre le réchauffement climatique.",
-      "image": "https://www.franceinfo.fr/pictures/1hqMEsVmv6SMewm-8I2L5GHy4VI/0x39:1024x615/432x243/filters:format(jpg)/2026/11/22/6b02d2f4c80e6188528691.jpg"
+      "date": "2026-11-22T20:49:52+01:00",
+      "resume": "La conférence de l'ONU sur le climat COP31 s'est achevée dimanche en Turquie sans accord global des pays participants, après près de deux jours de prolongations. Le secrétaire général de l'ONU s'est déclaré profondément déçu par cet échec, motivé notamment par le rejet de l'Union européenne de signer un texte dépourvu de mention explicite sur les énergies fossiles.",
+      "contexte": "Les négociations climatiques internationales se heurtent régulièrement à des divergences profondes entre les pays producteurs d'hydrocarbures, les pays en développement et les nations industrialisées sur la sortie progressive des énergies fossiles. L'absence de consensus lors de ces sommets ralentit la mise en œuvre des engagements mondiaux de réduction des émissions de gaz à effet de serre.",
+      "image": "https://www.franceinfo.fr/pictures/0wtves3akaT95LNx7d1bIXwfpUA/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b03399cc7134292744805.jpg"
     },
     {
-      "titre": "\"Je serai le candidat de la liberté de penser, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
-      "lien": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-[lestitres]",
+      "titre": "Tenir le deuxième tour de la présidentielle \"au lendemain d'un 1er mai est une erreur\", estime Raphaël Glucksmann, qui demande d'avancer le scrutin",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-22T14:00:52+01:00",
-      "resume": "Éric Zemmour a tenu samedi son premier meeting de campagne présidentielle au Zénith de Toulon. Le président du parti d'extrême droite a clamé devant ses partisans qu'il serait \"le candidat de la liberté de penser, de dire ce que vous voyez\".",
-      "contexte": "Ce type de rassemblement marque le lancement officiel de la course électorale pour les candidats cherchant à mobiliser leur base militante dès les premiers stades de la campagne de 2027. La stratégie de la droite radicale repose traditionnellement sur la mise en avant de thématiques identitaires et sécuritaires.",
-      "image": "https://www.franceinfo.fr/pictures/xkCNRiXIB5HloKAutd6eM-Pgw1Y/0x95:1024x671/432x243/filters:format(jpg)/2026/11/21/6b01e4d0a7978436837903.jpg"
+      "date": "2026-11-22T20:48:44+01:00",
+      "resume": "Le candidat PS-Place publique Raphaël Glucksmann estime qu'il est erroné de tenir le second tour de l'élection présidentielle au lendemain du 1er mai. Il propose d'avancer le scrutin en organisant les deux tours les 11 et 25 avril pour éviter de prendre des risques avec cette élection.",
+      "contexte": "Le calendrier électoral français est souvent sujet à des débats concernant la concomitance avec des jours fériés ou des mouvements sociaux traditionnels, susceptibles de perturber la campagne ou la participation. Les propositions de modification visent à garantir la sérénité du débat démocratique et la mobilisation des électeurs.",
+      "image": "https://www.franceinfo.fr/pictures/EX-v-L03Os2tPkiuxBjViwwn0ZQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b032782e0547074848141.jpg"
     },
     {
-      "titre": "Présidentielle 2027 : David Lisnard voit une primaire comme \"un moyen d'exclure les macronistes\"",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes_8294525.html#xtor=RSS-3-[lestitres]",
+      "titre": "\"Je ne gouvernerai pas avec le RN\", déclare David Lisnard, candidat du parti Nouvelle Energie à la présidentielle",
+      "lien": "https://www.franceinfo.fr/elections/je-ne-gouvernerai-pas-avec-le-rn-declare-david-lisnard-candidat-du-parti-nouvelle-energie-a-la-presidentielle_8295167.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-22T13:58:37+01:00",
-      "resume": "Le candidat Nouvelle Énergie David Lisnard a estimé qu'une primaire à droite et au centre pour la présidentielle de 2027 serait \"un moyen d'exclure les macronistes\". Il a affirmé qu'il ne soutiendrait pas obligatoirement le vainqueur d'un tel vote, refusant de se compromettre avec des personnes avec qui il ne souhaite pas gouverner.",
-      "contexte": "Le positionnement des figures de la droite non populiste en vue de 2027 est marqué par des désaccords stratégiques profonds sur l'opportunité de s'allier ou de se démarquer de la majorité présidentielle sortante. Les primaires sont un outil de rassemblement historiquement risqué et contesté par certains prétendants.",
-      "image": "https://www.franceinfo.fr/pictures/dh_So-iT4s6PxUc67WJezbHwwAI/0x93:1024x669/432x243/filters:format(jpg)/2026/11/22/6b02bc30bd44b564270666.jpg"
+      "date": "2026-11-22T20:47:14+01:00",
+      "resume": "David Lisnard, maire de Cannes et candidat du parti Nouvelle Énergie à l'élection présidentielle, a exclu toute alliance avec le Rassemblement national dans un message publié sur le réseau social X. Il a justifié cette décision en mettant en avant des divergences profondes sur les questions économiques.",
+      "contexte": "À l'approche de l'élection présidentielle, les positionnements vis-à-vis de l'extrême droite constituent un enjeu stratégique majeur pour les candidats de droite et du centre. Les divergences programmatiques, en particulier sur l'économie et l'Europe, délimitent les alliances possibles et la recomposition du paysage politique.",
+      "image": "https://www.franceinfo.fr/pictures/k6qBFBQLSxlbrGj9Ba6hZfjEvuo/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b0321f696e22963314682.jpg"
     },
     {
-      "titre": "Présidentielle 2027 : la CFDT appelle à changer la date du scrutin pour éviter un second tour le 2 mai",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294624.html#xtor=RSS-3-[lestitres]",
+      "titre": "Carlos Alcaraz éteint le n°1 mondial Alexander Zverev pour décrocher le premier Masters de sa carrière",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-eteint-le-n-1-mondial-alexander-zverev-pour-decrocher-le-premier-masters-de-sa-carriere_8295140.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-22T13:53:26+01:00",
-      "resume": "La secrétaire générale de la CFDT, Marylise Léon, a appelé à changer la date du scrutin présidentiel de 2027 pour éviter un second tour fixé au 2 mai. Elle a qualifié cette date de \"pire scénario possible\" en raison du risque de vives tensions au lendemain de la Fête des travailleurs.",
-      "contexte": "Le calendrier des élections présidentielles françaises est strictement réglementé par la Constitution, mais le télescopage avec des journées de mobilisation syndicale historique comme le 1er mai soulève régulièrement des inquiétudes logistiques et sécuritaires. Les syndicats cherchent ainsi à peser en amont sur l'organisation matérielle du scrutin pour prévenir tout trouble à l'ordre public.",
-      "image": "https://www.franceinfo.fr/pictures/dBcm4MoQ6omNLXT46IUdwhB-66c/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b0295192f534211553656.jpg"
+      "date": "2026-11-22T20:45:22+01:00",
+      "resume": "L'Espagnol Carlos Alcaraz a battu le numéro un mondial Alexander Zverev en deux manches (6-2, 7-6 [9-7]) dimanche à Turin. Grâce à cette victoire en finale, il remporte le premier Masters de sa carrière.",
+      "contexte": "Le Masters de fin d'année réunit les meilleurs joueurs de tennis de la saison et constitue l'un des titres les plus prestigieux du circuit professionnel après les tournois du Grand Chelem. Remporter ce tournoi confirme le statut de joueur d'élite de Carlos Alcaraz sur toutes les surfaces.",
+      "image": "https://www.franceinfo.fr/pictures/gk_DV2dJ3IXq61GiSjkB3ITTpew/0x0:8256x4644/432x243/filters:format(jpg)/2026/11/22/6b0336d012849709988245.jpg"
+    },
+    {
+      "titre": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-22T20:43:53+01:00",
+      "resume": "La Finlande a alerté l'OTAN après deux incidents graves survenus samedi 21 novembre, auxquels s'ajoute une alerte aérienne sur la base navale russe de Kaliningrad. Le Quai d'Orsay a réagi à cette multiplication des incidents militaires entre l'Europe et la Russie en prônant le calme, le soutien à l'Ukraine, l'augmentation de la pression sur Moscou et la préparation de l'après.",
+      "contexte": "Depuis l'adhésion de la Finlande à l'OTAN et le déclenchement de la guerre en Ukraine, la région de la mer Baltique est le théâtre de tensions géopolitiques accrues et d'opérations hybrides attribuées à la Russie. Les diplomaties occidentales cherchent à afficher une fermeté mesurée pour dissuader toute escalade militaire directe.",
+      "image": "https://www.franceinfo.fr/pictures/3yZOwULT2axlqlUi1zAPQbG2qOc/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b03452fa042e747058214.jpg"
     }
   ],
   "culture": [
@@ -203,114 +185,114 @@
   ],
   "quiz_jour": [
     {
-      "id": "2351e6fe4d",
+      "id": "0ab394c50a",
       "date": "2026-11-22",
       "type": "actu",
-      "question": "Quel exploit sportif récent Victor Wembanyama a-t-il accompli lors d'un match contre les New Orleans Pelicans ?",
+      "question": "Combien de logements ont été inondés dans le Pas-de-Calais lors des intempéries de fin novembre ?",
       "choix": [
-        "Il a atteint le seuil de 50 points",
-        "Il a battu le record mondial de contres",
-        "Il a réussi 10 interceptions en un seul match",
-        "Il a marqué 30 points et 10 rebonds"
+        "850 logements",
+        "1200 logements",
+        "150 logements",
+        "450 logements"
       ],
       "reponse": 0,
-      "explication": "L'article précise que Victor Wembanyama a atteint le total de 50 points lors de ce match.",
-      "lien": "https://www.lemonde.fr/sport/article/2026/11/22/pour-victor-wembanyama-la-nouvelle-approche-de-la-barre-emblematique-des-50-points_6814215_3242.html",
-      "image": "https://img.lemde.fr/2026/11/22/291/0/5169/2584/644/322/60/0/f2c7105_ftp-1-pijuasuoo36h-2305790988.jpg"
+      "explication": "L'article indique que la situation est critique avec 850 logements inondés dans le Pas-de-Calais.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/ca-devient-lassant-avec-la-repetition-des-inondations-dans-le-pas-de-calais-des-quartiers-vont-ils-bientot-etre-desertes_8295173.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/yQpsc0mWpOWTj8sa2nzzbaQ2rYs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b034c69412d7475813870.jpg"
     },
     {
-      "id": "0e3b558a93",
+      "id": "d2d538d10a",
       "date": "2026-11-22",
       "type": "actu",
-      "question": "Quelle planète la mission spatiale BepiColombo a-t-elle finalement rejointe après huit ans de voyage ?",
+      "question": "De quel pays provenaient les missiles de croisière tombés en Pologne selon le parquet de Lublin ?",
       "choix": [
-        "Jupiter",
-        "Vénus",
-        "Mercure",
-        "Mars"
+        "De Russie",
+        "De Biélorussie",
+        "D'Ukraine",
+        "D'Allemagne"
+      ],
+      "reponse": 0,
+      "explication": "Le parquet de Lublin a confirmé que les objets volants étaient des missiles de croisière fabriqués en Russie.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/SwyRpU4ks3pdkWsoBwrDmWFFgOs/29x0:994x543/432x243/filters:format(jpg)/2026/11/22/6b034cd448212394756538.jpg"
+    },
+    {
+      "id": "9d5fd8076e",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Quelle est la principale raison invoquée pour l'échec des négociations climatiques de la COP31 ?",
+      "choix": [
+        "Le rejet par l'Union européenne d'un texte sans mention des énergies fossiles",
+        "Le manque de financement pour les pays en développement",
+        "Le retrait des États-Unis",
+        "Le refus de la Chine de signer le protocole"
+      ],
+      "reponse": 0,
+      "explication": "L'échec est notamment motivé par le rejet de l'Union européenne de signer un texte dépourvu de mention explicite sur les énergies fossiles.",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/0wtves3akaT95LNx7d1bIXwfpUA/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b03399cc7134292744805.jpg"
+    },
+    {
+      "id": "5b82bf88e5",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Quel joueur de tennis Carlos Alcaraz a-t-il battu pour remporter le premier Masters de sa carrière ?",
+      "choix": [
+        "Novak Djokovic",
+        "Jannik Sinner",
+        "Alexander Zverev",
+        "Rafael Nadal"
       ],
       "reponse": 2,
-      "explication": "La mission BepiColombo est entrée dans l'orbite de Mercure après un voyage de huit ans.",
-      "lien": "https://www.franceinfo.fr/sciences/espace/la-mission-spatiale-bepicolombo-est-entree-dans-l-orbite-de-mercure-apres-huit-ans-de-voyage_8294507.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/SJ0Ikvj2cGjG3LqqjsL5h7kpPD0/0x100:1024x676/432x243/filters:format(jpg)/2026/11/22/6b02b45b356ef827469630.jpg"
+      "explication": "Carlos Alcaraz a battu le numéro un mondial Alexander Zverev en finale pour s'adjuger son premier Masters.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-eteint-le-n-1-mondial-alexander-zverev-pour-decrocher-le-premier-masters-de-sa-carriere_8295140.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/gk_DV2dJ3IXq61GiSjkB3ITTpew/0x0:8256x4644/432x243/filters:format(jpg)/2026/11/22/6b0336d012849709988245.jpg"
     },
     {
-      "id": "ddcad33a7d",
+      "id": "a3f4a316e1",
       "date": "2026-11-22",
       "type": "actu",
-      "question": "Quelle somme le FBI offrait-il pour la capture du baron de la drogue Chapo Isidro ?",
+      "question": "Quelles dates Raphaël Glucksmann propose-t-il pour organiser les deux tours de l'élection présidentielle ?",
       "choix": [
-        "Cinq millions de dollars",
-        "Dix millions de dollars",
-        "Un million de dollars",
-        "Trois millions de dollars"
-      ],
-      "reponse": 0,
-      "explication": "L'article mentionne explicitement que le FBI offrait une récompense de cinq millions de dollars pour sa capture.",
-      "lien": "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/dBAUKUhl0XoQ2k5heJLeTgsM_V0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02b76ae8883917963460.jpg"
-    },
-    {
-      "id": "73098708b6",
-      "date": "2026-11-22",
-      "type": "actu",
-      "question": "Pourquoi l'Union européenne s'est-elle opposée à l'adoption de la déclaration finale de la COP31 ?",
-      "choix": [
-        "Le texte ne prévoyait pas assez de financements",
-        "La Turquie a refusé de signer l'accord",
-        "La durée des prolongations était jugée insuffisante",
-        "Le projet ne contenait pas d'appel explicite à sortir des énergies fossiles"
+        "Les 7 et 21 mai",
+        "Les 18 avril et 2 mai",
+        "Les 4 et 18 avril",
+        "Les 11 et 25 avril"
       ],
       "reponse": 3,
-      "explication": "L'UE a bloqué l'accord car il manquait une demande claire pour abandonner les énergies fossiles.",
-      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/1hqMEsVmv6SMewm-8I2L5GHy4VI/0x39:1024x615/432x243/filters:format(jpg)/2026/11/22/6b02d2f4c80e6188528691.jpg"
+      "explication": "Raphaël Glucksmann propose d'avancer le scrutin en organisant les deux tours les 11 et 25 avril.",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/EX-v-L03Os2tPkiuxBjViwwn0ZQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b032782e0547074848141.jpg"
     },
     {
-      "id": "e697247b59",
-      "date": "2026-11-22",
-      "type": "actu",
-      "question": "Pourquoi la CFDT souhaite-t-elle changer la date du second tour de l'élection présidentielle de 2027 ?",
-      "choix": [
-        "Pour ne pas interférer avec les vacances scolaires",
-        "Pour éviter le 2 mai, au lendemain de la Fête des travailleurs",
-        "Parce que le bureau de vote principal est indisponible",
-        "Pour éviter qu'il ne tombe un jour férié"
-      ],
-      "reponse": 1,
-      "explication": "La CFDT craint des tensions sociales fortes si le scrutin a lieu au lendemain du 1er mai.",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294624.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/dBcm4MoQ6omNLXT46IUdwhB-66c/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b0295192f534211553656.jpg"
-    },
-    {
-      "id": "a381cd2df3",
+      "id": "05ec03f41c",
       "date": "2026-11-22",
       "type": "culture",
-      "question": "Sur quel principe fondamental repose l'efficacité des vaccins selon la fiche sur le système immunitaire ?",
+      "question": "Quel choix le maharaja du Cachemire a-t-il fait lors de la partition des Indes britanniques ?",
       "choix": [
-        "L'augmentation permanente de la température corporelle",
-        "La destruction immédiate des globules blancs",
-        "La transformation des bactéries en nutriments",
-        "La capacité du corps à créer des cellules mémoire après une première exposition"
+        "Rattacher la région au Pakistan",
+        "Rattacher la région à l'Inde",
+        "Confier la région à l'ONU",
+        "Déclarer l'indépendance totale du territoire"
       ],
-      "reponse": 3,
-      "explication": "Les vaccins exploitent la mémoire immunitaire qui permet au corps de réagir plus vite en cas de nouvelle attaque.",
+      "reponse": 1,
+      "explication": "Le maharaja du Cachemire a opté pour le rattachement à l'Inde, déclenchant une première guerre entre les deux nations.",
       "lien": "",
       "image": ""
     },
     {
-      "id": "d2e22672b8",
+      "id": "d4ed77542d",
       "date": "2026-11-22",
       "type": "culture",
-      "question": "Quels sont les deux principaux gaz mentionnés comme contribuant à l'effet de serre naturel ?",
+      "question": "Sur quel principe repose fondamentalement l'efficacité des vaccins ?",
       "choix": [
-        "La vapeur d'eau et le dioxyde de carbone",
-        "L'hélium et l'hydrogène",
-        "L'oxygène et l'azote",
-        "Le méthane et le néon"
+        "La capacité du système immunitaire à mémoriser les agents pathogènes grâce à des cellules mémoire",
+        "La destruction immédiate de toutes les bactéries de l'intestin",
+        "L'augmentation artificielle de la température corporelle",
+        "Le renouvellement total du sang en quelques heures"
       ],
       "reponse": 0,
-      "explication": "La fiche indique que la vapeur d'eau et le dioxyde de carbone sont les gaz qui piègent la chaleur dans l'atmosphère.",
+      "explication": "Les vaccins reposent sur la mémoire cellulaire et la capacité des lymphocytes à se transformer en cellules mémoire pour réagir plus vite en cas de nouvelle attaque.",
       "lien": "",
       "image": ""
     }

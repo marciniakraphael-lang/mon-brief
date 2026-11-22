@@ -7370,6 +7370,118 @@
       "explication": "La fiche indique que la vapeur d'eau et le dioxyde de carbone sont les gaz qui piègent la chaleur dans l'atmosphère.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "0ab394c50a",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Combien de logements ont été inondés dans le Pas-de-Calais lors des intempéries de fin novembre ?",
+      "choix": [
+        "850 logements",
+        "1200 logements",
+        "150 logements",
+        "450 logements"
+      ],
+      "reponse": 0,
+      "explication": "L'article indique que la situation est critique avec 850 logements inondés dans le Pas-de-Calais.",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/ca-devient-lassant-avec-la-repetition-des-inondations-dans-le-pas-de-calais-des-quartiers-vont-ils-bientot-etre-desertes_8295173.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/yQpsc0mWpOWTj8sa2nzzbaQ2rYs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b034c69412d7475813870.jpg"
+    },
+    {
+      "id": "d2d538d10a",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "De quel pays provenaient les missiles de croisière tombés en Pologne selon le parquet de Lublin ?",
+      "choix": [
+        "De Russie",
+        "De Biélorussie",
+        "D'Ukraine",
+        "D'Allemagne"
+      ],
+      "reponse": 0,
+      "explication": "Le parquet de Lublin a confirmé que les objets volants étaient des missiles de croisière fabriqués en Russie.",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/SwyRpU4ks3pdkWsoBwrDmWFFgOs/29x0:994x543/432x243/filters:format(jpg)/2026/11/22/6b034cd448212394756538.jpg"
+    },
+    {
+      "id": "9d5fd8076e",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Quelle est la principale raison invoquée pour l'échec des négociations climatiques de la COP31 ?",
+      "choix": [
+        "Le rejet par l'Union européenne d'un texte sans mention des énergies fossiles",
+        "Le manque de financement pour les pays en développement",
+        "Le retrait des États-Unis",
+        "Le refus de la Chine de signer le protocole"
+      ],
+      "reponse": 0,
+      "explication": "L'échec est notamment motivé par le rejet de l'Union européenne de signer un texte dépourvu de mention explicite sur les énergies fossiles.",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/0wtves3akaT95LNx7d1bIXwfpUA/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b03399cc7134292744805.jpg"
+    },
+    {
+      "id": "5b82bf88e5",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Quel joueur de tennis Carlos Alcaraz a-t-il battu pour remporter le premier Masters de sa carrière ?",
+      "choix": [
+        "Novak Djokovic",
+        "Jannik Sinner",
+        "Alexander Zverev",
+        "Rafael Nadal"
+      ],
+      "reponse": 2,
+      "explication": "Carlos Alcaraz a battu le numéro un mondial Alexander Zverev en finale pour s'adjuger son premier Masters.",
+      "lien": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-eteint-le-n-1-mondial-alexander-zverev-pour-decrocher-le-premier-masters-de-sa-carriere_8295140.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/gk_DV2dJ3IXq61GiSjkB3ITTpew/0x0:8256x4644/432x243/filters:format(jpg)/2026/11/22/6b0336d012849709988245.jpg"
+    },
+    {
+      "id": "a3f4a316e1",
+      "date": "2026-11-22",
+      "type": "actu",
+      "question": "Quelles dates Raphaël Glucksmann propose-t-il pour organiser les deux tours de l'élection présidentielle ?",
+      "choix": [
+        "Les 7 et 21 mai",
+        "Les 18 avril et 2 mai",
+        "Les 4 et 18 avril",
+        "Les 11 et 25 avril"
+      ],
+      "reponse": 3,
+      "explication": "Raphaël Glucksmann propose d'avancer le scrutin en organisant les deux tours les 11 et 25 avril.",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/EX-v-L03Os2tPkiuxBjViwwn0ZQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b032782e0547074848141.jpg"
+    },
+    {
+      "id": "05ec03f41c",
+      "date": "2026-11-22",
+      "type": "culture",
+      "question": "Quel choix le maharaja du Cachemire a-t-il fait lors de la partition des Indes britanniques ?",
+      "choix": [
+        "Rattacher la région au Pakistan",
+        "Rattacher la région à l'Inde",
+        "Confier la région à l'ONU",
+        "Déclarer l'indépendance totale du territoire"
+      ],
+      "reponse": 1,
+      "explication": "Le maharaja du Cachemire a opté pour le rattachement à l'Inde, déclenchant une première guerre entre les deux nations.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "d4ed77542d",
+      "date": "2026-11-22",
+      "type": "culture",
+      "question": "Sur quel principe repose fondamentalement l'efficacité des vaccins ?",
+      "choix": [
+        "La capacité du système immunitaire à mémoriser les agents pathogènes grâce à des cellules mémoire",
+        "La destruction immédiate de toutes les bactéries de l'intestin",
+        "L'augmentation artificielle de la température corporelle",
+        "Le renouvellement total du sang en quelques heures"
+      ],
+      "reponse": 0,
+      "explication": "Les vaccins reposent sur la mémoire cellulaire et la capacité des lymphocytes à se transformer en cellules mémoire pour réagir plus vite en cas de nouvelle attaque.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
