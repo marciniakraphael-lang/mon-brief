@@ -1,44 +1,34 @@
 {
-  "date": "2026-11-21",
-  "mode": "evening",
-  "updated": "2026-11-21T23:51:20.645139+01:00",
+  "date": "2026-11-22",
+  "mode": "morning",
+  "updated": "2026-11-22T12:45:09.996051+01:00",
   "deja_presente": [],
-  "depuis_hier": [],
-  "aujourdhui": [
-    {
-      "titre": "Présidentielle 2027 : David Lisnard voit dans une primaire de la droite et du centre « un moyen d’exclure les macronistes »",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html",
-      "source": "Le Monde",
-      "date": "2026-11-21T23:46:33+01:00",
-      "resume": "En vue de l'élection présidentielle de 2027, David Lisnard s'est exprimé sur l'hypothèse d'une primaire de la droite et du centre. Le candidat du mouvement Nouvelle Énergie considère ce mécanisme comme un moyen d'évincer les macronistes. Il estime toutefois que ce vote n'aurait de sens qu'avec la présence d'Édouard Philippe et d'Éric Zemmour, rendant sa tenue incertaine.",
-      "contexte": "La droite républicaine cherche une stratégie commune pour désigner son candidat après plusieurs échecs électoraux majeurs. La question d'une primaire divise régulièrement les partis, certains craignant des fractures internes durables. L'élargissement ou non du rassemblement aux différentes composantes du centre et de la droite reste l'un des principaux enjeux stratégiques pour 2027.",
-      "image": "https://img.lemde.fr/2026/11/19/102/0/4704/2352/644/322/60/0/3faf5cd_upload-1-s4dfxl4cjlsn-000-c6wn7k6.jpg"
-    },
+  "depuis_hier": [
     {
       "titre": "Le XV de France rejoint l'Afrique du Sud en finale du Championnat des nations après sa large victoire face à l'Argentine",
       "lien": "https://www.franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-rejoint-l-afrique-du-sud-en-finale-du-championnat-des-nations-apres-sa-large-victoire-face-a-l-argentine_8294108.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "date": "2026-11-21T23:24:58+01:00",
-      "resume": "Le XV de France s'est qualifié pour la finale de la première édition du Championnat des nations après une large victoire face à l'Argentine. Les joueurs français affronteront l'Afrique du Sud le week-end prochain à Twickenham. Cette rencontre offrira des retrouvailles majeures entre les deux sélections au sommet du rugby mondial.",
-      "contexte": "Ce nouveau tournoi a été conçu pour donner plus d'enjeu aux tournées d'automne et structurer le calendrier international entre les nations des deux hémisphères. Pour l'équipe de France, affronter les champions du monde sud-africains représente un test d'envergure. Une victoire permettrait aux Bleus d'inscrire leur nom au premier palmarès de cette compétition.",
+      "resume": "Le XV de France s'est largement imposé face à l'Argentine, lui ouvrant les portes de la finale de la première édition du Championnat des nations. Les Bleus affronteront l'Afrique du Sud le week-end prochain à Twickenham pour ce match décisif.",
+      "contexte": "Cette compétition inédite redéfinit le calendrier du rugby international avec l'objectif de dynamiser les confrontations entre les meilleurs nations mondiales. Affronter l'Afrique du Sud en finale représente un défi majeur face à l'une des équipes les plus dominantes de ces dernières années.",
       "image": "https://www.franceinfo.fr/pictures/oi_ukkoHawTwuTItw_4J_-9fXsg/0x178:3437x2112/432x243/filters:format(jpg)/2026/11/21/6b02094fef102510180158.jpg"
     },
     {
-      "titre": "\"Le cancer vous change\" : Kate Middleton racontera son combat contre la maladie dans un documentaire pour la BBC",
-      "lien": "https://www.franceinfo.fr/monde/royaume-uni/kate-middleton/le-cancer-vous-change-kate-middleton-racontera-son-combat-contre-la-maladie-dans-un-documentaire-pour-la-bbc_8294162.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde",
-      "date": "2026-11-21T23:08:14+01:00",
-      "resume": "Le palais de Kensington a annoncé la diffusion prochaine d'un documentaire sur la BBC intitulé \"Guérir\". Dans ce programme, la princesse Kate Middleton témoignera personnellement de son combat contre le cancer. Elle y partagera les épreuves traversées en affirmant notamment que cette maladie transforme la vie.",
-      "contexte": "L'annonce de la maladie de la princesse de Galles avait suscité une vive émotion et de nombreuses interrogations dans l'opinion publique britannique et internationale. Ce type de communication directe permet généralement à la famille royale de sensibiliser le public aux questions de santé tout en maîtrisant son image. Cette démarche s'inscrit dans une tradition de transparence accrue adoptée récemment par la monarchie sur les sujets médicaux.",
-      "image": "https://www.franceinfo.fr/pictures/nUVxn2CfntOzN-Vh3cG-xjgmC9c/0x48:1094x663/432x243/filters:format(jpg)/2026/11/21/6b0205d85c866079675173.png"
+      "titre": "Conflit au Tigré: 700.000 déplacés suite aux affrontements en régions Somali et Oromia",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261121-conflit-au-tigr%C3%A9-700-000-d%C3%A9plac%C3%A9s-suite-aux-affrontements-en-r%C3%A9gions-somali-et-oromia",
+      "source": "France 24",
+      "date": "2026-11-21T23:04:01+01:00",
+      "resume": "Environ 700 000 personnes ont été déplacées en Éthiopie à la suite d'affrontements entre les forces armées des régions Somali et de l'Oromia dans le sud du pays, selon l'ONG Islamic Relief. Parallèlement, dans la région du Tigré en proie aux combats, 5 000 étudiants ont demandé au ministère de l'Éducation d'être affectés dans de nouvelles universités par crainte d'un recrutement forcé.",
+      "contexte": "L'Éthiopie fait face à des tensions ethniques et politiques persistantes et complexes qui fragilisent la stabilité de plusieurs régions. Les déplacements massifs de population et la perturbation des services essentiels aggravent la crise humanitaire locale.",
+      "image": "https://s.france24.com/media/display/e7626bd6-e5ef-11f1-8b37-13439ca2fe89/w:1024/p:16x9/DL00016516-VOD-00044982.jpg"
     },
     {
       "titre": "Les raids anti-migrants se multiplient au Royaume-Uni et inquiètent le gouvernement",
       "lien": "https://www.franceinfo.fr/monde/europe/migrants/les-raids-anti-migrants-se-multiplient-au-royaume-uni-et-inquietent-le-gouvernement_8294159.html#xtor=RSS-3-%5Bmonde%5D",
       "source": "franceinfo Monde",
       "date": "2026-11-21T22:47:57+01:00",
-      "resume": "Au Royaume-Uni, des actions menées par des militants d'extrême droite se multiplient près de Douvres pour bloquer le passage de migrants. Ces opérations ciblées interviennent alors que les traversées de la Manche s'accélèrent à l'approche de l'hiver. Cette recrudescence d'actions directes suscite de vives inquiétudes au sein du gouvernement britannique.",
-      "contexte": "La gestion des flux migratoires à travers la Manche reste une question politique très sensible et disputée entre Londres et Paris. Les tentatives de passage augmentent souvent avant que les conditions maritimes ne deviennent trop dangereuses en hiver. L'implication de groupes radicaux sur le terrain fait craindre des débordements violents et accentue la pression sur les forces de l'ordre.",
+      "resume": "Les tentatives de traversée de la Manche par des migrants s'intensifient à l'approche de l'hiver, tandis que des raids anti-migrants menés par un groupuscule d'extrême droite se multiplient à Douvres, en Angleterre, pour tenter d'empêcher l'accès aux côtes.",
+      "contexte": "La question migratoire reste un sujet de forte tension politique au Royaume-Uni, alimentée par les arrivées régulières de petites embarcations. Ces crispations favorisent l'émergence d'actions militantes et posent des défis sécuritaires et humanitaires majeurs pour le gouvernement britannique.",
       "image": "https://www.franceinfo.fr/pictures/oUiYNHVSBCWty92eShmgA6r7BtU/0x99:1416x896/432x243/filters:format(jpg)/2026/11/21/6b0203e9ab9c4809150157.png"
     },
     {
@@ -46,155 +36,152 @@
       "lien": "https://www.franceinfo.fr/monde/bresil/en-les-privant-de-leur-territoire-on-les-tue-au-bresil-un-peuple-indigene-sort-de-son-isolement_8294120.html#xtor=RSS-3-%5Bmonde%5D",
       "source": "franceinfo Monde",
       "date": "2026-11-21T22:44:14+01:00",
-      "resume": "En Amazonie brésilienne, une quinzaine de membres du peuple autochtone Awá sont sortis à la lisière de la forêt. Il s'agit de leur première apparition hors de leur isolement depuis cinquante ans. Cet événement rare intervient alors que près de 200 peuples autochtones vivent encore totalement coupés du reste du monde.",
-      "contexte": "Les peuples non contactés quittent généralement la profondeur de leur territoire en réaction à des menaces directes comme la déforestation, l'orpaillage illégal ou l'avancée de l'agriculture. Ces communautés dépendent entièrement des ressources de la forêt pour leur survie et sont extrêmement vulnérables aux maladies extérieures. Leur démarche témoigne souvent d'une situation d'urgence liée à la dégradation continue de leur environnement.",
+      "resume": "Une quinzaine de membres du peuple Awá, un groupe autochtone d'Amazonie vivant totalement isolé, sont sortis à la lisière de la forêt pour la première fois depuis 50 ans. Près de 200 peuples autochtones continuent de vivre ainsi en isolement sur la planète.",
+      "contexte": "La déforestation et la pression exercée sur les territoires amazoniens menacent directement la survie des peuples autochtones isolés, les poussant parfois à établir un contact inédit. Ces situations soulèvent des enjeux cruciaux de protection des droits humains et de préservation de la biodiversité.",
       "image": "https://www.franceinfo.fr/pictures/lJuaZELMO5RFJjHyXbKqelDynhw/0x97:764x526/432x243/filters:format(jpg)/2026/11/21/6b01f6583a141524149632.png"
     },
     {
-      "titre": "Comment les malfaiteurs s'attaquent-ils aux distributeurs de billets ?",
-      "lien": "https://www.franceinfo.fr/faits-divers/comment-les-malfaiteurs-s-attaquent-ils-aux-distributeurs-de-billets_8294111.html#xtor=RSS-3-[lestitres]",
+      "titre": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-21T22:32:49+01:00",
-      "resume": "Deux distributeurs automatiques de billets ont été attaqués à une heure d'intervalle dans la nuit de jeudi à vendredi dans la Drôme et l'Ardèche. Les enquêteurs mobilisés sur ces dossiers estiment que le mode opératoire employé porte la marque du grand banditisme. Ces attaques successives relancent le débat sur la vulnérabilité de ces installations bancaires.",
-      "contexte": "Les attaques de distributeurs de billets font souvent appel à des explosifs ou à du matériel lourd, impliquant des réseaux criminels organisés et mobiles. Face à ces assauts, les établissements bancaires installent régulièrement des systèmes de neutralisation des billets par maculage pour décourager les voleurs. Les communes rurales ou périurbaines, parfois plus isolées, sont particulièrement exposées à ces actions rapides.",
-      "image": "https://www.franceinfo.fr/pictures/8Qfai_Am0fe6EZTa8bXFRrerNys/0x125:1214x808/432x243/filters:format(jpg)/2026/11/21/6b01f3076af6d849613255.png"
+      "date": "2026-11-21T20:23:01+01:00",
+      "resume": "Une journée de mobilisation a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, et 150 000 selon la CGT. Cet événement s'inscrivait dans le cadre d'un appel européen de syndicats et d'associations à des actions coordonnées sur trois jours, du vendredi au dimanche, pour la défense du droit au logement.",
+      "contexte": "Les mobilisations coordonnées au niveau européen visent à peser sur les politiques publiques face à la crise du logement et à la hausse du coût de la vie. Le décalage entre les chiffres des autorités et ceux des syndicats est une constante classique lors des manifestations en France.",
+      "image": "https://www.franceinfo.fr/pictures/Dp1DAL_uqlCC9lfdn-PuBJnEFEY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01cbc538f07508938814.jpg"
     },
     {
-      "titre": "Bahreïn accuse l’Iran d’avoir frappé l’un de ses sites industriels",
-      "lien": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/21/bahrein-accuse-l-iran-d-avoir-frappe-l-un-de-ses-sites-industriels_6814069_6325529.html",
+      "titre": "Les Etats-Unis déclassifient de nouveaux documents concernant des ovnis et des phénomènes \"anormaux\"",
+      "lien": "https://www.franceinfo.fr/monde/usa/les-etats-unis-declassifient-de-nouveaux-documents-concernant-des-ovnis-et-des-phenomenes-anormaux_8293832.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-21T19:12:20+01:00",
+      "resume": "Les États-Unis ont déclassifié une quarantaine de documents relatifs à des ovnis et des phénomènes anormaux. Parmi ces éléments figurent notamment des extraits filmés depuis des plateformes militaires américaines au Moyen-Orient.",
+      "contexte": "La déclassification progressive de documents sur les objets volants non identifiés répond à une demande croissante de transparence de la part du public et du Congrès américain. L'objectif est souvent d'analyser scientifiquement ces phénomènes tout en levant le secret sur des incidents impliquant du personnel militaire.",
+      "image": "https://www.franceinfo.fr/pictures/Vg4qBO6c11482YrFSBER6FkhKA8/0x264:5075x3119/432x243/filters:format(jpg)/2026/11/21/6b01bc97eac4b749572890.jpg"
+    },
+    {
+      "titre": "François Ruffin retire sa candidature à l'élection présidentielle et souhaite \"bonne campagne\" aux \"candidats de gauche encore en lice\"",
+      "lien": "https://www.franceinfo.fr/elections/francois-ruffin-retire-sa-candidature-a-l-election-presidentielle-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice_8294003.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-21T18:56:33+01:00",
+      "resume": "François Ruffin a annoncé samedi sur le réseau social X qu'il retirait sa candidature à l'élection présidentielle et a souhaité bonne campagne aux autres candidats de gauche. Il a pris acte de l'impasse de sa démarche, n'étant pas parvenu à imposer l'organisation d'une grande primaire de toute la gauche.",
+      "contexte": "À gauche, la division des candidatures est fréquemment perçue comme un obstacle majeur pour accéder au second tour d'une élection présidentielle. Les appels à l'union ou à des primaires se heurtent régulièrement aux stratégies divergentes des différents partis et personnalités politiques.",
+      "image": "https://www.franceinfo.fr/pictures/rlFWwm9N5HKXaILkyaORjG6TnIY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01d344c3bf8111581813.jpg"
+    },
+    {
+      "titre": "Roberto Saviano, auteur de « Gomorra » : « Le suicide de l’ancien chef de la police italienne Gianni De Gennaro est un choc immense »",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/21/roberto-saviano-auteur-de-gomorra-le-suicide-de-l-ancien-chef-de-la-police-italienne-gianni-de-gennaro-est-un-choc-immense_6814054_3210.html",
       "source": "Le Monde",
-      "date": "2026-11-21T22:31:47+01:00",
-      "resume": "Bahreïn accuse l'Iran d'avoir mené une frappe contre l'un de ses sites industriels. De son côté, l'Iran a déclaré avoir intercepté un drone américain près de l'île de Qeshm dans le détroit d'Ormuz. Les gardiens de la révolution ont affirmé avoir ciblé plusieurs installations américaines situées sur le territoire bahreïni au cours de la semaine.",
-      "contexte": "Le golfe Persique et le détroit d'Ormuz constituent un point de passage stratégique pour le commerce maritime mondial, régulièrement au cœur de vives tensions géopolitiques. Bahreïn accueille une présence militaire américaine de premier plan, ce qui en fait une cible privilégiée lors des crises régionales. L'escalade des hostilités militaires menace la sécurité énergétique et la stabilité de l'ensemble du Moyen-Orient.",
-      "image": "https://img.lemde.fr/2026/11/06/687/0/5500/2750/644/322/60/0/27b5a5b_ftp-1-osblhese6bkq-2026-11-06t141621z-864316799-rc2cioas5ady-rtrmadp-3-iran-crisis-bahrain.JPG"
-    },
+      "date": "2026-11-21T18:44:51+01:00",
+      "resume": "L'ancien chef de la police italienne Gianni De Gennaro s'est suicidé le 21 novembre, peu de temps après sa mise en examen par le parquet de Caltanissetta pour détournement d'enquête. L'écrivain Roberto Saviano a qualifié cet événement de choc immense, craignant qu'il ne compromette la quête de vérité sur l'assassinat du juge antimafia Paolo Borsellino en 1992.",
+      "contexte": "Les affaires liées aux assassinats des juges Giovanni Falcone et Paolo Borsellino restent des traumatismes profonds dans l'histoire moderne de l'Italie et de la lutte contre la mafia. Les zones d'ombre persistant autour de ces enquêtes continuent de susciter de vives polémiques et des interrogations sur de possibles compromissions étatiques.",
+      "image": "https://img.lemde.fr/2023/07/17/257/0/2362/1181/644/322/60/0/dddc675_1689572631218-34a-camille-millerand-img-0745.jpg"
+    }
+  ],
+  "aujourdhui": [
     {
-      "titre": "Cargo échoué dans les Landes : la météo capricieuse perturbe le remorquage du navire",
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cargo-echoue-dans-les-landes-la-meteo-capricieuse-perturbe-le-remorquage-du-navire_8294096.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T22:28:43+01:00",
-      "resume": "Un cargo de 169 mètres transportant une centaine de tonnes de gazole s'est échoué sur la plage du Cap de l'Homy, dans les Landes. En raison des marées, le navire s'est légèrement déplacé de quelques mètres samedi, deux jours après son blocage. Les mauvaises conditions météorologiques compliquent fortement les opérations de remorquage prévues.",
-      "contexte": "Les accidents maritimes côtiers font peser un risque immédiat de pollution en raison du carburant présent dans les cuves des navires. Les autorités maritimes doivent coordonner le pompage des hydrocarbures et le déséchouement tout en composant avec la houle et les courants. Le succès d'une telle opération dépend largement de créneaux météo favorables qui permettent d'éviter la rupture de la coque.",
-      "image": "https://www.franceinfo.fr/pictures/O1-A7TfKMqrRAmGWyOkFP3cuePk/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/21/6b01ede1783cb750413105.jpg"
-    },
-    {
-      "titre": "Alexander Zverev rejoint sans surprise Carlos Alcaraz en finale du Masters de Turin",
-      "lien": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-lache-un-set-mais-se-qualifie-pour-la-finale-du-masters-de-turin-apres-un-gros-combat-face-a-ben-shelton_8293823.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T22:12:46+01:00",
-      "resume": "Alexander Zverev s'est qualifié pour la finale du Masters de Turin en éliminant Daniil Medvedev en deux sets. Le joueur allemand et numéro un mondial y retrouvera l'Espagnol Carlos Alcaraz. Ce dernier s'était qualifié plus tôt en renversant son match face à l'Américain Ben Shelton après la perte du premier set.",
-      "contexte": "Le Masters de fin de saison réunit les huit meilleurs joueurs de l'année et constitue l'un des titres les plus prestigieux du circuit professionnel après les tournois du Grand Chelem. Cette finale met aux prises deux des figures majeures de l'élite du tennis masculin mondial. Le résultat du match aura un impact important sur la hiérarchie et les points au classement pour clôturer la saison.",
-      "image": "https://www.franceinfo.fr/pictures/oYIy0QKYm2f5eDEba15e35D1hBU/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/21/6b01b5974c187765635604.jpg"
-    },
-    {
-      "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-21T22:00:02+01:00",
-      "resume": "Le préfet Hugues Moutouh a demandé sa mise en retrait à la suite de soupçons le visant dans une affaire de fuites de documents confidentiels vers le Rassemblement national. L'enquête a été lancée après la découverte d'un courriel d'une fonctionnaire de Beauvau chez Frédéric Chatillon, un proche de Marine Le Pen. Les investigations tentent d'éclaircir l'origine et l'ampleur de ces transmissions d'informations sensibles.",
-      "contexte": "Le ministère de l'Intérieur est dépositaire de données particulièrement protégées relatives à la sécurité et au renseignement d'État. La transmission non autorisée de documents administratifs à des acteurs politiques représente un manquement grave aux obligations de réserve et de neutralité des fonctionnaires. Cette procédure judiciaire met en lumière les soupçons de collusion ou de relais d'influence au sein des hautes sphères de l'appareil sécuritaire.",
-      "image": "https://img.lemde.fr/2026/11/19/608/0/4500/2250/644/322/60/0/57cc642_ftp-1-7hc6fbncp65v-afp-d82e9wf.jpg"
-    },
-    {
-      "titre": "Israël : Gadi Eisenkot invite le parti de Benjamin Netanyahu à des négociations de coalition",
-      "lien": "https://www.france24.com/fr/moyen-orient/20261121-isra%C3%ABl-gadi-eisenkot-invite-le-parti-de-benjamin-netanyahu-%C3%A0-des-n%C3%A9gociations-de-coalition",
-      "source": "France 24",
-      "date": "2026-11-21T21:29:02+01:00",
-      "resume": "En Israël, le centriste Gadi Eisenkot a officiellement convié le parti de Benyamin Netanyahou à des pourparlers de coalition. Chargé de former le futur gouvernement, il cherche à rassembler une majorité pour stabiliser le pouvoir exécutif. L'annonce de ces négociations a été officialisée par la formation politique de Gadi Eisenkot.",
-      "contexte": "La vie politique israélienne est marquée depuis plusieurs années par une forte instabilité et des difficultés récurrentes à bâtir des majorités durables à la Knesset. Le système électoral proportionnel oblige les dirigeants à trouver des compromis complexes entre partis aux idéologies souvent opposées. L'intégration ou non du parti de Benyamin Netanyahou est un élément décisif pour l'orientation et la viabilité de toute future équipe gouvernementale.",
-      "image": "https://s.france24.com/media/display/70936d94-e5e9-11f1-943b-13439ca2fe89/w:1024/p:16x9/000-D6U96RP.jpg"
+      "titre": "Crise climatique : l'Union européenne \"s'oppose\" à l'adoption de la déclaration finale de la COP31, après près de deux jours de prolongations",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo · France 24",
+      "date": "2026-11-22T12:40:45+01:00",
+      "resume": "L'Union européenne s'est opposée à l'adoption de la déclaration finale de la COP31 à Antalya, en Turquie, à l'issue de deux jours de prolongations, plongeant l'événement au bord de l'impasse. Le projet d'accord a également été rejeté par le Panama et le Ghana au nom des pays africains, en raison de l'absence d'un appel explicite à sortir des énergies fossiles.",
+      "contexte": "Les négociations climatiques internationales achoppent régulièrement sur la formulation des engagements concernant l'abandon progressif du charbon, du pétrole et du gaz. L'opposition des blocs régionaux reflète les divergences d'intérêts économiques et géopolitiques entre les pays développés et les nations en développement face à l'urgence climatique.",
+      "image": "https://www.franceinfo.fr/pictures/1hqMEsVmv6SMewm-8I2L5GHy4VI/0x39:1024x615/432x243/filters:format(jpg)/2026/11/22/6b02d2f4c80e6188528691.jpg"
     },
     {
       "titre": "L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale",
-      "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-21T20:59:23+01:00",
-      "resume": "L'ancien président brésilien Jair Bolsonaro a été admis en soins intensifs pour une occlusion intestinale. Son état de santé reste lié aux séquelles de l'agression à l'arme blanche subie à l'abdomen lors de sa campagne électorale en 2018. L'ex-chef d'État a déjà dû subir de multiples interventions chirurgicales par le passé pour ces mêmes complications.",
-      "contexte": "Depuis l'attentat de 2018, les hospitalisations d'urgence de Jair Bolsonaro sont récurrentes et affectent régulièrement son calendrier politique. Malgré ses démêlés judiciaires et son inéligibilité actuelle, l'ancien dirigeant demeure la figure centrale de l'opposition conservatrice au Brésil. L'évolution de sa condition physique influence directement sa capacité à peser sur la vie publique de son pays.",
+      "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-22T12:38:40+01:00",
+      "resume": "L'ancien président brésilien Jair Bolsonaro a été admis en soins intensifs en raison d'une occlusion intestinale. Il souffre de séquelles durables d'un coup de couteau reçu au ventre lors de la campagne électorale de 2018, ce qui a nécessité de multiples interventions chirurgicales depuis.",
+      "contexte": "L'état de santé de Jair Bolsonaro suscite régulièrement des inquiétudes et des hospitalisations périodiques depuis l'attentat qu'il a subi en 2018. Ces épisodes médicaux impactent ponctuellement son agenda politique et judiciaire au Brésil.",
       "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg"
+    },
+    {
+      "titre": "La Finlande fait état d'une attaque de drone ukrainien contre un cargo russe en mer Baltique",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-la-finlande-fait-%C3%A9tat-d-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique",
+      "source": "France 24",
+      "date": "2026-11-22T12:25:18+01:00",
+      "resume": "La Finlande a détecté samedi une attaque de drone ukrainien ayant visé et incendié un cargo russe en mer Baltique. Le Premier ministre finlandais Petteri Orpo a déclaré à cette occasion que l'Ukraine avait le droit de se défendre face à l'agresseur.",
+      "contexte": "L'extension des actions militaires liées au conflit ukrainien vers des zones maritimes comme la mer Baltique accroît les risques pour la sécurité régionale et le transport maritime international. Les pays baltes et nordiques suivent de très près ces incidents en raison de leur proximité géographique avec la Russie.",
+      "image": "https://s.france24.com/media/display/2d1a7c28-e662-11f1-9ee5-e56ab3dc0809/w:1024/p:16x9/FR-20261122-100726-100903-CS.jpg"
+    },
+    {
+      "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile de Frédéric Chatillon aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
+      "source": "Le Monde · France 24",
+      "date": "2026-11-22T12:24:59+01:00",
+      "resume": "Les investigations sur des fuites d'informations confidentielles vers le Rassemblement national ont été enclenchées après la découverte d'un courriel au domicile romain de Frédéric Chatillon, proche de Marine Le Pen. Visé par ces soupçons, le préfet de la région Centre-Val de Loire, Hugues Moutouh, a demandé samedi sa mise en retrait et d'être relevé de ses fonctions.",
+      "contexte": "La fuite de documents confidentiels au sein de l'appareil d'État vers des partis politiques constitue une infraction grave aux règles de la fonction publique et du secret professionnel. Ce type d'affaire met en lumière les porosités potentielles entre sphère administrative et mouvements politiques, entraînant des sanctions ou des retraits préventifs pour préserver l'impartialité de l'État.",
+      "image": "https://img.lemde.fr/2026/11/19/65/0/4500/2250/644/322/60/0/57cc642_ftp-1-7hc6fbncp65v-afp-d82e9wf.jpg"
+    },
+    {
+      "titre": "AEFE : réforme contestée du réseau scolaire français à l'étranger",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-aefe-r%C3%A9forme-contest%C3%A9e-du-r%C3%A9seau-scolaire-fran%C3%A7ais-%C3%A0-l-%C3%A9tranger",
+      "source": "France 24",
+      "date": "2026-11-22T12:15:35+01:00",
+      "resume": "La réforme du réseau scolaire français à l'étranger et l'avenir de l'Agence pour l'enseignement français à l'étranger (AEFE) font l'objet de vives contestations. Des représentants syndicaux, à l'instar de Patrick Soldat du SNES-FSU, expriment leurs inquiétudes quant aux orientations de cette politique éducative.",
+      "contexte": "L'AEFE joue un rôle clé dans le rayonnement culturel de la France à l'étranger en scolarisant des centaines de milliers d'élèves dans le monde. Les évolutions budgétaires ou structurelles du réseau provoquent régulièrement des tensions entre le gouvernement et les syndicats enseignants.",
+      "image": "https://s.france24.com/media/display/0e450e2a-e65e-11f1-af01-e56ab3dc0809/w:1024/p:16x9/FR-20261122-091743-092732-CS.jpg"
+    },
+    {
+      "titre": "\"Les explosions ont secoué la mer autour de moi\" : le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre",
+      "lien": "https://www.franceinfo.fr/monde/moyen-orient/les-explosions-ont-secoue-la-mer-autour-de-moi-un-britannique-a-traverse-le-detroit-d-ormuz-pour-alerter-sur-l-impact-environnemental-de-la-guerre_8293931.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde · France 24",
+      "date": "2026-11-22T12:15:19+01:00",
+      "resume": "Le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre, immortalisant un navire en feu à la suite d'une attaque dans cette zone. Par ailleurs, le royaume de Bahreïn a accusé l'Iran d'avoir mené une frappe contre un de ses sites industriels, Téhéran affirmant riposter à des tirs américains dans le cadre du conflit en cours.",
+      "contexte": "Le détroit d'Ormuz est un point de passage stratégique mondial pour le transport pétrolier, ce qui en fait une zone de极 grande tension géopolitique. L'escalade militaire entre l'Iran, les États-Unis et leurs alliés régionaux menace à la fois la stabilité économique globale et la sécurité environnementale de la région.",
+      "image": "https://www.franceinfo.fr/pictures/HzbbDCDBy68YDWLkym6BmLuUMss/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/21/6b01dae4bc57c370644355.jpg"
+    },
+    {
+      "titre": "GTA VI : les joueurs africains laissés pour compte ?",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-gta-vi-les-joueurs-africains-laiss%C3%A9s-pour-compte",
+      "source": "France 24",
+      "date": "2026-11-22T12:12:44+01:00",
+      "resume": "Le jeu vidéo très attendu \"Grand Theft Auto VI\" est sorti le jeudi 19 novembre, mais sa mise à disposition a suscité des mécontentements en Afrique. Certains joueurs et professionnels du secteur estiment être laissés pour compte, pointant des difficultés d'accès et des temps de téléchargement excessifs dans certaines zones du continent.",
+      "contexte": "L'industrie du jeu vidéo connaît une croissance rapide en Afrique, mais le continent fait encore face à des défis majeurs en matière d'infrastructures numériques et de connectivité haut débit. Ces disparités techniques compliquent l'accès équitable aux lancements mondiaux de produits culturels numériques.",
+      "image": "https://s.france24.com/media/display/9e3b0986-e65d-11f1-bd49-1bac47ab2f5d/w:1024/p:16x9/FR-20261122-081729-082652-CS.jpg"
+    },
+    {
+      "titre": "Elections législatives en Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
+      "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-le-centriste-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_8294531.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-22T12:12:16+01:00",
+      "resume": "Gadi Eisenkot, figure du bloc centriste lors des élections législatives en Israël, a invité le parti de Benyamin Nétanyahou à des négociations de coalition. Le camp centriste doit composer avec des divisions internes sur la stratégie à adopter pour bâtir une majorité, qu'il s'agisse d'alliances avec des partis ultra-orthodoxes, arabes ou d'un gouvernement d'union nationale.",
+      "contexte": "Le paysage politique israélien fragmenté nécessite traditionnellement de complexes tractations pour former des coalitions gouvernementales stables. Les compromis entre les différents blocs déterminent l'orientation des politiques intérieures et extérieures du pays.",
+      "image": "https://www.franceinfo.fr/pictures/tyM5wInj3kGZX6ohoUfm2BKKi28/0x39:1024x615/432x243/filters:format(jpg)/2026/11/22/6b02a91e6b218880640774.jpg"
+    },
+    {
+      "titre": "L'Union européenne \"sabote la paix\" en Ukraine, selon Nicolas Dupont-Aignan",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sabote-la-paix-en-ukraine-selon-nicolas-dupont-aignan_8294792.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-22T12:09:56+01:00",
+      "resume": "Invité sur franceinfo, le candidat à l'élection présidentielle Nicolas Dupont-Aignan a affirmé que l'Union européenne « sabote la paix » en Ukraine et a promis de couper les aides dès son premier jour s'il était élu. Les extraits soulignent également les accusations croissantes entre la Russie et l'Ukraine concernant les violations de cessez-le-feu et la participation des Européens aux négociations.",
+      "contexte": "Le positionnement vis-à-vis du conflit en Ukraine et de l'aide militaire et financière européenne divise profondément la classe politique française. Les débats portent autant sur le rôle diplomatique de l'Union européenne que sur la recherche d'une issue négociée au conflit.",
+      "image": "https://www.franceinfo.fr/pictures/cYxSXlbBO3ESS6MWhQOAMlBe_Ds/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/22/6b02cd7b632d1853397416.jpg"
     }
   ],
-  "culture": [],
-  "quiz_jour": [
+  "culture": [
     {
-      "id": "315d9bcde7",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Quelle sélection le XV de France doit-il affronter en finale du Championnat des nations à Twickenham ?",
-      "choix": [
-        "L'Australie",
-        "La Nouvelle-Zélande",
-        "L'Angleterre",
-        "L'Afrique du Sud"
-      ],
-      "reponse": 3,
-      "explication": "Après avoir largement dominé l'Argentine, les Bleus retrouveront l'Afrique du Sud en finale à Twickenham.",
-      "lien": "https://www.franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-rejoint-l-afrique-du-sud-en-finale-du-championnat-des-nations-apres-sa-large-victoire-face-a-l-argentine_8294108.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/oi_ukkoHawTwuTItw_4J_-9fXsg/0x178:3437x2112/432x243/filters:format(jpg)/2026/11/21/6b02094fef102510180158.jpg"
+      "theme": "origine des grands événements ou conflits actuels",
+      "titre": "La question de Cachemire",
+      "texte": "Le conflit persistant autour de la région du Cachemire trouve ses racines dans la partition des Indes britanniques. En effet, lors de l'indépendance, les princes dirigeants de ces territoires ont dû choisir entre rattachement à l'Inde ou au Pakistan. Le maharaja du Cachemire, à majorité musulmane, a opté pour l'Inde, déclenchant une première guerre entre les deux jeunes nations. Depuis lors, cette région montagneuse est divisée et revendiquée en totalité par les deux puissances nucléaires voisines. Cette situation géopolitique reste l'un des points de friction les plus dangereux de la planète.",
+      "a_retenir": "La partition des Indes en 1947 est à l'origine du conflit territorial du Cachemire entre l'Inde et le Pakistan.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/French-Kashmir_map.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
-      "id": "216ff8741f",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Quel est le titre du documentaire de la BBC dans lequel Kate Middleton témoignera de son combat contre la maladie ?",
-      "choix": [
-        "Guérir",
-        "Espoir",
-        "Renaître",
-        "Le Combat"
-      ],
-      "reponse": 0,
-      "explication": "Le palais de Kensington a annoncé la diffusion d'un documentaire intitulé « Guérir » dans lequel la princesse racontera son épreuve face au cancer.",
-      "lien": "https://www.franceinfo.fr/monde/royaume-uni/kate-middleton/le-cancer-vous-change-kate-middleton-racontera-son-combat-contre-la-maladie-dans-un-documentaire-pour-la-bbc_8294162.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/nUVxn2CfntOzN-Vh3cG-xjgmC9c/0x48:1094x663/432x243/filters:format(jpg)/2026/11/21/6b0205d85c866079675173.png"
+      "theme": "santé et corps humain",
+      "titre": "Le système immunitaire et la mémoire cellulaire",
+      "texte": "Le corps humain possède un système de défense extraordinaire capable de mémoriser les agents pathogènes qu'il a déjà combattrus. Lorsqu'un virus ou une bactérie pénètre dans l'organisme, les lymphocytes B et T entrent en action pour neutraliser l'intrus. Certains de ces globules blancs se transformen ensuite en cellules mémoire qui peuvent survivre pendant des décennies. Si le même ennemi venait à attaquer à nouveau, le système immunitaire réagit alors beaucoup plus rapidement et efficacement. C'est précisément sur ce principe fondamental que repose l'efficacité des vaccins.",
+      "a_retenir": "La mémoire immunitaire permet au corps de reconnaître et de combattre plus vite les infections déjà rencontrées.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/SEM_Lymphocyte.jpg/960px-SEM_Lymphocyte.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
-      "id": "4a86298879",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Au Brésil, des membres de quel peuple autochtone ont fait une rare apparition hors de leur isolement après 50 ans ?",
-      "choix": [
-        "Les Awá",
-        "Les Kayapos",
-        "Les Guaranis",
-        "Les Yanomami"
-      ],
-      "reponse": 0,
-      "explication": "Une quinzaine de membres du peuple Awá sont sortis à la lisière de la forêt en Amazonie brésilienne, marquant leur première apparition depuis cinquante ans.",
-      "lien": "https://www.franceinfo.fr/monde/bresil/en-les-privant-de-leur-territoire-on-les-tue-au-bresil-un-peuple-indigene-sort-de-son-isolement_8294120.html#xtor=RSS-3-%5Bmonde%5D",
-      "image": "https://www.franceinfo.fr/pictures/lJuaZELMO5RFJjHyXbKqelDynhw/0x97:764x526/432x243/filters:format(jpg)/2026/11/21/6b01f6583a141524149632.png"
-    },
-    {
-      "id": "903194efb5",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Quel joueur affrontera l'Allemand Alexander Zverev en finale du Masters de Turin ?",
-      "choix": [
-        "Ben Shelton",
-        "Jannik Sinner",
-        "Daniil Medvedev",
-        "Carlos Alcaraz"
-      ],
-      "reponse": 3,
-      "explication": "Carlos Alcaraz s'est qualifié après avoir renversé Ben Shelton et disputera le titre face à Alexander Zverev.",
-      "lien": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-lache-un-set-mais-se-qualifie-pour-la-finale-du-masters-de-turin-apres-un-gros-combat-face-a-ben-shelton_8293823.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/oYIy0QKYm2f5eDEba15e35D1hBU/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/21/6b01b5974c187765635604.jpg"
-    },
-    {
-      "id": "86863d3e56",
-      "date": "2026-11-21",
-      "type": "actu",
-      "question": "Pour quel problème de santé l'ancien président brésilien Jair Bolsonaro a-t-il été admis en soins intensifs ?",
-      "choix": [
-        "Une occlusion intestinale",
-        "Une pneumonie sévère",
-        "Un traumatisme crânien",
-        "Un problème cardiaque"
-      ],
-      "reponse": 0,
-      "explication": "Jair Bolsonaro a été hospitalisé pour une occlusion intestinale, conséquence de l'agression à l'arme blanche dont il avait été victime en 2018.",
-      "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg"
+      "theme": "science",
+      "titre": "L'effet de serre",
+      "texte": "L'effet de serre est un processus naturel indispensable qui permet de maintenir une température clémente sur Terre. Lorsque les rayons du soleil traversent l'atmosphère, ils réchauffent la surface de notre planète. En retour, cette dernière renvoie de la chaleur sous forme de rayons infrarouges vers l'espace. Les gaz à effet de serre présents dans l'atmosphère, comme la vapeur d'eau et le dioxyde de carbone, piègent une partie de cette chaleur. Sans ce phénomène thermique salvateur, la température moyenne sur Terre avoisinerait des valeurs glaciales incompatibles avec la vie.",
+      "a_retenir": "L'effet de serre retient la chaleur solaire dans l'atmosphère, rendant la vie sur Terre possible.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Effet_de_Serre.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     }
-  ]
+  ],
+  "quiz_jour": []
 }
