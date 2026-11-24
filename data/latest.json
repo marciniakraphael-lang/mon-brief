@@ -1,10 +1,137 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "mode": "evening",
-  "updated": "2026-11-23T00:20:02.394588+01:00",
+  "updated": "2026-11-24T04:52:08.816301+01:00",
   "deja_presente": [],
   "depuis_hier": [],
-  "aujourdhui": [],
+  "aujourdhui": [
+    {
+      "titre": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
+      "source": "France 24",
+      "date": "2026-11-24T04:30:10+01:00",
+      "resume": "Une agence de presse houthie a indiqué mardi que des frappes aériennes saoudiennes ont fait 25 morts ou disparus dans le sud du Yémen, en touchant des autocars et des camions. Ces attaques surviennent après d'autres bombardements dans la province côtière de Hodeïda, contrôlée par les Houthis, qui avaient fait au moins 17 morts.",
+      "contexte": "Ces violences s'inscrivent dans le cadre du long conflit au Yémen qui oppose les rebelles houthis, soutenus par l'Iran, à une coalition militaire menée par l'Arabie saoudite depuis 2015. Cette guerre a provoqué l'une des pires crises humanitaires au monde et pèse lourdement sur la stabilité de la région.",
+      "image": "https://s.france24.com/media/display/da0d532e-e7b6-11f1-9de5-e56ab3dc0809/w:1024/p:16x9/000-D8D692D.jpg"
+    },
+    {
+      "titre": "Donald Trump demande au ministère de la justice de requérir la peine de mort pour les meurtriers d’enfants",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/24/donald-trump-demande-au-ministere-de-la-justice-de-requerir-la-peine-de-mort-pour-les-meurtriers-d-enfants_6814537_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-24T02:31:59+01:00",
+      "resume": "Le président américain Donald Trump a demandé au ministère de la justice de requérir la peine de mort pour les meurtriers d'enfants, ainsi que pour les violeurs et trafiquants d'êtres humains ayant tué leurs victimes. Il a également annoncé avoir exigé d'accélérer l'exécution des condamnations à mort fédérales.",
+      "contexte": "Ce type de déclaration s'inscrit souvent dans une rhétorique politique axée sur la fermeté face à la criminalité et la sécurité publique aux États-Unis. La question de la peine de mort reste un sujet de société profondément clivant au niveau fédéral et entre les différents États américains.",
+      "image": "https://img.lemde.fr/2026/11/23/147/0/5616/2808/644/322/60/0/dba73ae_ftp-1-wi0jx63gy6vo-afp-d8ef7fq.jpg"
+    },
+    {
+      "titre": "EN DIRECT, Jensen Huang réintégré chez Nvidia à la surprise générale : le dirigeant accueilli sous les applaudissements de centaines de salariés ; Wall Street clôture en très forte hausse",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-24T00:46:27+01:00",
+      "resume": "Le conseil d'administration de Nvidia a réintégré lundi Jensen Huang au poste de directeur général et président du géant américain des puces, dix jours après sa démission consécutive à un scandale. Cette décision, accueillie par les applaudissements des salariés, a coïncidé avec une clôture en très forte hausse de Wall Street, tandis que des parlementaires réclament des explications.",
+      "contexte": "Nvidia est devenu un acteur incontournable de l'économie mondiale en raison de sa position dominante dans la fabrication de puces électroniques, indispensables au développement de l'intelligence artificielle. Les soubresauts à la tête d'une telle entreprise technologique influencent directement les marchés financiers et suscitent l'attention des régulateurs.",
+      "image": "https://img.lemde.fr/2026/11/23/264/0/3165/1582/644/322/60/0/6102372_ftp-1-dq3bogtjjvfb-2026-11-23t170601z-1582719674-rc2ttoaqzmb6-rtrmadp-3-nvidia-ceo.JPG"
+    },
+    {
+      "titre": "La France va se doter de \"stocks stratégiques\" de terres rares et \"métaux prioritaires\", annonce l'Elysée",
+      "lien": "https://www.franceinfo.fr/economie/industrie/la-france-va-se-doter-de-stocks-strategiques-de-terres-rares-et-metaux-prioritaires-annonce-l-elysee_8296749.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-24T00:34:43+01:00",
+      "resume": "L'Élysée a annoncé que la France allait se doter de stocks stratégiques de terres rares et de métaux prioritaires. Ce projet sera piloté par la Caisse des dépôts, qui consultera les industriels des secteurs stratégiques utilisant ces matières premières.",
+      "contexte": "Face aux tensions géopolitiques mondiales et à la dépendance de l'Europe envers quelques pays producteurs comme la Chine pour les matériaux critiques, la constitution de stocks stratégiques vise à sécuriser l'approvisionnement des industries de la défense, de l'énergie et du numérique.",
+      "image": "https://www.franceinfo.fr/pictures/5grKVut80Iq768Z5T6GICoWrYj0/0x18:1024x594/432x243/filters:format(jpg)/2026/11/23/6b049dcf4378b546752822.jpg"
+    },
+    {
+      "titre": "Une intersyndicale des étudiants et des enseignants du supérieur appelle à la mobilisation le 26 novembre",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-intersyndicale-des-etudiants-et-des-enseignants-du-superieur-appelle-a-la-mobilisation-le-26-novembre_8296851.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-24T00:29:58+01:00",
+      "resume": "Une intersyndicale regroupant des syndicats de l'enseignement supérieur et des organisations étudiantes a appelé à une journée de mobilisation le 26 novembre. Dans un communiqué commun publié lundi, ils estiment que les réponses du gouvernement restent insuffisantes après des semaines de contestation.",
+      "contexte": "Ce type d'appel national reflète les tensions récurrentes autour des conditions d'études, du budget des universités ou des réformes en cours dans l'enseignement supérieur en France. Les mouvements étudiants cherchent généralement à faire plier l'exécutif en s'alliant avec les personnels enseignants.",
+      "image": "https://www.franceinfo.fr/pictures/L4SASGYfR07QN2mLhbc7JKWKDuQ/0x93:1024x669/432x243/filters:format(jpg)/2026/11/24/6b04cc5d4b330782695068.jpg"
+    }
+  ],
   "culture": [],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "311216467e",
+      "date": "2026-11-24",
+      "type": "actu",
+      "question": "Quel belligérant a déploré 25 morts ou disparus à la suite de frappes saoudiennes au Yémen ?",
+      "choix": [
+        "Les forces gouvernementales yéménites",
+        "L'armée régulière saoudienne",
+        "Les rebelles houthis",
+        "Une coalition internationale occidentale"
+      ],
+      "reponse": 2,
+      "explication": "Une agence de presse houthie a indiqué que des frappes aériennes saoudiennes ont fait 25 morts ou disparus dans le sud du Yémen.",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
+      "image": "https://s.france24.com/media/display/da0d532e-e7b6-11f1-9de5-e56ab3dc0809/w:1024/p:16x9/000-D8D692D.jpg"
+    },
+    {
+      "id": "394d15e9da",
+      "date": "2026-11-24",
+      "type": "actu",
+      "question": "Quelle mesure radicale Donald Trump a-t-il demandée au ministère de la justice concernant certains criminels ?",
+      "choix": [
+        "L'expulsion du territoire",
+        "La prison à perpétuité sans libération conditionnelle",
+        "L'amnistie générale",
+        "La peine de mort"
+      ],
+      "reponse": 3,
+      "explication": "Donald Trump a demandé au ministère de la justice de requérir la peine de mort pour les meurtriers d'enfants, violeurs et trafiquants d'êtres humains.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/24/donald-trump-demande-au-ministere-de-la-justice-de-requerir-la-peine-de-mort-pour-les-meurtriers-d-enfants_6814537_3210.html",
+      "image": "https://img.lemde.fr/2026/11/23/147/0/5616/2808/644/322/60/0/dba73ae_ftp-1-wi0jx63gy6vo-afp-d8ef7fq.jpg"
+    },
+    {
+      "id": "cced32459d",
+      "date": "2026-11-24",
+      "type": "actu",
+      "question": "Quel événement marquant est intervenu chez Nvidia, provoquant une forte hausse de Wall Street ?",
+      "choix": [
+        "Le rachat d'un concurrent majeur",
+        "La réintégration de Jensen Huang comme dirigeant",
+        "La faillite de l'entreprise",
+        "Le lancement d'une nouvelle puce révolutionnaire"
+      ],
+      "reponse": 1,
+      "explication": "Le conseil d'administration a réintégré Jensen Huang au poste de directeur général et président, dix jours après sa démission.",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html",
+      "image": "https://img.lemde.fr/2026/11/23/264/0/3165/1582/644/322/60/0/6102372_ftp-1-dq3bogtjjvfb-2026-11-23t170601z-1582719674-rc2ttoaqzmb6-rtrmadp-3-nvidia-ceo.JPG"
+    },
+    {
+      "id": "9e60468fec",
+      "date": "2026-11-24",
+      "type": "actu",
+      "question": "Quelle initiative la France a-t-elle décidé de prendre concernant les matières premières selon l'Elysée ?",
+      "choix": [
+        "Taxer lourdement l'importation de puces électroniques",
+        "Se doter de 'stocks stratégiques' de terres rares",
+        "Interdire l'exportation de métaux",
+        "Nationaliser toutes les mines du pays"
+      ],
+      "reponse": 1,
+      "explication": "L'Élysée a annoncé que la France allait se doter de stocks stratégiques de terres rares et de métaux prioritaires, pilotés par la Caisse des dépôts.",
+      "lien": "https://www.franceinfo.fr/economie/industrie/la-france-va-se-doter-de-stocks-strategiques-de-terres-rares-et-metaux-prioritaires-annonce-l-elysee_8296749.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/5grKVut80Iq768Z5T6GICoWrYj0/0x18:1024x594/432x243/filters:format(jpg)/2026/11/23/6b049dcf4378b546752822.jpg"
+    },
+    {
+      "id": "a7e034216f",
+      "date": "2026-11-24",
+      "type": "actu",
+      "question": "Quelle date a été choisie par l'intersyndicale des étudiants et enseignants du supérieur pour une mobilisation ?",
+      "choix": [
+        "Le 26 novembre",
+        "Le 1er décembre",
+        "Le 30 novembre",
+        "Le 15 octobre"
+      ],
+      "reponse": 0,
+      "explication": "Une intersyndicale de l'enseignement supérieur a appelé à une journée de mobilisation le 26 novembre face aux réponses jugées insuffisantes du gouvernement.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-intersyndicale-des-etudiants-et-des-enseignants-du-superieur-appelle-a-la-mobilisation-le-26-novembre_8296851.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/L4SASGYfR07QN2mLhbc7JKWKDuQ/0x93:1024x669/432x243/filters:format(jpg)/2026/11/24/6b04cc5d4b330782695068.jpg"
+    }
+  ]
 }

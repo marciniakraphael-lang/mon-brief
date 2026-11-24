@@ -7482,6 +7482,86 @@
       "explication": "Les vaccins reposent sur la mémoire cellulaire et la capacité des lymphocytes à se transformer en cellules mémoire pour réagir plus vite en cas de nouvelle attaque.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "311216467e",
+      "date": "2026-11-24",
+      "type": "actu",
+      "question": "Quel belligérant a déploré 25 morts ou disparus à la suite de frappes saoudiennes au Yémen ?",
+      "choix": [
+        "Les forces gouvernementales yéménites",
+        "L'armée régulière saoudienne",
+        "Les rebelles houthis",
+        "Une coalition internationale occidentale"
+      ],
+      "reponse": 2,
+      "explication": "Une agence de presse houthie a indiqué que des frappes aériennes saoudiennes ont fait 25 morts ou disparus dans le sud du Yémen.",
+      "lien": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
+      "image": "https://s.france24.com/media/display/da0d532e-e7b6-11f1-9de5-e56ab3dc0809/w:1024/p:16x9/000-D8D692D.jpg"
+    },
+    {
+      "id": "394d15e9da",
+      "date": "2026-11-24",
+      "type": "actu",
+      "question": "Quelle mesure radicale Donald Trump a-t-il demandée au ministère de la justice concernant certains criminels ?",
+      "choix": [
+        "L'expulsion du territoire",
+        "La prison à perpétuité sans libération conditionnelle",
+        "L'amnistie générale",
+        "La peine de mort"
+      ],
+      "reponse": 3,
+      "explication": "Donald Trump a demandé au ministère de la justice de requérir la peine de mort pour les meurtriers d'enfants, violeurs et trafiquants d'êtres humains.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/24/donald-trump-demande-au-ministere-de-la-justice-de-requerir-la-peine-de-mort-pour-les-meurtriers-d-enfants_6814537_3210.html",
+      "image": "https://img.lemde.fr/2026/11/23/147/0/5616/2808/644/322/60/0/dba73ae_ftp-1-wi0jx63gy6vo-afp-d8ef7fq.jpg"
+    },
+    {
+      "id": "cced32459d",
+      "date": "2026-11-24",
+      "type": "actu",
+      "question": "Quel événement marquant est intervenu chez Nvidia, provoquant une forte hausse de Wall Street ?",
+      "choix": [
+        "Le rachat d'un concurrent majeur",
+        "La réintégration de Jensen Huang comme dirigeant",
+        "La faillite de l'entreprise",
+        "Le lancement d'une nouvelle puce révolutionnaire"
+      ],
+      "reponse": 1,
+      "explication": "Le conseil d'administration a réintégré Jensen Huang au poste de directeur général et président, dix jours après sa démission.",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html",
+      "image": "https://img.lemde.fr/2026/11/23/264/0/3165/1582/644/322/60/0/6102372_ftp-1-dq3bogtjjvfb-2026-11-23t170601z-1582719674-rc2ttoaqzmb6-rtrmadp-3-nvidia-ceo.JPG"
+    },
+    {
+      "id": "9e60468fec",
+      "date": "2026-11-24",
+      "type": "actu",
+      "question": "Quelle initiative la France a-t-elle décidé de prendre concernant les matières premières selon l'Elysée ?",
+      "choix": [
+        "Taxer lourdement l'importation de puces électroniques",
+        "Se doter de 'stocks stratégiques' de terres rares",
+        "Interdire l'exportation de métaux",
+        "Nationaliser toutes les mines du pays"
+      ],
+      "reponse": 1,
+      "explication": "L'Élysée a annoncé que la France allait se doter de stocks stratégiques de terres rares et de métaux prioritaires, pilotés par la Caisse des dépôts.",
+      "lien": "https://www.franceinfo.fr/economie/industrie/la-france-va-se-doter-de-stocks-strategiques-de-terres-rares-et-metaux-prioritaires-annonce-l-elysee_8296749.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/5grKVut80Iq768Z5T6GICoWrYj0/0x18:1024x594/432x243/filters:format(jpg)/2026/11/23/6b049dcf4378b546752822.jpg"
+    },
+    {
+      "id": "a7e034216f",
+      "date": "2026-11-24",
+      "type": "actu",
+      "question": "Quelle date a été choisie par l'intersyndicale des étudiants et enseignants du supérieur pour une mobilisation ?",
+      "choix": [
+        "Le 26 novembre",
+        "Le 1er décembre",
+        "Le 30 novembre",
+        "Le 15 octobre"
+      ],
+      "reponse": 0,
+      "explication": "Une intersyndicale de l'enseignement supérieur a appelé à une journée de mobilisation le 26 novembre face aux réponses jugées insuffisantes du gouvernement.",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-intersyndicale-des-etudiants-et-des-enseignants-du-superieur-appelle-a-la-mobilisation-le-26-novembre_8296851.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/L4SASGYfR07QN2mLhbc7JKWKDuQ/0x93:1024x669/432x243/filters:format(jpg)/2026/11/24/6b04cc5d4b330782695068.jpg"
     }
   ]
 }
