@@ -7562,6 +7562,70 @@
       "explication": "Une intersyndicale de l'enseignement supérieur a appelé à une journée de mobilisation le 26 novembre face aux réponses jugées insuffisantes du gouvernement.",
       "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-intersyndicale-des-etudiants-et-des-enseignants-du-superieur-appelle-a-la-mobilisation-le-26-novembre_8296851.html#xtor=RSS-3-[lestitres]",
       "image": "https://www.franceinfo.fr/pictures/L4SASGYfR07QN2mLhbc7JKWKDuQ/0x93:1024x669/432x243/filters:format(jpg)/2026/11/24/6b04cc5d4b330782695068.jpg"
+    },
+    {
+      "id": "cb122a18e2",
+      "date": "2026-11-25",
+      "type": "actu",
+      "question": "Quel parti politique israélien a suspendu ses négociations de coalition avec Gadi Eisenkot ?",
+      "choix": [
+        "Yesh Atid",
+        "Les Démocrates",
+        "Le Likoud",
+        "Israël Beitenou"
+      ],
+      "reponse": 1,
+      "explication": "Le parti de gauche Les Démocrates, dirigé par Yaïr Golan, a suspendu ses négociations de coalition avec Gadi Eisenkot.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/25/israel-le-parti-de-gauche-les-democrates-suspend-les-negociations-avec-celui-de-gadi-eisenkot_6814903_3210.html",
+      "image": "https://img.lemde.fr/2026/11/23/458/0/5500/2750/644/322/60/0/f52b644_ftp-1-e7teesk75x5x-2026-11-23t134214z-31226319-rc2otoaq20b3-rtrmadp-3-israel-politics-netanyahu.JPG"
+    },
+    {
+      "id": "8622a8b9ec",
+      "date": "2026-11-25",
+      "type": "actu",
+      "question": "Pour quelle infraction le géant chinois Huawei a-t-il été reconnu coupable aux États-Unis après huit ans de procédure ?",
+      "choix": [
+        "Violation d'embargo sur les armements",
+        "Piratage de satellites gouvernementaux",
+        "Fraude fiscale et corruption",
+        "Vol de secrets industriels et fraude bancaire"
+      ],
+      "reponse": 3,
+      "explication": "Huawei a été reconnu coupable de fraude bancaire et de vol de secrets industriels à l'issue d'une procédure de huit ans à New York.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html",
+      "image": "https://img.lemde.fr/2020/06/03/421/0/3500/1747/644/322/60/0/20b32a4_FW1_HUAWEI-IRAN-PROBE_0603_1C.JPG"
+    },
+    {
+      "id": "40489323ec",
+      "date": "2026-11-25",
+      "type": "actu",
+      "question": "Selon l'ONU, à quelle fréquence une femme est-elle tuée par un proche dans le monde ?",
+      "choix": [
+        "Toutes les heures",
+        "Toutes les 30 minutes",
+        "Toutes les 11 minutes",
+        "Toutes les 5 minutes"
+      ],
+      "reponse": 2,
+      "explication": "L'ONU a rappelé qu'une femme est tuée par un proche toutes les 11 minutes dans le monde.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261124-1-femme-est-tu%C3%A9e-par-un-proche-toutes-les-11-minutes",
+      "image": "https://s.france24.com/media/display/6374fb02-e85d-11f1-bb8e-81da3ab2acbb/w:1024/p:16x9/FR-20261124-233641-234137-CS.jpg"
+    },
+    {
+      "id": "8d66d3b5c0",
+      "date": "2026-11-25",
+      "type": "actu",
+      "question": "Quelle instance a attribué la victoire de la Coupe d'Afrique des nations 2025 au Sénégal aux dépens du Maroc ?",
+      "choix": [
+        "Le Tribunal arbitral du sport",
+        "La FIFA",
+        "Le Tribunal de grande instance de Paris",
+        "La Confédération africaine de football"
+      ],
+      "reponse": 0,
+      "explication": "C'est le Tribunal arbitral du sport (TAS) qui a attribué la victoire de la CAN 2025 au Sénégal.",
+      "lien": "https://www.franceinfo.fr/sports/foot/can/direct-senegal-vainqueur-de-la-can-le-tribunal-arbitral-du-sport-a-rendu-justice-au-sport-estime-le-president-de-la-federation-senegalaise_8298138.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/IDL5HqCd6Twh65fb4p5ujL_kUYs/0x106:1024x682/432x243/filters:format(jpg)/2026/11/24/6b05c2991ebd7493036506.jpg"
     }
   ]
 }
