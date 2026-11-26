@@ -7626,6 +7626,70 @@
       "explication": "C'est le Tribunal arbitral du sport (TAS) qui a attribué la victoire de la CAN 2025 au Sénégal.",
       "lien": "https://www.franceinfo.fr/sports/foot/can/direct-senegal-vainqueur-de-la-can-le-tribunal-arbitral-du-sport-a-rendu-justice-au-sport-estime-le-president-de-la-federation-senegalaise_8298138.html#xtor=RSS-3-[lestitres]",
       "image": "https://www.franceinfo.fr/pictures/IDL5HqCd6Twh65fb4p5ujL_kUYs/0x106:1024x682/432x243/filters:format(jpg)/2026/11/24/6b05c2991ebd7493036506.jpg"
+    },
+    {
+      "id": "09584391dc",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Quel grand club européen le LOSC a-t-il battu sur le score de 2 à 1 en Ligue des champions ?",
+      "choix": [
+        "Le Bayern Munich",
+        "Le Real Madrid",
+        "L'Inter Milan",
+        "Manchester City"
+      ],
+      "reponse": 0,
+      "explication": "Après avoir été mené 1 à 0 à la pause, le LOSC a renversé le Bayern Munich 2 à 1, se relançant ainsi dans la compétition.",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-losc-renverse-le-bayern-munich-et-se-relance-dans-la-course-a-la-qualification_6815230_3242.html",
+      "image": "https://img.lemde.fr/2026/11/25/380/0/4163/2081/644/322/60/0/f38ff33_ftp-1-2hf8kkwsvz1q-0d1deb730b564018868912c26215d695-1-ca87650535a84caf8d7f1d0949ce24f2.jpg"
+    },
+    {
+      "id": "ad2d53490b",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Au Mali, quelle localité de la région de Tombouctou a reçu un ultimatum d'évacuation sous peine de blocus par le groupe JNIM ?",
+      "choix": [
+        "Mopti",
+        "Tonka",
+        "Kidal",
+        "Gao"
+      ],
+      "reponse": 1,
+      "explication": "Le groupe armé JNIM a sommé les habitants de la ville de Tonka de partir avant vendredi, date annoncée pour un blocus total.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-mali-le-jnim-lance-un-ultimatum-aux-habitants-de-tonka",
+      "image": "https://s.france24.com/media/display/4817b822-e925-11f1-896f-1991d4929b54/w:1024/p:16x9/WB302619-O-01-20261125.jpg"
+    },
+    {
+      "id": "6844c8bf0d",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Quel montant d'effort financier demandé aux grandes entreprises a été approuvé par le Sénat dans le cadre du budget ?",
+      "choix": [
+        "12 milliards d'euros",
+        "5 milliards d'euros",
+        "8 milliards d'euros",
+        "2 milliards d'euros"
+      ],
+      "reponse": 1,
+      "explication": "Le Sénat a validé une contribution financière de cinq milliards d'euros ciblée sur les grandes entreprises pour faire face au déficit public.",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
+      "image": "https://img.lemde.fr/2026/11/25/484/0/5805/2902/644/322/60/0/bed23f6_upload-1-m5j7yxgkjns5-000-d6fa443.jpg"
+    },
+    {
+      "id": "3ac0fdc3d1",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Quel est le nom du nouveau train dévoilé pour remplacer les anciennes rames Corail reliant Paris à Clermont-Ferrand et Toulouse ?",
+      "choix": [
+        "Albatros",
+        "Boréal",
+        "Éole",
+        "Oxygène"
+      ],
+      "reponse": 3,
+      "explication": "Le train baptisé « Oxygène » a été officiellement présenté au public pour moderniser les lignes Intercités Paris-Clermont et Paris-Toulouse.",
+      "lien": "https://www.franceinfo.fr/economie/transports/le-train-oxygene-destine-a-remplacer-les-anciens-corail-sur-les-liaisons-intercites-paris-clermont-et-paris-toulouse-devoile-au-public_8300403.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/QVj9Z9-9rtFj0kkjzpl_NdDfcs4/0x93:5000x2906/432x243/filters:format(jpg)/2026/11/25/6b07682c2a00d874945374.jpg"
     }
   ]
 }

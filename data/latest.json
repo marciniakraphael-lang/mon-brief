@@ -1,112 +1,112 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "mode": "evening",
-  "updated": "2026-11-25T02:57:55.165996+01:00",
+  "updated": "2026-11-26T02:39:35.091443+01:00",
   "deja_presente": [],
   "depuis_hier": [],
   "aujourdhui": [
     {
-      "titre": "Israël : le parti de gauche Les Démocrates suspend les négociations de coalition avec Gadi Eisenkot",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/25/israel-le-parti-de-gauche-les-democrates-suspend-les-negociations-avec-celui-de-gadi-eisenkot_6814903_3210.html",
+      "titre": "Ligue des champions : le LOSC renverse le Bayern Münich et se relance dans la course à la qualification",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-losc-renverse-le-bayern-munich-et-se-relance-dans-la-course-a-la-qualification_6815230_3242.html",
       "source": "Le Monde",
-      "date": "2026-11-25T01:15:12+01:00",
-      "resume": "En Israël, le parti de gauche Les Démocrates, dirigé par Yaïr Golan, a suspendu ses négociations de coalition avec Gadi Eisenkot. Cette décision intervient alors que Yaïr Golan pressait Gadi Eisenkot de s'allier avec deux listes à majorité arabe. Un autre partenaire du bloc anti-Nétanyahou, le parti Israël Beitenou, s'oppose à cette alliance.",
-      "contexte": "La formation de coalitions en Israël est souvent rendue complexe par la fragmentation politique de la Knesset et les divergences profondes entre partis de gauche, nationalistes et arabes. Les équilibres au sein du bloc opposé à Benyamin Nétanyahou sont particulièrement fragiles, chaque formation cherchant à imposer ses lignes rouges programmatiques et stratégiques.",
-      "image": "https://img.lemde.fr/2026/11/23/458/0/5500/2750/644/322/60/0/f52b644_ftp-1-e7teesk75x5x-2026-11-23t134214z-31226319-rc2otoaq20b3-rtrmadp-3-israel-politics-netanyahu.JPG"
+      "date": "2026-11-26T01:15:53+01:00",
+      "resume": "Le LOSC s'est imposé face au Bayern Munich sur le score de 2 à 1 lors d'une rencontre disputée le mercredi 25 novembre en Ligue des champions. Après avoir été menés 1 à 0 à la pause, les joueurs lillois ont réussi à renverser la situation en seconde période. Ce succès permet au club français de remonter au classement avec quatre points. Lille conserve ainsi la possibilité de disputer les barrages pour la suite de la compétition.",
+      "contexte": "Cette victoire constitue une performance notable face à l'un des clubs historiques les plus titrés d'Europe. Avec le nouveau format de la Ligue des champions, chaque point est décisif pour espérer figurer parmi les 24 premières équipes et poursuivre l'aventure continentale. Un tel résultat offre un élan de confiance important à l'équipe pour ses prochaines confrontations européennes.",
+      "image": "https://img.lemde.fr/2026/11/25/380/0/4163/2081/644/322/60/0/f38ff33_ftp-1-2hf8kkwsvz1q-0d1deb730b564018868912c26215d695-1-ca87650535a84caf8d7f1d0949ce24f2.jpg"
     },
     {
-      "titre": "Le géant chinois Huawei reconnu coupable de vol de secrets industriels aux Etats-Unis, après huit ans de procédure",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html",
-      "source": "Le Monde · France 24",
-      "date": "2026-11-25T00:49:03+01:00",
-      "resume": "Le géant technologique chinois Huawei a été reconnu coupable mardi à New York de fraude bancaire et de vol de secrets industriels, à l'issue d'une procédure judiciaire de huit ans. Un jury fédéral a estimé que le groupe avait notamment tenté de recruter des salariés d'entreprises de télécommunications américaines pour obtenir des informations technologiques.",
-      "contexte": "Cette condamnation s'inscrit dans un contexte de tensions géopolitiques et économiques persistantes entre les États-Unis et la Chine autour de la souveraineté technologique et de la cybersécurité. Les affaires d'espionnage industriel impliquant de grands groupes étrangers font l'objet d'une surveillance accrue des autorités américaines afin de protéger les innovations nationales.",
-      "image": "https://img.lemde.fr/2020/06/03/421/0/3500/1747/644/322/60/0/20b32a4_FW1_HUAWEI-IRAN-PROBE_0603_1C.JPG"
+      "titre": "Mali : le JNIM lance un ultimatum aux habitants de Tonka",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-mali-le-jnim-lance-un-ultimatum-aux-habitants-de-tonka",
+      "source": "France 24",
+      "date": "2026-11-26T01:03:50+01:00",
+      "resume": "Au Mali, le groupe armé JNIM a fixé un ultimatum aux résidents de la localité de Tonka, située dans la région de Tombouctou. Les civils ont été sommés de quitter la ville avant vendredi, date annoncée pour l'instauration d'un blocus complet. Cette mesure fait peser de vives inquiétudes sur les conditions de sécurité et d'accès aux ressources pour les populations locales.",
+      "contexte": "L'imposition de blocus autour de localités isolées est une tactique régulièrement employée par les groupes djihadistes au Sahel pour couper les voies de ravitaillement et affaiblir le contrôle de l'État central. Cette pression militaire et logistique engendre généralement d'importantes crises humanitaires et provoque des déplacements forcés de civils fuyant les violences.",
+      "image": "https://s.france24.com/media/display/4817b822-e925-11f1-896f-1991d4929b54/w:1024/p:16x9/WB302619-O-01-20261125.jpg"
     },
     {
-      "titre": "1 femme est tuée par un proche toutes les 11 minutes",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261124-1-femme-est-tu%C3%A9e-par-un-proche-toutes-les-11-minutes",
-      "source": "France 24 · franceinfo",
-      "date": "2026-11-25T00:31:50+01:00",
-      "resume": "À l'occasion de la journée internationale pour l'élimination de la violence à l'égard des femmes ce mercredi, l'ONU a rappelé qu'une femme est tuée par un proche toutes les 11 minutes dans le monde, malgré des progrès sur 30 ans mais des lois qui reculent parfois. En Guadeloupe, un homme de 63 ans a tué sa femme de 65 ans à leur domicile de Saint-François avant de se suicider, selon la procureure de Pointe-à-Pitre.",
-      "contexte": "Les violences intrafamiliales et les féminicides constituent un problème de santé publique mondial et l'une des violations des droits humains les plus répandues. Le manque persistant de ressources pour l'accompagnement des victimes et la persistance de stéréotypes profondément ancrés sont souvent pointés du doigt par les associations et les organisations internationales.",
-      "image": "https://s.france24.com/media/display/6374fb02-e85d-11f1-bb8e-81da3ab2acbb/w:1024/p:16x9/FR-20261124-233641-234137-CS.jpg"
+      "titre": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-26T00:50:44+01:00",
+      "resume": "Le Sénat a validé une contribution financière de cinq milliards d'euros ciblée sur les grandes entreprises dans le cadre de l'examen budgétaire. La majorité sénatoriale de droite, habituellement réticente à l'alourdissement des prélèvements sur les sociétés, a accepté cette mesure. La rapporteure générale Les Républicains, Christine Lavarde, a soutenu ce choix en invoquant la gravité du déficit public et la nécessité d'un effort partagé.",
+      "contexte": "Cette décision s'inscrit dans les débats récurrents autour du redressement des comptes publics en France, confrontés à une dette et un déficit élevés. Les arbitrages fiscaux cherchent souvent à concilier le besoin urgent de nouvelles recettes pour l'État avec la préservation de la compétitivité économique des acteurs privés.",
+      "image": "https://img.lemde.fr/2026/11/25/484/0/5805/2902/644/322/60/0/bed23f6_upload-1-m5j7yxgkjns5-000-d6fa443.jpg"
     },
     {
-      "titre": "Victoire du Sénégal à la CAN : la Confédération africaine de football déclare \"respecter la décision\" du Tribunal arbitral du sport",
-      "lien": "https://www.franceinfo.fr/sports/foot/can/direct-senegal-vainqueur-de-la-can-le-tribunal-arbitral-du-sport-a-rendu-justice-au-sport-estime-le-president-de-la-federation-senegalaise_8298138.html#xtor=RSS-3-[lestitres]",
+      "titre": "Le train Oxygène, destiné à remplacer les anciens Corail sur les liaisons Intercités Paris-Clermont et Paris-Toulouse, dévoilé au public",
+      "lien": "https://www.franceinfo.fr/economie/transports/le-train-oxygene-destine-a-remplacer-les-anciens-corail-sur-les-liaisons-intercites-paris-clermont-et-paris-toulouse-devoile-au-public_8300403.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-25T00:16:34+01:00",
-      "resume": "La Confédération africaine de football (CAF) a déclaré respecter la décision du Tribunal arbitral du sport (TAS). Mardi, le TAS a attribué la victoire de la Coupe d'Afrique des nations 2025 au Sénégal, aux dépens du Maroc qui détenait initialement le titre.",
-      "contexte": "Le Tribunal arbitral du sport joue le rôle de juridiction suprême pour trancher les litiges sportifs internationaux lorsque les fédérations et les instances continentales ne parviennent pas à un accord définitif. Cette décision modifie le palmarès d'une compétition majeure et met fin à un différend juridique entre les différentes parties concernées.",
-      "image": "https://www.franceinfo.fr/pictures/IDL5HqCd6Twh65fb4p5ujL_kUYs/0x106:1024x682/432x243/filters:format(jpg)/2026/11/24/6b05c2991ebd7493036506.jpg"
+      "date": "2026-11-26T00:00:46+01:00",
+      "resume": "Le nouveau train nommé Oxygène a été officiellement présenté au public ce mercredi. Ce matériel roulant est conçu pour remplacer les anciennes rames Corail sur les lignes Intercités reliant Paris à Clermont-Ferrand et Paris à Toulouse. Bien que son déploiement commercial soit officiellement annoncé pour la période estivale, la date exacte de mise en service demeure incertaine.",
+      "contexte": "Ces deux lignes radiales souffrent depuis de nombreuses années de pannes récurrentes et de retards causés par le vieillissement du matériel existant. Le renouvellement des rames vise généralement à améliorer la régularité, le confort des passagers et la fiabilité des dessertes ferroviaires d'équilibre du territoire.",
+      "image": "https://www.franceinfo.fr/pictures/QVj9Z9-9rtFj0kkjzpl_NdDfcs4/0x93:5000x2906/432x243/filters:format(jpg)/2026/11/25/6b07682c2a00d874945374.jpg"
     }
   ],
   "culture": [],
   "quiz_jour": [
     {
-      "id": "cb122a18e2",
-      "date": "2026-11-25",
+      "id": "09584391dc",
+      "date": "2026-11-26",
       "type": "actu",
-      "question": "Quel parti politique israélien a suspendu ses négociations de coalition avec Gadi Eisenkot ?",
+      "question": "Quel grand club européen le LOSC a-t-il battu sur le score de 2 à 1 en Ligue des champions ?",
       "choix": [
-        "Yesh Atid",
-        "Les Démocrates",
-        "Le Likoud",
-        "Israël Beitenou"
-      ],
-      "reponse": 1,
-      "explication": "Le parti de gauche Les Démocrates, dirigé par Yaïr Golan, a suspendu ses négociations de coalition avec Gadi Eisenkot.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/25/israel-le-parti-de-gauche-les-democrates-suspend-les-negociations-avec-celui-de-gadi-eisenkot_6814903_3210.html",
-      "image": "https://img.lemde.fr/2026/11/23/458/0/5500/2750/644/322/60/0/f52b644_ftp-1-e7teesk75x5x-2026-11-23t134214z-31226319-rc2otoaq20b3-rtrmadp-3-israel-politics-netanyahu.JPG"
-    },
-    {
-      "id": "8622a8b9ec",
-      "date": "2026-11-25",
-      "type": "actu",
-      "question": "Pour quelle infraction le géant chinois Huawei a-t-il été reconnu coupable aux États-Unis après huit ans de procédure ?",
-      "choix": [
-        "Violation d'embargo sur les armements",
-        "Piratage de satellites gouvernementaux",
-        "Fraude fiscale et corruption",
-        "Vol de secrets industriels et fraude bancaire"
-      ],
-      "reponse": 3,
-      "explication": "Huawei a été reconnu coupable de fraude bancaire et de vol de secrets industriels à l'issue d'une procédure de huit ans à New York.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html",
-      "image": "https://img.lemde.fr/2020/06/03/421/0/3500/1747/644/322/60/0/20b32a4_FW1_HUAWEI-IRAN-PROBE_0603_1C.JPG"
-    },
-    {
-      "id": "40489323ec",
-      "date": "2026-11-25",
-      "type": "actu",
-      "question": "Selon l'ONU, à quelle fréquence une femme est-elle tuée par un proche dans le monde ?",
-      "choix": [
-        "Toutes les heures",
-        "Toutes les 30 minutes",
-        "Toutes les 11 minutes",
-        "Toutes les 5 minutes"
-      ],
-      "reponse": 2,
-      "explication": "L'ONU a rappelé qu'une femme est tuée par un proche toutes les 11 minutes dans le monde.",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261124-1-femme-est-tu%C3%A9e-par-un-proche-toutes-les-11-minutes",
-      "image": "https://s.france24.com/media/display/6374fb02-e85d-11f1-bb8e-81da3ab2acbb/w:1024/p:16x9/FR-20261124-233641-234137-CS.jpg"
-    },
-    {
-      "id": "8d66d3b5c0",
-      "date": "2026-11-25",
-      "type": "actu",
-      "question": "Quelle instance a attribué la victoire de la Coupe d'Afrique des nations 2025 au Sénégal aux dépens du Maroc ?",
-      "choix": [
-        "Le Tribunal arbitral du sport",
-        "La FIFA",
-        "Le Tribunal de grande instance de Paris",
-        "La Confédération africaine de football"
+        "Le Bayern Munich",
+        "Le Real Madrid",
+        "L'Inter Milan",
+        "Manchester City"
       ],
       "reponse": 0,
-      "explication": "C'est le Tribunal arbitral du sport (TAS) qui a attribué la victoire de la CAN 2025 au Sénégal.",
-      "lien": "https://www.franceinfo.fr/sports/foot/can/direct-senegal-vainqueur-de-la-can-le-tribunal-arbitral-du-sport-a-rendu-justice-au-sport-estime-le-president-de-la-federation-senegalaise_8298138.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/IDL5HqCd6Twh65fb4p5ujL_kUYs/0x106:1024x682/432x243/filters:format(jpg)/2026/11/24/6b05c2991ebd7493036506.jpg"
+      "explication": "Après avoir été mené 1 à 0 à la pause, le LOSC a renversé le Bayern Munich 2 à 1, se relançant ainsi dans la compétition.",
+      "lien": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-losc-renverse-le-bayern-munich-et-se-relance-dans-la-course-a-la-qualification_6815230_3242.html",
+      "image": "https://img.lemde.fr/2026/11/25/380/0/4163/2081/644/322/60/0/f38ff33_ftp-1-2hf8kkwsvz1q-0d1deb730b564018868912c26215d695-1-ca87650535a84caf8d7f1d0949ce24f2.jpg"
+    },
+    {
+      "id": "ad2d53490b",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Au Mali, quelle localité de la région de Tombouctou a reçu un ultimatum d'évacuation sous peine de blocus par le groupe JNIM ?",
+      "choix": [
+        "Mopti",
+        "Tonka",
+        "Kidal",
+        "Gao"
+      ],
+      "reponse": 1,
+      "explication": "Le groupe armé JNIM a sommé les habitants de la ville de Tonka de partir avant vendredi, date annoncée pour un blocus total.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-mali-le-jnim-lance-un-ultimatum-aux-habitants-de-tonka",
+      "image": "https://s.france24.com/media/display/4817b822-e925-11f1-896f-1991d4929b54/w:1024/p:16x9/WB302619-O-01-20261125.jpg"
+    },
+    {
+      "id": "6844c8bf0d",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Quel montant d'effort financier demandé aux grandes entreprises a été approuvé par le Sénat dans le cadre du budget ?",
+      "choix": [
+        "12 milliards d'euros",
+        "5 milliards d'euros",
+        "8 milliards d'euros",
+        "2 milliards d'euros"
+      ],
+      "reponse": 1,
+      "explication": "Le Sénat a validé une contribution financière de cinq milliards d'euros ciblée sur les grandes entreprises pour faire face au déficit public.",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
+      "image": "https://img.lemde.fr/2026/11/25/484/0/5805/2902/644/322/60/0/bed23f6_upload-1-m5j7yxgkjns5-000-d6fa443.jpg"
+    },
+    {
+      "id": "3ac0fdc3d1",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Quel est le nom du nouveau train dévoilé pour remplacer les anciennes rames Corail reliant Paris à Clermont-Ferrand et Toulouse ?",
+      "choix": [
+        "Albatros",
+        "Boréal",
+        "Éole",
+        "Oxygène"
+      ],
+      "reponse": 3,
+      "explication": "Le train baptisé « Oxygène » a été officiellement présenté au public pour moderniser les lignes Intercités Paris-Clermont et Paris-Toulouse.",
+      "lien": "https://www.franceinfo.fr/economie/transports/le-train-oxygene-destine-a-remplacer-les-anciens-corail-sur-les-liaisons-intercites-paris-clermont-et-paris-toulouse-devoile-au-public_8300403.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/QVj9Z9-9rtFj0kkjzpl_NdDfcs4/0x93:5000x2906/432x243/filters:format(jpg)/2026/11/25/6b07682c2a00d874945374.jpg"
     }
   ]
 }
