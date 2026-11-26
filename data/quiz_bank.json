@@ -7690,6 +7690,118 @@
       "explication": "Le train baptisé « Oxygène » a été officiellement présenté au public pour moderniser les lignes Intercités Paris-Clermont et Paris-Toulouse.",
       "lien": "https://www.franceinfo.fr/economie/transports/le-train-oxygene-destine-a-remplacer-les-anciens-corail-sur-les-liaisons-intercites-paris-clermont-et-paris-toulouse-devoile-au-public_8300403.html#xtor=RSS-3-[lestitres]",
       "image": "https://www.franceinfo.fr/pictures/QVj9Z9-9rtFj0kkjzpl_NdDfcs4/0x93:5000x2906/432x243/filters:format(jpg)/2026/11/25/6b07682c2a00d874945374.jpg"
+    },
+    {
+      "id": "d35c4cd147",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Quel pays a contacté environ 100 000 anciens militaires pour leur proposer des formations de l'Otan ?",
+      "choix": [
+        "La France",
+        "L'Italie",
+        "L'Allemagne",
+        "Le Royaume-Uni"
+      ],
+      "reponse": 3,
+      "explication": "Le ministère britannique de la Défense a pris contact avec environ 100 000 anciens militaires pour des formations de l'Otan.",
+      "lien": "https://www.france24.com/fr/europe/20261126-face-menace-russe-royaume-uni-propose-formations-otan-r%C3%A9servistes",
+      "image": "https://s.france24.com/media/display/7214b02a-e99e-11f1-98ec-81bc2b1dcd65/w:1024/p:16x9/2026-11-17T032959Z-568734887-RC2FPOAUYPPE-RTRMADP-3-UKRAINE-CRISIS-POLAND-MILITARY-DRILL.jpg"
+    },
+    {
+      "id": "b9a33900e5",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Combien de tonnes de carburant se trouvaient à bord du navire qui a fait naufrage au large d'Ibiza ?",
+      "choix": [
+        "7 000 tonnes",
+        "1 000 tonnes",
+        "12 000 tonnes",
+        "3 500 tonnes"
+      ],
+      "reponse": 0,
+      "explication": "Le navire transportait 7 000 tonnes de carburant lors de son naufrage au large de l'île espagnole d'Ibiza.",
+      "lien": "https://www.franceinfo.fr/environnement/pollution/naufrages/un-mort-7-000-tonnes-de-carburant-a-bord-pas-de-traces-d-une-maree-noire-ce-que-l-on-sait-du-naufrage-d-un-navire-au-large-de-l-ile-espagnole-d-ibiza_8301408.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/8VY2L-hsGEolWT-owo_pCNl7Ej4/0x208:3189x2002/432x243/filters:format(jpg)/2026/11/26/6b0835e195f4d783774770.jpg"
+    },
+    {
+      "id": "c55be92616",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Dans quel pays des militantes réclament-elles la légalisation de l'avortement, actuellement strictement interdit ?",
+      "choix": [
+        "Les États-Unis",
+        "L'Espagne",
+        "Le Koweït",
+        "Madagascar"
+      ],
+      "reponse": 3,
+      "explication": "À Madagascar, l'avortement reste strictement interdit, poussant des militantes à réclamer sa légalisation.",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-madagascar-des-militantes-r%C3%A9clament-la-l%C3%A9galisation-de-l-avortement",
+      "image": "https://s.france24.com/media/display/78d86aa4-e99f-11f1-899d-77d069279b82/w:1024/p:16x9/Couv-MADAGASCAR-Avortement.jpg"
+    },
+    {
+      "id": "1ca0e2e558",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "Qui a été désigné pour succéder à Christine Lagarde à la tête de la Banque centrale européenne ?",
+      "choix": [
+        "Pablo Hernandez de Cos",
+        "David Lisnard",
+        "Klaas Knot",
+        "Bruno Retailleau"
+      ],
+      "reponse": 0,
+      "explication": "L'économiste espagnol Pablo Hernandez de Cos a été choisi pour succéder à Christine Lagarde à la tête de la BCE.",
+      "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-ex-gouverneur-de-la-banque-d-espagne-pablo-hernandez-de-cos-va-succeder-a-christine-lagarde-a-la-tete-de-la-banque-centrale-europeenne_8301510.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/UeLTSGeE9h1bkLFeem3TPBmp2sU/0x0:7158x4026/432x243/filters:format(jpg)/2026/11/26/6b084e06904de384102550.jpg"
+    },
+    {
+      "id": "137aa09383",
+      "date": "2026-11-26",
+      "type": "actu",
+      "question": "De quelle nationalité étaient les deux techniciens tués au Koweït par des drones iraniens ?",
+      "choix": [
+        "Américains",
+        "Espagnols",
+        "Français",
+        "Italiens"
+      ],
+      "reponse": 3,
+      "explication": "Deux techniciens italiens de l'entreprise Rheinmetall Italia ont été tués au Koweït.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/26/deux-italiens-tues-par-des-drones-iraniens-au-koweit_6815554_3210.html",
+      "image": "https://img.lemde.fr/2026/11/26/319/0/1160/580/644/322/60/0/d605b09_upload-1-zbkbv7c78tvn-capture-d-e-cran-2026-11-26-a-16-01-44.png"
+    },
+    {
+      "id": "f06d384769",
+      "date": "2026-11-26",
+      "type": "culture",
+      "question": "Quel ami de Franz Kafka a choisi de ne pas brûler ses manuscrits comme il le demandait ?",
+      "choix": [
+        "Klaas Knot",
+        "Max Brod",
+        "Néron",
+        "Vespasien"
+      ],
+      "reponse": 1,
+      "explication": "Max Brod a désobéi aux dernières volontés de Kafka en publiant ses œuvres majeures au lieu de les détruire.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "30d095395b",
+      "date": "2026-11-26",
+      "type": "culture",
+      "question": "En quelle année le marathon de Boston a-t-il été créé ?",
+      "choix": [
+        "1945",
+        "1897",
+        "2004",
+        "1789"
+      ],
+      "reponse": 1,
+      "explication": "Créé en 1897, le marathon de Boston est la plus ancienne course de marathon annuelle au monde.",
+      "lien": "",
+      "image": ""
     }
   ]
 }
