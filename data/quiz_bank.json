@@ -7802,6 +7802,86 @@
       "explication": "Créé en 1897, le marathon de Boston est la plus ancienne course de marathon annuelle au monde.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "5b9d5a3a01",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Quelle série télévisée est notamment citée pour avoir popularisé l'image festive de Thanksgiving ?",
+      "choix": [
+        "How I Met Your Mother",
+        "Friends",
+        "The Big Bang Theory",
+        "Modern Family"
+      ],
+      "reponse": 1,
+      "explication": "L'article mentionne que l'événement est largement popularisé à travers les films et les séries comme Friends.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261127-thanksgiving-ce-que-friends-ne-raconte-pas",
+      "image": "https://s.france24.com/media/display/5ba0967a-e9f2-11f1-90ad-f9cf020caef6/w:1024/p:16x9/DL00026445-VOD-00064233-CS2340.jpg"
+    },
+    {
+      "id": "b49694e3e3",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Quel magazine d'investigation s'est intéressé au fonctionnement interne d'Interpol ?",
+      "choix": [
+        "Cash Investigation",
+        "Complément d'enquête",
+        "Pièces à conviction",
+        "Envoyé spécial"
+      ],
+      "reponse": 1,
+      "explication": "Il s'agit du magazine « Complément d’enquête » selon le résumé.",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/F5Kkawz_jBMJeVxD-qLSWty64wo/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/26/6b07ee3ed28ce863323134.jpg"
+    },
+    {
+      "id": "a609cfd16c",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Près de quelle ville libyenne l'Ukraine a-t-elle revendiqué des frappes contre des navires russes ?",
+      "choix": [
+        "Misrata",
+        "Tripoli",
+        "Benghazi",
+        "Tobrouk"
+      ],
+      "reponse": 2,
+      "explication": "Le texte indique que les frappes visaient des navires situés près de Benghazi, en Libye.",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-kiev-n-a-aucune-intention-d-etendre-la-guerre-a-la-libye-assure-le-chef-de-la-diplomatie-ukrainienne_6814183_3210.html",
+      "image": "https://img.lemde.fr/2026/11/26/407/0/6284/3142/644/322/60/0/f369c49_upload-1-ugdwtfkovaua-afp-20261126-ukrinform-newsconf261125-npagn-v1-highres-newsconferenceofukrainia.jpg"
+    },
+    {
+      "id": "0c7011a16d",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Lequel de ces sujets n'est PAS abordé dans le reportage d'« Envoyé spécial » mentionné ?",
+      "choix": [
+        "Les soirées festives non mixtes réservées aux femmes",
+        "La captation d'héritage ciblant les personnes âgées",
+        "La préparation de la population des pays baltes avec des bunkers",
+        "Le fonctionnement interne et la corruption au sein d'Interpol"
+      ],
+      "reponse": 3,
+      "explication": "Le sujet sur Interpol concerne une émission de « Complément d'enquête », tandis qu'« Envoyé spécial » traite des héritages, des soirées non mixtes et des pays baltes.",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/envoye-special-du-jeudi-26-novembre-2026_8270153.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/Jl6FibEf78J5Dy0G2RIwUNO7DXY/0x0:1908x1073/432x243/filters:format(jpg)/2024/09/27/broad3a74ib-66f5fd028fc30203272669.jpg"
+    },
+    {
+      "id": "a933e2ecb0",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Combien de mesures ont été présentées par cinquante organisations pour refonder la protection sociale ?",
+      "choix": [
+        "100 mesures",
+        "30 mesures",
+        "60 mesures",
+        "50 mesures"
+      ],
+      "reponse": 2,
+      "explication": "L'article précise que cinquante organisations ont présenté soixante mesures pour réformer la protection sociale.",
+      "lien": "https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/MxMPvAtQ6Szb4-y03C4hmkpIbW0/0x123:2173x1345/432x243/filters:format(jpg)/2026/11/26/6b08b9871ae88314416506.jpg"
     }
   ]
 }

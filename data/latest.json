@@ -1,227 +1,137 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "mode": "evening",
-  "updated": "2026-11-26T17:18:13.464094+01:00",
+  "updated": "2026-11-27T02:32:06.492733+01:00",
   "deja_presente": [],
   "depuis_hier": [],
   "aujourdhui": [
     {
-      "titre": "Face à la menace russe, le Royaume-Uni propose des formations de l'Otan à des réservistes",
-      "lien": "https://www.france24.com/fr/europe/20261126-face-menace-russe-royaume-uni-propose-formations-otan-r%C3%A9servistes",
-      "source": "France 24 · franceinfo",
-      "date": "2026-11-26T17:00:53+01:00",
-      "resume": "Le ministère britannique de la Défense a annoncé jeudi avoir pris contact avec environ 100 000 anciens militaires pour leur proposer de participer à des formations et exercices de l'Otan. Cette démarche inédite depuis la Guerre froide vise à préparer l'armée à l'éventualité d'un conflit en cas de besoin.",
-      "contexte": "Cette mesure est présentée comme une précaution face à la menace russe croissante en Europe. Elle illustre la volonté de certains pays membres de l'Otan de renforcer rapidement leur réservoir de forces mobilisables pour accroître leur dissuasion.",
-      "image": "https://s.france24.com/media/display/7214b02a-e99e-11f1-98ec-81bc2b1dcd65/w:1024/p:16x9/2026-11-17T032959Z-568734887-RC2FPOAUYPPE-RTRMADP-3-UKRAINE-CRISIS-POLAND-MILITARY-DRILL.jpg"
-    },
-    {
-      "titre": "\"C'est notre première inondation\" : les côtes de Californie balayées par des vagues géantes",
-      "lien": "https://www.franceinfo.fr/monde/usa/c-est-notre-premiere-inondation-les-cotes-de-californie-balayees-par-des-vagues-geantes_8301558.html#xtor=RSS-3-%5Bmonde%5D",
-      "source": "franceinfo Monde · France 24",
-      "date": "2026-11-26T16:57:50+01:00",
-      "resume": "Mercredi 25 novembre, des vagues géantes et des marées historiques ont submergé les côtes de la Californie aux États-Unis, touchant particulièrement les régions de Los Angeles et San Francisco. Près de Thanksgiving, les habitants ont tenté de protéger leurs maisons face à ces inondations littorales, bien que le pire ait été écouté selon le maire de San Francisco.",
-      "contexte": "Ces phénomènes de submersions marines sur la côte ouest américaine sont souvent amplifiés par des conditions météorologiques hivernales combinées à des coefficients de marée élevés. Les enjeux portent sur la protection des infrastructures côtières face à l'intensification des risques climatiques.",
-      "image": "https://www.franceinfo.fr/pictures/uRyZKAQ8C7tjjKD86RBjUNaD1m4/0x0:1510x849/432x243/filters:format(jpg)/2026/11/26/6b0849f6e0a01554004264.jpg"
-    },
-    {
-      "titre": "Un mort, 7 000 tonnes de carburant à bord, pas de traces de marée noire... Ce que l'on sait du naufrage d'un navire au large de l'île espagnole d'Ibiza",
-      "lien": "https://www.franceinfo.fr/environnement/pollution/naufrages/un-mort-7-000-tonnes-de-carburant-a-bord-pas-de-traces-d-une-maree-noire-ce-que-l-on-sait-du-naufrage-d-un-navire-au-large-de-l-ile-espagnole-d-ibiza_8301408.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-26T16:56:18+01:00",
-      "resume": "Un navire transportant 7 000 tonnes de carburant a fait naufrage au large de l'île espagnole d'Ibiza, provoquant la mort d'une personne. Le gouvernement espagnol a déployé d'importants moyens pour éviter une catastrophe environnementale, aucun déversement n'ayant été observé jeudi à la mi-journée.",
-      "contexte": "Les naufrages de navires marchands ou de transport d'hydrocarbures font peser un risque majeur sur les écosystèmes marins et côtiers. L'objectif immédiat des autorités est de sécuriser l'épave et de pomper le carburant avant toute fuite.",
-      "image": "https://www.franceinfo.fr/pictures/8VY2L-hsGEolWT-owo_pCNl7Ej4/0x208:3189x2002/432x243/filters:format(jpg)/2026/11/26/6b0835e195f4d783774770.jpg"
-    },
-    {
-      "titre": "\"Elles l'ont dépouillé\" : quand la fille d'une victime d'abus de faiblesse constate de massifs transferts d'argent au bénéfice de ses voisines",
-      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-elles-l-ont-depouille-quand-la-fille-d-une-victime-d-abus-de-faiblesse-constate-de-massifs-transferts-d-argent-au-benefice-de-ses-voisines_8297763.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-26T16:43:17+01:00",
-      "resume": "Un reportage d'Envoyé spécial met en lumière le cas d'un homme âgé et vulnérable, nommé Marc, dépossédé de plus de 200 000 euros par ses voisines via des transferts d'argent massifs. Sa fille tente désormais de faire condamner les responsables de cet abus de faiblesse.",
-      "contexte": "Les abus de faiblesse envers les personnes âgées par des membres de l'entourage proche ou des voisins constituent un phénomène préoccupant face au vieillissement de la population. Les enquêtes et les poursuites judiciaires s'avèrent souvent complexes pour restituer les fonds détournés.",
-      "image": "https://www.franceinfo.fr/pictures/G1g9P4TkYBneLrbFXYqwF8XutkA/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/25/6b06b42fe4422157486080.jpg"
-    },
-    {
-      "titre": "Huit députés des Républicains annoncent leur soutien à David Lisnard plutôt que Bruno Retailleau pour la présidentielle 2027",
-      "lien": "https://www.franceinfo.fr/elections/huit-deputes-des-republicains-annoncent-leur-soutien-a-david-lisnard-plutot-que-bruno-retailleau-pour-la-presidentielle-2027_8301579.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-26T16:38:34+01:00",
-      "resume": "Huit députés du parti Les Républicains ont annoncé leur soutien à David Lisnard plutôt qu'à Bruno Retailleau en vue de l'élection présidentielle de 2027. Ces élus estiment avoir le devoir de ne pas rester inertes face à des postures politiques qu'ils qualifient de suicidaires.",
-      "contexte": "Ces positionnements au sein de la droite illustrent les divisions et les stratégies de recomposition politique en vue de la prochaine élection présidentielle. Le choix des parrainages et des soutiens constitue un enjeu clé pour l'investiture et le leadership des partis.",
-      "image": "https://www.franceinfo.fr/pictures/O8Pb0WQMo334IjZ7R_tpip_v75Y/0x351:3372x2248/432x243/filters:format(jpg)/2026/11/26/6b085193562f1260553850.jpg"
-    },
-    {
-      "titre": "Madagascar : des militantes réclament la légalisation de l'avortement",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-madagascar-des-militantes-r%C3%A9clament-la-l%C3%A9galisation-de-l-avortement",
+      "titre": "Thanksgiving : ce que Friends ne raconte pas",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261127-thanksgiving-ce-que-friends-ne-raconte-pas",
       "source": "France 24",
-      "date": "2026-11-26T16:37:04+01:00",
-      "resume": "À Madagascar, des militantes réclament la légalisation de l'avortement, qui reste strictement interdit même en cas de viol, d'inceste ou de danger pour la mère. Chaque année, cette interdiction pousse des milliers de femmes à recourir à des avortements clandestins à risques.",
-      "contexte": "La question de l'accès à l'interruption volontaire de grossesse soulève des débats sociétaux et sanitaires majeurs dans les pays où elle est pénalisée. Les associations de défense des droits des femmes mettent en avant les risques de mortalité maternelle liés aux pratiques clandestines.",
-      "image": "https://s.france24.com/media/display/78d86aa4-e99f-11f1-899d-77d069279b82/w:1024/p:16x9/Couv-MADAGASCAR-Avortement.jpg"
+      "date": "2026-11-27T01:22:09+01:00",
+      "resume": "Aux États-Unis, la célébration traditionnelle de Thanksgiving réunit chaque année des millions d'Américains autour du traditionnel repas de dinde. L'événement est largement popularisé à travers les films et les séries comme Friends. Cependant, derrière cette image festive se cache une réalité historique tragique liée à l'histoire des peuples autochtones.",
+      "contexte": "Cette fête commémore à l'origine le repas partagé au XVIIe siècle entre colons européens et Amérindiens. Pour de nombreuses communautés autochtones et historiens, cette journée rappelle surtout la colonisation, la dépossession des terres et les massacres qui ont suivi. Les débats contemporains cherchent à sensibiliser le grand public sur la portée mémorielle de cette célébration au-delà du simple folklore familial.",
+      "image": "https://s.france24.com/media/display/5ba0967a-e9f2-11f1-90ad-f9cf020caef6/w:1024/p:16x9/DL00026445-VOD-00064233-CS2340.jpg"
     },
     {
-      "titre": "L'Espagnol Pablo Hernandez de Cos va succéder à Christine Lagarde à la tête de la Banque centrale européenne",
-      "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-ex-gouverneur-de-la-banque-d-espagne-pablo-hernandez-de-cos-va-succeder-a-christine-lagarde-a-la-tete-de-la-banque-centrale-europeenne_8301510.html#xtor=RSS-3-[lestitres]",
+      "titre": "Regardez le replay de \"Complément d'enquête\". Interpol : une police hors de contrôle ?",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-26T16:36:36+01:00",
-      "resume": "L'économiste espagnol Pablo Hernandez de Cos a été désigné pour succéder à Christine Lagarde à la tête de la Banque centrale européenne. Il dirige actuellement la Banque des règlements internationaux et a été préféré au Néerlandais Klaas Knot.",
-      "contexte": "La présidence de la Banque centrale européenne est un poste stratégique pour la définition de la politique monétaire de la zone euro et la gestion de l'inflation. Les nominations à cette fonction font l'objet de négociations politiques et économiques approfondies entre les États membres.",
-      "image": "https://www.franceinfo.fr/pictures/UeLTSGeE9h1bkLFeem3TPBmp2sU/0x0:7158x4026/432x243/filters:format(jpg)/2026/11/26/6b084e06904de384102550.jpg"
+      "date": "2026-11-27T00:54:29+01:00",
+      "resume": "Un numéro du magazine « Complément d’enquête » s'intéresse au fonctionnement interne de l'organisation internationale de police Interpol. L'enquête met en lumière plusieurs failles structurelles majeures, incluant des cas de corruption interne et une protection jugée insuffisante des données. Le reportage dénonce également le détournement potentiel des outils de l'institution par des régimes autoritaires.",
+      "contexte": "Interpol repose sur la coopération policière entre 196 pays membres pour traquer les criminels par le biais de notices rouges. Des ONG et observateurs alertent régulièrement sur le fait que certains États utilisent ces mécanismes pour persécuter ou faire arrêter des opposants politiques en exil. Ce type de révélations relance le débat sur la nécessité de réformer et de renforcer le contrôle indépendant sur ces outils internationaux.",
+      "image": "https://www.franceinfo.fr/pictures/F5Kkawz_jBMJeVxD-qLSWty64wo/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/26/6b07ee3ed28ce863323134.jpg"
     },
     {
-      "titre": "Propos antisémites : Bardella tente se dit victime de \"persécution\" par \"certains médias\"",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-propos-antis%C3%A9mites-bardella-tente-se-dit-victime-de-pers%C3%A9cution-par-certains-m%C3%A9dias",
-      "source": "France 24",
-      "date": "2026-11-26T16:25:11+01:00",
-      "resume": "Mis en cause jeudi 26 novembre par de nouveaux éléments révélés par Mediapart et Le Monde lui attribuant des écrits antisémites datant d'une conversation Facebook de 2013 certifiée par huissier, le président du Rassemblement national Jordan Bardella nie les accusations. Il dénonce une entreprise de persécution et de véritable chasse à l'homme de la part de certains médias.",
-      "contexte": "Les polémiques concernant le passé ou les prises de position de responsables politiques ont un impact fort sur le débat public et l'image des partis. Les accusations de cette nature font l'objet de contestations systématiques sur le terrain juridique et médiatique.",
-      "image": "https://s.france24.com/media/display/929834f2-e9a8-11f1-ba31-77d069279b82/w:1024/p:16x9/FR-20261126-140432-141325-CS.jpg"
-    },
-    {
-      "titre": "Au Koweït, deux techniciens Italiens tués par des drones iraniens",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/26/deux-italiens-tues-par-des-drones-iraniens-au-koweit_6815554_3210.html",
+      "titre": "EN DIRECT, guerre en Ukraine : Kiev n’a « aucune intention d’étendre la guerre à la Libye », assure le chef de la diplomatie ukrainienne",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-kiev-n-a-aucune-intention-d-etendre-la-guerre-a-la-libye-assure-le-chef-de-la-diplomatie-ukrainienne_6814183_3210.html",
       "source": "Le Monde",
-      "date": "2026-11-26T16:18:43+01:00",
-      "resume": "Deux techniciens italiens de l'entreprise Rheinmetall Italia ont été tués au Koweït par des drones iraniens. Les victimes étaient affectées à la surveillance d'une station de détection de la défense antiaérienne, selon une confirmation du chef de la diplomatie italienne.",
-      "contexte": "Cet incident s'inscrit dans un contexte de tensions géographiques accrues au Moyen-Orient et de prolifération des attaques de drones dans la région. La présence de personnel technique étranger sur des installations sensibles expose ces derniers aux risques de frappes.",
-      "image": "https://img.lemde.fr/2026/11/26/319/0/1160/580/644/322/60/0/d605b09_upload-1-zbkbv7c78tvn-capture-d-e-cran-2026-11-26-a-16-01-44.png"
-    }
-  ],
-  "culture": [
-    {
-      "theme": "arts et littérature",
-      "titre": "Le mystère du roman inachevé de Kafka",
-      "texte": "Franz Kafka, l'un des auteurs les plus influents du XXe siècle, a laissé la majeure partie de ses œuvres majeures inachevées. Atteint de tuberculose, il a demandé à son ami de toujours, Max Brod, de brûler tous ses manuscrits après sa mort. Heureusement pour la postérité, Max Brod a choisi de ne pas respecter cette dernière volonté et a publié des chefs-d'œuvre comme Le Procès et Le Château. Ces romans, bien que fragmentaires, plongent le lecteur dans des labyrinthes bureaucratiques et psychologiques saisissants. Cette trahison amicale a ainsi permis de sauver l'un des piliers de la littérature moderne de l'oubli total.",
-      "a_retenir": "Max Brod a sauvé l'œuvre de Kafka de la destruction en refusant de brûler ses manuscrits posthumes.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Max_Brod_v_roce_1914.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "date": "2026-11-27T00:45:02+01:00",
+      "resume": "L'Ukraine a revendiqué des frappes ciblées contre deux navires militaires russes situés près de Benghazi, en Libye. Le ministre ukrainien des Affaires étrangères, Andrii Sybiha, s'est entretenu avec son homologue libyen Taher Al-Baour pour clarifier la situation. Le chef de la diplomatie ukrainienne a assuré que Kiev n'a aucune intention d'étendre le conflit à la Libye et ne visait que du matériel russe participant à la guerre.",
+      "contexte": "La présence logistique et militaire russe en Libye est un point d'appui stratégique pour Moscou en Méditerranée et vers le continent africain. En frappant ces positions lointaines, les forces ukrainiennes cherchent à perturber les chaînes d'approvisionnement et les capacités militaires russes hors du front direct. Cette extension géographique des frappes illustre l'internationalisation des opérations et soulève des enjeux diplomatiques délicats avec les pays tiers concernés.",
+      "image": "https://img.lemde.fr/2026/11/26/407/0/6284/3142/644/322/60/0/f369c49_upload-1-ugdwtfkovaua-afp-20261126-ukrinform-newsconf261125-npagn-v1-highres-newsconferenceofukrainia.jpg"
     },
     {
-      "theme": "sport",
-      "titre": "L'histoire du marathon de Boston",
-      "texte": "Créé en 1897, le marathon de Boston est la plus ancienne course de marathon annuelle au monde. Inspirée par le succès de la première épreuve olympique de marathon moderne aux Jeux d'Athènes, l'idée a germé au sein de l'Association athlétique de Boston. La course se déroule traditionnellement le jour du Patriots' Day, une fête officielle du Massachusetts. Elle est mondialement connue pour sa célèbre difficulté, la colline dite de « Heartbreak Hill », qui met les organismes des coureurs à rude épreuve dans les derniers kilomètres. Franchir cette ligne d'arrivée reste un accomplissement mythique pour tout coureur de fond.",
-      "a_retenir": "Le marathon de Boston, fondé en 1897, est la plus ancienne course annuelle de cette distance au monde.",
-      "image": "https://upload.wikimedia.org/wikipedia/fr/2/28/Boston_marathon_-_logo.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "titre": "Regardez le replay de l'émission \"Envoyé spécial\" de jeudi",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/envoye-special-du-jeudi-26-novembre-2026_8270153.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T00:07:45+01:00",
+      "resume": "Le magazine d'information « Envoyé spécial » a diffusé une nouvelle émission articulée autour de trois thématiques de société et de géopolitique. Les reportages abordent la captation d'héritage ciblant les personnes âgées, les soirées festives non mixtes réservées aux femmes, ainsi que la préparation de la population des pays baltes à travers des bunkers.",
+      "contexte": "Ces sujets reflètent des préoccupations contemporaines très variées, allant de la vulnérabilité économique des seniors aux nouvelles formes de sociabilité féminine face au sentiment d'insécurité. La question des bunkers dans les pays baltes fait écho aux vives craintes d'escalade militaire en Europe de l'Est depuis l'invasion de l'Ukraine par la Russie. Les magazines de grand reportage permettent d'éclairer ces réalités quotidiennes et géopolitiques à travers des témoignages sur le terrain.",
+      "image": "https://www.franceinfo.fr/pictures/Jl6FibEf78J5Dy0G2RIwUNO7DXY/0x0:1908x1073/432x243/filters:format(jpg)/2024/09/27/broad3a74ib-66f5fd028fc30203272669.jpg"
     },
     {
-      "theme": "histoire",
-      "titre": "L'Année des quatre empereurs",
-      "texte": "En l'an 69 de notre ère, l'Empire romain traverse une crise politique majeure connue sous le nom de l'Année des quatre empereurs. Après le suicide de Néron, la dynastie julio-claudienne s'éteint, laissant le trône vacant et aiguisant les ambitions militaires. En l'espace de douze mois seulement, Galba, Othon, Vitellius et enfin Vespasien se succèdent à la tête de l'État. Cette période chaotique démontre que le pouvoir suprême ne dépend plus du Sénat de Rome, mais de la volonté des légions armées. C'est finalement Vespasien qui rétablit l'ordre et fonde la dynastie des Flaviens.",
-      "a_retenir": "L'an 69 a vu se succéder quatre empereurs romains différents, illustrant le pouvoir décisif des armées.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Year_of_the_Four_Emperors.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      "titre": "Cinquante organisations présentent 60 mesures pour refonder la protection sociale dans le cadre de la campagne présidentielle",
+      "lien": "https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T00:03:14+01:00",
+      "resume": "Cinquante organisations, parmi lesquelles figurent la Mutualité Française et le syndicat CFDT, ont présenté conjointement soixante mesures pour réformer la protection sociale. Cette initiative intervient dans le cadre de la campagne présidentielle en France. L'objectif affiché par ce collectif est d'enrayer le déficit croissant de la Sécurité sociale tout en rendant le système plus juste et performant.",
+      "contexte": "La Sécurité sociale française fait face à des tensions budgétaires chroniques, accentuées par le vieillissement de la population et l'augmentation des dépenses de santé. Les partenaires sociaux et acteurs mutualistes cherchent généralement à peser sur les programmes des candidats pour éviter des coupes drastiques dans les prestations. Ces propositions visent à trouver un équilibre entre le rétablissement des comptes publics et le maintien d'une couverture solidaire pour l'ensemble des assurés.",
+      "image": "https://www.franceinfo.fr/pictures/MxMPvAtQ6Szb4-y03C4hmkpIbW0/0x123:2173x1345/432x243/filters:format(jpg)/2026/11/26/6b08b9871ae88314416506.jpg"
     }
   ],
+  "culture": [],
   "quiz_jour": [
     {
-      "id": "d35c4cd147",
-      "date": "2026-11-26",
+      "id": "5b9d5a3a01",
+      "date": "2026-11-27",
       "type": "actu",
-      "question": "Quel pays a contacté environ 100 000 anciens militaires pour leur proposer des formations de l'Otan ?",
+      "question": "Quelle série télévisée est notamment citée pour avoir popularisé l'image festive de Thanksgiving ?",
       "choix": [
-        "La France",
-        "L'Italie",
-        "L'Allemagne",
-        "Le Royaume-Uni"
-      ],
-      "reponse": 3,
-      "explication": "Le ministère britannique de la Défense a pris contact avec environ 100 000 anciens militaires pour des formations de l'Otan.",
-      "lien": "https://www.france24.com/fr/europe/20261126-face-menace-russe-royaume-uni-propose-formations-otan-r%C3%A9servistes",
-      "image": "https://s.france24.com/media/display/7214b02a-e99e-11f1-98ec-81bc2b1dcd65/w:1024/p:16x9/2026-11-17T032959Z-568734887-RC2FPOAUYPPE-RTRMADP-3-UKRAINE-CRISIS-POLAND-MILITARY-DRILL.jpg"
-    },
-    {
-      "id": "b9a33900e5",
-      "date": "2026-11-26",
-      "type": "actu",
-      "question": "Combien de tonnes de carburant se trouvaient à bord du navire qui a fait naufrage au large d'Ibiza ?",
-      "choix": [
-        "7 000 tonnes",
-        "1 000 tonnes",
-        "12 000 tonnes",
-        "3 500 tonnes"
-      ],
-      "reponse": 0,
-      "explication": "Le navire transportait 7 000 tonnes de carburant lors de son naufrage au large de l'île espagnole d'Ibiza.",
-      "lien": "https://www.franceinfo.fr/environnement/pollution/naufrages/un-mort-7-000-tonnes-de-carburant-a-bord-pas-de-traces-d-une-maree-noire-ce-que-l-on-sait-du-naufrage-d-un-navire-au-large-de-l-ile-espagnole-d-ibiza_8301408.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/8VY2L-hsGEolWT-owo_pCNl7Ej4/0x208:3189x2002/432x243/filters:format(jpg)/2026/11/26/6b0835e195f4d783774770.jpg"
-    },
-    {
-      "id": "c55be92616",
-      "date": "2026-11-26",
-      "type": "actu",
-      "question": "Dans quel pays des militantes réclament-elles la légalisation de l'avortement, actuellement strictement interdit ?",
-      "choix": [
-        "Les États-Unis",
-        "L'Espagne",
-        "Le Koweït",
-        "Madagascar"
-      ],
-      "reponse": 3,
-      "explication": "À Madagascar, l'avortement reste strictement interdit, poussant des militantes à réclamer sa légalisation.",
-      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-madagascar-des-militantes-r%C3%A9clament-la-l%C3%A9galisation-de-l-avortement",
-      "image": "https://s.france24.com/media/display/78d86aa4-e99f-11f1-899d-77d069279b82/w:1024/p:16x9/Couv-MADAGASCAR-Avortement.jpg"
-    },
-    {
-      "id": "1ca0e2e558",
-      "date": "2026-11-26",
-      "type": "actu",
-      "question": "Qui a été désigné pour succéder à Christine Lagarde à la tête de la Banque centrale européenne ?",
-      "choix": [
-        "Pablo Hernandez de Cos",
-        "David Lisnard",
-        "Klaas Knot",
-        "Bruno Retailleau"
-      ],
-      "reponse": 0,
-      "explication": "L'économiste espagnol Pablo Hernandez de Cos a été choisi pour succéder à Christine Lagarde à la tête de la BCE.",
-      "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-ex-gouverneur-de-la-banque-d-espagne-pablo-hernandez-de-cos-va-succeder-a-christine-lagarde-a-la-tete-de-la-banque-centrale-europeenne_8301510.html#xtor=RSS-3-[lestitres]",
-      "image": "https://www.franceinfo.fr/pictures/UeLTSGeE9h1bkLFeem3TPBmp2sU/0x0:7158x4026/432x243/filters:format(jpg)/2026/11/26/6b084e06904de384102550.jpg"
-    },
-    {
-      "id": "137aa09383",
-      "date": "2026-11-26",
-      "type": "actu",
-      "question": "De quelle nationalité étaient les deux techniciens tués au Koweït par des drones iraniens ?",
-      "choix": [
-        "Américains",
-        "Espagnols",
-        "Français",
-        "Italiens"
-      ],
-      "reponse": 3,
-      "explication": "Deux techniciens italiens de l'entreprise Rheinmetall Italia ont été tués au Koweït.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/26/deux-italiens-tues-par-des-drones-iraniens-au-koweit_6815554_3210.html",
-      "image": "https://img.lemde.fr/2026/11/26/319/0/1160/580/644/322/60/0/d605b09_upload-1-zbkbv7c78tvn-capture-d-e-cran-2026-11-26-a-16-01-44.png"
-    },
-    {
-      "id": "f06d384769",
-      "date": "2026-11-26",
-      "type": "culture",
-      "question": "Quel ami de Franz Kafka a choisi de ne pas brûler ses manuscrits comme il le demandait ?",
-      "choix": [
-        "Klaas Knot",
-        "Max Brod",
-        "Néron",
-        "Vespasien"
+        "How I Met Your Mother",
+        "Friends",
+        "The Big Bang Theory",
+        "Modern Family"
       ],
       "reponse": 1,
-      "explication": "Max Brod a désobéi aux dernières volontés de Kafka en publiant ses œuvres majeures au lieu de les détruire.",
-      "lien": "",
-      "image": ""
+      "explication": "L'article mentionne que l'événement est largement popularisé à travers les films et les séries comme Friends.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261127-thanksgiving-ce-que-friends-ne-raconte-pas",
+      "image": "https://s.france24.com/media/display/5ba0967a-e9f2-11f1-90ad-f9cf020caef6/w:1024/p:16x9/DL00026445-VOD-00064233-CS2340.jpg"
     },
     {
-      "id": "30d095395b",
-      "date": "2026-11-26",
-      "type": "culture",
-      "question": "En quelle année le marathon de Boston a-t-il été créé ?",
+      "id": "b49694e3e3",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Quel magazine d'investigation s'est intéressé au fonctionnement interne d'Interpol ?",
       "choix": [
-        "1945",
-        "1897",
-        "2004",
-        "1789"
+        "Cash Investigation",
+        "Complément d'enquête",
+        "Pièces à conviction",
+        "Envoyé spécial"
       ],
       "reponse": 1,
-      "explication": "Créé en 1897, le marathon de Boston est la plus ancienne course de marathon annuelle au monde.",
-      "lien": "",
-      "image": ""
+      "explication": "Il s'agit du magazine « Complément d’enquête » selon le résumé.",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/F5Kkawz_jBMJeVxD-qLSWty64wo/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/26/6b07ee3ed28ce863323134.jpg"
+    },
+    {
+      "id": "a609cfd16c",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Près de quelle ville libyenne l'Ukraine a-t-elle revendiqué des frappes contre des navires russes ?",
+      "choix": [
+        "Misrata",
+        "Tripoli",
+        "Benghazi",
+        "Tobrouk"
+      ],
+      "reponse": 2,
+      "explication": "Le texte indique que les frappes visaient des navires situés près de Benghazi, en Libye.",
+      "lien": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-kiev-n-a-aucune-intention-d-etendre-la-guerre-a-la-libye-assure-le-chef-de-la-diplomatie-ukrainienne_6814183_3210.html",
+      "image": "https://img.lemde.fr/2026/11/26/407/0/6284/3142/644/322/60/0/f369c49_upload-1-ugdwtfkovaua-afp-20261126-ukrinform-newsconf261125-npagn-v1-highres-newsconferenceofukrainia.jpg"
+    },
+    {
+      "id": "0c7011a16d",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Lequel de ces sujets n'est PAS abordé dans le reportage d'« Envoyé spécial » mentionné ?",
+      "choix": [
+        "Les soirées festives non mixtes réservées aux femmes",
+        "La captation d'héritage ciblant les personnes âgées",
+        "La préparation de la population des pays baltes avec des bunkers",
+        "Le fonctionnement interne et la corruption au sein d'Interpol"
+      ],
+      "reponse": 3,
+      "explication": "Le sujet sur Interpol concerne une émission de « Complément d'enquête », tandis qu'« Envoyé spécial » traite des héritages, des soirées non mixtes et des pays baltes.",
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/envoye-special-du-jeudi-26-novembre-2026_8270153.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/Jl6FibEf78J5Dy0G2RIwUNO7DXY/0x0:1908x1073/432x243/filters:format(jpg)/2024/09/27/broad3a74ib-66f5fd028fc30203272669.jpg"
+    },
+    {
+      "id": "a933e2ecb0",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Combien de mesures ont été présentées par cinquante organisations pour refonder la protection sociale ?",
+      "choix": [
+        "100 mesures",
+        "30 mesures",
+        "60 mesures",
+        "50 mesures"
+      ],
+      "reponse": 2,
+      "explication": "L'article précise que cinquante organisations ont présenté soixante mesures pour réformer la protection sociale.",
+      "lien": "https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/MxMPvAtQ6Szb4-y03C4hmkpIbW0/0x123:2173x1345/432x243/filters:format(jpg)/2026/11/26/6b08b9871ae88314416506.jpg"
     }
   ]
 }
