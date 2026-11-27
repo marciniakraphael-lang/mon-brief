@@ -7882,6 +7882,118 @@
       "explication": "L'article précise que cinquante organisations ont présenté soixante mesures pour réformer la protection sociale.",
       "lien": "https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html#xtor=RSS-3-[lestitres]",
       "image": "https://www.franceinfo.fr/pictures/MxMPvAtQ6Szb4-y03C4hmkpIbW0/0x123:2173x1345/432x243/filters:format(jpg)/2026/11/26/6b08b9871ae88314416506.jpg"
+    },
+    {
+      "id": "08720c74e1",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Quel événement a perturbé les célébrations de Thanksgiving aux États-Unis ?",
+      "choix": [
+        "Une grève générale des transports",
+        "Une violente tempête",
+        "Une cyberattaque majeure",
+        "Une éruption volcanique"
+      ],
+      "reponse": 1,
+      "explication": "Une violente tempête a balayé l'est et le centre des États-Unis pendant Thanksgiving, privant d'électricité de nombreux Américains.",
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/une-tempete-balaie-new-york-et-la-cote-est_8303403.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/R2GgV9fxUciOscXR3mHGdW44Jog/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/27/6b09a6bfc4647885091618.jpg"
+    },
+    {
+      "id": "e695696b67",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Vers quelle île se dirigeait l'embarcation de migrants secourue au large des Canaries ?",
+      "choix": [
+        "L'île de Tenerife",
+        "L'île de La Palma",
+        "L'île d'El Hierro",
+        "L'île de Grande Canarie"
+      ],
+      "reponse": 2,
+      "explication": "L'embarcation secourue par le service espagnol de sauvetage maritime se dirigeait vers l'île d'El Hierro.",
+      "lien": "https://www.franceinfo.fr/monde/europe/migrants/au-moins-huit-migrants-retrouves-morts-et-six-gravement-blesses-au-large-des-canaries_8303316.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/J5j0bCBLu0LmsSGiDbqcFpge6t0/0x174:3361x2065/432x243/filters:format(jpg)/2026/11/27/6b09a209ad932943793257.jpg"
+    },
+    {
+      "id": "622bb05407",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Quelle plateforme de l'enseignement supérieur Bruno Retailleau souhaite-t-il supprimer pour la présidentielle de 2027 ?",
+      "choix": [
+        "MonMaster",
+        "Parcoursup",
+        "Crous",
+        "APB"
+      ],
+      "reponse": 1,
+      "explication": "Dans son programme, Bruno Retailleau propose notamment la suppression de la plateforme Parcoursup.",
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/27/presidentielle-2027-bruno-retailleau-devoile-son-programme-pour-l-enseignement-superieur-en-souhaitant-la-suppression-de-parcoursup_6815889_6205049.html",
+      "image": "https://img.lemde.fr/2026/11/19/458/0/5500/2750/644/322/60/0/d1f4094_ftp-1-wupsghwksim6-2026-11-19t181835z-1604482632-rc23roath356-rtrmadp-3-france-politics.JPG"
+    },
+    {
+      "id": "cb0d5e8481",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Pourquoi Axel Ronde, président du syndicat de police CFTC, a-t-il été convoqué au tribunal correctionnel ?",
+      "choix": [
+        "Pour diffamation envers le ministère de l'Intérieur",
+        "Pour usage illégal de signes distinctifs de la police",
+        "Pour non-respect du droit de grève",
+        "Pour détournement de fonds syndicaux"
+      ],
+      "reponse": 1,
+      "explication": "Il a été convoqué pour usage illégal de signes distinctifs de la police après avoir conduit sa voiture personnelle équipée d'un gyrophare et d'un pare-soleil siglé.",
+      "lien": "https://www.franceinfo.fr/faits-divers/info-radio-france-le-president-du-syndicat-de-police-cftc-axel-ronde-convoque-en-mai-devant-un-tribunal-correctionnel-pour-usage-illegal-de-signes-distinctifs-de-la-police_8303346.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/iSLLjGuf3l4ST2xoDG_X3rmQTWw/432x243/filters:format(jpg)/2026/11/12/6af5a66241edb251605582.png"
+    },
+    {
+      "id": "6145ae3dfd",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Quels nouveaux éléments s'apprêtent à intégrer le patrimoine culturel immatériel de l'Unesco ?",
+      "choix": [
+        "La cuisine chinoise et l'oud arabe",
+        "La calligraphie japonaise et le café turc",
+        "Le tango argentin et le pain français",
+        "Le yoga et la pizza napolitaine"
+      ],
+      "reponse": 0,
+      "explication": "La cuisine chinoise et l'oud arabe vont entrer au patrimoine immatériel de l'Unesco.",
+      "lien": "https://www.franceinfo.fr/culture/patrimoine/la-cuisine-chinoise-et-l-oud-arabe-vont-entrer-au-patrimoine-immateriel-de-l-unesco_8303190.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/Dm4iUoN_Qm6GaH7vnDMAevDCnnI/0x103:3872x2281/432x243/filters:format(jpg)/2026/11/27/6b098bd5a37e2956148947.jpg"
+    },
+    {
+      "id": "34f21b6f58",
+      "date": "2026-11-27",
+      "type": "culture",
+      "question": "Quelle est la particularité géographique du Liechtenstein en tant qu'État ?",
+      "choix": [
+        "Il possède la plus grande façade maritime d'Europe centrale",
+        "Il est entièrement situé en altitude sans aucune vallée",
+        "Il est situé sur une île volcanique",
+        "Il est doublement enclavé"
+      ],
+      "reponse": 3,
+      "explication": "Le Liechtenstein est un État doublement enclavé, ce qui signifie qu'il faut traverser au moins deux frontières pour atteindre la mer.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "faa2c23376",
+      "date": "2026-11-27",
+      "type": "culture",
+      "question": "Que désigne l'effet Mpemba en physique ?",
+      "choix": [
+        "La fusion instantanée de la glace sous haute pression",
+        "Le fait que l'eau chaude gèle plus vite que l'eau froide dans certaines conditions",
+        "L'accélération du son dans l'eau salée",
+        "La dilatation thermique des métaux précieux"
+      ],
+      "reponse": 1,
+      "explication": "L'effet Mpemba désigne le phénomène selon lequel, dans certaines conditions, de l'eau chaude peut geler plus rapidement que de l'eau froide.",
+      "lien": "",
+      "image": ""
     }
   ]
 }

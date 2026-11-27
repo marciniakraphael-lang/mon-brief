@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
-  "mode": "morning",
-  "updated": "2026-11-27T13:51:54.342498+01:00",
+  "mode": "evening",
+  "updated": "2026-11-27T17:02:30.652094+01:00",
   "deja_presente": [
     {
       "titre": "Présidentielle 2027 : \"La guerre en Ukraine est notre guerre\", répond Raphaël Glucksmann à Teddy Riner, réticent à aider Kiev",
@@ -98,94 +98,112 @@
   ],
   "aujourdhui": [
     {
-      "titre": "Le géant des logiciels SAP confronté à un incident de sécurité informatique",
-      "lien": "https://www.franceinfo.fr/economie/le-geant-des-logiciels-sap-confronte-a-un-incident-de-securite-informatique_8303076.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-27T13:45:44+01:00",
-      "resume": "Le géant allemand des logiciels SAP fait face à un incident de sécurité informatique. L'entreprise a toutefois affirmé à l'AFP qu'elle n'avait trouvé aucun indice d'un accès non autorisé aux données commerciales de ses clients.",
-      "contexte": "Les incidents de cybersécurité touchant les grandes entreprises technologiques soulignent la vulnérabilité croissante des infrastructures numériques face aux cybermenaces. Ce type d'événement nécessite généralement des audits approfondis pour rassurer les clients et garantir la protection des données sensibles gérées par ces prestataires.",
-      "image": "https://www.franceinfo.fr/pictures/s15NUjepvFMr3iKZRFAP57gIp6U/0x827:7911x5277/432x243/filters:format(jpg)/2026/11/27/6b097b3729a25259779800.jpg"
+      "titre": "Une tempête balaie New York et la côte Est",
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/une-tempete-balaie-new-york-et-la-cote-est_8303403.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-27T16:50:44+01:00",
+      "resume": "Une violente tempête a balayé l'est et le centre des États-Unis, privant d'électricité des centaines de milliers d'Américains en plein jour de Thanksgiving. Ces intempéries ont également contraint les autorités à annuler un grand défilé traditionnel prévu à New York.",
+      "contexte": "Les tempêtes automnales et hivernales sur la côte est américaine provoquent régulièrement d'importants dégâts sur le réseau électrique en raison des vents violents et des chutes d'arbres. Ce type d'événement perturbe fortement les déplacements et les célébrations de jours fériés majeurs comme Thanksgiving.",
+      "image": "https://www.franceinfo.fr/pictures/R2GgV9fxUciOscXR3mHGdW44Jog/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/27/6b09a6bfc4647885091618.jpg"
     },
     {
-      "titre": "Jean-Claude Vannier, arrangeur indissociable de Serge Gainsbourg et père de l’album-concept « Histoire de Melody Nelson », est mort à l’âge de 83 ans",
-      "lien": "https://www.lemonde.fr/disparitions/article/2026/11/27/jean-claude-vannier-arrangeur-indissociable-de-serge-gainsbourg-et-pere-de-l-album-concept-histoire-de-melody-nelson-est-mort-a-l-age-de-83-ans_6815859_3382.html",
+      "titre": "Au moins huit migrants retrouvés morts et six gravement blessés au large des Canaries",
+      "lien": "https://www.franceinfo.fr/monde/europe/migrants/au-moins-huit-migrants-retrouves-morts-et-six-gravement-blesses-au-large-des-canaries_8303316.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T16:46:54+01:00",
+      "resume": "Au moins huit migrants ont été retrouvés morts et six autres ont été gravement blessés au large des îles Canaries. Le service espagnol de sauvetage maritime a réussi à secourir 84 personnes qui se trouvaient à bord de l'embarcation, laquelle se dirigeait vers l'île d'El Hierro.",
+      "contexte": "La route migratoire de l'Atlantique, qui relie l'Afrique de l'Ouest aux îles Canaries espagnoles, est l'une des plus mortelles au monde en raison des courants dangereux et de la distance. Les traversées s'effectuent souvent à bord d'embarcations surchargées et précaires, alimentant les crises humanitaires successives dans la région.",
+      "image": "https://www.franceinfo.fr/pictures/J5j0bCBLu0LmsSGiDbqcFpge6t0/0x174:3361x2065/432x243/filters:format(jpg)/2026/11/27/6b09a209ad932943793257.jpg"
+    },
+    {
+      "titre": "Présidentielle 2027 : Bruno Retailleau dévoile son programme pour l’enseignement supérieur, en souhaitant la suppression de Parcoursup",
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/27/presidentielle-2027-bruno-retailleau-devoile-son-programme-pour-l-enseignement-superieur-en-souhaitant-la-suppression-de-parcoursup_6815889_6205049.html",
       "source": "Le Monde",
-      "date": "2026-11-27T13:45:06+01:00",
-      "resume": "Le musicien Jean-Claude Vannier est mort jeudi à l'âge de 83 ans. Pianiste, arrangeur et auteur, il était notamment connu pour avoir été le binôme de Serge Gainsbourg lors de la création de l'album-concept « Histoire de Melody Nelson » et pour avoir orchestré les morceaux de nombreuses figures de la chanson française.",
-      "contexte": "Jean-Claude Vannier laisse derrière lui une empreinte majeure sur la musique française, en particulier dans le domaine des arrangements orchestraux novateurs des années 1970. Son travail aux côtés de Serge Gainsbourg a contribué à redéfinir les standards de la production discographique de l'époque en fusionnant les genres musicaux.",
-      "image": "https://img.lemde.fr/2026/11/27/204/0/2500/1250/644/322/60/0/5011f8a_ftp-1-2tar74axvmyf-afp-d8tl6t3.jpg"
+      "date": "2026-11-27T16:39:16+01:00",
+      "resume": "Le candidat Les Républicains pour la présidentielle de 2027, Bruno Retailleau, a présenté son programme pour l'enseignement supérieur. Il propose notamment la suppression de la plateforme Parcoursup, l'instauration d'une sélection dès la première année d'études, une hausse des frais d'inscription ainsi qu'une réduction drastique du nombre d'étudiants étrangers.",
+      "contexte": "L'avenir de la sélection à l'université et des conditions d'accès aux études supérieures est un sujet récurrent de débat politique en France. Les propositions de réforme touchent aux équilibres financiers des universités et à l'attractivité du pays pour les étudiants internationaux.",
+      "image": "https://img.lemde.fr/2026/11/19/458/0/5500/2750/644/322/60/0/d1f4094_ftp-1-wupsghwksim6-2026-11-19t181835z-1604482632-rc23roath356-rtrmadp-3-france-politics.JPG"
     },
     {
-      "titre": "Donald Trump autorise Elon Musk à lancer un million de satellites dans l’espace pour créer des data centers",
-      "lien": "https://www.franceinfo.fr/internet/spacex/donald-trump-autorise-elon-musk-a-lancer-un-million-de-satellites-dans-l-espace-pour-creer-des-data-centers_8302953.html#xtor=RSS-3-[lestitres]",
+      "titre": "Pourquoi les supporters bulgares et marseillais étaient si proches lors du match OM - Levski Sofia ?",
+      "lien": "https://www.franceinfo.fr/sports/foot/om/pourquoi-les-supporters-bulgares-et-marseillais-etaient-si-proches-lors-du-match-om-levski-sofia_8303244.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-27T13:40:46+01:00",
-      "resume": "Le régulateur américain des télécommunications a autorisé mercredi le projet de SpaceX, soutenu par Donald Trump, visant à lancer un million de satellites en orbite pour créer des data centers dans l'espace. Ce projet soulève déjà des inquiétudes quant à ses possibles conséquences environnementales.",
-      "contexte": "Le développement des infrastructures spatiales et la multiplication des constellations de satellites posent des questions croissantes sur la gestion de l'orbite terrestre basse et la pollution lumineuse ou spatiale. Les projets de cette envergure cherchent à répondre à la demande explosive de puissance de calcul pour l'intelligence artificielle tout en contournant les limites énergétiques terrestres.",
-      "image": "https://www.franceinfo.fr/pictures/cmdsXc2UJ-AG6h9D3vEx96Y27PM/0x0:3000x1687/432x243/filters:format(jpg)/2026/11/27/6b096b5e64d23414047832.jpg"
+      "date": "2026-11-27T16:37:55+01:00",
+      "resume": "Un affrontement a eu lieu entre des supporters marseillais et bulgares lors du match opposant l'OM au Levski Sofia, remettant en question les conditions d'accueil des visiteurs. L'UEFA dispose pourtant de règlements stricts pour éviter tout contact direct entre les fans des deux camps dans l'enceinte des stades.",
+      "contexte": "La sécurité dans les stades européens et la gestion des supporters d'équipes adverses restent un défi permanent pour les instances du football. Les incidents entre supporters relancent régulièrement les discussions sur l'efficacité des mesures préventives et les sanctions applicables aux clubs.",
+      "image": "https://www.franceinfo.fr/pictures/wJLy_2SJuFA8Am5Yhv2Nv8evUIo/0x428:8192x5036/432x243/filters:format(jpg)/2026/11/27/6b099fca927d7336594208.jpg"
     },
     {
-      "titre": "Le Costa Rica refoule la rapporteuse de l'ONU pour les Palestiniens, Francesca Albanese",
-      "lien": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/le-costa-rica-refoule-la-rapporteure-de-l-onu-pour-les-palestiniens-francesca-albanese_8302353.html#xtor=RSS-3-[lestitres]",
+      "titre": "Avec son album \"O/I\", Peter Gabriel met la dernière touche à un diptyque foisonnant entamé en 2023",
+      "lien": "https://www.franceinfo.fr/culture/musique/rock/avec-son-album-o-i-peter-gabriel-met-la-derniere-touche-a-un-diptyque-foisonnant-entame-en-2023_8279285.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-27T13:30:08+01:00",
-      "resume": "Le Costa Rica a refoulé la rapporteuse spéciale de l'ONU pour les Palestiniens, Francesca Albanese. Celle-ci a réagi en déclarant que cela montre le vrai visage de l'empire lorsque l'on franchit ses limites.",
-      "contexte": "Les relations entre les rapporteurs des Nations unies et certains gouvernements peuvent parfois être tendues en raison de prises de position politiques ou de rapports critiques sur les droits humains. Ce type d'incident diplomatique illustre les frictions régulières entre les institutions internationales et les États souverains.",
-      "image": "https://www.franceinfo.fr/pictures/GsuMkrXo82b51a3emfFmFu7nzOE/0x0:5472x3078/432x243/filters:format(jpg)/2026/11/27/6b09183a42a02940010218.jpg"
+      "date": "2026-11-27T16:37:47+01:00",
+      "resume": "Le chanteur britannique Peter Gabriel a publié un nouvel album intitulé \"O/I\", marquant la fin d'un diptyque musical entamé en 2023. Ce disque fonctionne comme une suite en miroir et poursuit le travail d'introspection initié trois ans plus tôt avec l'album \"I/O\".",
+      "contexte": "Les artistes de la scène rock et pop optent parfois pour des formats de double album ou de diptyques espacés dans le temps pour structurer leur démarche artistique sur le long terme. Ce processus permet d'explorer des thématiques complémentaires à travers des cycles de création prolongés.",
+      "image": "https://www.franceinfo.fr/pictures/rj0Ev_s693TKn3tjRfvl90itGBE/0x0:2825x1589/432x243/filters:format(jpg)/2026/11/27/6b098a42b8851497046579.jpg"
     },
     {
-      "titre": "Ecrits antisémites de Jordan Bardella : Marine Le Pen renouvelle sa confiance au président du Rassemblement national",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-de-jordan-bardella-marine-le-pen-renouvelle-sa-confiance-au-president-du-rassemblement-national_6815858_823448.html",
+      "titre": "La couverture vaccinale des adolescents contre le papillomavirus reste loin de l'objectif, après une campagne 2025-2026 au bilan stable selon Santé publique France",
+      "lien": "https://www.franceinfo.fr/sante/vaccins/la-couverture-vaccinale-des-adolescents-contre-le-papillomavirus-reste-loin-de-l-objectif-apres-une-campagne-2025-2026-au-bilan-stable-selon-sante-publique-france_8303136.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T16:34:16+01:00",
+      "resume": "Selon Santé publique France, la couverture vaccinale des adolescents contre le papillomavirus reste stable mais insuffisante pour la campagne 2025-2026. Dans la génération née en 2013, 53 % des filles et 45 % des garçons ont reçu au moins une dose, ce qui demeure loin de l'objectif de 80 % fixé à l'horizon 2030 pour lutter contre cette infection liée au cancer du col de l'utérus.",
+      "contexte": "Le papillomavirus humain (HPV) est responsable de plusieurs types de cancers, et l'élargissement de la vaccination aux garçons vise à renforcer l'immunité collective. Les autorités sanitaires peinent parfois à atteindre leurs objectifs en raison de réticences persistantes ou d'un manque d'adhésion aux campagnes de prévention.",
+      "image": "https://www.franceinfo.fr/pictures/0tdyJ0u319ity_pdMzOanwzVSHc/0x491:4724x3149/432x243/filters:format(jpg)/2026/11/27/6b09850fd0881734312289.jpg"
+    },
+    {
+      "titre": "Le président du syndicat de police CFTC Axel Ronde convoqué en mai devant le tribunal correctionnel pour usage illégal de signes distinctifs de la police",
+      "lien": "https://www.franceinfo.fr/faits-divers/info-radio-france-le-president-du-syndicat-de-police-cftc-axel-ronde-convoque-en-mai-devant-un-tribunal-correctionnel-pour-usage-illegal-de-signes-distinctifs-de-la-police_8303346.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T16:28:46+01:00",
+      "resume": "Axel Ronde, président du syndicat de police CFTC, a été convoqué en mai devant le tribunal correctionnel pour usage illégal de signes distinctifs de la police. Il avait été interpellé en garde à vue par l'IGPN après avoir été arrêté dans le 12e arrondissement de Paris au volant de sa voiture personnelle équipée d'un gyrophare, d'une sirène et d'un pare-soleil siglé \"Police\".",
+      "contexte": "L'utilisation non autorisée d'équipements réservés aux forces de l'ordre constitue une infraction pénale en France, l'usurpation ou l'imitation de fonctions officielles étant sévèrement punie par la loi afin de prévenir les abus et la confusion auprès du public.",
+      "image": "https://www.franceinfo.fr/pictures/iSLLjGuf3l4ST2xoDG_X3rmQTWw/432x243/filters:format(jpg)/2026/11/12/6af5a66241edb251605582.png"
+    },
+    {
+      "titre": "Un jeune homme présentant une « déficience intellectuelle prononcée » mis en examen après le déraillement d’un TER en Normandie en septembre",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/27/deraillement-d-un-ter-en-normandie-un-homme-presentant-une-deficience-intellectuelle-prononcee-mis-en-examen-toute-autre-hypothese-evoquee-doit-ecartee-pour-le-parquet_6815884_3224.html",
       "source": "Le Monde",
-      "date": "2026-11-27T13:25:06+01:00",
-      "resume": "Marine Le Pen a renouvelé sa confiance au président du Rassemblement national, Jordan Bardella, suite à des révélations concernant des écrits antisémites. Le dirigeant politique conteste formellement ces accusations tout en refusant d'avancer des éléments détaillés pour sa défense.",
-      "contexte": "La gestion des polémiques internes et des accusations visant des figures de premier plan constitue un enjeu de communication majeur pour les partis politiques, en particulier à l'approche d'échéances électorales. Les formations cherchent généralement à préserver leur cohésion interne tout en répondant aux critiques de leurs opposants et des médias.",
-      "image": "https://img.lemde.fr/2026/11/27/449/0/5388/2694/644/322/60/0/88ca932_ftp-1-uxkxu7eq7qhl-afp-d8te22j.jpg"
+      "date": "2026-11-27T16:24:40+01:00",
+      "resume": "Un jeune homme d'une vingtaine d'années, présentant une « déficience intellectuelle prononcée » et placé sous curatelle renforcée, a été mis en examen après le déraillement d'un TER survenu en Normandie en septembre. Il a reconnu les faits en affirmant avoir agi seul, tandis qu'une expertise psychiatrique a établi une altération de son discernement, menant à son placement sous contrôle judiciaire.",
+      "contexte": "Les enquêtes sur les accidents ferroviaires impliquant des actes de malveillance extérieure nécessitent une étroite collaboration entre experts judiciaires et psychiatriques pour évaluer la responsabilité pénale des auteurs présumés lorsque des troubles mentaux sont avérés.",
+      "image": "https://img.lemde.fr/2026/11/23/676/0/8110/4055/644/322/60/0/3c30957_ftp-1-8oztiaek4ey6-afp-d8c9963.jpg"
     },
     {
-      "titre": "Christian de Rocquigny, le procureur surpris au siège du RN pendant une perquisition, a admis qu’il avait connaissance de l’affaire des fuites",
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/27/christian-de-rocquigny-le-procureur-surpris-au-siege-du-rn-pendant-une-perquisition-a-admis-qu-il-avait-connaissance-de-l-affaire-des-fuites_6815857_823448.html",
-      "source": "Le Monde",
-      "date": "2026-11-27T13:21:24+01:00",
-      "resume": "Christian de Rocquigny, procureur adjoint de Paris, a admis qu'il avait connaissance de l'affaire des fuites après avoir été surpris par l'IGPN au siège du Rassemblement national lors d'une perquisition.",
-      "contexte": "Les enquêtes menées par l'Inspection générale de la Police nationale (IGPN) ou la justice sur des dysfonctionnements internes touchent parfois les plus hauts échelons de l'appareil judiciaire ou policier. Ce type de révélation soulève des questions sur le respect du secret professionnel et la probité des institutions.",
-      "image": "https://img.lemde.fr/2026/11/27/445/0/5337/2668/644/322/60/0/a340856_upload-1-xn3xfuf2grjl-maxnewsspecialtwo652578.jpg"
+      "titre": "Guinée-Bissau : la transition militaire prolongée de deux ans",
+      "lien": "https://www.france24.com/fr/vid%C3%A9o/20261127-guin%C3%A9e-bissau-la-transition-militaire-prolong%C3%A9e-de-deux-ans",
+      "source": "France 24",
+      "date": "2026-11-27T16:23:31+01:00",
+      "resume": "En Guinée-Bissau, la transition militaire a été prolongée de deux ans par les autorités en place. Le président de la transition, le général Horta N’Tam, a annoncé le report des élections présidentielle et législatives au 26 novembre 2028, justifiant cette décision par l'insuffisance des moyens nécessaires pour organiser le scrutin.",
+      "contexte": "Les reports de scrutins dans les contextes de transitions politiques menées par des régimes militaires en Afrique s'expliquent généralement par des difficultés logistiques, financières ou par la volonté des dirigeants en place de se maintenir au pouvoir. Cela suscite souvent des inquiétudes quant au retour à l'ordre constitutionnel.",
+      "image": "https://s.france24.com/media/display/e4baab84-ea6b-11f1-aa50-81bc2b1dcd65/w:1024/p:16x9/Couv-GUINEE-BISSAU-Transition-militaire.jpg"
     },
     {
-      "titre": "Le PIB recule de 0,2% en France au troisième trimestre, après une révision à la baisse de l'Insee",
-      "lien": "https://www.franceinfo.fr/economie/croissance/le-pib-recule-de-0-2-en-france-au-troisieme-trimestre-apres-une-revision-a-la-baisse-de-l-insee_8302671.html#xtor=RSS-3-[lestitres]",
+      "titre": "Volodymyr Zelensky compare la relation de Donald Trump avec Vladimir Poutine à une amitié avec Hitler pendant la Seconde Guerre mondiale",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-compare-la-relation-de-donald-trump-avec-vladimir-poutine-a-une-amitie-avec-hitler-pendant-la-seconde-guerre-mondiale_8303130.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-27T13:21:02+01:00",
-      "resume": "L'Insee a révisé à la baisse le Produit intérieur brut (PIB) de la France, qui a reculé de 0,2% au troisième trimestre. L'institut a également publié les chiffres provisoires de l'inflation, qui a ralenti à 2,9% sur un an en novembre.",
-      "contexte": "Le suivi trimestriel de la croissance économique et de l'inflation permet d'évaluer la santé financière du pays et d'ajuster les prévisions macroéconomiques. Un ralentissement de l'inflation conjugué à une contraction de l'activité économique témoigne souvent d'un contexte de transition ou de ralentissement de la demande.",
-      "image": "https://www.franceinfo.fr/pictures/NsB-w9Moy0Y-IlQnfBTVA4Koq0Y/0x454:4346x2899/432x243/filters:format(jpg)/2026/11/27/6b0937f22639b314960821.jpg"
+      "date": "2026-11-27T16:22:58+01:00",
+      "resume": "Le président ukrainien Volodymyr Zelensky a comparé la relation entre Donald Trump et Vladimir Poutine à une amitié avec Hitler pendant la Seconde Guerre mondiale. Il a également déploré que les États-Unis n'exercent pas une pression suffisante sur la Russie dans le cadre des négociations visant à mettre fin au conflit en Ukraine.",
+      "contexte": "Les déclarations des dirigeants ukrainiens reflètent l'inquiétude constante de Kiev face aux évolutions de la politique étrangère américaine et aux potentielles pressions pour accepter des compromis territoriaux. La comparaison avec des figures historiques majeures est parfois utilisée dans la rhétorique diplomatique pour souligner l'urgence d'une position ferme face aux agressions étatiques.",
+      "image": "https://www.franceinfo.fr/pictures/kYhaXoyN8_DPlbvJwdX2zomYsHY/0x0:5846x3288/432x243/filters:format(jpg)/2026/11/27/6b098e22dc68e408322993.jpg"
     },
     {
-      "titre": "Deux enquêtes ouvertes après les violences entre supporters lors du match OM-Levski Sofia",
-      "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/deux-enquetes-ouvertes-apres-les-violences-entre-supporters-lors-du-match-om-levski-sofia_8303013.html#xtor=RSS-3-[lestitres]",
+      "titre": "En Irak, le recul des droits des femmes chiites sous l'effet du code jaafarite",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261127-irak-recul-droits-des-femmes-chiites-sous-effet-code-jaafarite-islamisme",
+      "source": "France 24",
+      "date": "2026-11-27T16:11:23+01:00",
+      "resume": "En Irak, la mise en application du code jaafarite d'inspiration chiite soulève de vives inquiétudes un an après son adoption par le Parlement. Ce code permet de régir les affaires familiales, comme les mariages et les héritages, selon des règles religieuses strictes, ce que de nombreuses femmes dénoncent comme un net recul de leurs droits.",
+      "contexte": "L'influence des courants religieux dans le système juridique de certains pays du Moyen-Orient modifie l'équilibre des droits civils, en particulier pour les femmes. L'introduction de lois inspirées de jurisprudences confessionnelles spécifiques engendre des tensions entre traditions religieuses et aspirations à l'égalité des droits.",
+      "image": "https://s.france24.com/media/display/f3257890-ea73-11f1-a219-77d069279b82/w:1024/p:16x9/capture-61aae4bb.jpg"
+    },
+    {
+      "titre": "La cuisine chinoise et l'oud arabe vont entrer au patrimoine immatériel de l'Unesco",
+      "lien": "https://www.franceinfo.fr/culture/patrimoine/la-cuisine-chinoise-et-l-oud-arabe-vont-entrer-au-patrimoine-immateriel-de-l-unesco_8303190.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
-      "date": "2026-11-27T13:19:53+01:00",
-      "resume": "Deux enquêtes ont été ouvertes à la suite des violences et des affrontements entre supporters bulgares et marseillais en marge de la rencontre de Ligue Europa au stade Vélodrome jeudi, qui ont fait des blessés.",
-      "contexte": "Les incidents violents lors des compétitions européennes de football entraînent systématiquement des poursuites judiciaires et des sanctions de la part des instances sportives. La sécurité autour des stades et la gestion des supporters à risque restent des défis majeurs pour les autorités et les clubs.",
-      "image": "https://www.franceinfo.fr/pictures/skwwwmTxTtjzr5F8wI9dBg_9eHE/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/27/6b096f48a5fe5616934449.jpg"
-    },
-    {
-      "titre": "Manifestations du 28 novembre : Laurent Nuñez pointe « une vulnérabilité supplémentaire » avec l’ouverture des marchés de Noël",
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/27/manifestations-du-28-novembre-laurent-nunez-pointe-une-vulnerabilite-supplementaire-avec-l-ouverture-des-marches-de-noel-la-suspension-de-l-usage-des-grenades-assourdissantes-est-etendue-jusqu-a-nouvel-ordre_6815856_3224.html",
-      "source": "Le Monde",
-      "date": "2026-11-27T13:17:20+01:00",
-      "resume": "Le ministre de l'Intérieur, Laurent Nuñez, a pointé une \"vulnérabilité supplémentaire\" liée à l'ouverture des marchés de Noël pour la journée de manifestations du 28 novembre. Il a averti dans un télégramme que ce contexte comporte le risque de voir des cortèges non autorisés rechercher l'affrontement avec les forces de l'ordre.",
-      "contexte": "La sécurisation des grands rassemblements et des événements festifs de fin d'année, tels que les marchés de Noël, mobilise fortement les forces de l'ordre dans un climat social souvent tendu. Les autorités cherchent à anticiper les débordements tout en garantissant le droit de manifester.",
-      "image": "https://img.lemde.fr/2026/11/25/642/0/7704/3852/644/322/60/0/9939b88_ftp-1-cvgyuai94cxf-afp-d8kc8v2.jpg"
-    },
-    {
-      "titre": "En Turquie, deux anciens présentateurs de la principale chaîne d'opposition saisie par le pouvoir ont été placés en garde à vue",
-      "lien": "https://www.franceinfo.fr/monde/turquie/en-turquie-deux-anciens-presentateurs-de-la-principale-chaine-d-opposition-saisie-par-le-pouvoir-places-en-garde-a-vue_8303022.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "date": "2026-11-27T13:13:29+01:00",
-      "resume": "En Turquie, deux anciens présentateurs de la principale chaîne d'opposition, Halk TV, ont été placés en garde à vue sous l'accusation d'avoir réalisé \"des reportages mensongers\" contre rémunération. Cette chaîne a été saisie par le pouvoir en octobre et son directeur de la rédaction fait également l'objet d'un mandat d'arrêt.",
-      "contexte": "La liberté de la presse en Turquie fait régulièrement l'objet de vives critiques de la part d'organisations internationales de défense des droits humains en raison des pressions exercées sur les médias indépendants et d'opposition. Les mesures judiciaires visant des journalistes s'inscrivent souvent dans un climat de contrôle renforcé de l'information par les autorités.",
-      "image": "https://www.franceinfo.fr/pictures/ELSjKP3oWLp5jFSR8fF20sn5jk0/0x1:6000x3376/432x243/filters:format(jpg)/2026/11/27/6b096f8aa4017036942921.jpg"
+      "date": "2026-11-27T16:10:52+01:00",
+      "resume": "La cuisine chinoise et l'oud arabe s'apprêtent à intégrer le patrimoine culturel immatériel de l'Unesco. Actuellement, l'organisation recense déjà 849 pratiques provenant de 157 pays à travers différentes listes de sauvegarde et de représentation.",
+      "contexte": "L'inscription au patrimoine immatériel de l'Unesco vise à protéger, valoriser et sensibiliser le public à la diversité des traditions culturelles, des savoir-faire artisanaux et des expressions artistiques à travers le monde. Cette reconnaissance internationale renforce la préservation de patrimoines ancrés dans l'histoire des peuples.",
+      "image": "https://www.franceinfo.fr/pictures/Dm4iUoN_Qm6GaH7vnDMAevDCnnI/0x103:3872x2281/432x243/filters:format(jpg)/2026/11/27/6b098bd5a37e2956148947.jpg"
     }
   ],
   "culture": [
@@ -211,5 +229,118 @@
       "image": ""
     }
   ],
-  "quiz_jour": []
+  "quiz_jour": [
+    {
+      "id": "08720c74e1",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Quel événement a perturbé les célébrations de Thanksgiving aux États-Unis ?",
+      "choix": [
+        "Une grève générale des transports",
+        "Une violente tempête",
+        "Une cyberattaque majeure",
+        "Une éruption volcanique"
+      ],
+      "reponse": 1,
+      "explication": "Une violente tempête a balayé l'est et le centre des États-Unis pendant Thanksgiving, privant d'électricité de nombreux Américains.",
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/une-tempete-balaie-new-york-et-la-cote-est_8303403.html#xtor=RSS-3-%5Bmonde%5D",
+      "image": "https://www.franceinfo.fr/pictures/R2GgV9fxUciOscXR3mHGdW44Jog/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/27/6b09a6bfc4647885091618.jpg"
+    },
+    {
+      "id": "e695696b67",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Vers quelle île se dirigeait l'embarcation de migrants secourue au large des Canaries ?",
+      "choix": [
+        "L'île de Tenerife",
+        "L'île de La Palma",
+        "L'île d'El Hierro",
+        "L'île de Grande Canarie"
+      ],
+      "reponse": 2,
+      "explication": "L'embarcation secourue par le service espagnol de sauvetage maritime se dirigeait vers l'île d'El Hierro.",
+      "lien": "https://www.franceinfo.fr/monde/europe/migrants/au-moins-huit-migrants-retrouves-morts-et-six-gravement-blesses-au-large-des-canaries_8303316.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/J5j0bCBLu0LmsSGiDbqcFpge6t0/0x174:3361x2065/432x243/filters:format(jpg)/2026/11/27/6b09a209ad932943793257.jpg"
+    },
+    {
+      "id": "622bb05407",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Quelle plateforme de l'enseignement supérieur Bruno Retailleau souhaite-t-il supprimer pour la présidentielle de 2027 ?",
+      "choix": [
+        "MonMaster",
+        "Parcoursup",
+        "Crous",
+        "APB"
+      ],
+      "reponse": 1,
+      "explication": "Dans son programme, Bruno Retailleau propose notamment la suppression de la plateforme Parcoursup.",
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/27/presidentielle-2027-bruno-retailleau-devoile-son-programme-pour-l-enseignement-superieur-en-souhaitant-la-suppression-de-parcoursup_6815889_6205049.html",
+      "image": "https://img.lemde.fr/2026/11/19/458/0/5500/2750/644/322/60/0/d1f4094_ftp-1-wupsghwksim6-2026-11-19t181835z-1604482632-rc23roath356-rtrmadp-3-france-politics.JPG"
+    },
+    {
+      "id": "cb0d5e8481",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Pourquoi Axel Ronde, président du syndicat de police CFTC, a-t-il été convoqué au tribunal correctionnel ?",
+      "choix": [
+        "Pour diffamation envers le ministère de l'Intérieur",
+        "Pour usage illégal de signes distinctifs de la police",
+        "Pour non-respect du droit de grève",
+        "Pour détournement de fonds syndicaux"
+      ],
+      "reponse": 1,
+      "explication": "Il a été convoqué pour usage illégal de signes distinctifs de la police après avoir conduit sa voiture personnelle équipée d'un gyrophare et d'un pare-soleil siglé.",
+      "lien": "https://www.franceinfo.fr/faits-divers/info-radio-france-le-president-du-syndicat-de-police-cftc-axel-ronde-convoque-en-mai-devant-un-tribunal-correctionnel-pour-usage-illegal-de-signes-distinctifs-de-la-police_8303346.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/iSLLjGuf3l4ST2xoDG_X3rmQTWw/432x243/filters:format(jpg)/2026/11/12/6af5a66241edb251605582.png"
+    },
+    {
+      "id": "6145ae3dfd",
+      "date": "2026-11-27",
+      "type": "actu",
+      "question": "Quels nouveaux éléments s'apprêtent à intégrer le patrimoine culturel immatériel de l'Unesco ?",
+      "choix": [
+        "La cuisine chinoise et l'oud arabe",
+        "La calligraphie japonaise et le café turc",
+        "Le tango argentin et le pain français",
+        "Le yoga et la pizza napolitaine"
+      ],
+      "reponse": 0,
+      "explication": "La cuisine chinoise et l'oud arabe vont entrer au patrimoine immatériel de l'Unesco.",
+      "lien": "https://www.franceinfo.fr/culture/patrimoine/la-cuisine-chinoise-et-l-oud-arabe-vont-entrer-au-patrimoine-immateriel-de-l-unesco_8303190.html#xtor=RSS-3-[lestitres]",
+      "image": "https://www.franceinfo.fr/pictures/Dm4iUoN_Qm6GaH7vnDMAevDCnnI/0x103:3872x2281/432x243/filters:format(jpg)/2026/11/27/6b098bd5a37e2956148947.jpg"
+    },
+    {
+      "id": "34f21b6f58",
+      "date": "2026-11-27",
+      "type": "culture",
+      "question": "Quelle est la particularité géographique du Liechtenstein en tant qu'État ?",
+      "choix": [
+        "Il possède la plus grande façade maritime d'Europe centrale",
+        "Il est entièrement situé en altitude sans aucune vallée",
+        "Il est situé sur une île volcanique",
+        "Il est doublement enclavé"
+      ],
+      "reponse": 3,
+      "explication": "Le Liechtenstein est un État doublement enclavé, ce qui signifie qu'il faut traverser au moins deux frontières pour atteindre la mer.",
+      "lien": "",
+      "image": ""
+    },
+    {
+      "id": "faa2c23376",
+      "date": "2026-11-27",
+      "type": "culture",
+      "question": "Que désigne l'effet Mpemba en physique ?",
+      "choix": [
+        "La fusion instantanée de la glace sous haute pression",
+        "Le fait que l'eau chaude gèle plus vite que l'eau froide dans certaines conditions",
+        "L'accélération du son dans l'eau salée",
+        "La dilatation thermique des métaux précieux"
+      ],
+      "reponse": 1,
+      "explication": "L'effet Mpemba désigne le phénomène selon lequel, dans certaines conditions, de l'eau chaude peut geler plus rapidement que de l'eau froide.",
+      "lien": "",
+      "image": ""
+    }
+  ]
 }
