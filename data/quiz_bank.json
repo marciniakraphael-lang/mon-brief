@@ -7994,6 +7994,70 @@
       "explication": "L'effet Mpemba désigne le phénomène selon lequel, dans certaines conditions, de l'eau chaude peut geler plus rapidement que de l'eau froide.",
       "lien": "",
       "image": ""
+    },
+    {
+      "id": "02af8ed6c0",
+      "date": "2026-11-28",
+      "type": "actu",
+      "question": "Au Canada, quelle peine de prison a été requise contre Kenneth Law pour la commercialisation de kits mortels ?",
+      "choix": [
+        "La prison à perpétuité sans libération conditionnelle",
+        "10 ans de prison",
+        "15 ans de prison",
+        "25 ans de prison"
+      ],
+      "reponse": 3,
+      "explication": "Une peine de vingt-cinq ans de réclusion a été requise par la justice canadienne à l'encontre de Kenneth Law.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/28/canada-25-ans-de-prison-requis-contre-kenneth-law-pour-la-vente-de-kits-de-suicide-dans-une-quarantaine-de-pays_6815956_3210.html",
+      "image": "https://img.lemde.fr/2026/11/27/511/0/6000/3000/644/322/60/0/ae5f85d_upload-1-44ojifhjsdys-afp-20260923-c97t3lz-v1-highres-sentencinghearingforcanadianpoisonsellerkenneth.jpg"
+    },
+    {
+      "id": "a6283607a4",
+      "date": "2026-11-28",
+      "type": "actu",
+      "question": "Quelle substance mortelle à forte dose Kenneth Law envoyait-il à ses victimes via Internet ?",
+      "choix": [
+        "Du nitrite de sodium",
+        "Du cyanure de potassium",
+        "De la strychnine",
+        "De l'arsenic"
+      ],
+      "reponse": 0,
+      "explication": "Kenneth Law expédiait du nitrite de sodium, une substance létale à forte dose, à des personnes contactées sur des forums d'aide au suicide.",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/28/canada-25-ans-de-prison-requis-contre-kenneth-law-pour-la-vente-de-kits-de-suicide-dans-une-quarantaine-de-pays_6815956_3210.html",
+      "image": "https://img.lemde.fr/2026/11/27/511/0/6000/3000/644/322/60/0/ae5f85d_upload-1-44ojifhjsdys-afp-20260923-c97t3lz-v1-highres-sentencinghearingforcanadianpoisonsellerkenneth.jpg"
+    },
+    {
+      "id": "8116144a57",
+      "date": "2026-11-28",
+      "type": "actu",
+      "question": "Quelle initiative inédite concernant les centres de données (data centers) pour l'IA a été accordée à Elon Musk ?",
+      "choix": [
+        "Le raccordement direct de data centers à des centrales à fusion",
+        "L'immersion de serveurs au fond des océans",
+        "L'installation de serveurs dans des bases sous-glaciaires en Antarctique",
+        "L'envoi de centres de données dans l'espace"
+      ],
+      "reponse": 3,
+      "explication": "Elon Musk a reçu l'autorisation d'envoyer des centres de données dans l'espace pour faire face aux besoins croissants de l'intelligence artificielle.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
+      "image": "https://s.france24.com/media/display/11ca1bbe-eaad-11f1-b7b9-1991d4929b54/w:1024/p:16x9/FR-20261127-213008-214018-CS.jpg"
+    },
+    {
+      "id": "e9c844a027",
+      "date": "2026-11-28",
+      "type": "actu",
+      "question": "Quelle fonction occupe Gilles Babinet, interrogé au sujet de l'essor fulgurant des besoins liés à l'IA ?",
+      "choix": [
+        "Président de la plateforme Café IA",
+        "Directeur de recherche à l'INRIA",
+        "Porte-parole d'OpenAI en Europe",
+        "Directeur de l'Agence spatiale européenne"
+      ],
+      "reponse": 0,
+      "explication": "Gilles Babinet s'est exprimé sur l'accélération de l'industrie de l'intelligence artificielle en tant que président de la plateforme Café IA.",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
+      "image": "https://s.france24.com/media/display/11ca1bbe-eaad-11f1-b7b9-1991d4929b54/w:1024/p:16x9/FR-20261127-213008-214018-CS.jpg"
     }
   ]
 }
