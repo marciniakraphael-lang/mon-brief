@@ -1,94 +1,287 @@
 {
   "date": "2026-11-28",
-  "mode": "evening",
-  "updated": "2026-11-28T02:13:31.620514+01:00",
-  "deja_presente": [],
-  "depuis_hier": [],
-  "aujourdhui": [
+  "mode": "morning",
+  "updated": "2026-11-28T13:03:28.329128+01:00",
+  "deja_presente": [
     {
-      "titre": "Canada : 25 ans de prison requis contre Kenneth Law pour la vente de « kits de suicide » dans une quarantaine de pays",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/28/canada-25-ans-de-prison-requis-contre-kenneth-law-pour-la-vente-de-kits-de-suicide-dans-une-quarantaine-de-pays_6815956_3210.html",
-      "source": "Le Monde",
-      "date": "2026-11-28T01:23:03+01:00",
-      "resume": "Au Canada, une peine de vingt-cinq ans de réclusion a été requise contre Kenneth Law, un homme de 61 ans poursuivi pour la commercialisation de « kits de suicide ». L'accusé entrait en contact avec ses victimes sur des forums d'aide au suicide en ligne pour leur faire parvenir du nitrite de sodium, une substance mortelle à forte dose. Il est formellement jugé pour le décès de quatorze personnes au Canada, mais il est soupçonné d'avoir expédié des centaines de paquets dans une quarantaine de pays.",
-      "contexte": "Cette affaire internationale met en lumière les failles de la régulation du commerce en ligne et la difficulté des autorités à bloquer l'acheminement de substances toxiques vendues sous des prétextes trompeurs. Elle soulève également des enjeux majeurs de coopération judiciaire entre les États face à des crimes transfrontaliers ciblant des personnes en situation de grande détresse. Une condamnation sévère dans ce type de dossier vise généralement à dissuader l'exploitation marchande du suicide et à inciter les plateformes en ligne à renforcer leur modération.",
-      "image": "https://img.lemde.fr/2026/11/27/511/0/6000/3000/644/322/60/0/ae5f85d_upload-1-44ojifhjsdys-afp-20260923-c97t3lz-v1-highres-sentencinghearingforcanadianpoisonsellerkenneth.jpg"
+      "titre": "Le géant des logiciels SAP confronté à un incident de sécurité informatique",
+      "lien": "https://www.franceinfo.fr/economie/le-geant-des-logiciels-sap-confronte-a-un-incident-de-securite-informatique_8303076.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T13:45:44+01:00",
+      "resume": "Le géant allemand des logiciels SAP fait face à un incident de sécurité informatique. L'entreprise a toutefois affirmé à l'AFP qu'elle n'avait trouvé aucun indice d'un accès non autorisé aux données commerciales de ses clients.",
+      "contexte": "Les incidents de cybersécurité touchant les grandes entreprises technologiques soulignent la vulnérabilité croissante des infrastructures numériques face aux cybermenaces. Ce type d'événement nécessite généralement des audits approfondis pour rassurer les clients et garantir la protection des données sensibles gérées par ces prestataires.",
+      "image": "https://www.franceinfo.fr/pictures/s15NUjepvFMr3iKZRFAP57gIp6U/0x827:7911x5277/432x243/filters:format(jpg)/2026/11/27/6b097b3729a25259779800.jpg"
     },
     {
-      "titre": "Essor des data centers : faut-il débrancher l'IA?",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
-      "source": "France 24",
-      "date": "2026-11-28T00:27:59+01:00",
-      "resume": "La course au développement de l'intelligence artificielle franchit une nouvelle étape avec l'autorisation accordée à Elon Musk d'envoyer des centres de données dans l'espace. Cette initiative s'inscrit dans un contexte d'essor spectaculaire des besoins informatiques mondiaux nécessaires à l'apprentissage et au fonctionnement des modèles d'IA. Interrogé sur le sujet, Gilles Babinet, président de la plateforme Café IA, a souligné que l'industrie s'inscrit actuellement dans une logique d'accélération sans précédent.",
-      "contexte": "Le fonctionnement des technologies d'intelligence artificielle requiert d'immenses capacités de calcul, ce qui entraîne une consommation critique d'énergie et d'eau pour le refroidissement des infrastructures sur Terre. Le recours envisagé à l'espace s'explique souvent par la recherche de sources d'énergie solaire ininterrompues et de solutions pour contourner la saturation des réseaux électriques terrestres. Ces projets inédits posent néanmoins des questions de coût, de faisabilité technique et de durabilité face à l'empreinte environnementale globale du secteur technologique.",
-      "image": "https://s.france24.com/media/display/11ca1bbe-eaad-11f1-b7b9-1991d4929b54/w:1024/p:16x9/FR-20261127-213008-214018-CS.jpg"
+      "titre": "Jean-Claude Vannier, arrangeur indissociable de Serge Gainsbourg et père de l’album-concept « Histoire de Melody Nelson », est mort à l’âge de 83 ans",
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/11/27/jean-claude-vannier-arrangeur-indissociable-de-serge-gainsbourg-et-pere-de-l-album-concept-histoire-de-melody-nelson-est-mort-a-l-age-de-83-ans_6815859_3382.html",
+      "source": "Le Monde",
+      "date": "2026-11-27T13:45:06+01:00",
+      "resume": "Le musicien Jean-Claude Vannier est mort jeudi à l'âge de 83 ans. Pianiste, arrangeur et auteur, il était notamment connu pour avoir été le binôme de Serge Gainsbourg lors de la création de l'album-concept « Histoire de Melody Nelson » et pour avoir orchestré les morceaux de nombreuses figures de la chanson française.",
+      "contexte": "Jean-Claude Vannier laisse derrière lui une empreinte majeure sur la musique française, en particulier dans le domaine des arrangements orchestraux novateurs des années 1970. Son travail aux côtés de Serge Gainsbourg a contribué à redéfinir les standards de la production discographique de l'époque en fusionnant les genres musicaux.",
+      "image": "https://img.lemde.fr/2026/11/27/204/0/2500/1250/644/322/60/0/5011f8a_ftp-1-2tar74axvmyf-afp-d8tl6t3.jpg"
+    },
+    {
+      "titre": "Donald Trump autorise Elon Musk à lancer un million de satellites dans l’espace pour créer des data centers",
+      "lien": "https://www.franceinfo.fr/internet/spacex/donald-trump-autorise-elon-musk-a-lancer-un-million-de-satellites-dans-l-espace-pour-creer-des-data-centers_8302953.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T13:40:46+01:00",
+      "resume": "Le régulateur américain des télécommunications a autorisé mercredi le projet de SpaceX, soutenu par Donald Trump, visant à lancer un million de satellites en orbite pour créer des data centers dans l'espace. Ce projet soulève déjà des inquiétudes quant à ses possibles conséquences environnementales.",
+      "contexte": "Le développement des infrastructures spatiales et la multiplication des constellations de satellites posent des questions croissantes sur la gestion de l'orbite terrestre basse et la pollution lumineuse ou spatiale. Les projets de cette envergure cherchent à répondre à la demande explosive de puissance de calcul pour l'intelligence artificielle tout en contournant les limites énergétiques terrestres.",
+      "image": "https://www.franceinfo.fr/pictures/cmdsXc2UJ-AG6h9D3vEx96Y27PM/0x0:3000x1687/432x243/filters:format(jpg)/2026/11/27/6b096b5e64d23414047832.jpg"
+    },
+    {
+      "titre": "Le Costa Rica refoule la rapporteuse de l'ONU pour les Palestiniens, Francesca Albanese",
+      "lien": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/le-costa-rica-refoule-la-rapporteure-de-l-onu-pour-les-palestiniens-francesca-albanese_8302353.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T13:30:08+01:00",
+      "resume": "Le Costa Rica a refoulé la rapporteuse spéciale de l'ONU pour les Palestiniens, Francesca Albanese. Celle-ci a réagi en déclarant que cela montre le vrai visage de l'empire lorsque l'on franchit ses limites.",
+      "contexte": "Les relations entre les rapporteurs des Nations unies et certains gouvernements peuvent parfois être tendues en raison de prises de position politiques ou de rapports critiques sur les droits humains. Ce type d'incident diplomatique illustre les frictions régulières entre les institutions internationales et les États souverains.",
+      "image": "https://www.franceinfo.fr/pictures/GsuMkrXo82b51a3emfFmFu7nzOE/0x0:5472x3078/432x243/filters:format(jpg)/2026/11/27/6b09183a42a02940010218.jpg"
+    },
+    {
+      "titre": "Ecrits antisémites de Jordan Bardella : Marine Le Pen renouvelle sa confiance au président du Rassemblement national",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-de-jordan-bardella-marine-le-pen-renouvelle-sa-confiance-au-president-du-rassemblement-national_6815858_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-27T13:25:06+01:00",
+      "resume": "Marine Le Pen a renouvelé sa confiance au président du Rassemblement national, Jordan Bardella, suite à des révélations concernant des écrits antisémites. Le dirigeant politique conteste formellement ces accusations tout en refusant d'avancer des éléments détaillés pour sa défense.",
+      "contexte": "La gestion des polémiques internes et des accusations visant des figures de premier plan constitue un enjeu de communication majeur pour les partis politiques, en particulier à l'approche d'échéances électorales. Les formations cherchent généralement à préserver leur cohésion interne tout en répondant aux critiques de leurs opposants et des médias.",
+      "image": "https://img.lemde.fr/2026/11/27/449/0/5388/2694/644/322/60/0/88ca932_ftp-1-uxkxu7eq7qhl-afp-d8te22j.jpg"
+    },
+    {
+      "titre": "Christian de Rocquigny, le procureur surpris au siège du RN pendant une perquisition, a admis qu’il avait connaissance de l’affaire des fuites",
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/27/christian-de-rocquigny-le-procureur-surpris-au-siege-du-rn-pendant-une-perquisition-a-admis-qu-il-avait-connaissance-de-l-affaire-des-fuites_6815857_823448.html",
+      "source": "Le Monde",
+      "date": "2026-11-27T13:21:24+01:00",
+      "resume": "Christian de Rocquigny, procureur adjoint de Paris, a admis qu'il avait connaissance de l'affaire des fuites après avoir été surpris par l'IGPN au siège du Rassemblement national lors d'une perquisition.",
+      "contexte": "Les enquêtes menées par l'Inspection générale de la Police nationale (IGPN) ou la justice sur des dysfonctionnements internes touchent parfois les plus hauts échelons de l'appareil judiciaire ou policier. Ce type de révélation soulève des questions sur le respect du secret professionnel et la probité des institutions.",
+      "image": "https://img.lemde.fr/2026/11/27/445/0/5337/2668/644/322/60/0/a340856_upload-1-xn3xfuf2grjl-maxnewsspecialtwo652578.jpg"
+    },
+    {
+      "titre": "Le PIB recule de 0,2% en France au troisième trimestre, après une révision à la baisse de l'Insee",
+      "lien": "https://www.franceinfo.fr/economie/croissance/le-pib-recule-de-0-2-en-france-au-troisieme-trimestre-apres-une-revision-a-la-baisse-de-l-insee_8302671.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T13:21:02+01:00",
+      "resume": "L'Insee a révisé à la baisse le Produit intérieur brut (PIB) de la France, qui a reculé de 0,2% au troisième trimestre. L'institut a également publié les chiffres provisoires de l'inflation, qui a ralenti à 2,9% sur un an en novembre.",
+      "contexte": "Le suivi trimestriel de la croissance économique et de l'inflation permet d'évaluer la santé financière du pays et d'ajuster les prévisions macroéconomiques. Un ralentissement de l'inflation conjugué à une contraction de l'activité économique témoigne souvent d'un contexte de transition ou de ralentissement de la demande.",
+      "image": "https://www.franceinfo.fr/pictures/NsB-w9Moy0Y-IlQnfBTVA4Koq0Y/0x454:4346x2899/432x243/filters:format(jpg)/2026/11/27/6b0937f22639b314960821.jpg"
+    },
+    {
+      "titre": "Deux enquêtes ouvertes après les violences entre supporters lors du match OM-Levski Sofia",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/deux-enquetes-ouvertes-apres-les-violences-entre-supporters-lors-du-match-om-levski-sofia_8303013.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T13:19:53+01:00",
+      "resume": "Deux enquêtes ont été ouvertes à la suite des violences et des affrontements entre supporters bulgares et marseillais en marge de la rencontre de Ligue Europa au stade Vélodrome jeudi, qui ont fait des blessés.",
+      "contexte": "Les incidents violents lors des compétitions européennes de football entraînent systématiquement des poursuites judiciaires et des sanctions de la part des instances sportives. La sécurité autour des stades et la gestion des supporters à risque restent des défis majeurs pour les autorités et les clubs.",
+      "image": "https://www.franceinfo.fr/pictures/skwwwmTxTtjzr5F8wI9dBg_9eHE/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/27/6b096f48a5fe5616934449.jpg"
+    },
+    {
+      "titre": "Manifestations du 28 novembre : Laurent Nuñez pointe « une vulnérabilité supplémentaire » avec l’ouverture des marchés de Noël",
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/27/manifestations-du-28-novembre-laurent-nunez-pointe-une-vulnerabilite-supplementaire-avec-l-ouverture-des-marches-de-noel-la-suspension-de-l-usage-des-grenades-assourdissantes-est-etendue-jusqu-a-nouvel-ordre_6815856_3224.html",
+      "source": "Le Monde",
+      "date": "2026-11-27T13:17:20+01:00",
+      "resume": "Le ministre de l'Intérieur, Laurent Nuñez, a pointé une \"vulnérabilité supplémentaire\" liée à l'ouverture des marchés de Noël pour la journée de manifestations du 28 novembre. Il a averti dans un télégramme que ce contexte comporte le risque de voir des cortèges non autorisés rechercher l'affrontement avec les forces de l'ordre.",
+      "contexte": "La sécurisation des grands rassemblements et des événements festifs de fin d'année, tels que les marchés de Noël, mobilise fortement les forces de l'ordre dans un climat social souvent tendu. Les autorités cherchent à anticiper les débordements tout en garantissant le droit de manifester.",
+      "image": "https://img.lemde.fr/2026/11/25/642/0/7704/3852/644/322/60/0/9939b88_ftp-1-cvgyuai94cxf-afp-d8kc8v2.jpg"
+    },
+    {
+      "titre": "En Turquie, deux anciens présentateurs de la principale chaîne d'opposition saisie par le pouvoir ont été placés en garde à vue",
+      "lien": "https://www.franceinfo.fr/monde/turquie/en-turquie-deux-anciens-presentateurs-de-la-principale-chaine-d-opposition-saisie-par-le-pouvoir-places-en-garde-a-vue_8303022.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-27T13:13:29+01:00",
+      "resume": "En Turquie, deux anciens présentateurs de la principale chaîne d'opposition, Halk TV, ont été placés en garde à vue sous l'accusation d'avoir réalisé \"des reportages mensongers\" contre rémunération. Cette chaîne a été saisie par le pouvoir en octobre et son directeur de la rédaction fait également l'objet d'un mandat d'arrêt.",
+      "contexte": "La liberté de la presse en Turquie fait régulièrement l'objet de vives critiques de la part d'organisations internationales de défense des droits humains en raison des pressions exercées sur les médias indépendants et d'opposition. Les mesures judiciaires visant des journalistes s'inscrivent souvent dans un climat de contrôle renforcé de l'information par les autorités.",
+      "image": "https://www.franceinfo.fr/pictures/ELSjKP3oWLp5jFSR8fF20sn5jk0/0x1:6000x3376/432x243/filters:format(jpg)/2026/11/27/6b096f8aa4017036942921.jpg"
     }
   ],
-  "culture": [],
-  "quiz_jour": [
+  "depuis_hier": [
     {
-      "id": "02af8ed6c0",
-      "date": "2026-11-28",
-      "type": "actu",
-      "question": "Au Canada, quelle peine de prison a été requise contre Kenneth Law pour la commercialisation de kits mortels ?",
-      "choix": [
-        "La prison à perpétuité sans libération conditionnelle",
-        "10 ans de prison",
-        "15 ans de prison",
-        "25 ans de prison"
-      ],
-      "reponse": 3,
-      "explication": "Une peine de vingt-cinq ans de réclusion a été requise par la justice canadienne à l'encontre de Kenneth Law.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/28/canada-25-ans-de-prison-requis-contre-kenneth-law-pour-la-vente-de-kits-de-suicide-dans-une-quarantaine-de-pays_6815956_3210.html",
-      "image": "https://img.lemde.fr/2026/11/27/511/0/6000/3000/644/322/60/0/ae5f85d_upload-1-44ojifhjsdys-afp-20260923-c97t3lz-v1-highres-sentencinghearingforcanadianpoisonsellerkenneth.jpg"
+      "titre": "Le bateau naufragé au large d'Ibiza sera remorqué vers le port espagnol de Carthagène",
+      "lien": "https://www.franceinfo.fr/monde/espagne/le-bateau-naufrage-au-large-d-ibiza-sera-remorque-vers-le-port-espagnol-de-carthagene_8303865.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-27T23:56:50+01:00",
+      "resume": "Un cargo transportant 7 000 tonnes de carburant a fait naufrage au large des îles d'Ibiza et de Formentera, dans les Baléares. Le navire a été stabilisé en pleine mer et son carburant est pour l'instant contenu. Le Premier ministre espagnol a annoncé qu'il allait être immédiatement remorqué vers le port espagnol de Carthagène après un nouvel examen de sa coque par des plongeurs.",
+      "contexte": "Ce type d'incident soulève immédiatement des craintes majeures de pollution environnementale et de marée noire dans des zones côtières sensibles. Les opérations de remorquage en pleine mer de navires lourdement chargés sont particulièrement complexes et risquées en raison des conditions météorologiques et de l'intégrité incertaine de la coque.",
+      "image": "https://www.franceinfo.fr/pictures/LwhQ6UJOONpvMo0oTCRVjf6wXho/0x208:3189x2002/432x243/filters:format(jpg)/2026/11/27/6b095a4e219d8974980382.jpg"
     },
     {
-      "id": "a6283607a4",
-      "date": "2026-11-28",
-      "type": "actu",
-      "question": "Quelle substance mortelle à forte dose Kenneth Law envoyait-il à ses victimes via Internet ?",
-      "choix": [
-        "Du nitrite de sodium",
-        "Du cyanure de potassium",
-        "De la strychnine",
-        "De l'arsenic"
-      ],
-      "reponse": 0,
-      "explication": "Kenneth Law expédiait du nitrite de sodium, une substance létale à forte dose, à des personnes contactées sur des forums d'aide au suicide.",
-      "lien": "https://www.lemonde.fr/international/article/2026/11/28/canada-25-ans-de-prison-requis-contre-kenneth-law-pour-la-vente-de-kits-de-suicide-dans-une-quarantaine-de-pays_6815956_3210.html",
-      "image": "https://img.lemde.fr/2026/11/27/511/0/6000/3000/644/322/60/0/ae5f85d_upload-1-44ojifhjsdys-afp-20260923-c97t3lz-v1-highres-sentencinghearingforcanadianpoisonsellerkenneth.jpg"
+      "titre": "Loyers exorbitants, crise des salaires... La face cachée de la croissance espagnole",
+      "lien": "https://www.franceinfo.fr/monde/espagne/loyers-exorbitants-crise-des-salaires-la-face-cachee-de-la-croissance-espagnole_8303760.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-27T23:35:51+01:00",
+      "resume": "L'Espagne aborde des élections législatives prévues ce dimanche 29 novembre avec des sondages incertains qui semblent favorables à l'opposition au premier ministre socialiste. Le pays connaît pourtant une croissance économique qualifiée d'insolente, masquée toutefois par des difficultés persistantes comme la crise des salaires et des loyers exorbitants.",
+      "contexte": "Ce paradoxe économique illustre le fait qu'une macroéconomie favorable ne se traduit pas nécessairement par une amélioration immédiate du niveau de vie des citoyens. L'augmentation du coût de la vie et la cherté du logement constituent traditionnellement des thèmes centraux qui pèsent lourdement sur le choix des électeurs lors des scrutins nationaux.",
+      "image": "https://www.franceinfo.fr/pictures/nGh2EqBsp4o05q9S0dTtIjJaugM/0x92:1512x943/432x243/filters:format(jpg)/2026/11/27/6b09e08815995637413441.png"
     },
     {
-      "id": "8116144a57",
-      "date": "2026-11-28",
-      "type": "actu",
-      "question": "Quelle initiative inédite concernant les centres de données (data centers) pour l'IA a été accordée à Elon Musk ?",
-      "choix": [
-        "Le raccordement direct de data centers à des centrales à fusion",
-        "L'immersion de serveurs au fond des océans",
-        "L'installation de serveurs dans des bases sous-glaciaires en Antarctique",
-        "L'envoi de centres de données dans l'espace"
-      ],
-      "reponse": 3,
-      "explication": "Elon Musk a reçu l'autorisation d'envoyer des centres de données dans l'espace pour faire face aux besoins croissants de l'intelligence artificielle.",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
-      "image": "https://s.france24.com/media/display/11ca1bbe-eaad-11f1-b7b9-1991d4929b54/w:1024/p:16x9/FR-20261127-213008-214018-CS.jpg"
+      "titre": "Mali: les djihadistes du JNIM impose un blocus sur la ville de Tonka",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261127-mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka",
+      "source": "France 24",
+      "date": "2026-11-27T23:30:34+01:00",
+      "resume": "Les djihadistes du Groupe de Soutien à l'islam et aux musulmans (JNIM), affilié à Al-Qaïda, imposent depuis ce vendredi un blocus à la ville de Tonka, située dans la région de Tombouctou au nord du Mali. Cette action fait suite à l'installation récente d'un détachement des forces russes d'Africa Corps et de l'armée malienne dans la localité.",
+      "contexte": "Cette situation s'inscrit dans le cadre du conflit persistant au Sahel, où les groupes armés djihadistes utilisent régulièrement le blocus des axes routiers et des villes comme arme stratégique pour affaiblir les forces armées régulières et leurs alliés. La présence de supplétifs russes illustre la réorientation des partenariats sécuritaires de la junte malienne vers de nouveaux acteurs internationaux.",
+      "image": "https://s.france24.com/media/display/b9b1409a-eaae-11f1-aaed-174dac1c1bf0/w:1024/p:16x9/DN00015972-VOD-00043850-01.jpg"
     },
     {
-      "id": "e9c844a027",
-      "date": "2026-11-28",
-      "type": "actu",
-      "question": "Quelle fonction occupe Gilles Babinet, interrogé au sujet de l'essor fulgurant des besoins liés à l'IA ?",
-      "choix": [
-        "Président de la plateforme Café IA",
-        "Directeur de recherche à l'INRIA",
-        "Porte-parole d'OpenAI en Europe",
-        "Directeur de l'Agence spatiale européenne"
-      ],
-      "reponse": 0,
-      "explication": "Gilles Babinet s'est exprimé sur l'accélération de l'industrie de l'intelligence artificielle en tant que président de la plateforme Café IA.",
-      "lien": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
-      "image": "https://s.france24.com/media/display/11ca1bbe-eaad-11f1-b7b9-1991d4929b54/w:1024/p:16x9/FR-20261127-213008-214018-CS.jpg"
+      "titre": "Le prince Harry et Meghan Markle filmés en pleine dispute devant leur fille Lilibet ?",
+      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261127-le-prince-harry-et-meghan-markle-film%C3%A9s-en-pleine-dispute-devant-leur-fille-lilibet",
+      "source": "France 24",
+      "date": "2026-11-27T23:20:50+01:00",
+      "resume": "Une séquence vidéo virale a circulé en prétendant montrer le prince Harry et Meghan Markle en pleine dispute physique devant leur fille de 5 ans, Lilibet, en raison de prétendus contrats publicitaires. Il a été révélé que ces images aux millions de vues ont en réalité été générées par intelligence artificielle et proviennent d'un secteur lucratif basé en Asie du Sud-Est.",
+      "contexte": "Ce cas met en lumière la prolifération croissante des contenus manipulés par intelligence artificielle sur les réseaux sociaux, souvent conçus pour générer de l'audience et des revenus publicitaires à partir de personnalités publiques. Cette tendance pose des défis majeurs en matière de désinformation et de vérification des faits en ligne.",
+      "image": "https://s.france24.com/media/display/d46f775c-eaaf-11f1-a02c-f9cf020caef6/w:1024/p:16x9/capture-c57fadeb.jpg"
+    },
+    {
+      "titre": "La Cour suprême canadienne consacre la laïcité au Québec dans une décision historique",
+      "lien": "https://www.lemonde.fr/international/article/2026/11/27/la-cour-supreme-canadienne-consacre-la-laicite-au-quebec-dans-une-decision-historique_6815937_3210.html",
+      "source": "Le Monde",
+      "date": "2026-11-27T23:06:52+01:00",
+      "resume": "La Cour suprême canadienne a rendu une décision historique en consacrant la laïcité au Québec. Cette loi québécoise tranche nettement avec le modèle de multiculturalisme défendu par l'État fédéral canadien, provoquant des remous au sein de la classe politique.",
+      "contexte": "Le débat sur la laïcité et le multiculturalisme est un sujet récurrent et sensible au Canada, qui ravive les tensions historiques et constitutionnelles entre le gouvernement fédéral et la province francophone du Québec. Ces divergences touchent aux visions fondamentales de l'intégration et des droits individuels ou collectifs au sein du pays.",
+      "image": "https://img.lemde.fr/2026/11/27/726/0/6582/3291/644/322/60/0/5c1f0af_ftp-1-p013z7xu2umj-a0d8452d28eb4ef3ac26761354f7dec3-0-7d3859c7d4304302b93dd33a1734d7c0.jpg"
+    },
+    {
+      "titre": "Le nord-est des États-Unis balayé par une violente tempête, New York en état d'urgence",
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/le-nord-est-des-etats-unis-balaye-par-une-violente-tempete-new-york-en-etat-d-urgence_8303751.html#xtor=RSS-3-%5Bmonde%5D",
+      "source": "franceinfo Monde",
+      "date": "2026-11-27T22:36:55+01:00",
+      "resume": "Le nord-est des États-Unis a été balayé par une violente tempête accompagnée d'inondations le jeudi 26 novembre, amenant la ville de New York à se déclarer en état d'urgence. Près d'un million d'Américains ont ainsi passé Thanksgiving sans électricité, tandis que de nombreux vols ont été reportés et des axes routiers fermés.",
+      "contexte": "Les événements climatiques extrêmes survenant lors de grandes fêtes nationales perturbent considérablement les déplacements de millions de personnes et mettent à l'épreuve les infrastructures énergétiques et de transport. Ce type d'intempéries rappelle la vulnérabilité croissante des réseaux face aux perturbations météorologiques.",
+      "image": "https://www.franceinfo.fr/pictures/FwvuFrRHBKpMFt3UWCiz-TVVR5g/0x67:1476x898/432x243/filters:format(jpg)/2026/11/27/6b09dead5c766034078739.png"
+    },
+    {
+      "titre": "Trump se considère l'\"ami\" de Poutine ? Pour Zelensky, cela revient à se dire ami d'Hitler",
+      "lien": "https://www.france24.com/fr/europe/20261127-trump-se-consid%C3%A8re-ami-poutine-pour-zelensky-cela-revient-se-dire-ami-hitler",
+      "source": "France 24",
+      "date": "2026-11-27T21:52:06+01:00",
+      "resume": "Le président ukrainien Volodymyr Zelensky a vertement critiqué Donald Trump lors d'un entretien accordé à la BBC vendredi, après que ce dernier a qualifié Vladimir Poutine d'\"ami\". M. Zelensky a comparé le dirigeant russe à Adolf Hitler, soulignant qu'un agresseur et un tueur ne pouvait en aucun cas être considéré de la sorte.",
+      "contexte": "Ces déclarations illustrent les craintes persistantes de Kiev quant à l'évolution de la position américaine en cas de retour ou d'influence de Donald Trump sur la politique étrangère des États-Unis, notamment concernant le maintien de l'aide militaire à l'Ukraine et la recherche d'une issue négociée au conflit.",
+      "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg"
+    },
+    {
+      "titre": "Élections à Taïwan : duel serré à Taipei entre l'actuel maire et l'outsider anti-Pékin Puma Shen",
+      "lien": "https://www.france24.com/fr/asie-pacifique/20261127-%C3%A9lections-%C3%A0-ta%C3%AFwan-duel-serr%C3%A9-%C3%A0-taipei-entre-l-actuel-maire-et-l-outsider-anti-p%C3%A9kin-puma-shen",
+      "source": "France 24",
+      "date": "2026-11-27T21:19:27+01:00",
+      "resume": "Les électeurs taïwanais sont appelés aux urnes ce samedi pour des élections municipales. Un duel particulièrement scruté se déroule à Taipei entre l'actuel maire pro-Pékin et l'outsider Puma Shen, fervent critique de Pékin et candidat surprise.",
+      "contexte": "Les scrutins locaux à Taïwan sont souvent observés de près par les observateurs internationaux comme un baromètre des sensibilités politiques de l'île face à l'influence de la Chine continentale. Les questions géopolitiques et les relations transdétroit s'invitent régulièrement dans ces campagnes électorales.",
+      "image": "https://s.france24.com/media/display/459f0d90-eaf4-11f1-946c-f9cf020caef6/w:1024/p:16x9/AP26332173544113.jpg"
     }
-  ]
+  ],
+  "aujourdhui": [
+    {
+      "titre": "Manifestations : nouvelle journée de mobilisation samedi, notamment contre les violences faites aux femmes",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-nouvelle-journee-de-mobilisation-samedi-notamment-contre-les-violences-faites-aux-femmes_8304345.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-28T12:03:47+01:00",
+      "resume": "Une nouvelle journée de mobilisation est organisée ce samedi dans plus d'une trentaine de villes françaises, notamment à Paris, Lille, Lyon et Marseille. Ces rassemblements s'inscrivent dans le sillage de la journée internationale de lutte contre les violences faites aux femmes.",
+      "contexte": "Ces marches visent à maintenir la pression sur les pouvoirs publics pour exiger des moyens accrus en faveur de la protection des victimes et de la prévention des violences sexistes et sexuelles. C'est un mouvement social récurrent qui mobilise régulièrement des collectifs féministes et des organisations syndicales.",
+      "image": "https://www.franceinfo.fr/pictures/Nmlkcs2Q0yRGCMHnX3i0iuRkIrc/0x395:5000x3207/432x243/filters:format(jpg)/2026/11/28/6b0a897fa8389835483792.jpg"
+    },
+    {
+      "titre": "A Berlin, Jean-Luc Mélenchon défend sa vision de la relation franco-allemande et répond aux accusations de germanophobie",
+      "lien": "https://www.franceinfo.fr/politique/melenchon/a-berlin-jean-luc-melenchon-defend-sa-vision-de-la-relation-franco-allemande-et-repond-aux-accusations-de-germanophobie_8304450.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-28T11:59:01+01:00",
+      "resume": "Le chef de file de La France insoumise, Jean-Luc Mélenchon, s'est rendu à Berlin devant une salle comble composée majoritairement de jeunes Français. Il y a présenté la traduction allemande de son livre \"Faites mieux ! Vers une révolution citoyenne\", tout en défendant sa vision de la relation franco-allemande et en répondant aux accusations de germanophobie, à quelques mois de la présidentielle.",
+      "contexte": "Ce déplacement s'inscrit dans une démarche de communication politique visant à porter un discours au-delà des frontières nationales et à s'adresser à la jeunesse expatriée. Les relations entre la France et l'Allemagne constituent un pilier central de la politique européenne, souvent sujet à des divergences de fond entre les différents courants politiques français.",
+      "image": "https://www.franceinfo.fr/pictures/mPyAvx_5hhhccNWM6Irdy3q51GM/0x62:1200x737/432x243/filters:format(jpg)/2026/11/28/6b0aa5c82624d564396178.jpg"
+    },
+    {
+      "titre": "L'état de catastrophe naturelle reconnu pour 227 communes du Pas-de-Calais après les intempéries du mois de novembre",
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-etat-de-catastrophe-naturelle-reconnu-pour-227-communes-du-pas-de-calais-apres-les-intemperies-du-mois-de-novembre_8304426.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-28T11:50:41+01:00",
+      "resume": "L'état de catastrophe naturelle a été officiellement reconnu pour 227 communes du Pas-de-Calais à la suite des intempéries survenues en novembre. Les habitants sinistrés disposent désormais d'un délai de trente jours, soit jusqu'au 28 décembre, pour déclarer l'ensemble des dommages subis auprès de leurs compagnies d'assurance.",
+      "contexte": "La reconnaissance de l'état de catastrophe naturelle est une procédure administrative indispensable pour permettre aux administrés d'être indemnisés rapidement par les assurances pour des dégâts causés par des phénomènes climatiques exceptionnels. Le département du Pas-de-Calais fait face à des épisodes d'inondations à répétition qui fragilisent durablement les populations locales.",
+      "image": "https://www.franceinfo.fr/pictures/wqHERrltK82f19JLyBGPZcxpvSY/0x0:8064x4536/432x243/filters:format(jpg)/2026/11/28/6b0aa0a7457c6501536425.jpg"
+    },
+    {
+      "titre": "Deux syndicats d'Aéroports de Paris appellent à la grève le premier week-end des vacances de Noël",
+      "lien": "https://www.franceinfo.fr/economie/greve/deux-syndicats-d-aeroports-de-paris-appellent-a-la-greve-le-premier-week-end-des-vacances-de-noel_8304435.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-28T11:48:42+01:00",
+      "resume": "La CGT et FO ont déposé un préavis de grève pour le premier week-end des vacances de Noël dans deux syndicats d'Aéroports de Paris. Les grévistes réclament notamment une revalorisation de 20% de l'indemnité de déplacement et de transport, l'octroi d'une prime carburant de 1 000 euros ainsi que le pourvoi des postes vacants.",
+      "contexte": "Le choix de lancer un mouvement de grève en période de vacances scolaires est une stratégie classique pour accroître la visibilité des revendications salariales en raison du flux important de voyageurs. Les perturbations dans les aéroports ont un impact direct sur le trafic aérien et la logistique des départs en congés.",
+      "image": "https://www.franceinfo.fr/pictures/VRx76ZTNzdzQSWllkBikWrICVHs/0x382:3672x2448/432x243/filters:format(jpg)/2026/11/28/6b0aa31fb0b3f756878632.jpg"
+    },
+    {
+      "titre": "Des inondations font au moins 34 morts en Equateur, des milliers de familles touchées aussi au Pérou",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/el-nino/des-milliers-de-personnes-affectees-par-des-inondations-au-perou-et-en-equateur-au-moins-34-morts_8304369.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-28T11:40:03+01:00",
+      "resume": "De fortes pluies ont provoqué des inondations majeures en Équateur et au Pérou ces derniers jours, faisant au moins 34 morts en Équateur et touchant des milliers de familles. Les villes de Manta en Équateur et de Piura au Pérou se trouvent particulièrement sous les eaux.",
+      "contexte": "Ces intempéries destructrices sont souvent exacerbées par des phénomènes climatiques régionaux ou mondiaux qui modifient les régimes de precipitation en Amérique du Sud. Les populations urbaines pauvres y sont particulièrement vulnérables en raison d'infrastructures d'évacuation des eaux parfois insuffisantes.",
+      "image": "https://www.franceinfo.fr/pictures/134GLtTAcgr5hBYHoVm1ETzNi2Y/0x451:5736x3678/432x243/filters:format(jpg)/2026/11/28/6b0a8f2c58e2e187381976.jpg"
+    },
+    {
+      "titre": "\"Le travail n'est jamais fini\" : à 86 ans, Lucinda Childs, légende de la danse contemporaine, revient à l'Opéra de Paris pour une création",
+      "lien": "https://www.franceinfo.fr/culture/spectacles/danse/le-travail-n-est-jamais-fini-a-86-ans-lucinda-childs-legende-de-la-danse-contemporaine-revient-a-l-opera-de-paris-pour-une-creation_8300022.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-28T11:29:58+01:00",
+      "resume": "La chorégraphe américaine Lucinda Childs, figure de la danse contemporaine âgée de 86 ans, revient à l'Opéra de Paris pour une nouvelle création présentée au Palais Garnier en décembre. Cette pièce a été imaginée sur une musique de Max Richter, quarante-deux ans après sa toute première création pour cette institution.",
+      "contexte": "Ce retour met en lumière la longévité artistique exceptionnelle de cette grande dame de la danse post-moderne, dont l'œuvre a marqué durablement le paysage chorégraphique international. Collaborer de nouveau avec l'Opéra de Paris témoigne de la permanence de son influence artistique.",
+      "image": "https://www.franceinfo.fr/pictures/ASbtdEnVQRgOo6rt3EHCdBJtT64/0x187:3505x2159/432x243/filters:format(jpg)/2026/11/25/6b0718710a221182019264.jpg"
+    },
+    {
+      "titre": "Le Hamas affirme qu'Israël a essayé de tuer le fils de son chef",
+      "lien": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/le-hamas-affirme-qu-israel-a-essaye-de-tuer-le-fils-de-son-chef_8304414.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-28T11:24:00+01:00",
+      "resume": "Le mouvement palestinien Hamas a affirmé qu'Israël avait tenté de tuer le fils de son chef. Interrogée par l'AFP à ce sujet, l'armée israélienne a indiqué qu'elle enquêtait sur ces allégations.",
+      "contexte": "Ce type d'accusation intervient dans le climat de guerre ouverte et d'assassinats ciblés qui caractérise le conflit israélo-palestinien. Les commandants et proches de responsables de mouvements armés font régulièrement l'objet d'opérations militaires dont la vérification des détails précis reste difficile à l'échelon immédiat.",
+      "image": "https://www.franceinfo.fr/pictures/ps5kA49wsvku3mxvUZnYHXYOQsA/0x700:6720x4480/432x243/filters:format(jpg)/2026/11/28/6b0a9c2bd38d7912969052.jpg"
+    },
+    {
+      "titre": "L'agence de notation Standard & Poor's menace de dégrader prochainement la note de la France",
+      "lien": "https://www.franceinfo.fr/economie/budget/l-agende-de-notation-standard-poor-s-menace-de-degrader-prochainement-la-note-de-la-france_8302788.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-28T11:23:44+01:00",
+      "resume": "L'agence de notation Standard & Poor's menace de dégrader prochainement la note souveraine de la France, une décision qui s'explique notamment par des perspectives de croissance en berne face au niveau de la dette. Cette perspective a suscité des réactions politiques, le président LFI de la commission des finances de l'Assemblée nationale, Eric Coquerel, imputant cette situation à la politique économique des gouvernements successifs d'Emmanuel Macron.",
+      "contexte": "Une menace de dégradation par une agence de notation peut alourdir le coût d'emprunt d'un État sur les marchés financiers en augmentant les taux d'intérêt de la dette publique. C'est un sujet de vifs débats politiques en France, où l'opposition critique régulièrement la gestion des finances publiques et les choix budgétaires de l'exécutif.",
+      "image": "https://www.franceinfo.fr/pictures/Rn5auGxg8MGwCR-59Rq4zWj7kDw/0x165:4847x2892/432x243/filters:format(jpg)/2026/11/27/6b0952d52c041720753127.jpg"
+    },
+    {
+      "titre": "Dieudonné interdit de scène dans toute l'agglomération parisienne en décembre",
+      "lien": "https://www.franceinfo.fr/societe/justice/dieudonne/dieudonne-interdit-de-scene-dans-toute-l-agglomeration-parisienne-en-decembre_8304396.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-28T11:20:51+01:00",
+      "resume": "La préfecture de police de Paris a prononcé une interdiction de scène à l'encontre de Dieudonné pour l'ensemble de l'agglomération parisienne au cours du mois de décembre. Cette décision emboîte le pas à des mesures similaires prises dans plusieurs départements du Sud-Ouest, où ses représentations avaient déjà été bannies, y compris lorsqu'elles prenaient la forme de 'meetings' du chanteur Francis Lalanne, candidat à l'élection présidentielle.",
+      "contexte": "Ces interdictions administratives sont généralement motivées par les risques de trouble à l'ordre public et les condamnations judiciaires répétées de l'intéressé pour des propos antisémites ou haineux. Les autorités usent ainsi de leur pouvoir de police pour empêcher la tenue de spectacles jugés contraires aux lois et aux valeurs de la République.",
+      "image": "https://www.franceinfo.fr/pictures/m_JRMDvOEGjaPLhccYLfDoWvf5E/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/28/6b0aa63c54556812194753.jpg"
+    },
+    {
+      "titre": "Inauguré par de Gaulle il y a 60 ans, le barrage de la Rance reste une exception dans le paysage énergétique français",
+      "lien": "https://www.franceinfo.fr/environnement/energie/reportage-inaugure-par-de-gaulle-il-y-a-60-ans-le-barrage-de-la-rance-reste-une-exception-dans-le-paysage-energetique-francais_8303355.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "date": "2026-11-28T11:14:46+01:00",
+      "resume": "Inauguré par le général de Gaulle en novembre 1966, le barrage de la Rance près de Saint-Malo, en Ille-et-Vilaine, continue de produire de l'électricité grâce à l'énergie des marées. Soixante ans plus tard, cet ouvrage reste une exception notable dans le paysage énergétique français où l'énergie houlomotrice ou maremotrice demeure très peu développée.",
+      "contexte": "Bien que la France dispose de vastes façades maritimes propices au développement des énergies marines renouvelables, les coûts d'installation élevés, les contraintes techniques complexes et l'impact environnemental local expliquent en grande partie la rareté de projets d'envergure similaires depuis la construction de la Rance.",
+      "image": "https://www.franceinfo.fr/pictures/sOiUQdUcwWyQgmmTI2hhNDnUBvA/0x226:4300x2644/432x243/filters:format(jpg)/2026/11/27/6b09ae2560587203305052.jpg"
+    }
+  ],
+  "culture": [
+    {
+      "theme": "santé et corps humain",
+      "titre": "Le rôle fascinant du sérum sanguin",
+      "texte": "Le sérum est la partie liquide du sang qui ne contient ni cellules sanguines ni facteurs de coagulation, comme le fibrinogène. Il est obtenu après qu'un échantillon de sang a coagulé et que les éléments solides ont été retirés par centrifugation. Le sérum est particulièrement riche en protéines, en anticorps et en électrolytes indispensables au bon fonctionnement de l'organisme. Il est largement utilisé en laboratoire pour des analyses médicales variées et pour produire des vaccins ou des antivenins. Cette substance transparente et jaunâtre joue ainsi un rôle crucial dans le diagnostic et le traitement de nombreuses maladies.",
+      "a_retenir": "Le sérum sanguin est le liquide obtenu après coagulation du sang, dépourvu de cellules et de facteurs de coagulation, et riche en anticorps.",
+      "image": ""
+    },
+    {
+      "theme": "arts et littérature",
+      "titre": "L'art de la nature morte",
+      "texte": "La nature morte est un genre artistique qui représente des objets inanimés, souvent des fruits, des fleurs, de la vaisselle ou du gibier. Très populaire dans la peinture occidentale, ce genre permettait aux artistes de démontrer leur maîtrise technique dans le rendu des textures, des lumières et des volumes. Au-delà de la simple observation, les natures mortes cachent souvent un sens symbolique, rappelant la fragilité de la vie humaine et le temps qui passe. Les peintres flamands et hollandais du XVIIe siècle ont particulièrement excellé dans cet art en y ajoutant des messages philosophiques discrets. Aujourd'hui, ce genre continue d'inspirer les créateurs sous des formes modernes et variées.",
+      "a_retenir": "La nature morte met en scène des objets inanimés tout en exprimant souvent une réflexion symbolique sur le temps qui passe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Vincent_Willem_van_Gogh_128.jpg/960px-Vincent_Willem_van_Gogh_128.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "theme": "économie",
+      "titre": "Le fonctionnement du troc",
+      "texte": "Le troc est un système d'échange dans lequel des biens ou des services sont directement négociés contre d'autres, sans l'intermédiaire de la monnaie. Bien qu'il soit souvent présenté comme l'ancêtre du commerce moderne, les historiens soulignent qu'il a surtout existé entre des communautés différentes ou en période de crise monétaire. Sa principale limite est la nécessité d'une double coïncidence des besoins, c'est-à-dire que chaque partie doit désirer ce que l'autre propose. Malgré l'omniprésence de l'argent et des monnaies électroniques, le troc subsiste encore aujourd'hui sous des formes modernisées. Il revient parfois sur le devant de la scène lors de difficultés économiques ou au sein de réseaux d'échanges locaux.",
+      "a_retenir": "Le troc permet l'échange direct de biens et de services sans monnaie, mais nécessite une parfaite concordance des besoins entre les participants.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Le_troc.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    }
+  ],
+  "quiz_jour": []
 }
